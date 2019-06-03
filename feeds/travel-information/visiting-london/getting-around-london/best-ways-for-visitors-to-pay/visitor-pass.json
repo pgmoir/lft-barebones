@@ -1,0 +1,145 @@
+{
+ "pageTitle": "Visitor Pass",
+ "keywords": "TfL,Visitor, London, Travel, Visiting London, visitor fares, visitor tickets, visit London, Visitor Pass, Transport for London",
+ "description": "Find out about our new Visitor Pass which gives you the choice to buy a 2 Day or 3 Day pass to travel off-peak in Zones 1-6 around London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Visiting London",
+   "url": "/travel-information/visiting-london/index"
+  },
+  {
+   "title": "Getting around London",
+   "url": "/travel-information/visiting-london/getting-around-london"
+  },
+  {
+   "title": "Best ways for visitors to pay",
+   "url": "/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay"
+  },
+  {
+   "title": "Visitor Pass"
+  }
+ ],
+ "title": {
+  "title": "Visitor Pass",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Whether it's your first time visiting London, or you've been before, our new Visitor Pass gives you the freedom to travel as much as you want on bus, Tube, tram, DLR, London Overground and TfL Rail.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why buy a Visitor Pass?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can buy a 2 Day or 3 Day Visitor Pass for unlimited off-peak travel in \\u003ca href=\\\"http://content.tfl.gov.uk/standard-tube-map.pdf\\\"\\u003eZones 1-6\\u003c/a\\u003e \",\"You don't need to pre-order, you can buy your Visitor Pass at a number of Tube stations and Visitor Centres across London, or you can buy it one week in advance from Visitor Centres\",\"You don't need to top up your Visitor Pass, once you've bought it, you can travel as much as you want\",\"If you're \\u003ca href=\\\"/travel-information/visiting-london/getting-to-london/london-airports\\\"\\u003etravelling to London from Heathrow Airport\\u003c/a\\u003e , your Visitor Pass is valid for travel on TfL Rail to Paddington station\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buying your pass\"}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/visitor-pass_rdax_400x250.jpg\",\"alt\":\"Hand holding a Visitor Pass with Big Ben, the Houses of Parliament and a London bus in the background.\"},\"wrapped\":false}",
+     "Our Visitor Pass is available for adults and children (age 11-15):",
+     "{\"template\":\"bulletlist\",\"items\":[\"2 Day Adult - £25.40\",\"2 Day Child - £12.60\",\"3 Day Adult - £38.10\",\"3 Day Child - £18.90\"]}",
+     "You can buy your pass at a number of \u003ca href=\"/modes/tube/index\"\u003eTube stations\u003c/a\u003e and \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-centres\"\u003eVisitor Centres\u003c/a\u003e :",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eTube stations\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eVisitor Centres\\u003c/strong\\u003e \"],[\"Baker Street\",\"Heathrow Terminals 2 \\u0026 3\"],[\"Bayswater\",\"King's Cross\"],[\"Earl's Court\",\"Liverpool Street\"],[\"Euston\",\"Paddington\"],[\"Gloucester Road\",\"Piccadilly Circus\"],[\"Heathrow Terminals 2 \\u0026 3\",\"Victoria\"],[\"Heathrow Terminal 4\",\"\"],[\"King's Cross\",\"\"],[\"Liverpool Street\",\"\"],[\"London Bridge\",\"\"],[\"Marble Arch\",\"\"],[\"Paddington\",\"\"],[\"Queensway\",\"\"],[\"Russell Square\",\"\"],[\"South Kensington\",\"\"],[\"Victoria\",\"\"],[\"Waterloo\",\"\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Off-peak travel\"}",
+     "Your Visitor Pass is only valid for off-peak travel which starts from 09:30 Monday to Friday, and for journeys starting before 04:30 the following day. It's also valid anytime on Saturdays, Sundays and bank holidays.",
+     "You can travel in Zones 1-6 on each day from the start date printed on your pass, to the expiry date.",
+     "Your Visitor Pass isn't valid for travel, or to buy discounted fares on National Rail, \u003ca href=\"/modes/emirates-air-line/index\"\u003eEmirates Air Line\u003c/a\u003e or \u003ca href=\"/modes/river/about-river-bus\"\u003eRiver Bus services\u003c/a\u003e .",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Sights to see\",\"texts\":[\"Read about nine great things to see when visiting London for the first time\"],\"link\":{\"url\":\"https://londonblog.tfl.gov.uk/2018/06/25/9-great-things-to-see-when-visiting-london-for-the-first-time/\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/history-musuem-whale_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Ways to pay for visitors\",\"texts\":[\"Find out about other ways you can pay for travel when you visit London\"],\"link\":{\"url\":\"/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/009-visiting-london-visitor-oyster_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"title\":\"Experience London blog\",\"links\":[{\"title\":\"Read our blog\",\"url\":\"https://londonblog.tfl.gov.uk/\",\"icon\":\"external\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Getting around London",
+    "links": [
+     {
+      "title": "Visitor Oyster card",
+      "url": "/travel-information/visiting-london/visitor-oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Experience London",
+      "url": "/travel-information/visiting-london/experience-london",
+      "image": {}
+     },
+     {
+      "title": "Getting to London",
+      "url": "/travel-information/visiting-london/getting-to-london",
+      "image": {}
+     },
+     {
+      "title": "Visitor information",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-information",
+      "image": {}
+     },
+     {
+      "title": "Best ways for visitors to pay",
+      "url": "/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay",
+      "image": {}
+     },
+     {
+      "title": "Visitor Pass",
+      "url": "/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay/visitor-pass",
+      "image": {}
+     },
+     {
+      "title": "Visitor maps",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-maps",
+      "image": {}
+     },
+     {
+      "title": "Visitor Centres",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-centres",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Getting around London",
+     "url": "/travel-information/visiting-london/getting-around-london/visitor-centres",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

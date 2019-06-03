@@ -1,0 +1,124 @@
+{
+ "pageTitle": "London Transport Surveys",
+ "keywords": "TfL",
+ "description": "TfL's customer satisfaction surveys are part of a suite of surveys with global participation, comparing benchmarks across national transport providers",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "London Transport Surveys"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "London Transport Surveys",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/london-skyline.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "title": "We want to understand more about your experience of travelling in London. Tell us what you think and help us improve our services.",
+    "texts": [
+     "We'd really appreciate you taking a few minutes to complete these surveys. Your personal details and responses will remain confidential and will not be used for any other purpose."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "DLR",
+    "texts": [
+     "Tell us what you think about the DLR. Take the survey"
+    ],
+    "link": {
+     "url": "https://www.surveymonkey.co.uk/r/LondonDLR",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/london-audience-dlr_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-overground",
+    "title": "London Overground",
+    "texts": [
+     "Tell us what you think about London Overground. Take the survey"
+    ],
+    "link": {
+     "url": "https://www.surveymonkey.co.uk/r/LondonOverground",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x001-00106-overground-platform_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-bus",
+    "title": "Buses",
+    "texts": [
+     "Tell us what you think about London's buses. Take the survey"
+    ],
+    "link": {
+     "url": "https://www.surveymonkey.co.uk/r/London_Buses",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/7350-bus-live-bus-arrivals_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-tube",
+    "title": "London Underground",
+    "texts": [
+     "Tell us what you think about the Tube. Take the survey"
+    ],
+    "link": {
+     "url": "https://www.surveymonkey.co.uk/r/LondonUnderground-CoMET",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/t001-04005-tube-mind-the-gap_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

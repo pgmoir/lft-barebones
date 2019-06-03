@@ -1,0 +1,54 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+    title: { title: 'Products' }, 
+    breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Admin', url: '/admin/products' }, { title: 'Products' } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+    <div class="container-lft">
+
+        <div class="row">
+            <div class="col-12 mb-3 d-flex justify-content-end">
+                <a href="/admin/add-product" class="btn btn-secondary">Add new product</a>
+            </div>
+        </div>
+
+        <% if (products.length > 0) { %>
+            <div class="row">
+                <% for (let product of products) { %>
+                <div class="col-12 col-sm-6 col-md-4 mb-3">
+                    <article class="card">
+                        <div class="card-header"><%= product.title %></div>
+                        <img class="card-img" src="<%= product.imageUrl %>" alt="<%= product.title %>" role="presentation">
+                        <div class="card-body">
+                            <h3 class="card-title h5">&pound;<%= Number(product.price).toFixed(2) %></h3>
+                            <p class="card-text"><%= product.description %></p>
+                            <a href="/admin/edit-product/<%= product._id %>?edit=true" class="btn btn-primary">Edit</a>
+                            <!--<form action="/admin/delete-product" method="POST" class="d-inline">
+                                <input type="hidden" name="productId" value="<%= product._id %>">
+                                <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                                <button class="btn btn-secondary" type="submit">Delete</button>
+                            </form>-->
+                            <input type="hidden" name="productId" value="<%= product._id %>">
+                            <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                            <button class="btn btn-secondary" type="button" onclick="deleteProduct(this)">Delete</button>
+                        </div>
+                    </article>
+                </div>
+                <% } %>
+            </div>
+            <%- include('../includes/pagination.ejs', pagination) %>
+        <% } else { %>
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <h3>No Products Found!</h3>
+                </div>
+            </div>
+        <% } %>
+
+    </div>
+</section>
+
+<%- include('../includes/foot') %>
+<script src="/js/admin.js"></script>

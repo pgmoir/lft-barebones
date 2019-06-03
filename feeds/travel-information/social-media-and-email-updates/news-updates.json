@@ -1,0 +1,125 @@
+{
+ "pageTitle": "News updates",
+ "keywords": "Public,TfL",
+ "description": "Latest news plus travel advice, trivia and competitions on social media",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates",
+   "url": "/travel-information/social-media-and-email-updates/index"
+  },
+  {
+   "title": "News updates"
+  }
+ ],
+ "title": {
+  "title": "News updates",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Keep updated with the latest news about the Capital's transport network plus travel advice, trivia and competitions.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Follow us on Facebook, Twitter and YouTube to receive regular updates.",
+     "If you want to tag us in your updates, use #TransportforLondon.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@TfL\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLTravelAlerts\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Social media \u0026 email updates",
+    "links": [
+     {
+      "title": "Travel alerts on Twitter",
+      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
+      "image": {}
+     },
+     {
+      "title": "Email updates",
+      "url": "/travel-information/social-media-and-email-updates/email-updates",
+      "image": {}
+     },
+     {
+      "title": "News updates",
+      "url": "/travel-information/social-media-and-email-updates/news-updates",
+      "image": {}
+     },
+     {
+      "title": "Careers updates",
+      "url": "/travel-information/social-media-and-email-updates/careers-updates",
+      "image": {}
+     },
+     {
+      "title": "Culture \u0026 heritage updates",
+      "url": "/travel-information/social-media-and-email-updates/culture-and-heritage-updates",
+      "image": {}
+     },
+     {
+      "title": "Journey alerts",
+      "url": "/travel-information/social-media-and-email-updates/journey-alerts",
+      "image": {}
+     },
+     {
+      "title": "Facebook TravelBot",
+      "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Social media \u0026 email updates",
+     "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

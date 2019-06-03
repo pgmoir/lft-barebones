@@ -1,0 +1,161 @@
+{
+ "pageTitle": "Visitor Oyster card",
+ "keywords": "TfL",
+ "description": "Using a Visitor Oyster card in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Visiting London",
+   "url": "/travel-information/visiting-london/index"
+  },
+  {
+   "title": "Visitor Oyster card"
+  }
+ ],
+ "title": {
+  "title": "Visitor Oyster card",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A Visitor Oyster card is a quick and easy way to pay for travel on public transport in London. Buy your card before you leave home and save money with special offers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/visitor-oyster-card-cut-out_rdax_400x250.jpg\",\"alt\":\"Visitor Oyster card cut-out image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What is a Visitor Oyster card?\"}",
+     "A Visitor Oyster card is a smartcard. It's a quick and easy way to pay for journeys on bus, Tube, tram, DLR, London Overground, TfL Rail, River Bus and most National Rail services in London.",
+     "Put money on your Visitor Oyster card and use it to pay as you go.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why buy a Visitor Oyster card?\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Save time\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buy a Visitor Oyster card before you leave home and have it delivered to you.\",\"Your card is ready to go as soon as you arrive in London, so no queuing at stations.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Great value\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pay as you go fares are cheaper than buying a paper single ticket or Day Travelcard.\",\"Your Visitor Oyster card offers daily capping. This means you can travel as much as you like in a single day and the amount you pay for your travel is limited (or capped). \\u003ca href=\\\"http://content.tfl.gov.uk/adult-fares-2018.pdf\\\"\\u003eFind prices for daily capping and Day Travelcards\\u003c/a\\u003e .\",\"Use your card and save money with \\u003ca href=\\\"/travel-information/visiting-london/experience-london/special-offers\\\"\\u003especial offer and discounts\\u003c/a\\u003e at restaurants, shops, galleries and entertainment venues.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On Tube, DLR, London Overground, TfL Rail and most National Rail services in London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Touch your Visitor Oyster card flat on a yellow card reader when you enter a station to start a journey\",\"At the end of your journey, touch your card flat on the yellow card reader as you leave the station; this means you'll be charged the correct fare for the journey you've taken\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On bus and tram services\"}",
+     "\u003cstrong\u003eOnly\u003c/strong\u003e touch your Visitor Oyster card on the yellow card reader at the\u003cstrong\u003e start \u003c/strong\u003e of your journey. Don't touch out when you get off a bus or tram, or you will be issued with a penalty fare.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On the Thames Clippers River Bus services\"}",
+     "Only\u003cstrong\u003etouch in\u003c/strong\u003e with your Visitor Oyster card on the yellow card reader when asked to do so by a member of staff and remember to\u003cstrong\u003e touch out \u003c/strong\u003e again at the end of your journey.",
+     "You can't top up pay as you go credit on your Visitor Oyster card at the pier, so make sure you have enough credit before you travel.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much does a Visitor Oyster card cost?\"}",
+     "A Visitor Oyster card costs £5 (plus postage) and is\u003cstrong\u003epre-loaded with pay as you go credit\u003c/strong\u003e for you to spend on travel. You can choose how much credit to add to your card: £10, £15, £20, £25, £30, £35, £40 or £50.",
+     "The credit on your card never expires - it stays there until you use it. If you run out of credit on your card, it's easy to top it up and use it again.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How much pay as you go credit to add?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you're\\u003cstrong\\u003evisiting London for two days\\u003c/strong\\u003e , start with\\u003cstrong\\u003e£15 credit\\u003c/strong\\u003e .\",\"If you're\\u003cstrong\\u003evisiting London for four days\\u003c/strong\\u003e , start with\\u003cstrong\\u003e£30 credit\\u003c/strong\\u003e .\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pay as you go fares\"}",
+     "\u003cstrong\u003eTube, DLR, London Overground, TfL Rail and National Rail services\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Check the single fare finder to find the cost of a journey between two stations (e.g. from Heathrow Airport to Piccadilly Circus)\",\"For pay as you go caps and Travelcard prices, check the \\u003ca href=\\\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares\\\"\\u003efares table\\u003c/a\\u003e \"]}",
+     "\u003cstrong\u003eBus and tram services\u003c/strong\u003e ",
+     "On buses and trams an adult single pay as you go fare is £1.50 and the daily fare cap is £4.50. You can't use cash to pay for your bus fare.",
+     "\u003cstrong\u003eTrains to/from Gatwick Airport\u003c/strong\u003e ",
+     "You can use pay as you go using your Visitor Oyster card on National Rail services between Gatwick Airport and central London, including Gatwick Express services:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A single journey on Gatwick Express costs £19.80 at all times\",\"A single journey on Southern or Thameslink train services to/from central London costs £14.20 at peak times and £8.10 at off-peak times\"]}",
+     "\u003cstrong\u003eThames Clippers river bus services/Emirates Air Line cable car\u003c/strong\u003e ",
+     "River buses and the Emirates Air Line cable car are great ways to explore London.",
+     "You can pay as you go using your Visitor Oyster card on Thames Clippers river bus services. \u003ca href=\"/modes/river/about-river-bus\"\u003eFind out more.\u003c/a\u003e ",
+     "Your Visitor Oyster card is accepted on the Emirates Air Line cable car. Pay as you go fares are up to 26% cheaper than buying a paper single ticket. Find out more about \u003ca href=\"/modes/emirates-air-line/index\"\u003eEmirates Air Line cable car\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Top up - add more credit to your card\"}",
+     "If you run out of credit on your Visitor Oyster card, it's easy to\u003cstrong\u003etop it up\u003c/strong\u003e at:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tube, DLR, London Overground, TfL Rail and most National Rail stations\",\"Over 4,000 local shops in London called Oyster Ticket Stops - \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003efind your nearest one \\u003c/a\\u003e \",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cancelling your card\"}",
+     "If you'd like to cancel your Visitor Oyster card before you've used it, you can ask for a refund by emailing \u003ca href=\"mailto:tflenquiries@visitbritainshop.com\"\u003etflenquiries@visitbritainshop.com\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Unused credit on your Visitor Oyster card\"}",
+     "The pay as you go credit on your Visitor Oyster card never expires so you can keep your card until your next visit, or lend it to family and friends.",
+     "If you don't need your Visitor Oyster card, you can \u003ca href=\"/fares-and-payments/fares2018/refunds-and-replacements/visitor-oyster-credit-no-longer-needed\"\u003eget the remaining credit refunded\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lost or stolen Visitor Oyster card?\"}",
+     "You can't get a refund for any credit on your Visitor Oyster card if it's lost or stolen.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelling with children\"}",
+     "Children\u003cstrong\u003eunder 11\u003c/strong\u003e travel free on buses and trams. Children under 11 also travel free on Tube, DLR, London Overground, TfL Rail and some National Rail services when accompanied by a fare-paying adult (up to four children per adult).",
+     "If you're travelling with children\u003cstrong\u003eaged 11-15\u003c/strong\u003e , \u003ca href=\"http://visitorshop.tfl.gov.uk/tfl/london-visitor-oyster-card/\"\u003ebuy a Visitor Oyster card\u003c/a\u003e before you leave home and, when you arrive in London, you can ask a member of our staff to add a Young Visitor discount to a Visitor Oyster card at:",
+     "{\"template\":\"bulletlist\",\"items\":[\"most Tube stations\",\"our \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003e8 Visitor Centres\\u003c/a\\u003e \",\"Victoria National Rail station ticket office\"]}",
+     "The Young Visitor discount gives your child\u003cstrong\u003ehalf adult rate\u003c/strong\u003e pay as you go discount for up to 14 days.",
+     "You can also \u003ca href=\"http://visitorshop.tfl.gov.uk/\"\u003ebuy child Travelcards online\u003c/a\u003e for children aged 11-15.\u003cbr /\u003e\u003cbr /\u003e \u003ca href=\"/fares-and-payments/fares2018/free-and-discounted-travel\"\u003eFind out more about travelling with children\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Special offers and discounts\"}",
+     "With your Visitor Oyster card you can enjoy\u003cstrong\u003especial offers and discounts \u003c/strong\u003e and save money in leading London restaurants, shops and entertainment venues - plus discounts on the \u003ca href=\"/modes/emirates-air-line/index\"\u003eEmirates Air Line cable car\u003c/a\u003e .",
+     "Find out more about \u003ca href=\"/travel-information/visiting-london/experience-london/special-offers\"\u003eVisitor Oyster card special offers\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where to buy a Visitor Oyster card\"}",
+     "You can't buy a Visitor Oyster card in London.",
+     "Go to \u003ca href=\"https://visitorshop.tfl.gov.uk/tfl/london-visitor-oyster-card/\"\u003evisitorshop.tfl.gov.uk\u003c/a\u003e to buy your card before you leave home and it will be delivered to your home address.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"No time to buy online?\"}",
+     "If you don't have time to buy your card online, you can also buy a Visitor Oyster card before arriving in London from \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster\"\u003edifferent locations in the UK\u003c/a\u003e and \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/buying-tickets-and-oyster/buying-tickets-from-abroad\"\u003eoverseas\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Visitor Oyster card leaflets\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Chinese\",\"url\":\"/cdn/static/cms/documents/voc-chinese.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.53MB\",\"image\":{}},{\"title\":\"Dutch\",\"url\":\"/cdn/static/cms/documents/voc-dutch.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.10MB\",\"image\":{}},{\"title\":\"English\",\"url\":\"/cdn/static/cms/documents/voc-english.pdf\",\"icon\":\"download\",\"size\":\"PDF 981KB\",\"image\":{}},{\"title\":\"French\",\"url\":\"/cdn/static/cms/documents/voc-french.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.10MB\",\"image\":{}},{\"title\":\"German\",\"url\":\"/cdn/static/cms/documents/voc-german.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.25MB\",\"image\":{}},{\"title\":\"Italian\",\"url\":\"/cdn/static/cms/documents/voc-italian.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.23MB\",\"image\":{}},{\"title\":\"Japanese\",\"url\":\"/cdn/static/cms/documents/voc-japanese.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.21MB\",\"image\":{}},{\"title\":\"Korean\",\"url\":\"/cdn/static/cms/documents/voc-korean.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.05MB\",\"image\":{}},{\"title\":\"Portuguese\",\"url\":\"/cdn/static/cms/documents/voc-portuguese.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.50MB\",\"image\":{}},{\"title\":\"Russian\",\"url\":\"/cdn/static/cms/documents/voc-russian.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.11MB\",\"image\":{}},{\"title\":\"Spanish\",\"url\":\"/cdn/static/cms/documents/voc-spanish.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.11MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Visiting London",
+    "links": [
+     {
+      "title": "Visitor Oyster card",
+      "url": "/travel-information/visiting-london/visitor-oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Experience London",
+      "url": "/travel-information/visiting-london/experience-london",
+      "image": {}
+     },
+     {
+      "title": "Getting to London",
+      "url": "/travel-information/visiting-london/getting-to-london",
+      "image": {}
+     },
+     {
+      "title": "Getting around London",
+      "url": "/travel-information/visiting-london/getting-around-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Visiting London",
+     "url": "/travel-information/visiting-london/getting-around-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

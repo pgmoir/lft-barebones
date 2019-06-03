@@ -1,0 +1,695 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - List Group' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - List Group' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+
+  <p class="lead">The list group is an extension to the standard list group component in Bootstrap, fed by a javascript object of either card or o object, which contains at the minimum an array of links.</p>
+
+    <h3 class="h2">Basic list group</h3>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Text list with no card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocard', links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocard" style list group with a plain 1px border and no links. They require style to be set to "nocard".</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocard', links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;ul class="list-group mb-3"&gt;
+  &lt;li class="list-group-item"&gt;First link&lt;/li&gt;
+  &lt;li class="list-group-item"&gt;Second link&lt;/li&gt;
+  &lt;li class="list-group-item"&gt;Third link&lt;/li&gt;
+&lt;/ul&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list with no card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocard', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocard" style list group with a plain 1px border and includes links. They require url to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocard', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;ul class="list-group mb-3"&gt;
+  &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;First link&lt;/a&gt;&lt;/li&gt;
+  &lt;li class="list-group-item"&gt;&lt;a href="/second"&gt;Second link&lt;/a&gt;&lt;/li&gt;
+  &lt;li class="list-group-item"&gt;&lt;a href="/third"&gt;Third link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+    
+    <div class="row">
+      <h4 class="col-12">Link list and icons with no card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocard', links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocard" style list group with a plain 1px border and includes icons. They require icon to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocard', links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;ul class="list-group mb-3"&gt;
+  &lt;li class="list-group-item "&gt;
+    &lt;a href="/" class="d-flex align-items-center"&gt;
+      &lt;div class="w-100 pr-2"&gt;First link&lt;/div&gt;
+      &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="list-group-item "&gt;
+    &lt;a href="/second" class="d-flex align-items-center"&gt;
+      &lt;div class="w-100 pr-2"&gt;Second link&lt;/div&gt;
+      &lt;div class="svgpost svgicon-external flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="list-group-item "&gt;
+    &lt;a href="/third" class="d-flex align-items-center"&gt;
+      &lt;div class="w-100 pr-2"&gt;Third link&lt;/div&gt;
+      &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</code></pre></div></div>
+        </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icons/size with no card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocard', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocard" style list group with a plain 1px border and includes size. They require size to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocard', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;ul class="list-group mb-3"&gt;
+  &lt;li class="list-group-item "&gt;
+    &lt;a href="/" class="d-flex align-items-center"&gt;
+      &lt;div class="w-100 pr-2"&gt;First link (PDF 24kb)&lt;/div&gt;
+      &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="list-group-item "&gt;
+    &lt;a href="/second" class="d-flex align-items-center"&gt;
+      &lt;div class="w-100 pr-2"&gt;Second link (PDF 138kb)&lt;/div&gt;
+      &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li class="list-group-item "&gt;
+    &lt;a href="/third" class="d-flex align-items-center"&gt;
+      &lt;div class="w-100 pr-2"&gt;Third link (PDF 3Mb)&lt;/div&gt;
+      &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <h3 class="h2">Card list group with nocardbody</h3>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Text list with nocardbody format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocardbody" style list group with a bottom border and no links. They require style to be set to "nocardbody".</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;ul class="list-group list-group-flush"&gt;
+    &lt;li class="list-group-item"&gt;First link&lt;/li&gt;
+    &lt;li class="list-group-item"&gt;Second link&lt;/li&gt;
+    &lt;li class="list-group-item"&gt;Third link&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list with nocardbody format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocardbody" style list group with a bottom border and includes links. They require url to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;ul class="list-group list-group-flush"&gt;
+    &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;First link&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;a href="/second"&gt;Second link&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;a href="/third"&gt;Third link&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icons with nocardbody format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocardbody" style list group with a bottom border and includes icons. They require icon to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;ul class="list-group list-group-flush"&gt;
+    &lt;li class="list-group-item "&gt;
+      &lt;a href="/" class="d-flex align-items-center"&gt;
+        &lt;div class="w-100 pr-2"&gt;First link&lt;/div&gt;
+        &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="list-group-item "&gt;
+      &lt;a href="/second" class="d-flex align-items-center"&gt;
+        &lt;div class="w-100 pr-2"&gt;Second link&lt;/div&gt;
+        &lt;div class="svgpost svgicon-external flex-shrink-1"&gt;&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="list-group-item "&gt;
+      &lt;a href="/third" class="d-flex align-items-center"&gt;
+        &lt;div class="w-100 pr-2"&gt;Third link&lt;/div&gt;
+        &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icons/size with nocardbody format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "nocardbody" style list group with a bottom border and includes size. They require size to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'nocardbody', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } })</code></div></div>
+                <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;ul class="list-group list-group-flush"&gt;
+    &lt;li class="list-group-item "&gt;
+      &lt;a href="/" class="d-flex align-items-center"&gt;
+        &lt;div class="w-100 pr-2"&gt;First link (PDF 24kb)&lt;/div&gt;
+        &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="list-group-item "&gt;
+      &lt;a href="/second" class="d-flex align-items-center"&gt;
+        &lt;div class="w-100 pr-2"&gt;Second link (PDF 138kb)&lt;/div&gt;
+        &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li class="list-group-item "&gt;
+      &lt;a href="/third" class="d-flex align-items-center"&gt;
+        &lt;div class="w-100 pr-2"&gt;Third link (PDF 3Mb)&lt;/div&gt;
+        &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <h3 class="h2">Basic list group in card</h3>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Text list with card noflush format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'noflush', links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "noflush" style list group with a plain 1px border in card and no links. They require style to be set to "noflush".</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'noflush', links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;ul class="list-group"&gt;
+      &lt;li class="list-group-item"&gt;First link&lt;/li&gt;
+      &lt;li class="list-group-item"&gt;Second link&lt;/li&gt;
+      &lt;li class="list-group-item"&gt;Third link&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list with card noflush format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'noflush', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "noflush" style list group with a plain 1px border in card and includes links. They require url to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'noflush', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;ul class="list-group"&gt;
+      &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;First link&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="list-group-item"&gt;&lt;a href="/second"&gt;Second link&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="list-group-item"&gt;&lt;a href="/third"&gt;Third link&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icons with noflush card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'noflush', links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "noflush" style list group with a plain 1px border in card and includes icons. They require icon to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'noflush', links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;ul class="list-group"&gt;
+      &lt;li class="list-group-item "&gt;
+        &lt;a href="/" class="d-flex align-items-center"&gt;
+          &lt;div class="w-100 pr-2"&gt;First link&lt;/div&gt;
+          &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class="list-group-item "&gt;
+        &lt;a href="/second" class="d-flex align-items-center"&gt;
+          &lt;div class="w-100 pr-2"&gt;Second link&lt;/div&gt;
+          &lt;div class="svgpost svgicon-external flex-shrink-1"&gt;&lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class="list-group-item "&gt;
+        &lt;a href="/third" class="d-flex align-items-center"&gt;
+          &lt;div class="w-100 pr-2"&gt;Third link&lt;/div&gt;
+          &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icons/size with noflush card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'noflush', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is a "noflush" style list group with a plain 1px border in card and includes size. They require size to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'noflush', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;ul class="list-group"&gt;
+      &lt;li class="list-group-item "&gt;
+        &lt;a href="/" class="d-flex align-items-center"&gt;
+          &lt;div class="w-100 pr-2"&gt;First link (PDF 24kb)&lt;/div&gt;
+          &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class="list-group-item "&gt;
+        &lt;a href="/second" class="d-flex align-items-center"&gt;
+          &lt;div class="w-100 pr-2"&gt;Second link (PDF 138kb)&lt;/div&gt;
+          &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class="list-group-item "&gt;
+        &lt;a href="/third" class="d-flex align-items-center"&gt;
+          &lt;div class="w-100 pr-2"&gt;Third link (PDF 3Mb)&lt;/div&gt;
+          &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <h3 class="h2">Default list group in card with no style defined</h3>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Text list with default card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and no links. No style should be set.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+      &lt;li class="list-group-item"&gt;First link&lt;/li&gt;
+      &lt;li class="list-group-item"&gt;Second link&lt;/li&gt;
+      &lt;li class="list-group-item"&gt;Third link&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list with default card format including title</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { title: 'This card includes a title', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes links. They require url and title to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { title: 'This card includes a title', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;h3 class="card-title h5"&gt;This card includes a title&lt;/h3&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;First link&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="list-group-item"&gt;&lt;a href="/second"&gt;Second link&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="list-group-item"&gt;&lt;a href="/third"&gt;Third link&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icon with default card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes icons. They require icon to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;First link&lt;/div&gt;
+            &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/second" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Second link&lt;/div&gt;
+            &lt;div class="svgpost svgicon-external flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/third" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Third link&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icon/size with default card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes size. They require size to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;First link (PDF 24kb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/second" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Second link (PDF 138kb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/third" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Third link (PDF 3Mb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Link list and icon/size AND images with default card format</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb', image: { url: 'https://tfl.gov.uk/cdn/static/cms/images/cs11-swiss-cottage-layout-thumb.jpg', alt: 'Detail of final layout plan for CS11 at Swiss Cottage'} }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes size. They require size to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb', image: { url: 'https://tfl.gov.uk/cdn/static/cms/images/cs11-swiss-cottage-layout-thumb.jpg', alt: 'Detail of final layout plan for CS11 at Swiss Cottage'} }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;First link (PDF 24kb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/second" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Second link (PDF 138kb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/third" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Third link (PDF 3Mb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <h3 class="h2">Default folder navigation list group</h3>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Text list with folder navigation card format (invalid scenario)</h4>
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'foldernav', link: { url: '/fnlink', title: 'Title here is a link' }, links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and no links. They require style to be set to "noflush".</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'foldernav', title: 'Title here if not a link', link: { url: '/fnlink', title: 'Title here if link' }, links: [ { title: 'First link' }, { title: 'Second link' }, { title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;h3 class="card-header bg-dark h5"&gt;
+    &lt;a href="/fnlink" class="text-white"&gt;Title here is a link &lt;span class="sr-only"&gt;navigation&lt;/span&gt;&lt;/a&gt;
+  &lt;/h3&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item"&gt;First link&lt;/li&gt;
+        &lt;li class="list-group-item"&gt;Second link&lt;/li&gt;
+        &lt;li class="list-group-item"&gt;Third link&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+    <h4 class="col-12">Link list with folder navigation card format</h4>
+    <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'foldernav', title: 'Title here is not a link', links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes links. They require url to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'foldernav', title: 'Title here if not a link', link: { url: '/fnlink', title: 'Title here if link' }, links: [ { url: '/', title: 'First link' }, { url: '/second', title: 'Second link' }, { url: '/third', title: 'Third link' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;h3 class="card-header bg-dark text-white h5"&gt;Title here is not a link &lt;span class="sr-only"&gt;navigation&lt;/span&gt;&lt;/h3&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;First link&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="list-group-item"&gt;&lt;a href="/second"&gt;Second link&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="list-group-item"&gt;&lt;a href="/third"&gt;Third link&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+    <h4 class="col-12">Link list and icon with folder navigation card format</h4>
+    <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'foldernav', link: { url: '/fnlink', title: 'Title here is a link' }, links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'internal' }, { url: '/third', title: 'Third link', icon: 'internal' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes icons. They require icon to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'foldernav', title: 'Title here if not a link', link: { url: '/fnlink', title: 'Title here if link' }, links: [ { url: '/', title: 'First link', icon: 'internal' }, { url: '/second', title: 'Second link', icon: 'external' }, { url: '/third', title: 'Third link', icon: 'download' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;h3 class="card-header bg-dark h5"&gt;
+    &lt;a href="/fnlink" class="text-white"&gt;Title here is a link &lt;span class="sr-only"&gt;navigation&lt;/span&gt;&lt;/a&gt;
+  &lt;/h3&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;First link&lt;/div&gt;
+            &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/second" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Second link&lt;/div&gt;
+            &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/third" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Third link&lt;/div&gt;
+            &lt;div class="svgpost svgicon-internal flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+    <h4 class="col-12">Link list and icon/size with folder navigation card format (invalid scenario)</h4>
+    <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { style: 'foldernav', title: 'Title here is not a link', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group and includes size. They require size to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/listgroup', { card: { style: 'foldernav', title: 'Title here if not a link', links: [ { url: '/', title: 'First link', icon: 'download', size: 'PDF 24kb' }, { url: '/second', title: 'Second link', icon: 'download', size: 'PDF 138kb' }, { url: '/third', title: 'Third link', icon: 'download', size: 'PDF 3Mb' } ] } })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;div class="card"&gt;
+  &lt;h3 class="card-header bg-dark text-white h5"&gt;Title here is not a link &lt;span class="sr-only"&gt;navigation&lt;/span&gt;&lt;/h3&gt;
+  &lt;div class="card-body"&gt;
+    &lt;div class="card m-0"&gt;
+      &lt;ul class="list-group list-group-flush"&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;First link (PDF 24kb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/second" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Second link (PDF 138kb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item "&gt;
+          &lt;a href="/third" class="d-flex align-items-center"&gt;
+            &lt;div class="w-100 pr-2"&gt;Third link (PDF 3Mb)&lt;/div&gt;
+            &lt;div class="svgpost svgicon-download flex-shrink-1"&gt;&lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <h3 class="h2">Extreme text example</h3>
+    <div class="row">
+      <div class="col-12 col-md-8">
+        <%- include('../includes/listgroup', { card: { links: [ 
+          { url: '/', title: 'This is a really really long bit of text that is meant to wrap and wrap until there is no more wrapping left to do in this world and then mayeb there will be a little more wrapping until someone says its Christmas and time for more wrapping', icon: 'internal' },
+          { url: '/second', title: 'This is a really really long bit of text that is meant to wrap and wrap until there is no more wrapping left to do in this world and then mayeb there will be a little more wrapping until someone says its Christmas and time for more wrapping. his is a really really long bit of text that is meant to wrap and wrap until there is no more wrapping left to do in this world and then mayeb there will be a little more wrapping until someone says its Christmas and time for more wrapping', icon: 'external' },
+          { url: '/third', title: 'This is a really really long bit of text that is meant to wrap and wrap until there is no more wrapping left to do in this world and then mayeb there will be a little more wrapping until someone says its Christmas and time for more wrapping', icon: 'download' } ] } }) %>
+      </div>
+      <div class="col-12 col-md-4">
+        <p class="alert alert-info">This is the default style list group with some extreme length text.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<%- include('../includes/foot') %>

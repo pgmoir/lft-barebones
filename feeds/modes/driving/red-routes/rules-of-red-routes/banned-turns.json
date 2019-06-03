@@ -1,0 +1,210 @@
+{
+ "pageTitle": "Banned turns",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Rules of red routes",
+   "url": "/modes/driving/red-routes/rules-of-red-routes"
+  },
+  {
+   "title": "Banned turns"
+  }
+ ],
+ "title": {
+  "title": "Banned turns",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Certain manoeuvres (turns) are banned on some of our roads. Ignoring these bans can be very dangerous and could result in an accident.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/no-right.jpg\"},\"wrapped\":false}",
+     "A banned manoeuvre occurs when drivers ignore signs giving\n        instructions as to a direction they must\n        or must not take.",
+     "The signs are located\n        before\n        the banned manoeuvre and often additional signage will provide an advanced\n        warning.",
+     "Enforcement of banned manoeuvres helps to manage how traffic uses the road and makes it safer for pedestrians.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Recognising a banned manoeuvre sign\"}",
+     "These signs are listed in the Highway Code and\n        are not unique to the red route. They are either signs with:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A white arrow on a blue background showing you\\n            the direction you must take, or\",\"A red outer circle showing you the direction you must not take\"]}",
+     "When using the Transport for London Road\n        Network (TLRN), known as 'red routes', you will see signs with a white arrow\n        on a blue background, which have the following meaning:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/blue-straight-ahead.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Straight ahead only\"}",
+     "You must continue ahead only.",
+     "You must not turn left, right or make a U turn.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/blue-left-ahead.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Left turn ahead\"}",
+     "You must turn left at the junction ahead.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/blue-right-ahead.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Right turn ahead\"}",
+     "You must turn right at the junction ahead.",
+     "You must not turn left, go straight ahead or make a U turn.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/blue-left.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Turn left\"}",
+     "You must turn left.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/blue-right.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Right turn\"}",
+     "You must turn right.",
+     "You must not turn left, go straight ahead or make a U turn.",
+     "When using the red route you\n        will see signs with a red outer circle, they have the following meaning:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/no-right-turn.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Can do\"}",
+     "Go ahead or make a left hand turn.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Can't do\"}",
+     "Turn right.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/no-left-turn.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Can do\"}",
+     "Turn right or straight ahead.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Can't do\"}",
+     "Turn left.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/no-u-turn.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Can do\"}",
+     "Drive ahead or make a left or right turn.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Can't do\"}",
+     "Make a U-turn.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Penalty Charge Notices (PCNs)\"}",
+     "We issue PCNs to deter\n        drivers from breaking the rules and endangering other road users.",
+     " \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices\"\u003eFind out more about Penalty Charge Notices\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Loading for the public",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public",
+      "image": {}
+     },
+     {
+      "title": "Yellow box junctions",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/yellow-box-junctions",
+      "image": {}
+     },
+     {
+      "title": "Banned turns",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/banned-turns",
+      "image": {}
+     },
+     {
+      "title": "Bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/parking",
+      "image": {}
+     },
+     {
+      "title": "Blue Badge (disabled) parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking",
+      "image": {}
+     },
+     {
+      "title": "Red lines and no stopping",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/red-lines-and-no-stopping",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Road tips",
+      "url": "/campaign/road-tips",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "The Highway Code",
+      "url": "https://www.gov.uk/browse/driving/highway-code",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

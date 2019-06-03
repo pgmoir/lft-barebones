@@ -1,0 +1,212 @@
+{
+ "pageTitle": "Urban planning and construction",
+ "keywords": "Planning and construction,TfL",
+ "description": "Help with transport assessments and conveyancing searches for developments of strategic importance",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction"
+  }
+ ],
+ "title": {
+  "title": "Urban planning and construction",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Help with your planning application",
+    "texts": [
+     "Our guidance helps you create your application for major developments in London"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/new-development-1.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Planning with WebCAT",
+    "texts": [
+     "Our WebCAT toolkit helps you plan your development in London"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/webcat-ptal-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Our role in planning",
+    "texts": [
+     "Find out how we're involved in London's planning system"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Highway licences",
+    "texts": [
+     "How to apply for a highway licence on red routes"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure/highway-licences",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Transport Assessments",
+    "texts": [
+     "How to create a Transport Assessment and templates to use"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Use our resources",
+    "texts": [
+     "Check our resources to help you plan your development"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Modelling",
+    "texts": [
+     "We can help with local or strategic transport modelling for your new development"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/walthamstow-bus-station_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Roadworks and street faults",
+    "texts": [
+     "See how we manage roadworks, street and traffic light faults in London"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure/roadworks-and-street-faults",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Our land and infrastructure",
+    "texts": [
+     "We can help if your development affects our land and infrastructure"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Conveyancing searches",
+    "texts": [
+     "Find out if a property could be affected by proposed transport schemes"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure/conveyancing-searches",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Contact us",
+    "texts": [
+     "Find out who to speak to if you have any questions"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Strategic transport and land-use models",
+      "url": "/corporate/publications-and-reports/strategic-transport-and-land-use-models",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Streets toolkit",
+      "url": "/corporate/publications-and-reports/streets-toolkit",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

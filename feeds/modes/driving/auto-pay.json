@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Auto Pay",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "Benefit from more flexibility and less administration with an organisation account",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"With Auto Pay, we'll bill you automatically for the number of charging days your vehicle travels within the Congestion Charge area and, if it doesn't meet the standards, the Ultra Low Emission Zone (ULEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We offer two payment options - Auto Pay and Fleet Auto Pay. If you or your business regularly drive more than 5 vehicles within a charging zone, choose Fleet Auto Pay.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits of Auto Pay\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A reduced daily Congestion Charge\",\"Never forget to pay charges again\",\"Protection from receiving Penalty Charge Notices while registered\",\"Registration for up to five vehicles\"]}",
+     "You must:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Be at least 18 years old\",\"Either complete a Direct Debit mandate or link a payment card\",\"Tell us which vehicles you want to register\"]}",
+     "See the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"\u003eAuto Pay terms and conditions\u003c/a\u003e .",
+     "An annual £10 registration charge will apply to each vehicle you add to Auto Pay.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fleet Auto Pay\"}",
+     "The Fleet Auto Pay service is only available to business customers using more than five vehicles.",
+     "You can add up to five account users to help you manage your Fleet Auto Pay service.",
+     " \u003ca href=\"/modes/driving/fleet-auto-pay\"\u003eFind out more and set up Fleet Auto Pay.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

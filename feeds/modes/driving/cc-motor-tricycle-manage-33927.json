@@ -1,0 +1,48 @@
+{
+ "pageTitle": "Manage motor tricycle discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Manage motor tricycle discount"
+  }
+ ],
+ "title": {
+  "title": "Manage motor tricycle discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "You can have up to 2 vehicles active on this discount at a time. Vehicles are covered by the 100% discount straight away, but it may take up to 24 hours for the new discounted status to appear here."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

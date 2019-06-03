@@ -1,0 +1,280 @@
+{
+ "pageTitle": "Discounts and exemptions",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "Find out if you can get a discount or even drive in the Congestion Charge zone for free",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Discounts and exemptions"
+  }
+ ],
+ "title": {
+  "title": "Discounts and exemptions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out if you can get a discount or even drive in the Congestion Charge zone for free.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Discounts\"}",
+     "You can apply for a discount online, but you'll need to supply certain documents to show you're entitled to the discount.",
+     "Until we confirm your application is successful, you must continue to pay the daily Congestion Charge in full to drive within the charging zone. These discounts do not apply to the Ultra Low Emission Zone (ULEZ).",
+     "Find out about \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003epaying the Congestion Charge\u003c/a\u003e .",
+     "To qualify for the 90% residents' discount you must live within the Congestion Charge residents' discount zone.",
+     " \u003ca href=\"/modes/driving/congestion-charge/congestion-charge-zone\"\u003eOur location checker will confirm if your address is within the residents' discount zone\u003c/a\u003e .",
+     "You can continue to apply if you live within the Congestion Charge residents' discount zone AND:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your name is shown on either the Parliamentary or local government electoral register\",\"Your main or permanent home is in the Congestion Charging zone\",\"The property is used for residential purposes\",\"You are at least 17 years old\"]}",
+     "If you are adding a vehicle it must be registered with the \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency\"\u003eDVLA\u003c/a\u003e in your name and at the address you are using to apply for the discount",
+     "OR you can register a company or lease vehicle if it is for your sole use only",
+     "OR if you don't own a vehicle, you can register if you occasionally use a hire or recognised car club vehicle.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Documents you need to provide\"}",
+     "You need to provide evidence of BOTH the address and discount vehicle.",
+     "\u003cstrong\u003eAddress documents\u003c/strong\u003e ",
+     "To show that you live in the Congestion Charge zone you need to provide an image or copy of 2 of the following:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A current resident's on-street parking permit or a parking permit approval letter (must show the number plate/Vehicle Registration Mark)\",\"A residential council tax bill (valid for the current year)\",\"Your income support entitlement letter (no more than 7 months old)\",\"A bank or credit card statement (no more than 3 months old)\",\"A formal tenancy agreement or housing association rent document (dated within the last 12 months)\",\"A current utility bill, for example a gas, water or electricity bill (no more than 3 months old, mobile phone bills are not accepted)\",\"Your driving licence (must contain the address you are using to register for the residents' discount)\"]}",
+     "\u003cstrong\u003eVehicle documents\u003c/strong\u003e ",
+     "You will also need to provide an image or copy of 1 document from the list below:",
+     "Your own private vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your V5C vehicle registration certificate (logbook). (The vehicle must also be registered with the DVLA in your name and at the address you are using to apply for the residents' discount)\"]}",
+     "Company car:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate (Vehicle Registration Mark) and confirm that the vehicle is for your use only. (The vehicle must be registered in the company name with the DVLA)\"]}",
+     "Lease vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicle lease document - this is the document that you signed to lease the vehicle. (The vehicle must be registered in the lease company name with the DVLA)\"]}",
+     "A company car provided by a lease company:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your company's vehicle lease document (this is the document that you signed to lease the vehicle)\"]}",
+     "AND",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate (Vehicle Registration Mark) and confirm that the vehicle is for your use only. (The vehicle must be registered in the company or lease name with the DVLA)\"]}",
+     "All documents must be clear enough to read easily. If we can't read them we may ask you for more proof. This will delay the registration process.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"T-Charge\"}",
+     "A residents' discount entitles you to a 90% discount from the T-Charge until 25 October 2021. After that, if your vehicle still doesn't meet the emissions standards you must pay the \u003ca href=\"/modes/driving/ultra-low-emission-zone/discounts-and-exemptions\"\u003eUltra Low Emission Zone charge\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "There is an annual £10 registration charge for this discount.",
+     "Residents may find it quicker and easier to pay the Congestion Charge with Auto Pay. You'll only pay for the days that you drive within the zone, rather than paying for a weekly, monthly or annual charge in advance.",
+     "Find out about \u003ca href=\"/modes/driving/auto-pay\"\u003eAuto Pay\u003c/a\u003e .",
+     "\u003cstrong\u003eIf you can provide the documents required for a residents' discount, you can apply online now.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Just moved into the residents' discount zone?\"}",
+     "If you've just moved into the Congestion Charge zone and don't have the documents you need, you can still apply for the discount and provide your documents later. Remember to tell us by selecting this option on your application.",
+     "You will need to pay the full charge until your discount has been approved. However, subject to the terms and conditions, you may be entitled to a 90% refund of the charges you've paid while you have been waiting.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you hold a valid Blue Badge in the European Economic Area, you're eligible to register for a 100% discount, even if you don't own a vehicle or drive. (If you have an organisation Blue Badge or are applying on behalf of another person, for example a child, please see 'Applying for Blue Badge discount on behalf of someone else' below.)",
+     "You can register up to two vehicles that you would normally use to travel within the Congestion Charge zone. This could be your own vehicle, or one you travel in.",
+     "You can apply for a discount online but you'll need to supply certain documents to show you're entitled to the discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Documents you need to provide\"}",
+     "You need to provide us with a copy of both sides of your Blue Badge plus one of the following proofs of identity:",
+     "{\"template\":\"bulletlist\",\"items\":[\"DSS benefit entitlement letter (less than 7 months old)\",\"Current passport\",\"Current driver's licence\",\"Pension book/entitlement letter (less than 7 months old)\",\"Birth certificate (same first and last names as the Blue Badge. Not a Certificate of Registration of Birth)\",\"Marriage certificate (same first and last names as the Blue Badge)\",\"Current bank or credit card Statement (no more than 3 months old)\",\"Deed Poll Certificate (same first and last names as the Blue Badge)\"]}",
+     "You can upload images of these documents as part of your online application, or you can send copies by post or email later on.",
+     "Until we confirm your application is successful you must pay the charge for journeys within the zone.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "You have to pay £10 to register for the Blue Badge discount. This will need to be renewed in line with your Blue Badge expiry date. As long as you renew within 90 days after the expiry date, you will not need to make a further payment.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your Blue Badge discount\"}",
+     "We will notify you when your discount is due to expire. You will be able to renew your discount online once you have received this notification.",
+     "\u003cstrong\u003eIf you can provide all of the Blue Badge discount documents required you can apply online now.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Applying for Blue Badge discount on behalf of someone else\"}",
+     "If you are completing the Blue Badge discount application on behalf of a Blue Badge holder or on behalf of an institution you can still complete the application online. You will be asked to set up a London Road User Charging (LRUC) account in the Blue Badge holder's name and complete a 'Declaration of Authority' form to describe your relationship to the Blue Badge holder.",
+     "In the case of an institution you should create the LRUC account in the name and address of the principal officer of the institution.",
+     "At the end of the application you will be able to add yourself as an authorised user. This will allow you to sign in to the secure online account and manage it. You then have the option to add four more authorised users.",
+     "\u003cstrong\u003eIf you are signed in with an LRUC account, please sign out before applying for this discount.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This 100% discount applies to breakdown vehicles operated by organisations in the European Economic Area that are accredited to BS EN ISO9001:2008 (and in accordance with the specification for applying that standard to the industry).",
+     "You can apply for the discount online. You will need to upload copies of your current BS EN ISO9001:2008 certification along with your PAS 43 certification to support your application.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "Once your discount has been approved you can log onto your account and add your vehicles at a cost of £10 per vehicle.  Once added the vehicle will be subject to the 100% discount until the expiry date of your discount.",
+     "When the discount expires you will need to pay a further £10 to renew each vehicle for another year.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your accredited breakdown discount\"}",
+     "We will notify you when your discount is due to expire. You will be able to renew your discount online once you have received this notification.",
+     "\u003cstrong\u003eIf you can provide us with all your accredited breakdown discount documents you can apply online now.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Vehicles with nine or more seats are eligible for 100% discount of the Congestion Charge.",
+     "You need to register with us for your 100% discount if your vehicle is not licensed with the DVLA as a bus (taxation classes 'buses' and 'reduced pollution buses').",
+     "You also need to register with us if your vehicle with nine or more seats is registered outside the UK but within the European Economic Area.",
+     "You can apply for a discount online, but you'll need to supply certain documents to show you're entitled to the discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Documents you need to provide\"}",
+     "You will need to upload images or send photocopies of these documents to apply for the discount:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A V5C - this is the vehicle registration document (logbook) that the DVLA sends you. If you are from outside of the UK, please send a copy of the vehicle registration document issued by your vehicle licensing agency\"]}",
+     "You also need to prove that the vehicle has 9 seats or more. Provide a copy of 1 of the following documents:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The vehicle's MOT certificate\",\"The vehicle's CIF or COIF (Certificate of Initial Fitness)\",\"Your insurance document\",\"Another proof that shows the number of seats\"]}",
+     "You can upload images of these documents as part of your online application, or you can send copies by post or email later on.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "You have to pay £10 to register each vehicle for the discount. This must be renewed every year.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your 9+ seater discount\"}",
+     "We will notify you when your discount is due to expire. You will be able to renew your discount online once you have received this notification.",
+     "\u003cstrong\u003eIf you can provide us with all your 9+ seater discount documents you can apply online now.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "(Formerly Ultra Low Emission Discount (ULED))",
+     "Only vehicles that meet euro 6 standards (petrol and diesel), emit no more than 75g/km of Co2 and have a minimum 20 mile zero emission capable range will qualify for the 100% cleaner vehicle discount.",
+     "You can check the CO2 emissions of your car on the V5C registration document. If the euro standard of your vehicle is not shown on the V5C you can check it with the franchised dealer or the vehicle manufacturer.",
+     "You also qualify if your vehicle is registered with the DVLA and has a fuel type of 'electric' (you can check this on the V5C registration document the DVLA sent you), or alternatively, if your vehicle is a 'plug-in hybrid' and has been approved as an ultra-low emission vehicle by the Office for Low Emission Vehicles. You can find more information at the \u003ca href=\"https://www.gov.uk/government/organisations/office-for-low-emission-vehicles\"\u003eOffice for Low Emissions Vehicles website\u003c/a\u003e .",
+     "You can find out more about low emission vehicles on the \u003ca href=\"https://www.goultralow.com/\"\u003eGo Ultra Low\u003c/a\u003e website.",
+     "If your vehicle is a 'plug-in hybrid' you will need to supply a conformity certificate as part of your application.",
+     "You can apply for a discount online, but you'll need to supply certain documents to show you're entitled to the discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Documents you need to provide?\"}",
+     "You will need to upload images or send photocopies of the following documents to apply for the discount:",
+     "{\"template\":\"bulletlist\",\"items\":[\"V5C vehicle registration certificate (logbook) issued by the DVLA\"]}",
+     "\u003cstrong\u003eNon-UK registered\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"The vehicle registration document issued by your vehicle licensing agency\"]}",
+     "The document must clearly show that the vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Meets the Euro 6 emission standard\",\"Emits less than or equal to 75g/km of CO2\",\"Has a minimum 20 mile zero emission capable range\"]}",
+     "OR",
+     "{\"template\":\"bulletlist\",\"items\":[\"Is registered as fuel type 'electric'\"]}",
+     "\u003cstrong\u003ePetrol hybrid vehicles only\u003c/strong\u003e ",
+     "You must also submit a photocopy of the conformity certificate as provided by the vehicle dealership.",
+     "You can upload images of these documents as part of your online application, or you can send copies by post or email later on.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "You have to pay £10 to register each vehicle for the discount. This will need to be renewed every year.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your cleaner vehicle discount\"}",
+     "We will notify you when your discount is due to expire. You will be able to renew your discount online once you have received this notification.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Source London\"}",
+     "Source London is a city-wide electric vehicle charging network. Find out more on the \u003ca href=\"https://www.sourcelondon.net/\"\u003eSource London website\u003c/a\u003e .",
+     "\u003cstrong\u003eIf you can provide us with all your cleaner vehicle discount documents you can apply online now.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you have a motor tricycle which is one metre or less wide, and two metres or less long, it is eligible for a 100% discount.",
+     "To apply for the discount you will need to provide images of your vehicle (front, back and side) showing the number plate (Vehicle Registration Mark) along with a copy of the V5C registration document (logbook).",
+     "You can upload images of these documents as part of your online application, or you can send copies by post or email later on.",
+     "Once we've approved your application and your discount is active, you can drive within the zone for free.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "You have to pay £10 to register each vehicle for the discount. This will need to be renewed annually.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your motor tricycle discount\"}",
+     "We will notify you when your discount is due to expire. You will be able to renew your discount online once you have received this notification.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "To qualify for this 100% discount the vehicle must be registered with the DVLA and have a taxation class of 'recovery vehicle'.",
+     "You can apply for a discount online, If your recovery vehicle is registered with the DVLA as tax class 47 and our records show this, you can set up your discount without any further evidence.",
+     "If our records do not show that your vehicle is registered with the DVLA as a recovery vehicle, we will ask you to submit an image of the V5C vehicle registration certificate (logbook) - the document sent by the DVLA or DVA - to show that the vehicle is eligible for the discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cost\"}",
+     "You have to pay £10 to register each vehicle for the discount. This will need to be renewed every year.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your roadside recovery vehicle discount\"}",
+     "We will notify you when your discount is due to expire. You will be able to renew your discount once you have received this notification.",
+     "\u003cstrong\u003eIf you can provide us with all your roadside recovery discount documents you can apply online now.\u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exemptions\"}",
+     "You don't have to pay the Congestion Charge or register with us if the vehicle is recorded at the DVLA in one of these categories:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Two-wheeled motorbikes (and sidecars) and mopeds\",\"Emergency service vehicles, such as ambulances and fire engines, which have a taxation class of 'ambulance' or 'fire engine' on the date of travel\",\"NHS vehicles that are exempt from vehicle tax\",\"Vehicles used by disabled people that are exempt from vehicle tax and have a 'disabled' taxation class\",\"Vehicles for more than one disabled person (for example Dial-a-Ride) that are exempt from vehicle tax and have a 'disabled' taxation class\"]}",
+     "This information will be on your vehicle's V5C (logbook). If you are unsure then please \u003ca href=\"/modes/driving/congestion-charge/contact-congestion-charge\"\u003econtact us\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxi and private hire vehicles (PHVs)\"}",
+     "Taxis are exempt from paying the Congestion Charge when actively licensed with London Taxi and Private Hire (TPH). A vehicle will be removed from the register of exempt vehicles on the surrender, expiry or revocation of the license.",
+     "Private hire vehicles (PHVs)  are not exempt from the Congestion Charge. PHV drivers and operators need to pay the Congestion Charge if they travel within the zone during charging hours.",
+     " \u003ca href=\"/info-for/taxis-and-private-hire/passengers-and-accessibility\"\u003ePHVs designated as wheelchair-accessible vehicles\u003c/a\u003e will still have an exemption from the Congestion Charge as long as they are fulfilling a private hire booking. They must also be actively licensed with London Taxi and Private hire (TPH).",
+     "Some PHV vehicles may be eligible for one of the Congestion Charge discounts.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Other exemptions\"}",
+     "Certain vehicles, including buses, registered in European Economic Area member states, must also be registered with us to qualify for an exemption.",
+     "Other categories of exemption include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"HM Coastguard and Port Authorities\",\"Certain operational vehicles used by the London boroughs\",\"The armed forces\",\"Royal Parks Agency\",\"Breakdown organisations\"]}",
+     "If you think your vehicle falls into this category, please \u003ca href=\"/modes/driving/congestion-charge/contact-congestion-charge\"\u003econtact us\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Electric vehicles",
+      "url": "/modes/driving/electric-vehicles-and-rapid-charging",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

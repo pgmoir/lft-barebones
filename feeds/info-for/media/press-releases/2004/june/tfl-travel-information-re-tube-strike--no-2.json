@@ -1,0 +1,81 @@
+{
+ "pageTitle": "TfL Travel Information re Tube strike - No 2",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL Travel Information re Tube strike - No 2",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is providing a series of media travel information bulletins throughout the period of the RMT Tube strike. The RMT strike began at 1830hrs on Tuesday, June 29 and is due to last 24hrs, but Tube services will be severely disrupted throughout the whole of today (Wednesday, June 30)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "TfL Travel Info media bulletins are due to be issued at the following times:\u003cbr /\u003e0600hrs, June 30;\u003cbr /\u003e1130hrs, June 30;\u003cbr /\u003e1500hrs, June 30;\u003cbr /\u003e1730hrs, June 30;\u003cbr /\u003e2100hrs, June 30.",
+     "Our advice to those wishing to travel in London tomorrow, June 30 is as follows:\u003cbr /\u003eAllow extra time for your journey and, if possible, travel outside rush hours;\u003cbr /\u003ePlease consider walking as an alternative where possible, particularly short distances from national rail stations;\u003cbr /\u003eThere will be no additional parking in London and the £5 daily Congestion Charge will still apply from 0700-1830hrs;\u003cbr /\u003eCheck our website, travel information line or the media for the latest on how services are running before you travel.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Underground:\"}",
+     "Line Service\u003cbr /\u003eBakerloo, No service.\u003cbr /\u003eCentral, No service.\u003cbr /\u003eCircle No service.\u003cbr /\u003eDistrict, 20 min service Richmond - Gunnersbury, 50 min service Upminster - Whitechapel (West Ham and Mile End remain closed)\u003cbr /\u003eEast London Limited service. (Canada Water, Wapping \u0026 Shadwell remain closed)\u003cbr /\u003eHammersmith \u0026 City No service\u003cbr /\u003eJubilee 8 minute service Stanmore - Finchley Road. (Kingsbury, Dollis Hill and Kilburn Stations remain closed)\u003cbr /\u003eMetropolitan Limited service between Amersham - Aldgate (King's Cross and Barbican remain closed)\u003cbr /\u003eNorthern No service\u003cbr /\u003ePiccadilly No service\u003cbr /\u003eVictoria No service\u003cbr /\u003eWaterloo and City No Service",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"National Rail:\"}",
+     "The strike by Network Rail staff has been called off, so national rail services are running as normal. TfL staff will be on hand at major rail stations and transport interchanges to provide advice to those travelling into central London by train.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Buses:\"}",
+     "Bus services are running as normal. Although due to the strike, services are busier than normal and we would ask that passengers please be patient and allow more time for their journeys.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Docklands Light Railway:\"}",
+     "DLR services are running as normal, but again services are much busier than normal. Please be patient and allow more time for your journey.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Streets and Congestion Charge:\"}",
+     "We are urging people not to drive into central London. There is no extra parking provision and the £5 daily Congestion Charge still applies from 0700-1830hrs on Wednesday, June 30 in order to keep the streets moving and allow bus services to move as freely as possible.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"River Services:\"}",
+     "A free River service, paid for by London Underground, will run in the morning and evening rush hours on June 30 as follows:",
+     "Morning peak hour service:\u003cbr /\u003eTower Pier - Blackfriars Pier - Embankment Pier - Westminster Pier - Waterloo Pier - Blackfriars Pier - Tower Pier;\u003cbr /\u003eServices will run from 0600hrs at Tower Pier and run around every 10-15 minutes. Last boat from Tower Pier departs at 1000hrs;",
+     "Evening peak hour service:\u003cbr /\u003eTower Pier - Blackfriars Pier - Waterloo Pier - Westminster Pier - Embankment Pier - Blackfriars Pier - Tower Pier;\u003cbr /\u003eServices will run from 1620hrs at Tower Pier and run around every 10-15 minutes. Last boat from Tower Pier departs at 2000hrs.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Croydon Tramlink:\"}",
+     "Is running as normal.",
+     "For the latest travel information, visit our website www.tfl.gov.uk, phone the Travel Information line on 020-7222 1234 or check media updates.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

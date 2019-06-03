@@ -1,0 +1,32 @@
+<% if (arrivals) { %>
+<div class="mb-3">
+<h3 class="">Live arrivals at <%= arrivals.time %></h3>
+<% if (arrivals.platforms) { %>
+  <% if (arrivals.outofdate) { %>
+  <div class="row mx-0">
+    <div class="col-12 p-2 bg-info border border-bottom-0"><%= arrivals.outofdate %></div>
+  </div>
+  <% } %>
+  <% arrivals.platforms.forEach(function (platform, i, array) {
+    let incClass = (i === 0) ? '' : 'border-top-0';
+    %>
+    <div class="row mx-0">
+      <h4 class="col-12 h6 p-2 bg-basic border border-1 <%= incClass %> mb-0"><%= platform.name %></h4>
+    </div>
+    <% for (let i = 0; i < platform.services.length; i++) { %>
+    <div class="row mx-0 border border-top-0">
+      <div class="col-12 d-flex p-0">
+        <div class="p-2 width-2-5 bg-<%= platform.services[i].route %> d-flex flex-column justify-content-center text-center"><%= i+1 %></div>
+        <div class="p-2 flex-grow-1"><span class="sr-only"><%= platform.services[i].route %> service to </span><%= platform.services[i].destination %> <span class="sr-only"><br />currently <%= platform.services[i].current %></span></div>
+        <div class="p-2 d-flex flex-column justify-content-center text-right"><span class="sr-only">departing in </span><%= platform.services[i].departs %></div>
+      </div>
+    </div>
+    <% } %>
+  <% }); %>
+<% } else { %>
+<%- include('../includes/alert', {
+  alert: { style: 'warning', icon: 'exclamation-triangle', title: 'Live Arrivals', messages: [ 'We are unable to show live arrivals at the moment. Please use the timetables to check the frequency of your service.' ] }
+}) %>
+<% } %>
+</div>
+<% } %>

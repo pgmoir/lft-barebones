@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Track improvement works on the Victoria line",
+ "description": "Rail grinding work, to be undertaken by Metronet BCV, will improve the quality of travel for customers by making journeys a lot smoother and reducing noise.A replacement bus service will operate between Brixton and Stockwell and customers will be able to",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Track improvement works on the Victoria line",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Due to track improvement works on the Victoria line there will be no service between Victoria and Brixton, on Sunday 20 March."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Rail grinding work, to be undertaken by Metronet BCV, will improve the quality of travel for customers by making journeys a lot smoother and reducing noise.",
+     "A replacement bus service will operate between Brixton and Stockwell and customers will be able to connect with the Northern line.",
+     "Customers should allow an extra 25 minutes to complete their journey especially those wishing to make last train connections.",
+     "Alternatively passengers may wish to use the following services where valid LUL tickets will be accepted:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eBrixton\\u003c/strong\\u003e : Northern line to Stockwell and change there for local bus services or the rail replacement bus services. Alternatively South Eastern train services between Victoria and Brixton will operate every 30 minutes\",\"\\u003cstrong\\u003eStockwell\\u003c/strong\\u003e : Northern line services will operate as normal\",\"\\u003cstrong\\u003eVauxhall\\u003c/strong\\u003e : South West Trains to and from Waterloo\",\"\\u003cstrong\\u003ePimlico\\u003c/strong\\u003e : Local bus services\"]}",
+     "For 24-hour information on all London travel, please call:\u003cstrong\u003e020 7222 1234\u003c/strong\u003e or visit \u003ca href=\"http://www.tfl.gov.uk\"\u003eTfL's website\u003c/a\u003e .\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is investing £10 billion over the next 5 years to improve and expand London's transport network, over half of that in the Tube.\",\"Metronet BCV are responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

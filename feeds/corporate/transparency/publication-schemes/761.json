@@ -1,0 +1,55 @@
+{
+ "pageTitle": "DLR",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "DLR",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Docklands Light Railway (DLR) is responsible for the operation of the railway.",
+     "To find out what information DLR makes available, please select a category from below",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Categories\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/301\\\"\\u003eWho we are and what we do\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/323\\\"\\u003eWhat we spend and how we spend it\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/329\\\"\\u003eOur priorities and how we are doing\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/317\\\"\\u003eHow we make decisions\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/306\\\"\\u003eOur policies and procedures\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/319\\\"\\u003eLists and registers\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/transparency/publication-schemes/312\\\"\\u003eThe services we offer\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

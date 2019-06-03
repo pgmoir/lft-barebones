@@ -1,0 +1,22 @@
+<table class="table table-striped">
+  <% if (o.titles) { %>
+  <thead>
+    <tr>
+    <% for (let title of o.titles) { %>
+      <th scope="col"><%= title %></th>
+    <% } %>
+    </tr>
+  </thead>
+  <% } %>
+  <% if (o.rows) { %>
+  <tbody>
+    <% for (let row of o.rows) { %>
+    <tr>
+      <% for (let item of row) { %>
+        <td><%- item %></td>
+      <% } %>
+    </tr>
+    <% } %>
+  </tbody>
+  <% } %>
+</table>

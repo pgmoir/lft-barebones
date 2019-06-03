@@ -1,0 +1,53 @@
+{
+ "pageTitle": "Blue Badge discount",
+ "keywords": "TfL,Blue badge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Blue Badge discount"
+  }
+ ],
+ "title": {
+  "title": "Blue Badge discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Blue Badge details\"}",
+     "To be eligible for this discount your disabled badge must have been issued in the United Kingdom or the European Economic Area (EEA). Tell us below where the badge was issued.",
+     "imgimg",
+     "For Blue Badges issued in the United Kingdom, look on the front (the side without the photograph) for all the details you need.",
+     "The issuing authority is the borough or council where you live - find this in the 'issued by' box. We may contact the issuing authority to confirm that the badge details are valid.",
+     "If your badge was issued outside the United Kingdom, enter the country it was issued in."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "pageTitle": "How to work with us",
+ "keywords": "TfL",
+ "description": "Cost, opportunities and lead times of our commercial partnership offers",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial partnerships and experiential marketing",
+   "url": "/info-for/business-and-commercial/commercial-partnerships-and-experiential-marketing"
+  },
+  {
+   "title": "How to work with us"
+  }
+ ],
+ "title": {
+  "title": "How to work with us",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out lead times, cost and opportunities for commercial partnerships with us, and submit an initial brief.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "A commercial partnership with us has four main characteristics:",
+     "The first three are essential for all commercial partnerships, the fourth is essential for longer term partnerships (eg Santander Cycles), but not shorter ones (eg a 24 hour renaming of a station).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Partnership opportunities\"}",
+     " \u003ca href=\"/info-for/business-and-commercial/commercial-opportunities/commercial-partnership-opportunities\"\u003eView our range of partnership opportunities\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Opportunities which don't need a partnership\"}",
+     "There are standardised commercial opportunities which don't need a commercial partnership. These include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"out of home advertising\",\"experiential advertising in stations\",\"advertising on the TfL network\",\"website and filming on the TfL network\"]}",
+     "For a variation on these, or to include assets which aren't otherwise commercially available, you'll need to fill in a \u003ca href=\"#brief\"\u003ecommercial partnership brief\u003c/a\u003e to help us determine initial feasibility and pricing.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cost\"}",
+     "As a general rule, a partnership with us will cost a minimum of £100k. However, our commercial partnerships are bespoke in each case.\u003cbr /\u003e\u003cbr /\u003eThe cost depends on the type, number, duration and (where applicable) location of the assets, and the complexity of the overall partnership.\u003cbr /\u003e\u003cbr /\u003eWhere a partnership opportunity is likely to attract significant market interest, we use a managed sales process. In this, potential commercial partners submit bids for the opportunity to partner with us (eg. Santander Cycles for the London Cycle Hire Scheme).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lead times\"}",
+     "Lead times vary, with a minimum of 12 to 14 weeks.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transparency\"}",
+     " \u003ca href=\"/info-for/business-and-commercial/commercial-opportunities/commercial-partnerships---transparency\"\u003eView our transparency policy on commercial partnerships\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Submit a brief\"}",
+     "To submit an initial commercial partnership brief, fill in the form below and return to \u003ca href=\"mailto:commercialpartnerships@tfl.gov.uk\"\u003ecommercialpartnerships@tfl.gov.uk\u003c/a\u003e . To help us give you a considered response, please complete all fields.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Briefing form - commercial partnerships\",\"url\":\"/cdn/static/cms/documents/commercial-partnerships-briefing-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 23KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial partnerships and experiential marketing",
+    "links": [
+     {
+      "title": "How to work with us",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/commercial-partnerships",
+      "image": {}
+     },
+     {
+      "title": "Commercial partnership opportunities",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/commercial-partnership-opportunities",
+      "image": {}
+     },
+     {
+      "title": "Transparency policy on commercial partnerships",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/commercial-partnerships---transparency",
+      "image": {}
+     },
+     {
+      "title": "Charity fundraising",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/charity-fundraising",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial partnerships and experiential marketing",
+     "url": "/info-for/business-and-commercial/commercial-opportunities/charity-fundraising",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

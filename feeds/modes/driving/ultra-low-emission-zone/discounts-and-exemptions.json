@@ -1,0 +1,171 @@
+{
+ "pageTitle": "Discounts and exemptions",
+ "keywords": "TfL",
+ "description": "See if you or your vehicle qualifies for a discount or exemption from the ULEZ",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "Discounts and exemptions"
+  }
+ ],
+ "title": {
+  "title": "Discounts and exemptions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Some drivers and vehicles qualify for at least a temporary discount from the Ultra Low Emission Zone charge (ULEZ). Others are entirely exempt.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If none of these apply to you, you can also explore \u003ca href=\"/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard\"\u003eways to meet the standard\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Residents\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Residents who are registered for the residents' Congestion Charge discount will be granted a time-limited grace period where a 100% discount from the ULEZ will apply to their vehicles. This will give them more time to change their vehicle to meet the ULEZ standards\",\"The discount will be available to those who live within the ULEZ and in designated areas next to the boundary where the Congestion Charge residents' discount applies. The grace period applies until 24 October 2021\",\"This discount will only apply while they live within the zone and are registered with us\",\"Residents using a vehicle that doesn't meet the T-Charge emissions standards will continue to pay the T-Charge, at a discounted rate of 90%, during the ULEZ resident grace period\",\"Motorbikes and mopeds that do not meet the ULEZ emissions standards but are registered for a Congestion Charge residents' discount are entitled to a 100% discount from the ULEZ charge until 24 October 2021. Motorbikes and mopeds are exempt from both the Congestion Charge and T-Charge but you can still apply for a residents' discount. To register for the residents' discount visit the Congestion Charge \\u003ca href=\\\"/modes/driving/congestion-charge/discounts-and-exemptions\\\"\\u003ediscounts and exemptions page\\u003c/a\\u003e .\",\"From 25 October 2021, residents must pay the full daily ULEZ charge to drive a vehicle in the zone if it does not meet the ULEZ standards\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicles for disabled people\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Keepers of vehicles registered with a 'disabled' or 'disabled passenger vehicles' tax class will benefit from a grace period after the ULEZ starts. They'll be exempt from the ULEZ charge until 26 October 2025 as long as their vehicle doesn't change tax class. (Vehicles operated by or on behalf of TfL will not benefit from this grace period.) \\u003ca href=\\\"https://www.gov.uk/financial-help-disabled/vehicles-and-transport\\\"\\u003eRead the eligibility criteria for the disabled exemption on Gov.uk\\u003c/a\\u003e \",\"If your UK-registered vehicle is in this category, you don't need to register with us to get the exemption. If your 'disabled' vehicle is registered outside the UK, you are also exempt from ULEZ during the grace period, but will need to register with us.\",\"Blue Badge holders need to pay the charge unless their vehicle meets the ULEZ emission standards or is registered with the DVLA with a 'disabled' or 'disabled passenger vehicle' tax class\",\"From 27 October 2025 vehicles with 'disabled' or 'disabled passenger vehicles' tax class that do not meet the ULEZ emission standards will be liable for the daily ULEZ charge\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxis\"}",
+     "London-licensed taxis are exempt from ULEZ charges. They are currently subject to a 15-year age limit - we are currently reviewing proposals to reduce this to 12 years.",
+     "All newly licensed taxis must be capable of producing zero emissions. Find out more about \u003ca href=\"/info-for/taxis-and-private-hire/emissions-standards-for-taxis\"\u003ehow we plan to have the cleanest taxi fleet in the world\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Private hire vehicles (PHVs)\"}",
+     "PHV's that do not meet the emissions standards must pay the full ULEZ charge to drive within the zone.",
+     "Designated wheelchair-accessible PHVs will be granted a grace period until 26 October 2025 - during this period designated wheelchair-accessible PHVs used to carry out a private hire booking will be exempt from the ULEZ daily charge.",
+     "These vehicles will only be exempt when carrying out a private hire booking for a TfL-licensed PHV operator. At all other times PHV owners will have to pay the charge if their designated wheelchair-accessible PHV does not meet the emissions standards and is not in the disabled or disabled passenger vehicle tax class.",
+     "See a list of designated wheelchair-accessible PHVs licensed by TfL on the \u003ca href=\"/info-for/taxis-and-private-hire/passengers-and-accessibility\"\u003ePassengers and accessibility page\u003c/a\u003e .",
+     "If you feel that your vehicle should be on the list please email \u003ca href=\"mailto:tph.enquiries@tfl.gov.uk\"\u003etph.enquiries@tfl.gov.uk\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Historic vehicles\"}",
+     "You can apply to stop paying vehicle tax if your vehicle was built more than 40 years ago. This date moves forward on a 40-year rolling system. Assuming the rules stay the same, when the ULEZ launches in April 2019, vehicles built before 1979 will be eligible to apply for historic vehicle tax class.",
+     "All vehicles that have a historic vehicle tax class will be exempt from the ULEZ. This tax class excludes any vehicle used commercially (for example, coffee vans or street food vans).",
+     "In line with the existing LEZ discount all vehicles registered before 1 January 1973 will be exempt from the ULEZ, regardless of commercial use or otherwise.",
+     "If your vehicle meets the above criteria and is registered in the UK, it is automatically exempt and you don't need to register with us. If your vehicle meets the above criteria but is registered outside the UK, you are also exempt, but will need to register with us. Details on how you can register will be available closer to the time.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other exempt vehicles\"}",
+     "A small number of vehicle types currently exempt from the LEZ are also exempt from the ULEZ charge. These include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Agricultural vehicles\",\"Military vehicles\",\"Non-road going vehicles which are allowed to drive on the highway (for example, excavators)\",\"Certain types of mobile cranes\"]}",
+     "If your vehicle meets any of the above criteria and is registered in the UK, it is automatically exempt and you don't need to register with us. If your vehicle meets any of the above criteria but is registered outside the UK, you are also exempt, but will need to register with us. \u003ca href=\"/modes/driving/check-your-vehicle-35896\"\u003eCheck if you need to register.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Discount for showman's vehicles\"}",
+     "Some showman's vehicles are eligible for a 100% discount from the ULEZ daily charge if they are registered to a person following the business of a travelling showman and have been modified or specially constructed. Trailers and semi-trailers which have been modified or specially constructed are not eligible for the 100% discount.",
+     "For a vehicle to be eligible for the discount, modifications or special constructions for the purpose of the show must be either:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Used during the performance, or\",\"Used for the purpose of providing the performance, or\",\"Used for carrying performance equipment, or\",\"Used for displaying animals to the public, or\",\"Below the chassis level, such that it isn't possible to fit emission abatement equipment\"]}",
+     "If your vehicle meets the above criteria, you need to register with us to qualify for the discount. (Vehicles that are already registered with TfL for a LEZ showman's discount do not need to be registered again for ULEZ). This applies to both UK and non-UK vehicles.",
+     "If you receive any other discounts or exemptions for the Congestion Charge you still need to pay the ULEZ charge if you drive within the zone in a vehicle that does not meet the ULEZ standards.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Not-for-profit minibuses\"}",
+     "From 25 October 2021 to 29 October 2023 minibuses operated under a section 19 or section 22 permit by not-for-profit organisations will be eligible for a grace period exempting them from the ULEZ daily charge.",
+     "Vehicles driven within the ULEZ in central London BEFORE 25 October 2021 need to meet emissions standards or you need to pay the daily ULEZ charge.",
+     "For a vehicle to be eligible for the grace period they must be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A minibus built or adapted to carry 8-16 passengers\",\"Owned or leased by a not-for-profit organisation and operated using a valid section 19 or section 22 permit issued by an approved licensing body\",\"Owned (or leased) before 8 June 2018\"]}",
+     "If your vehicle meets the above criteria, you'll need to register with us to qualify for the grace period. \u003ca href=\"/modes/driving/check-your-vehicle-35896\"\u003eCheck if you need to register your vehicle\u003c/a\u003e .",
+     "The grace period will expire from 30 October 2023 and all minibuses will need to meet emissions standards or pay the daily charge.",
+     "Find more information on the Department for Transport web page on \u003ca href=\"https://www.gov.uk/government/publications/section-19-and-22-permits-not-for-profit-passenger-transport/section-19-and-22-permits-not-for-profit-passenger-transport\"\u003eeligibility for section 19 and section 22 permits\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

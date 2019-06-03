@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Refund a LEZ charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Refund a LEZ charge"
+  }
+ ],
+ "title": {
+  "title": "Refund a LEZ charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Confirmation\"}",
+     "We will send you a confirmation if your refund has been approved.",
+     "We aim to respond to you within the next 10 working days.",
+     "We are considering your request. We will let you know the outcome via your preferred communication channel.",
+     "If you need to reach us before then, see \u003ca href=\"/modes/driving/low-emission-zone/contact-lez\"target=\"_blank\"\u003eour contact details\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

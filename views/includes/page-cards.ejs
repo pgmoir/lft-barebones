@@ -1,0 +1,28 @@
+<%- include('head') %>
+
+<%- include('title', { title: title, breadcrumbs: breadcrumbs }) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+  <div class="container-lft">
+    <div class="row">
+      <h2 class="sr-only">Links to articles related to topic</h2>
+      <div class="col-12 col-lg-8">
+        <div class="row">
+          <% for (let card of body.primarys) { %>
+            <div class="col-12">
+              <%- include('card', { card: card }) %>
+            </div>
+          <% } %>
+          <% for (let card of body.cards) { %>
+            <div class="col-12 col-sm-6">
+              <%- include('card', { card: card }) %>
+            </div>
+          <% } %>
+        </div>
+      </div>
+      <%- include('rhnav', { rhnav: rhnav, pageTitle: pageTitle, fullUrl: fullUrl }) %>
+    </div>
+  </div>
+</section>
+
+<%- include('foot') %>

@@ -1,0 +1,146 @@
+{
+ "pageTitle": "Innovation portal",
+ "keywords": "TfL",
+ "description": "How we use technology to solve problems, and how you can get involved",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial Innovation",
+   "url": "/info-for/business-and-commercial/commercial-innovation"
+  },
+  {
+   "title": "Innovation portal"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Innovation portal",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/innovation-section-header.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Innovation is at the heart of what we do at TfL. From business planning to frontline operations, we aim to create an environment where people have the support and resources to innovate where they see a need for change."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Challenges",
+    "texts": [
+     "Learn about the challenges we face, from safety and reliability to customer needs"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/challenges",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Submit an idea",
+    "texts": [
+     "Submit your technological ideas that meet one of our key challenges"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/submit-an-idea",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial Innovation",
+    "links": [
+     {
+      "title": "Innovation portal",
+      "url": "/info-for/business-and-commercial/innovation-portal",
+      "image": {}
+     },
+     {
+      "title": "Challenges",
+      "url": "/info-for/business-and-commercial/challenges",
+      "image": {}
+     },
+     {
+      "title": "Submit an idea",
+      "url": "/info-for/business-and-commercial/submit-an-idea",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial Innovation",
+     "url": "/info-for/business-and-commercial/submit-an-idea",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "PRO-LITE",
+      "url": "http://www.prolitepartnership.eu/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Unlocking innovation scheme",
+      "url": "https://connect.innovateuk.org/web/unlocking-innovation-in-rail/overview",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Innovate UK",
+      "url": "https://www.gov.uk/government/organisations/innovate-uk",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

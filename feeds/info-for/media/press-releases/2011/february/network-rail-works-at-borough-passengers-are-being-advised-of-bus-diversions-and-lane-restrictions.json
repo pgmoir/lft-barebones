@@ -1,0 +1,75 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Network Rail works at Borough: Passengers are being advised of bus diversions and lane restrictions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Three Sunday closures of London Bridge bus station to enable major rail upgrade."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Preparatory works being carried out by Network Rail for the Borough Viaduct extension are set to result in lane restrictions and some road closures of Borough High Street later this month.",
+     "The work, part of the redevelopment of London Bridge interchange, means that London Bridge bus station will have to close between 08:00 and 20:00 on Sunday 13, 20 and 27 February.",
+     "Buses will call at nearby stops on London Bridge instead.",
+     "Some stops along Borough High Street will not be served.",
+     "Bus routes 17, 21, 35, 40, 43, 48, 133, 141, 149, 343, 381 and RV1 will be affected.",
+     "Full \u003ca href=\"http://www.tfl.gov.uk/livetravelnews\"\u003edetails of the diversions \u003c/a\u003e are available on the Transport for London (TfL) website.",
+     "Posters will be displayed around the bus station and in local bus stops and Customer Information Assistants will be on hand to point passengers in the right direction.",
+     "Passengers are advised to allow extra time to complete their journeys.",
+     "Taxis will also be unable to serve the rank at London Bridge bus station but passengers will be able to catch taxis from the ranks on Tooley Street.",
+     "The work taking place will see improvements to the rail, Underground and bus station.",
+     "Borough viaduct will double the number of tracks heading north from London Bridge, unlocking extra capacity at London Bridge and reducing delays for passengers coming into London from the South East.",
+     "Additional work to transform London Bridge bus station is due to take place this spring.",
+     "This will include the removal of the canopy and will require some full weekend closures of the bus station during March.",
+     "Further details will be available in coming weeks.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

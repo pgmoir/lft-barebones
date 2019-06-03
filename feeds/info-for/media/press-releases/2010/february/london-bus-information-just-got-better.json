@@ -1,0 +1,73 @@
+{
+ "pageTitle": "London Bus information just got better",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Bus information just got better",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) has launched a new online bus tool that provides passengers with even better travel information."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This new facility will give passengers easier access to local and specific information to help them make the most of London bus services",
+     "The tool provides passengers with access to detailed information about local bus services in London.",
+     "Passengers can search for information using a postcode, street name, route number or place of interest, and the tool will display the nearest bus stops, details of the bus routes that call at the particular bus stop, and the current bus route timetable.",
+     "The tool is simple and straightforward to use, plotting the bus routes over familiar network of roads and streets using Google maps.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"A couple of clicks away\"}",
+     "These maps lend themselves to easy and familiar navigation using zoom and the ability to drag the map to see surrounding areas.",
+     "Kulveer Ranger, the Mayor of London's transport advisor, said: 'The new web tool is all about the Mayor's ambitions to make London's buses even easier to use for the millions of Londoners and visitors that rely on them to get around our great city.",
+     "'Rather than huddling over a timetable this puts passengers just a couple of clicks away from being able to see exactly where routes go and should make getting around on the bus much simpler.'",
+     "Clare Kavanagh, Director of Performance London Buses, said: 'TfL is proud to operate one of the most extensive bus networks in the world and this new facility will give passengers easier access to local and specific information to help them make the most of London bus services.'",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Information on planned disruptions along a bus route is provided when searching for specific bus routes\",\"The London Buses tool is available \\u003ca href=\\\"http://www.tfl.gov.uk/busmaps\\\"\\u003eonline\\u003c/a\\u003e \",\"Plan you journey online or on the move using \\u003ca href=\\\"http://www.tfl.gov.uk/traveltools\\\"\\u003eTfL's Travel Tools\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

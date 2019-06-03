@@ -1,0 +1,68 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Correction to Congestion Charging Monitoring Report: Update on scheme impacts and operations, February 2004 and Press Release No. 932",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Please note the following amendments to the Congestion Charging monitoring report published earlier today. Amended versions will be made available on the TfL website as soon as possible."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The correct text should read as follows:",
+     "Page 1, 8th bullet point should read:",
+     "\"Surveys of over 700 businesses inside and immediately outside the charging zone have shown that wider economic and other factors were reported most frequently as influences on recent business performance; congestion charging constituted only 12 percent of the reported influences.\"",
+     "Page 1, 9th bullet point, and page 21, paragraph 4.16, and paragraph 6 of press release no. 932, should read:",
+     "\"When asked if the business supports congestion charging as long as there is continued investment in public transport, around 60 percent of the surveyed businesses agreed; around 20 percent of businesses disagreed and 20 percent with no change or don't know.\"",
+     "Page 18, paragraph 3.1, fourth bullet point, should read:",
+     "\"15 to 25 percent of the reduction in car movements is a result of the occupants switching to other forms of transport or making other adaptations.\"\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

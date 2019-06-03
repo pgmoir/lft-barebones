@@ -1,0 +1,185 @@
+{
+ "pageTitle": "Fund management",
+ "keywords": "TfL",
+ "description": "Fund management details including management and consultation groups, TfL Pension Fund documents, investments and accounts and support groups",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Fund management"
+  }
+ ],
+ "title": {
+  "title": "Fund management",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"title\":\"Management \\u0026 consultation\",\"links\":[{\"title\":\"Trustee board\",\"url\":\"/pensions/fund-management/trustee-board\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Committees\",\"url\":\"/pensions/fund-management/committees\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Pension Consultative Council\",\"url\":\"/pensions/fund-management/pension-consultative-council\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Pensioners' Forum\",\"url\":\"/pensions/fund-management/pensioners-forum\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Pensions Working Group\",\"url\":\"/pensions/fund-management/pensions-working-group\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Annual meeting\",\"url\":\"/pensions/fund-management/annual-meeting\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"title\":\"Investments and accounts\",\"links\":[{\"title\":\"Investment management and principles\",\"url\":\"/pensions/fund-management/investment-management-and-principles\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Performance\",\"url\":\"/pensions/fund-management/performance\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Accounts\",\"url\":\"/pensions/fund-management/accounts\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"title\":\"Fund documents\",\"links\":[{\"title\":\"Documents\",\"url\":\"/pensions/fund-management/documents\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Actuarial Valuation\",\"url\":\"/pensions/fund-management/actuarial-valuation\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Archive\",\"url\":\"/pensions/fund-management/archive\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"title\":\"Support\",\"links\":[{\"title\":\"Associations\",\"url\":\"/pensions/fund-management/associations\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Transport Benevolent Fund\",\"url\":\"/pensions/fund-management/transport-benevolent-fund\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Staff Welfare Fund\",\"url\":\"/pensions/fund-management/staff-welfare-fund\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Trustee board",
+      "url": "/pensions/fund-management/trustee-board",
+      "image": {}
+     },
+     {
+      "title": "Committees",
+      "url": "/pensions/fund-management/committees",
+      "image": {}
+     },
+     {
+      "title": "Pension Consultative Council",
+      "url": "/pensions/fund-management/pension-consultative-council",
+      "image": {}
+     },
+     {
+      "title": "Pensioners' Forum",
+      "url": "/pensions/fund-management/pensioners-forum",
+      "image": {}
+     },
+     {
+      "title": "Pensions working group",
+      "url": "/pensions/fund-management/pensions-working-group",
+      "image": {}
+     },
+     {
+      "title": "Annual members meeting",
+      "url": "/pensions/fund-management/annual-meeting",
+      "image": {}
+     },
+     {
+      "title": "Investment management and principles",
+      "url": "/pensions/fund-management/investment-management-and-principles",
+      "image": {}
+     },
+     {
+      "title": "Performance",
+      "url": "/pensions/fund-management/performance",
+      "image": {}
+     },
+     {
+      "title": "Accounts",
+      "url": "/pensions/fund-management/accounts",
+      "image": {}
+     },
+     {
+      "title": "Associations",
+      "url": "/pensions/fund-management/associations",
+      "image": {}
+     },
+     {
+      "title": "Transport Benevolent Fund",
+      "url": "/pensions/fund-management/transport-benevolent-fund",
+      "image": {}
+     },
+     {
+      "title": "Staff Welfare Fund",
+      "url": "/pensions/fund-management/staff-welfare-fund",
+      "image": {}
+     },
+     {
+      "title": "Documents",
+      "url": "/pensions/fund-management/documents",
+      "image": {}
+     },
+     {
+      "title": "Actuarial Valuation",
+      "url": "/pensions/fund-management/actuarial-valuation",
+      "image": {}
+     },
+     {
+      "title": "Archive",
+      "url": "/pensions/fund-management/archive",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

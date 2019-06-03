@@ -1,0 +1,77 @@
+{
+ "pageTitle": "CentreComm celebrates 30 years keeping London's buses moving",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "CentreComm celebrates 30 years keeping London's buses moving",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "CentreComm, London Buses' emergency command and control centre, celebrates its 30th anniversary today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "I imagine most of our passengers have no idea how much hard work goes on behind the scenes",
+     "Behind the scenes at London Buses, a dedicated team of professionals works 24/7 to keep the bus network running safely and reliably.",
+     "Staff at CentreComm take around 1,300 calls every day from London's 23,000 bus drivers, responding to any incident that has an impact on the bus network, setting up diversions and coordinating an emergency response where necessary.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Behind the scenes\"}",
+     "CentreComm has planned the bus network response to all major events taking place in London over the last 30 years, including the first London Marathon in 1981, the funeral of Princess Diana in 1997 and the Tour de France Grand Depart in 2007.",
+     "CentreComm also deals with unplanned events, including responding to the terrorist attacks on 7 July 2005, for which two members of staff were awarded MBEs.",
+     "When it opened in May 1979, CentreComm was staffed by just two people who used a pen and paper to record bus movements as they were radioed in by drivers.",
+     "Today it is a 45 person operation, relying on GPS technology to keep track of the location of every single bus in the fleet, and a state of the art radio system to communicate with drivers.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"State of the art\"}",
+     "Ken Davidson, London Buses Network Operations Manager, said: 'Last year, 2.2 billion journeys were made on London's bus network, and I imagine most of our passengers have no idea how much hard work goes on behind the scenes to keep the buses running.",
+     "'Staff at CentreComm work tirelessly to deal with the huge range of events that affect the bus network every day, planned and unplanned, large and small, ensuring bus passengers can rely on our services.",
+     "'In thirty years CentreComm has changed beyond recognition, from a two person, pen and paper operation, into a hi-tech nerve centre for London's bus fleet.",
+     "'As we continue to invest in the development of the bus network I'm sure that CentreComm will play a vital role in keeping the Capital moving for many years to come.'",
+     "{\"template\":\"bulletlist\"}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Fares freeze",
+ "keywords": "TfL",
+ "description": "Sadiq Khan, Mayor of London, is committed to freezing fares",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Fares freeze"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Fares freeze",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-fares-freeze-banner.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "The Mayor, Sadiq Khan has frozen fares in London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "See changes to some fares from 2 January 2019",
+      "url": "/campaign/new-fares",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

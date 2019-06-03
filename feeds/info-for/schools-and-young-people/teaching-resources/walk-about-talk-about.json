@@ -1,0 +1,164 @@
+{
+ "pageTitle": "Walk About, Talk About",
+ "keywords": "TfL",
+ "description": "A multimedia resource for parents and carers, helping London pedestrians to stay safer.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people",
+   "url": "/info-for/schools-and-young-people/index"
+  },
+  {
+   "title": "Educational resources",
+   "url": "/info-for/schools-and-young-people/teaching-resources"
+  },
+  {
+   "title": "Walk About, Talk About"
+  }
+ ],
+ "title": {
+  "title": "Walk About, Talk About",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Walk about, Talk about, is a multimedia DVD resource for parents and carers of pre-school aged children in London. Pre-school settings and Borough professionals can also use this resource as part of road safety related tasks and initiatives.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wata-logo_rdax_400x250.png\",\"alt\":\"Walk About, Talk About logo\"},\"wrapped\":false}",
+     "This multimedia resource looks at ways pedestrians can stay safer on\nLondon's roads and how parents/carers can be good role models.",
+     "Six short\nfilm sections show a Road Safety expert taking parents/carers and their\nchildren on different journeys.",
+     "{\"template\":\"video\",\"style\":\"VaKWwaHjkww\",\"title\":\"Journey planning\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Booklet\"}",
+     "You can download a \u003ca href=\"/cdn/static/cms/documents/walk-about-talk-about-leaflet.pdf.pdf\"\u003ehandy summary booklet of the six film sections\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Activity Sheets\"}",
+     "There are five fun activity sheets for your children to complete with you.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Activity sheet 1: Crossing the road\",\"url\":\"/cdn/static/cms/documents/walk-about-talk-about-activity-sheet-1.pdf\",\"icon\":\"download\",\"size\":\"PDF 248KB\",\"image\":{}},{\"title\":\"Activity sheet 2: Safer crossing places\",\"url\":\"/cdn/static/cms/documents/walk-about-talk-about-activity-sheet-2.pdf\",\"icon\":\"download\",\"size\":\"PDF 257KB\",\"image\":{}},{\"title\":\"Activity sheet 3: Travelling safely\",\"url\":\"/cdn/static/cms/documents/walk-about-talk-about-activity-sheet-3.pdf\",\"icon\":\"download\",\"size\":\"PDF 172KB\",\"image\":{}},{\"title\":\"Activity sheet 4: Safer journeys\",\"url\":\"/cdn/static/cms/documents/walk-about-talk-about-activity-sheet-4.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{}},{\"title\":\"Activity sheet 5: Journey planning\",\"url\":\"/cdn/static/cms/documents/walk-about-talk-about-activity-sheet-5.pdf\",\"icon\":\"download\",\"size\":\"PDF 250KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wata-activity-sheets.jpg\",\"alt\":\"walk about talk about activity sheets\"},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Schools \u0026 young people",
+    "links": [
+     {
+      "title": "Inspire Engineering",
+      "url": "/info-for/schools-and-young-people/inspire-engineering",
+      "image": {}
+     },
+     {
+      "title": "Youth involvement",
+      "url": "/info-for/schools-and-young-people/youth-involvement",
+      "image": {}
+     },
+     {
+      "title": "Educational resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "image": {}
+     },
+     {
+      "title": "Children's Traffic Club London",
+      "url": "/info-for/schools-and-young-people/teaching-resources/children-s-traffic-club-london",
+      "image": {}
+     },
+     {
+      "title": "Walk About, Talk About",
+      "url": "/info-for/schools-and-young-people/teaching-resources/walk-about-talk-about",
+      "image": {}
+     },
+     {
+      "title": "The A-Z of Traffic Tales",
+      "url": "/info-for/schools-and-young-people/teaching-resources/a-z-of-traffic-tales",
+      "image": {}
+     },
+     {
+      "title": "Just a Journey",
+      "url": "/info-for/schools-and-young-people/teaching-resources/just-a-journey",
+      "image": {}
+     },
+     {
+      "title": "Junior Travel Ambassadors",
+      "url": "/info-for/schools-and-young-people/teaching-resources/junior-travel-ambassadors",
+      "image": {}
+     },
+     {
+      "title": "Life's Journey",
+      "url": "/info-for/schools-and-young-people/teaching-resources/lifes-journey",
+      "image": {}
+     },
+     {
+      "title": "Youth Travel Ambassadors",
+      "url": "/info-for/schools-and-young-people/teaching-resources/youth-travel-ambassadors",
+      "image": {}
+     },
+     {
+      "title": "In a Flash",
+      "url": "/info-for/schools-and-young-people/teaching-resources/in-a-flash",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 Citizenship",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+      "image": {}
+     },
+     {
+      "title": "Young car drivers",
+      "url": "/info-for/schools-and-young-people/young-car-drivers",
+      "image": {}
+     },
+     {
+      "title": "Innovate TfL",
+      "url": "/info-for/schools-and-young-people/innovate-tfl",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Schools \u0026 young people",
+     "url": "/info-for/schools-and-young-people/innovate-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

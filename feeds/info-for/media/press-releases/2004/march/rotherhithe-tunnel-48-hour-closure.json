@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Rotherhithe Tunnel 48 hour Closure",
+ "description": "In order to install a new transformer system and remove the existing supply to the tunnel, electricity supplies will need to be fully switched off. With lighting ventilation and vital monitoring equipment not in operation the tunnel will be closed whilst",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Rotherhithe Tunnel 48 hour Closure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) will carry out essential repairs to Rotherhithe Tunnel for 48 hours over the weekend 27th and 28th March."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "In order to install a new transformer system and remove the existing supply to the tunnel, electricity supplies will need to be fully switched off. With lighting ventilation and vital monitoring equipment not in operation the tunnel will be closed whilst this vital work is carried out.",
+     "The Rotherhithe Tunnel will close from 05.00 am Saturday 27 March until 05.00 Monday 29 March.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Traffic will be diverted via Tower Bridge, no road works are scheduled on this diversion route.\",\"As the Rotherhithe Tunnel does not accommodate large vehicles their journeys will remain unaffected.\",\"The Blackwell Tunnel is also open to traffic on diversion.\",\"The 395 bus route which runs through the tunnel will be unaffected as it will be escorted through the tunnel during works.\\u003cbr /\\u003eTfL is committed to maintaining its roads to a high standard and apologises for any disruption these essential improvement works may cause.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A transformer receives an electrical supply from a distant source and alters its voltage so that it can be used by other equipment (in this case other equipment in the tunnel). Rotherhithe Tunnel will be receiving a new independent 11,000 volt supply with the old 415 volt supply being removed.\",\"The Rotherhithe Tunnel has for many years been supplied directly from a shared Low Voltage system. Now that the tunnel is undergoing major upgrades in plant the present system is being stretched and will not be able to cope in the near future with these demands.\",\"To bring the tunnel in line with other major road tunnels having their own independent electricity supplies it was essential that the present system be decommissioned. The new distribution system will enable the tunnel to run more efficiently now and in the future.\"]}",
+     "As London's population continues to grow there will increasing demands placed on our public transport system and TfL aims to deliver the improvements that will match London's future needs. This can only be achieved with continued support from Government. TfL will balance its budget whatever happens but without additional funding essential sustained improvement to the road network will not take place.",
+     "Anna Brosnan\u003cbr /\u003ePress Office\u003cbr /\u003eEmail: \u003ca href=\"mailto:annabrosnan@tfl.gov.uk\"lid=\"annabrosnan@tfl.gov.uk\"\u003eannabrosnan@tfl.gov.uk\u003c/a\u003e \u003cbr /\u003eDirect line: 020 7941 4376"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

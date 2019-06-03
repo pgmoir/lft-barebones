@@ -1,0 +1,171 @@
+{
+ "pageTitle": "The Collections",
+ "keywords": "Public,TfL",
+ "description": "Our archives feature a wide range of subjects covering many aspects of our organisation and London's transport history.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "Corporate archives",
+   "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives"
+  },
+  {
+   "title": "The Collections"
+  }
+ ],
+ "title": {
+  "title": "The Collections",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our archives feature a wide range of subjects covering many aspects of our organisation and London's transport history.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our archive collections include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Annual reports and accounts\",\"Capital projects records\",\"Chief officer's correspondence and papers\",\"Corporate policies\",\"Major incidents and enquiries records\",\"Minutes and papers of Boards and Committees of TfL, its predecessors, and subsidiary companies\",\"Safety audit records\",\"Patents and design records\",\"Property deeds\",\"Staff clubs and events records\",\"Staff magazines\",\"Staff registers\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Top 20 highlights of the collections in detail\",\"url\":\"/cdn/static/cms/documents/top-20-package.pdf\",\"icon\":\"download\",\"size\":\"PDF 7.15MB\",\"image\":{}},{\"title\":\"Cataloguing report 2016-2017\",\"url\":\"/cdn/static/cms/documents/cataloguing-report-2016-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.66MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Although we hold a number of staff registers, few of them contain more than a name, badge number, work location and work start date. They rarely contain addresses or extensive information about an individual's work records, although they might sometimes contain comments or details about pay rises, but this is unusual.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Research guides\"}",
+     "If you'd like to find out more about a particular archive subject, these introductory research guides will help:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buildings research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lots Road and Greenwich\",\"url\":\"/cdn/static/cms/documents/research-guide-no-30-lots-road-and-greenwich-power-stations.pdf\",\"icon\":\"download\",\"size\":\"PDF 180KB\",\"image\":{}},{\"title\":\"London buses in World War II\",\"url\":\"/cdn/static/cms/documents/research-guide-no-28-london-buses-in-world-war-2.pdf\",\"icon\":\"download\",\"size\":\"PDF 405KB\",\"image\":{}},{\"title\":\"55 Broadway building\",\"url\":\"/cdn/static/cms/documents/research-guide-8-55-broadway.pdf\",\"icon\":\"download\",\"size\":\"PDF 330KB\",\"image\":{}},{\"title\":\"TfL buildings post-1933\",\"url\":\"/cdn/static/cms/documents/research-guide-no-18-tfl-buildings-post-1933.pdf\",\"icon\":\"download\",\"size\":\"PDF 678KB\",\"image\":{}},{\"title\":\"Victoria Coach Station\",\"url\":\"/cdn/static/cms/documents/research-guide-no-20-victoria-coach-station.pdf\",\"icon\":\"download\",\"size\":\"PDF 170KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Trolleybuses in London\",\"url\":\"/cdn/static/cms/documents/research-guide-no-42-trolleybuses-in-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 287KB\",\"image\":{}},{\"title\":\"Overseas bus tours\",\"url\":\"/cdn/static/cms/documents/research-guide-no-40-overseas-bus-tours.pdf\",\"icon\":\"download\",\"size\":\"PDF 388KB\",\"image\":{}},{\"title\":\"Aldenham Bus Works\",\"url\":\"/cdn/static/cms/documents/research-guide-no-33-aldenham-bus-works.pdf\",\"icon\":\"download\",\"size\":\"PDF 345KB\",\"image\":{}},{\"title\":\"Fares/ticketing on London buses, trolleybuses and first-generation trams\",\"url\":\"/cdn/static/cms/documents/research-guide-no-35-fares-and-ticketing-on-londons-buses-trolleybuses-and-trams.pdf\",\"icon\":\"download\",\"size\":\"PDF 387KB\",\"image\":{}},{\"title\":\"Horse buses in London\",\"url\":\"/cdn/static/cms/documents/research-guide-no-14-horse-buses-in-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 356KB\",\"image\":{}},{\"title\":\"London bus garages and depots\",\"url\":\"/cdn/static/cms/documents/research-guide-no-34-london-transport-bus-garages-and-depots.pdf\",\"icon\":\"download\",\"size\":\"PDF 313KB\",\"image\":{}},{\"title\":\"London buses in World War 1\",\"url\":\"/cdn/static/cms/documents/research-guide-no-22-london-buses-in-world-war-one.pdf\",\"icon\":\"download\",\"size\":\"PDF 168KB\",\"image\":{}},{\"title\":\"London buses in World War II\",\"url\":\"/cdn/static/cms/documents/research-guide-no-28-london-buses-in-world-war-2.pdf\",\"icon\":\"download\",\"size\":\"PDF 405KB\",\"image\":{}},{\"title\":\"Routemaster buses\",\"url\":\"/cdn/static/cms/documents/routemaster-buses.pdf\",\"icon\":\"download\",\"size\":\"PDF 376KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dates and events research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London Aircraft Production Group\",\"url\":\"/cdn/static/cms/documents/research-guide-no-32-london-aircraft-production-group.pdf\",\"icon\":\"download\",\"size\":\"PDF 125KB\",\"image\":{}},{\"title\":\"London Transport Executive and the 1948 Olympic Games\",\"url\":\"/cdn/static/cms/documents/london-transport-executive-and-the-1948-olympic-games.pdf\",\"icon\":\"download\",\"size\":\"PDF 117KB\",\"image\":{}},{\"title\":\"Documentary sources for World War II\",\"url\":\"/cdn/static/cms/documents/documentary-sources-for-world-war-two.pdf\",\"icon\":\"download\",\"size\":\"PDF 95KB\",\"image\":{}},{\"title\":\"Key dates in the organisation's history\",\"url\":\"/cdn/static/cms/documents/key-dates-in-the-history-of-london-transport.pdf\",\"icon\":\"download\",\"size\":\"PDF 378KB\",\"image\":{}},{\"title\":\"Development of organised transportation in London\",\"url\":\"/cdn/static/cms/documents/research-guide-no-10-development-of-organised-transportation-in-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 471KB\",\"image\":{}},{\"title\":\"London's transport during World War 1\",\"url\":\"/cdn/static/cms/documents/research-guide-no-23-london-transport-during-world-war-one.pdf\",\"icon\":\"download\",\"size\":\"PDF 265KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Design research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Sources on the roundel and trademarks\",\"url\":\"/cdn/static/cms/documents/sources-on-the-roundel-and-trademarks-1906-1986.pdf\",\"icon\":\"download\",\"size\":\"PDF 95KB\",\"image\":{}},{\"title\":\"London Transport posters\",\"url\":\"/cdn/static/cms/documents/research-guide-no-11-london-transport-posters.pdf\",\"icon\":\"download\",\"size\":\"PDF 272KB\",\"image\":{}},{\"title\":\"Frank Pick papers\",\"url\":\"/cdn/static/cms/documents/research-guide-no-12-frank-pick-papers.pdf\",\"icon\":\"download\",\"size\":\"PDF 292KB\",\"image\":{}},{\"title\":\"Harry Beck and the Underground Map\",\"url\":\"/cdn/static/cms/documents/research-guide-no-24-harry-beck.pdf\",\"icon\":\"download\",\"size\":\"PDF 258KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"People research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Royalty and London Transport\",\"url\":\"/cdn/static/cms/documents/royalty-and-london-transport.pdf\",\"icon\":\"download\",\"size\":\"PDF 482KB\",\"image\":{}},{\"title\":\"Ethnic minorities in the workforce\",\"url\":\"/cdn/static/cms/documents/research-guide-no-21-ethnic-minorities.pdf\",\"icon\":\"download\",\"size\":\"PDF 347KB\",\"image\":{}},{\"title\":\"Women in the workforce\",\"url\":\"/cdn/static/cms/documents/research-guide-no-27-women-in-the-worforce.pdf\",\"icon\":\"download\",\"size\":\"PDF 254KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rail/Tube research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Kennington station\",\"url\":\"/cdn/static/cms/documents/research-guide-no-36-kennington-station.pdf\",\"icon\":\"download\",\"size\":\"PDF 104KB\",\"image\":{}},{\"title\":\"Bank station\",\"url\":\"/cdn/static/cms/documents/research-guide-no-38-bank-station.pdf\",\"icon\":\"download\",\"size\":\"PDF 600KB\",\"image\":{}},{\"title\":\"Aldwych station\",\"url\":\"/cdn/static/cms/documents/research-guide-no-37-aldwych-station.pdf\",\"icon\":\"download\",\"size\":\"PDF 325KB\",\"image\":{}},{\"title\":\"Bakerloo line\",\"url\":\"/cdn/static/cms/documents/research-guide-no-31-a-brief-history-of-the-bakerloo-line.pdf\",\"icon\":\"download\",\"size\":\"PDF 151KB\",\"image\":{}},{\"title\":\"Waterloo and City line\",\"url\":\"/cdn/static/cms/documents/research-guide-no-29-brief-history-of-the-waterloo-and-city-line.pdf\",\"icon\":\"download\",\"size\":\"PDF 97KB\",\"image\":{}},{\"title\":\"Disused Underground stations\",\"url\":\"/cdn/static/cms/documents/disused-underground-stations.pdf\",\"icon\":\"download\",\"size\":\"PDF 242KB\",\"image\":{}},{\"title\":\"Brief history of the Northern line\",\"url\":\"/cdn/static/cms/documents/research-guide-no-13-a-brief-history-of-the-northern-line.pdf\",\"icon\":\"download\",\"size\":\"PDF 228KB\",\"image\":{}},{\"title\":\"Brief history of the Central line\",\"url\":\"/cdn/static/cms/documents/research-guide-no-16-a-brief-history-of-the-central-line.pdf\",\"icon\":\"download\",\"size\":\"PDF 307KB\",\"image\":{}},{\"title\":\"Brief history of the Hammersmith \\u0026 City line\",\"url\":\"/cdn/static/cms/documents/research-guide-no-19-a-brief-history-of-the-hammersmith-and-city-line.pdf\",\"icon\":\"download\",\"size\":\"PDF 481KB\",\"image\":{}},{\"title\":\"The Thames Tunnel\",\"url\":\"/cdn/static/cms/documents/research-guide-no-25-the-thames-tunnel.pdf\",\"icon\":\"download\",\"size\":\"PDF 294KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Records research guides\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lost Property Office\",\"url\":\"/cdn/static/cms/documents/research-guide-no-43-lost-property-office.pdf\",\"icon\":\"download\",\"size\":\"PDF 276KB\",\"image\":{}},{\"title\":\"Records relating to London Transport held by other bodies\",\"url\":\"/cdn/static/cms/documents/records-relating-to-london-transport-held-by-other-bodies.pdf\",\"icon\":\"download\",\"size\":\"PDF 120KB\",\"image\":{}},{\"title\":\"Health \\u0026 safety records\",\"url\":\"/cdn/static/cms/documents/research-guide-no-15-health-and-safety-records.pdf\",\"icon\":\"download\",\"size\":\"PDF 274KB\",\"image\":{}},{\"title\":\"Sources for Genealogical Research\",\"url\":\"/cdn/static/cms/documents/research-guide-no-17-sources-for-genealogical-research.pdf\",\"icon\":\"download\",\"size\":\"PDF 285KB\",\"image\":{}},{\"title\":\"Document spotlight\",\"url\":\"/cdn/static/cms/documents/research-guide-no-26-document-spotlight-staff-register.pdf\",\"icon\":\"download\",\"size\":\"PDF 484KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our exhibitions\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"World War I exhibition (2018)\",\"url\":\"/cdn/static/cms/documents/ww1-exhibition-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.74MB\",\"image\":{}},{\"title\":\"Mapping exhibition (2017)\",\"url\":\"/cdn/static/cms/documents/mapping-exhibition-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.16MB\",\"image\":{}},{\"title\":\"Events exhibition (2016)\",\"url\":\"/cdn/static/cms/documents/events-exhibition-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.37MB\",\"image\":{}},{\"title\":\"Design exhibition (2015)\",\"url\":\"/cdn/static/cms/documents/design-exhibition-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.05MB\",\"image\":{}},{\"title\":\"Year of the Bus exhibition (2014)\",\"url\":\"/cdn/static/cms/documents/year-of-the-bus-exhibition-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.36MB\",\"image\":{}},{\"title\":\"Tube 150 exhibition (2013)\",\"url\":\"/cdn/static/cms/documents/tube-150-exhibition-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 13.85MB\",\"image\":{}},{\"title\":\"Exhibition highlights 2012\",\"url\":\"/cdn/static/cms/documents/exhibition-highlights-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.05MB\",\"image\":{}},{\"title\":\"Exhibition highlights 2011\",\"url\":\"/cdn/static/cms/documents/exhibition-highlights-2011.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.37MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Corporate archives",
+    "links": [
+     {
+      "title": "About the TfL Corporate Archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/about-the-tfl-archives",
+      "image": {}
+     },
+     {
+      "title": "Accessing our archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/accessing-our-archives",
+      "image": {}
+     },
+     {
+      "title": "The Collections",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections",
+      "image": {}
+     },
+     {
+      "title": "Inside the archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections/photo-archive",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Corporate archives",
+     "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections/photo-archive",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "HMRS Online",
+      "url": "http://www.hmrs.org.uk/index.php",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "The National Archives",
+      "url": "http://www.nationalarchives.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Metropolitan Archives",
+      "url": "http://www.cityoflondon.gov.uk/things-to-do/visiting-the-city/archives-and-city-history/london-metropolitan-archives/Pages/default.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "National Railway Museum Archives",
+      "url": "http://www.nrm.org.uk/researchandarchive",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

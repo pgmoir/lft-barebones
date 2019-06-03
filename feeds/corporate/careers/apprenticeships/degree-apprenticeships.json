@@ -1,0 +1,146 @@
+{
+ "pageTitle": "Degree apprenticeships",
+ "keywords": "TfL",
+ "description": "Find out how to study for a degree alongside working at TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Apprenticeships",
+   "url": "/corporate/careers/apprenticeships"
+  },
+  {
+   "title": "Degree apprenticeships"
+  }
+ ],
+ "title": {
+  "title": "Degree apprenticeships",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're considering going to university and want to combine this with hands-on practical experience then a TfL degree apprenticeship could be the answer.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "As a degree apprentice, you'll be studying for your degree alongside developing your professional skills and experience. You won't have any student debt and you'll receive a salary.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://tfl.taleo.net/careersection/apprentice/jobdetail.ftl?lang=en\\u0026job=026211\\\"\\u003eCivil Engineering\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.taleo.net/careersection/apprentice/jobdetail.ftl?lang=en\\u0026job=026212    \\\"\\u003eDesign and Development Engineering\\u003c/a\\u003e \",\"Commercial Property Surveying (Closed)\",\"Quantity Surveying (Closed)\",\"General Management (Closed)\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Why TfL?",
+      "url": "/corporate/careers/apprenticeships/why-tfl",
+      "image": {}
+     },
+     {
+      "title": "How to apply",
+      "url": "/corporate/careers/apprenticeships/application-process",
+      "image": {}
+     },
+     {
+      "title": "Choosing your apprenticeship",
+      "url": "/corporate/careers/apprenticeships/choosing-your-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeship schemes",
+      "url": "/corporate/careers/apprenticeships/apprenticeship-schemes",
+      "image": {}
+     },
+     {
+      "title": "Degree apprenticeships",
+      "url": "/corporate/careers/apprenticeships/degree-apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Meet our current apprentices",
+      "url": "/corporate/careers/apprenticeships/what-s-it-really-li",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

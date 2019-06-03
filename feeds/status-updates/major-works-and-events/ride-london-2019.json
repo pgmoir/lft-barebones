@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Prudential RideLondon 2019",
+ "keywords": "TfL",
+ "description": "Ride London 2019 travel advice",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Prudential RideLondon 2019"
+  }
+ ],
+ "title": {
+  "title": "Prudential RideLondon 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Prudential RideLondon returns on Saturday 3 and Sunday 4 August 2019. The cycling festival takes place over two days in London and Surrey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "More information on how London's transport network will operate during Prudential RideLondon London will be available soon.",
+     "For details of the event and how you can be involved, visit the \u003ca href=\"https://www.prudentialridelondon.co.uk/\"\u003ePrudential RideLondon website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel during the event\"}",
+     "Prudential RideLondon events will be held on fully closed roads across large parts of London. Some bus routes will be diverted or terminate early. Further information including the routes, road closure and changes to bus services will be available closer to the time.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use our travel tools\"}",
+     "All the information you will need to plan your travel during the Prudential RideLondon weekend will be on this webpage soon.",
+     "Our travel tools will help you keep up-to-date with the latest service information.",
+     "{\"template\":\"bulletlist\",\"items\":[\"For news about travel in London, follow \\u003ca href=\\\"https://twitter.com/TfLTravelAlerts\\\"\\u003e@TfLTravelAlerts\\u003c/a\\u003e , \\u003ca href=\\\"http://www.twitter.com/piccadillyline\\\"\\u003e@TfLBusAlerts\\u003c/a\\u003e and \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e \",\"Use the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL TravelBot\\u003c/a\\u003e on Facebook Messenger\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e can help you plan your route by public transport, cycling or walking\",\"Check our latest status updates for \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/\\\"\\u003etraffic\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/\\\"\\u003ebuses\\u003c/a\\u003e , and \\u003ca href=\\\"https://tfl.gov.uk/tube-dlr-overground/status/\\\"\\u003eTube and rail services\\u003c/a\\u003e .\",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"Sign up for our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

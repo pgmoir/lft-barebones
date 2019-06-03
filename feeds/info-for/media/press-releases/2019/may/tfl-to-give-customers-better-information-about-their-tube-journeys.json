@@ -1,0 +1,239 @@
+{
+ "pageTitle": "TfL to give customers better  information about their Tube journeys",
+ "description": "TfL to use depersonalised Wi-Fi data collection technology to give customers better, more accurate information about their Tube journeys",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2019",
+   "url": "/info-for/media/press-releases/2019"
+  },
+  {
+   "title": "May",
+   "url": "/info-for/media/press-releases/2019/may"
+  },
+  {
+   "title": "TfL to give customers better  information about their Tube journeys"
+  }
+ ],
+ "title": {
+  "title": "TfL to give customers better  information about their Tube journeys",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Innovative pilot of collecting depersonalised Wi-Fi data in 2016 demonstrated how technology could be used to reduce crowding and prioritise transport investment"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Secure, privacy-protected data collection will begin on 8 July 2019, with first customer benefits - such as better alerts about delays and congestion within stations - expected later in the year\",\"Individual customer data will never be shared and customers will not be personally identified from the data collected by TfL\",\"TfL worked closely with the Information Commissioner's Office to ensure privacy concerns and transparency were actively considered and addressed\"]}",
+     "Depersonalised Wi-Fi connection data will soon be used to help Transport for London (TfL) improve the information it provides to its customers on London Underground.",
+     "The depersonalised data collection, which will begin from 8 July 2019, will look to harness existing Wi-Fi connection data from more than 260 Wi-Fi enabled London Underground stations to understand how people navigate the network. This will then be used by TfL to provide better, more targeted information to its customers as they move around London, helping them better plan their route to avoid congestion and delays. The system, which has been developed in-house by TfL, will automatically depersonalise data, with no browsing or historical data collected from any devices.",
+     "Currently, TfL uses data from its ticketing system to understand how journeys are made across the network. While this is accurate for people entering and exiting the stations, this data cannot show the flow of movement through a station. Using depersonalised Wi-Fi data, will give a more accurate, almost real-time, understanding of the flow of people through stations or interchanging between services.",
+     "In 2016, TfL held a four-week long pilot to test Wi-Fi data collection technology across 54 stations within Zones 1-4. When a device has Wi-Fi enabled, it will continually search for a Wi-Fi network by sending out a unique identifier - known as a Media Access Control address - to nearby routers as customers pass through stations. This trial collected these Wi-Fi connection requests, which were automatically depersonalised, and were then analysed by TfL's in-house analytics team to help understand where customers were at particular points of their journeys. More than 509 million depersonalised pieces of data, were collected from 5.6 million mobile devices making around 42 million journeys which revealed a number of results to TfL that could not have been detected from ticketing data or paper-based surveys. For example, analysis showed that customers travelling between King's Cross St Pancras and Waterloo take at least 18 different routes, with around 40 per cent of customers not taking one of the two most popular routes.",
+     "Since the pilot, TfL has been working to understand how this data could be usefully used to provide customers with new, more tailored information about their journeys - both before they begin and while they are travelling. TfL also worked closely with key stakeholders and the Information Commissioner's Office to ensure privacy concerns and transparency were actively considered and addressed. Detailed digital mapping of all London Underground stations has also been undertaken to allow TfL to identify where Wi-Fi routers are located and to allow TfL to understand in detail how people move across the network and through stations.",
+     "Later this year, customers and TfL staff will begin to see the first benefits from this data, which could include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Providing crowding data via the TfL website to help customers better plan their route across London;\",\"Incorporating crowding data into TfL's free open-data API, which could allow app developers, academics and businesses to further utilise the data for new products and services;\",\"Early warning via the TfL website and social media channels about congestion at ticket halls or platforms, which will allow customers to alter their route;\",\"Helping TfL station staff have the latest information to hand when they are giving customers assistance (particularly those with small children or with accessibility needs) as well as advising them about travel conditions on other parts of the network.\"]}",
+     "As well as providing benefits to customers and staff, the data will also allow TfL to better understand customer flows throughout stations, highlighting the effectiveness and accountability of its advertising estate based on actual customer volumes. Being able to reliably demonstrate this should improve commercial revenue, which can then be reinvested back into the transport network.",
+     "Clear signage, based on TfL's signs on CCTV across the network, will shortly be installed across the London Underground network, ahead of the start of data collection, to inform customers and direct them to a web page with more information, including how data collected through this technology will be automatically depersonalised and securely stored. Following the start of collection on 8 July 2019, any customers who do not wish for their Wi-Fi connection data to be collected will need to turn Wi-Fi off on their devices in order to opt out.",
+     "Lauren Sager Weinstein, Chief Data Officer at Transport for London said:",
+     "'The benefits this new depersonalised dataset could unlock across our network—from providing customers with better alerts about overcrowding to helping station staff have a better understanding of the network in near-real time — are enormous. By better understanding overall patterns and flows, we can provide better information to our customers and help us plan and operate our transport network more effectively for all.",
+     "'While I am excited about the potential of this new dataset, I am equally mindful of the responsibility that comes with it. We take our customers' privacy extremely seriously and will not identify individuals from the Wi-Fi data collected. Transparency, privacy and ethics need to be at the forefront of data work in society and we recognise the trust that our customers place in us, and safeguarding our customers' data is absolutely fundamental.'",
+     "London's Chief Digital Officer, Theo Blackwell, said:",
+     "'TfL is a world leader in the use of data to improve services. Today nearly half of all Londoners use an app derived from TfL's open data feeds. Greater insight into how people use the Tube helps better transport planning but also enables the development of new apps to give customers further advance information about their planned journey in order to plan their best, and least congested route.'",
+     "Sue Daley, Associate Director Technology \u0026 Innovation techUK, said:",
+     "'Using Wi-Fi technology to gain real-time insights into how we are traveling around London's transport system brings to life how data collection and analysis can make a real difference to people's everyday lives. It is also a great example of how different technologies, such as Wi-Fi, data analytics and sensors, can work together to help reduce overcrowding, increase service efficiency and provide customised information for travellers that will make our journeys and lives that little bit easier.",
+     "'The transparency shown by TfL around the data collection taking place and the steps taken to make customers aware of its purpose is welcome and should be seen as an example for others. If we are to realise the full potential and value of real-time data, it is vital that we bring the public on this journey and build a culture of data trust and confidence.'",
+     "For more information, please visit \u003ca href=\"[ioID]#https://tfl.gov.uk/wifi-data-collection\"\u003ehttps://tfl.gov.uk/wifi-data-collection\u003c/a\u003e . To download the report from the 2016 pilot, please visit \u003ca href=\"[ioID]#https://tfl.gov.uk/corporate/publications-and-reports/wifi-data-collection\"\u003ehttps://tfl.gov.uk/corporate/publications-and-reports/wifi-data-collection\u003c/a\u003e ",
+     "Notes to editors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Having proven the concept using the pilot data, TfL will shortly be undertaking connectivity systems testing prior to commencing data collection, to ensure the infrastructure connections will work when it starts collecting data. No analysis of data will be undertaken during this connectivity testing phase and no data will be retained.\",\"Further work will also be required once data collection begins to ensure the solutions work on the whole network and at the pace that would make it most useful for our customers, in near real time.\",\"Information about the four-week pilot, including the list of London Underground stations covered by the pilot, is available at \\u003ca href=\\\"[ioID]#https://tfl.gov.uk/corporate/publications-and-reports/wifi-data-collection\\\"\\u003ehttps://tfl.gov.uk/corporate/publications-and-reports/wifi-data-collection\\u003c/a\\u003e \",\"In October 2017, analysis by Deloitte showed that the provision of free open data by TfL, which powers over 675 apps and is accessed by thousands of developers, is helping London's economy by up to £130m a year - \\u003ca href=\\\"[ioID]#https://tfl.gov.uk/info-for/media/press-releases/2017/october/tfl-s-free-open-data-boosts-london-s-economy\\\"\\u003ehttps://tfl.gov.uk/info-for/media/press-releases/2017/october/tfl-s-free-open-data-boosts-london-s-economy\\u003c/a\\u003e \",\"Graphics from the pilot report are available from TfL Press Office, please contact 0343 222 4141\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2019/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2019/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2019/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2019/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2019/may",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

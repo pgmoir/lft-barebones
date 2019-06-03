@@ -1,0 +1,125 @@
+{
+ "pageTitle": "Victoria Coach Station",
+ "keywords": "Coach drivers,Coaches,TfL",
+ "description": "The station supports all forms of coach activities including scheduled express and commuter services, day tours, coach holidays and private hire.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Coach drivers",
+   "url": "/info-for/coach-drivers/index"
+  },
+  {
+   "title": "Victoria Coach Station"
+  }
+ ],
+ "title": {
+  "title": "Victoria Coach Station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The station supports all forms of coach activities including scheduled express and commuter services, day tours, coach holidays and private hire.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Departure charges\"}",
+     "If you are a coach operator and you would like to make a booking, or to discuss your particular needs, please phone 0845 604 0770 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Valid from 28 April 2019 to 31 March 2020\"}",
+     "{\"template\":\"table\",\"rows\":[[\"h3\",\"h3\",\"h3\"],[\"Departure charges: Off-peak\",\"£46.27\",\"£55.52\"],[\"Departure charges: Peak\",\"£68.02\",\"£81.62\"],[\"\",\"\",\"\"],[\"h3\",\"h3\",\"h3\"],[\"Departure charges: Off-peak\",\"£53.27\",\"£63.92\"],[\"Departure charges: Peak\",\"£75.02\",\"£90.02\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coach maintenance\"}",
+     "Working in partnership with Sammy's Garage, Victoria Coach Station can offer the following facilities to coach operators:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Refuelling\",\"Toilet drop\",\"Coach wash\",\"Routine and emergency maintenance\"]}",
+     "Sammy's Garage is open 364 days a year from 06:00 to 23:00, and is located inside the Arrivals Terminal on Eccleston Place.",
+     "For further information, please call Sammy's Garage on 020 7730 8867.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Operator facilities\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Monitored by CCTV and patrolled by staff 24 hours a day\",\"Fuelling, toilet drop and maintenance in association with Sammy's Garage\",\"Ticket sale facilities for advance and on-the-day purchases\",\"Ground staff to assist with check-in and boarding\",\"Approved routes for journeys to and from the coach station (please see maps below)\"]}",
+     "For further information, please email \u003ca href=\"mailto:victoriacoachstationenquiries@tfl.gov.uk?Subject=Coach%20facilities\"\u003evictoriacoachstationenquiries@tfl.gov.uk\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Victoria Coach Station outbound route map\",\"url\":\"/cdn/static/cms/documents/victoria-coach-station-outbound-routes.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.60MB\",\"image\":{}},{\"title\":\"Victoria Coach Station inbound route map\",\"url\":\"/cdn/static/cms/documents/victoria-coach-station-inbound-routes.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.57MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Coach drivers",
+    "links": [
+     {
+      "title": "Advice for drivers",
+      "url": "/info-for/coach-drivers/advice-for-drivers",
+      "image": {}
+     },
+     {
+      "title": "Special parking arrangements",
+      "url": "/info-for/coach-drivers/special-parking-arrangements",
+      "image": {}
+     },
+     {
+      "title": "Victoria Coach Station",
+      "url": "/info-for/coach-drivers/victoria-coach-station",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Coach drivers",
+     "url": "/info-for/coach-drivers/victoria-coach-station",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Victoria Coach Station for passengers",
+      "url": "/modes/coaches/victoria-coach-station",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Processing your file",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Processing your file"
+  }
+ ],
+ "title": {
+  "title": "Processing your file",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "The uploaded file is being processed and may take some time to run, especially if the file contains more than 1000 vehicles. You can let the process run in the background while you access other programs on your computer.",
+     "An email will be sent automatically to the account holder, and any additional email address you added earlier, once the upload process has finished.",
+     "File name: {0} Selected partner discount is active on {1} vehicles."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

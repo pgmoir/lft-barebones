@@ -1,0 +1,43 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Plan a journey widget' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Plan a journey widget' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <%- include('../includes/planajourney', { card: {} }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-9">
+        <%- include('../includes/planajourney', { card: {} }) %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <%- include('../includes/planajourney', { card: {} }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/planajourney', { card: {} }) %>
+      </div>
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/planajourney', { card: {} }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2"></div>
+      <div class="col-12 col-sm-8">
+        <%- include('../includes/planajourney', { card: {} }) %>
+      </div>
+      <div class="col-sm-2"></div>
+    </div>
+  </div>
+</div>
+
+
+
+<%- include('../includes/foot') %>

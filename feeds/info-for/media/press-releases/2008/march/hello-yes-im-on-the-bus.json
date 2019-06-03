@@ -1,0 +1,78 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Hello, yes I'm on the bus!",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Mobile phone chat tops the list of public transport inconsiderate behaviour."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking loudly on a mobile phone is the most commonly witnessed type of inconsiderate behaviour on public transport according to new research conducted by Transport for London (TfL).\u003cbr /\u003e\u003cbr /\u003eThis was closely followed by loud noise from passengers' headphones and passengers taking up more than one seat or leaving bags on seats.",
+     "The survey also found that the majority of passengers behave inconsiderately without meaning to.\u003cbr /\u003e\u003cbr /\u003eThe research coincides with a TfL campaign to encourage people to 'Consider your fellow passengers'.",
+     "The aim of the campaign is to address everyday, irritating behaviour that can affect the experience of travelling on public transport and encourage people to take more responsibility for their own behaviour.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Considerate actions\"}",
+     "While two in three people believe that inconsiderate behaviours are unacceptable, most people admitted to having been inconsiderate themselves - the most common action being taking up more than one seat.\u003cbr /\u003e\u003cbr /\u003eMen were perceived as most likely to be responsible for behaviour such as speaking loudly on a mobile phone and eating hot food, whereas women were seen as being responsible for taking up more than one seat with bags.\u003cbr /\u003e\u003cbr /\u003eThe vast majority of people surveyed agree that all Londoners have a part to play in making the travel experience better.\u003cbr /\u003e\u003cbr /\u003eAlthough the survey showed a high level of awareness of inconsiderate behaviour in others, it also showed that people believe it is something that only other people do.\u003cbr /\u003e\u003cbr /\u003eConsiderate actions people claim to have carried out involve offering seats, being thoughtful and making a conscious decision not to leave litter.\u003cbr /\u003e\u003cbr /\u003eTfL recently launched their Considerate Travel campaign, encouraging passengers to consider their fellow passengers when using public transport.",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cbr /\\u003e\\u003cstrong\\u003eTop most witnessed inconsiderate behaviours\\u003c/strong\\u003e \\u003cbr /\\u003e\",\"\"],[\"Speaking loudly on a mobile phone\",\"94%\"],[\"Listening to music through headphones loud enough that others can hear it\",\"93%\"],[\"Taking up more than one seat\",\"88%\"],[\"Eating hot food\",\"86%\"],[\"Pushing/shoving to get on/off vehicle\",\"82%\"]]}",
+     "Some passengers admit to committing inconsiderate behaviour themselves",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003e Top inconsiderate behaviours people admit to committing\\u003c/strong\\u003e \",\"\"],[\"Taking up more than one seat or leaving bags on seats\",\"41%\"],[\"Eating hot food\",\"40%\"],[\"Pushing/shoving to get on/off vehicle\",\"26%\"],[\"Speaking loudly on a mobile phone\",\"25%\"]]}",
+     "The average person carried out 9 types of considerate behaviour in the last three months (November 2007 - January 2008)\u003cbr /\u003e",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003e Top considerate behaviours  people claim to carry out\\u003c/strong\\u003e \",\"\"],[\"Make room for another person/people to sit down\",\"93%\"],[\"Generally been more thoughtful of the people around me\",\"84%\"],[\"Given up a seat for a person more needy than myself\",\"80%\"],[\"Made a conscious decision not to leave litter\",\"80%\"],[\"Speak more quietly on my mobile phone\",\"76%\"]]}",
+     "Considerate travel posters have been placed across the transport network featuring 'The Londoners', a group of  animated characters each sporting a t-shirt with an individual slogan pledging to behave in a considerate way.\u003cbr /\u003e\u003cbr /\u003eThe pledges are as diverse as the characters themselves, ranging from 'I will offer my seat to the lady' to 'I will not play my music out loud' and 'I will try to remember what it is like to be 14 again'.\u003cbr /\u003e\u003cbr /\u003eKen Livingstone, Mayor of London, said: \"Public transport is for all Londoners and a little thought from each of us will make a big difference to everyone using our transport system.",
+     "\"We all share London's buses and Tube, so a little thought for one another can make all of our journeys more pleasant and less stressful.\"",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Responsibility\"}",
+     "David Brown, Managing Director of Surface Transport for TfL, said: \"The results of this survey are fascinating.",
+     "\"It shows that the majority of people recognise that being inconsiderate affects their journeys, but are not necessarily aware when they carry these out themselves.\u003cbr /\u003e\u003cbr /\u003e\"The Considerate Travel campaign aims to encourage us all to recognise those behaviours and to think about the people around us before we act.",
+     "\"If we all take responsibility for our own actions, it can make a real difference to life in the Capital.\"\u003cbr /\u003e\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Survey 'Considerate Travel February 2008' was carried out by Research International on behalf of TfL\",\"Fieldwork conducted from 14 January 2008 to 25 January 2008 with 700 people surveyed\",\"The Considerate Travel campaign, also known as \\u003ca href=\\\"http://www.tfl.gov.uk/togetherforlondon\\\"\\u003e'Together for London'\\u003c/a\\u003e , features posters placed on buses, in Underground stations and billboards across the Capital\",\"The accompanying cinema advert, shot by Oscar-nominated director Mike Figgis, can be seen on \\u003ca href=\\\"http://www.youtube.com/watch?v=WTTiR5yICGQ\\\"\\u003eYou Tube\\u003c/a\\u003e \\u003cbr /\\u003e\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

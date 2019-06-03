@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Busiest times to travel",
+ "keywords": "TfL",
+ "description": "Advice on the most crowded times on the Tube, DLR and roads in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Travel tools",
+   "url": "/status-updates/travel-tools"
+  },
+  {
+   "title": "Busiest times to travel"
+  }
+ ],
+ "title": {
+  "title": "Busiest times to travel",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"London's population is growing. By 2030, London is expected to have a population of 10 million people - that's the equivalent of having one full Tube train arriving every three days. Even with our investment programmes, this means it can get very busy at specific times and places. Here's how to plan for a quicker and more comfortable journey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "Search for your Tube station in our \u003ca href=\"/travel-information/stations-stops-and-piers/index\"\u003eStations, Stops and Piers\u003c/a\u003e section for a chart of the busiest and quieter times.  Some Tube station names are also transport hubs, so when you've found the right page, check you're in the Tube section to see the busiest times graph.",
+     "Or download an accessible, text version of this information below, which covers over 90 of our busiest Tube stations.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Busiest tube times - accessible version\",\"url\":\"/cdn/static/cms/documents/busiest-tube-times-accessible-v.pdf\",\"icon\":\"download\",\"size\":\"PDF 259KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If your station is busy when you want to travel:",
+     "{\"template\":\"bulletlist\",\"items\":[\"When you have the flexibility, change the time of travel - even 15 minutes can make a difference\",\"Consider alternative transport for some of your journey, like \\u003ca href=\\\"/modes/buses/index\\\"\\u003ebus\\u003c/a\\u003e , \\u003ca href=\\\"/modes/cycling/index\\\"\\u003ecycling\\u003c/a\\u003e or \\u003ca href=\\\"/modes/walking/index\\\"\\u003ewalking\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR\"}",
+     "The following DLR stations may be crowded at peak times. We know not everyone can change the time they travel, but if you can, you could board a train quicker and have a more comfortable journey.",
+     "{\"template\":\"table\",\"rows\":[[\"h4\",\"h4\"],[\"Bank\",\"17:30-18:15\"],[\"Canary Wharf\",\"17:30-17:45\"],[\"Canning Town\",\"08:15-08:45\"],[\"Crossharbour\",\"08:15-08:30\"],[\"Heron Quays\",\"17:30-17:45\"],[\"Island Gardens\",\"08:00-08:30\"],[\"Lewisham\",\"08:00-08:45\"],[\"Limehouse\",\"08:15-08:45\"],[\"Mudchute\",\"08:15-08:45\"],[\"Pontoon Dock\",\"08:00-08:30\"],[\"South Quay\",\"17:00-17:15\"],[\"Stratford\",\"08:15-08:30\"],[\"West Silvertown\",\"08:15-08:30\"],[\"Woolwich Arsenal\",\"08:00-08:15\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roads\"}",
+     "Check our \u003ca href=\"/status-updates/major-works-and-events/travel-advice-for-road-users\"\u003eTravel advice for road users\u003c/a\u003e page to see a two month look ahead at traffic across London, as well as more information on the busiest times at Blackwall Tunnel."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

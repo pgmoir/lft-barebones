@@ -1,0 +1,165 @@
+{
+ "pageTitle": "Policy influencing",
+ "keywords": "TfL",
+ "description": "Our team leads TfL's input into the London Plan and local policymaking",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Policy influencing"
+  }
+ ],
+ "title": {
+  "title": "Policy influencing",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our team leads TfL's input into the London Plan and local policymaking. We collect and report income from the Mayor's Community Infrastructure Levy (MCIL).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we do\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Help the Mayor develop evidence, policies and standards for transport-related parts of the \\u003ca href=\\\"https://www.london.gov.uk/what-we-do/planning/london-plan\\\"\\u003eLondon Plan\\u003c/a\\u003e \",\"Research, develop and test new innovative policies\",\"Provide supporting analysis and evidence\",\"Promote our work to boroughs and other relevant people\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local policymaking\"}",
+     "We're consulted by \u003ca href=\"https://directory.londoncouncils.gov.uk/\"\u003eLondon boroughs\u003c/a\u003e when they create their local plans, planning documents and \u003ca href=\"https://www.gov.uk/guidance/community-infrastructure-levy\"\u003eCommunity Infrastructure Levy\u003c/a\u003e (CIL) charging schedules. We make sure they reflect and help deliver priorities in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e (MTS).",
+     "We ensure the transport approach in land use planning stays consistent and evidence-based across TfL. For example, we can support you when we publish any guidance which may affect planning and new development in London.",
+     "We have a strong relationship with the Greater London Authority and Mayor to represent the MTS in local policy consultations and Examinations in Public.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Community Infrastructure Levy (CIL) and Section 106 (s106)\"}",
+     "We're responsible for administering the \u003ca href=\"/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy\"\u003eMayoral Community Infrastructure Levy\u003c/a\u003e (MCIL). We work with the Mayor and Greater London Authority to set the charging schedule and publish biannual monitoring reports. These assess the impact of MCIL.",
+     "We're responsible for collecting s106 funding secured by boroughs for TfL projects. We work with boroughs to get transport improvements in line with the MTS funded by the CIL and collected by local authorities.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For CIL consultations, email \\u003ca href=\\\"mailto:cilconsultation@tfl.gov.uk\\\"\\u003ecilconsultation@tfl.gov.uk\\u003c/a\\u003e .\",\"For local plan consultations, email \\u003ca href=\\\"mailto:spatialplanning@tfl.gov.uk\\\"\\u003espatialplanning@tfl.gov.uk\\u003c/a\\u003e .\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "Planning with WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

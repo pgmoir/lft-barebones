@@ -1,0 +1,60 @@
+{
+ "pageTitle": "Blue Badge discount",
+ "keywords": "TfL",
+ "description": "Before we can process your application for the Blue Badge discount on behalf of a Blue Badge holder, a London Road User Charging account must be set up in their name.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Blue Badge discount"
+  }
+ ],
+ "title": {
+  "title": "Blue Badge discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can apply for a 100% discount on the Congestion Charge on behalf of a Blue Badge holder or on behalf of an institution.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "Before you apply for the Blue Badge discount on behalf of a Blue Badge holder, a London Road User Charging account must be set up\u003cstrong\u003ein their name\u003c/strong\u003e . (Sign in now if they already have an account.)",
+     "To create an account, click on 'Continue' and complete all required fields. You can also set up optional services, such as mobile phone text alerts, to help you and/or the account holder manage the discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Applying for the Blue Badge discount\"}",
+     "Once the London Road User Charging account has been created and you or the account holder sign in, you will be directed automatically to complete the discount application. You will need to upload images of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Both sides of the Blue Badge\"]}",
+     "Plus 1 of the following proofs of identity:",
+     "{\"template\":\"bulletlist\",\"items\":[\"DSS benefit entitlement letter (less than 7 months old)\",\"Current passport\",\"Current driver's licence\",\"Pension book/entitlement letter (less than 7 months old)\",\"Birth certificate (same first and last names as the Blue Badge - not a Certificate of Registration of Birth)\",\"Marriage certificate (same first and last names as the Blue Badge)\",\"Current bank or credit card statement (no more than 3 months old)\",\"Deed Poll Certificate (same first and last names as the Blue Badge)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Authorisation form\"}",
+     "As you are not the Blue Badge holder you will also need to download, complete and return an authorisation form. This form will confirm that you are authorised to act on behalf of the Blue Badge holder.",
+     "The completed form can be scanned and uploaded along with other documents we need later in this application. If you are unable to scan or upload documents you can post them to the address provided at the end of the application process."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

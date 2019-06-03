@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Temporary bus route changes during Sutton High Street closure",
+ "description": "During this closure bus routes 80, 164, 280, 470, S1, S3, S4 and N44 will be diverted and stops P, N and O outside Sutton station will be closed. Passengers are advised to allow extra time to complete their journeys. The detail of the bus route diversions",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Temporary bus route changes during Sutton High Street closure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Sutton High Street will be closed from Tuesday 16 March for gas works to be carried out by Southern Gas Networks over the next 10 weeks completing by the end of May 2010."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "During this closure bus routes 80, 164, 280, 470, S1, S3, S4 and N44 will be diverted and stops P, N and O outside Sutton station will be closed.",
+     "Passengers are advised to allow extra time to complete their journeys. The detail of the bus route diversions is as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Route 80 will be diverted in both directions along Cedar Road, Langley Park Road and Carshalton Road and will be unable to serve Sutton High Street (outside the station). Passengers travelling to and from Sutton station should use temporary stops in Cedar Road (stops T3 and T4 on the enclosed map)\",\"Routes 164 and N44 will start and finish in Chalk Pit Way, and will not go to Sutton High Street (outside the station) or The Quadrant\",\"Route 280 will run in two sections: between Belmont station and Sutton station, and between Sutton Court Road and Tooting.  Passengers wishing to make a journey using both sections of the route will only need to pay one fare\",\"Routes 470 and S4 will be diverted in both directions from Mulgrave Road along Brighton Road, Cedar Road, Langley Park Road and Carshalton Road, and will be unable to serve Sutton High Street (outside the station). Buses will serve temporary stop in Cedar Road (stops T3 and T4 on the enclosed map)\",\"Route S1 will be diverted in both directions along Langley Park Road and Carshalton Road, and will be unable to serve Cavendish Road, Brighton Road and Sutton High Street\",\"Route S3 will be diverted in both directions along Carshalton Road, and will be unable to serve Langley Park Road, Cedar Road and Sutton High Street.\\u003cbr /\\u003e\"]}",
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Posters advising passengers of the diversions and stopping arrangements will be displayed at local bus stops and shelters in the area\",\"Routes 420 and 820 are run by Surrey County Council and both of these routes will start and finish journeys at The Quadrant, and will not run to and from Sutton Bus Garage\",\"A PDF detailing the road closure and affected bus routes is attached for information\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

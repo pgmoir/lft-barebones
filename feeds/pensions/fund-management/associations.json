@@ -1,0 +1,203 @@
+{
+ "pageTitle": "Associations",
+ "keywords": "TfL",
+ "description": "Associations related to the TfL Pension Fund.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Fund management",
+   "url": "/pensions/fund-management"
+  },
+  {
+   "title": "Associations"
+  }
+ ],
+ "title": {
+  "title": "Associations",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Associations related to the TfL Pension Fund.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Transport Pensioners' Association\"}",
+     "This association represents the interests of all pensioners and their dependants over pensions and other retirement benefits issues.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Constitution of London Transport Pensioners' Association\",\"url\":\"/cdn/static/cms/documents/constitution-of-ltpa-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 73KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Mrs A Barnes\u003cbr /\u003eLTPA Secretary",
+     "\u003cstrong\u003eTelephone:\u003c/strong\u003e 01273 267186\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:valdexia@btinternet.com\"\u003evaldexia@btinternet.com\u003c/a\u003e ",
+     "For membership application forms please contact",
+     "Mr N Dawkins\u003cbr /\u003e15 Ocho Rios Mews\u003cbr /\u003eEastbourne\u003cbr /\u003eEast Sussex\u003cbr /\u003eBN23 5UB",
+     "\u003cstrong\u003eTelephone:\u003c/strong\u003e 01323 472254\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:nicholas.dawkins@virgin.net\"\u003enicholas.dawkins@virgin.net\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Transport Retired Staff Association\"}",
+     "All retired staff can join. The aim is to keep retired staff in contact with their old friends and work associates and to offer advice in times of need or ill health.",
+     "For more information and an application form please contact:",
+     "Rena Craig\u003cbr /\u003e31 Saffron Meadow\u003cbr /\u003eStratford-upon-Avon\u003cbr /\u003eCV37 6GD",
+     "\u003cstrong\u003eTelephone:\u003c/strong\u003e 01789 205739",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Transport Superannuitants' Association\"}",
+     "This association represents ex-London Transport staff and their spouses, widows or widowers who receive a pension from the Fund.",
+     "The main purpose of this association is to maintain a link between pensioners and their former employer or colleagues.",
+     "For more information and an enrolment form please contact:",
+     "Mr J Robson\u003cbr /\u003eMembership Secretary LTSA\u003cbr /\u003e84 Bruce Castle Road\u003cbr /\u003eTottenham\u003cbr /\u003eLondon N17 8NJ",
+     "\u003cstrong\u003eTelephone:\u003c/strong\u003e 0208 8081511"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Trustee board",
+      "url": "/pensions/fund-management/trustee-board",
+      "image": {}
+     },
+     {
+      "title": "Committees",
+      "url": "/pensions/fund-management/committees",
+      "image": {}
+     },
+     {
+      "title": "Pension Consultative Council",
+      "url": "/pensions/fund-management/pension-consultative-council",
+      "image": {}
+     },
+     {
+      "title": "Pensioners' Forum",
+      "url": "/pensions/fund-management/pensioners-forum",
+      "image": {}
+     },
+     {
+      "title": "Pensions working group",
+      "url": "/pensions/fund-management/pensions-working-group",
+      "image": {}
+     },
+     {
+      "title": "Annual members meeting",
+      "url": "/pensions/fund-management/annual-meeting",
+      "image": {}
+     },
+     {
+      "title": "Investment management and principles",
+      "url": "/pensions/fund-management/investment-management-and-principles",
+      "image": {}
+     },
+     {
+      "title": "Performance",
+      "url": "/pensions/fund-management/performance",
+      "image": {}
+     },
+     {
+      "title": "Accounts",
+      "url": "/pensions/fund-management/accounts",
+      "image": {}
+     },
+     {
+      "title": "Associations",
+      "url": "/pensions/fund-management/associations",
+      "image": {}
+     },
+     {
+      "title": "Transport Benevolent Fund",
+      "url": "/pensions/fund-management/transport-benevolent-fund",
+      "image": {}
+     },
+     {
+      "title": "Staff Welfare Fund",
+      "url": "/pensions/fund-management/staff-welfare-fund",
+      "image": {}
+     },
+     {
+      "title": "Documents",
+      "url": "/pensions/fund-management/documents",
+      "image": {}
+     },
+     {
+      "title": "Actuarial Valuation",
+      "url": "/pensions/fund-management/actuarial-valuation",
+      "image": {}
+     },
+     {
+      "title": "Archive",
+      "url": "/pensions/fund-management/archive",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Cart' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Shop', url: '/shop/' }, { title: 'Cart' } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+    <div class="container-lft">
+        <% if (products.length > 0) { %>
+            <% products.forEach(p => { %>
+                <div class="row pb-3">
+                    <div class="col-12 d-flex align-items-center">
+                        <div class="w-100 pr-2 h5 mb-0"><%= p.productId.title %> <span class="badge badge-success"><%= p.quantity %></span></div>
+                        <form action="/shop/cart-delete-item" method="POST" class="flex-shrink-1">
+                            <input type="hidden" name="productId" value="<%= p.productId._id %>">
+                            <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                            <button class="btn btn-danger" type="submit">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            <% }) %>
+            <hr />
+            <div class="row pb-3">
+                <div class="col-12 d-flex justify-content-end">
+                    <a href="/shop/" class="btn btn-secondary mr-3">Continue Shopping</a>
+                    <!--<form action="/shop/create-order" method="POST">
+                        <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                        <button type="submit" class="btn btn-primary d-inline">Order Now!</button>
+                    </form>-->
+                    <a href="/shop/checkout" class="btn btn-primary">Order Now!</a>
+                </div>
+            </div>
+        <% } else { %>
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <h3>No Products in Cart!</h3>
+                </div>
+            </div>
+        <% } %>
+    </div>
+</section>
+
+<%- include('../includes/foot') %>

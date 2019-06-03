@@ -1,0 +1,81 @@
+{
+ "description": "Please check our realtime travel news for the latest updates.Metropolitan lineA full Metropolitan line service to Aldgate will re-commence from Monday morning, 25 July.Northern lineFollowing the incident at Stockwell on Friday, services have been restored",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "22 July: Latest tube services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Following incidents on the Tube on Thursday 21 and Friday 22 July, and because of the continuing disruption caused by the events of 7 July, some Tube services remain disrupted."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Please check our \u003ca href=\"http://www.tfl.gov.uk/tube/travelinfo/realtime/\"\u003erealtime travel news\u003c/a\u003e for the latest updates.",
+     "\u003cstrong\u003eMetropolitan line\u003c/strong\u003e ",
+     "A full Metropolitan line service to Aldgate will re-commence from Monday morning, 25 July.",
+     "\u003cstrong\u003eNorthern line\u003c/strong\u003e ",
+     "Following the incident at Stockwell on Friday, services have been restored to all destinations.",
+     "\u003cstrong\u003ePiccadilly line\u003c/strong\u003e ",
+     "Due to the events of 7 July there remains no service between Arnos Grove and Hyde Park Corner or between Rayners Lane and Uxbridge.",
+     "Rail Replacement bus services are running as follows:",
+     "Service A: Arnos Grove - Finchley Central (Fast) for Northern line services. Service B: Arnos Grove - Bounds Green - Wood Green - Turnpike Lane - Seven Sisters for Victoria line and National Rail services.",
+     "\u003cstrong\u003eCircle line\u003c/strong\u003e ",
+     "No service due to the events of 7 July",
+     "\u003cstrong\u003eHammersmith \u0026 City line\u003c/strong\u003e ",
+     "Following the incident on Thursday at Shepherd's Bush station, services have now been restored between Hammersmith and Paddington. There remains no service between Paddington and Barking due to the events of 7 July.",
+     "\u003cstrong\u003eDistrict line\u003c/strong\u003e ",
+     "No service between Edgware Road and High Street Kensington due to the events of 7 July.font",
+     "\u003cstrong\u003eOther travel information\u003c/strong\u003e ",
+     "Please click \u003ca href=\"http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/tube-all-future.html\"\u003ehere\u003c/a\u003e for details of disruption due to planned engineering work and for the very latest on how services are running.",
+     "For alternative route options you can use \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003eJourney Planner\u003c/a\u003e ",
+     "Please keep your belongings with you at all times. Passengers are asked to remain vigilant and to report anything suspicious to a member of staff or a Police Officer.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

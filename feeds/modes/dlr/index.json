@@ -1,0 +1,216 @@
+{
+ "pageTitle": "DLR",
+ "keywords": "DLR ,TfL",
+ "description": "Trains from Bank, Tower Gateway and Stratford International to Lewisham, Woolwich Arsenal and Becton",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "DLR"
+  }
+ ],
+ "title": {
+  "title": "DLR",
+  "icon": "dlr",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "No need to hang around",
+    "texts": [
+     "Get instant answers. Just ask TfLTravelBot on Facebook Messenger"
+    ],
+    "link": {
+     "url": "https://m.me/tfltravelbot",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-travelbot-koala-flip.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "searchfilter",
+    "title": "Find a DLR station",
+    "texts": [
+     "For live departures, status information, route maps and timetables"
+    ],
+    "link": {
+     "url": "https://tfl.gov.uk/disambiguation",
+     "button": "Go",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "DLR ambassadors",
+    "texts": [
+     "Our community ambassadors are here to help anyone using the DLR."
+    ],
+    "link": {
+     "url": "/modes/dlr/dlr-ambassadors",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Destination DLR - download our map",
+    "links": [
+     {
+      "title": "Download our map of things to do via the DLR",
+      "url": "/cdn/static/cms/documents/dlr30-leaflet-and-map.pdf",
+      "icon": "download",
+      "size": "PDF 1.75MB",
+      "image": {
+       "url": "https://tfl.gov.uk/cdn/static/cms/images/dlr30-leaflet-preview-cropped.jpg",
+       "alt": "DLR30 leaflet"
+      }
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Fares",
+      "url": "/fares-and-payments/fares2018/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Refunds",
+      "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Service changes",
+    "texts": [
+     "Check for planned line closures and service changes"
+    ],
+    "link": {
+     "url": "/status-updates/planned-track-closures",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Improving the DLR",
+    "texts": [
+     "What we're doing to make your service better"
+    ],
+    "link": {
+     "url": "/modes/dlr/improving-the-dlr",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "serviceboard",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@LondonDLR",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

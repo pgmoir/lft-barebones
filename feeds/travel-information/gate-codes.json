@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Gate codes",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Gate codes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"table\",\"titles\":[\"Code\",\"Description\",\"Action\"],\"rows\":[[],[\"02\",\"Wrong type / Direction\",\"Try again\"],[\"05\\u003cbr /\\u003e\",\"Validator in test mode\\u003cbr /\\u003e\",\"\"],[\"06\\u003cbr /\\u003e\",\"Wrong mode or test card\",\"Irregular travel\"],[\"07\\u003cbr /\\u003e\",\"Ticket unreadable\",\"Try again\"],[\"08\\u003cbr /\\u003e\",\"Re-coding error\",\"Replace ticket\"],[\"09\\u003cbr /\\u003e\",\"Ticket read error\",\"Replace ticket\"],[\"11\\u003cbr /\\u003e\",\"Out of date\",\"Use alternative ticket/card\"],[\"12\\u003cbr /\\u003e\",\"Not valid at this time\",\"Use alternative ticket/card\"],[\"13\\u003cbr /\\u003e\",\"Under value\\u003cbr /\\u003e\",\"\"],[\"14\\u003cbr /\\u003e\",\"Not valid for travel\\u003cbr /\\u003e\",\"Irregular travel\"],[\"16\\u003cbr /\\u003e\",\"Outside zone\\u003cbr /\\u003e\",\"\"],[\"17\\u003cbr /\\u003e\",\"Not issued here\\u003cbr /\\u003e\",\"Irregular travel\"],[\"18\\u003cbr /\\u003e\",\"Not valid here\",\"\"],[\"20\\u003cbr /\\u003e\",\"Card expired\",\"Use alternative ticket/card\"],[\"21\\u003cbr /\\u003e\",\"Double entry attempted\",\"\"],[\"22\\u003cbr /\\u003e\",\"Double exit attempted\",\"\"],[\"24\\u003cbr /\\u003e\",\"Insufficient PAYG\",\"Top-up PAYG\"],[\"25\\u003cbr /\\u003e\",\"Unstarted journey\",\"\"],[\"26\\u003cbr /\\u003e\",\"Entry/exit at same station\",\"\"],[\"27\\u003cbr /\\u003e\",\"PAYG not enabled\",\"\"],[\"28\\u003cbr /\\u003e\",\"PAYG disabled\",\"Use alternative ticket/card\"],[\"29\\u003cbr /\\u003e\",\"Ticket disabled\",\"Use alternative ticket/card\"],[\"30\\u003cbr /\\u003e\",\"Card disabled\",\"Irregular travel\"],[\"33\\u003cbr /\\u003e\",\"Illogical interchange\",\"\"],[\"34\\u003cbr /\\u003e\",\"Exit not allowed\",\"\"],[\"35\\u003cbr /\\u003e\",\"Insufficient PAYG\",\"Top-up PAYG\"],[\"36\\u003cbr /\\u003e\",\"Insufficient PAYG\",\"Top-up PAYG\"],[\"37\\u003cbr /\\u003e\",\"Customer Type expired\",\"Use alternative ticket/card\"],[\"40\\u003cbr /\\u003e\",\"Card not accepted\",\"Use alternative ticket/card\"],[\"41\\u003cbr /\\u003e\",\"Pass back through\",\"\"],[\"42\\u003cbr /\\u003e\",\"Pass back\",\"\"],[\"43\\u003cbr /\\u003e\",\"\",\"\"],[\"44\\u003cbr /\\u003e\",\"Already used\",\"Use alternative ticket/card\"],[\"45\\u003cbr /\\u003e\",\"Card not approved\",\"Use alternative ticket/card\"],[\"46\\u003cbr /\\u003e\",\"Not valid\",\"Use alternative ticket/card\"],[\"51\\u003cbr /\\u003e\",\"Already used\",\"Use alternative ticket/card\"],[\"52\\u003cbr /\\u003e\",\"Hot listed magnetic Pass\",\"Irregular travel\"],[\"54\\u003cbr /\\u003e\",\"Cancelled magnetic ticket\",\"Replace ticket\"],[\"57\\u003cbr /\\u003e\",\"Period ticket not valid\",\"\"],[\"61\\u003cbr /\\u003e\",\"Too long at interchange\",\"\"],[\"62\\u003cbr /\\u003e\",\"Too long on journey\",\"\"],[\"63\\u003cbr /\\u003e\",\"Too long on platform\",\"Irregular travel\"],[\"64\\u003cbr /\\u003e\",\"Exit time exceeded\",\"\"],[\"65\\u003cbr /\\u003e\",\"Entry time exceeded\",\"\"],[\"67\\u003cbr /\\u003e\",\"Card not approved\",\"Refer to card issuer\"],[\"69\\u003cbr /\\u003e\",\"Card not approved\",\"Refer to Helpdesk\"],[\"70\\u003cbr /\\u003e\",\"Unspecified card\",\"Try again\"],[\"71\\u003cbr /\\u003e\",\"Multiple cards\",\"Represent one card\"],[\"73\\u003cbr /\\u003e\",\"Emergency not valid here\",\"\"],[\"74\\u003cbr /\\u003e\",\"Card not approved by TfL\",\"Refer to Helpdesk\"],[\"76\\u003cbr /\\u003e\",\"Payment cards  not accepted\",\"Try another reader\"],[\"77\\u003cbr /\\u003e\",\"ITSO not supported\",\"Use alternative ticket/card\"],[\"78\\u003cbr /\\u003e\",\"Unknown card type\",\"Use alternative ticket/card\"],[\"79\\u003cbr /\\u003e\",\"Card validation failure\",\"Use alternative ticket/card\"],[\"80\\u003cbr /\\u003e\",\"Card not approved\",\"Use alternative ticket/card\"],[\"81\\u003cbr /\\u003e\",\"Illogical use of ticket\",\"\"],[\"82\\u003cbr /\\u003e\",\"Illogical use of ticket\",\"\"],[\"85\\u003cbr /\\u003e\",\"Card expired\",\"Use alternative ticket/card\"],[\"86\\u003cbr /\\u003e\",\"Invalid card\",\"Use alternative ticket/card\"],[\"89\\u003cbr /\\u003e\",\"Unknown card type\",\"Use alternative ticket/card\"],[\"90\\u003cbr /\\u003e\",\"Rejecting monitored  tickets\",\"Refer to RCI\"],[\"91\\u003cbr /\\u003e\",\"Card not yet valid\",\"Use alternative ticket/card\"],[\"92\\u003cbr /\\u003e\",\"Card directory corrupt\",\"Card needs to be replaced\"],[\"93\\u003cbr /\\u003e\",\"Card contents corrupt\",\"Card needs to be replaced\"],[\"94\\u003cbr /\\u003e\",\"Card read failed\",\"Try again\"],[\"95\\u003cbr /\\u003e\",\"Card not approved\",\"Refer to Helpdesk\"],[\"96\\u003cbr /\\u003e\",\"Reader comms error\",\"Try another reader\"],[\"97\\u003cbr /\\u003e\",\"Card removed early\",\"Try again\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

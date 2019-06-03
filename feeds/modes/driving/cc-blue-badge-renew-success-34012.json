@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "COMPLETEDCONFIRMATIONTEXT (BLUE BADGE)",
+     "We will send a confirmation if your renewal has been approved.",
+     "We aim to respond to you within the next 10 working days.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Next steps\"}",
+     "Your renewal is now being processed.",
+     "We will let you know the outcome by your preferred communication channel.",
+     "If your discount is due to expire and has not been renewed by the expiry date, you will need to pay the charge from that date.",
+     "If your discount has already expired you need to pay the charge until you receive confirmation it has been renewed successfully."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

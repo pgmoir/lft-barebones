@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Change address",
+ "keywords": "TfL",
+ "description": "You have an active residents' discount at your current address.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Change address"
+  }
+ ],
+ "title": {
+  "title": "Change address",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You have an active residents' discount at your current address.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you have moved within the Congestion Charge zone you may be able to transfer the discount to your new address. To keep your discount you need to send us documents about your new address and vehicle.",
+     "You can upload these documents now, or \u003ca href=\"/modes/driving/cc-contact-us-make-an-enquiry-wizard-37743\"\u003eattach them on our enquiry form\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

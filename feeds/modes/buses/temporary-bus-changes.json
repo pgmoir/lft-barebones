@@ -1,0 +1,188 @@
+{
+ "pageTitle": "Temporary bus changes",
+ "keywords": "TfL",
+ "description": "Details of temporary changes to TfL bus routes including diversions",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Buses",
+   "url": "/modes/buses/index"
+  },
+  {
+   "title": "Changes to bus routes",
+   "url": "/modes/buses/bus-service-changes"
+  },
+  {
+   "title": "Temporary bus changes"
+  }
+ ],
+ "title": {
+  "title": "Temporary bus changes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Read details of significant temporary bus changes including major planned diversions.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hammersmith Bridge closure\"}",
+     "Bus services are diverted or cut back until major safety-critical strengthening work is completed on Hammersmith Bridge which is currently closed to all motor traffic.",
+     "For more information visit our \u003ca href=\"/status-updates/major-works-and-events/hammersmith-bridge-closure\"\u003eHammersmith Bridge closure\u003c/a\u003e page.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Changes to bus services in Hammersmith bridge area\",\"url\":\"/cdn/static/cms/documents/hammersmith-bridge-dr.pdf\",\"icon\":\"download\",\"size\":\"PDF 175KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Norwood Road\"}",
+     "From 22:00 Monday 27 May until late October 2019, Route 315 will not serve Canterbury Grove, Royal Circus, York Hill, Norwood Road, Norwood High Street and Ernest Avenue.",
+     "A diversion will be in place via Leigham Court Road, Crown Lane (Crown Point) and Knights Hill, with buses terminating at Norwood Bus Garage. The diversion will affect buses travelling towards West Norwood only. Buses towards Balham will run as normal.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Shepherd's Bush Green\"}",
+     "From 09:00 Wednesday 15 August 2018 until 18:00 Saturday 30 March 2019 Bus stop N on Shepherd's Bush Green is closed due to development work nearby.",
+     "See document below for information about where to catch your bus.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Where to catch your bus\",\"url\":\"/cdn/static/cms/documents/stop-n-at-shepherds-bush-green-closed-web.pdf\",\"icon\":\"download\",\"size\":\"PDF 134KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Feltham station bridge works\"}",
+     "From 29 May 2018 to late August 2019, Hounslow Road will be temporarily closed between New Road and Hanworth Road to all traffic and pedestrians in both directions. This is while improvement works are carried out to the railway bridge at Feltham train station.",
+     "For the duration of the works the following bus routes will be diverted:",
+     "90, 117, 235, 285, 490, 635, H25 and H26.",
+     "The area may be busier than usual. Please check before you travel and allow extra time for your journey.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Feltham station works diversion\",\"url\":\"/cdn/static/cms/documents/feltham-station-bridge-works.pdf\",\"icon\":\"download\",\"size\":\"PDF 154KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Liverpool Street bus station works\"}",
+     "\u003cstrong\u003eBus routes 11, 133, 153, N11, N133 affected\u003c/strong\u003e ",
+     "From 23:30 on Monday 6 November 2017 until September 2019, Liverpool Street bus Station is closed to allow construction work on the adjacent Broadgate site redevelopment.",
+     "Routes 11, 133, N11 and N133:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Finish at Old Broad Street, near Great Winchester Street (stop Z), approximately 275m from Liverpool Street station.\",\"Start at London Wall, All Hallows Church (stop U), approximately 275m from Liverpool Street station, and serve Old Broad Street, near Great Winchester Street (stop R) as normal\"]}",
+     "They will return to normal when the bus station reopens.",
+     "Route 153",
+     "Route 153 will continue to start and finish at Moorgate, Finsbury Square (stop J), approximately 500m from Liverpool Street station. It was temporarily re-routed to Moorgate, Finsbury Square to maintain  reliability during roadworks and road closures. The route will be restored to the bus station when it reopens.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sutton Hospital - Route S3\"}",
+     "\u003cstrong\u003eBus route S3 diverted to Belmont station until further notice.\u003c/strong\u003e ",
+     "From Saturday 28 October 2017 until further notice, route S3 no longer serves Sutton Hospital (bus stop K) or Cotswold Road (bus stops E and F).",
+     "Route S3 now runs the full length of Downs Road to Belmont rail station. The last stop is stop D and the first stop is stop C. It continues to serve stops M and N in Downs Road (near Cotswold Road) and stop L in the grounds of Royal Marsden Hospital.",
+     "This is due to the redevelopment of Sutton Hospital. We are no longer able to use the bus stop in the hospital grounds.",
+     "We are working with the developers to reinstate route S3 to the redeveloped site in the future."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Buses",
+    "links": [
+     {
+      "title": "Changes to bus routes",
+      "url": "/modes/buses/bus-service-changes",
+      "image": {}
+     },
+     {
+      "title": "Permanent bus changes",
+      "url": "/modes/buses/permanent-bus-changes",
+      "image": {}
+     },
+     {
+      "title": "Temporary bus changes",
+      "url": "/modes/buses/temporary-bus-changes",
+      "image": {}
+     },
+     {
+      "title": "Live bus arrivals",
+      "url": "/modes/buses/live-bus-arrivals",
+      "image": {}
+     },
+     {
+      "title": "Improving buses",
+      "url": "/modes/buses/improving-buses",
+      "image": {}
+     },
+     {
+      "title": "Who runs your bus",
+      "url": "/modes/buses/who-runs-your-bus",
+      "image": {}
+     },
+     {
+      "title": "Cash free buses",
+      "url": "/modes/buses/cash-free-buses",
+      "image": {}
+     },
+     {
+      "title": "Demand responsive bus service",
+      "url": "/modes/buses/demand-responsive-bus-service",
+      "image": {}
+     },
+     {
+      "title": "Using buses in London",
+      "url": "/modes/buses/using-buses-in-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Buses",
+     "url": "/modes/buses/using-buses-in-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Major works \u0026 events",
+      "url": "/status-updates/major-works-and-events",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Change buses for free with the Hopper fare",
+    "texts": [
+     "Make unlimited pay as you go bus and tram journeys within one hour of first touching in for £1.50."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

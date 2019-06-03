@@ -1,0 +1,46 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Call To Action buttons' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Call To Action button' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <%- include('../includes/cta', { card: { style: 'primary', link: { url: '/', title: 'Plan a journey' } } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-9">
+        <%- include('../includes/cta', { card: { style: 'outline-primary', link: { url: '/', title: 'Plan a journey' } } }) %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <%- include('../includes/cta', { card: { style: 'secondary', link: { url: '/', title: 'Plan a journey' } } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/cta', { card: { style: 'success', link: { url: '/', title: 'Plan a journey' } } }) %>
+      </div>
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/cta', { card: { style: 'danger', link: { url: '/', title: 'Plan a journey' } } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2"></div>
+      <div class="col-12 col-sm-8">
+        <%- include('../includes/cta', { card: { style: 'outline-dark', link: { url: '/', title: 'Plan a journey' } } }) %>
+      </div>
+      <div class="col-sm-2"></div>
+    </div>
+
+    
+
+  </div>
+</div>
+
+
+
+<%- include('../includes/foot') %>

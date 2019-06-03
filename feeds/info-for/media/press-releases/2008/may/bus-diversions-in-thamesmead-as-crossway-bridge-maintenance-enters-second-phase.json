@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Bus diversions in Thamesmead as Crossway bridge maintenance enters second phase",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Bus diversions in Thamesmead as Crossway bridge maintenance enters second phase",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The second phase of bridge maintenance works on Crossway, Thamesmead begins on 27 May 2008 and will result in diversions on a number of bus routes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The works are being carried out by Tilfen Land, a local developer.",
+     "They are expected to last three months and will affect routes 177, 229, 401, 472, 601, 602 and N1.",
+     "These will be diverted as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buses from Thamesmead will follow the northern arm of Crossway to the Summerton Way roundabout, where they will double back, returning along the northern arm of Crossway to Carlyle Road\",\"From the Carlyle Road/Bentham Road roundabout all routes will continue with their journey as usual\",\"Buses travelling in the other direction (towards Thamesmead) will follow the same diversion in reverse\"]}",
+     "Due to these diversions, buses will be unable to serve the stops located on the southern arm of Crossway.",
+     "Passengers are advised to check posters on local bus stops for more information about the diversions.",
+     "These arrangements ensure that residents around Crossway continue to be served as effectively as possible while maintaining through buses for all other users.",
+     "Other parts of the routes are unaffected.",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "\u003cstrong\u003e \u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\"}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

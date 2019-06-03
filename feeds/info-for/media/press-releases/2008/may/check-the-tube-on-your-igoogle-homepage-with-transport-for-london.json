@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Check the Tube on your iGoogle homepage with Transport for London",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Check the Tube on your iGoogle homepage with Transport for London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) has created a number of internet gadgets to help Londoners plan journeys or get live travel news direct to their desktop."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "These simple to use gadgets will make it easier for Londoners and visitors to the capital to get the travel information they need",
+     "The gadgets, which can be added to your iGoogle homepage, allow the user to access live transport information about London's transport network without having to search the internet for the information.",
+     "iGoogle, Google's customizable homepage, allows internet users to personalise their web experience, choosing the content they're interested in seeing and having it right at their fingertips.",
+     "From today, there will be three new gadgets available:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Journey Planner, which can be customised to automatically start or finish your journey at your home address\",\"A London Underground map, which the user can move around by dragging with their mouse\",\"A gadget showing live travel news for the London Underground, updated every minute\"]}",
+     "Caroline Little, Head of Group New Media for TfL said: 'More and more people are turning to the internet when looking for travel information, with \u003ca href=\"http://www.tfl.gov.uk/\"\u003etfl.gov.uk\u003c/a\u003e getting over seven million visits every month.",
+     "'These simple to use gadgets will make it easier for Londoners and visitors to the capital to get the travel information they need.'\u003cbr /\u003e\u003cbr /\u003eWeb users can add the gadgets to their iGoogle page by visiting \u003ca href=\"http://www.tfl.gov.uk/widgets\"\u003etfl.gov.uk/widgets\u003c/a\u003e ",
+     "Notes to Editors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is one of the world's largest transport authorities providing transport and services for more than 10 million people across the Capital every day\",\"Among the areas managed by TfL are London Underground, which carried a record 1.1 billion journeys last year, and the London bus network, which carried 1.9 billion passengers last year, up 45 per cent since 2000\",\"The TfL website allows Londoners to get up to the minute specifically tailored journey information simply and swiftly, as well as top up their Oyster card or pay the London Congestion Charge\",\"In the future, TfL plans to roll out versions of these gadgets for different online platforms\",\"The TfL website has over 7,000,000 visits per month\",\"To find out more about iGoogle, go to \\u003ca href=\\\"http://www.google.co.uk/ig\\\"\\u003ewww.google.co.uk/ig\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

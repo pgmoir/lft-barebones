@@ -1,0 +1,18 @@
+<%- include('includes/head') %>
+
+<%- include('includes/title', { 
+    title: { title: 'An error has occurred' }, 
+    breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Error' } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p>We're very sorry for the inconvenience. We're working on resolving the issue.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<%- include('includes/foot') %>

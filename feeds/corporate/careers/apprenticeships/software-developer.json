@@ -1,0 +1,282 @@
+{
+ "pageTitle": "Software Development",
+ "keywords": "TfL",
+ "description": "Information about the 2017 Software Developer apprenticeship",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Apprenticeships",
+   "url": "/corporate/careers/apprenticeships"
+  },
+  {
+   "title": "Why TfL?",
+   "url": "/corporate/careers/apprenticeships/why-tfl"
+  },
+  {
+   "title": "Software Development"
+  }
+ ],
+ "title": {
+  "title": "Software Development",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about our Software Developer apprenticeship and apply now.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"table\",\"rows\":[[\"Apprenticeship level: Level 3\"],[\"Scheme length: 18 months\"],[\"Salary: Starting from £17,802\"],[\"Requirements: 5 GCSEs A*-C including maths and English language. You must be 18 years of age by 1 September 2017 to be eligible for this scheme\"],[\"Applications: This scheme will close on Wednesday 19 April 2017, although you should submit your application as early as possible. Depending on the number of applications, schemes can close early\\u003cstrong\\u003eNote: Before you apply, we strongly advise you to read the \\u003c/strong\\u003e \"]]}",
+     "Every day more than 31 million journeys are made across London's network. We use technology and data to keep our customers travelling as efficiently as possible.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the role\"}",
+     "The Software Developer apprenticeship programme develops the advanced level skills and knowledge we need to create confident and capable digital and technology professionals. As an apprentice on the programme, you'll gain valuable work experience, on-the-job training and a salary - plus students do not have to pay any tuition fees. Our programme also equips you with the vital 21st Century skills in leading edge technologies.\u003cbr /\u003e\u003cbr /\u003eYou'll work in a small team, designing and building computer programs which perform critical business functions and improves the lives of millions of Londoners, these include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Calculating the best value fares for Oyster customers\",\"Delivering up-to-date journey information to customers' mobile devices\",\"Securely processing £2.5 million of contactless payments every day across Tubes and buses\"]}",
+     "The programme will include a core focus on Microsoft's leading technologies, including the C# .NET language, MVC websites, SQL databases and the Azure cloud computing platform.",
+     "During the programme, you'll rotate and gain versatile skills across agile development teams. By the end of the scheme, you'll have learnt how to create software that works, is easy to understand, tests itself automatically, and can safely be modified in the future by other developers. You'll also understand the extra steps involved in creating high profile, high performance business software, which includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Testing how our website performs under heavy site traffic\",\"Optimising searches in databases containing millions of rows to return results within milliseconds\",\"Using the latest features of cloud computing platforms, such as Microsoft Azure and Amazon Web Services, to provide highly scalable, resilient solutions\",\"Using automation tools to remotely install and configure our software across multiple computers\"]}",
+     "As well as formal training, you'll also work with (and get support from) experts who develop software to solve complex problems on a huge scale. They'll be able to explain the context for each team's project, and teach you the relevant tools, processes, skills and best practices.",
+     "You'll be allocated tasks where you can demonstrate what you have learnt and make genuine contributions to the team's output. Your work will be frequently reviewed, constructive feedback given and your progress discussed.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About you\"}",
+     "We're looking for apprentices who:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Have 5 GCSEs and a passion for ICT at school or sixth form\",\"Can work as part of a team, so excellent communication skills and teamwork are essential, as is the ability to organise a varied workload\",\"Contribute ideas and think for themselves\",\"Are up for a challenge, can use their own initiative to solve problems, and can demonstrate good attention to detail\",\"Take pride in finding efficient solutions to complex problems are prepared to refine their answers if necessary\",\"Have inquisitive minds, are keen to explore existing codes and can apply newfound knowledge to their work\"]}",
+     "It's also important that you meet all the requirements of the scheme so you can pass the end of your assessment. Towards the end of the scheme, well also start trying to find out more about the areas you'd like to work in. Where possible, we'll try to find placements for you in the areas you'd like to continue after the scheme, so you can get the right experience for your career goals.",
+     "Successfully completing your apprenticeship could lead to a role as a software developer, web developer, database developer or automated test developer. You will also be offered progression to a Level 4 apprenticeship.",
+     "Learn more about the benefits for all of our apprenticeships schemes, and find out exactly what we're looking for.",
+     "If you're successful you'll have to pass pre-employment checks before joining. These will include reference checks, qualifications checks, right to work in the UK and in some cases a medical and a Criminal Records Bureau (CRB) check ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Why TfL?",
+      "url": "/corporate/careers/apprenticeships/why-tfl",
+      "image": {}
+     },
+     {
+      "title": "Building Services Engineering",
+      "url": "/corporate/careers/apprenticeships/building-services-engineering",
+      "image": {}
+     },
+     {
+      "title": "Building Surveying",
+      "url": "/corporate/careers/apprenticeships/building-surveying",
+      "image": {}
+     },
+     {
+      "title": "Civil Engineering (Highways)",
+      "url": "/corporate/careers/apprenticeships/civil-engineering-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Commercial Procurement",
+      "url": "/corporate/careers/apprenticeships/commercial-procurement",
+      "image": {}
+     },
+     {
+      "title": "Crossrail Operations Engineering",
+      "url": "/corporate/careers/apprenticeships/crossrail",
+      "image": {}
+     },
+     {
+      "title": "Cyber Security",
+      "url": "/corporate/careers/apprenticeships/cyber-security",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 Development Engineering",
+      "url": "/corporate/careers/apprenticeships/design-development-engineering",
+      "image": {}
+     },
+     {
+      "title": "Electrical Power Delivery",
+      "url": "/corporate/careers/apprenticeships/electrical",
+      "image": {}
+     },
+     {
+      "title": "Engineering Design (CAD)",
+      "url": "/corporate/careers/apprenticeships/engineering-design",
+      "image": {}
+     },
+     {
+      "title": "Finance",
+      "url": "/corporate/careers/apprenticeships/finance-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "General Management",
+      "url": "/corporate/careers/apprenticeships/management",
+      "image": {}
+     },
+     {
+      "title": "Human Resource Management",
+      "url": "/corporate/careers/apprenticeships/human-resources",
+      "image": {}
+     },
+     {
+      "title": "Infrastructure Technology",
+      "url": "/corporate/careers/apprenticeships/infrastructure-technology",
+      "image": {}
+     },
+     {
+      "title": "Intelligent Transport Systems",
+      "url": "/corporate/careers/apprenticeships/intelligent-transport-systems",
+      "image": {}
+     },
+     {
+      "title": "London Underground Engineering",
+      "url": "/corporate/careers/apprenticeships/maintenance-engineering",
+      "image": {}
+     },
+     {
+      "title": "Project Management",
+      "url": "/corporate/careers/apprenticeships/project-management",
+      "image": {}
+     },
+     {
+      "title": "Project Planning",
+      "url": "/corporate/careers/apprenticeships/project-planner",
+      "image": {}
+     },
+     {
+      "title": "Quantity Surveying",
+      "url": "/corporate/careers/apprenticeships/quantity-surveying",
+      "image": {}
+     },
+     {
+      "title": "Rail Signalling Design Engineering",
+      "url": "/corporate/careers/apprenticeships/rail-signalling-design-engineering",
+      "image": {}
+     },
+     {
+      "title": "Rail Systems Performance Engineering",
+      "url": "/corporate/careers/apprenticeships/rail-systems-performance-engineering",
+      "image": {}
+     },
+     {
+      "title": "Software Development",
+      "url": "/corporate/careers/apprenticeships/software-developer",
+      "image": {}
+     },
+     {
+      "title": "Track Renewal",
+      "url": "/corporate/careers/apprenticeships/track-renewal",
+      "image": {}
+     },
+     {
+      "title": "Transport Planning",
+      "url": "/corporate/careers/apprenticeships/transport-planning",
+      "image": {}
+     },
+     {
+      "title": "How to apply",
+      "url": "/corporate/careers/apprenticeships/application-process",
+      "image": {}
+     },
+     {
+      "title": "Choosing your apprenticeship",
+      "url": "/corporate/careers/apprenticeships/choosing-your-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeship schemes",
+      "url": "/corporate/careers/apprenticeships/apprenticeship-schemes",
+      "image": {}
+     },
+     {
+      "title": "Degree apprenticeships",
+      "url": "/corporate/careers/apprenticeships/degree-apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Meet our current apprentices",
+      "url": "/corporate/careers/apprenticeships/what-s-it-really-li",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

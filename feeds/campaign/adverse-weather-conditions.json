@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Adverse weather conditions",
+ "keywords": "TfL",
+ "description": "There are several cancellations on TfL Rail evening of Thursday 1 March 2018",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Adverse weather conditions"
+  }
+ ],
+ "title": {
+  "title": "Adverse weather conditions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Please check before you travel for the latest information on how the adverse weather conditions will affect your journey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Due to a fault in Gidea Park Depot, some TfL Rail services this evening will be cancelled. We are working hard to run more services if we can and are sorry for the inconvenience this will cause.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cancellations\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Liverpool Street to Shenfield\"}",
+     "1824       -              Liverpool Street to Gidea Park\u003cbr /\u003e1832       -              Liverpool Street to Gidea Park\u003cbr /\u003e1847       -              Liverpool Street to Shenfield\u003cbr /\u003e2040       -              Liverpool Street to Shenfield\u003cbr /\u003e2235       -              Liverpool Street to Shenfield\u003cbr /\u003e0032       -              Liverpool Street to Shenfield",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Shenfield to Liverpool Street\"}",
+     "1812       -              Gidea Park to Liverpool Street\u003cbr /\u003e1944       -              Shenfield to Liverpool Street\u003cbr /\u003e2134       -              Shenfield to Liverpool Street\u003cbr /\u003e2329       -              Shenfield to Liverpool Street",
+     "Last trains are unaffected in both directions and all other services will be running a normal timetable."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

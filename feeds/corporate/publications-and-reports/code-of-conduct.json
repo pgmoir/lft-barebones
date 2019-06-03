@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Code of Conduct",
+ "keywords": "Media,Public,C,TfL",
+ "description": "Describes our ethics, employee behaviour and policies relevant to conduct of business",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Code of Conduct"
+  }
+ ],
+ "title": {
+  "title": "Code of Conduct",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The TfL Code of Conduct describes our ethical values and vision, sets out the behaviour that is expected of all employees and identifies policies that are relevant to the conduct of business.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Code of Conduct\",\"url\":\"/cdn/static/cms/documents/tfl-code-of-conduct.pdf\",\"icon\":\"download\",\"size\":\"PDF 154KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

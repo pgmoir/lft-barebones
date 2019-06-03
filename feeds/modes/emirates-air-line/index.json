@@ -1,0 +1,318 @@
+{
+ "pageTitle": "Emirates Air Line",
+ "keywords": "Emirates ,Emirates Airline ,TfL",
+ "description": "Emirates Air Line. Find out about London's cable car across the River Thames",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Emirates Air Line"
+  }
+ ],
+ "title": {
+  "title": "Emirates Air Line ",
+  "icon": "eal",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Enjoy great views",
+    "texts": [
+     "See London differently from Emirates Air Line."
+    ],
+    "link": {
+     "url": "/modes/emirates-air-line/the-emirates-air-line-experience",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/eal-section.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Find a terminal",
+      "url": "http://www.tfl.gov.uk/cable-car/route/emirates-air-line/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Book flights",
+    "texts": [
+     "Book single, return and Discovery Experience tickets online"
+    ],
+    "link": {
+     "url": "http://emiratesairline.gttix.com/emirates-air-line-tickets",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/eal-at-night_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "The experience",
+    "texts": [
+     "Find out more about the Emirates Air Line cable car."
+    ],
+    "link": {
+     "url": "/modes/emirates-air-line/the-emirates-air-line-experience",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Visiting ExCel London?",
+    "texts": [
+     "Anyone attending an ExCel event enjoys an exclusive rate on Emirates Air Line"
+    ],
+    "link": {
+     "url": "/campaign/cable-car-and-excel-exclusive-rate",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Emirates Air Line, river \u0026 museum package",
+    "links": [
+     {
+      "title": "Buy tickets",
+      "url": "https://booking.thamesclippers.com/thames-clippers-tickets/joint-tickets/london-transport-museum-emirates-air-line.html",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Experience London blog",
+    "texts": [
+     "Read about London's hidden gems, big attractions and exciting things to do"
+    ],
+    "link": {
+     "url": "https://londonblog.tfl.gov.uk/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/london-skyline-dusk_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Book champagne flights",
+    "texts": [
+     "Enjoy a glass of champagne on a special Emirates Air Line experience"
+    ],
+    "link": {
+     "url": "http://emiratesairline.gttix.com/emirates-air-line-champagne-flights",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/champagne-flight-teaser-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Location \u0026 opening hours",
+    "texts": [
+     "Get directions and see our opening hours and flight times"
+    ],
+    "link": {
+     "url": "/modes/emirates-air-line/opening-hours-frequency",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Emirates Air Line \u0026 river package",
+    "links": [
+     {
+      "title": "Buy tickets",
+      "url": "http://www.thamesclippers.com/whats-on-discounts/emirates-and-thames-clippers-joint-ticket-packages",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Emirates Air Line, river and Santander Cycles ticket",
+    "texts": [
+     "Save up to 20% with an Explore London combined ticket"
+    ],
+    "link": {
+     "url": "/modes/river/explore-london-tickets",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/3way-ticket-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Fares \u0026 Oyster card discounts",
+      "url": "/fares-and-payments/fares2018/find-fares/emirates-air-line-fares",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Visiting London",
+      "url": "/travel-information/visiting-london/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Other ways to experience London",
+      "url": "/travel-information/visiting-london/experience-london",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Funding",
+      "url": "/corporate/about-tfl/what-we-do/emirates-air-line",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "serviceboard",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Explore London tickets",
+      "url": "/modes/river/explore-london-tickets",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitter",
+    "title": "Tweets by EmiratesAirLDN",
+    "link": {
+     "url": "https://twitter.com/EmiratesAirLDN",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Emirates Air Line",
+      "url": "http://www.emiratesairline.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

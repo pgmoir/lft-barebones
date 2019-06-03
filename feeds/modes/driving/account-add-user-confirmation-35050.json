@@ -1,0 +1,49 @@
+{
+ "pageTitle": "Account settings",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Account settings"
+  }
+ ],
+ "title": {
+  "title": "Account settings",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Confirmation\"}",
+     "You need to give {0} the Customer ID and PIN number created for them. They will need this the first time they sign in to your account and when contacting us by telephone."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

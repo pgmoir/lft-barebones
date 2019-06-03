@@ -1,0 +1,43 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - H Tag line (only really used for extraction)' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - H Tag line' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <%- include('../includes/htag', { o: { level: 'h2', value: 'Level 2 header' } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-9">
+        <%- include('../includes/htag', { o: { level: 'h3', value: 'Level 3 header' } }) %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <%- include('../includes/htag', { o: { level: 'h4', value: 'Level 4 header' } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/htag', { o: { level: 'h5', value: 'Level 5 header' } }) %>
+      </div>
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/htag', { o: { level: 'h6', value: 'Level 6 header' } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2"></div>
+      <div class="col-12 col-sm-8">
+        <%- include('../includes/htag', { o: { level: 'h7', value: 'Level 7 header' } }) %>
+      </div>
+      <div class="col-sm-2"></div>
+    </div>
+  </div>
+</div>
+
+
+
+<%- include('../includes/foot') %>

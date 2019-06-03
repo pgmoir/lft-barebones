@@ -1,0 +1,199 @@
+{
+ "pageTitle": "Cycling Toolkit",
+ "keywords": "TfL",
+ "description": "The toolkit is designed to help borough officers create and run cycling programs",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Cycling Toolkit"
+  }
+ ],
+ "title": {
+  "title": "Cycling Toolkit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're involved in cycling initiatives in your borough, this toolkit offers you a useful mix of information, advice and resources to help make them a success.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you think you have content that would be useful to other boroughs that we can add here, please email us at \u003ca href=\"mailto:cyclingtoolkit@tfl.gov.uk\"\u003ecyclingtoolkit@tfl.gov.uk\u003c/a\u003e .",
+     "Additional documents can be found on the \u003ca href=\"/corporate/publications-and-reports/cycling\"\u003eCycling page in Publications\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling in London films toolkit\"}",
+     "Under the previous mayor Boris Johnson, we produced a series of short films about his Vision for Cycling in London campaign. (The current London mayor, Sadiq Khan, covers this topic in the \u003ca href=\"/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health\"\u003eHealthy Streets for London\u003c/a\u003e document.)",
+     "The films focus on the cycling infrastructure that is being delivered across inner and outer London boroughs. They're designed to help boroughs communicate the plans and real benefits that the Vision can bring.",
+     "All four films are available via YouTube links. Higher resolution versions can also be downloaded from the TfL FTP site.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What was the campaign?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The films explain the various elements of the Vision and what they could mean to people living or travelling in London\",\"Two films focus on inner London and one on outer London - a Pan-London film provides a summary view\",\"The Pan-London film is publicly available on the TfL YouTube channel\",\"There are two versions of the inner London films; a summary 4 minute edit and a more detailed 10 minute edit\",\"The films have been produced for Boroughs and partners to use in presentations, at stakeholder meetings, during consultation/public events and at conferences. Only the Pan-London film can be posted online and promoted via social media channels\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What is available to boroughs?\"}",
+     "High res versions of the four films are available for download from the TfL FTP site, in Quicktime and Windows Media File formats. Lower res versions are available via YouTube.",
+     "To get sign in details for the TfL FTP site or the private links for the inner and outer London films, please contact your borough transport officer.",
+     "(Access to FTP sites can be done via a browser, but you may find your system's security settings don't allow access to FTP sites. You should check with your borough IT team to ensure you will be able to access the FTP site. Licensed software can also be used to access an FTP site.)",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Logos and layouts\"}",
+     "London boroughs are not allowed to add their own logo to the films.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Motivation research\"}",
+     "Several reports on public support for cycling in London are available in the \u003ca href=\"/corporate/publications-and-reports/cycling\"\u003eEncouraging cycling section of the Cycling publications page\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Analysis of potentially cyclable trips\",\"url\":\"/cdn/static/cms/documents/analysis-of-potentially-cyclable-trips.xls\",\"icon\":\"download\",\"size\":\"XLS 226KB\",\"image\":{}},{\"title\":\"Cycle usage by boroughs\",\"url\":\"/cdn/static/cms/documents/current-cycle-travel-and-cyclists-by-borough-of-residence.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 98KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Talking to your audience\"}",
+     "Social marketing can help you understand the motivations of your intended audience, and how to encourage them to change behaviours.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Social marketing tips presentation\",\"url\":\"/cdn/static/cms/documents/social-marketing-tools-and-tips.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.03MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The NSMC (formerly the National Social Marketing Centre) has guides, including the Big Pocket Guide to  Social Marketing, available to download.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.thensmc.com/resource/big-pocket-guide-social-marketing\\\"\\u003eNSMC tools and resources\\u003c/a\\u003e \"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycling activity in your borough\",\"url\":\"/cdn/static/cms/documents/cycling-activity-in-your-borough.pdf\",\"icon\":\"download\",\"size\":\"PDF 76KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycle Safety Action Plan\",\"url\":\"/cdn/static/cms/documents/cycle-safety-action-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.33MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Cycle security guidance:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/travel-information/safety/road-safety-advice/driving-and-cycling-safety\\\"\\u003eCycling safety tips\\u003c/a\\u003e \",\"Bike maintenance\",\" \\u003ca href=\\\"/modes/cycling/cycling-in-london/avoid-theft\\\"\\u003eAvoid cycle theft\\u003c/a\\u003e \"]}",
+     "We also work with the Metropolitan Police, British Transport Police and City of London Police on \u003ca href=\"http://content.met.police.uk/Article/Cycle-Security/1400007266910/1400007266910\"\u003ecycle security campaigns\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Exchanging Places cycle safety events\"}",
+     "The Metropolitan Police Service and the City of London Police hold regular Exchanging Places sessions.\u003cbr /\u003eThese events give cyclists the opportunity to physically sit in the driver's seat of a Heavy Goods Vehicle (HGV) or bus. This allows the cyclist to see what the driver can and cannot see at the kerbside and directly in front of their vehicle. Since Exchanging Places began in 2007, more than 30,000 people have taken the opportunity to sit in an HGV.",
+     "As part of \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003ethe Vision Zero commitment\u003c/a\u003e we have partnered with the Metropolitan Police Service and Royal College of Art to recreate Exchanging Places as a virtual reality experience, allowing more cyclists and pedestrians than ever to exchange places with HGV drivers. The new mobile headsets allow up to 10 people to participate at once, and is accessible for all ages.",
+     "Exchanging Places sessions are ongoing, both with the new virtual reality technology and with a lorry present. London boroughs can help to provide support for Exchanging Places events by providing a venue and space, or by paying for add-ons such as \u003ca href=\"https://www.lifecycleuk.org.uk/dr-bike\"\u003ea Dr Bike session\u003c/a\u003e with an experienced on-site mechanic - this is particularly helpful in attracting cyclists.",
+     "To host an Exchanging Places event in partnership with the Metropolitan Police Cycle Safety Team, email \u003ca href=\"mailto:exchanging.places@met.police.uk\"\u003eexchanging.places@met.police.uk\u003c/a\u003e .",
+     "Campaign toolkits, events and activities for raising the profile of cycling in your borough.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"General resources\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/cycling-in-london/cycle-skills\\\"\\u003eCycle skills\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://think.direct.gov.uk/cycling.html\\\"\\u003eTHINK! Cycling\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.gov.uk/government/publications/think-cyclist\\\"\\u003eTHINK! cyclist stakeholder toolkit\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Resources for business\"}",
+     "The \u003ca href=\"/info-for/business-and-commercial/travel-for-business/cycling-for-business\"\u003eCycling for business\u003c/a\u003e page has information on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle parking for visitors\",\"Santander Cycles business accounts\",\"Tax savings on bikes\",\"The TfL Cycling Workplaces scheme... and more\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Specialist resource\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.goskyride.com/Breeze/Index\\\"\\u003eBreeze - bike rides for women\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"STARS - School travel plan accreditation scheme\"}",
+     "TfL's travel plan accreditation programme has several programmes and activities to help schools support healthy travel, including by bicycle.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://stars.tfl.gov.uk/PublicPages/Home.aspx\\\"\\u003eSTARS website\\u003c/a\\u003e \"]}",
+     "The Toolkits section on the STARS website has resources to help schools set up:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle clubs\",\"Big Bikers Breakfast\",\"Scooter and Bike pools\"]}",
+     "There is also a page on \u003ca href=\"http://www.staccreditation.org.uk/school/cycling.php\"\u003eCycling activities for schools\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/santander-cycles\\\"\\u003eSantander Cycles\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/cycle-superhighways\\\"\\u003eCycle Superhighways\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://businessoffers.tfl.gov.uk/barclayscyclesuperhighways/home.html\\\"\\u003eTfL Cycling Workplaces Scheme\\u003c/a\\u003e \",\" \\u003ca href=\\\"/info-for/business-and-commercial/travel-for-business/cycling-for-business\\\"\\u003eCycling for business schemes\\u003c/a\\u003e \",\"Cycle Hire for landowners\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Sub-regional transport planning",
+      "url": "/info-for/boroughs/sub-regional-transport-planning",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Healthy Workplace Charter",
+      "url": "/info-for/boroughs/healthy-workplace-charter",
+      "image": {}
+     },
+     {
+      "title": "Cycling Toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Safety",
+      "url": "/info-for/boroughs/safety",
+      "image": {}
+     },
+     {
+      "title": "Street Types for London",
+      "url": "/info-for/boroughs/street-types",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

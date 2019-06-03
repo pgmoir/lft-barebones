@@ -1,0 +1,134 @@
+{
+ "pageTitle": "Open data policy",
+ "keywords": "Online developers,TfL",
+ "description": "Our digital strategy and approach to open data",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Open data users",
+   "url": "/info-for/open-data-users/index"
+  },
+  {
+   "title": "Open data policy"
+  }
+ ],
+ "title": {
+  "title": "Open data policy",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our digital strategy hinges around an integrated presence across digital media, including open data.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We've committed to making our open data freely available to third parties and to engaging developers to deliver new products, apps and services for our customers.",
+     "Over 17,000 developers have registered for our open data, consisting of our unified API (Application Programming Interface) that powers over 600 travel apps in the UK with over 42% of Londoners using apps powered by our data.",
+     "This enables millions of journeys in London each day, giving customers the right information at the right time through their channel of choice.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why are we committing to open data?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Public data - As a public body, our data is publically owned\",\"Reach - Our goal is to ensure any person needing travel information about London can get it wherever and whenever they wish, in any way they wish\",\"Economic benefit - Open data facilitates the development of technology enterprises, small and medium businesses, generating employment and wealth for London and beyond\",\"Innovation - By having thousands of developers working on designing and building applications, services and tools with our data and APIs, we are effectively crowdsourcing innovation\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Deloitte's report on value of our open data\"}",
+     "Research by Deloitte shows that the release of open data by TfL is generating annual economic benefits and savings of up to £130m a year. Read the report:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Assessing the value of TfL's open data and digital partnerships\",\"url\":\"/cdn/static/cms/documents/deloitte-report-tfl-open-data.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.42MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How is our open data presented?\"}",
+     "Data is presented in three main ways:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Static data files - Data files which rarely change\",\"Feeds - Data files refreshed at regular intervals\",\"API (Application Programming Interface) - Enabling a query from an application to receive a bespoke response, depending on the parameters supplied. \\u003ca href=\\\"https://api.tfl.gov.uk/\\\"\\u003eFind out more about our unified API\\u003c/a\\u003e .\"]}",
+     "Our Unified API is available in JSON and XML. Other data feeds and data sets are provided in a number of different formats."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Open data users",
+    "links": [
+     {
+      "title": "Open data policy",
+      "url": "/info-for/open-data-users/open-data-policy",
+      "image": {}
+     },
+     {
+      "title": "Unified API",
+      "url": "/info-for/open-data-users/unified-api",
+      "image": {}
+     },
+     {
+      "title": "Our open data",
+      "url": "/info-for/open-data-users/our-open-data",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 branding",
+      "url": "/info-for/open-data-users/design-and-branding",
+      "image": {}
+     },
+     {
+      "title": "Widgets",
+      "url": "/info-for/open-data-users/widgets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Open data users",
+     "url": "/info-for/open-data-users/widgets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Open Government Licence",
+      "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

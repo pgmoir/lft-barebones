@@ -1,0 +1,140 @@
+{
+ "pageTitle": "Coaches",
+ "keywords": "Public,TfL",
+ "description": "We don't run coach services in London, but we do provide facilities for this integral part of London's transport system",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "London's transport - a history",
+   "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history"
+  },
+  {
+   "title": "Coaches"
+  }
+ ],
+ "title": {
+  "title": "Coaches",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"From its first services between London and Brighton, and beyond, coach travel has long been a valuable part of London's transport system.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The history of coach travel in London goes back as far as 1904, when the Vanguard Omnibus Company started a double deck bus service between London and Brighton.",
+     "The service only lasted two years and was withdrawn in 1906. It took another 13 years for Len Turnham to re-start a London to Brighton service. This time, others followed and before long a number of operators were offering bus services from London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coaches come together\"}",
+     "By 1920 a number of operators had come together to pool their services, a collective which became official in 1925 when London Coastal Coaches (LCC) was incorporated. In the summer of 1925, LCC launched services to the south coast, Kent, Essex and East Anglia.",
+     "Despite the LCC's success, they still didn't have a base for their operation. After looking for suitable premises, and failing, it was decided that a new building was necessary. Victoria Coach Station opened in 1932.",
+     "In the 1930s, there was a rapid expansion of destinations and operators from Victoria Coach Station, which meant that people could reach most parts of England and Wales from there.",
+     "During WWII, most coach services stopped and the 32,000 square feet of Victoria Coach Station was requisitioned by the War Office. Services started up again in 1946 and coach services really began to flourish in the post-war era.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Victoria Coach Station\"}",
+     "Victoria Coach Station (VCS) opened at its present site, on the corner of Buckingham Palace Road and Elizabeth Street, in 1932. It provided London terminal facilities for the coach operators who built it and their passengers.",
+     "Various mergers and takeovers led to Tilling and BET becoming the new station owners until 1968, when the Transport Act established the National Bus Company (NBC), which brought together the bus and coach interests of both companies.",
+     "By the 1970s, ownership had changed again with VCS being run by National Travel (South East) Limited, and at the end of 1978, the station was taken over by Victoria Coach Station Limited.",
+     "Victoria Coach Station Limited was acquired by London Transport in 1988 at the request of the Secretary of State for Transport."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "London's transport - a history",
+    "links": [
+     {
+      "title": "Women in transport",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/women-in-transport",
+      "image": {}
+     },
+     {
+      "title": "London buses",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-buses",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-overground",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/coaches",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/river",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway (DLR)",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/dlr",
+      "image": {}
+     },
+     {
+      "title": "Trams",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "London's transport - a history",
+     "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

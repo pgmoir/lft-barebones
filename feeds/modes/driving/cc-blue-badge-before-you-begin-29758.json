@@ -1,0 +1,58 @@
+{
+ "pageTitle": "Blue Badge discount",
+ "keywords": "TfL",
+ "description": "Before we can process your application for the Blue Badge discount, you need to set up a London Road User Charging account.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Blue Badge discount"
+  }
+ ],
+ "title": {
+  "title": "Blue Badge discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can apply for a 100% discount on the Congestion Charge if you are a Blue Badge holder.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "Before we apply for the Blue Badge discount, you need to set up a London Road User Charging account. (Sign in now if you already have an account.)",
+     "To create an account, click on 'Continue' and complete all required fields. You can also set up optional services, such as mobile phone text alerts, to help you manage your discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Applying for your Blue Badge discount\"}",
+     "Once your London Road User Charging account has been created and you sign in, you will be directed automatically to complete your discount application.",
+     "You will need to upload images of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Both sides of your Blue Badge\"]}",
+     "Plus 1 of the following proofs of identity:",
+     "{\"template\":\"bulletlist\",\"items\":[\"DSS benefit entitlement letter (less than 7 months old)\",\"Current passport\",\"Current driver's licence\",\"Pension book/entitlement letter (less than 7 months old)\",\"Birth certificate (same first and last names as the Blue Badge - not a Certificate of Registration of Birth)\",\"Marriage certificate (same first and last names as the Blue Badge)\",\"Current bank or credit card statement (no more than 3 months old)\",\"Deed Poll Certificate (same first and last names as the Blue Badge)\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

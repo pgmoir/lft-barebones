@@ -1,0 +1,125 @@
+{
+ "pageTitle": "Culture \u0026 heritage updates",
+ "keywords": "TfL",
+ "description": "Art, poetry, history and interesting facts about London's transport. on social media",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates",
+   "url": "/travel-information/social-media-and-email-updates/index"
+  },
+  {
+   "title": "Culture \u0026 heritage updates"
+  }
+ ],
+ "title": {
+  "title": "Culture \u0026 heritage updates",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Art, poetry, history and interesting facts about London's transport.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Art on the Underground\"}",
+     "Follow us on Twitter to receive regular Art on the Underground news. If you'd like to tag us in your updates use #AOTU and #ArtontheUnderground.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/aotulondon\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"socialmedianotsure\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transported by Design\"}",
+     "We're showcasing London's rich transport design heritage with a programme of events, exhibitions and competitions for Transported by Design. We use the hashtags #DesignIcons and #TransportedbyDesign. Join in discussions on \u003ca href=\"https://www.facebook.com/hashtag/transportedbydesign\"\u003eFacebook\u003c/a\u003e , \u003ca href=\"https://twitter.com/search?f=tweets\u0026vertical=default\u0026q=%23DesignIcons%20OR%20%23TransportedbyDesign\"\u003eTwitter\u003c/a\u003e and \u003ca href=\"https://www.instagram.com/explore/tags/transportedbydesign/\"\u003eInstagram\u003c/a\u003e . Follow our \u003ca href=\"http://transportedbydesign.tumblr.com/\"\u003eTransported by Design Tumblr\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Social media \u0026 email updates",
+    "links": [
+     {
+      "title": "Travel alerts on Twitter",
+      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
+      "image": {}
+     },
+     {
+      "title": "Email updates",
+      "url": "/travel-information/social-media-and-email-updates/email-updates",
+      "image": {}
+     },
+     {
+      "title": "News updates",
+      "url": "/travel-information/social-media-and-email-updates/news-updates",
+      "image": {}
+     },
+     {
+      "title": "Careers updates",
+      "url": "/travel-information/social-media-and-email-updates/careers-updates",
+      "image": {}
+     },
+     {
+      "title": "Culture \u0026 heritage updates",
+      "url": "/travel-information/social-media-and-email-updates/culture-and-heritage-updates",
+      "image": {}
+     },
+     {
+      "title": "Journey alerts",
+      "url": "/travel-information/social-media-and-email-updates/journey-alerts",
+      "image": {}
+     },
+     {
+      "title": "Facebook TravelBot",
+      "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Social media \u0026 email updates",
+     "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

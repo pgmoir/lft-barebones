@@ -1,0 +1,161 @@
+{
+ "pageTitle": "About the TfL Corporate Archives",
+ "keywords": "Public,TfL",
+ "description": "Information about TfL archives which are a fascinating social archive of transport in London throughout the centuries.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "Corporate archives",
+   "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives"
+  },
+  {
+   "title": "About the TfL Corporate Archives"
+  }
+ ],
+ "title": {
+  "title": "About the TfL Corporate Archives",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our archives provide a fascinating social history of transport in London throughout the centuries.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Over the years our records have provided us with an important reminder of how our organisation has changed, as well as giving us a better understanding of social history.",
+     "Because of their cultural value, we take great care to preserve these archives for everyone's use and enjoyment. TfL Corporate Archives is responsible for safeguarding this corporate memory of Transport for London and its predecessor companies. The Archives collects and preserves both modern and historic records from the business and holds over 100,000 items dating from the 17th century to the present day.",
+     "We collect records which document the principal business functions and actions of Transport for London, its predecessor and subsidiary companies, and their interactions with London's citizens as well as with the physical and social environment.",
+     "The paper archives and portable storage media are held securely, according to British standards for storing archival materials, in a salt mine in Cheshire.",
+     " \u003ca href=\"http://www.tflcorporatearchivescatalogue.co.uk/CalmViewA/\"\u003eOur catalogue is available online\u003c/a\u003e .",
+     "The TfL Corporate Archives is open to the public for research Monday to Friday, 10:00-16:30, by prior appointment, at our reading room in central London.",
+     "As the reading room can become booked quite far in advance, and our material is not stored on site, it is advisable to try and book an appointment as far in advance as possible.",
+     "We are also keen to expand our oral history archive, particularly in relation to the early days of public transport, using the Tube for sheltering during the Second World War and female members of staff. If you know of anyone of interest who would like to tell their story, please get in contact to discuss it further.",
+     "We are happy to discuss any enquiry over the phone but will ask you to submit your enquiry in writing as well, via email or post. As enquiries can take time to respond to, written enquiries ensure that a full audit trail exists."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Corporate archives",
+    "links": [
+     {
+      "title": "About the TfL Corporate Archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/about-the-tfl-archives",
+      "image": {}
+     },
+     {
+      "title": "Accessing our archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/accessing-our-archives",
+      "image": {}
+     },
+     {
+      "title": "The Collections",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Corporate archives",
+     "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "HMRS Online",
+      "url": "http://www.hmrs.org.uk/index.php",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "The National Archives",
+      "url": "http://www.nationalarchives.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Metropolitan Archives",
+      "url": "http://www.cityoflondon.gov.uk/things-to-do/visiting-the-city/archives-and-city-history/london-metropolitan-archives/Pages/default.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "National Railway Museum Archives",
+      "url": "http://www.nrm.org.uk/researchandarchive",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

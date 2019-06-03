@@ -1,0 +1,57 @@
+{
+ "pageTitle": "Manage residents' discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Manage residents' discount"
+  }
+ ],
+ "title": {
+  "title": "Manage residents' discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Occasionally you may want to use a hire or courtesy car for a short period, for example when your own car is being repaired or serviced.",
+     "You can still qualify for the discount but you will need to pay the charge at the normal daily rate while using the vehicle. You can then apply for a refund of the difference between what you've paid and what you would have paid if you had had the discount at the time.",
+     " \u003ca href=\"/modes/driving/congestion-charge/contact-congestion-charge\"target=\"_blank\"\u003eContact us\u003c/a\u003e by email or phone to let us know the number plate of the hire/courtesy vehicle, the date you intend to start using it and the date you expect to return it.",
+     "Remember to claim your refund within 30 days of returning the car. You will need to upload or send in a copy of the hire agreement, showing it was hired in your name. If you were using a courtesy car, you will need to send a letter on headed paper from a recognised insurance company or garage.",
+     "You have added {0} of 1 vehicles.",
+     "If you are adding a new vehicle and you already have one on this discount, you will need to remove it first.",
+     "You have added\u003cstrong\u003e{0}\u003c/strong\u003e of\u003cstrong\u003e{1}\u003c/strong\u003e vehicles.\u003cbr /\u003e\u003cbr /\u003eIf you are adding a new vehicle and you already have one on this discount, you will need to remove it first.",
+     "For a limited time, residents registered for the residents' Congestion Charge discount will not have to pay ULEZ charges on their residents' discount vehicles.",
+     "Residents using a vehicle that doesn't meet the T-Charge emissions standards will continue to pay the T-Charge, at a discounted rate of 90%, during this grace period.",
+     "From 25 October 2021, residents must pay the full daily ULEZ charge to drive a vehicle within the zone if it does not meet the ULEZ standards. \u003ca href=\"/modes/driving/check-your-vehicle-35896\"\u003eCheck if your vehicle meets the standards.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

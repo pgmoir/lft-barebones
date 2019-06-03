@@ -1,0 +1,163 @@
+{
+ "pageTitle": "Accessing our archives",
+ "keywords": "Public,TfL",
+ "description": "Information about accessing the TfL culture \u0026 heritage archives",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "Corporate archives",
+   "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives"
+  },
+  {
+   "title": "Accessing our archives"
+  }
+ ],
+ "title": {
+  "title": "Accessing our archives",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We try to make any archive research you do as easy as possible but knowing what to expect before you arrive makes it even easier.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Records\"}",
+     "Unless they're already in the public domain, newly-created records cannot be seen by the public for the first 20 years. This ensures that records with commercial confidentiality agreements remain confidential during this period. Sensitive records, or those relating to transport security, are closed for up to 100 years.",
+     "Access to all records is, nevertheless, subject to the provisions of the Data Protection Act and the Freedom of Information Act.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ordering material\"}",
+     "Our archives are kept in an off-site storage facility in Cheshire, so we order your requests once a week. If you'd like to order material the process usually goes like this:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Decide what material you want to order\",\"Contact us to let us know that you'd like to make an order\",\"We'll give you a date by which you should submit your requests - this is usually the Wednesday before you want to visit. If you miss your deadline date, you'll miss the weekly order and you'll have to rearrange your visit for another time\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Document copying\"}",
+     "If you need to make copies of documents in our archive, please be aware that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You shouldn't attempt to photocopy documents or the pages of books, yourself. Photocopying requests should be made to an archivist who then assesses whether there are any risks to the document and will only continue in accordance with UK copyright laws\",\"Only black and white copies are available\",\"Staff have limited time to make photocopies, so the number of photocopies allowed is limited to 40 pages per visit\",\"You can take photos of documents on a digital camera but you should check with the archivist before you do so, and remember to turn your flash off\",\"Use of cameras in the search room, for any purpose other than photographing records, is strictly prohibited\",\"You must abide by copyright regulations if you have obtained copies of records, whether photocopies or digital images\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Remote research\"}",
+     "We are happy to take on small amounts of research for users who can't visit us in person. This is restricted to a maximum of two hours per enquiry: this two-hour slot also includes searching catalogues and ordering documents. If you, or an archive researcher, feels that the request will take longer than planned, we recommend looking for professional researchers on \u003ca href=\"http://www.agra.org.uk/\"\u003eThe Association of Genealogists and Researchers\u003c/a\u003e or \u003ca href=\"http://www.nationalarchives.gov.uk/irlist/\"\u003eThe National Archives List of Independent Researchers\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Corporate archives",
+    "links": [
+     {
+      "title": "About the TfL Corporate Archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/about-the-tfl-archives",
+      "image": {}
+     },
+     {
+      "title": "Accessing our archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/accessing-our-archives",
+      "image": {}
+     },
+     {
+      "title": "The Collections",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Corporate archives",
+     "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "HMRS Online",
+      "url": "http://www.hmrs.org.uk/index.php",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "The National Archives",
+      "url": "http://www.nationalarchives.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Metropolitan Archives",
+      "url": "http://www.cityoflondon.gov.uk/things-to-do/visiting-the-city/archives-and-city-history/london-metropolitan-archives/Pages/default.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "National Railway Museum Archives",
+      "url": "http://www.nrm.org.uk/researchandarchive",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

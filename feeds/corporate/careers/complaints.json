@@ -1,0 +1,85 @@
+{
+ "pageTitle": "Complaints",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Complaints",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Please contact the Service Delivery Manager at the \u003ca href=\"/pensions/contact\"\u003eFund Office\u003c/a\u003e if you are not happy with the service that you have received, or a decision relating to Fund benefit payments.",
+     "If you are still not satisfied, then the following may be helpful.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Internal disputes resolution procedure\"}",
+     "Our dispute resolution procedure (IDR) is designed to resolve any dispute between the Trustees, members, prospective members and beneficiaries.",
+     "If you are not happy with the response, you can ask for the Trustees Appeals Committee to consider your complaint at stage two of the IDR procedure.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Pensions Advisory Service (TPAS)\"}",
+     "If you have failed to resolve your problem with the Trustees you can contact TPAS:",
+     "TPAS\u003cbr /\u003e11 Belgrave Road\u003cbr /\u003eLondon\u003cbr /\u003eSW1V 1RB\u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003eTelephone:\u003c/strong\u003e 0845 601 2923\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:enquiries@pensionsadvisoryservice.org.uk\"\u003eenquiries@pensionsadvisoryservice.org.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003eWebsite:\u003c/strong\u003e  \u003ca href=\"http://www.pensionsadvisoryservice.org.uk/\"\u003ehttp://www.pensionsadvisoryservice.org.uk/\u003c/a\u003e ",
+     "TPAS was set up by the Government to help and advise anyone who has a pension query or who is experiencing difficulties over their pension rights, which they may have failed to resolve with the Trustees.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pensions Ombudsman\"}",
+     "If you have gone through both stages of the Trustees' IDR procedure and are still not satisfied with the outcome, you can contact the Pensions Ombudsman. You can contact the Pensions Ombudsman at:",
+     "The Office of the Pensions Ombudsman\u003cbr /\u003e11 Belgrave Road\u003cbr /\u003eLondon\u003cbr /\u003eSW1V 1RB\u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003eTelephone:\u003c/strong\u003e 020 7630 2200\u003cbr /\u003e\u003cstrong\u003eFax:\u003c/strong\u003e 020 7821 0065\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:enquiries@pensions-ombudsman.org.uk\"\u003eenquiries@pensions-ombudsman.org.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003eWebsite:\u003c/strong\u003e  \u003ca href=\"http://www.pensions-ombudsman.org.uk/\"\u003ehttp://www.pensions-ombudsman.org.uk/\u003c/a\u003e ",
+     "The ombudsman is appointed under the Pension Schemes Act, and investigates and settles complaints and disputes of fact or law connected with pension schemes.",
+     "Decisions are legally binding on both parties.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Pensions Regulator\"}",
+     "The Pensions Regulator supervises occupational pension schemes and intervenes in their running where Trustees, employers or professional advisers have failed in their duties.",
+     "The Regulator also has powers to help meet its objectives of protecting members' benefits. You can contact them at:",
+     "Napier House\u003cbr /\u003eTrafalgar Place\u003cbr /\u003eBrighton\u003cbr /\u003eBN1 4DW\u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003eTelephone:\u003c/strong\u003e 0870 606 3636\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:customersupport@thepensionsregulator.gov.uk\"\u003ecustomersupport@thepensionsregulator.gov.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003eWebsite:\u003c/strong\u003e  \u003ca href=\"http://www.thepensionsregulator.gov.uk/\"\u003ehttp://www.thepensionsregulator.gov.uk/\u003c/a\u003e \u003cbr /\u003e\u003cbr /\u003eThe Pensions Regulator took over from Occupational Regulatory Authority on 6 April 2005."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

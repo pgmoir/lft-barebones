@@ -1,0 +1,189 @@
+{
+ "pageTitle": "Using the pavement",
+ "keywords": "TfL",
+ "description": "There are a number of provisions designed to help pedestrians with accessibility needs when using London's roads.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transport accessibility",
+   "url": "/transport-accessibility/index"
+  },
+  {
+   "title": "Using the pavement"
+  }
+ ],
+ "title": {
+  "title": "Using the pavement",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"London's pedestrian crossings and pavements include provisions to help people with accessibility needs.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "All of London's pedestrian crossings are accessible, with tactile paving, audible signals and/or rotating cones on the pushbutton units.",
+     "Some crossings have pedestrian countdown systems to show how much time you have left to cross the road.",
+     "Many crossings are level with the pavement. This makes it easier to cross and also helps to slow down traffic.",
+     "Legible London maps are being installed across the Capital to make it easier to find your way. You can also find them at station entrances and bus shelters.",
+     " \u003ca href=\"/modes/walking/find-your-way-around\"\u003eFind out more on Legible London\u003c/a\u003e .",
+     "Ramps have been introduced to improve access and many footbridges are being widened, replaced or upgraded. Rest levels let you take a break while crossing footbridges.",
+     "A growing number of bus stops have raised kerbs, allowing bus ramps to be used more easily."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Transport accessibility",
+    "links": [
+     {
+      "title": "Plan an accessible journey",
+      "url": "/transport-accessibility/plan-an-accessible-journey",
+      "image": {}
+     },
+     {
+      "title": "Public transport support",
+      "url": "/transport-accessibility/learn-to-use-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Help from staff",
+      "url": "/transport-accessibility/help-from-staff",
+      "image": {}
+     },
+     {
+      "title": "Fares \u0026 tickets",
+      "url": "/transport-accessibility/fares-and-tickets",
+      "image": {}
+     },
+     {
+      "title": "Wheelchair access \u0026 avoiding stairs",
+      "url": "/transport-accessibility/wheelchair-access-and-avoiding-stairs",
+      "image": {}
+     },
+     {
+      "title": "Priority seating and other features on board",
+      "url": "/transport-accessibility/features-on-board",
+      "image": {}
+     },
+     {
+      "title": "People with sight or hearing loss",
+      "url": "/transport-accessibility/people-with-sight-or-hearing-loss",
+      "image": {}
+     },
+     {
+      "title": "Pregnant women \u0026 buggy users",
+      "url": "/transport-accessibility/pregnant-women-and-pushchairs",
+      "image": {}
+     },
+     {
+      "title": "Using the pavement",
+      "url": "/transport-accessibility/road-users-and-pedestrians",
+      "image": {}
+     },
+     {
+      "title": "Door-to-door transport services",
+      "url": "/transport-accessibility/door-to-door-transport-services",
+      "image": {}
+     },
+     {
+      "title": "Accessibility guides \u0026 maps",
+      "url": "/transport-accessibility/accessibility-guides-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Equality and assistance policies, and future plans",
+      "url": "/transport-accessibility/equality-policy-and-future-plans",
+      "image": {}
+     },
+     {
+      "title": "Contact us about accessibility",
+      "url": "/transport-accessibility/contact-us-about-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Assistance dogs",
+      "url": "/transport-accessibility/assistance-dogs",
+      "image": {}
+     },
+     {
+      "title": "Blue Badges and driving",
+      "url": "/transport-accessibility/blue-badges-and-driving",
+      "image": {}
+     },
+     {
+      "title": "Accessible travel stories",
+      "url": "/transport-accessibility/accessible-travel-stories",
+      "image": {}
+     },
+     {
+      "title": "Please offer me a seat",
+      "url": "/transport-accessibility/please-offer-me-a-seat",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Transport accessibility",
+     "url": "/transport-accessibility/please-offer-me-a-seat",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Travelling with children: fares \u0026 tickets",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

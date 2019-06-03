@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Shorter trains",
+ "keywords": "TfL",
+ "description": "Up to date information on which London Overground services are running shorter trains than usual",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "London Overground",
+   "url": "/modes/london-overground/index"
+  },
+  {
+   "title": "Shorter trains"
+  }
+ ],
+ "title": {
+  "title": "Shorter trains",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are sorry that some of our trains have been overcrowded since we took over the operation of services on this line and that some of our trains have been running with fewer carriages than planned. We fully appreciate the disappointment and inconvenience that this has caused.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tueday 28th of May\"}",
+     "All our services are expected to run to their booked number of carriages."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

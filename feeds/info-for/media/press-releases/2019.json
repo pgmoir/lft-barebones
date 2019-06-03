@@ -1,0 +1,58 @@
+{
+ "pageTitle": "2019",
+ "description": "2019 press releases",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2019"
+  }
+ ],
+ "title": {
+  "title": "2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

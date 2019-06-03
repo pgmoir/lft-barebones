@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Public toilets in London",
+ "keywords": "TfL",
+ "description": "Find out about public toilet facilities across London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Help \u0026 contacts",
+   "url": "/help-and-contact/index"
+  },
+  {
+   "title": "Public toilets in London"
+  }
+ ],
+ "title": {
+  "title": "Public toilets in London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about public toilet facilities across London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Practical information\"}",
+     "You can get up to date information about your nearest public toilet sent direct to your smartphone or tablet. Type 'toilet finder' into the search function on your device and it should provide you with a number of popular apps to choose from.",
+     "The \u003ca href=\"http://greatbritishpublictoiletmap.rca.ac.uk/\"\u003eGreat British Toilet Map\u003c/a\u003e website includes an interactive map of facilities, not just in the London area, but across the country.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London borough toilets\"}",
+     "Most of London's boroughs provide details of public and community toilets. Places vary, and in some cases it may be hard to access their information on a smartphone or tablet, but the following boroughs provide toilet facility information on their websites:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.barnet.gov.uk/citizen-home/directories/Directories?_pecid=373ac375-9115-4d18-8a58-ce6098691e0a\\u0026directoryId=54e3852d84ae7c2872584beb\\u0026list=true]\\\"\\u003eBarnet\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.nearestpublictoilet.co.uk/search/toilets-in-bexleyheath-bexley-greater-london\\\"\\u003eBexley\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.brent.gov.uk/services-for-residents/transport-and-streets/public-toilets/\\\"\\u003eBrent\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.nearestpublictoilet.co.uk/search/toilets-in-bexleyheath-bexley-greater-london\\\"\\u003eBromley\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.camden.gov.uk/ccm/content/contacts/categories/public-toilets-in-camden/?context=live\\\"\\u003eCamden\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.cityoflondon.gov.uk/services/transport-and-streets/clean-streets/Pages/Public-Toilets.aspx\\\"\\u003eCity of London\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.croydon.gov.uk/transportandstreets/streets/pcs\\\"\\u003eCroydon\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.ealing.gov.uk/info/201153/street_care_and_cleaning/200/public_toilets/3\\\"\\u003eEaling\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://new.enfield.gov.uk/in-my-area/?postcode=\\u0026layer=12\\\"\\u003eEnfield\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.royalgreenwich.gov.uk/info/200089/street_care_and_cleaning/810/find_a_public_toilet_in_greenwich\\\"\\u003eGreenwich\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.hackney.gov.uk/streetlitter\\\"\\u003eHackney\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.haringey.gov.uk/parking-roads-and-travel/roads-and-streets/public-toilets/locations-public-toilets\\\"\\u003eHaringey\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.iharrow.com/council/public-toilets-in-harrow/\\\"\\u003eHarrow\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.havering.gov.uk/Pages/Services/Public-toilets.aspx\\\"\\u003eHavering\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.hillingdon.gov.uk/article/7566/Public-toilets\\\"\\u003eHillingdon\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://data.hounslow.gov.uk/View/environmental-services/hounslow-public-toilets\\\"\\u003eHounslow\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.islington.gov.uk/services/parking-roads/Pages/1246.aspx\\\"\\u003eIslington\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.rbkc.gov.uk/environment/environmental-health/public-toilets\\\"\\u003eKensington \\u0026 Chelsea\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.kingston.gov.uk/info/200272/environment/732/public_and_accessible_toilets\\\"\\u003eKingston upon Thames\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.lambeth.gov.uk/open-data/community-toilets\\\"\\u003eLambeth\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.merton.gov.uk/community-living/communitytoiletscheme.htm\\\"\\u003eMerton\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.newham.gov.uk/Pages/Services/Public-toilets.aspx\\\"\\u003eNewham\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www2.redbridge.gov.uk/cms/parking_rubbish_and_streets/general_street_information/public_toilets.aspx\\\"\\u003eRedbridge\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.richmond.gov.uk/home/services/spendapenny.htm\\\"\\u003eRichmond upon Thames\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.southwark.gov.uk/info/100006/environment/544/public_toilets\\\"\\u003eSouthwark\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.sutton.gov.uk/info/200333/adult_social_care/1128/accessible_toilets_and_radar_keys\\\"\\u003eSutton\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.towerhamlets.gov.uk/content_pages/online_services/find_your_local_services/find_your_local_services.aspx\\\"\\u003eTower Hamlets\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.walthamforest.gov.uk/content/public-toilets\\\"\\u003eWaltham Forest\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.wandsworth.gov.uk/toilets\\\"\\u003eWandsworth\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Shops\"}",
+     "Supermarkets, DIY and department stores often have accessible toilet facilities (and parking availability). Look out for the 'community toilet' signs used where local businesses work with boroughs to provide toilet accessibility. The Community Toilet Scheme aims to provide clean, safe and accessible public toilets in more convenient locations for residents and visitors to some of London's boroughs.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/toilet-logos_rdax_400x250.jpg\",\"alt\":\"Toilet logos\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Station toilet facilities\"}",
+     "Public toilets are available at some stations across the central London, Heathrow Airport and London City Airport areas. Please consider that opening hours may vary, some facilities may be chargeable and other public toilets may be available near to stations. Some facilities at Network Rail stations, marked †, may be inside the station's gateline.",
+     "{\"template\":\"table\",\"rows\":[[\"h3LU= London Underground\\u003cbr /\\u003eNR= National Rail\"],[\"\\u003cstrong\\u003eLondon Heathrow\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/NR Heathrow Terminals 1,2,3,4,5\\u003cbr /\\u003eb. LU Hatton Cross\\u003cbr /\\u003ec. LU Osterley\\u003cbr /\\u003ed. LU Boston Manor\\u003cbr /\\u003ee. LU Northfields\\u003cbr /\\u003ef. LU Acton Town\\u003cbr /\\u003eg. NR Staines †\\u003cbr /\\u003eh. NR Feltham †\\u003cbr /\\u003ei. NR Hounslow †\\u003cbr /\\u003ej. NR West Drayton†\\u003cbr /\\u003ek. NR Southall †\\u003cbr /\\u003el. NR Hanwell †\\u003cbr /\\u003em. NR Ealing Broadway †\"],[\"\\u003cstrong\\u003eShepherd's Bush/Olympia\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU Hammersmith\\u003cbr /\\u003eb. LU Earls Court\\u003cbr /\\u003ec. NR Kensington Olympia\"],[\"\\u003cstrong\\u003eKensington/Notting Hill\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU Earls Court\\u003cbr /\\u003eb. NR Kensington Olympia †\"],[\"\\u003cstrong\\u003eKnightsbridge\\u003c/strong\\u003e \\u003cbr /\\u003ea.\\tLU Earls Court\"],[\"\\u003cstrong\\u003e Chelsea/Pimlico\\u003c/strong\\u003e \\u003cbr /\\u003ea.\\tLU/NR Victoria Station\\u003cbr /\\u003eb.\\tLU/NR Vauxhall\\u003cbr /\\u003ec.\\tNR Battersea Park †\"],[\"\\u003cstrong\\u003ePaddington/Bayswater\\u003c/strong\\u003e \\u003cbr /\\u003ea.\\tLU/NR Paddington\"],[\"\\u003cstrong\\u003eCamden/Regents Park/Baker Street\\u003c/strong\\u003e \\u003cbr /\\u003ea.\\tLU/NR Marylebone\\u003cbr /\\u003eb.\\tLU Baker Street\\u003cbr /\\u003ec.\\tLU St. John's Wood\"],[\"\\u003cstrong\\u003eEuston/Kings Cross/St. Pancras\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/NR Euston\\u003cbr /\\u003eb. LU/NR Kings Cross\\u003cbr /\\u003ec. LU/NR St Pancras\"],[\"\\u003cstrong\\u003eMayfair/Oxford Street\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU Green Park\"],[\"\\u003cstrong\\u003eSoho/Covent Garden\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU Piccadilly Circus\\u003cbr /\\u003eb. LU/NR Charing Cross\"],[\"\\u003cstrong\\u003eVictoria/St. James'/Westminster\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/NR Victoria\\u003cbr /\\u003eb. LU Westminster\\u003cbr /\\u003ec. LU Vauxhall\"],[\"\\u003cstrong\\u003eWaterloo\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/NR Waterloo\\u003cbr /\\u003eb. NR Waterloo East †\"],[\"\\u003cstrong\\u003eCity of London/St. Pauls/Farringdon\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU Bank\\u003cbr /\\u003eb. LU Monument\\u003cbr /\\u003ec. LU Old Street\\u003cbr /\\u003ed. LU/NR Cannon Street\\u003cbr /\\u003ee. LU/NR Blackfriars\\u003cbr /\\u003ef. LU/NR Liverpool Street\\u003cbr /\\u003eg. NR City Thameslink\"],[\"\\u003cstrong\\u003eTower of London/Borough/London Bridge\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/NR London Bridge\\u003cbr /\\u003eb. LU/NR Elephant \\u0026 Castle\\u003cbr /\\u003ec. NR Fenchurch Street †\"],[\"\\u003cstrong\\u003eCanary Wharf/Isle of Dogs\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/DLR/NR Canning Town\"],[\"\\u003cstrong\\u003eLondon City Airport\\u003c/strong\\u003e \\u003cbr /\\u003ea. LU/DLR/NR Canning Town\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

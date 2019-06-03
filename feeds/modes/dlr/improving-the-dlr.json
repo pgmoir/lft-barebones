@@ -1,0 +1,103 @@
+{
+ "pageTitle": "Improving the DLR",
+ "keywords": "TfL",
+ "description": "Improved frequency and capacity on many DLR services.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "DLR",
+   "url": "/modes/dlr/index"
+  },
+  {
+   "title": "Improving the DLR"
+  }
+ ],
+ "title": {
+  "title": "Improving the DLR",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Improved frequency and capacity on many DLR services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New escalators at Limehouse\"}",
+     "We have installed new escalators at the main entrance to the westbound DLR platform at Limehouse station making it easier to get around. The new escalators will help to ease congestion at peak times, improve the accessibility of the station and reduce the time it takes to change between the westbound DLR and c2c platforms.",
+     "The installation of a new ramp is also now complete, improving accessibility around the station..",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR cars get new seats\"}",
+     "DLR services are getting busier each year so we've introduced a new seating layout to increase the space available within the train, as well as it making it easier to board.",
+     "Our 55 B2007 stock vehicles have been converted to a longitudinal seating layout: this means that most of the seats are against the walls instead of being in the middle of the cars. The transverse seats at either end are unchanged.",
+     "The converted cars have exactly the same number of seats and they're wider than they were before, making it easier for standing customers to move down between the seats.",
+     "A review of the new seating arrangement showed that passengers are now moving down inside the train more than they were before, thanks to the extra room that has been created between the seats and the new grab poles.",
+     "Overall, this means that we can now accommodate more passengers on board each of these trains at the busiest times.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reinvestment\"}",
+     "DLR customers will benefit from new walk-through trains from 2022.",
+     "The new trains, which will increase capacity by over 30%, will be more reliable and have real time information, air-conditioning and mobile device charging points.",
+     "To support growth in the Docklands area, TfL will replace two thirds of the existing trains, some of which are 25 years old, and order an additional 10 new trains to provide even more capacity."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "DLR",
+    "links": [
+     {
+      "title": "DLR ambassadors",
+      "url": "/modes/dlr/dlr-ambassadors",
+      "image": {}
+     },
+     {
+      "title": "Improving the DLR",
+      "url": "/modes/dlr/improving-the-dlr",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "DLR",
+     "url": "/modes/dlr/improving-the-dlr",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

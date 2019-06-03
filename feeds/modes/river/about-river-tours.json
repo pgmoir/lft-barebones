@@ -1,0 +1,186 @@
+{
+ "pageTitle": "About River Tours",
+ "keywords": "TfL",
+ "description": "Escape the crowds and discover London at a leisurely pace on a river trip on the Thames.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "River",
+   "url": "/modes/river/index"
+  },
+  {
+   "title": "About River Tours"
+  }
+ ],
+ "title": {
+  "title": "About River Tours",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Escape the crowds and discover London at a leisurely pace with a river tour. Choose from hop-on/hop-off services, themed cruises, dining experiences and sightseeing tours with commentaries.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "A number of providers offer river tours and experiences on the Thames. TfL manages the piers and licenses river passenger services.",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/dinner-cruise-experience.jpg\",\"alt\":\"Enjoy a sensational dinner cruise\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/boat-tower-bridge-sunset.jpg\",\"alt\":\"Tower Bridge at sunset\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-cruise.jpg\",\"alt\":\"Take in the sights of London at an easy pace\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-cruise-thames-barrier.jpg\",\"alt\":\"Take an evening tour and see London at sunset\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/rib-river-boat-in-action.jpg\",\"alt\":\"Hold on tight and enjoy the action on a RIB experience\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fares and tickets\"}",
+     "Generally, you need to buy your ticket in advance online or at a pier ticket office before boarding a boat.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster\"}",
+     "Most operators offer one-third off normal advertised adult and child fares on production of a valid Travelcard, or Oyster card loaded with a valid Travelcard, when purchasing a ticket. Some restrictions apply.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Freedom Pass\"}",
+     "Many operators offer 50% off the adult fare on production of a valid Freedom Pass. This discount is available from 09:00 Mondays to Fridays and all day at weekends and on public holidays.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Map of scheduled river services\",\"url\":\"/cdn/static/cms/documents/map-of-scheduled-river-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 203KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sightseeing cruises\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Tower pier\"}",
+     "A 45-minute circular tour to Westminster and back. From our open deck you can enjoy fantastic views of London's top landmarks including Tower Bridge, HMS Belfast, Houses of Parliament, London Eye and many more.",
+     "\u003cstrong\u003eCity Cruises\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7740 0400\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://www.citycruises.com/\"\u003ecitycruises.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Eye pier\"}",
+     "This 40-minute circular sightseeing cruise travels between the Houses of Parliament and Tower Bridge with live commentary in English and audio commentary in several other languages. A hearing loop system is available. Both decks are accessible for wheelchair users. Daily, suitable in all weather. Book online to get a discount.",
+     "\u003cstrong\u003eLondon Eye River Cruise\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 0870 500 0600\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://www.londoneye.com/\"\u003elondoneye.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Greenwich pier\"}",
+     "A Sunday evening circular cruise which passes the Tower of London, London Eye and Westminster.",
+     "\u003cstrong\u003eCampion Launches\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 8305 0300\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://viscountcruises.com/page7.htm\"\u003eviscountcruises.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Greenwich or Gravesend piers\"}",
+     "Cruise on parts of the river most other cruises don't reach on a Gravesend to Greenwich Cruise.",
+     "\u003cstrong\u003eLower Thames and Medway Passenger Boat Company\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 01732 353448\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://princess-pocahontas.com/\"\u003eprincess-pocahontas.com\u003c/a\u003e ",
+     "Enjoy London's places of interest along the river, with unlimited travel throughout the day and the flexibility to hop-on and hop-off when you want.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster - St. Katharine's circular service\"}",
+     "Circular Cruise Westminster\u003cbr /\u003ePhone: 020 7936 2033\u003cbr /\u003eWebsite: \u003ca href=\"http://www.circularcruise.london \"\u003ewww.circularcruise.london\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster - Thames Barrier\"}",
+     "\u003cstrong\u003eThames River Services\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7930 4097\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://www.thamesriverservices.co.uk/\"\u003ethamesriverservices.co.uk\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster - London Eye - Tower - Greenwich\"}",
+     "\u003cstrong\u003eCity Cruises\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7740 0400\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://citycruises.com/\"\u003ecitycruises.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster - Kew - Richmond - Hampton Court (summer only)\"}",
+     "\u003cstrong\u003eWestminster Passenger Service Association \u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7930 2062\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://wpsa.co.uk/\"\u003ewpsa.co.uk\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Richmond - Kingston - Hampton Court (summer only)\"}",
+     "\u003cstrong\u003eTurks Launches\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 8546 2434\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://www.turks.co.uk/\"\u003eturks.co.uk\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"High speed RIB tours\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Festival pier\"}",
+     "Enjoy the sights and RIB high-speed thrills!",
+     "\u003cstrong\u003eRib Tours London\u003c/strong\u003e \u003cstrong\u003ePhone:\u003c/strong\u003e 020 7118 1181\u003cbr /\u003e\u003cstrong\u003eWebsite:\u003c/strong\u003e  \u003ca href=\"http://ribtourslondon.com\"\u003eribtourslondon.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Eye pier and St Katharine's pier\"}",
+     "Expect city adventure, back-street insight, London gossip and exhilarating speed from award-winning comedian guides and experienced Thames skippers.",
+     "\u003cstrong\u003eThames Rockets\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7928 8933\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://thamesrockets.com \"\u003eThames Rockets\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Embankment pier, Tower pier, North Greenwich pier\"}",
+     "Join us for the ride of your life on the fastest boats on the Thames - we'll thrill you with our high-speed twists and turns.",
+     "\u003cstrong\u003eThames RIB Experience\u003c/strong\u003e 020 3245 1177\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://thamesribexperience.com/\"\u003ethamesribexperience.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster pier\"}",
+     "Go, go, go. Enjoy an exciting jet-propelled speedboat ride along the Thames with a fully-qualified skipper. Zoom past London's landmarks in our RIB jetboats.",
+     "\u003cstrong\u003eThamesjet\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7740 0400\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://thamesjet.com\"\u003ethamesjet.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Afternoon tea, dining and more\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Tower pier\"}",
+     "What better way to make your lunch or afternoon tea more enjoyable than combining it with a cruise down the Thames. (Lunch 1 hour 45 minutes and Afternoon Tea 1 hour 30 minutes).",
+     "\u003cstrong\u003eCity Cruises\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7740 0400\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://citycruises.com/\"\u003ecitycruises.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Embankment pier\"}",
+     "Enjoy freshly-prepared food and stunning river views, with after-lunch commentary or live jazz on Sundays. Or, experience London at night with a four-course dinner cruise. (Lunch 1 hour 45 minutes, Afternoon Tea 1 hour 15 minutes, Jazz cruise 2 hours 30 minutes, Dinner cruise 2 hours 45 minutes).",
+     "\u003cstrong\u003eBateaux London\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7695 1800\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://www.bateauxlondon.com\"\u003ebateauxlondon.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster pier\"}",
+     "The London Showboat dinner cruise brings you live entertainment with performances from hit shows as you enjoy a four-course dinner with wine. (3 hour 15 minute cruise).",
+     "\u003cstrong\u003eCity Cruises\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 7740 0400\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://citycruises.com/\"\u003ecitycruises.com\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From a central London pier\"}",
+     "Evening cruise with supper and a disco. From a central London pier - Fridays or Saturdays. (4 hour cruise).",
+     "\u003cstrong\u003eMainstream Leisure Group\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 020 3044 2932\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"https://mainstreamleisure.co.uk/thames-boat-cruises-london\"\u003emainstreamleisure.co.uk\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "River",
+    "links": [
+     {
+      "title": "About River Bus",
+      "url": "/modes/river/about-river-bus",
+      "image": {}
+     },
+     {
+      "title": "About River Tours",
+      "url": "/modes/river/about-river-tours",
+      "image": {}
+     },
+     {
+      "title": "Woolwich Ferry",
+      "url": "/modes/river/woolwich-ferry",
+      "image": {}
+     },
+     {
+      "title": "The river experience",
+      "url": "/modes/river/the-river-experience",
+      "image": {}
+     },
+     {
+      "title": "Corporate \u0026 private boat hire",
+      "url": "/modes/river/corporate-and-private-boat-hire",
+      "image": {}
+     },
+     {
+      "title": "Explore London tickets",
+      "url": "/modes/river/explore-london-tickets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "River",
+     "url": "/modes/river/explore-london-tickets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Stations, stops \u0026 piers",
+      "url": "/travel-information/stations-stops-and-piers/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

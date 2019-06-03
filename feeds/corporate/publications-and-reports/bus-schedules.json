@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Bus schedules",
+ "keywords": "Bus passengers,B,Buses,TfL",
+ "description": "Search for a bus route number to find schedules for that route",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Bus schedules"
+  }
+ ],
+ "title": {
+  "title": "Bus schedules",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Bus schedules are in PDF format and are on average about 50-100kb in size. Search for a bus route number to find schedules for that route.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus schedules\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Expired bus schedules\"}",
+     " \u003ca href=\"http://bus.data.tfl.gov.uk/expired-schedules/ExpiredSchedules.zip\"\u003eOpen a .zip file to view bus schedules up to 2 August 2018\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

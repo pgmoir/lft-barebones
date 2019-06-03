@@ -1,0 +1,340 @@
+{
+ "pageTitle": "Protect your data",
+ "keywords": "TfL",
+ "description": "Practical advice and guidance intended to help you protect your personal information and reduce the risk of becoming a victim of identity fraud.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "Protect your data"
+  }
+ ],
+ "title": {
+  "title": "Protect your data",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Here is some practical advice and guidance to help you protect your personal information and reduce the risk of becoming a victim of identity fraud.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Am I really dealing with TfL?\"}",
+     "Criminals may pose as TfL in order to steal your personal data. Personal details can be used to apply for loans, bank accounts, state benefits and credit facilities in your name. Criminals can also use personal information to obtain goods or services and documents such as passports and driving licences.",
+     "TfL will never send an unsolicited message asking you to provide your password, financial details or other sensitive information by email or through a link. If you are asked to share this kind of information by someone claiming to be from TfL, it could be an attempt to steal your information, also known as 'phishing'.",
+     "Never give out private information (such as account details or passwords), reply to text messages, download attachments or click on any links in emails if you're not sure they're genuine.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Misleading websites\"}",
+     "Some websites can look like they're part of an official TfL service, or that they provide services on our behalf. This might mean you pay for services that you could get cheaper or for free if you used the official TfL website, such as paying the Congestion Charge or applying for a London taxi driver licence. Always search on \u003ca href=\"http://tfl.gov.uk\"\u003etfl.gov.uk\u003c/a\u003e to find official TfL services.",
+     "You should also report misleading or suspicious websites claiming to have a connection with TfL to \u003ca href=\"http://www.actionfraud.police.uk/report_fraud\"\u003eAction Fraud\u003c/a\u003e . You should include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The website address or URL\",\"How you found, or were directed to, the website\",\"Why you thought it was an official TfL website\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Phishing emails and scams\"}",
+     "TfL will never use unsolicited emails or text messages to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tell you about a refund, Penalty Fare Notice or Penalty Charge Notice\",\"Ask you for personal or payment information\"]}",
+     "You should report misleading or suspicious emails claiming to have a connection with TfL to \u003ca href=\"http://www.actionfraud.police.uk/report_fraud\"\u003eAction Fraud\u003c/a\u003e . You should include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A copy of the suspicious email you received, the sender's email address and the date and time it was received\",\"If you replied, details of what you sent in the reply (eg whether you sent your bank details, address, TfL username or password)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using your online accounts\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Remember organisations like TfL and your bank will never ask for your whole password, just specific characters\",\"Don't click on links in emails to access your online accounts - always type the address in the browser bar, or click on your usual bookmark\",\"If you receive a suspicious email, contact the organisation it claims to have come from using the contact details you know and trust, before replying to the email with any personal information\",\"Before carrying out online transactions with TfL, ensure there is a padlock sign in the task bar at the bottom of the screen and that 'https' begins the website address. Click on the padlock to check the authenticity of the website; fraudsters are able to place an image of the padlock in the browser\",\"Do not disclose the PIN for your payment card(s) over the internet. Online transactions and online banking will never request your payment card PIN\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"General advice\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Treat your personal information as confidential. Do not disclose it to anyone until you're confident that you know who you are dealing with\",\"Shred any documents showing your name, address or other details, eg Oyster or Congestion Charge statements, bank/credit card statements, utility bills and chequebook stubs.\",\"Check your bank and credit card statements promptly for unusual transactions, however small\",\"Opt out of the public (or 'open') version of the electoral register and telephone directory\",\"Consider making use of a credit reference agency to obtain a copy of your credit history, so that you can look for suspect applications or accounts\",\"If you have any doubts about who you are speaking to, call the organisation back using a number you know you can trust\",\"Even junk mail and telephone cold calls can be useful to a criminal so consider registering with the Mail Preference Service and/or the Telephone Preference Service\",\"Close dormant accounts (including any you have with TfL)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"If you move home\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Inform TfL and all other relevant organisations of your change of address. To ensure you have a complete list of your credit accounts it's a good idea to apply for a copy of your credit file\",\"Use a redirection service for your post for at least 12 months\",\"Add your details to the electoral register for your new address but remember to opt out of the public (or 'open') register\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Report any unintended disclosure of your personal details\"}",
+     " \u003ca href=\"/help-and-contact/index\"\u003eContact us\u003c/a\u003e if you think you've given out any information about your TfL account(s) in reply to a suspicious email or text.",
+     "Include brief details of what you disclosed (eg name, address, username, password, Oyster card number etc) but don't include any of those personal details in the email.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Choosing effective passwords\"}",
+     "If you use weak passwords there is a risk that other people may be able to impersonate you to commit fraud and other crimes, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Accessing your TfL accounts and associated Oyster journey history, Cycle Hire or Congestion Charge transactions\",\"Accessing your bank account(s)\",\"Purchasing items online with your money\",\"Impersonating you on social networking and dating sites\",\"Sending emails in your name\",\"Accessing the private information held on your computer or mobile device\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Never use the following as passwords\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your username, actual name or business name\",\"Your Oyster card number or vehicle registration mark\",\"Family members' or pets' names\",\"Your (or a family member's) birthday or mother's maiden name (these details can be traceable through public records)\",\"Favourite sports team or other words easy to work out with a little background knowledge\",\"The word 'password'\",\"A single commonplace dictionary word, which could be cracked by widely available hacking programs\",\"When choosing numerical passcodes or PINs, do not use ascending or descending numbers (for example 4321 or 12345), duplicated numbers (such as 1111) or easily recognisable keypad patterns (such as 14789 or 2580)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Look after your passwords\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Never disclose your passwords to anyone else. If you think that someone else knows your password, change it immediately. Don't enter your password when others can see what you are typing\",\"Try not to use the same ones for every account (if you have only one password, a criminal simply has to break it once to gain access to everything)\",\"Never send any kind of PIN or password by email. No reputable organisation would ask you to do so\",\"Don't write them down\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contactless payment\"}",
+     "The process, enabled by a technology known as Near Field Communication (NFC), uses a chip which is embedded in a mobile phone or on a payment card. It enables users to pay for travel on the TfL network and make payments of up to £30 at shops, cafes and other retailers simply by passing their mobile device or contactless payment card over a card reader (without the need to physically insert their card and enter a PIN).",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Potential risks and issues\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Unknowingly paying for somebody else's travel when you pass your mobile device or payment card over a contactless reader while they are going through the gate\",\"Paying out of the wrong account because you present the wrong payment card\",\"Inability to make payments if your mobile device battery goes flat\",\"Your financial information not being properly deleted when you dispose of your mobile device\",\"Your NFC chip being wiped remotely, either in error or maliciously\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using contactless payment technology safely\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you have an NFC-enabled mobile device, make sure it is always locked when not in use by means of a PIN, which you should change regularly\",\"Take extra care not to lose or damage your NFC-enabled mobile device because it is effectively another wallet\",\"Make sure you read and understand your bank's terms and conditions so you are clear who holds liability in the event of an incorrect payment or security breach\",\"Always check your bank statements carefully to ensure that payments have not been taken from your account without your knowledge or permission, either on purpose or accidentally\"]}",
+     "If you have had a problem, contact the relevant bank or card issuer.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Motoring identity theft\"}",
+     "If you find the number plate missing from your vehicle there's a chance that it has been stolen with a view to using your car's identity. This may result in you receiving enforcement notices for unpaid parking charges, speeding fines, or Congestion Charge or Low Emission Zone Penalty Charge Notices.",
+     "If you find that one or both of your number plates are missing, report this immediately to the police and obtain a crime reference number.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using mobile devices in public\"}",
+     "Most of us use smartphones, tablets or laptops in public places on a regular basis. You may be one of the many customers who regularly use your mobile device to connect to WiFi services on the London Underground or London Overground.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Potential risks and issues\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"People gaining access to your online activity if you are using an unsecured wireless network\",\"'Shoulder surfing' - people viewing your screen\",\"Loss or theft of your smartphone, tablet or laptop\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using public WiFi networks safely\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Unless you're using a secure web page, do not send or receive private information when using public WiFi\",\"Wherever possible, only use well-known public WiFi providers such as Virgin Media, The Cloud, BT OpenZone, etc\",\"Ensure you have effective and updated antivirus or anti-spyware software installed before you use public WiFi networks\",\"If you need to access your corporate network for business purposes, if possible you should use a secure, encrypted Virtual Private Network (VPN)\",\"Keep your mobile device with you at all times to avoid loss or theft\",\"Be aware of who is around you and may be watching what you are doing online. Consider using a privacy filter which effectively blocks the view of your screen from people sitting either side of you\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your data has been compromised\"}",
+     "Act quickly! Having your identity stolen can be extremely disruptive.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/help-and-contact/index\\\"\\u003eContact us\\u003c/a\\u003e if your registered Oyster card, Oyster concessionary photocard or Santander Cycles key has been lost or stolen\",\" \\u003ca href=\\\"/help-and-contact/index\\\"\\u003eContact us\\u003c/a\\u003e about any unrecognised transactions or journey details on your which appear on your account(s) as soon as possible\",\"If you receive documentation or letters that relate to goods, services or accounts that you have not ordered or applied for, contact the organisation concerned\",\"If any of your payment cards or cheques are lost or stolen, inform the card issuer immediately\",\"Contact your bank about any unrecognised transactions on your bank or credit card statements as soon as possible\",\"If your online account has been compromised, change your password immediately. This also applies if another account or website for which you use the same login details has been compromised\",\"Consider obtaining a copy of your credit report from one of the credit reference agencies. If you notice any new accounts or applications on your credit report that you didn't make, contact the organisation concerned. Request the credit reference agency make a note on your credit file stating that you have been a victim of identity theft\",\"Report the loss or theft of your driving licence or passport to the relevant authority\",\"Contact Royal Mail if you suspect that you have had mail stolen or redirected without your permission\"]}",
+     "You need to report identity fraud that involves the use of credit cards, debit cards online banking or cheques directly to the relevant financial organisation. In England, Wales and Northern Ireland the financial institution concerned is then responsible for further investigation and reporting any crime to the police.",
+     "Other types of identity fraud need to be reported to the relevant organisation (eg TfL) in the first instance and depending upon their advice, they may also need to be reported to the police.",
+     "If you think you have been a victim of identify fraud, remember to keep a record of the subsequent actions you take to try and resolve the situation (keep copies of all correspondence; note down who you have spoken to and when; send any letters or other documents by recorded or special delivery).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"When someone passes away\"}",
+     "Criminals are increasingly using the identities of deceased persons to commit identity fraud. However, if you are the next of kin or executor, by taking some practical steps described below you may be able to protect the identities of someone who is recently deceased:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Notify all relevant organisations, including TfL if they held one or more accounts with us (eg Oyster, Congestion Charge, Santander Cycles)\",\"Do not include the address of the deceased in any obituary\",\"Shred all identity documents before disposal\",\"Ensure that any identity documents are not left in clothing, wallets or bags\",\"Have mail redirected to your address\",\"Register the deceased person with a mailing preference service. These are free services that will remove the deceased's details from direct mailing lists\",\"Consider registering with the CIFAS Protective Registration Service. For a fee, a CIFAS Protective Registration will be noted against the deceased person's address. The potential lender will be made aware of this when a credit check is carried out which may result in further checks being carried out\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Privacy \u0026 cookies",
+    "links": [
+     {
+      "title": "Access your data",
+      "url": "/corporate/privacy-and-cookies/access-your-data",
+      "image": {}
+     },
+     {
+      "title": "Bus data collection pilot",
+      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
+      "image": {}
+     },
+     {
+      "title": "Capital Call",
+      "url": "/corporate/privacy-and-cookies/capital-call",
+      "image": {}
+     },
+     {
+      "title": "CCTV \u0026 surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "image": {}
+     },
+     {
+      "title": "Compulsory purchase",
+      "url": "/corporate/privacy-and-cookies/compulsory-purchase",
+      "image": {}
+     },
+     {
+      "title": "Contactless payment",
+      "url": "/corporate/privacy-and-cookies/contactless-payment",
+      "image": {}
+     },
+     {
+      "title": "Cookies",
+      "url": "/corporate/privacy-and-cookies/cookies",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/corporate/privacy-and-cookies/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "Employment",
+      "url": "/corporate/privacy-and-cookies/employment",
+      "image": {}
+     },
+     {
+      "title": "Event data from mobile devices",
+      "url": "/corporate/privacy-and-cookies/event-data-from-mobile-devices",
+      "image": {}
+     },
+     {
+      "title": "External Recruitment",
+      "url": "/corporate/privacy-and-cookies/external-recruitment",
+      "image": {}
+     },
+     {
+      "title": "Oyster card",
+      "url": "/corporate/privacy-and-cookies/oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Privacy \u0026 data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "image": {}
+     },
+     {
+      "title": "Protect your data",
+      "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Road User Charging",
+      "url": "/corporate/privacy-and-cookies/road-user-charging",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/privacy-and-cookies/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/corporate/privacy-and-cookies/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Website privacy",
+      "url": "/corporate/privacy-and-cookies/website-privacy",
+      "image": {}
+     },
+     {
+      "title": "Wi-Fi data collection",
+      "url": "/corporate/privacy-and-cookies/wi-fi-data-collection",
+      "image": {}
+     },
+     {
+      "title": "Your information rights",
+      "url": "/corporate/privacy-and-cookies/your-information-rights",
+      "image": {}
+     },
+     {
+      "title": "Zip Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/18-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Privacy \u0026 cookies",
+     "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Get Safe Online",
+      "url": "https://www.getsafeonline.org/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cyber Streetwise",
+      "url": "https://www.cyberstreetwise.com/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "ActionFraud",
+      "url": "http://www.actionfraud.police.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Money Advice Service",
+      "url": "https://www.moneyadviceservice.org.uk/en/articles/identity-theft-and-scams-what-you-are-liable-for",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Crimestoppers",
+      "url": "https://crimestoppers-uk.org/keeping-safe/identity-theft/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "CIFAS",
+      "url": "https://www.cifas.org.uk/individuals",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "CardWatch",
+      "url": "http://www.cardwatch.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Royal Mail",
+      "url": "http://www.royalmail.com/personal/help-and-support/what-can-I-do-about-scam-mail",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Mailing Preference Service",
+      "url": "http://www.mpsonline.org.uk/mpsr/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Telephone Preference Service",
+      "url": "http://www.tpsonline.org.uk/tps/index.html",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Deceased Preference Service",
+      "url": "http://www.deceasedpreferenceservice.co.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

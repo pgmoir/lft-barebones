@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Auto Pay charge query",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay charge query"
+  }
+ ],
+ "title": {
+  "title": "Auto Pay charge query",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Details\"}",
+     "You can scan paper documents into your computer, or take photographs of them with your camera, smartphone or tablet. You’ll need to save each file as a .jpg, .jpeg, .tif, .tiff or .pdf.",
+     "Once you have saved your document(s) on your computer/mobile device, click 'Browse' (this may display as 'Choose' or 'Choose File' depending on the web browser you are using) and select the file you want to upload. Remember to double check you have selected the correct file.",
+     "Repeat the process for every document you want to attach. If you make a mistake, you can add or remove files before submitting your application."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

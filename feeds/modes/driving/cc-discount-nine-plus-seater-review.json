@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Review application",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Review application"
+  }
+ ],
+ "title": {
+  "title": "Review application",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Review the vehicles you have added to the discount, remove them or add more.",
+     "You can add up to 50 vehicles at a time. A £10 annual registration charge applies to each one.",
+     "This vehicle is currently registered for a 100% discount from the Congestion Charge. You can check when this discount expires in the 'Manage discounts' section of your account.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the Congestion Charge.",
+     "This is correct today but may change - always check to see if you need to pay to drive within the zone.",
+     "You will need to pay the Congestion Charge for this vehicle if you travel within the zone Monday to Friday 07:00-18:00 excluding bank holidays and the period between Christmas and New Year's Day. You must pay the Congestion Charge",
+     "This vehicle is currently registered for a 100% discount from the ULEZ.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the ULEZ charge.",
+     "\u003cstrong\u003eThis is correct today but may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle.",
+     "\u003cstrong\u003eThis is correct today but may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "This vehicle does not meet the ULEZ emissions standards. You will need to pay the ULEZ charge for heavier vehicles if you travel within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can provide evidence that your vehicle does meet the ULEZ emissions standards or belongs in a different category, go to your account home page and \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "This vehicle does not meet the ULEZ emissions standards. You will need to pay the ULEZ charge for lighter vehicles if you travel within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can provide evidence that your vehicle does meet the ULEZ emissions standards, go to your account home page and \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "I accept the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"target=\"_blank\"\u003eterms and conditions\u003c/a\u003e ",
+     "Accept the terms and conditions to continue",
+     "A tag will help you identify your vehicle more easily.",
+     "Change your vehicle tag or remove it entirely",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle meets the ULEZ emissions standards. You don't have to pay the charge.",
+     "We aim to process your registration within 10 working days and will email you with the outcome. In the meantime, you need to pay the Congestion Charge for journeys within the zone.",
+     "The discount only applies to the Congestion Charge. If your vehicle doesn't meet the emissions standards you still need to pay the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone charge\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

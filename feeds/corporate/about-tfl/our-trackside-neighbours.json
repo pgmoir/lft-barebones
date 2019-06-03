@@ -1,0 +1,126 @@
+{
+ "pageTitle": "Our trackside neighbours",
+ "keywords": "TfL",
+ "description": "We try the balance the comfort of people living along our rail lines with the need to run reliable services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Environment",
+   "url": "/corporate/about-tfl/environment"
+  },
+  {
+   "title": "Our trackside neighbours"
+  }
+ ],
+ "title": {
+  "title": "Our trackside neighbours",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We aim to run safe and reliable train services while also being a good neighbour to people living and working close to our tracks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Noise and vibration\"}",
+     "The transport network of a city like London inevitably creates noise. We want to do more to minimise noise levels for our neighbours.",
+     "We regularly inspect our track to ensure it is safe and reliable. Our maintenance programme, which includes a continuous programme of rail grinding and track improvements, also helps to reduce noise and vibration. We spend approximately £150m each year on track improvements - this includes a dedicated annual budget of £1m towards developing rail noise technology.",
+     "Sudden or gradual increases in noise coming from our tracks can have several causes including normal wear and tear, track faults or displaced joints. New developments and excavations across the city can also change the way that ground-borne noise and vibration is heard.",
+     "We monitor noise levels across the Tube network and work to reduce noise and vibration. For example we:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Grind rails to remove corrugation\",\"Replace worn rails\",\"Fix or remove broken or unnecessary rail joints used to connect two pieces of rail together\",\"Use resilient track fixings - a system that reduces ground-borne vibration by essentially lifting the rail\"]}",
+     "There are no legal limits on the amount of noise or vibration that can come from trains operating on existing railways, but we are committed to treating each complaint case-by-case.",
+     "We're also tackling noise inside train carriages. We install innovative under-rail pads in the noisiest sections of the network to reduce this type of noise.",
+     "We work with suppliers and academics to innovate and develop new technology to reduce noise and vibration levels across the network.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Trees and other vegetation\"}",
+     "We regularly inspect our land and the vegetation growing on it so that we can plan when and how best to maintain it.",
+     "Our trees and vegetation are managed to make sure there is no risk to our services, our property, or our neighbours' property. As a neighbour, you also have a responsibility to ensure that trees and vegetation on your property do not disrupt our services or damage our property.",
+     "We typically look for the following things when inspecting vegetation alongside our tracks:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tree and vegetation health - dead or diseased trees could break and fall causing a disruption to our service of damage to property\",\"Leaf-fall - high numbers of leaves falling on the tracks can disrupt our services\",\"Signals and track view - trees and bushes growing near the railway must not obscure train drivers' views of signals and other parts of the railway\",\"Embankment stability - trees and vegetation can impact the stability of our embankments which could potentially lead to landslides\",\"Invasive species: such as Japanese knotweed, we track and manage their growth/spread using methods approved by the Environment agency\"]}",
+     "When work needs to be carried out, we do our best to limit disruption to our neighbours. Most of the time this can only be done during the night while the service is not operating.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vermin\"}",
+     "Regular pest control and management is carried out across the network. We make every effort to eradicate vermin from our properties, but littering and unwanted food and water sources nearby pose an ongoing challenge.",
+     "We rely heavily on our neighbours to help us manage this issue by not discarding food sources and litter near our tracks.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "To help us identify the areas most affected by noise, \u003ca href=\"/help-and-contact/contact-us-about-tube-and-rail\"\u003econtact us about any noise or vibration issues\u003c/a\u003e . Select a 'Noise and vibration' enquiry on the form.",
+     "Residents concerned about any of these trackside issues can also contact us 24/7 on 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "TfL Rail and most London Overground services run on tracks managed by \u003ca href=\"https://www.networkrail.co.uk/\"\u003eNetwork Rail\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Environment",
+    "links": [
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/cycling-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Our trackside neighbours",
+      "url": "/corporate/about-tfl/our-trackside-neighbours",
+      "image": {}
+     },
+     {
+      "title": "Sustainability",
+      "url": "/corporate/about-tfl/sustainability",
+      "image": {}
+     },
+     {
+      "title": "Natural environment",
+      "url": "/corporate/about-tfl/natural-environment",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Environment",
+     "url": "/corporate/about-tfl/natural-environment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

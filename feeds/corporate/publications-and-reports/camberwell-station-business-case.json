@@ -1,0 +1,77 @@
+{
+ "pageTitle": "Camberwell station business case",
+ "keywords": "London Overground passengers,C,Southwark,TfL,Camberwell, rail",
+ "description": "Strategic outline business case for a possible reinstatement of Camberwell rail station",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Camberwell station business case"
+  }
+ ],
+ "title": {
+  "title": "Camberwell station business case",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"TfL has produced a strategic outline business case for a possible reinstatement of Camberwell National Rail station\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This document forms the strategic outline business case for the proposal to reinstate a National Rail station to be served by Thameslink services on the site of the original Camberwell rail station.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Strategic outline business case - Reinstatement of Camberwell National Rail station\",\"url\":\"/cdn/static/cms/documents/camberwell-station-strategic-outline-business-case-september-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.37MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,225 @@
+{
+ "pageTitle": "Visitor information",
+ "keywords": "TfL",
+ "description": "There are many ways to get around London and lots of ways to make your journeys easier, quicker and more fun.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Visiting London",
+   "url": "/travel-information/visiting-london/index"
+  },
+  {
+   "title": "Getting around London",
+   "url": "/travel-information/visiting-london/getting-around-london"
+  },
+  {
+   "title": "Visitor information"
+  }
+ ],
+ "title": {
+  "title": "Visitor information",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"There are many ways to get around London and lots of ways to make your journeys easier, quicker and more fun.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Welcome to London\"}",
+     "We run one of the largest public transport networks in the world. Our transport services are fully integrated, so it's easy to switch between them to get around. Buying a \u003ca href=\"/travel-information/visiting-london/visitor-oyster-card\"\u003eVisitor Oyster card\u003c/a\u003e before you leave home or using your \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless card\u003c/a\u003e to pay for your fares makes it even easier.",
+     "You can plan your visit to London by downloading our\u003cstrong\u003eWelcome to London leaflet\u003c/strong\u003e : an essential brochure with key information about our transport network, getting to and from central London, and discovering the city.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Welcome to London\",\"url\":\"/cdn/static/cms/documents/visitor-leaflet-welcome-to-london-nov16.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.74MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/welcome-to-london-thumbnail.jpg\",\"alt\":\"Welcome to London thumbnail\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transport services\"}",
+     "There are a variety of ways to get around London, depending on where you want to go and how you want to travel:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/underground-roundel-thumbnail.jpg\",\"alt\":\"Tube roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Underground (Tube)\"}",
+     "There are 11 colour-coded Underground lines. Services run regularly from around 05:00 to 00:30 on most routes. Night Tube services run on the Jubilee, Victoria, Piccadilly and most of the Central and Northern lines all night on Fridays and Saturdays. Find out more about \u003ca href=\"/modes/tube/index\"\u003eTube services\u003c/a\u003e \u003cstrong\u003e. \u003c/strong\u003e ",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bus-roundel-thumbnail.jpg\",\"alt\":\"Bus roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bus\"}",
+     "A cost-effective and easy way to travel around London, buses generally run from 05:00 to 00:30. Night buses operate on many major routes from around midnight to 05:00, and some operate a 24-hour service. Please note that it is not possible to pay for your London bus fare in cash. Find out more about our \u003ca href=\"/modes/buses/index\"\u003ebus services\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/dlr-roundel-thumbnail.jpg\",\"alt\":\"DLR roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"DLR (Docklands Light Railway)\"}",
+     "DLR trains in east London run from 05:30 to 00:30 Monday to Saturday and from 07:00 to 23:30 on Sunday. Take the DLR to Canary Wharf, Cutty Sark for Maritime Greenwich, ExCel London, London City Airport, or Woolwich Arsenal. Find out more about \u003ca href=\"/modes/dlr/index\"\u003eDLR services\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/rivers-roundel-thumbnail.jpg\",\"alt\":\"Rivers roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London river services\"}",
+     "A relaxing way to see the sights. River Buses are a great alternative to the Tube or bus, while River Tours offer a variety of experiences from sightseeing trips with commentary to high speed adventure. Find out more about \u003ca href=\"/modes/river/index\"\u003eriver services\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/london-overground-thumnail-roundel.jpg\",\"alt\":\"London Overground thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Overground (LO)\"}",
+     "Orbital line serving London's suburbs. These local trains run from around 05:00 to midnight Monday to Saturday and from around 07:00 to midnight on Sunday. They're a great way to see hidden parts of London. Find out more about \u003ca href=\"/modes/london-overground/index\"\u003eLondon Overground services\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tram-roundel-thumbnail.jpg\",\"alt\":\"Tram roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Tram\"}",
+     "Tram services run in south London between Wimbledon, Croydon, Beckenham and New Addington from around 05:00 to 00:30 Monday to Saturday and from 07:00 to 00:30 on Sunday. Find out more about \u003ca href=\"/modes/trams/index\"\u003eTram services\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-rail-roundel-thumbnail.jpg\",\"alt\":\"TfL Rail roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"TfL Rail\"}",
+     "Services run between Liverpool Street to Shenfield and Paddington to Heathrow from around 05:20 to 00:30 Monday to Sunday. These services will form part of the Elizabeth line when it is completed. Find out more about \u003ca href=\"/modes/tfl-rail/index\"\u003eTfL Rail\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/taxi-roundel-thumbnail.jpg\",\"alt\":\"Taxi roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxis \\u0026 minicabs\"}",
+     "London's famous taxis (or black cabs), can be hailed on the street, booked in advance or picked up from designated taxi ranks. Find out more about \u003ca href=\"/modes/taxis-and-minicabs/index\"\u003etaxi and minicab services in London\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/emirates-icon-thumbnail.jpg\",\"alt\":\"Emirates icon roundel thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Emirates Air Line cable car\"}",
+     "Offering unique city views, the cable car is the highest observation point over the Thames. It connects The O2 and ExCeL London via terminals at North Greenwich (Jubilee line) and Royal Victoria (DLR). Open seven days a week, it's a great way to see London. Find out more about \u003ca href=\"/modes/emirates-air-line/index\"\u003eEmirates Air Line cable car\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/santander-icon-thumbnail.jpg\",\"alt\":\"Santander icon thumbnail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Santander Cycles\"}",
+     "London's self-service bike hire scheme for short journeys. There are over 10,000 bikes for hire and 700 docking stations. It costs £2 to access the bikes for 24 hours, and the first 30 minutes of every bike journey you make in that 24-hour period is free. Find out more about \u003ca href=\"/modes/cycling/santander-cycles\"\u003eSantander Cycles\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fare zones\"}",
+     "London's transport network is divided into nine fare zones. Zones 1 and 2 are in central London, and Zones 6-9 are on the outskirts of the city. Heathrow airport is in Zone 6. Find out more about \u003ca href=\"http://visitorshop.tfl.gov.uk/help/travel-zones/\"\u003e fare zones\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel times - peak and off-peak\"}",
+     "Travel fares vary depending on the transport service you use, the zone(s) you travel in, the day you travel and the time of day you travel - peak or off-peak.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Peak travel is between 06:30-09:30 and 16:00-19:00 Monday to Friday; travel is more expensive during peak hours.\",\"Off-peak travel is at all other times (including bank holidays). Travel is cheaper during off-peak.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Maps\"}",
+     "Whether you're taking the bus or Tube, on two wheels or by boat, we've got the right map to help you get to where you want to be. Visit our \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-maps\"\u003eMaps\u003c/a\u003e page to find out more.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Top travel tips\"}",
+     "No other city is as defined by its transport system as London: with its instantly recognisable red buses, black cabs and Tube trains.",
+     "Millions of journeys are made on London's transport network every day which can make travelling a bit challenging for visitors. Follow our \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-information/top-travel-tips\"\u003e travel tips \u003c/a\u003e to make the most of your experience, and save time and money.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Visitor Centres\"}",
+     "Want to know how to make the most of your trip to London? Visit one of our eight Visitor Centres to get advice on travel, places to visit and buying travel, attractions and tour tickets. Find \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-centres\"\u003eVisitor Centres and opening times\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel information in your language\"}",
+     "Choose your language on the Google Translate menu at the bottom of this page. Then navigate our website and find the information you need in your own language."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Getting around London",
+    "links": [
+     {
+      "title": "Visitor Oyster card",
+      "url": "/travel-information/visiting-london/visitor-oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Experience London",
+      "url": "/travel-information/visiting-london/experience-london",
+      "image": {}
+     },
+     {
+      "title": "Getting to London",
+      "url": "/travel-information/visiting-london/getting-to-london",
+      "image": {}
+     },
+     {
+      "title": "Visitor information",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-information",
+      "image": {}
+     },
+     {
+      "title": "Top travel tips",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-information/top-travel-tips",
+      "image": {}
+     },
+     {
+      "title": "Best ways for visitors to pay",
+      "url": "/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay",
+      "image": {}
+     },
+     {
+      "title": "Visitor maps",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-maps",
+      "image": {}
+     },
+     {
+      "title": "Visitor Centres",
+      "url": "/travel-information/visiting-london/getting-around-london/visitor-centres",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Getting around London",
+     "url": "/travel-information/visiting-london/getting-around-london/visitor-centres",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Buy a Visitor Oyster card",
+      "url": "http://visitorshop.tfl.gov.uk/tfl/london-visitor-oyster-card/?utm_medium=referral\u0026utm_source=tfl.gov.uk\u0026utm_campaign=tfl",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "VisitBritain shop",
+      "url": "https://www.visitbritainshop.com/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "TfL souvenirs",
+      "url": "https://shop.tfl.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Visit London",
+      "url": "http://www.visitlondon.com/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

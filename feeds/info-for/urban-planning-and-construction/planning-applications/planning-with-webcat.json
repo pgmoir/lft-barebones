@@ -1,0 +1,186 @@
+{
+ "pageTitle": "Planning with WebCAT",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Planning with WebCAT"
+  }
+ ],
+ "title": {
+  "title": "Planning with WebCAT",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"WebCAT provides information on London's transport system to the professional planning community. This connectivity assessment toolkit allows planners to measure public transport access levels (PTAL) and produce travel time reports and statistics.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"WebCAT\",\"texts\":[\"Go to the toolkit to check PTAL values and create travel time maps\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/planning-with-webcat/webcat\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/webcat-ptal-teaser_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"WebCAT updates\",\"texts\":[\"Find out what connectivity data is being added to the toolkit\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/planning-with-webcat/webcat-updates\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/map-teaser-central_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What is WebCAT?\"}",
+     "WebCAT is our Web-based Connectivity Assessment Toolkit. The toolkit contains two ways of measuring transport connectivity:",
+     "PTALs can be viewed for the whole of London or for individual locations, in both the current (base) and future transport networks.",
+     "The TIM tool allows you to plot travel times on the map for any location in London with user-selected attributes including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Year\",\"Travel mode\",\"Time period\",\"Direction\"]}",
+     "You can also view statistics (for example, population, jobs or services) associated with the travel time bands displayed on the map and compare different scenarios.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Terms of use\"}",
+     "See the \u003ca href=\"/info-for/urban-planning-and-construction/planning-with-webcat/glossary\"\u003eWebCAT terms of use\u003c/a\u003e . You also need to agree to the \u003ca href=\"https://www.google.com/intl/en-US_US/help/terms_maps/\"\u003eGoogle terms of service\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using WebCAT and its features\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Using WebCAT and its features\",\"url\":\"/cdn/static/cms/documents/using-webcat-and-features.pdf\",\"icon\":\"download\",\"size\":\"PDF 90KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Connectivity assessment guide\"}",
+     "Our complete guide to connectivity assessment will help you become familiar with the techniques we use to assess levels of connectivity in London.",
+     "The guide explains how PTAL and TIM are calculated.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transport connectivity assessment guide\",\"url\":\"/cdn/static/cms/documents/connectivity-assessment-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.19MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"PTAL spreadsheet macro\"}",
+     "If you feel that a WebCAT-calculated PTAL is not representative of your chosen site (for example, it's on the boundary of two cells giving different levels), ask for a copy of our PTAL spreadsheet macro and guide by emailing \u003ca href=\"mailto:webcat@tfl.gov.uk\"\u003ewebcat@tfl.gov.uk\u003c/a\u003e .",
+     "This macro can convert the PTAL calculation text report to a spreadsheet format for you to modify accordingly.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Glossary\"}",
+     "Terms used in WebCAT are explained in our \u003ca href=\"/info-for/urban-planning-and-construction/planning-with-webcat/glossary\"\u003eWebCAT glossary\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Planning with WebCAT",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/webcat",
+      "image": {}
+     },
+     {
+      "title": "Glossary",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/glossary",
+      "image": {}
+     },
+     {
+      "title": "WebCAT updates",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/webcat-updates",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Planning with WebCAT",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "pageTitle": "Dart Charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Dart Charge"
+  }
+ ],
+ "title": {
+  "title": "Dart Charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Dart Charge uses the same red C logo as the Congestion Charge but is an entirely separate scheme, operated on behalf of Highways England.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/dart-charge-logo.jpg\"},\"wrapped\":false}",
+     "\u003cstrong\u003ePaying one will not pay for the other.\u003c/strong\u003e ",
+     "Drivers using the Dartford Crossing need to pay the Dart Charge in advance or by midnight the day after crossing. Pay online or by phone, post or at retail outlets. It is still free to use the crossing 22:00 to 06:00.",
+     " \u003ca href=\"https://www.gov.uk/pay-dartford-crossing-charge\"\u003eFind out how to pay the Dart Charge.\u003c/a\u003e ",
+     "Unlike the Dart Charge, you can't pay Congestion Charge at retail outlets. See \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003ePaying the Congestion Charge\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

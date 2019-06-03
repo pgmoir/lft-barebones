@@ -1,0 +1,82 @@
+{
+ "pageTitle": "London Underground launches investigation into incident involving engineering train on Northern line",
+ "description": "At around 5.25am this morning, an engineering train that was undertaking rail maintenance work became defective as it approached Archway, travelling southbound on the High Barnet branch of the Northern line.Engineers began to move the defective train",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Underground launches investigation into incident involving engineering train on Northern line",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) has today, alongside the Rail Accident Investigation Bureau (RAIB), launched an investigation into an incident involving an engineering train on the Northern line this morning (13 August)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Safety is London Underground's top priority, and we have of course launched an immediate and thorough investigation",
+     "At around 5.25am this morning, an engineering train that was undertaking rail maintenance work became defective as it approached Archway, travelling southbound on the High Barnet branch of the Northern line.",
+     "Engineers began to move the defective train northbound by coupling it to an out of service Northern line train.",
+     "However, for reasons that are now under investigation, at around 6.44am the engineering train became detached from the out of service Northern line train and began to move southbound.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Swift assessment\"}",
+     "LU staff undertook a swift assessment of the incident and moved to divert passenger trains to the City branch while directing the engineering train to the Charing Cross branch where passenger trains had been non-stopped and cleared.",
+     "Services on the Charing Cross branch of the Northern line were then suspended.",
+     "The engineering train came to a stand at Warren Street on the Charing Cross branch of the Northern line at 6.57am.",
+     "LU has suspended the use of all engineering trains of the type involved in today's incident, which are provided to LU and operated by a contractor, until further investigations into this incident can be undertaken.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Restore services to normal\"}",
+     "The incident involved the suspension of the Northern line between Finchley Central and Archway and Camden Town to Kennington via Charing Cross.",
+     "The line currently remains suspended to allow the investigation to be undertaken.",
+     "LU is working with the RAIB to restore services to normal as soon as possible.",
+     "LU Director Richard Parry said: 'Safety is London Underground's top priority, and we have of course launched an immediate and thorough investigation into this incident to establish the cause.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Restore full services\"}",
+     "'Once that investigation is complete, we will publish the report, making its conclusions and recommendations clear.",
+     "'In the meantime we have prohibited the use of this design of engineering train on the Underground.",
+     "'From the start of this incident, an immediate assessment was made and operational decisions taken to minimise the safety risk to our customers and staff.",
+     "'Our engineers are working to restore full services as soon as possible, and we apologise for the inconvenience caused to our customers while we investigate this incident.'\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

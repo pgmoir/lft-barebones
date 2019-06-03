@@ -1,0 +1,99 @@
+{
+ "pageTitle": "Manage Auto Pay",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Manage Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Manage Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Service summary\"}",
+     "\u003cstrong\u003eYour scheduled payment of {0} failed.\u003c/strong\u003e If you don't reactivate your service it will be suspended. Once suspended you will need to pay the charge another way or you will receive a Penalty Charge Notice.",
+     "To reactivate your Auto Pay you need to pay the current balance. This may include charges incurred since your last statement. The current balance payable is {1}.",
+     "\u003cstrong\u003eYour scheduled payment of {0} failed. \u003c/strong\u003e Your Auto Pay service is now closed. You will need to pay the charge another way or you will receive a Penalty Charge Notice.",
+     "Failure to pay the full outstanding balance of {1} may lead to recovery action.",
+     "\u003cstrong\u003eYour scheduled payment of {0} failed. \u003c/strong\u003e Your Auto Pay service is now suspended. If you do not reactivate your service you will need to pay the charge another way or you will receive a Penalty Charge Notice.",
+     "To reactivate your Auto Pay you will need to pay the current balance. This may include charges incurred since your last statement. The current balance payable is {1}.",
+     "\u003cstrong\u003eIf you do not pay the outstanding balance now your Auto Pay will be closed and you will need to pay additional vehicle registration charges to reactivate it.\u003c/strong\u003e ",
+     "\u003cstrong\u003e‘Active’ \u003c/strong\u003e status means that your Auto Pay service is fully operational and no further action is needed.",
+     "\u003cstrong\u003e‘Pending suspension’\u003c/strong\u003e status means that a scheduled payment has failed and you now need to pay the outstanding balance. If you do not pay this, your Auto Pay will be 'Suspended'. Once 'Suspended' you will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Suspended’\u003c/strong\u003e status means that a scheduled payment has failed and you now need to pay the outstanding balance. If you drive any of your vehicles within the charging zone you will need to pay the charge in another way or you will receive a Penalty Charge Notice. If you do not clear your balance quickly, your Auto Pay service will be closed and you will need to pay vehicle registration charges to reactivate it.",
+     "\u003cstrong\u003e‘Closed’\u003c/strong\u003e status means that your Auto Pay service is no longer available. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Active’ \u003c/strong\u003e status means that your Auto Pay service is fully operational and no further action is needed.",
+     "\u003cstrong\u003e‘Pending suspension’\u003c/strong\u003e status means that a scheduled payment has failed and you now need to pay the outstanding balance. If you do not pay this, your Auto Pay will be 'Suspended'. Once 'Suspended' you will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Suspended’\u003c/strong\u003e status means that a scheduled payment has failed and you now need to pay the outstanding balance. If you drive any of your vehicles within the charging zone you will need to pay the charge in another way or you will receive a Penalty Charge Notice. If you do not clear your balance quickly, your Auto Pay service will be closed and you will need to pay vehicle registration charges to reactivate it.",
+     "\u003cstrong\u003e‘Closed’\u003c/strong\u003e status means that your Auto Pay service is no longer available. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Active’ \u003c/strong\u003e status means that your Auto Pay service is fully operational and no further action is needed.",
+     "\u003cstrong\u003e‘Pending suspension’\u003c/strong\u003e status means that a scheduled payment has failed and you now need to pay the outstanding balance. If you do not pay this, your Auto Pay will be 'Suspended'. Once 'Suspended' you will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Suspended’\u003c/strong\u003e status means that a scheduled payment has failed and you now need to pay the outstanding balance. If you drive any of your vehicles within the charging zone you will need to pay the charge in another way or you will receive a Penalty Charge Notice. If you do not clear your balance quickly, your Auto Pay service will be closed and you will need to pay vehicle registration charges to reactivate it.",
+     "\u003cstrong\u003e‘Closed’\u003c/strong\u003e status means that your Auto Pay service is no longer available. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "You can only add 5 vehicles to your Auto Pay service. To add another vehicle you will first need to remove one.",
+     "If you have a business account you can set up Fleet Auto Pay. This is designed for customers with 6 or more vehicles.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle. This may change - always check to see if you need to pay to drive in the zone.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from this charge. This may change - always check to see if you need to pay to drive within the zone.",
+     "This vehicle either meets the ULEZ emissions standards, is exempt or you don't need to pay the charge for it.",
+     "We don't have any details for this vehicle at the moment. To add it to a discount application or to Auto Pay you need to add it as a new vehicle.",
+     "There was a problem - we can't retrieve your vehicles",
+     "A tag will help you identify your vehicle more easily.",
+     "Change your vehicle tag or remove it.",
+     "If you remove the vehicle from your Auto Pay service it will cost £10 to add it again."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "title": "Help with Auto Pay",
+    "links": [
+     {
+      "title": "Auto Pay user guides",
+      "url": "/modes/driving/pay-to-drive-in-london",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

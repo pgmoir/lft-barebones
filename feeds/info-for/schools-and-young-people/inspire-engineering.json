@@ -1,0 +1,121 @@
+{
+ "pageTitle": "Inspire Engineering",
+ "keywords": "Schools and young people,TfL",
+ "description": "Information for teachers to engage students about the range of careers in engineering and transport planning.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people",
+   "url": "/info-for/schools-and-young-people/index"
+  },
+  {
+   "title": "Inspire Engineering"
+  }
+ ],
+ "title": {
+  "title": "Inspire Engineering",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Are you a teacher looking for ways to engage with your students? Could your students learn more about the huge range of careers in engineering and transport planning? The Inspire Engineering programme is here to help bridge the gap between schools and future careers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/inspire-engineering_rdax_400x250.jpg\",\"alt\":\"Pupils participating in a hands-on Inspire Engineering challenge\"},\"wrapped\":false}",
+     "Engineers and planners are essential to TfL but we face potential shortages of people with these specialist skills, particularly in Highways, Rail and Transport Planning.",
+     "London Transport Museum (LTM), in partnership with TfL, has developed the Inspire Engineering programme to engage young people with engineering and reduce the skills gap facing the transport industry. Thanks to support from the Luke Rees-Pulley Charitable Trust and TfL, Inspire Engineering is building successful links between schools and real-life engineering.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Engineering Ambassadors\"}",
+     "The Inspire Engineering programme is made possible by Engineering Ambassadors. Ambassadors are real TfL engineers and planners, who volunteer their time, expertise and enthusiasm to inspire and inform young people about engineering as a potential career with great prospects.",
+     "This is particularly relevant to Key Stage 3 students (11-14 years old), to help them make informed GCSE choices. London Transport Museum also offers hands-on Inspire Engineering sessions to primary schools to get a real insight into engineering from a young age.",
+     "London Transport Museum works with \u003ca href=\"http://www.stemnet.org.uk/\"\u003eSTEMNET\u003c/a\u003e (Science, Technology, Engineering, Maths Network) to coordinate the Engineering Ambassadors activity within TfL. The Engineering Ambassadors help deliver Inspire Engineering school sessions with London Transport Museum (see below) and also support broader STEMNET activities.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Inspire Engineering - options for schools\"}",
+     "LTM's Inspire Engineering programme offers exciting, hands-on museum sessions for Key Stage 3 pupils (ages 11-14) as well as Key Stage 2 (ages 7-11):",
+     "{\"template\":\"bulletlist\",\"items\":[\"The \\u003ca href=\\\"http://www.ltmuseum.co.uk/learning/schools/key-stage-3\\\"\\u003eInspire Engineering Day at LTM Depot\\u003c/a\\u003e lets Key Stage 3 students explore behind the scenes of the LTM Depot in Acton, getting up close to engineering wonders, meeting TfL Engineering Ambassadors and tackling hands-on engineering challenges. Over 90% of students and teachers rate the day as 'Excellent', and it is also CREST accredited by the \\u003ca href=\\\"http://www.britishscienceassociation.org/crest-awards\\\"\\u003eBritish Science Association\\u003c/a\\u003e \",\"The \\u003ca href=\\\"http://www.ltmuseum.co.uk/learning/schools\\\"\\u003ePrimary Inspire Engineering session\\u003c/a\\u003e is held weekly at LTM in Covent Garden and gives Key Stage 2 pupils an opportunity to become problem-solvers and build understanding of the difference engineering makes to everybody's lives\",\"We also offer Key Stage 2 and Key Stage 3 outreach workshops, supported by Engineering Ambassadors, which can be delivered at schools. Workshops introduce engineering and engage pupils in completing an engineering challenge linked to TfL transport. We offer three primary outreach workshops and two secondary workshops\"]}",
+     "For more information and to book an outreach workshop, please email \u003ca href=\"mailto:InspireEngineering@ltmuseum.co.uk\"\u003eInspireEngineering@ltmuseum.co.uk\u003c/a\u003e . To book the museum-based sessions please follow the links above."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Schools \u0026 young people",
+    "links": [
+     {
+      "title": "Inspire Engineering",
+      "url": "/info-for/schools-and-young-people/inspire-engineering",
+      "image": {}
+     },
+     {
+      "title": "Youth involvement",
+      "url": "/info-for/schools-and-young-people/youth-involvement",
+      "image": {}
+     },
+     {
+      "title": "Educational resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 Citizenship",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+      "image": {}
+     },
+     {
+      "title": "Young car drivers",
+      "url": "/info-for/schools-and-young-people/young-car-drivers",
+      "image": {}
+     },
+     {
+      "title": "Innovate TfL",
+      "url": "/info-for/schools-and-young-people/innovate-tfl",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Schools \u0026 young people",
+     "url": "/info-for/schools-and-young-people/innovate-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

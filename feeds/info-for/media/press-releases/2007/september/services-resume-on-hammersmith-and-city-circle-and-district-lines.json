@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Services resume on Hammersmith \u0026 City, Circle and District lines",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Services resume on Hammersmith \u0026 City, Circle and District lines",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) is this evening restoring services following today's disruption."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Services on the Hammersmith \u0026 City, Circle and on the District Line between Edgware Road and High St. Kensington had been suspended from Wednesday evening following safety concerns raised by local trade union representatives.\u003cbr /\u003e\u003cbr /\u003eAt a meeting today, London Underground reassured the trades unions about their concerns over safety.",
+     "A TfL spokesperson said: \"Transport for London has always stated there are no underlying safety issues and we are glad that we have been able to clarify this for the unions.",
+     "\"Service on the affected lines has just resumed but customers are advised that they will experience delays on these lines this evening while London Underground builds up a full service.",
+     "\"We expect to have a full service operating on all lines on Friday morning.\"",
+     "For advice on how to make journeys using other modes of transport, including walking and cycling, passengers are advised to log onto www.tfl.gov.uk/journeyplanner or call the 24hour travel information line on 020 7222 1234.\u003cbr /\u003e",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

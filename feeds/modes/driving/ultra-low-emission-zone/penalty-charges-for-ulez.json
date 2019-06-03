@@ -1,0 +1,153 @@
+{
+ "pageTitle": "Penalty charges for ULEZ",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "Penalty charges for ULEZ"
+  }
+ ],
+ "title": {
+  "title": "Penalty charges for ULEZ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We may issue a Penalty Charge Notice (PCN) if you drive within the Ultra Low Emission Zone (ULEZ) without meeting emissions standards or paying the appropriate daily charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You may be issued with a PCN if:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your vehicle does not meet ULEZ emissions standards and you are not exempt or registered for a 100% discount.\",\"The relevant charge isn't paid by midnight on the next working day after the first day of travel\",\"The vehicle has not been registered with us\",\"You have provided an incorrect number plate (vehicle registration mark) or incorrect date of travel when paying the charge\",\"You paid by post but did not allow at least 10 days before your date of travel for your payment to clear\"]}",
+     "You may receive separate PCNs for each charging day that you drive within the ULEZ. Please remember that the charging hours are from midnight to midnight. PCNs can be issued to both UK and non-UK registered vehicles.",
+     "To see the current status or amount outstanding of the PCN, plus other details, you can \u003ca href=\"/modes/driving/view-a-pcn\"\u003eview PCN details\u003c/a\u003e .",
+     "You can pay online (use the button above) or by:",
+     "\u003cstrong\u003ePhone:\u003c/strong\u003e 0343 222 3333 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003e\u003cstrong\u003ePost:\u003c/strong\u003e \u003cbr /\u003eUltra Low Emission Zone\u003cbr /\u003ePO Box 553\u003cbr /\u003eDarlington DL1 9TZ",
+     " \u003ca href=\"/modes/driving/ultra-low-emission-zone/challenge-a-penalty-charge-notice\"\u003eOr find out more about challenging a PCN.\u003c/a\u003e ",
+     "{\"template\":\"table\",\"titles\":[\"Vehicle\",\"Weight\",\"Penalty charge\",\"If paid within 14 days\"],\"rows\":[[],[\"Cars, vans, motorcycles, motor tricycles and mopeds\",\"Up to and including 3.5 tonnes gross vehicle weight\",\"£160\",\"£80\"],[\"Motor caravans\\u003cbr /\\u003eAmbulances\",\"2.5 - 3.5 tonnes gross vehicle weight\",\"£160\",\"£80\"],[\"Minibuses (with more than 8 passenger seats)\",\"5 tonnes or less gross vehicle weight\",\"£160\",\"£80\"],[\"Lorries\\u003cbr /\\u003eGoods vehicles\\u003cbr /\\u003eMotor caravans\\u003cbr /\\u003eMotorised horseboxes\\u003cbr /\\u003eBreakdown and recovery vehicles\\u003cbr /\\u003eSnow ploughs\\u003cbr /\\u003eGritters\\u003cbr /\\u003eRefuse collection vehicles\\u003cbr /\\u003eRoad sweepers\\u003cbr /\\u003eConcrete mixers\\u003cbr /\\u003eTippers\\u003cbr /\\u003eFire engines\\u003cbr /\\u003eRemovals lorries\\u003cbr /\\u003eOther specialist vehicles\",\"More than 3.5 tonnes gross vehicle weight\",\"£1000\",\"£500\"],[\"Buses\\u003cbr /\\u003eCoaches (with more than 8 passenger seats)\",\"More than 5 tonnes gross vehicle weight\",\"£1000\",\"£500\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/ultra-low-emission-zone/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/ultra-low-emission-zone/challenge-a-penalty-charge-notice",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

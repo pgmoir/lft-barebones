@@ -1,0 +1,154 @@
+{
+ "pageTitle": "On your journey",
+ "keywords": "TfL",
+ "description": "Information about Dial-a-Ride journeys",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Dial-a-Ride",
+   "url": "/modes/dial-a-ride/index"
+  },
+  {
+   "title": "On your journey"
+  }
+ ],
+ "title": {
+  "title": "On your journey",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Your minibus should arrive within 15 minutes either side of the time you have been given.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/dar-customer_rdax_400x250.jpg\",\"alt\":\"Dial-a-Ride customer\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Arrival time\"}",
+     "If you have been waiting more than 15 minutes, you should contact us to find out what is causing the delay.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting help from the driver\"}",
+     "Our drivers are happy to help you get to and from the minibus.\n        They can't help you in your home. If you need home help, please contact your local authority's social services department.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you can bring\"}",
+     "Normally up to two average-sized bags of shopping or similar as our minibuses have limited storage space.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bringing people with you\"}",
+     "You can bring one person with you, plus any children you have. They must be travelling to and from the same address as you.",
+     "If you would like to bring your child or children, we will need to\n        know if they are under 12 years old and less than 135cm (4ft 5in) so the\n        driver can bring a child seat.",
+     "Please let us know when you book or we might not be able to take them.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Making the most of Dial-a-Ride\"}",
+     "Dial-a-Ride works better for certain types of journey.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Keep your journey local\"}",
+     "We prioritise local journeys so that we can provide as many short, but essential, journeys as possible for our members, such as to the doctor, dentist and local shops.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Be flexible about the time\"}",
+     "It is more likely that we will be able to find a space in our schedules for your journey if you can give us as many different times to choose from as possible. For example, asking for a local journey anytime in the morning or anytime in the afternoon will increase your chances of success.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Book the day before\"}",
+     "Dial-a-Ride works best when you make next day bookings. If you request a journey on the day itself, the schedules are likely to be full from the previous day's booking requests and your success will depend on any cancellations we receive overnight.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Be prepared for a slower journey\"}",
+     "Dial-a-Ride usually provides a shared journey on a minibus, with other passengers who may be dropped off at destinations on the way to your own. This means our journeys will usually take longer than if you were going on your own in a private car or a taxi.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"If you need extra help\"}",
+     "Because Dial-a-Ride provides shared journeys, passengers can be left unattended in a vehicle for up to 10 minutes with the door open while the driver is helping another person to or from the vehicle. If you need to be accompanied at all times - for example, because you experience confusion, memory loss, or you potentially need essential personal care whilst travelling -  you will need to be accompanied by someone over the age of 18 who can act as your escort.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using other services\"}",
+     "There are other door-to-door services available for hospital appointments, for school transport for under 18s and for local authority-provided day care services, so Dial-a-Ride does not provide transport for these purposes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Dial-a-Ride",
+    "links": [
+     {
+      "title": "Bookings",
+      "url": "/modes/dial-a-ride/bookings",
+      "image": {}
+     },
+     {
+      "title": "Membership",
+      "url": "/modes/dial-a-ride/membership",
+      "image": {}
+     },
+     {
+      "title": "On your journey",
+      "url": "/modes/dial-a-ride/on-your-journey",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride Friends",
+      "url": "/modes/dial-a-ride/dial-a-ride-friends",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Dial-a-Ride",
+     "url": "/modes/dial-a-ride/dial-a-ride-friends",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Taxis \u0026 minicabs",
+      "url": "/modes/taxis-and-minicabs/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxicard \u0026 Capital Call",
+      "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Community transport",
+      "url": "/transport-accessibility/community-transport",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

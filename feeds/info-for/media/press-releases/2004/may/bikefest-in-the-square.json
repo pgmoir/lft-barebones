@@ -1,0 +1,68 @@
+{
+ "pageTitle": "BikeFest in the Square",
+ "description": "This is not just a cycling event for cyclists - it will demonstrate to everyone, young and old, those who have never cycled or haven't cycled in years, that this is a great option for getting around London. The afternoon of celebrations will involve",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "BikeFest in the Square",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Sunday 13th June, 1pm - 5pm, Trafalgar Square",
+     "Transport for London will be hosting BikeFest in the Square, a dynamic cycling festival and a flagship event for Bike Week 2004."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This is not just a cycling event for cyclists - it will demonstrate to everyone, young and old, those who have never cycled or haven't cycled in years, that this is a great option for getting around London.",
+     "The afternoon of celebrations will involve bike-themed entertainment and activities including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A large central screen and stage providing a focus for the afternoons activities with cycling footage and special guests\",\"Junk funk band Weapons of Sound, instruments created from bicycle parts\",\"The Half Pipe Show - a spectacular BMX stunt bike show\",\"Roving street theatre performances\",\"A cycle art zone\",\"An area where members of the public can learn to ride a bike or try out a tandem, recumbent bike or crazy bike\",\"Bollywood on Bikes - a choreographed dance piece with all the glamour and allure of Bollywood\",\"LifeCycle themed stalls area - wide range of information on cycling in London.\"]}",
+     "For more information, contact: Transport for London press office on 020 7941 4141"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,315 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Title' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Title' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+
+  <p class="lead">The title template caters for both a basic and a complex version that includes background image, and is repsonsive on smaller screens switching to the basic format. The title includes the breadcrumb component.</p>
+
+    <h3 class="h2">Basic title</h3>
+    <hr />
+
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-danger">Issue: Breadcrumb style is incorrect.</p>
+        <p class="alert alert-danger">Issue: Since we introduced Bootstrap 4.3 which includes resizing of titles on responsive design. The icon does not resize to match. The icons are also not in line.</p>
+        <p class="alert alert-warning">Issue: The icons are also not in line with each other. But then they would never appear on same page.</p>
+        <p class="alert alert-warning">Issue: Have switched off responsive sizing in bootstrap custom, as introduced svg icons. Need to workout how to resize these.</p>
+      </div>
+    </div>
+
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Short title</h4>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/title', { 
+  title: { title: 'Short title' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Short title' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-info">This only requires a title to be set on main title object and the breadcrumbs array to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/title', { title: { title: 'Short title' }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Short title' }] })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;section id="title" class="container-fluid" aria-label="breadcrumb navigation and page title"&gt;
+  &lt;div class="container-lft"&gt;
+    &lt;div class="d-block hgt-1"&gt;&lt;/div&gt;
+    &lt;nav aria-label="breadcrumb"&gt;
+      &lt;ol class="breadcrumb flex-nowrap"&gt;
+        &lt;li class="breadcrumb-item text-truncate"&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="breadcrumb-item text-truncate active" aria-current="page"&gt;Short title&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/nav&gt;
+    &lt;h1 class="h-standard pb-2 "&gt;Short title &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+    
+    <div class="row">
+      <h4 class="col-12">Long title</h4>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/title', { 
+  title: { title: 'Long title with a great deal of text to make sure that this wraps neatly onto multiple lines' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Long title' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-info">This only requires a title to be set on main title object and the breadcrumbs array to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/title', { title: { title: 'Long title with a great deal of text to make sure that this wraps neatly onto multiple lines' }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Long title' }] })</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;section id="title" class="container-fluid" aria-label="breadcrumb navigation and page title"&gt;
+  &lt;div class="container-lft"&gt;
+    &lt;div class="d-block hgt-1"&gt;&lt;/div&gt;
+    &lt;nav aria-label="breadcrumb"&gt;
+      &lt;ol class="breadcrumb flex-nowrap"&gt;
+        &lt;li class="breadcrumb-item text-truncate"&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="breadcrumb-item text-truncate active" aria-current="page"&gt;Long title&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/nav&gt;
+    &lt;h1 class="h-standard pb-2 "&gt;Long title with a great deal of text to make sure that this wraps neatly onto multiple lines &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+    
+    <div class="row">
+      <h4 class="col-12">Short title with icon</h4>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/title', { 
+  title: { title: 'Short title with icon', icon: 'buses' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Short title with icon' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-info">This requires a title and icon to be set on main title object and the breadcrumbs array to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/title', { title: { title: 'Short title with icon', icon: 'buses' }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Short title with icon' }]})</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;section id="title" class="container-fluid" aria-label="breadcrumb navigation and page title"&gt;
+  &lt;div class="container-lft"&gt;
+    &lt;div class="d-block hgt-1"&gt;&lt;/div&gt;
+    &lt;nav aria-label="breadcrumb"&gt;
+      &lt;ol class="breadcrumb flex-nowrap"&gt;
+        &lt;li class="breadcrumb-item text-truncate"&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="breadcrumb-item text-truncate active" aria-current="page"&gt;Short title with icon&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/nav&gt;
+    &lt;div class="d-flex align-items-end h-standard"&gt;
+      &lt;h1 class="w-100 pr-8"&gt;Short title with icon &lt;/h1&gt;
+      &lt;div class="svgtitle svgicon-buses flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+    
+    <div class="row">
+      <h4 class="col-12">Long title with icon</h4>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/title', { 
+  title: { title: 'Long title with icon requires a lot more text so that we show icon stays aligned with bottom row', icon: 'buses' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Long title with icon' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-info">This requires a title and icon to be set on main title object and the breadcrumbs array to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/title', { title: { title: 'Long title with icon requires a lot more text so that we show icon stays aligned with bottom row', icon: 'buses' }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Long title with icon' }]})</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;section id="title" class="container-fluid" aria-label="breadcrumb navigation and page title"&gt;
+  &lt;div class="container-lft"&gt;
+    &lt;div class="d-block hgt-1"&gt;&lt;/div&gt;
+    &lt;nav aria-label="breadcrumb"&gt;
+      &lt;ol class="breadcrumb flex-nowrap"&gt;
+        &lt;li class="breadcrumb-item text-truncate"&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+        &lt;li class="breadcrumb-item text-truncate active" aria-current="page"&gt;Long title with icon&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/nav&gt;
+    &lt;div class="d-flex align-items-end h-standard"&gt;
+      &lt;h1 class="w-100 pr-8"&gt;Long title with icon requires a lot more text so that we show icon stays aligned with bottom row &lt;/h1&gt;
+      &lt;div class="svgtitle svgicon-buses flex-shrink-1"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</code></pre></div></div>
+      </div>
+    </div>
+    
+    <hr />
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="container-lft">
+
+    <h3 class="h2">Complex title</h3>
+    <hr />
+
+    <div class="row">
+      <div class="col-12">
+        <p>The complex title features a full width background image, bolder title text, and can cater for full width complex card.</p>
+        <p class="alert alert-danger">Issue: Space between rows of the multi line header is too great.</p>
+        <p class="alert alert-danger">Issue: Multi line wrapper pushes the teaser box too low.</p>
+        <p class="alert alert-danger">Issue: All possible title icons need to be included here.</p>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Complex short title</h4>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/title', { 
+  title: { title: 'Complex short title', complex: true,
+    card: { texts: [ 'This page contains examples of different titles. The complex header can cater for a card template that spans the full column width.' ], link: {} },
+    background: 'https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-section.jpg'
+  },
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Complex short title' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-info">This requires a title, card, background and must have complex property set to true and the breadcrumbs array to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/title', { title: { title: 'Complex Short title', complex: true, card: { texts: [ 'This page contains examples of different titles. The complex header can cater for a card template that spans the full column width.' ], link: {} }, background: 'https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-section.jpg' }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Complex Short title' }]})</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;section id="title" class="banner-content" aria-label="breadcrumb navigation and page title"&gt;
+  &lt;span class="banner-background d-none d-md-block" style="background-image: url(https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-section.jpg)"&gt;&lt;/span&gt;
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="container-lft"&gt;
+      &lt;div class="d-block hgt-1"&gt;&lt;/div&gt;
+      &lt;nav aria-label="breadcrumb"&gt;
+        &lt;ol class="breadcrumb flex-nowrap"&gt;
+          &lt;li class="breadcrumb-item text-truncate"&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+          &lt;li class="breadcrumb-item text-truncate active" aria-current="page"&gt;Complex short title&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/nav&gt;
+      &lt;div class="d-none d-md-block hgt-3"&gt;&lt;/div&gt;
+      &lt;h1&gt;
+        &lt;span class="h-standard pb-2 d-block d-md-none"&gt;Complex short title&lt;/span&gt;
+        &lt;span class="h-highlight h-dark d-none d-md-inline-block"&gt;Complex short title&lt;/span&gt;
+      &lt;/h1&gt;
+      &lt;div class="d-none d-md-block hgt-10"&gt;&lt;/div&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-12"&gt;
+          &lt;div class="card "&gt;
+            &lt;div class="card-body"&gt;
+              &lt;div class="row"&gt;
+                &lt;div class="col-12 pb-3"&gt;
+                  &lt;h2 class="card-title h5"&gt;&lt;/h2&gt;
+                  &lt;p class="card-text"&gt;This page contains examples of different titles. The complex header can cater for a card template that spans the full column width.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+
+    <div class="row">
+      <h4 class="col-12">Complex long title</h4>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/title', { 
+  title: { title: 'Complex long title with a great deal of text to make sure that this wraps neatly onto multiple lines', complex: true,
+    card: { texts: [ 'This page contains examples of different titles. The complex header can cater for a card template that spans the full column width.' ], link: {} },
+    background: 'https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-section.jpg'
+  },
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Complex long title' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-info">This requires a title, card, background and must have complex property set to true and the breadcrumbs array to be defined.</p>
+      </div>
+      <div class="col-12">
+        <div class="card"><div class="card-body"><code class="json" data-lang="json">include('../includes/title', { title: { title: 'Complex long title with a great deal of text to make sure that this wraps neatly onto multiple lines', complex: true, card: { texts: [ 'This page contains examples of different titles. The complex header can cater for a card template that spans the full column width.' ], link: {} }, background: 'https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-section.jpg' }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Complex long title' }]})</code></div></div>
+        <div class="card"><div class="card-body"><pre class="mb-0"><code class="html" data-lang="html">&lt;section id="title" class="banner-content" aria-label="breadcrumb navigation and page title"&gt;
+  &lt;span class="banner-background d-none d-md-block" style="background-image: url(https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-section.jpg)"&gt;&lt;/span&gt;
+  &lt;div class="container-fluid"&gt;
+    &lt;div class="container-lft"&gt;
+      &lt;div class="d-block hgt-1"&gt;&lt;/div&gt;
+      &lt;nav aria-label="breadcrumb"&gt;
+        &lt;ol class="breadcrumb flex-nowrap"&gt;
+          &lt;li class="breadcrumb-item text-truncate"&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+          &lt;li class="breadcrumb-item text-truncate active" aria-current="page"&gt;Complex long title&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/nav&gt;
+      &lt;div class="d-none d-md-block hgt-3"&gt;&lt;/div&gt;
+      &lt;h1&gt;
+        &lt;span class="h-standard pb-2 d-block d-md-none"&gt;Complex long title with a great deal of text to make sure that this wraps neatly onto multiple lines&lt;/span&gt;
+        &lt;span class="h-highlight h-dark d-none d-md-inline-block"&gt;Complex long title with a great deal of text to make sure that this wraps neatly onto multiple lines&lt;/span&gt;
+      &lt;/h1&gt;
+      &lt;div class="d-none d-md-block hgt-10"&gt;&lt;/div&gt;
+      &lt;div class="row"&gt;
+        &lt;div class="col-12"&gt;
+          &lt;div class="card "&gt;
+            &lt;div class="card-body"&gt;
+              &lt;div class="row"&gt;
+                &lt;div class="col-12 pb-3"&gt;
+                  &lt;h2 class="card-title h5"&gt;&lt;/h2&gt;
+                  &lt;p class="card-text"&gt;This page contains examples of different titles. The complex header can cater for a card template that spans the full column width.&lt;/p&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</code></pre></div></div>
+      </div>
+    </div>
+    <hr />
+    
+  </div>
+</div>
+
+<%- include('../includes/foot') %>

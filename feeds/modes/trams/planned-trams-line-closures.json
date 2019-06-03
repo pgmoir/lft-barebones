@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Planned trams line closures",
+ "keywords": "TfL",
+ "description": "There will be some temporary service changes forTfL's London trams throughout 2019. This is while we carry out essential maintenance works on the network and some local roads and infrastructure.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Trams",
+   "url": "/modes/trams/index"
+  },
+  {
+   "title": "Planned trams line closures"
+  }
+ ],
+ "title": {
+  "title": "Planned trams line closures",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"There will be some temporary service changes for trams throughout 2019.  This is while we carry out essential maintenance works on the network and some local roads and infrastructure.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "As part of this work, there will be some temporary service changes on the following dates:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday 26 May (until 16:00)\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No trams between Sandilands and Elmers End/Birkbeck\",\"Trams will be less frequent than usual between Wimbledon and East Croydon and between Birkbeck and Beckenham Junction\",\"Replacement buses will run between East Croydon and Birkbeck\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday 2 June (until 09:00)\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No trams between Sandilands and Elmers End/Beckenham Junction\",\"Trams will be less frequent than usual between Wimbledon and East Croydon\",\"Replacement bus services will not be available. Please use local bus routes\"]}",
+     "Trams to and from New Addington will not be affected on either of these dates.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Blackhorse Lane bridge replacement\"}",
+     "We're replacing Blackhorse Lane bridge, a single span bridge that crosses two tram lines between Blackhorse Lane and Addiscombe tram stops. Croydon Council-owned Addiscombe Railway Park bridge is being replaced at the same time in a joint project to save public money and time. Read more about the \u003ca href=\"/travel-information/improvements-and-projects/blackhorse-lane-bridge\"\u003eBlackhorse Lane Bridge works\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Addiscombe to Blackhorse Lane track renewal\"}",
+     "This work will improve the safety and ride quality of the tram track between Addiscombe Road and Blackhorse Lane. We'll replace over 1km of track, which will improve the foundations on which new ballast, sleepers and rails are then laid. We're also improving the alignment of the new track to provide a smoother ride.",
+     "Essential maintenance of the tram network helps reduce the length and frequency of major, more disruptive engineering work. For safety reasons this work can only take place while trams are not running.",
+     "Please check this page throughout the year for the latest updates and future works dates."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

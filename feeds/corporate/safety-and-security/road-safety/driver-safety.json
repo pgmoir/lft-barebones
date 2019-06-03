@@ -1,0 +1,193 @@
+{
+ "pageTitle": "Driver safety",
+ "keywords": "Drivers,Safety and security,Driving,TfL",
+ "description": "Developing measures to ensure drivers are safe on London's roads",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety \u0026 security",
+   "url": "/corporate/safety-and-security/index"
+  },
+  {
+   "title": "Reducing road danger",
+   "url": "/corporate/safety-and-security/road-safety"
+  },
+  {
+   "title": "Driver safety"
+  }
+ ],
+ "title": {
+  "title": "Driver safety",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Car drivers and their passengers are more likely to be hurt on London's roads than anyone else. We are committed to developing measures that ensure all drivers are safe on our roads.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Young drivers are especially at risk. Their lack of experience can mean they take undue risks. Almost 15% of collisions involving 17-25 year old drivers were speed related. Bus and coach drivers also present us with unique challenges.",
+     "Here are some of the steps we're taking:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Think slow\"}",
+     "We've taken a range of steps to cut speeding across London. For example, we've supported the introduction of 20mph schemes, including Home Zones on Borough roads and speed cameras in over 300 key spots.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coaching for coaches\"}",
+     "To make coach drivers more aware of the danger they can pose to cyclists, pedestrians and other road users, we run special training schemes for drivers from London's major coach companies.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus to bike\"}",
+     "Bus drivers have received cycle awareness training at a series of road shows. These events gave them the opportunity to experience a cyclist's view when approaching, overtaking and being followed by a bus.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exchanging Places\"}",
+     "Exchanging Places events are aimed at bus drivers and cyclists. These are run with the assistance of the police and are similar to those organised for Heavy Goods Vehicle (HGV) drivers giving cyclists the opportunity to sit in the driver's seat of a HGV or bus. This allows the cyclist to see what the driver can and cannot see at the kerbside and directly in front of their vehicle. There is also the opportunity to try Exchanging Places as a virtual reality experience. These new mobile headsets allow 10 people to participate at once, and is accessible for all ages.",
+     "Email \u003ca href=\"mailto:exchanging.places@met.police.uk\"\u003eexchanging.places@met.police.uk\u003c/a\u003e to suggest a location for an exchanging places event.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero for London\"}",
+     "Transport for London is committed to reducing road danger, by working in partnership with the police, London boroughs and stakeholders to achieve the Vision Zero ambition of creating a road network free from death and serious injury by 2041. \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eRead more information on Vision Zero.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Reducing road danger",
+    "links": [
+     {
+      "title": "Vision Zero for London",
+      "url": "/corporate/safety-and-security/road-safety/vision-zero-for-london",
+      "image": {}
+     },
+     {
+      "title": "London collision map",
+      "url": "/corporate/safety-and-security/road-safety/london-collision-map",
+      "image": {}
+     },
+     {
+      "title": "Safety enforcement cameras",
+      "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
+      "image": {}
+     },
+     {
+      "title": "Bus safety",
+      "url": "/corporate/safety-and-security/road-safety/bus-safety",
+      "image": {}
+     },
+     {
+      "title": "Cycle safety",
+      "url": "/corporate/safety-and-security/road-safety/cycle-safety",
+      "image": {}
+     },
+     {
+      "title": "Cycle security",
+      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
+      "image": {}
+     },
+     {
+      "title": "Driver safety",
+      "url": "/corporate/safety-and-security/road-safety/driver-safety",
+      "image": {}
+     },
+     {
+      "title": "Walking safety",
+      "url": "/corporate/safety-and-security/road-safety/walking-safety",
+      "image": {}
+     },
+     {
+      "title": "Community Roadwatch",
+      "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
+      "image": {}
+     },
+     {
+      "title": "Safe Streets for London",
+      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Reducing road danger",
+     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Motorcycle safety",
+      "url": "/travel-information/safety/road-safety-advice/motorcycling-in-london",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "THINK!",
+      "url": "http://think.direct.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Department for Transport",
+      "url": "https://www.gov.uk/government/organisations/department-for-transport",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Metropolitan Police",
+      "url": "http://content.met.police.uk/Home",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Request a dispensation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Request a dispensation"
+  }
+ ],
+ "title": {
+  "title": "Request a dispensation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "The maximum dispensation length is\u003cstrong\u003e7\u003c/strong\u003e consecutive days.\u003cstrong\u003eYou must add and save each day separately.\u003c/strong\u003e ",
+     "We require\u003cstrong\u003e5\u003c/strong\u003e working days to process your application.",
+     "I confirm that I have read and agree to the red routes dispensation terms and conditions.",
+     "Read the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging\"target=\"_blank\"\u003eLondon Road User Charging privacy notice\u003c/a\u003e .",
+     "\u003cstrong\u003eDouble red lines\u003c/strong\u003e \u003cbr /\u003eVehicles are not allowed to stop at any time on double red lines. They operate every day, 24 hours a day, 365 days a year and do not require a time plate (sign).",
+     "\u003cstrong\u003eSingle Red lines\u003c/strong\u003e \u003cbr /\u003eVehicles are allowed to stop on single red lines at certain times of day. There will be a sign located near to the line that will inform you of the times.",
+     "\u003cstrong\u003eParking bays\u003c/strong\u003e \u003cbr /\u003eTheir availability is limited and some are only available during specified periods when their use will not cause any major disruption to our busy road network. We often limit the amount of time you have to park at popular locations so that others drivers can also use the bay. Always check the signs to see when and for how long you can park.",
+     "\u003cstrong\u003eLoading bays\u003c/strong\u003e \u003cbr /\u003eLoading bays are an essential part of the red route network as they allow businesses and the general public to make and receive vital, and often bulky deliveries. We often limit the amount of time you have to load at popular locations so that others drivers can also use the bay. Always check the signs to see when and for how long you can park.",
+     "\u003cstrong\u003eBus Stop\u003c/strong\u003e \u003cbr /\u003eAs the name suggests these are bays restricted for use by vehicles that are defined as buses Bus stops have a double red line or wide red line with yellow lines to outline the box.",
+     "\u003cstrong\u003eOther bays\u003c/strong\u003e \u003cbr /\u003eBays are provided for either specific activity or vehicles. For example, a disabled bay can only be used if the vehicle is displaying a valid Blue Badge. Or a bus stand can only be used if the vehicle is defined as a bus.",
+     "I confirm that I have read and agree to the red routes dispensation terms and conditions."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

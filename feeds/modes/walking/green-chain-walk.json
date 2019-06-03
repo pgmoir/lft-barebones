@@ -1,0 +1,212 @@
+{
+ "pageTitle": "Green Chain Walk",
+ "keywords": "TfL",
+ "description": "This Walk London route consists of 11 sections between Thamesmead and Nunhead Cemetery.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Green Chain Walk"
+  }
+ ],
+ "title": {
+  "title": "Green Chain Walk",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This Walk London route consists of 11 sections between Thamesmead and Nunhead Cemetery.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/gree-chain-feb.jpg\",\"alt\":\"Green Chain latest\"},\"wrapped\":false}",
+     "Stretching from the River Thames to Nunhead Cemetery, the Green Chain Walk spans the fields, parks and woodlands across 50 miles of the area. Split into 11, easy-to-follow sections, this guide allows you to explore as much, or as little as you like, at your leisure.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The 18th century Gothic folly of Severndroog Castle\",\"The Art Deco glamour of Eltham Palace\",\"Birdwatching at Southmere, among the boats and fishermen\",\"Numerous parks, including Plumstead common and Oxleas Woods\",\"The wildlife and dinosaurs of Crystal Palace Park\",\"The Horniman Museum and Gardens\",\"The Thames Barrier\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Signage\"}",
+     "This route is well signposted throughout. All signs show the 'G-C' logo and text 'Green Chain Walk'.",
+     "{\"template\":\"bulletlist\",\"items\":[\"In parks, woods and open spaces - Look out for the signs on solid wooden posts with a yellow arrow on top\",\"On streets - Look out for metal signs with a white logo and text on a green background\",\"At section starts - Look out for signposts with the location name showing distances to other key points\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Green Chain Walk route sections\"}",
+     "This 50 (82km) route is divided into 11 sections:",
+     "Section 1: \u003ca href=\"/modes/walking/thamesmead-to-lesnes-abbey\"\u003eThamesmead to Lesnes Abbey\u003c/a\u003e ",
+     "Section 2: \u003ca href=\"/modes/walking/erith-to-bostall-woods\"\u003eErith to Bostall Woods\u003c/a\u003e ",
+     "Section 3: \u003ca href=\"/modes/walking/bostall-woods-to-oxleas-meadows\"\u003eBostall Woods to Oxleas Meadows\u003c/a\u003e ",
+     "Section 4: \u003ca href=\"/modes/walking/charlton-park-to-bostall-woods-or-oxleas-meadows\"\u003eCharlton Park to Bostall Woods\u003c/a\u003e ",
+     "Section 5: \u003ca href=\"/modes/walking/thames-barrier-to-oxleas-meadows\"\u003eThames Barrier to Oxleas Meadows\u003c/a\u003e ",
+     "Section 6: \u003ca href=\"/modes/walking/oxleas-woods-to-mottingham\"\u003eOxleas Woods to Mottingham\u003c/a\u003e ",
+     "Section 7: \u003ca href=\"/modes/walking/shepherdleas-wood-to-middle-park-eltham\"\u003eShepherdleas Wood to Middle Park\u003c/a\u003e ",
+     "Section 8: \u003ca href=\"/modes/walking/mottingham-to-beckenham-place-park\"\u003eMottingham to Beckenham Place Park \u003c/a\u003e (alternative route via Downham and Chinbrook Link to Elmstead Woods)",
+     "Section 9: \u003ca href=\"/modes/walking/chislehurst-to-beckenham-place-park\"\u003eChislehurst to Beckenham Place Park \u003c/a\u003e ",
+     "Section 10: \u003ca href=\"/modes/walking/beckenham-place-park-to-crystal-palace-park\"\u003eBeckenham Place Park to Crystal Palace \u003c/a\u003e ",
+     "Section 11: \u003ca href=\"/modes/walking/crystal-palace-to-nunhead-cemetery\"\u003eCrystal Palace to Nunhead Cemetery\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Certificate\"}",
+     "Completed this walk? Why not download the certificate to celebrate.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Green Chain certificate\",\"url\":\"/cdn/static/cms/documents/green-chain-certificate.pdf\",\"icon\":\"download\",\"size\":\"PDF 171KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Thamesmead to Lesnes Abbey",
+      "url": "/modes/walking/thamesmead-to-lesnes-abbey",
+      "image": {}
+     },
+     {
+      "title": "Erith to Bostall Woods",
+      "url": "/modes/walking/erith-to-bostall-woods",
+      "image": {}
+     },
+     {
+      "title": "Bostall Woods to Oxleas Meadows",
+      "url": "/modes/walking/bostall-woods-to-oxleas-meadows",
+      "image": {}
+     },
+     {
+      "title": "Charlton Park to Bostall Woods",
+      "url": "/modes/walking/charlton-park-to-bostall-woods-or-oxleas-meadows",
+      "image": {}
+     },
+     {
+      "title": "Thames Barrier to Oxleas Meadows",
+      "url": "/modes/walking/thames-barrier-to-oxleas-meadows",
+      "image": {}
+     },
+     {
+      "title": "Oxleas Wood to Mottingham",
+      "url": "/modes/walking/oxleas-woods-to-mottingham",
+      "image": {}
+     },
+     {
+      "title": "Shepherdleas Wood to Middle Park",
+      "url": "/modes/walking/shepherdleas-wood-to-middle-park-eltham",
+      "image": {}
+     },
+     {
+      "title": "Mottingham to Beckenham Place Park",
+      "url": "/modes/walking/mottingham-to-beckenham-place-park",
+      "image": {}
+     },
+     {
+      "title": "Chislehurst to Beckenham Place Park",
+      "url": "/modes/walking/chislehurst-to-beckenham-place-park",
+      "image": {}
+     },
+     {
+      "title": "Beckenham Place Park to Crystal Palace",
+      "url": "/modes/walking/beckenham-place-park-to-crystal-palace-park",
+      "image": {}
+     },
+     {
+      "title": "Crystal Palace to Nunhead Cemetery",
+      "url": "/modes/walking/crystal-palace-to-nunhead-cemetery",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

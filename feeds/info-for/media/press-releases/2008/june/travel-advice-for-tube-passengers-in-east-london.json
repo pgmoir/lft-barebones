@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Travel advice for Tube passengers in east London",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Travel advice for Tube passengers in east London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Hammersmith \u0026 City and District lines to close early to enable work on WWII bomb found in E15"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London is advising passengers that some Tube services in east London will be significantly disrupted from 09.30 this evening, while army experts work on a WW2 bomb.",
+     "The device was found in Sugar House Lane, E15, on Monday, and is a short distance from the Hammersmith \u0026 City and District line tracks at Bromley-by-Bow.",
+     "Following a request from the police and the Army, all Tube services between Whitechapel and Plaistow will be suspended from 09.30.",
+     "The adjacent c2c service on National Rail will also be unavailable. Bus routes will not be affected.",
+     "The disruption is expected to last until after Friday morning's peak, and customers are asked to find alternative routes in and out of the Capital.",
+     "Tickets will be accepted on National Express trains to and from Liverpool Street and on local buses.",
+     "A limited alternative bus service will operate on a circular route from Plaistow, calling at Canning Town, Bromley-by-Bow and Stratford before returning to Plaistow.",
+     "During the closure, all Hammersmith \u0026 City and District line trains will run to Whitechapel.",
+     "To the east of the suspended area, all trains will run to Barking, with a small number running to Plaistow.",
+     "More information on how to plan your journey can be found on the \u003ca href=\"http://www.tfl.gov.uk\"\u003eTfL website\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

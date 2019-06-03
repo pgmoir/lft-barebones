@@ -1,0 +1,49 @@
+{
+ "pageTitle": "Upload proof",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Upload proof"
+  }
+ ],
+ "title": {
+  "title": "Upload proof",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"V5C or MOT certificate\",\"CIF or COIF(Certificate of Initial Fitness)\",\"Insurance document\"]}",
+     "You can upload a maximum of 19 documents for this application."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

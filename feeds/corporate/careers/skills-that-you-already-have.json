@@ -1,0 +1,151 @@
+{
+ "pageTitle": "Skills that you already have",
+ "keywords": "TfL",
+ "description": "Transferable skills and how to show that you have them",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Employability toolkit",
+   "url": "/corporate/careers/employability-toolkit"
+  },
+  {
+   "title": "Skills that you already have"
+  }
+ ],
+ "title": {
+  "title": "Skills that you already have",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"No matter what your background or previous experience, you will have developed some skills that will be useful in new situations. We call these transferrable skills (they're also known as soft skills).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "They can include things such as team work, good communication, problem solving and time management.",
+     "You might have learned them from a previous job, from volunteering, in education or from other life experiences.",
+     "If you're looking for a job in a different sector, or trying to get your first career break then it can be helpful to identify your transferable skills. Use them to demonstrate how you have the right skills and experience for the job in your CV and cover letter.",
+     "After you have identified the skills you have, you can compare these to the ones listed in jobs you are interested in.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Examples of transferable skills\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"strong\"}",
+     "Working as a Customer Service Advisor on a station one of my responsibilities is to check customers' tickets and resolve any errors when they can't get through the gates, always ensuring that I give good customer service.",
+     "\u003cstrong\u003eTransferable skills \u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Attention to detail\",\"Excellent customer service\",\"Ability to influence difficult stakeholders\",\"Problem solving\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"strong\"}",
+     "In my military career I coordinated the training and deployment of over 250 personnel to operations abroad.",
+     "\u003cstrong\u003eTransferable skills \u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Team leadership\",\"Project management\",\"Resource management\",\"Resilience\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"strong\"}",
+     "At University I studied Psychology and had to write a number of essays on different topics. I also had to deliver a presentation to my seminar class.",
+     "\u003cstrong\u003eTransferable skills \u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Excellent written and verbal communication skills\",\"Confident public speaker\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transferable skills template\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transferable skills template\",\"url\":\"/cdn/static/cms/documents/transferable-skills-exercise.pdf\",\"icon\":\"download\",\"size\":\"PDF 42KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other resources\"}",
+     "If you need more help, here are some other websites where you can find advice on transferable skills.",
+     " \u003ca href=\"https://www.indeed.com/career-advice/resumes-cover-letters/transferable-skills\"\u003eIndeed - Transferable Skills: Definitions and Examples\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"https://www.reed.co.uk/career-advice/what-are-transferable-skills/\"\u003eReed.co.uk - What are transferable skills?\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Writing a CV and cover letter",
+      "url": "/corporate/careers/writing-a-cv-and-cover-letter",
+      "image": {}
+     },
+     {
+      "title": "Get ready for interviews",
+      "url": "/corporate/careers/get-ready-for-interviews",
+      "image": {}
+     },
+     {
+      "title": "Skills that you already have",
+      "url": "/corporate/careers/skills-that-you-already-have",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/skills-that-you-already-have",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

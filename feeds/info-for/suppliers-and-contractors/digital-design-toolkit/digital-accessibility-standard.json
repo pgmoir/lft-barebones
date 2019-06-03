@@ -1,0 +1,234 @@
+{
+ "pageTitle": "Digital accessibility standard",
+ "keywords": "TfL",
+ "description": "Accessibility standard for all online content and services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Digital toolkit",
+   "url": "/info-for/suppliers-and-contractors/digital-toolkit"
+  },
+  {
+   "title": "Design \u0026 content",
+   "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content"
+  },
+  {
+   "title": "Digital accessibility standard"
+  }
+ ],
+ "title": {
+  "title": "Digital accessibility standard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We want TfL's digital services to be accessible and usable for everyone. All our online content and services must meet the requirements of the Equality Act 2010 and the AA level of the WCAG 2.1 guidelines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Accessibility must be considered during design and development to make sure content and functionality are useful in the real world for users with access needs, over and above the \u003ca href=\"http://www.w3.org/TR/WCAG21/\"\u003eWCAG 2.1 guidelines\u003c/a\u003e .",
+     "We comply with the new \u003ca href=\"https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps\"\u003eAccessibility requirements for public sector websites and apps\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"All public sector websites published after 23 September 2018 must comply with the new government accessibility regulations by 23 September 2019\",\"Existing websites must comply with the regulations by 23 September 2020\",\"Web based or native apps must comply with the regulations by 23 September 2021\"]}",
+     "These standards apply to all desktop, tablet and mobile website, web app and native app experiences.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Requirements\"}",
+     " \u003ca href=\"http://www.w3.org/TR/WCAG21/\"\u003eWCAG 2.1 AA level\u003c/a\u003e must be met as a minimum standard. This overview does not replace the WCAG 2.1 guidelines. You should refer to WCAG 2.1 guidelines if anything is unclear and to confirm all current requirements.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Four key principles of WCAG 2.1\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Perceivable\"}",
+     "All information and user interface components must be presentable to users in a way they can perceive or understand.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Overview\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Provide alt text for all images\",\"Provide descriptive text transcripts for video and audio files\",\"Provide captioning for video\",\"Ensure documents have a logical, meaningful structure\",\"Use semantic markup - start with structured content first as this provides core functionality and meaning to the page by default\",\"Use strong contrast for text and links on backgrounds\",\"Make sure text size can be increased to double its size, without the page breaking\",\"Only use images in place of text if there is no reasonable alternative\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Operable\"}",
+     "Interface components and navigation elements must be operable.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Overview\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Core functionality must not rely on JavaScript\",\"Content must be keyboard accessible (access keys are useful, but be aware of usage to avoid browser conflicts)\",\"Users must be able to control automatically updated content (e.g. pause, stop or hide)\",\"Avoid flashing content - moving, blinking and scrolling content must not last more than five seconds or flash more than three times per second\",\"Use skip links to bypass repeated navigation elements (e.g. skip to content)\",\"Frames must be titled\",\"Pages must have descriptive titles\",\"A logical tab order for links and form elements must be provided\",\"Links must be meaningful and easy to understand (e.g. use descriptive links, not 'click here')\",\"Use meaningful labels for form and heading elements (e.g. use descriptive headings, not 'more information')\",\"Ensure the order of navigation links and form elements etc. is logical, and it is visually apparent where the current keyboard focus is\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Understandable\"}",
+     "All content must be easy to understood, both in terms of the language and the way the user interface operates.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Overview\"}",
+     "Use plain English and keep content brief by including essential information only",
+     "{\"template\":\"bulletlist\",\"items\":[\"Follow the \\u003ca href=\\\"/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content\\\"\\u003eDigital content standard\\u003c/a\\u003e for guidelines on length\",\"Avoid jargon and unusual words. If they are necessary, link to a definition\",\"Identify the language of the page and parts of the page using HTML lang attribute (e.g. \\u003chtml lang=\\\"en\\\"\\u003e or \\u003cblockquote lang=\\\"fr\\\"\\u003e)\",\"Make sure all pages appear and operate in a predictable way\",\"When a user interacts with an object or when a page element receives focus (such as tabbing onto a link), do not use pop-up windows or make changes that could confuse users\",\"JavaScript can be used but it must not hinder accessibility. For more complex interactions, provide cues or pointers to ensure users are aware of what is happening. See W3C's \\u003ca href=\\\"http://www.w3.org/WAI/standards-guidelines/aria/\\\"\\u003eWAII-ARIA overview \\u003c/a\\u003e for information on making dynamic content and advanced user interface controls accessible\",\"Use consistent navigation elements\",\"Use consistent labelling for frequently used elements to help users predict labelling across the site (e.g. 'Search', 'Contact')\",\"Provide label tags for all form elements\",\"Provide all necessary information about a form element within its label (e.g. if control is required or it requires a specific format, value or length)\",\"Present form errors in an accessible, intuitive manner (e.g. highlight errors where they have been made and describe the error or what the user needs to do)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Robust\"}",
+     "All content must be robust enough to be interpreted reliably by a wide variety of user agents, including assistive technologies.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Overview\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Valid HTML5 and CSS must be used\",\"Use HTML elements appropriately as per their specification\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why we do this\"}",
+     "We have a duty to ensure our websites and digital products are accessible to all visitors.",
+     "Designing with accessibility in mind improves the user experience and reduces costs by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Ensuring content and features are accessible to more people, including users with physical or cognitive disabilities\",\"Reducing the complexity of sites or providing usable alternatives to help users find information and complete tasks quickly and easily\",\"Increasing findability with search engine optimisation\",\"Increasing potential use in more situations, such as on a range of devices, including those with low bandwidth or older technology\",\"Minimising the need to produce or maintain alternative format materials\",\"Decreasing the potential for high legal expenses associated with defending against legal action\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Suppliers \u0026 contractors",
+    "links": [
+     {
+      "title": "Become a TfL supplier",
+      "url": "/info-for/suppliers-and-contractors/become-a-supplier",
+      "image": {}
+     },
+     {
+      "title": "Find contract opportunities",
+      "url": "/info-for/suppliers-and-contractors/opportunities",
+      "image": {}
+     },
+     {
+      "title": "Invoicing and getting paid",
+      "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+      "image": {}
+     },
+     {
+      "title": "What we buy",
+      "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Supplier relations",
+      "url": "/info-for/suppliers-and-contractors/supplier-relations",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "image": {}
+     },
+     {
+      "title": "How we work",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/how-we-work",
+      "image": {}
+     },
+     {
+      "title": "Understanding our users",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/understanding-our-users",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 content",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content",
+      "image": {}
+     },
+     {
+      "title": "Digital accessibility standard",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-standard",
+      "image": {}
+     },
+     {
+      "title": "Editorial style guide",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/editorial-style-guide",
+      "image": {}
+     },
+     {
+      "title": "Technical",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/technical",
+      "image": {}
+     },
+     {
+      "title": "Testing \u0026 assurance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance",
+      "image": {}
+     },
+     {
+      "title": "Support \u0026 maintenance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/support-and-maintenance",
+      "image": {}
+     },
+     {
+      "title": "Health, safety \u0026 environment",
+      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
+      "image": {}
+     },
+     {
+      "title": "Design standards \u0026 licensing",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "image": {}
+     },
+     {
+      "title": "London Buses tenders",
+      "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+      "image": {}
+     },
+     {
+      "title": "London Service Permits",
+      "url": "/info-for/suppliers-and-contractors/london-service-permits",
+      "image": {}
+     },
+     {
+      "title": "TfL Supplier Awards",
+      "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Suppliers \u0026 contractors",
+     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "WCAG 2.1 guidelines",
+      "url": "http://www.w3.org/TR/WCAG21/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "W3C: Making the web accessible",
+      "url": "http://www.w3.org/WAI/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

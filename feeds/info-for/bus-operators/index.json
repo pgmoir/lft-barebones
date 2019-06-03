@@ -1,0 +1,141 @@
+{
+ "pageTitle": "Bus operators",
+ "keywords": "TfL",
+ "description": "Information for bus operators including tenders and service permits.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Bus operators"
+  }
+ ],
+ "title": {
+  "title": "Bus operators",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top card-bus",
+    "title": "Performance",
+    "texts": [
+     "Set targets and benchmarks using network statistics"
+    ],
+    "link": {
+     "url": "/corporate/publications-and-reports/buses-performance-data",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x001-00098-bus-woman-buggy.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "style": "card-bus",
+    "title": "London Buses tenders",
+    "texts": [
+     "Find out about the contracting and tendering process and view all tender results"
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-bus",
+    "title": "London Service Permits",
+    "texts": [
+     "A London Service Permit is required to run bus, coach or tours services outside of the TfL network"
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/london-service-permits",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-bus",
+    "title": "Publications \u0026 reports",
+    "texts": [
+     "Operator league tables and regular reports on bus performance, crime and safety"
+    ],
+    "link": {
+     "url": "http://www.tfl.gov.uk/corporate/publications-and-reports/?Mode=Buses",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-bus",
+    "title": "About TfL - Buses",
+    "texts": [
+     "We manage one of the largest bus fleet networks in the world"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/what-we-do/buses",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Suppliers \u0026 contractors",
+      "url": "/info-for/suppliers-and-contractors/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "History of London buses",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-buses",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Road Modernisation Plan",
+      "url": "/campaign/our-plan-for-londons-roads",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

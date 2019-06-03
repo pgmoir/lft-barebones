@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Email updates",
+ "keywords": "TfL",
+ "description": "Customer email updates. Sign up to receive email updates to help you plan your travel in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates",
+   "url": "/travel-information/social-media-and-email-updates/index"
+  },
+  {
+   "title": "Email updates"
+  }
+ ],
+ "title": {
+  "title": "Email updates ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Get weekly advance warning of weekend closures on TfL services by subscribing to our free weekend travel updates email.",
+     "Sign up for customer service email updates to find out about any changes to your regular journeys. We also provide traffic updates, Oyster news and information on accessibility across our network.",
+     "You can also receive our automated \u003ca href=\"/travel-information/social-media-and-email-updates/journey-alerts\"\u003eJourney Alert and Status Updates\u003c/a\u003e emails to avoid disruptions on your journeys.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Thank you\"}",
+     "Thank you for signing up to our email updates.",
+     "There was an error. Please try again.",
+     "Transport for London (TfL), its subsidiaries and service providers will use the personal information you provide on this form to process your feedback and provide you with a response, or the information or services you have requested. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data, see our \u003ca href=\"/corporate/privacy-and-cookies/index\"target=\"_blank\"\u003ePrivacy and cookies pages\u003c/a\u003e .",
+     "Please let us know the pier location or journey made."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

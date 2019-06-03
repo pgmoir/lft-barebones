@@ -1,0 +1,58 @@
+{
+ "pageTitle": "Select payment method",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Select payment method"
+  }
+ ],
+ "title": {
+  "title": "Select payment method",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "If you are not the bank/building society account holder, or more than one person is required to authorise debits from this account, you will not be able to authorise a Direct Debit mandate online.",
+     "All correspondence regarding this Direct Debit mandate will be sent using the preferred contact details on your London Road User Charging account.",
+     "I confirm that I am the bank/building society account holder, and/or I have the sole responsibility for authorising debits from this account.",
+     "I confirm that I am the cardholder and that I authorise TfL to claim varying amounts from the payment card specified above as and when they become due for the purposes of Auto Pay.",
+     "I also authorise TfL to take the annual £10 registration charge(s) for each vehicle. I understand that TfL will advise me of the amount to be paid and the dates on which payment is due, and that TfL may only change these after giving me prior notice.",
+     "\u003cstrong\u003eThe best payment to select is direct debit\u003c/strong\u003e ",
+     "If you use a payment card, don’t forget to update your new card details when they expire. Your payments will fail if you forget. This could mean that your Auto Pay service is closed and Penalty Charge Notices may be issued. This is why we  recommend you use direct debit."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

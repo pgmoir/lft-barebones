@@ -1,0 +1,58 @@
+{
+ "pageTitle": "London Underground service update",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Underground service update",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "As a result of the RMT strike action at Metronet, there is no service on two thirds of the London Underground network. There is currently no service on the Central, Bakerloo, Victoria, Waterloo \u0026 City, Circle, District, Hammersmith \u0026 City, Metropolitan and East London lines.",
+     "The RMT strike action commenced at 18:00 this evening, Monday 3 September and is due to run for 72hrs until 18:00 on Thursday 6 September. Should the strike run its full course, it will mean no service on the lines listed above on Tuesday 4, Wednesday 5 and Thursday 6 September.",
+     "Jubilee, Northern and Piccadilly line services, which are maintained by Tube Lines, should continue to operate, although they are likely to be very busy in consequence.",
+     "Docklands Light Railway and London Buses will continue to operate as normal.  Passengers are urged to be patient and to respect the efforts of all transport staff in London as they work to deliver transport services.",
+     "Transport for London also advised that walking should be considered as an alternative for short journeys.  For advice on how to make journeys using other modes of transport, including walking and cycling, passengers are advised to use \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003ewww.tfl.gov.uk/journeyplanner\u003c/a\u003e .",
+     "Passengers can check before travelling via the following options:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003eTfL home page\\u003c/a\\u003e and \\u003ca href=\\\"/livetravelnews/default.aspx\\\"\\u003elive travel news\\u003c/a\\u003e \",\"The London Travel Info 24hrs telephone helpline: 020 7222 1234\",\"BBC Ceefax, page 436, or ITV's Teletext, page 164\",\"Information on posters at stations and information boards at Tube stations.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "pageTitle": "Delivering legally",
+ "keywords": "TfL",
+ "description": "Advice on delivering, parking and loading legally in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Deliveries in London",
+   "url": "/info-for/deliveries-in-london/index"
+  },
+  {
+   "title": "Delivering legally"
+  }
+ ],
+ "title": {
+  "title": "Delivering legally",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Parking and loading",
+    "texts": [
+     "Learn what restrictions are in place, and how to manage Penalty Charge Notices (PCNs)"
+    ],
+    "link": {
+     "url": "/info-for/deliveries-in-london/delivering-legally/parking-and-loading",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/parking-sign.gif"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Accessible roads for HGVs",
+    "texts": [
+     "See which roads are accessible and when as part of the London Lorry Control Scheme"
+    ],
+    "link": {
+     "url": "/info-for/deliveries-in-london/delivering-legally/accessible-roads-for-hgvs",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Low Emission Zone",
+    "texts": [
+     "How to ensure your vehicle meets current emissions standards for central London"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Ultra Low Emission Zone",
+    "texts": [
+     "Learn about new exhaust emissions standards"
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "LFEP newsletter",
+    "links": [
+     {
+      "title": "LFEP Newsletter November 2017",
+      "url": "/cdn/static/cms/documents/lfep-newsletter-november17.pdf",
+      "icon": "download",
+      "size": "PDF 107KB",
+      "image": {}
+     },
+     {
+      "title": "LFEP Newsletter June 2017",
+      "url": "/cdn/static/cms/documents/lfep-newsletter-june-2017.pdf",
+      "icon": "download",
+      "size": "PDF 243KB",
+      "image": {}
+     },
+     {
+      "title": "LFEP Newsletter December 2016",
+      "url": "/cdn/static/cms/documents/london-freight-enforcement-partnership-newsletter-january-17.pdf",
+      "icon": "download",
+      "size": "PDF 377KB",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Deliveries in London",
+    "links": [
+     {
+      "title": "Efficient deliveries",
+      "url": "/info-for/deliveries-in-london/delivering-efficiently",
+      "image": {}
+     },
+     {
+      "title": "Delivering safely",
+      "url": "/info-for/deliveries-in-london/delivering-safely",
+      "image": {}
+     },
+     {
+      "title": "Delivering legally",
+      "url": "/info-for/deliveries-in-london/delivering-legally",
+      "image": {}
+     },
+     {
+      "title": "Accessible roads for HGVs",
+      "url": "/info-for/deliveries-in-london/delivering-legally/accessible-roads-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "Parking and loading",
+      "url": "/info-for/deliveries-in-london/delivering-legally/parking-and-loading",
+      "image": {}
+     },
+     {
+      "title": "Protecting the environment",
+      "url": "/info-for/deliveries-in-london/protecting-the-environment",
+      "image": {}
+     },
+     {
+      "title": "Delivering goods by water",
+      "url": "/info-for/deliveries-in-london/delivering-goods-by-water",
+      "image": {}
+     },
+     {
+      "title": "Training courses and events",
+      "url": "/info-for/deliveries-in-london/training-courses-and-events",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Deliveries in London",
+     "url": "/info-for/deliveries-in-london/training-courses-and-events",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

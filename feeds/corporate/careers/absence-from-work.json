@@ -1,0 +1,79 @@
+{
+ "pageTitle": "Absence from work",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Absence from work",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Maternity leave\"}",
+     "If you take maternity leave, the first 39 weeks count towards your pension. Contributions are deducted from your maternity pay in the same way they are deducted from your usual salary, but it's worth noting that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the first 26 weeks contributions are paid at the usual rate\",\"For the following 13 weeks contributions are payable at 5 per cent of any statutory maternity pay received\"]}",
+     "Any further period of maternity leave can be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Non-pensionable - that means that no contributions are payable and this period will not count for any benefits on leaving service\",\"Pensionable - with your membership being treated as continuous. Payment of contributions can be deferred and paid on your return to work\"]}",
+     "Your human resources office will provide you with a form to complete to tell us which of these options you'd like to choose.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Paternity and other paid family leave\"}",
+     "Provided that you are paid during your period of leave, your membership and contributions will continue as usual.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sick leave\"}",
+     "If you are off work due to illness, your membership will continue as usual and you will continue to pay contributions. If your sick pay runs out, you will not have to pay contributions but will continue to earn benefits in the Fund.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Unpaid leave\"}",
+     "Please contact the \u003ca href=\"/pensions/contact\"\u003eFund office\u003c/a\u003e for further information about what happens to your pension contributions if you take unpaid leave."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

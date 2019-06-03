@@ -1,0 +1,68 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Tower Bridge to close for essential maintenance: diversions into the congestion charging zone",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Visit the Congestion Charging website for more information"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Tower Bridge will be closed to vehicular traffic in both directions 24 hours a day from 0600 on 30th April to Sunday 8th May* as it undergoes structural maintenance to its road. Pedestrian traffic will be unaffected and the Tower Bridge exhibition will remain open as the bridge's 720 square metres are resurfaced. It is expected that the specialist works will also include maintenance of some of the 100 year old bridge's sub-surface timbers.",
+     "The planned closure means general traffic will be diverted into the congestion charging zone, via Southwark Bridge and London Bridge. Buses will be diverted via London Bridge.",
+     "Diversions into the congestion charging zone are not uncommon and Transport for London will comprehensively signpost the route drivers should follow. Vehicles following the diversion into the zone should stick to the signed route closely. If they do this they should not receive a penalty charge notice (PCN) and there is no need for them to pay the £5 daily charge. However, should drivers veer from the diversion route and go further into the zone they will be expected to pay the charge. Any driver wishing to contest a PCN should follow the representations process as outlined on the PCN.",
+     "The full extent of maintenance required to the sub-surface structure of the roadway can only be ascertained once the surface is removed. However, TfL will be seeking to complete the work and re-open the bridge as soon as possible. Drivers who normally would use Tower Bridge are asked to allow more time for their journeys while these necessary works are undertaken.",
+     "The scheduled weekly night-time closures of Rotherhithe and Blackwall Tunnels for regular maintenance will be suspended for the duration of the works.",
+     "Tower Bridge, which is owned and managed by the Corporation of London, was built between 1886-1894 and has a weight limit of 18 tonnes. It carries some 40,000 vehicles every day and is raised about 1000 times for vessels each year.",
+     "* The nature of these specialist works is such that the weather must be relatively dry and warm. Should adverse weather conditions be forecast and the work have to be postponed then it will be rescheduled to take place between 28th May and 5th June.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

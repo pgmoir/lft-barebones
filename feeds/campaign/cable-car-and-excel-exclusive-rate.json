@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Cable car and ExCeL exclusive rate",
+ "keywords": "TfL",
+ "description": "We've teamed up with ExCeL to offer a discount on Emirates Air Line travel if you're going to an ExCeL event or exhibition",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Cable car and ExCeL exclusive rate"
+  }
+ ],
+ "title": {
+  "title": "Cable car and ExCeL exclusive rate",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"As a partner of ExCeL London, the Emirates Air Line now offers event visitors and exhibitors the opportunity to arrive in style for an exclusive £2.50 per journey rate (normal fare is £4.50).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/excel-london-exterior_rdax_400x250.jpg\",\"alt\":\"Exterior of ExCeL\"},\"wrapped\":false}",
+     "Why not travel home or to your event with a unique flight on the Emirates Air Line. The cable car connects Royal Victoria (DLR) station and North Greenwich (Jubilee Line). Royal Victoria is just a short walk from ExCeL.",
+     "Journey times on the cable car are under 10 minutes. Visitors can access The O2 in North Greenwich easily for entertainment after the event day and choose from a selection of bars and restaurants, all while soaking up city skyline views.",
+     "Whether you are on your way to an event or finishing up the day, you can benefit from a discounted trip at just £2.50.",
+     "To redeem the discounted rate, show proof of attendance to an ExCeL event on the day (for example, a ticket, delegate pass or confirmation email showing the same day of travel).",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cabins  arrive every 30 seconds and flights last approximately 10 minutes each way\",\"Fully accessible for wheelchairs, bicycles and pushchairs with step-free access\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

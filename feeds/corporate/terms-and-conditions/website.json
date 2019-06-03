@@ -1,0 +1,200 @@
+{
+ "pageTitle": "Website",
+ "keywords": "TfL",
+ "description": "Website disclaimer and terms of use",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Terms \u0026 conditions",
+   "url": "/corporate/terms-and-conditions/index"
+  },
+  {
+   "title": "Website"
+  }
+ ],
+ "title": {
+  "title": "Website",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We try hard to make sure that these websites are working correctly and that the information we publish is accurate. This is not always achievable so the following disclaimer applies.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Disclaimer\"}",
+     "These websites are provided \"as is\" without any representation or\nendorsement made and without warranty of any kind whether express or\nimplied, including but not limited to the implied warranties of\nsatisfactory quality, fitness for a particular purpose, compatibility,\nnon-infringement, accuracy and security. We do not guarantee or\nrepresent that the content and/or facilities available or accessible via\nthese websites will always be accurate, complete or current or that\naccess to the websites will be uninterrupted.",
+     "To the extent permitted by law we expressly disclaim all liability\nfor any direct, indirect or consequential loss or damage occasioned from\nthe use or inability to use these websites, whether directly or\nindirectly resulting from inaccuracies, defects, viruses, errors -\nwhether typographical or otherwise, omissions, out of date information\nor otherwise.",
+     "Accessing these websites and the downloading of material from them is\ndone entirely at your own risk. You, and not TfL, will be\nentirely responsible for any resulting damage to software or computer\nsystems and/or any resulting loss of data even if we have been advised\nof the possibility of such damage.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Links\"}",
+     "These websites may contain links to other websites over which we have\nno control. Such links are supplied solely for the convenience of\nusers. We are not responsible for the contents or reliability of the\nlinked websites and do not necessarily endorse the views expressed\nwithin them or the organisation or persons providing them in any way. We do not guarantee that these links will work all of the time and we\nhave no control over the availability of the linked pages.",
+     "Providers of other websites may place text-based links to pages on\nthe TfL websites without seeking prior permission. However such links\nmust not open TfL website pages into frames within another website.\nPages from the TfL websites must be loaded into the user's entire\nbrowser window. The use of the TfL logo or the logos of any associated\nor subsidiary organisations must not be used for promotional or linking\npurposes unless prior approval in writing has been given. Please contact \u003ca href=\"/corporate/useful-contacts/index\"\u003eTfL Customer Services\u003c/a\u003e for further details on obtaining such approval.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Jurisdiction\"}",
+     "These terms and conditions will be governed and construed in\naccordance with the laws of England. The courts of England shall have\nexclusive jurisdiction over disputes between a user and TfL arising out\nof the access or use of these websites. Omission by us to exercise any\nright under these terms and conditions will not constitute a waiver of\nsuch right unless expressly stated by us in writing.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Copyright\"}",
+     "Unless expressly stated the copyright and other intellectual property\nrights (such as, design rights, trademarks, patents etc.) in any\nmaterial provided on the TfL websites remains our property (or as\nthe case may be another rightful owner). TfL owned material on these\nwebsites including text and images, may not be printed, copied,\nreproduced, republished, downloaded, posted, displayed, modified,\nreused, broadcast or transmitted in any way, except for your own\npersonal non-commercial use. You must gain our permission for any other type of use. Contact \u003ca href=\"/corporate/useful-contacts/index\"\u003eTfL Customer Services\u003c/a\u003e for details.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Privacy policy\"}",
+     "We respect your privacy and handle all personal data in accordance with privacy and data protection legislation and our own information governance policies. Please visit our \u003ca href=\"/corporate/privacy-and-cookies/index\"\u003ePrivacy and cookies\u003c/a\u003e pages for further information about the ways TfL may collect and use your personal information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Specific terms of use\"}",
+     "The following are prohibited in relation to the \u003ca href=\"http://oyster.tfl.gov.uk\"\u003eOyster\u003c/a\u003e , \u003ca href=\"http://congestioncharging.tfl.gov.uk\"\u003eCongestion Charging\u003c/a\u003e and \u003ca href=\"https://web.barclayscyclehire.tfl.gov.uk/\"\u003eSantander Cycles\u003c/a\u003e websites, (with the exception of the \u003ca href=\"https://web.barclayscyclehire.tfl.gov.uk/maps\"\u003eSantander Cycles maps web page\u003c/a\u003e ),  except where expressly permitted under a written licence agreement with TfL:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Terms \u0026 conditions",
+    "links": [
+     {
+      "title": "Competitions",
+      "url": "/corporate/terms-and-conditions/competitions",
+      "image": {}
+     },
+     {
+      "title": "Conditions of Carriage",
+      "url": "/corporate/terms-and-conditions/ticketing-and-travel-conditions-of-carriage",
+      "image": {}
+     },
+     {
+      "title": "Conveyancing searches",
+      "url": "/corporate/terms-and-conditions/conveyancing-searches",
+      "image": {}
+     },
+     {
+      "title": "Live Bus \u0026 River Bus arrivals",
+      "url": "/corporate/terms-and-conditions/live-bus-departure-information",
+      "image": {}
+     },
+     {
+      "title": "Online accounts",
+      "url": "/corporate/terms-and-conditions/online-accounts",
+      "image": {}
+     },
+     {
+      "title": "Pay to drive in London",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london",
+      "image": {}
+     },
+     {
+      "title": "Pay to drive in London app",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london-app",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/terms-and-conditions/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/corporate/terms-and-conditions/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Social media",
+      "url": "/corporate/terms-and-conditions/social-media",
+      "image": {}
+     },
+     {
+      "title": "STARS",
+      "url": "/corporate/terms-and-conditions/stars",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/corporate/terms-and-conditions/taxi-delicensing",
+      "image": {}
+     },
+     {
+      "title": "Technology Innovation Portal",
+      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
+      "image": {}
+     },
+     {
+      "title": "TfL call charges",
+      "url": "/corporate/terms-and-conditions/tfl-call-charges",
+      "image": {}
+     },
+     {
+      "title": "TfL Oyster and contactless app",
+      "url": "/corporate/terms-and-conditions/tfl-oyster-app",
+      "image": {}
+     },
+     {
+      "title": "TfL Pension Fund",
+      "url": "/corporate/terms-and-conditions/tfl-pension-fund",
+      "image": {}
+     },
+     {
+      "title": "Transport Data Service",
+      "url": "/corporate/terms-and-conditions/transport-data-service",
+      "image": {}
+     },
+     {
+      "title": "Visitor Oyster shop",
+      "url": "/corporate/terms-and-conditions/visitor-oyster-shop",
+      "image": {}
+     },
+     {
+      "title": "WebCAT",
+      "url": "/corporate/terms-and-conditions/webcat",
+      "image": {}
+     },
+     {
+      "title": "Website",
+      "url": "/corporate/terms-and-conditions/website",
+      "image": {}
+     },
+     {
+      "title": "DLR Discovery",
+      "url": "/corporate/terms-and-conditions/dlr-discovery",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Terms \u0026 conditions",
+     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "pageTitle": "Set up Fleet Auto Pay",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Set up Fleet Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Set up Fleet Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Fleet Auto Pay records the number of charging days a vehicle is driven within the Congestion Charge zone/Ultra Low Emission Zone (ULEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Your business will be billed every month.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "\u003cstrong\u003eYou will need to:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Complete a Direct Debit mandate as part of your application\",\"Supply certain documents about your company\",\"Be over 18 to apply\"]}",
+     "\u003cstrong\u003eWith Fleet Auto Pay you can:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"See all your statements online\",\"Ask to have your statements emailed to you\",\"Change your vehicle and payment details online at any time\"]}",
+     "You'll need to provide us with 1 of the following:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eRegistered companies\\u003c/strong\\u003e - headed paper with your company number OR a copy of your company's Certificate of Incorporation (issued by Companies House or the equivalent within an EEA state)\",\"\\u003cstrong\\u003ePublic organisations\\u003c/strong\\u003e - headed paper including organisation name (further proof may be needed for verification)\",\"\\u003cstrong\\u003eCharities\\u003c/strong\\u003e - headed paper including organisation name and registered charity number\"]}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Congestion charge to increase to £8; fleet and regular users to receive discounts",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Press release from the Mayor's office"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The Mayor of London Ken Livingstone today confirmed a number of major changes to the congestion charging scheme following public consultation.",
+     "The Mayor has decided to make the following major changes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Increase the congestion charge from £5 to £8.\",\"Increase the congestion charge for vehicles on the fleet scheme from £5.50 to £7.\",\"Introduce three charge-free days for a monthly payment and 40 charge-free days for an annual payment of the congestion charge.\"]}",
+     "The Mayor said: \"Congestion charging has been in place for just over two years. It has achieved its key objective of reducing congestion and has also provided an additional stream of revenue to help the funding of other transport measures within my Transport Strategy.",
+     "\"The charge increase will maintain the benefits currently witnessed in the zone and build upon its success, cutting congestion even further, and raising more revenue to be invested in London's transport system. Ninety per cent of people entering the zone do so by public transport. This will build on what has already been achieved in terms of extended bus provision, and in due course by providing additional underground capacity. At the same time, a number of measures will reduce the hassle of paying the charge.",
+     "\"In response to requests from business and fleet operators to make the charge easier to pay and to reduce the impact of the charge on business, the daily charge for vehicles on the fleet scheme will be set at £7.",
+     "\"In addition, large discounts on monthly and annual payments will make the charge easier to pay for regular users and should lead to fewer penalty charge notices being incurred by drivers who forget to pay the charge.\"",
+     "These changes will come into effect on July 4 2005.",
+     " \u003ca href=\"http://www.tfl.gov.uk/congestioncharging\"\u003eFor more information please see our Congestion Charging pages.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

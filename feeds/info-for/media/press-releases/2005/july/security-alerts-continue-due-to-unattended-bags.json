@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Security alerts continue due to unattended bags",
+ "description": "London Underground staff are dealing with a staggering 250 unattended bags a day since the events of 7 July. This has led to hundreds of security alerts on the Tube and bus network, resulting in services being delayed or cancelled and station evacuations.",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Security alerts continue due to unattended bags",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "As London's transport network continues to return to normal, the system is still suffering large numbers of security alerts due to passengers leaving bags unattended."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "London Underground staff are dealing with a staggering 250 unattended bags a day since the events of 7 July.",
+     "This has led to hundreds of security alerts on the Tube and bus network, resulting in services being delayed or cancelled and station evacuations.",
+     "A TfL spokesman said: \"These security alerts are causing delays to services and placing an additional burden on our staff and emergency services who are working so hard to keep London moving safely.",
+     "\"At this time, it is irresponsible in the extreme for a minority of passengers to cause major disruptions through thoughtlessness.",
+     "\"We are asking everyone travelling in the capital to help us by keeping hold of their possessions and getting rid of their litter sensibly.\"\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

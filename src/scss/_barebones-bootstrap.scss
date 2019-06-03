@@ -1,0 +1,116 @@
+.dropdown-menu.dropdown-menu-multi-col {
+  min-width: 50rem;
+  left: -40rem;
+}
+
+.alert {
+  border-left-width: 0.45rem;
+
+  &.alert-callout {
+    color: $matisse;
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid $matisse;
+    border-left-width: 0.45rem;
+    border-radius: 0.25rem;
+  }
+}
+
+.card {
+  margin-bottom: 1rem;
+  background-color: $gallery;
+  border: 0rem;
+  border-bottom: .25rem solid $silver;
+  &.card-b1 {
+    border: 1px solid $silver;
+    border-bottom: .25rem solid $silver;
+  }
+  &.card-cta {
+    border: 0rem;
+  }
+  &.card-link {
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+    &:hover {
+      background-color: $selago;
+      border-bottom-color: $matisse;
+    }
+    &.card-top {
+      .card-body {
+        background-color: rgba(31,32,37,0.9);
+        color: $white;
+      }
+    }
+    @media only screen and (min-width: 576px)  {
+      &.card-top {
+        .card-img-top {
+          position: relative;
+        }
+        .card-body {
+          bottom: 1rem;
+          position: absolute;
+          right: 0rem;
+          width: 40%;
+        }
+      }
+    }
+  }
+}
+
+.card-visitor {
+  @extend .card;
+  border-bottom-color: $razzmatazz;
+}
+
+.card-bus {
+  @extend .card;
+  border-bottom-color: $bus;
+  &.card-link {
+    &:hover {
+      border-bottom-color: $bus-dark;
+    }
+  }
+}
+
+.card-dark {
+  @extend .card;
+  color: $lightside;
+  background-color: rgba(31,32,37,0.9);
+  //background-color: $charade;
+  border-bottom-color: $woodsmoke;
+  &.card-link {
+    &:hover {
+      background-color: $woodsmoke;
+    }
+    .card-body {
+      border-right-color: $charade;
+    }
+  }
+}
+
+.card-tube,
+.card-overground {
+  @extend .card;
+  border-bottom-color: $overground;
+  &.card-link {
+    &:hover {
+      border-bottom-color: $overground-dark;
+    }
+  }
+}
+
+.form-group {
+
+  .valid-feedback {
+    color: #1D7631 !important;
+    font-size: 100%;
+  }
+  
+  .invalid-feedback {
+    font-size: 100%;
+  }
+  
+}

@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Success",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Success"
+  }
+ ],
+ "title": {
+  "title": "Success",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "COMPLETEDCONFIRMATIONTEXT (MOTOR TRICYCLE)",
+     "We will send a confirmation if your renewal has been approved.",
+     "We aim to respond to you within the next 10 working days.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What happens next?\"}",
+     "Your application to renew this discount has been successful. Your discount has been renewed for another year."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

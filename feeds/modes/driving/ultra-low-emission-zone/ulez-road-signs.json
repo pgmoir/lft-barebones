@@ -1,0 +1,143 @@
+{
+ "pageTitle": "ULEZ road signs",
+ "keywords": "TfL",
+ "description": "Traffic signs and road markings make it clear when you are approaching, entering and leaving the ULEZ zone",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "ULEZ: Where and when",
+   "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when"
+  },
+  {
+   "title": "ULEZ road signs"
+  }
+ ],
+ "title": {
+  "title": "ULEZ road signs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The area covered by the ULEZ is clearly signposted with road signs showing where it applies.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are no barriers or toll booths. Cameras read vehicle number plates driven through the zone, which are checked against our database to see if they meet ULEZ emission standards.",
+     "Road signs are in place before the ULEZ starts at every entry point along the boundary and along key arterial approaches. They sit next to existing Congestion Charge signs.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/ulez-entry-sign-a.jpg\",\"alt\":\"ulez entry sign\"},\"wrapped\":false}",
+     "The ULEZ operates 24 hours a day, every day of the year including weekends and public holidays. It covers the same area as the Congestion Charge. In 2021 the ULEZ boundary will be extended to create a single, larger zone bounded by the North and South Circular Roads.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/ulez-sign-b.jpg\",\"alt\":\"ulez sign\"},\"wrapped\":false}",
+     "Entry signs at every boundary point tell you when you're in the zone.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/ulez-sign-d.jpg\",\"alt\":\"ulez/cc zone sign\"},\"wrapped\":false}",
+     "Advance information signs appear on major roads around 0.5 miles from the boundary."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "ULEZ road signs",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-road-signs",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

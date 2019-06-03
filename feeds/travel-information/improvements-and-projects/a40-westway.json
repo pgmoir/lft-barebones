@@ -1,0 +1,120 @@
+{
+ "pageTitle": "A40 Westway",
+ "keywords": "Bus operators,Coach drivers,Drivers,Freight industry,Motorbikers,Planning and construction,Taxi and private hire,A,W,Hammersmith \u0026 Fulham,Kensington \u0026 Chelsea,Westminster,Roads,Buses,Coaches,Deliveries,Driving,Motorcycle,Taxis and minicabs,TfL",
+ "description": "Our plans to refurbish the A40 Westway are on hold for now",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "A40 Westway"
+  }
+ ],
+ "title": {
+  "title": "A40 Westway",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are considering how best to pay for the ongoing maintenance and management of the elevated A40 Westway structures and Marylebone flyover. These structures support the A40 dual carriageway that runs from Western Avenue east towards the Marylebone Road.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we've done\"}",
+     "We investigated underneath the Westway elevated structures and Marylebone flyover, surveying different parts of the structure including the drainage, waterproofing, expansion joints, surfacing, structural concrete and parapets during summer 2017.",
+     "We also investigated the road surface on the Westway and Marylebone flyover by digging trial holes, taking core samples and surveying the drainage system.",
+     "In late 2017 we reviewed our findings and completed a feasibility study to explore options for maintaining the Westway and Marylebone flyover structures.",
+     "Because of restrictions on capital investment, the refurbishment of these structures is being delayed until  at least 2020/2021. Only safety critical work will be done on these assets until then.",
+     "We will continue to monitor and manage the impact of this approach on the A40 Westway structures and Marylebone flyover.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Work in the future\"}",
+     "Our \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003eBusiness Plan\u003c/a\u003e looks at ways to safely reduce spending on our roads maintenance programme in the short term while we identify a new, long-term funding stream to support that work.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Background\"}",
+     "The group of structures known collectively as the Westway carry the A40 for 4.6km from Wood Lane flyover in the west to the Marylebone flyover in the east.",
+     "The structures were built between 1964 and 1970. Maintenance work has been done in the past - including waterproofing the deck and improving the expansion joints - but several components have reached or are nearing the end of their life.",
+     "Major maintenance/refurbishment work is needed to secure the long term reliability of the Westway.",
+     "We inspected and surveyed all residential and business premises beneath the Westway between November 2015 and January 2016 to help us understand its condition before we inspected the structures themselves in summer 2017.",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-aerial.jpg\",\"alt\":\"Aerial view\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-portobello-green.jpg\",\"alt\":\"Spaces beneath the structure\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-boom-burger.jpg\",\"alt\":\"Businesses beneath the structure\"}],\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Acton to Wood Lane improvements",
+      "url": "/travel-information/improvements-and-projects/acton-to-wood-lane-improvements",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "CS3 (East-West) consultation",
+      "url": "https://consultations.tfl.gov.uk/cycling/east-west-phase-2?cid=east-west-consult",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

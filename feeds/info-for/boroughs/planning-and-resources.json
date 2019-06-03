@@ -1,0 +1,319 @@
+{
+ "pageTitle": "Planning \u0026 resources",
+ "keywords": "TfL",
+ "description": "We plan London's traffic infrastructure alongside the boroughs - we also support borough officers with materials related to our campaigns and schemes",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources"
+  }
+ ],
+ "title": {
+  "title": "Planning \u0026 resources",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We work with the boroughs to help plan London's traffic infrastructure. We also offer materials that borough officers can use to get involved in our campaigns and schemes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Sub-regional transport planning",
+    "texts": [
+     "Connecting local planning to Mayoral strategies for the whole of London"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/sub-regional-transport-planning",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/box-junction_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Low Emission Neighbourhoods",
+    "texts": [
+     "We're helping boroughs create areas the highlight air quality improvement schemes"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/low-emission-neighbourhoods",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/low-emission-neighbourhood-logo-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Professional services frameworks",
+    "texts": [
+     "Our 5 frameworks help borough procure external consultants"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/professional-services-frameworks",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/engineering-eal-opens_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Street Types",
+    "texts": [
+     "See how we're using Street Types to work out the future of London's roads"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/street-types",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/street-types_rdax_400x200.gif"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Urban planning and construction",
+    "texts": [
+     "Get help with your new development and see how we protect our infrastructure"
+    ],
+    "link": {
+     "url": "/info-for/urban-planning-and-construction/index",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/new-development-1_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Legible London",
+    "texts": [
+     "We're working to expand Legible London into more boroughs"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/legible-london",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/monolith-croydon-350_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Cycling toolkit",
+    "texts": [
+     "We can help you promote cycling in your borough"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/cycling-toolkit",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x0001-00061-cycling-start-cycling_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Safety toolkit",
+    "texts": [
+     "Marketing materials for campaigns aimed at protecting the travelling public"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/safety",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/road-safety-action-plan-cover_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Transport \u0026 healthcare",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Roadworks \u0026 street faults",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure/roadworks-and-street-faults",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Streets",
+      "url": "/corporate/publications-and-reports/streets",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "CCZ/LEZ maps",
+      "url": "/maps_/maps",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Sub-regional transport planning",
+      "url": "/info-for/boroughs/sub-regional-transport-planning",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Healthy Workplace Charter",
+      "url": "/info-for/boroughs/healthy-workplace-charter",
+      "image": {}
+     },
+     {
+      "title": "Cycling Toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Safety",
+      "url": "/info-for/boroughs/safety",
+      "image": {}
+     },
+     {
+      "title": "Street Types for London",
+      "url": "/info-for/boroughs/street-types",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Pedestrian Countdown guidelines",
+      "url": "/corporate/publications-and-reports/streets",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/modes/dial-a-ride/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

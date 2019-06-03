@@ -1,0 +1,80 @@
+{
+ "pageTitle": "Lost, stolen or damaged paper ticket",
+ "keywords": "TfL",
+ "description": "We do not give refunds for lost, stolen or damaged paper tickets.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "Lost, stolen or damaged paper ticket"
+  }
+ ],
+ "title": {
+  "title": "Lost, stolen or damaged paper ticket",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We do not give refunds for lost, stolen or damaged paper tickets.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Please contact the National Rail station or website where you bought your paper ticket."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

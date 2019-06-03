@@ -1,0 +1,37 @@
+{
+ "pageTitle": "Planned Works Calendar",
+ "keywords": "Tube passengers,Tube improvement,Tube,Plan a journey,TfL",
+ "description": "Information about closures on the London Underground network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Planned Works Calendar"
+  }
+ ],
+ "title": {
+  "title": "Planned Works Calendar",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": null,
+  "cards": null
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "pageTitle": "Security precautions",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Security precautions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "During this time of heightened security concerns, drivers and proprietors are reminded of the following obligations. Compliance with these requirements will contribute to the safety of the capital."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Badge to be worn (London Hackney Carriages Act 1843, s. 17)",
+     "Every licensed cab driver must at all times during his employment, wear his badge conspicuously in such a manner that the whole of the writing thereon is distinctly legible and, when required, produce it for inspection, and permit any person to note the writing thereon.",
+     "Production of copy licence (London Cab Order 1934, s 28)",
+     "A cab driver shall have his copy of his cab driver's licence in his possession at all times during his employment and shall produce it for inspection on demand by any police constable or Public Carriage Examiner.",
+     "Cab to be searched (London Cab Order 1934, para. 51)",
+     "Immediately after the termination of the hiring of his cab the driver must carefully search his cab to ascertain whether any property has been accidentally left there. If this is not practicable he must at least look inside his cab for this purpose. In any event he must make a careful search as soon as practicable after the hiring.",
+     "If you are suspicious of an unattended package:",
+     "{\"template\":\"bulletlist\",\"items\":[\"do not ignore it;\",\"do not touch it;\",\"attempt to establish ownership - but if this is unsuccessful then:\",\"evacuate the immediate area and keep people 150 metres away from the object if possible;ul\"]}",
+     "Proprietor to retain driver's licence (London Hackney Carriages Act 1843, s 21)",
+     "Every proprietor of a hackney carriage who rents a cab to a licensed driver or otherwise permits a licensed driver to drive a vehicle he/she owns, shall retain that driver's licence for the duration of the arrangement.",
+     "Proprietors who are approached by individuals who wish to rent a taxi and who are not licensed are asked to satisfy themselves as to the legitimacy of the purpose for wishing to do so. It is also recommended that when selling vehicles proprietors take appropriate steps to confirm the bona fides of the purchaser. Any concerns should be reported to the police.",
+     "Cabs unattended on ranks (Cab rank regulations)",
+     "The drivers of the first two cabs on a rank must be with their cabs and available for hiring immediately. (Regulation 1)",
+     "A cab must not be left on a rank unless the driver is willing to be hired. (Regulation 2)",
+     "It has been brought to the attention of the Public Carriage Office by the Transport Operational Command Unit of the Metropolitan Police that consistent abuse of taxi ranks is occurring, particularly in central London by taxi drivers leaving their taxis unattended on taxi ranks. Not only is this illegal but it also inconveniences other taxi drivers wishing to work the rank and also may prompt a security alert. Drivers reported for such offences will have their fitness to remain licensed reviewed by the Licensing Authority."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

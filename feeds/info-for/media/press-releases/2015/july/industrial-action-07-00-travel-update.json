@@ -1,0 +1,298 @@
+{
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2015",
+   "url": "/info-for/media/press-releases/2015"
+  },
+  {
+   "title": "July",
+   "url": "/info-for/media/press-releases/2015/july"
+  },
+  {
+   "title": "Industrial Action: 07:00 Travel Update"
+  }
+ ],
+ "title": {
+  "title": "Industrial Action: 07:00 Travel Update",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "TfL confirms no Tube services running today due to unnecessary strike action"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Extra bus and river services running to help people get around, and all public transport and roads are expected to be much busier than usual, especially during peak hours\",\"Additional Santander Cycles hubs are in place at key central London locations to make cycling an easy option\",\"Customers are advised to travel outside the peak if possible, check before they travel at www.tfl.gov.uk/tube-strike and by following @TfLTravelAlerts, @TfLTrafficNews and @TfLBusAlerts on Twitter\"]}",
+     "London Underground (LU) is reminding customers that no Tube services are running today as a result of strike action by the ASLEF, RMT, Unite and TSSA unions. There may also be some disruption to services tomorrow morning.",
+     "Staff on the bus network, the DLR, London Overground, TfL Rail, Trams, river services, Emirates Air Line and Santander Cycles are not on strike, and extra bus and river services are available to help people get around.",
+     "LU has tried everything possible to engage the unions over the last five months to try to reach an agreement on pay and the introduction of the Night Tube 24-hour Underground services at weekends from September. The process has been hampered by the unions frequently walking out of negotiations or refusing to turn up. LU received no response to the fair and competitive pay offer made last Monday.",
+     "LU has also made clear that in running services overnight:",
+     "{\"template\":\"bulletlist\",\"items\":[\"No one is being asked to work more hours;\",\"Most staff will not be affected at all by the Night Tube;\",\"For the majority of those who are affected, the night service will mean a few extra nights per year within existing contracts;\",\"A realistic and substantial pay rise is being offered this year and for the next 2 years, with additional payment for overnight working, on top of an already fair pay package.\"]}",
+     "Steve Griffiths, London Underground's Chief Operating Officer, said:",
+     "'A night time Tube service is something Londoners and businesses have been requesting for many years. It will make life easier for everyone, cut journey times, create jobs and boost the economy.  We want to reward our staff for its delivery and have been open and transparent in our negotiations with the trade unions - but unfortunately they have failed to engage. We have put forward a very, very fair offer, which consists of an average salary increase of 2 per cent, 1 per cent or RPI (whichever is greater) for next year and the one after, plus a £500 night tube launch bonus and an additional £2000 bonus for night tube train drivers. No one will have to work more hours than they do now, and we have a longer term plan, which will mean no one will need to work nights if they don't want to. Given these commitments, the key question Londoners will rightly be asking, is why the unions have refused to put this new pay deal to their memberships and instead opted to push on with completely unnecessary strike action, which is inflicting major disruption on Londoners and businesses today.'",
+     "Latest Travel advice to customers (07:00):",
+     "\u003cstrong\u003eTube\u003c/strong\u003e \u003cbr /\u003eThere are no Tube services running this morning and this is expected to be the case for the rest of the day. All other public transport services and roads will be much busier than usual.",
+     "Staff on the DLR, London Overground, the bus network, tram and TfL Rail services are not on strike. These services are running as normal, but they will be much busier than usual and customers are strongly advised to, if possible, travel outside of the morning and evening peaks on Thursday.",
+     "TfL Ambassadors and volunteers are also on hand to provide customers with travel information and advice on the ground. TfL urges all customers to plan ahead and to check before they travel at \u003ca href=\"http://www.tfl.gov.uk/tube-strike\"\u003ewww.tfl.gov.uk/tube-strike\u003c/a\u003e and by following @TfLTravelAlerts, @TfLTrafficNews and @TfLBusAlerts on Twitter.",
+     "\u003cstrong\u003eWimbledon travel advice\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Wimbledon is accessible by bus and National Rail services to Wimbledon mainline station;\",\"Detailed travel advice for spectators travelling to and from Wimbledon is available at www.tfl.gov.uk/tube-strike and at wimbledon.com. TfL is working with the event organisers and the bus operator Go Ahead to ensure more bus services are on hand locally to get people to and from the events.\"]}",
+     "\u003cstrong\u003eFirst Great Western\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"There are no First Great Western services between Paddington and Greenford due to a separate 48-hour strike.\"]}",
+     "\u003cstrong\u003eChiltern\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Chiltern Railways services are not stopping at stations between Marylebone and Great Missenden:\",\"Travelling southbound in the morning peak;\",\"Travelling northbound in the evening peak;\",\"Chiltern trains travelling in the opposite direction at these times will stop at stations between Marylebone and Great Missenden as usual.\"]}",
+     "\u003cstrong\u003eNational Rail\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"National Rail routes are largely operating as normal but services are expected to be much busier than usual, so please check before you travel.\"]}",
+     "\u003cstrong\u003eDLR\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"A normal service is operating but trains will be much busier than usual. Some stations where there is an interchange with London Underground may be affected.\"]}",
+     "\u003cstrong\u003eLondon Overground\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"A normal service is operating but trains will be much busier than usual. Some stations where there is an interchange with London Underground may be affected.\"]}",
+     "\u003cstrong\u003eTramlink\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"A normal service is operating.\"]}",
+     "\u003cstrong\u003eTfL Rail\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"A normal service is operating but trains will be much busier than usual. Some stations where there is an interchange with London Underground may be affected;\",\"TfL is working with Network Rail and the train operators to ensure that customers have the latest information on how best to get around.\"]}",
+     "\u003cstrong\u003eBuses\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Services are being boosted with around 200 extra buses on key routes but will be much busier than usual;\",\"TfL Ambassadors and volunteers are being deployed to bus stations and hubs to provide customers with travel information and advice on the ground.\"]}",
+     "\u003cstrong\u003eCoaches\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Coaches will run more regularly on some London routes on the day of the strike;\",\"Several coach operators, including National Express and Green Line, offer services that stop in a number of locations throughout London. Some of the core coach routes are as follows:\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Golders Green - Finchley Road - Baker Street - Marble Arch - Victoria Coach Station (National Express);\",\"Brent Cross - Finchley Road - Baker Street - Marble Arch - Victoria (Green Line);\",\"Hillingdon - Shepherd's Bush/Baker Street - Marble Arch - Victoria (Oxford Tube \\u0026 X90);\",\"Hammersmith - Kensington - Hyde park Corner - Victoria (Green Line);\",\"Stratford - Bow - Aldgate - Victoria Coach Station (National Express);\",\"Bexley - Canary Wharf - Aldgate - Embankment - Victoria Street (Commuter Services);\",\"Sutton - Streatham - Stockwell - Victoria Coach Station (National Express);\",\"Eltham - Lewisham - Walworth - Elephant \\u0026 Castle - Victoria Coach Station (National Express);\",\"There will also be an hourly service to Heathrow Central Bus Station and Terminals 4 and 5.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For up to date information on coach services go to \\u003ca href=\\\"http://coachtracker.nationalexpress.com/\\\"\\u003ehttp://coachtracker.nationalexpress.com/\\u003c/a\\u003e ;\",\"Tickets can be purchased in advance from the Victoria Coach Station ticket hall, or on the operator's websites.\"]}",
+     "\u003cstrong\u003eEmirates Air Line\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"A normal service is operating.  LU tickets will be accepted on Emirates Air Line services.\"]}",
+     "\u003cstrong\u003eCycling\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Santander Cycles are available to members and casual users, although demand is likely to be high, and cycles harder to access, during peak times. Additional hubs will be in place at key locations during morning and evening peak and additional distribution teams will be making as many bikes available as possible. The Santander Cycles App provides up to the minute information on the nearest  docking station and bike availability;\",\"Londoners who own a bike are encouraged to cycle to work.\"]}",
+     "\u003cstrong\u003eRiver Services\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is operating extra river services on Wednesday 8 And Thursday 9 July between central London and Canary Wharf, and central London and Putney.\"]}",
+     "\u003cstrong\u003eTaxis \u0026 Private Hire\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"During peak times a marshalled taxi service will operate at major London rail stations. The marshals will manage taxi and  passenger queues and provide advice and assistance to taxi passengers and other members of the public;\",\"Private hire and minicab services will be running as normal. Details for licensed private hire and minicab operators in London are available at www.tfl.gov.uk/cabwise.\"]}",
+     "\u003cstrong\u003eWalking\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Walking maps are available online and at transport hubs in central London, with TfL Ambassadors and volunteers helping people plan their routes around the city;\",\"People are urged to walk for short journeys, where possible.\"]}",
+     "\u003cstrong\u003eRoads and the Congestion Charge\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"To help keep traffic flowing, the Congestion Charge will remain in operation throughout the strike;\",\"TfL will be delaying or curtailing road works on major London roads wherever possible and has encouraged all London boroughs to take similar measures on their network. TfL will also work with the Metropolitan Police to minimise the impact of congestion;\",\"TfL will be working to keep traffic flowing around major transport hubs;\",\"Londoners and commuters are encouraged to keep journeys by car to a minimum to enable public transport to move freely;\",\"For up to date information follow @TfLTrafficNews.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Night Tube is part of LU's work to modernise the service offered to customers.\",\"It is widely supported by Londoners and businesses and will transform night time journeys across London.\",\"Journey times will be cut by an average of 20 minutes, with some cut by more than an hour.\",\"London's night-time economy will be opened up to a host of new opportunities, with the Night Tube supporting around 2,000 permanent jobs and boosting the economy by £360 million.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2015/december",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2015/november",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2015/october",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2015/september",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2015/august",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2015/july",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2015/june",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2015/may",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2015/april",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2015/march",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2015/february",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2015/january",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

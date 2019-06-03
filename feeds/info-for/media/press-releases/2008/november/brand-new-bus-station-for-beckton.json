@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Brand new bus station for Beckton",
+ "description": "The station will be served by ten bus routes and cater for up to 70 buses per hour.Route 366, which previously terminated at Cyprus DLR, has been extended to serve the station.Passengers will benefit from improved connections between bus routes and",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Brand new bus station for Beckton",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) will open a new bus station in Beckton today. Designed to create a pleasant and safe environment for bus users, the new station will feature four well lit bus shelters and 24-hour digital CCTV."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The station will be served by ten bus routes and cater for up to 70 buses per hour.",
+     "Route 366, which previously terminated at Cyprus DLR, has been extended to serve the station.",
+     "Passengers will benefit from improved connections between bus routes and convenient access to Beckton DLR and the ASDA superstore.",
+     "Mike Weston, Operations Director, London Buses, said: 'The new bus station in Beckton will make passengers' journeys easier and more convenient, and provide them with a pleasant, safe and secure place to catch the bus.'",
+     "Chris Marlow, ASDA Property Communications Manager, said: 'We welcome TfL's investment in bus links to Beckton.",
+     "'The new station is good news for ASDA customers, making travelling by public transport a natural choice for shoppers coming to the store.'",
+     "Bus drivers also stand to benefit from the new bus station, with an on-site drivers' mess providing kitchen facilities and a private space in which to take their breaks.",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London responds to 7/7 Inquest findings",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London's Transport Commissioner, Peter Hendy, today responded to the findings of the 7/7 Inquest."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "He said: 'We will never forget the events of 7 July 2005 and our first thoughts are with the victims of the attacks, those injured and their families once again at this time.",
+     "'I want to pay tribute to the TfL [Transport for London] staff who were on duty that terrible day, as well to the staff of the emergency services and other transport operators.",
+     "'Their actions were often nothing short of heroic - going above and beyond the call of duty to help and comfort those affected.",
+     "'TfL staff also responded in the best possible way, by getting our transport networks up and running as soon as possible, to demonstrate that Londoners will never be cowed by such attacks, and that the freedoms and tolerance that are such important features of this great city are preserved.",
+     "'The bus network was up and running through central London and across the city later that same day and 85 per cent of the Tube network - with the exception of the bombed sections - the next morning.",
+     "'The whole Tube network was restored four weeks later.",
+     "'Such a response required great fortitude and bravery on behalf of our staff, and I thank them once again for that.",
+     "'A great deal has already been done since 7 July to improve our equipment, capabilities and preparedness for such major incidents.",
+     "'This includes the installation of a multi-million pound new communications system which enables Police and emergency services' radios to work underground, closer working with other agencies, enhanced staff training and improvements to the provision of medical supplies at stations.",
+     "'However, we recognise that everything should be done to ensure that, should similar events ever happen again, we and all our partner agencies are in a position to respond in the most effective way possible.",
+     "'We therefore welcome the recommendations of the Coroner, and agree wholeheartedly that the issues raised warrant further scrutiny.",
+     "'This will contribute further to the great deal of work already done, and we will now be studying the recommendations in detail.",
+     "'We will publish our full response to the recommendations in due course.'"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

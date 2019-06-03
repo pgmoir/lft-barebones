@@ -1,0 +1,123 @@
+{
+ "pageTitle": "Station Wi-Fi",
+ "keywords": "Public,London Overground,Tube,TfL",
+ "description": "See where you can access Wi-Fi on the Tube and London Overground networks",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Station Wi-Fi"
+  }
+ ],
+ "title": {
+  "title": "Station Wi-Fi",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Wi-Fi is now available at over 260 Tube and 79 London Overground stations across the network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Wi-Fi at Tube stations\"}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/virgin-media-logo-230x154.jpg\",\"alt\":\"Virgin Media logo\"},\"wrapped\":false}",
+     "We have partnered with Virgin Media to bring Wi-Fi to over 260 London Underground stations and Victoria Coach Station - over 97% of the London Underground network.",
+     "You can go use the Wi-Fi service to go online anywhere in those Tube stations - in ticket halls and walkways, and on platforms.",
+     "If you're a Virgin Media, EE, Vodafone, O2 or Three customer you can use the Wi-Fi service for free as part of your plan.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting started with Wi-Fi\"}",
+     "Everyone can access the Virgin Media portal which includes our latest travel information and It's quick and easy to get started .",
+     "Choose your provider from the list below and follow their instructions:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wifi-zone-logo-sm.jpg\",\"alt\":\"WiFi Zone logo\"},\"wrapped\":false}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eNetwork\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eHow to get access\\u003c/strong\\u003e \"],[\" \\u003ca href=\\\"https://my.virginmedia.com/my-app/what-is-virgin-media-wifi.html\\\"\\u003eVirgin Media\\u003c/a\\u003e Broadband and Mobile\",\"Download the Virgin Media WiFi app and follow the on-screen instructions.\"],[\" \\u003ca href=\\\"http://ee.co.uk/help/add-ons-benefits-and-plans/wifi-and-tethering/wifi-on-the-underground\\\"\\u003eEE\\u003c/a\\u003e , T-Mobile and Orange\",\"Text EEWiFi to 9527 and you will be sent a password to connect.Phones bought after November 2015 will automatically connect to the Wi-Fi service.\"],[\" \\u003ca href=\\\"http://www.vodafone.co.uk/shop/internet/wi-fi/\\\"\\u003eVodafone\\u003c/a\\u003e \",\"Your phone should automatically connect.If it doesn't, select Virgin Media WiFi from your Wi-Fi settings, open your browser and enter your My Vodafone username and password.\"],[\" \\u003ca href=\\\"https://www.o2.co.uk/connectivity/wifi-london-underground\\\"\\u003eO2\\u003c/a\\u003e \",\"Select O2 Wi-Fi from your Wi-Fi settings, sign up and confirm the phone you will be using.When you are on the Underground, open your browser and select O2 from the dropdown list.\"],[\" \\u003ca href=\\\"http://www.three.co.uk/Support/Free_WiFi_On_London_Underground\\\"\\u003eThree\\u003c/a\\u003e \",\"Log into your My3 account and change settings when above ground.When in the station, connect to Virgin Media Wi-Fi, open your browser, select Three from the 'Other providers' dropdown list and log in using your Three number and the password you set up.\"],[\" \\u003ca href=\\\"https://wifipass.virginmedia.com/w/Register.aspx?ReturnUrl=%2fw%2f\\\"\\u003eWiFi Pass\\u003c/a\\u003e (For customers who are not on any of the above listed networks)\",\"Go to \\u003ca href=\\\"https://wifipass.virginmedia.com/w/Register.aspx?ReturnUrl=%2fw%2f\\\"\\u003eWiFi Pass page\\u003c/a\\u003e , register with your email address and choose a password to set up for the first time. You'll then need to buy a WiFi Pass to get access to the internet.\"]]}",
+     "If you are unable to connect to Wi-Fi, find out more by clicking on your provider.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using the Wi-Fi service\"}",
+     "Once you've activated Virgin Media WiFi, your device will automatically pick up the Wi-Fi signal when you're in a Wi-Fi enabled Tube station. There's no signal in tunnels, but your phone will connect to the signal at the next Wi-Fi enabled platform so you can pick up where you left off.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stations with Virgin Media WiFi\"}",
+     "Virgin Media WiFi is currently available at all Tube stations and Victoria Coach Station with the following exceptions.",
+     "{\"template\":\"bulletlist\",\"items\":[\"We are planning on rolling out Wi-Fi to: Bond Street, Moorgate and Whitechapel Tube stations\",\"Wi-Fi is not currently planned at: Heathrow T5, Kensington Olympia, Watford and Willesden Junction Tube stations\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hints and tips\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the best experience, connect to the Virgin Media WiFi service in the ticket hall when you first enter a Tube station\",\"Your phone remembers the Wi-Fi network you connect to most frequently. Open Wi-Fi in your device settings and connect to Wi-Fi in the Tube station ticket hall or platform to connect quickly\",\"It typically takes five seconds to connect to the Virgin Media WiFi service at a Tube station (this delay is due to a security feature). If you are trying to connect at a peak time in a busy station (when hundreds of other people are also trying to connect), it may take slightly longer\",\"If you aren't able to connect to the Wi-Fi network before you get on a Tube train, don't try to connect on the train as you travel from station to station. To save battery life, some devices extend the time that they search for Wi-Fi hotspots. It's better to wait and connect when you get off the train\",\"If you are a Virgin Media, EE, O2, Three or Vodafone customer, please register for the service before trying to connect. Further information can be found via your mobile network operator's website. Once you've registered, you'll be able to connect to the Wi-Fi service seamlessly\",\"If you have any queries or issues connecting please contact your mobile network operator\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Wi-Fi networks available\"}",
+     "If you are a Virgin Media, O2, Vodafone or EE customer, authentication is seamless via your SIM card. Once you've registered and you open Wi-Fi in your device settings at a Tube station, you'll see the following Wi-Fi networks:",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"table\",\"titles\":[\"Wi-Fi network name (SSID)\",\"Who can connect?\"],\"rows\":[[],[\"Virgin Media WiFi\",\"Virgin Media, Three, O2, Vodafone and EE customers and any customers with a Virgin Media WiFi Pass\"],[\"EE WiFi-Auto\",\"EE customers only\"],[\"VodafoneWiFi\",\"Vodafone customers only\"],[\"Wifi Extra\",\"O2 customers only\"],[\"Virgin Media\",\"Virgin Media customers only\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Frequently Asked Questions\"}",
+     "Got a question or having trouble connecting to Virgin Media WiFi? Here's a list of \u003ca href=\"http://my.virginmedia.com/wifi/faqs.html\"\u003ecommon questions\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"More information from your provider\"}",
+     "Need more help or got a question for your provider? You can contact them as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Virgin Media and WiFi Pass customers: \\u003ca href=\\\"http://www.virginmedia.com/contact-us.html\\\"\\u003evirginmedia.com/contact-us.html\\u003c/a\\u003e \",\"EE customers: Phone EE on 150 or if you are a corporate customer phone 158\",\"Vodafone customers: \\u003ca href=\\\"http://help.vodafone.co.uk\\\"\\u003ehelp.vodafone.co.uk\\u003c/a\\u003e \",\"O2 customers: \\u003ca href=\\\"http://o2.co.uk/underground/faq\\\"\\u003eo2.co.uk/underground/faq\\u003c/a\\u003e \",\"Three customers: \\u003ca href=\\\"http://three.co.uk/Support/Free_WiFi_On_London_Underground\\\"\\u003ewww.three.co.uk/Support/Free_WiFi_On_London_Underground\\u003c/a\\u003e \"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cloud-logo.jpg\",\"alt\":\"Cloud logo\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Wi-Fi at London Overground stations\"}",
+     "We have partnered with \u003ca href=\"http://www.thecloud.net/\"\u003eThe Cloud\u003c/a\u003e to bring Wi-Fi to more than 79 London Overground stations, meaning you can browse, connect and share anywhere in the station.",
+     "Wi-Fi access is available in most ticket halls, corridors and platforms."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Improving the Tube",
+      "url": "/campaign/tube-improvements",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

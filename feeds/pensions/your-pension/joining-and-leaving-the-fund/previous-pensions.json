@@ -1,0 +1,190 @@
+{
+ "pageTitle": "Previous pensions",
+ "keywords": "TfL",
+ "description": "Details on if you have a deferred pension with us and are rejoining the TfL Pension Fund, or if you were previously a member of another pension scheme.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Your pension",
+   "url": "/pensions/your-pension"
+  },
+  {
+   "title": "Joining and leaving the fund",
+   "url": "/pensions/your-pension/joining-and-leaving-the-fund"
+  },
+  {
+   "title": "Previous pensions"
+  }
+ ],
+ "title": {
+  "title": "Previous pensions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you have a deferred pension with us and are rejoining the Fund, you can link it to your current membership.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Please see the Trustees' Link-up policy below for more details.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Link-up policy\",\"url\":\"/cdn/static/cms/documents/link-up-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 60KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other pension schemes\"}",
+     "If you are a contributing member and have pensions benefits built up in another pension arrangement, you may be able to transfer them into the Fund.",
+     "Arrangements include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A previous employer's scheme\",\"A personal or stakeholder pension\"]}",
+     "You may only transfer benefits that you built up while you were not working for your employer and contributing to the TfL Pension Fund. You cannot transfer any benefits into the fund which consist wholly or partly of Pension Credit Rights following a pension sharing order on divorce. The transfer payments received may credit you with additional pensionable service in the Fund.",
+     "If you have an Additional Voluntary Contribution (AVC) plan with another provider that you wish to transfer, the value can be transferred into the TfL Pension Fund's AVC plan.",
+     "If you would like to investigate a transfer, you should read the Transferring In Benefits guide, which explains the process and what you need to do.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transferring In Benefits guide\",\"url\":\"/cdn/static/cms/documents/transferring-in-benefits-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 533KB\",\"image\":{}},{\"title\":\"Transfer Information Request form\",\"url\":\"/cdn/static/cms/documents/transfer-information-request-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 106KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lost track of benefits under a previous scheme?\"}",
+     "If you have lost track of your benefits under a previous employer's scheme you can contact the Pension Tracing Service who will provide you with the address of the scheme administrators. They can be contacted at:",
+     "The Pension Tracing Service\u003cbr /\u003eWhitley Road\u003cbr /\u003eNewcastle Upon Tyne\u003cbr /\u003eNE98 1BA",
+     "\u003cstrong\u003eTelephone:\u003c/strong\u003e 0845 6002537"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Your contributions",
+      "url": "/pensions/your-pension/your-contributions",
+      "image": {}
+     },
+     {
+      "title": "Joining and leaving the fund",
+      "url": "/pensions/your-pension/joining-and-leaving-the-fund",
+      "image": {}
+     },
+     {
+      "title": "Previous pensions",
+      "url": "/pensions/your-pension/joining-and-leaving-the-fund/previous-pensions",
+      "image": {}
+     },
+     {
+      "title": "Retirement",
+      "url": "/pensions/your-pension/retirement",
+      "image": {}
+     },
+     {
+      "title": "Ill-health retirement",
+      "url": "/pensions/your-pension/ill-health-retirement",
+      "image": {}
+     },
+     {
+      "title": "Benefits on death",
+      "url": "/pensions/your-pension/benefits-on-death",
+      "image": {}
+     },
+     {
+      "title": "Contracting-out",
+      "url": "/pensions/your-pension/contracting-out",
+      "image": {}
+     },
+     {
+      "title": "Pension payments and deductions",
+      "url": "/pensions/your-pension/pension-payments-and-deductions",
+      "image": {}
+     },
+     {
+      "title": "Remarriage and divorce",
+      "url": "/pensions/your-pension/remarriage-and-divorce",
+      "image": {}
+     },
+     {
+      "title": "Member self-service",
+      "url": "/pensions/your-pension/member-self-service",
+      "image": {}
+     },
+     {
+      "title": "Staff travel",
+      "url": "/pensions/your-pension/staff-travel",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

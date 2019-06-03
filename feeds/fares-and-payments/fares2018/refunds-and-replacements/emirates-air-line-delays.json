@@ -1,0 +1,90 @@
+{
+ "pageTitle": "Emirates Air Line delays",
+ "keywords": "TfL",
+ "description": "How to claim a TfL refund if you were delayed on the Emirates Air Line.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "Emirates Air Line delays"
+  }
+ ],
+ "title": {
+  "title": "Emirates Air Line delays",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You may be able to get a refund if your journey was delayed for 15 minutes or more.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "Please wait at least 48 hours as you might receive an automatic refund.",
+     "We do not give refunds for delays outside our control, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Strikes\",\"Security alerts\",\"Bad weather\",\"Customer incidents e.g. a person falling ill in a cabin\",\"Engineering works\"]}",
+     "Refunds are given as \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go\"\u003epay as you go\u003c/a\u003e credit, web credit or by transfer into your bank account.",
+     "If you used a \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\"\u003epaper ticket\u003c/a\u003e your refund is transferred into your bank account.",
+     "You must claim within 28 days of the delay.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund by post\"}",
+     "If the delay happened in the last 28 days and you were delayed for 15 minutes or more, send your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Journey details (date, time and how long you were delayed for)\",\"Ticket type (Oyster card, contactless card or paper ticket number)\",\"Contact details (we may contact you to arrange a refund)\"]}",
+     "To:\u003cbr /\u003eTfL Customer Services\u003cbr /\u003e4th Floor\u003cbr /\u003e14 Pier Walk\u003cbr /\u003eLondon\u003cbr /\u003eSE10 0ES"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

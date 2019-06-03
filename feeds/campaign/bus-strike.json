@@ -1,0 +1,86 @@
+{
+ "pageTitle": "Bus strike",
+ "keywords": "TfL",
+ "description": "Information about proposed bus strike for Tuesday 13 January 2015",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Bus strike"
+  }
+ ],
+ "title": {
+  "title": "Bus strike",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A 24-hour bus strike is planned on Friday 13 February. If the strike goes ahead it will affect bus services across London from about 04:00 Friday morning. It will also affect night bus services operating on Friday night into Saturday morning. Bus services during the day on Saturday 14 February should operate as normal.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We will update this page with more information as soon as we have it.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus services across London are likely to be affected\",\"If you have a Bus \\u0026 Tram Pass you will be able to use it on the Tube, DLR and London Overground. See Tickets\",\"All other services will operate as normal\",\"A further 24-hour strike is planned for Monday 16 February\",\"Bus services on Saturday and Sunday are not affected and will run as normal\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLBusAlerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLBusAlerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

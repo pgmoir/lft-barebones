@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Payment successful",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Amend or refund a driving charge",
+   "url": "/modes/driving/amend-or-refund-a-driving-charge"
+  },
+  {
+   "title": "Payment successful"
+  }
+ ],
+ "title": {
+  "title": "Payment successful",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Your charges have been amended. Your new charge details are shown below.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Automatically record the number of charging days your vehicle travels within Congestion Charge zone and the ULEZ (if your vehicle is subject) and then bill you each month\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Save on the Congestion Charge for each time you need to pay\",\"Only be charged if you travel in the zone - and you won't need to remember to pay the charges\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Out-of-station interchanges",
+ "keywords": "DLR passengers,London Overground passengers,Tube passengers,O,DLR,London Overground,Rail,Tube,TfL",
+ "description": "Full list of Out-of-Station Interchanges and the maximum times allowed",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Out-of-station interchanges"
+  }
+ ],
+ "title": {
+  "title": "Out-of-station interchanges",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Full list of out-of-station interchanges and the maximum times allowed.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our Oyster and contactless payment systems allow customers to interchange between stations, or parts of the same station in some cases, without being charged for two separate journeys. This is called an Out-of-Station-Interchange (OSI). For example, interchange is accommodated in either direction between Hammersmith (Circle/H\u0026C) and Hammersmith (District/Piccadilly) so that a customer using this interchange on a journey from, say, Goldhawk Road to Earls Court is charged for that one journey only. Across our Underground and Rail network we offer a similar but more limited arrangement for customers with paper tickets.",
+     "OSIs are time-limited to ensure only those genuinely passing through on a single journey benefit. In addition to those locations listed, we also have the flexibility to activate them on an ad hoc basis to reflect unusual interchanges during service disruption.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Out-of-station interchanges\",\"url\":\"/cdn/static/cms/documents/out-of-station-interchanges.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 17KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

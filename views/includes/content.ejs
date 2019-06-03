@@ -1,0 +1,16 @@
+<% if (card.texts) { %>
+  <% for (let text of card.texts) {
+    if (text.startsWith("{")) {
+      var o = JSON.parse(text); %>
+      <% if (o.template) { %>
+        <%- include(o.template, { o: o }) %>
+      <% } else { %>
+        <%- include('card', { card: o }) %>
+      <% } %>
+    <% } else if (text.startsWith("<ul")) { %> 
+      <%- text %>
+    <% } else { %> 
+      <p><%- text %></p>
+    <% } %>
+  <% } %>
+<% } %>

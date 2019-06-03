@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Travel Advice Blackwall Tunnel",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Travel Advice Blackwall Tunnel",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London (TfL) asks motorists to be aware of delays to the Blackwall Tunnel due to an incident in the tunnel",
+     "The northbound Blackwall Tunnel has been closed since 12.30 today due to a load which fell from a vehicle. The fire brigade and police have been on site to clear the scene as the load contained asbestos. TfL is currently on site to assess the air quality in the tunnel and once satisfied it is expected to re-open shortly before 7pm. Only the southbound tunnel is open at this stage.",
+     "Police are directing northbound traffic off the A2 at the Sun in Sands up Shooters Hill or across Blackheath."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

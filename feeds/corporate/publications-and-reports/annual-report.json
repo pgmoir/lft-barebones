@@ -1,0 +1,130 @@
+{
+ "pageTitle": "Annual Report",
+ "keywords": "Investors,Media,Public,A,Corporate information,Finance,Performance,Regular reports,Research,TfL",
+ "description": "These reports summarise the work we have done to improve London's transport network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Annual Report"
+  }
+ ],
+ "title": {
+  "title": "Annual Report",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our Annual Report summarises our achievements over the last financial year and the work we have done to improve your transport network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Year at a glance - 2017/18\"}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/april-2017.jpg\",\"alt\":\"New 'Please offer me a seat' badges help customers with invisible conditions\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/may-2017.jpg\",\"alt\":\"The new Samsung Pay app can be used for 'pay as you go' travel on our network\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/june-2017.jpg\",\"alt\":\"New trains that will serve the Elizabeth line run from Liverpool Street to Shenfield\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/july-2017.jpg\",\"alt\":\"A £42m fund will help taxi drivers replace the most polluting diesel cabs\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/august-2017.jpg\",\"alt\":\"Figures show the Night Tube boosted London's economy by £171m in its first year\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/september-2017.jpg\",\"alt\":\"Collecting anonymised WiFi connection data can help us improve the Tube\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/october-2017.jpg\",\"alt\":\"The T-Charge sets a tough emissions standard for older, more polluting vehicles\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/november-2017.jpg\",\"alt\":\"The second Oxford Street consultation outlines plans for the historic shopping avenue\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/december-2017.jpg\",\"alt\":\"London Overground's first 24-hour services start running at weekends\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/january-2018.jpg\",\"alt\":\"Hopper fare expands -  unlimited bus and tram journeys in an hour cost customers £1.50\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/february-2018.jpg\",\"alt\":\"Santander Cycles is extended to Brixton, with seven docking stations and 200 bikes\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/march-2018.jpg\",\"alt\":\"Bromley-by-Bow becomes the 73rd Tube station with step-free access\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2017/18 Annual Report and statement of accounts\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Annual Report and statement of accounts 2017/2018\",\"url\":\"/cdn/static/cms/documents/tfl-annual-report-and-statement-of-accounts-2017-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.05MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-annual-report-17-18-thumb.jpg\",\"alt\":\"Cover of TfL Annual Report 2017/18\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Annual Report",
+    "links": [
+     {
+      "title": "Annual Reports - past years",
+      "url": "/corporate/publications-and-reports/annual-reports-past-years",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Annual Report",
+     "url": "/corporate/publications-and-reports/annual-reports-past-years",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "About TfL",
+      "url": "/corporate/about-tfl/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Audit of accounts - Notice of public rights",
+      "url": "/corporate/transparency/audit-of-accounts---notice-of-public-rights",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Budget and Business Plan",
+      "url": "/corporate/publications-and-reports/business-plan",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Audit \u0026 Assurance committee",
+      "url": "/corporate/publications-and-reports/audit-and-assurance-committee",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "The Mayor's Transport Strategy",
+      "url": "/corporate/about-tfl/the-mayors-transport-strategy",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

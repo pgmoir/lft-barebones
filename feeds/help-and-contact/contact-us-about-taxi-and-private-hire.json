@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Contact us about taxi and private hire",
+ "keywords": "TfL,taxi private hire",
+ "description": "Contact us about taxi and private hire..",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Help \u0026 contacts",
+   "url": "/help-and-contact/index"
+  },
+  {
+   "title": "Contact us about taxi and private hire"
+  }
+ ],
+ "title": {
+  "title": "Contact us about taxi and private hire",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "\u003cbr /\u003eSend us your enquiry or feedback by using our web form.",
+     "We always prioritise safety-related matters, so please select the 'safety issues and incidents' option on the form below if you are reporting a safety concern.\u003cbr /\u003e\u003cbr /\u003eIn cases where a crime is suspected, there is a danger to life, or violence has been used then please call 999 to immediately report this to the police.",
+     "Thank you for taking the time to complete and submit one of our online forms. We will get back to you as soon as possible.",
+     "There was an error. Please try again.",
+     "Transport for London (TfL), its subsidiaries and service providers will use the information you provide on this form to process your comments. If you have made a complaint, we will investigate the incident that you have reported and may contact you to ask for further information or to provide you with feedback. On some occasions, we may need to share your information with associated organisations or their agents for these purposes. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data, see our \u003ca href=\"/corporate/privacy-and-cookies/index\"target=\"_blank\"\u003ePrivacy and cookies pages\u003c/a\u003e .",
+     "Please let us know the pier location or journey made.",
+     "If you have witnessed a road traffic incident or an offence on the roads then this can be reported directly to the \u003ca href=\"https://www.met.police.uk/roadsafelondon/\"\u003epolice\u003c/a\u003e .",
+     "For all other enquiries, positive feedback or complaints (including those relating to the \u003ca href=\"http://www.legislation.gov.uk/ukpga/2010/15/part/12/chapter/1\"\u003eEquality Act 2010\u003c/a\u003e ) then please use our web form below.",
+     "Tell us in your own words about the service or incident you want to comment on or submit a complaint about. include contact details of police or any witnesses if needed."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

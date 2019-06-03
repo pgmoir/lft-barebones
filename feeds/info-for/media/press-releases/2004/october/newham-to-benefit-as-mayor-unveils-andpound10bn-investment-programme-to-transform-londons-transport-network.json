@@ -1,0 +1,72 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Newham to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Newham is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Newham and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Newham on the move.\"",
+     "The main benefits for Newham included in TfL's 5 Year Capital Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the Thames Gateway Bridge, connecting Beckton and Thamesmead with four lanes for general traffic as well as separate lanes for public transport, pedestrians and cyclists;\",\"Docklands Light Railway - extension of the London City Airport line to Woolwich Arsenal with delivery of a further proposal to extend the DLR from Canning Town to Stratford and Stratford International, with three new stations, opening in late 2009;\",\"a new package of improvements for Silverlink Metro services including station and security enhancements such as better CCTV and lighting, graffiti cleaning and the extension of station staffing hours providing a greater presence early in the morning and later at night;\",\"the option of extending the DLR to Barking Reach will be funded to design and powers stage;\"]}",
+     "In addition, the following improvements to Central, District, Hammersmith \u0026 City, and Jubilee Lines and stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"station refurbishments to Plaistow (completed 2005); Canning Town, Stratford and West Ham (completed 2007 - 2010);\",\"on the District Line all 75 trains to be refurbished by 2009, including access for wheelchairs; audio and video information systems installed and refurbished seats and interiors;\",\"the first new air-cooled trains to be introduced on the Metropolitan line in 2009;\",\"Central Line upgrade (2006) improving journey times;\",\"Jubilee line to be improved with the addition of a seventh car to be added to trains and new signalling system with a total increase in capacity of 48 percent.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Newham's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Newham by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded, includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"increased frequencies and new low floor, fully accessible buses on 15 routes, four new links added to existing routes, the introduction of one new route (323) and four night bus routes (N101, N108, N58 and N69);\",\"major upgrade works to the A13 Thames Gateway corridor including improvements to four key junctions due for completion by summer 2005; and\",\"improvements to rail services on the North London Line between Richmond and North Woolwich including increased Saturday services, additional evening peak services (weekday) and CCTV on all trains;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

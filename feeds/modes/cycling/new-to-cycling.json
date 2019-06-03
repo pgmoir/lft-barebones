@@ -1,0 +1,178 @@
+{
+ "pageTitle": "Get started with cycling",
+ "keywords": "TfL",
+ "description": "Information for new cyclists in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Get started with cycling"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Get started with cycling",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/bikes-flowers-header-small.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "If you're thinking about starting cycling, we're here to help. We offer free Cycle Skills lessons, give advice on how to protect your bike and have some great guides for when you're ready to take to the road."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Brush up on your cycling skills",
+    "texts": [
+     "Book a session now"
+    ],
+    "link": {
+     "url": "/modes/cycling/cycling-in-london/cycle-skills",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/bike-landing_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Cycling tips and advice",
+    "texts": [
+     "Guides to help you feel at ease on the road"
+    ],
+    "link": {
+     "url": "/modes/cycling/cycling-advice",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/bikes_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "New to cycling stories",
+    "texts": [
+     "How cyclists in the city got started"
+    ],
+    "link": {
+     "url": "/modes/cycling/cycling-in-london/rider-profiles",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/womens-tour-isabelle-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Try out cycling",
+    "texts": [
+     "Hire a bike with Santander Cycles"
+    ],
+    "link": {
+     "url": "/modes/cycling/santander-cycles",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-hyde-park_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "New Cycle Superhighway open",
+    "texts": [
+     "Explore Cycle Superhighway 6, a route from Elephant and Castle to King's Cross"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycle-superhighway-farringdon-road_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "New Quietways open",
+    "texts": [
+     "Explore these easy to follow cycle routes on quieter backstreets across London"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/quietways",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-quietway-two_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Short and scenic cycle rides",
+      "url": "https://londonblog.tfl.gov.uk/2017/07/21/short-and-scenic-routes-the-wandle-trail/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+<% if (rhnav.cards) { %>
+  <div class="col-12 col-lg-4" role="complementary">
+      <h2 class="sr-only">Complementary features and navigation</h2>
+        <!-- right hand nav bit -->
+        <% for (let card of rhnav.cards) { %>
+          <% if (card.template === undefined || card.template === "") { %>
+            <%- include('card', { card: card }) %>
+          <% } else if (card.template === "socialmediashare") { %>
+            <%- include('socialmediashare', { card: card, pageTitle: pageTitle, fullUrl: fullUrl }) %>
+          <% } else { %>
+            <%- include(card.template, { card: card }) %>
+          <% } %>
+        <% } %>
+    </div>    
+<% } %>

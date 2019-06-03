@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Half way along the consultation route",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Half way along the consultation route",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "More than 12,600 people have given their views so far in TfL's public consultation on the proposed West London Tram."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "TfL's head of group public affairs, Bill Hamilton said:",
+     "'We've had a fantastic response to the public consultation so far, with 21,000 visitors to the website, 4,700 visitors to the roadshows and more than 12,600 questionnaires received.",
+     "\u003cstrong\u003e'The roadshows have proven extremely popular and in fact, 580 people visited our latest roadshow at the London Mela, the highest number of visitors to any of the roadshows so far. There are still 14 roadshows to go and these will be running in locations throughout West London until early October.'\u003c/strong\u003e ",
+     "The public consultation on the proposed West London Tram runs until 8 October.",
+     "For further information, please contact TfL press office on 020 7941 4141.",
+     "Consultation materials and a phone line have been produced in the GLA's 10 priority languages: Arabic, Chinese, Gujarati, Punjabi, Urdu, Bengali, Greek, Hindi, Turkish and Vietnamese, and English. A phone line has also been set up for people who speak these languages.\u003cbr /\u003e",
+     "All consultation materials are available in Braille and on audio tape.\u003cbr /\u003e",
+     "WLT roadshows still to come:\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"3 September Sainsbury's, 31 Essex Place, near Chiswick Park Tube\",\"4 September, inside West 12 Shopping Centre, Shepherd's Bush Green\",\"6-7 September St. Mary's Church, Acton Town Square\",\"11-12 September Iceland/ Quality Foods, 47-61 South Road, Southall\",\"14 September Sainsbury's, Lombardy Retail Park, Coldharbour Lane, Hayes\",\"22 September Kensington Town Hall, The Courtyard, Hornton Street\",\"24-25 September Waitrose, 2 Alexandria Road, West Ealing\",\"28-29 September Sainsbury's, York Road, Uxbridge town centre\",\"1-2 October Ealing Town Hall, New Broadway, Ealing\\u003cbr /\\u003e\"]}",
+     "The breakdown of roadshows visitor numbers is as follows:",
+     "{\"template\":\"table\",\"titles\":[\"Roadshow\",\"Approximate attendees\"],\"rows\":[[],[\"Acton\",\"300\"],[\"Acton\",\"300\"],[\"Ealing\",\"570\"],[\"Ealing\",\"460\"],[\"Shepherd's Bush\",\"200\"],[\"Shepherd's Bush\",\"330\"],[\"Southall\",\"330\"],[\"Southall\",\"240\"],[\"Hayes\",\"230\"],[\"Hayes\",\"230\"],[\"West Ealing\",\"380\"],[\"West Ealing\",\"260\"],[\"Uxbridge\",\"170\"],[\"Uxbridge\",\"150\"],[\"Mela\",\"580\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Enhanced voice recognition technology and text service on TfL information line",
+ "description": "Voice recognition software has been upgraded so that it now recognises postcodes as well as stations and points of interest. Detailed travel directions incorporating any walking, bus, Tube and rail segments have also now been made available via text",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Enhanced voice recognition technology and text service on TfL information line",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is making it quicker for passengers to get hold of the latest travel information over the phone, with SMS messages an option."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "'The enhanced voice recognition technology will mean callers can pin point locations and destinations more quickly and receive more detailed information to plan their journeys, such as how far to walk to the nearest station.",
+     "Voice recognition software has been upgraded so that it now recognises postcodes as well as stations and points of interest.",
+     "Detailed travel directions incorporating any walking, bus, Tube and rail segments have also now been made available via text message if the customer is calling from a mobile.",
+     "The new service will mean passengers can get all the information they need to plan their whole journey without the need to speak to an operator, which will speed up call times.",
+     "However the option of speaking to a dedicated customer services operator will still be available if required and journey planning information can also be sought from staff at any Tube or rail station and from the TfL website \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003etfl.gov.uk/journeyplanner\u003c/a\u003e .",
+     "Ian Henderson, TfL's Director of Group Customer Services, said: 'We expect our travel information service improvements to provide customers with a faster and more comprehensive service even when demand is high.",
+     "'The enhanced voice recognition technology will mean callers can pin point locations and destinations more quickly and receive more detailed information to plan their journeys, such as how far to walk to the nearest station.",
+     "'With the new text service, customers can also receive and save journey planning information for future reference.'",
+     "TfL's Travel Information service can be accessed by calling 0843 222 1234.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Calls to the 0843 number will cost up to 5p per minute for BT customers and calls made using other service providers or mobiles may cost more. There may also be a connection charge depending on the service provider\",\"Mobile phone call tariffs are set by telephone operators and TfL takes just a few pence from each call to cover the costs of running the improved service; TfL does not profit from call charges\",\"For mobile phone users who request the SMS service, the cost of the message will be at standard tariff rate and will provide up to a maximum of two messages dependant on the complexity of the journey information\",\"In 2010 TfL began improving its Travel Information phone service by shifting from a London-based 0207 number, which was only able to accept 60 calls at a time, to a non-geographical digital system which enables unlimited calls to be answered simultaneously, providing a faster and more efficient service\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

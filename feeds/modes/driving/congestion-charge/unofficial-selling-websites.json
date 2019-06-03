@@ -1,0 +1,166 @@
+{
+ "pageTitle": "Unofficial selling websites",
+ "keywords": "Drivers,Congestion Charge,Driving,TfL",
+ "description": "Please only pay the central London Congestion Charge on the official TfL website",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Unofficial selling websites"
+  }
+ ],
+ "title": {
+  "title": "Unofficial selling websites",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Unofficial websites selling the Congestion Charge often charge a premium on top of what you would pay through our official online payment process. They also frequently make misleading claims.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Make sure you only use the official TfL service when \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003epaying the Congestion Charge\u003c/a\u003e .",
+     "Unfortunately internet search engines do not always  put our Congestion Charge pages at the top of their search results. This means you may find yourself being offered one of  many unofficial online payment sites.",
+     "These sites are not operating with approval from us and make claims that they are offering additional services. These services are either non-existent or are already provided by TfL  without charge.",
+     "Unofficial sites can charge a premium of up to £8 extra for the daily Congestion Charge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Risks of unofficial sites\"}",
+     "Unofficial sites take a payment from you and then make a payment to TfL on your behalf. There have been cases where these sites have not paid the Congestion Charge on behalf of their customers. This has led to drivers receiving Penalty Charge Notices (PCNs).",
+     "In other situations these sites have taken payment for a day where no charge applies, such as a bank holiday.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"A guide to misleading claims\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Misleading 'instant' confirmation of payment of the Congestion Charge\"}",
+     "The payment confirmation you may receive via SMS or email from unofficial websites only confirms that you have paid the website operator.",
+     "It does not provide any assurance that the Congestion Charge has been paid to us, irrespective of what is claimed in the email or SMS message.",
+     "We usually provide confirmation that we have accepted payment of the Congestion Charge within a few minutes of receiving the payment.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Misleading claims that a website will check your vehicle registration details\"}",
+     "The TfL website will not accept payment unless all of the vehicle registration information required to make a Congestion Charge payment is entered. Unofficial websites cannot offer more checks on an application than we provide on the TfL website.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Misleading claims of penalty charge reimbursement/guarantee of payment\"}",
+     "Unofficial websites claim they will pay a fine on your behalf if the incorrect vehicle registration details have been supplied such as an '0' instead of an 'O' or 'I' instead of '1'.",
+     "However the small print usually places the onus on you to ensure that you have entered the correct details. The unofficial site will not pay a PCN if you have paid the Congestion Charge for the incorrect vehicle in error. This is in contradiction to the offers made by these websites.",
+     "They also do not offer full reimbursement/payment for any PCNs incurred.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Use of premium rate telephone numbers\"}",
+     "Some unofficial websites offer a telephone service but the telephone number is a premium rate number that automatically connects the caller to TfL and not the owners of the unofficial site.",
+     "You can call us using the low rate number 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) and avoid paying for a premium rate call.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Misleading information about a 24-hour email service for customers\"}",
+     "Some unofficial websites claim to offer '24-hour phone support' but do not provide telephone numbers to contact them. Instead they provide TfL's telephone number.",
+     "Our telephone lines are open Monday to Friday: 08:00-20:00, closed on weekends and bank holidays.",
+     "The TfL website provides a postcode search tool and an interactive map which allows you to check free of charge whether your journey and destination are within the Congestion Charge zone. The unofficial websites do not offer any better means of checking this.",
+     "Information is also available free on the TfL website 24 hours a day.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Misleading claim about 'not sharing personal data with others as TfL does'\"}",
+     "In accordance with the Data Protection Act and our internal policies we do not keep the names associated with credit or debit cards used to pay the Congestion Charge. This applies regardless of who makes the payment.",
+     "All personal information is held and processed in accordance with the requirements of the Data Protection Act 1998 and in relation to credit or debit card information and the PCI (Payment Card Industry) rules.",
+     "If the police or other enforcement agency want to obtain any personal information, they can apply for a court order to release it. Unofficial websites would have to comply in the same way we would.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"3DSecure payment processing\"}",
+     "Some websites say that they offer 3DSecure payment processing and that TfL does not. This is false. TfL does offer a secure 3D payment system.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Protecting you from unofficial sites\"}",
+     "We continually work with search engine companies such as Google, as well as Trading Standards and the Advertising Standards Authority to try to remedy the situation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Privacy and data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge terms and conditions",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

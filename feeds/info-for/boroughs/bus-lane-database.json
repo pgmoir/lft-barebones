@@ -1,0 +1,155 @@
+{
+ "pageTitle": "Bus lane database",
+ "keywords": "TfL",
+ "description": "We share our database of bus lane information - including locations and operating hours - with boroughs",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Bus lane database"
+  }
+ ],
+ "title": {
+  "title": "Bus lane database",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We monitor the locations, dimensions, operational hours and other characteristics of bus lanes in London. This information is available to relevant public bodies including London boroughs.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The database cannot be accessed directly by the general public.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Borough access to the database\"}",
+     "Borough officers can access the database through the T-Snap/Citrix remote access server. Any officers who do not have access to this already and want to use the database can email \u003ca href=\"mailto:BusLaneDatabase@tfl.gov.uk\"\u003eBusLaneDatabase@tfl.gov.uk\u003c/a\u003e .",
+     "The database will be updated regularly to capture any changes such as population/bus passenger increases. We welcome any information from Boroughs that could help us keep the database up to date.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Information for the public\"}",
+     "Members of the public who need information either from the bus lane database or about individual Traffic Regulation Orders for bus lanes on TfL-managed roads can \u003ca href=\"/help-and-contact/index\"\u003euse our contact form on Help \u0026 contact\u003c/a\u003e .",
+     "Information about these roads is on the \u003ca href=\"/modes/driving/red-routes\"\u003eRed routes pages\u003c/a\u003e . All other roads are the responsibility of the relevant highway authority, usually the local borough.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the database\"}",
+     "The bus lane database is used for reporting purposes and includes information on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus routes\",\"Bus lane, bus gate and bus-only road locations\",\"Hours of operation\",\"Permitted users\"]}",
+     "Users can filter the database by borough, road type, and operational hours. The bus lanes can be viewed on a map and the database generates printable reports."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Sub-regional transport planning",
+      "url": "/info-for/boroughs/sub-regional-transport-planning",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Healthy Workplace Charter",
+      "url": "/info-for/boroughs/healthy-workplace-charter",
+      "image": {}
+     },
+     {
+      "title": "Cycling Toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Safety",
+      "url": "/info-for/boroughs/safety",
+      "image": {}
+     },
+     {
+      "title": "Street Types for London",
+      "url": "/info-for/boroughs/street-types",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

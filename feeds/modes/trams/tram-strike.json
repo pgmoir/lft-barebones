@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Tram strike",
+ "keywords": "TfL",
+ "description": "Tram strike travel advice",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Trams",
+   "url": "/modes/trams/index"
+  },
+  {
+   "title": "Tram strike"
+  }
+ ],
+ "title": {
+  "title": "Tram strike",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A strike is planned on the London Tram network in Croydon on Wednesday 22 May and Thursday 23 May. If it goes ahead, services will be affected all day for both days. Tram services will resume as normal from the start of traffic on Friday 24 May.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strike over\"}",
+     "The two-day tram strike on Wednesday 22-Thursday 23 May is now over. Services resume as normal from the start of traffic on Friday 24 May."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

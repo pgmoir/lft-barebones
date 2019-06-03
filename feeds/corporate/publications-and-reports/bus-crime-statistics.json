@@ -1,0 +1,150 @@
+{
+ "pageTitle": "Bus crime statistics",
+ "keywords": "Bus operators,Bus passengers,Public,B,Performance,Safety and security,Buses,TfL",
+ "description": "Bus-related crime statistics by borough",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Bus crime statistics"
+  }
+ ],
+ "title": {
+  "title": "Bus crime statistics",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We publish bus-related crime data by borough, based on figures provided by the Metropolitan Police Service which polices the bus network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Bus-related crime data is extracted from the Metropolitan Police Service crime reporting system, using a query that searches for the word bus, bus stop etc. For this reason, it may include some crimes that did not occur on the network. Checks of the data have showed it to be over 90% accurate.",
+     "The figures do not include crimes that have not been reported to the police or those that the police decide not to record. Crime figures reported here are based on monthly snapshot figures and may be subject to revision in future updates.",
+     "Open the panels below for a table of crime statistics by borough.",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"9\",\"16\",\"-7\"],[\"0\",\"8\",\"9\",\"-1\"],[\"2\",\"21\",\"17\",\"4\"],[\"4\",\"11\",\"8\",\"3\"],[\"11\",\"72\",\"70\",\"2\"],[\"7\",\"84\",\"70\",\"14\"],[\"24\",\"205\",\"190\",\"15\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"16\",\"25\",\"-9\"],[\"0\",\"7\",\"17\",\"-10\"],[\"1\",\"27\",\"20\",\"7\"],[\"1\",\"11\",\"30\",\"-19\"],[\"7\",\"129\",\"136\",\"-7\"],[\"21\",\"169\",\"154\",\"15\"],[\"31\",\"359\",\"382\",\"-23\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"24\",\"30\",\"-6\"],[\"0\",\"2\",\"3\",\"-1\"],[\"4\",\"14\",\"2\",\"12\"],[\"1\",\"9\",\"11\",\"-2\"],[\"7\",\"39\",\"32\",\"7\"],[\"9\",\"82\",\"86\",\"-4\"],[\"21\",\"170\",\"164\",\"6\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"15\",\"19\",\"-4\"],[\"1\",\"15\",\"10\",\"5\"],[\"4\",\"25\",\"44\",\"-19\"],[\"0\",\"28\",\"20\",\"8\"],[\"18\",\"186\",\"163\",\"23\"],[\"17\",\"188\",\"190\",\"-2\"],[\"41\",\"457\",\"446\",\"11\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"19\",\"32\",\"-13\"],[\"0\",\"4\",\"8\",\"-4\"],[\"1\",\"7\",\"14\",\"-7\"],[\"1\",\"9\",\"15\",\"-6\"],[\"4\",\"56\",\"56\",\"0\"],[\"9\",\"105\",\"123\",\"-18\"],[\"15\",\"200\",\"248\",\"-48\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"11\",\"19\",\"-8\"],[\"0\",\"5\",\"8\",\"-3\"],[\"1\",\"31\",\"59\",\"-28\"],[\"3\",\"18\",\"32\",\"-14\"],[\"30\",\"274\",\"440\",\"-166\"],[\"14\",\"136\",\"201\",\"-65\"],[\"49\",\"475\",\"759\",\"-284\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"11\",\"21\",\"-10\"],[\"0\",\"10\",\"32\",\"-22\"],[\"6\",\"36\",\"17\",\"19\"],[\"5\",\"21\",\"19\",\"2\"],[\"17\",\"110\",\"91\",\"19\"],[\"16\",\"159\",\"208\",\"-49\"],[\"45\",\"347\",\"388\",\"-41\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"8\",\"30\",\"-22\"],[\"1\",\"7\",\"10\",\"-3\"],[\"8\",\"23\",\"17\",\"6\"],[\"3\",\"20\",\"29\",\"-9\"],[\"13\",\"145\",\"129\",\"16\"],[\"18\",\"135\",\"191\",\"-56\"],[\"43\",\"338\",\"406\",\"-68\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"6\",\"11\",\"-5\"],[\"0\",\"2\",\"35\",\"-33\"],[\"5\",\"59\",\"18\",\"41\"],[\"5\",\"22\",\"9\",\"13\"],[\"25\",\"158\",\"126\",\"32\"],[\"23\",\"144\",\"132\",\"12\"],[\"58\",\"391\",\"331\",\"60\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"3\",\"20\",\"30\",\"-10\"],[\"0\",\"7\",\"10\",\"-3\"],[\"3\",\"24\",\"18\",\"6\"],[\"3\",\"25\",\"17\",\"8\"],[\"9\",\"100\",\"83\",\"17\"],[\"19\",\"165\",\"162\",\"3\"],[\"37\",\"341\",\"320\",\"21\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"14\",\"34\",\"-20\"],[\"0\",\"13\",\"31\",\"-18\"],[\"10\",\"49\",\"19\",\"30\"],[\"3\",\"19\",\"20\",\"-1\"],[\"37\",\"308\",\"367\",\"-59\"],[\"22\",\"209\",\"187\",\"22\"],[\"73\",\"612\",\"658\",\"-46\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"5\",\"12\",\"-7\"],[\"0\",\"5\",\"11\",\"-6\"],[\"3\",\"11\",\"19\",\"-8\"],[\"1\",\"14\",\"11\",\"3\"],[\"9\",\"94\",\"115\",\"-21\"],[\"12\",\"131\",\"139\",\"-8\"],[\"26\",\"260\",\"307\",\"-47\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"2\",\"14\",\"31\",\"-17\"],[\"0\",\"5\",\"11\",\"-6\"],[\"15\",\"68\",\"60\",\"8\"],[\"4\",\"37\",\"25\",\"12\"],[\"47\",\"318\",\"319\",\"-1\"],[\"25\",\"191\",\"194\",\"-3\"],[\"93\",\"633\",\"640\",\"-7\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"9\",\"9\",\"0\"],[\"2\",\"5\",\"11\",\"-6\"],[\"1\",\"9\",\"5\",\"4\"],[\"3\",\"18\",\"13\",\"5\"],[\"7\",\"61\",\"48\",\"13\"],[\"11\",\"83\",\"75\",\"8\"],[\"25\",\"185\",\"161\",\"24\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"17\",\"23\",\"-6\"],[\"0\",\"5\",\"4\",\"1\"],[\"3\",\"21\",\"15\",\"6\"],[\"3\",\"12\",\"15\",\"-3\"],[\"1\",\"47\",\"52\",\"-5\"],[\"8\",\"97\",\"125\",\"-28\"],[\"16\",\"199\",\"234\",\"-35\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"23\",\"27\",\"-4\"],[\"0\",\"11\",\"37\",\"-26\"],[\"2\",\"17\",\"14\",\"3\"],[\"3\",\"16\",\"14\",\"2\"],[\"9\",\"86\",\"82\",\"4\"],[\"20\",\"129\",\"147\",\"-18\"],[\"34\",\"282\",\"321\",\"-39\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"11\",\"13\",\"-2\"],[\"0\",\"7\",\"7\",\"0\"],[\"3\",\"14\",\"11\",\"3\"],[\"4\",\"18\",\"11\",\"7\"],[\"8\",\"81\",\"87\",\"-6\"],[\"12\",\"107\",\"125\",\"-18\"],[\"27\",\"238\",\"254\",\"-16\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"7\",\"18\",\"-11\"],[\"1\",\"6\",\"4\",\"2\"],[\"3\",\"36\",\"47\",\"-11\"],[\"2\",\"17\",\"15\",\"2\"],[\"27\",\"268\",\"324\",\"-56\"],[\"11\",\"140\",\"145\",\"-5\"],[\"44\",\"474\",\"553\",\"-79\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"3\",\"6\",\"-3\"],[\"0\",\"5\",\"3\",\"2\"],[\"1\",\"13\",\"3\",\"10\"],[\"0\",\"4\",\"11\",\"-7\"],[\"8\",\"92\",\"110\",\"-18\"],[\"4\",\"68\",\"74\",\"-6\"],[\"13\",\"185\",\"207\",\"-22\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"2\",\"11\",\"10\",\"1\"],[\"0\",\"6\",\"4\",\"2\"],[\"0\",\"7\",\"3\",\"4\"],[\"0\",\"13\",\"11\",\"2\"],[\"10\",\"62\",\"36\",\"26\"],[\"9\",\"72\",\"71\",\"1\"],[\"21\",\"171\",\"135\",\"36\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"24\",\"32\",\"-8\"],[\"3\",\"16\",\"31\",\"-15\"],[\"3\",\"37\",\"40\",\"-3\"],[\"2\",\"25\",\"21\",\"4\"],[\"38\",\"278\",\"260\",\"18\"],[\"23\",\"248\",\"279\",\"-31\"],[\"69\",\"628\",\"663\",\"-35\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"7\",\"29\",\"-22\"],[\"0\",\"13\",\"12\",\"1\"],[\"7\",\"42\",\"31\",\"11\"],[\"1\",\"23\",\"19\",\"4\"],[\"19\",\"145\",\"151\",\"-6\"],[\"23\",\"167\",\"177\",\"-10\"],[\"51\",\"397\",\"419\",\"-22\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"8\",\"5\",\"3\"],[\"0\",\"4\",\"3\",\"1\"],[\"0\",\"3\",\"16\",\"-13\"],[\"2\",\"12\",\"6\",\"6\"],[\"6\",\"50\",\"46\",\"4\"],[\"10\",\"87\",\"76\",\"11\"],[\"19\",\"164\",\"152\",\"12\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"25\",\"30\",\"-5\"],[\"0\",\"15\",\"20\",\"-5\"],[\"9\",\"43\",\"54\",\"-11\"],[\"1\",\"24\",\"29\",\"-5\"],[\"35\",\"296\",\"188\",\"108\"],[\"18\",\"179\",\"160\",\"19\"],[\"64\",\"582\",\"481\",\"101\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"5\",\"15\",\"-10\"],[\"2\",\"5\",\"3\",\"2\"],[\"7\",\"28\",\"33\",\"-5\"],[\"2\",\"14\",\"9\",\"5\"],[\"17\",\"131\",\"131\",\"0\"],[\"9\",\"82\",\"83\",\"-1\"],[\"38\",\"265\",\"274\",\"-9\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"18\",\"8\",\"10\"],[\"0\",\"2\",\"3\",\"-1\"],[\"1\",\"6\",\"5\",\"1\"],[\"0\",\"8\",\"5\",\"3\"],[\"8\",\"49\",\"41\",\"8\"],[\"5\",\"69\",\"58\",\"11\"],[\"15\",\"152\",\"120\",\"32\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"3\",\"25\",\"33\",\"-8\"],[\"0\",\"11\",\"10\",\"1\"],[\"6\",\"57\",\"55\",\"2\"],[\"3\",\"28\",\"25\",\"3\"],[\"32\",\"281\",\"255\",\"26\"],[\"19\",\"208\",\"281\",\"-73\"],[\"63\",\"610\",\"659\",\"-49\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"9\",\"5\",\"4\"],[\"0\",\"3\",\"2\",\"1\"],[\"4\",\"13\",\"10\",\"3\"],[\"0\",\"3\",\"5\",\"-2\"],[\"4\",\"29\",\"18\",\"11\"],[\"9\",\"56\",\"61\",\"-5\"],[\"18\",\"113\",\"101\",\"12\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"13\",\"14\",\"-1\"],[\"2\",\"6\",\"3\",\"3\"],[\"1\",\"21\",\"19\",\"2\"],[\"0\",\"12\",\"15\",\"-3\"],[\"13\",\"170\",\"144\",\"26\"],[\"13\",\"125\",\"133\",\"-8\"],[\"30\",\"347\",\"328\",\"19\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"3\",\"16\",\"21\",\"-5\"],[\"0\",\"15\",\"30\",\"-15\"],[\"1\",\"28\",\"22\",\"6\"],[\"0\",\"17\",\"19\",\"-2\"],[\"17\",\"142\",\"142\",\"0\"],[\"17\",\"140\",\"138\",\"2\"],[\"38\",\"358\",\"372\",\"-14\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"0\",\"5\",\"14\",\"-9\"],[\"0\",\"4\",\"7\",\"-3\"],[\"0\",\"10\",\"20\",\"-10\"],[\"2\",\"22\",\"24\",\"-2\"],[\"11\",\"135\",\"143\",\"-8\"],[\"11\",\"125\",\"146\",\"-21\"],[\"24\",\"301\",\"354\",\"-53\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Crime Type\",\"December 2018\",\"Apr-Dec 2018\",\"Apr-Dec 2017\",\"Change\",\"Criminal Damage\",\"Other Notifiable Offences\",\"Robbery\",\"Sexual Offences\",\"Theft and Handling\",\"Violence against the Person\",\"Total\",\"\",\"\"],\"rows\":[[],[\"1\",\"20\",\"36\",\"-16\"],[\"2\",\"13\",\"25\",\"-12\"],[\"18\",\"56\",\"46\",\"10\"],[\"0\",\"14\",\"33\",\"-19\"],[\"48\",\"359\",\"531\",\"-172\"],[\"28\",\"199\",\"294\",\"-95\"],[\"97\",\"661\",\"965\",\"-304\"],[\"\",\"\",\"\",\"\"],[\"\",\"\",\"\",\"\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Security on the network",
+      "url": "/corporate/safety-and-security/security-on-the-network",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "British Transport Police statistics",
+      "url": "http://crimemaps.btp.police.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Metropolitan Police crime statistics",
+      "url": "http://maps.met.police.uk/tables.htm",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

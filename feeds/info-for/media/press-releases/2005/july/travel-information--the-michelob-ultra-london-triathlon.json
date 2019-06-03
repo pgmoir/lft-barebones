@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Travel information - the Michelob Ultra London Triathlon",
+ "description": "With over 10,000 participants, the Michelob Ultra London Triathlon will be centred around London Docklands and the ExCeL exhibition centre, with competitors racing along the Embankment to Big Ben on the Sunday.Some central London roads will be closed to",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Travel information - the Michelob Ultra London Triathlon",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Next weekend (6th and 7th August), the largest triathlon in the world takes place in London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Tower Bridge will be closed to traffic but will remain open to pedestrians",
+     "With over 10,000 participants, the Michelob Ultra London Triathlon will be centred around London Docklands and the ExCeL exhibition centre, with competitors racing along the Embankment to Big Ben on the Sunday.",
+     "Some central London roads will be closed to traffic for safety reasons and will remain closed until crowds have dispersed.",
+     "People are advised not to drive into central London or the Docklands unless absolutely necessary and to allow extra time for their journeys.",
+     "As a result, some buses will be on diversion around the area and certain Tube lines and stations do remain closed after recent events.",
+     "Those that want to cheer on the triathletes are advised to check Transport for London's Journey Planner service online at \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003ewww.tfl.gov.uk/journeyplanner\u003c/a\u003e or contact the London Travel Information line on 020 7222 1234 for up-to-the-minute travel information.",
+     "While Tower Bridge will be closed to traffic, it will remain open to pedestrians as a visitor attraction.",
+     "Road closures and diversions",
+     "\u003cstrong\u003eSaturday 6th August\u003c/strong\u003e \u003cbr /\u003eTo accommodate the London Triathlon the following roads will be affected:",
+     "{\"template\":\"bulletlist\",\"items\":[\"All roads within the ExCeL exhibition centre will have restrictions / closures\",\"Access will be for parking only (no through route)\",\"Tidal Basin Road will be closed to Lower Lea Crossing\",\"Lower Lea Crossing is closed Eastbound but will allow single lane traffic Westbound\",\"Royal Albert Way dual carriageway is closed in both directions between Gallions roundabout and Connaught Bridge\",\"These closures will be from 0600hrs on Saturday 6 August until 2000hrs on Sunday 7 August\"]}",
+     "\u003cstrong\u003eSunday 7th August\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Victoria Embankment Closed to Blackfriars Bridge from 0600hrs - 1200hrs\",\"East of Blackfriars Bridge, Upper Thames Street, Lower Thames Street to Tower Hill \\u0026 East Smithfield will be closed Westbound from 0600hrs - 1200hrs\",\"The Highway to the Limehouse Link Tunnel will be closed Westbound from 0600hrs to 1800hrs\",\"Westbound 'bore' of the Limehouse Link tunnel closed from 0600hrs - 1800hrs\",\"Southwark Bridge will be closed from 0600hrs - 1200hrs\",\"Tower Bridge will be closed from 0600hrs - 1200hrs\",\"Upper and Lower Thames Street closed Westbound - Eastbound traffic can travel via London Wall A1211 and Holborn Viaduct A40\",\"The Highway between Tower Bridge and Limehouse Link is open Eastbound - all westbound traffic will be diverted onto the A13\",\"The A13 is not part of the closures but please allow extra time as traffic is likely to be heavier in both directions\",\"Areas adjoining The Highway's Westbound carriageway will have crossing points controlled by the Metropolitan Police at Glamis Road and Vaughan Way from 0600hrs - 1200hrs\",\"From 1200hrs the Vaughan Way junction will provide unhindered access to and from Wapping via East Smithfield and Dock Street. From this point the Glamis Road crossing point will close\",\"Eastbound Limehouse Link tunnel is open throughout the day\",\"The Rotherhithe and Blackwall Tunnels are unaffected by the event\",\"Lower Lea Crossing is closed Eastbound but will allow single lane traffic Westbound via Aspen Way on Saturday and Sunday\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The following bus routes will be on diversion: 8, 11, 15, 21, 25, 26, 35, 40, 42, 43, 47, 48, 67, 76, 78, 100, 133, 141, 149, 172, 188, 242, 253, 277, 300, 343, 344, 376, 381, D3, RV1\",\"For full travel information and details of road closures visit \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003ewww.tfl.gov.uk\\u003c/a\\u003e \",\"The Michelob ULTRA Triathlon will take place at ExCel, Royal Victoria Dock, on 6 and 7 August\",\"For further information please go to \\u003ca href=\\\"http://www.thelondontriathlon.com\\\"\\u003ewww.thelondontriathlon.com\\u003c/a\\u003e \",\"Contacts for the Michelob ULTRA London Triathlon: Nick Garcia on 020 7559 2807 or Julie Lloyd-Davies on 020 559 2808.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

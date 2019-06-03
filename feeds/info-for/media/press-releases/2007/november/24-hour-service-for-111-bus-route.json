@@ -1,0 +1,72 @@
+{
+ "pageTitle": "24 hour service for 111 bus route",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "24 hour service for 111 bus route",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The 111 bus route, which runs between Cromwell Road in Kingston and Heathrow Airport, will run 24 hours a day from Saturday 1 December."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The route will provide a half hourly service throughout the night, seven days a week.",
+     "It will improve night time links from Kingston to Hampton, Feltham, Hounslow and Heathrow Airport.",
+     "John Barry, Head of Network Development for London Buses, said: \"The new 24 hour service on route 111 is another accessible transport connection for late-night travellers in the Capital.",
+     "\"London's night bus network has expanded dramatically in recent years with passenger numbers more than doubling since 2000.",
+     "\"Almost half the users are people travelling to or from work.\"",
+     "The change comes following a review of the existing service.",
+     "Kingston Council and the Kingston Town Centre Manager have also requested a 24 hour service on the route.",
+     "The change is in line with the Kingston Crime and Disorder Strategy which aims to help people get home quickly and safely at night.",
+     "\u003cstrong\u003eNotes to editors\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"All London's buses have in-vehicle CCTV and all except the Heritage Routemasters are accessible to wheelchair users\",\"With more than 8000 buses on approximately 700 routes the London bus network has seen usage increase by 45 per cent since 1999/2000\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

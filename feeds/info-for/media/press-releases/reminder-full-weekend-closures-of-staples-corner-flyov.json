@@ -1,0 +1,236 @@
+{
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2017",
+   "url": "/info-for/media/press-releases/2017"
+  },
+  {
+   "title": "August",
+   "url": "/info-for/media/press-releases/2017/august"
+  },
+  {
+   "title": "REMINDER: Full weekend closures of Staples Corner Flyover"
+  }
+ ],
+ "title": {
+  "title": "REMINDER: Full weekend closures of Staples Corner Flyover ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London (TfL) is reminding London's road users that the Staples Corner Flyover on the North Circular (A406) will be closed for three weekends in September for essential refurbishment.",
+     "During the closures all main and local roads in the surrounding area will be extremely busy, so road users are advised to allow more time for journeys and use alternative routes where possible.",
+     "The closures are to allow a 40-strong workforce to replace two 22-metre long steel expansion joints. The joints, which are vital to allow the flyover to cope with temperature change, were repaired 11 years ago, but are now in a poor condition and need replacing to avoid long-term disruption to motorists.",
+     "TfL considered every alternative to the full closure of the flyover, however to do this essential work using part-closures would have taken nearly 50 days and would have affected many more road users.",
+     "The flyover will be fully closed in both directions between the following times:",
+     "{\"template\":\"bulletlist\",\"items\":[\"22:00 Friday 1 September - 05:00 Monday 4 September\",\"22:00 Friday 8 September - 05:00 Monday 11 September\",\"00:01 - 23:59 Sunday 17 September\"]}",
+     "In addition to the three full weekend closures, preparation and resurfacing work will also affect traffic at other times:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The flyover is being reduced to one lane in each direction for four consecutive nights between 22:00 and 05:00 from Monday 28 August to Thursday 31 August\",\"The flyover will be closed eastbound from 22:00 Monday 18 September to 05:00 Tuesday 19 September, and westbound from 22:00 Tuesday 19 September to 05:00 Wednesday 20 September\"]}",
+     "TfL has a number of measures in place to help reduce the impact of the closure, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Rapid response units placed around the area on standby to clear any incidents or accidents on surrounding roads\",\"Messaging advising drivers of the closures\",\"Re-phasing of traffic signals in the area to reduce disruption as much as possible and ease displaced traffic\",\"Cancellation of any non-urgent roadworks in the local area\"]}",
+     "An extensive awareness campaign has begun to help road users plan for the closures. This includes letters to nearly 20,000 homes and properties in the area, direct emails to nearly 500,000 road users and stakeholders as well as TfL's usual real-time social media alerts.",
+     "TfL will be providing up-to-date information through the @TfLTrafficNews and @TfLBusAlerts Twitter feeds and on \u003ca href=\"http://tfl.gov.uk/trafficnews\"\u003etfl.gov.uk/trafficnews\u003c/a\u003e to help drivers and bus users. More information about the project can be found here: \u003ca href=\"http://tfl.gov.uk/northwest-london-major-roadworks\"\u003etfl.gov.uk/northwest-london-major-roadworks\u003c/a\u003e .",
+     "TfL is committed to reducing unnecessary disruption on London's roads and will use this closure to perform a number of other routine maintenance tasks - lessening future disruption for road users in the area. Carrying out this maintenance at the same time as replacing the joints will save at least six nights of additional disruption.",
+     "Ends",
+     "Notes to Editors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Maps showing the expected impacted area are available at \\u003ca href=\\\"http://tfl.gov.uk/northwest-london-major-roadworks\\\"\\u003etfl.gov.uk/northwest-london-major-roadworks\\u003c/a\\u003e \",\"The expansion joints can expand and contract by up to nearly 80 cm\",\"Without the joints replacement the flyover would likely require speed restriction or late-notice closures\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2017/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2017/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2017/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2017/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2017/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2017/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2017/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2017/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2017/september",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "News articles",
+      "url": "/info-for/media/news-articles",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

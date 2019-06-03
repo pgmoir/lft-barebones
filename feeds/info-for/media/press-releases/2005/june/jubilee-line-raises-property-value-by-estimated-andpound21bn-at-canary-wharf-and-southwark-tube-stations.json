@@ -1,0 +1,68 @@
+{
+ "description": "The pilot study, conducted by property firm Atisreal and geographic information practice Geofutures, found that there has been a positive impact on local property market values for the two areas studied, Canary Wharf and Southwark.The conclusions of the",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Jubilee line raises property value by estimated £2.1bn at Canary Wharf and Southwark Tube stations",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A report published today by Transport for London (TfL) suggests that the uplift in property values attributed to the Jubilee Line Extension is over £2.1bn in the proximity of Canary Wharf and Southwark Underground stations."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The pilot study, conducted by property firm Atisreal and geographic information practice Geofutures, found that there has been a positive impact on local property market values for the two areas studied, Canary Wharf and Southwark.",
+     "The conclusions of the report, \u003ca href=\"/assets/downloads/JLE-Final-Report-May-2005.pdf\"\u003e'Property value study - Assessing the changes in value attributable to the Jubilee Line Extension'\u003c/a\u003e are that the estimated uplift in property values is in the order of:",
+     "£2.1bn around Canary Wharf Underground station;\u003cbr /\u003e\u003cbr /\u003e£78m around Southwark Underground station.",
+     "Transaction data for residential, office and retail property, from the Valuation Office Agency, were modelled to predict total value for each market sector for December 2002.",
+     "The contribution of the JLE to property value uplift was then isolated using mapping and other analytical techniques.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The report also drew attention to the limitations of the UK's land and property datasets and the fact that overseas land and property data is generally available in a more complete and systematic manner\",\"In deciding the extent of the study areas, it was assumed that the majority of any value uplift would occur within a 1000m radius of each station\",\"Jones Lang LaSalle (JLL) was also commissioned to estimate the increase in land and property values due to the JLE at Canary Wharf and Southwark stations, with the results being reported on TfL's website in July 2004. By using the same catchment area radius (500m for commercial uses and 750m for residential uses, as used in the JLL study) it is possible to compare the results of the two studies. The JLL study gives a range for the increase in property value at Canary Wharf and Southwark, however, by taking the suggested assessment the uplift in value is approximately £2.0bn, compared to Atisreal and Geofutures' estimate of over £2.1bn\",\"It should be noted that the JLL study examined the period 1992-2002, while the Atisreal and Geofutures' figure was calculated for Dec 2002 and included all uplift in value attributable to the JLE\",\"The full report can be found here on the \\u003ca href=\\\"/assets/downloads/JLE-Final-Report-May-2005.pdf\\\"\\u003eTfL website\\u003c/a\\u003e .\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

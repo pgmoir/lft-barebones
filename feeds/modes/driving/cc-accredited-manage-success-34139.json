@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Accredited breakdown discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Accredited breakdown discount"
+  }
+ ],
+ "title": {
+  "title": "Accredited breakdown discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens next?\"}",
+     "You won't have to pay the Congestion Charge for vehicles added to the discount.",
+     "Vehicles will stay on the discount until it expires, unless you remove them.",
+     "When you renew the discount you must pay the £10 for every vehicle active on it at that time.",
+     "To see all vehicles on the discount go to ' \u003ca href=\"/modes/driving/cc-discount-manage-discounts-32822\"\u003eManage my accredited breakdown discount\u003c/a\u003e '.",
+     "You won't have to pay the Congestion Charge for vehicles added to the discount. Vehicles will stay on the discount until it expires, unless you remove them.",
+     "When you renew the discount you must pay the £10 for every vehicle active on it at that time.",
+     "To see all vehicles on your discount go to \u003ca href=\"/modes/driving/cc-discount-manage-discounts-32822\"\u003eManage my accredited breakdown discount\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

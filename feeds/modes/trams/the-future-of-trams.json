@@ -1,0 +1,70 @@
+{
+ "pageTitle": "The future of trams",
+ "keywords": "TfL",
+ "description": "TfL's 15-year plan for upgrading the tram network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Trams",
+   "url": "/modes/trams/index"
+  },
+  {
+   "title": "The future of trams"
+  }
+ ],
+ "title": {
+  "title": "The future of trams",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We took over running the trams in 2008 and, since then, we have seen a huge increase in passengers. We expect passenger numbers to grow to nearly 60 million by 2030 and we need to upgrade the network to accommodate this growth...\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Trams 2030\"}",
+     "Trams 2030 summarises our proposed 15-year plan to accommodate growing demand, improve reliability and support the regeneration of Croydon town centre.",
+     "Trams 2030 sets out our ongoing works (including the Wimbledon line enhancement programme), the current proposals including major upgrades and expansions to the network, such as \u003ca href=\"https://consultations.tfl.gov.uk/tramlink/dingwall-road-loop\"\u003eDingwall Road Loop\u003c/a\u003e , and our longer term plan for trams in south London.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Trams for growth\",\"url\":\"/cdn/static/cms/documents/trams-for-growth-presentation.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.05MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

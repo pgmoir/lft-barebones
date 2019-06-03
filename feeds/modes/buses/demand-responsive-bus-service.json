@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Demand responsive bus service",
+ "keywords": "TfL",
+ "description": "Demand responsive bus services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Buses",
+   "url": "/modes/buses/index"
+  },
+  {
+   "title": "Demand responsive bus service"
+  }
+ ],
+ "title": {
+  "title": "Demand responsive bus service",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Trialling an on-demand bus service that operates flexibly in response to local demand\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We're introducing a trial demand responsive bus service to determine if it has the potential to complement current public transport services and reduce car dependency in the London Borough of Sutton.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/go-sutton-logo.gif\",\"alt\":\"go sutton logo\"},\"wrapped\":false}",
+     "The trial service is called \u003ca href=\"http://www.gosutton.co.uk\"\u003eGoSutton\u003c/a\u003e and will be run in collaboration with \u003ca href=\"https://www.viavan.com/\"\u003eViaVan\u003c/a\u003e and \u003ca href=\"https://www.go-ahead.com/en/index.html\"\u003eGo-Ahead\u003c/a\u003e . Services will start on Tuesday 28 May 2019 and will run for 12 months. This trial is in line with the commitments in the Mayor's Transport Strategy. Its objectives include finding out if the service can support the shift away from car travel and offer a service that is accessible and easy to use.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Area of operation\"}",
+     "The service will initially operate in the trial launch area and may be extended to include the expansion area in the summer depending on demand, performance and feedback.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Demand responsive bus service - area map\",\"url\":\"/cdn/static/cms/documents/demand-responsive-bus-service-map.png\",\"icon\":\"download\",\"size\":\"PNG 278KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/demand-responsive-bus-service-map-small.png\",\"alt\":\"demand responsive buses area map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How it works\"}",
+     "GoSutton takes multiple passengers heading in the same direction and books them into a shared vehicle. The service operates from 'corner to corner', so there are no fixed routes or bus stops. We'll pick you up and drop you off within 200m of your requested destination. This helps us ensure that even with multiple pick-ups, there are no lengthy detours.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The service can be booked by customers aged 13 and over\",\"Journeys can be booked by phone or through the GoSutton app available on the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApp Store \\u003c/a\\u003e and \\u003ca href=\\\"https://play.google.com/store\\\"\\u003eGoogle Play\\u003c/a\\u003e \",\"Services will operate between 06:30 and 21:30, Monday to Sunday except Christmas Day\",\"Journeys cost £3.50\",\"Oyster cards and contactless are not accepted\",\"Freedom Pass holders and members of the English National Concessionary Travel Scheme can travel free on the service\",\"Buses are fully accessible\"]}",
+     "Find out more about the service on the \u003ca href=\"http://www.gosutton.co.uk\"\u003eGoSutton website\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

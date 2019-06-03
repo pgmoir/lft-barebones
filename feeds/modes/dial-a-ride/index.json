@@ -1,0 +1,198 @@
+{
+ "pageTitle": "Dial-a-Ride",
+ "keywords": "Dial a ride ,TfL",
+ "description": "Dial-a-Ride is TfL's free door-to-door service for those with permanent or long-term disabilities",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Dial-a-Ride"
+  }
+ ],
+ "title": {
+  "title": "Dial-a-Ride",
+  "icon": "dialaride",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "About Dial-a-Ride",
+    "texts": [
+     "Apply for membership of our door-to-do service for people with long-term disabilities"
+    ],
+    "link": {
+     "url": "/modes/dial-a-ride/membership",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/dial-a-ride-bus-lift.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Bookings",
+    "texts": [
+     "Find out how to make a booking once you're a member"
+    ],
+    "link": {
+     "url": "/modes/dial-a-ride/bookings?#Bookings",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/dial-a-ride-service-user_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Dial-a-Ride Friends",
+    "texts": [
+     "Regular updates about the service for non-members"
+    ],
+    "link": {
+     "url": "/modes/dial-a-ride/dial-a-ride-friends",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "On your journey",
+    "texts": [
+     "Everything you need to know about your journey"
+    ],
+    "link": {
+     "url": "/modes/dial-a-ride/on-your-journey",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/dial-a-ride-journey-crop_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Bank Holidays",
+    "texts": [
+     "We operate special arrangements over holiday periods"
+    ],
+    "links": [
+     {
+      "title": "Public holiday bookings 2019",
+      "url": "/cdn/static/cms/documents/dar-public-holiday-bookings-2019.pdf",
+      "icon": "download",
+      "size": "PDF 28KB",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 minicabs",
+      "url": "/modes/taxis-and-minicabs/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxicard \u0026 Capital Call",
+      "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Community transport",
+      "url": "/transport-accessibility/community-transport",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitter",
+    "title": "Tweets by TfLAccess",
+    "link": {
+     "url": "https://twitter.com/TfLAccess",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

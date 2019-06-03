@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Even more trains for London Overground",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Even more trains for London Overground",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Overground announced today it's taken up an option to order seven more trains from manufacturers Bombardier for its rail network."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We are confident that more frequent services can be reliably provided",
+     "The dual-voltage Class 378s, each made up of four carriages, will cost £23m.",
+     "They will be delivered during the last quarter of 2009 and the first quarter of 2010, directly following an order for 44 trains, which are currently being assembled at Derby.",
+     "Ian Brown, Managing Director London Rail, said: 'London Overground was able to take up the option because progress with Network Rail in planning for a major upgrade of the infrastructure of the North London Line has reached the point where we are confident that more frequent services can be reliably provided.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Increasing the frequency of trains\"}",
+     "'Crucially, the new trains will allow London Overground to increase the frequency of trains to eight per hour on the core route between Camden Road and Stratford, as required by London's Olympic and Paralympics Games Transport Plan and for future growth.'",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Notes to editors\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"have six passenger information displays inside, and state-of-the-art heating and air-conditioning systems\",\"need to be serviced every 30,000 to 40,000 miles\",\"have look and feel of Tube trains\",\"be walk-through, without doors between carriages\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

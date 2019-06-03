@@ -1,0 +1,92 @@
+{
+ "pageTitle": "New photo needed on an Oyster photocard",
+ "keywords": "TfL",
+ "description": "How to change your photo on your Oyster photocard if it has faded, is starting to fade, or your appearance has changed.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "New photo needed on an Oyster photocard"
+  }
+ ],
+ "title": {
+  "title": "New photo needed on an Oyster photocard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You must change the photo on your Oyster photocard if it has faded or is starting to fade, or if your appearance has changed.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you should know\"}",
+     "Your photocard might not be accepted for travel if your photo is not clear or no longer looks like you.",
+     "The photo should be a true likeness of you and show all your face. You should not be wearing anything that covers your head or face, unless it's consistently worn for medical or religious reasons.",
+     "You will need to pay a £10 admin fee.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Change your photo online\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

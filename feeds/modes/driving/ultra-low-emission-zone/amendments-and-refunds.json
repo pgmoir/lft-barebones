@@ -1,0 +1,157 @@
+{
+ "pageTitle": "Amendments, refunds and reimbursements",
+ "keywords": "TfL",
+ "description": "See if you're eligible for a refund or reimbursement on your ULEZ charge payment",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "Paying the ULEZ charge",
+   "url": "/modes/driving/ultra-low-emission-zone/ulez-payments"
+  },
+  {
+   "title": "Amendments, refunds and reimbursements"
+  }
+ ],
+ "title": {
+  "title": "Amendments, refunds and reimbursements",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If your plans change you can request certain amendments to a charge, or a refund for the days you are not going to use.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charge amendments\"}",
+     "You can ask to change the start date of a charge, the vehicle, or both the start date and vehicle.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Amendments cannot be made for any dates in the past\",\"You can only change the start date of a charge if it starts today or on a future date\"]}",
+     "You will need the:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Number plate (Vehicle Registration Mark)\",\"Receipt number and the charge start date of the charge you want to apply to amend\"]}",
+     "There is a £2.50 charge for all amendments.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Refunds\"}",
+     "You can request a refund on monthly or annual charges either for the full amount or for any unused days in the future. You can only request a refund on a weekly charge on or before the charge start date.",
+     "We don't refund daily charges or charges for dates in the past.",
+     "To request a refund you will need the:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Number plate (Vehicle Registration Mark)\",\"Receipt number and charge start date for the charge you want refunded\"]}",
+     "There is a £10 administration charge to process a refund whatever the amount.",
+     "Rather than request a low value refund, it may be better to amend the charge to another vehicle or date. We don't offer refunds on future daily charges but it is possible to amend them.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"NHS reimbursements\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"NHS patients\"}",
+     "If you are clinically assessed as too ill to travel to an appointment on public transport, you may be eligible to claim back any Congestion Charges and/or Ultra Low Emission Zone (ULEZ) charges from your treating hospital. Your hospital will tell you if you are eligible.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"NHS staff/Fire fighters\"}",
+     "There are no staff refunds for ULEZ charges."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Amendments, refunds and reimbursements",
+      "url": "/modes/driving/ultra-low-emission-zone/amendments-and-refunds",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

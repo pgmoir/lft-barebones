@@ -1,0 +1,87 @@
+{
+ "pageTitle": "Developers and passengers to benefit from free live Tube information in special TfL online area",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Developers and passengers to benefit from free live Tube information in special TfL online area",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Updated Web Developers' Area and free travel information go live today. Free provision of data part of Transport for London's (TfL's) digital strategy and supports the Mayor's commitment to make data available to the public."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "TfL today unveiled a redesigned online Developers' Area containing free travel information for mobile apps (application) producers.",
+     "The free-to-use information will enable developers to update existing, and produce new, apps to give passengers a choice of ways to check the status of their journeys while on the move",
+     "The latest addition is a live Tube travel news feed, known as Trackernet.",
+     "It shows the location of trains across the London Underground network at any time.",
+     "It is among a raft of improvements to the new look \u003ca href=\"http://www.tfl.gov.uk/businessandpartners\"\u003eDevelopers' Area\u003c/a\u003e which includes clearer guidelines to web developers on how to use the information to create apps or other travel tools.",
+     "Other information in the area includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Live traffic disruptions\",\"Realtime road message signs\",\"Barclays Cycle Hire docking station locations\",\"Timetable of planned weekend Tube improvement works\",\"Station locations (for Tube, Docklands Light Railway and London Overground)\",\"River Thames pier locations\",\"Find-a-ride (licensed private hire operators)\",\"Oyster Ticket Stop locations.\"]}",
+     "Making the live Tube travel information available is the result of collaboration between TfL and Microsoft, creating the Azure Cloud platform to host the information that will meet the expected demand from thousands of developers.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"More choice for passengers\"}",
+     "This approach has been chosen to allow developers to innovate and create a range of apps.",
+     "The variety will allow passengers to choose the one that best meets their needs.",
+     "Further releases of our data are planned next year.",
+     "The Mayor of London's economic development advisor, Anthony Browne, said: 'In the digital age Londoners expect to be able to find out where their Tube train or bus is at the touch of a button and that is why having this live tracker feed is so vital.",
+     "'By improving the way we help web developers and make this information available to them we can also provide a potential money spinner for the Capital's software development experts.'",
+     "Chris MacLeod, TfL's Director of Group Marketing, said: 'This is great news for our passengers.",
+     "'We are committed to making travel information available to passengers how and when they want it.",
+     "'Trackernet - which will lead to some new apps and which many developers have already tested for themselves - is a great example of how TfL is using new technologies to provide better travel tools for public transport users.'",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Free-to-use data\"}",
+     "Michael Gilbert, TfL's Director of Technology, said: 'TfL with the help of Microsoft, has created a strategic, scalable technical platform that will aid us in making real-time data sets available, the first of which is Trackernet data.'",
+     "Mark Taylor, Director Developer and Platform Evangelism at Microsoft UK, said: 'We've provided TfL with a scalable system which can handle more than seven million requests a day.",
+     "'It's an innovative example of cloud computing, and we look forward to working with TfL again and other organisations which wish to follow their lead.'",
+     "The Mayor of London launched the London Data Store in January this year which houses publicly available data form the Greater London Authority (GLA) and other public authorities, including TfL.",
+     "For more information go online to the \u003ca href=\"http://www.tfl.gov.uk/businessandpartners/syndication/default.aspx\"\u003eDevelopers' Area\u003c/a\u003e .",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Users of the Developers' Area will be asked to accept the new terms and onditions before being allowed to use the data. TfL will also, continue to protect the misuse of its trademarked brands and intellectual property\",\"TfL does not take responsibility for apps developed by third parties using its data. TfL also reserves the right to protect its brand and intellectual property from use by non-licensed parties\",\"The Mayor is committed to releasing GLA data for all Londoners to see and use free of charge through the London Data Store\",\"TfLL will continue to make all of its realtime travel information available free to passengers from its website and stations\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

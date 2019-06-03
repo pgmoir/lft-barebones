@@ -1,0 +1,106 @@
+{
+ "pageTitle": "Waterloo roundabout",
+ "keywords": "Cyclists,Pedestrians,Rail passengers,W,Lambeth,Roads,Buses,Coaches,Cycling,Deliveries,Driving,Motorcycle,Rail,Taxis and minicabs,Walking,TfL",
+ "description": "We are working on proposals to create better public spaces around the Waterloo roundabout",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Waterloo roundabout"
+  }
+ ],
+ "title": {
+  "title": "Waterloo roundabout",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Along with Lambeth Council we are proposing to transform the area around Waterloo roundabout and Waterloo Road. We're finishing the project's design - we expect to start construction in early 2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "It is difficult to walk around the Waterloo roundabout area and to change between different forms of public transport. This project would make those connections easier and improve safety for all transport users.",
+     "The public space would also be improved by the removal of the existing roundabout layout.",
+     "The project will support the Healthy Streets Approach and Vision Zero action plan of the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Progress since consultation\"}",
+     "Our report on the January 2017 consultation, plus a report on issues raised during the consultation, are on the \u003ca href=\"http://tfl.gov.uk/waterloo-roundabout\"\u003eWaterloo Roundabout consultation page\u003c/a\u003e .",
+     "The most frequently issues raised were:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Concerns about the loss of mature trees outside St John's Church\",\"Suggestions that the proposals do not go far enough to improve cyclist, pedestrian and commuter facilities\",\"Impact on journey times\",\"Impact on local streets of a banned right turn from Waterloo Road into Stamford Street\"]}",
+     "Since the consultation we have:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Amended the design to keep the three trees outside King's College and St John's Church. Drivers will still be able to get close to both buildings to drop off and pick up from the plaza\",\"Decided to keep the proposed right turn ban into Stamford Street - we concluded that the cost of widening the roundabout structure for the relatively low number of vehicles turning right could not be justified\",\"Worked with Lambeth Council to develop plans to improve local streets in the area for pedestrians, residents and visitors\",\"Considered how best to keep the loading bay outside Sainsbury's and provide pick up/drop off points on Waterloo Road\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Design developments\"}",
+     "We have changed the design in order to keep the trees outside of the church. We also plan to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Modify the public square and steps and ramps - this will offer access to the lowered walkway around the BFI IMAX and a route to South Bank with clear sight lines\",\"Improve the bus station, concentrating bus activity on the southern side of the square and adding a shelter for customers waiting for, or changing between, buses\",\"Declutter the public square - there will be space for people to walk, trees planted for shade, and seating for people to rest\",\"Realign the pedestrian crossing between King's Plaza and the new square - pedestrians will now have to cross in two stages but this will make crossing safer\",\"Move the proposed kiosks to make it easier to get around the area. The kiosks and retail spaces in the closed subways will make the public square more lively and add a sense of security\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Waterloo roundabout design - March 2019\",\"url\":\"/cdn/static/cms/documents/waterloo-roundabout-design-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.92MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/waterloo-roundabout-design-thumb.jpg\",\"alt\":\"Detail of Waterloo roundabout design\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Next steps\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Continue to develop the scheme's design and to connect it with wider improvements planned for the area\",\"Keep talking to local people and businesses\",\"Continue working closely with Lambeth Council and developers in the area to ensure a coordinated delivery that goes along with existing and future plans for Waterloo\",\"Summer 2019 - Submit planning application for the kiosk and relocation of the cycle stands\",\"Early 2020 - Start construction\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on the site",
+    "links": [
+     {
+      "title": "Tube improvement",
+      "url": "/campaign/tube-improvements",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

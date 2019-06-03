@@ -1,0 +1,79 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Mayor announces over £4.7m for local transport improvements in Barnet",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Mayor of London, Boris Johnson, has today announced over £4.7m for transport improvements in Barnet."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Every London borough is receiving money that will directly benefit communities, making London an even better place to live and work.",
+     "The funding has been allocated by Transport for London (TfL) through the Local Implementation Plan (LIP) process and is awarded to the borough to spend on projects that support the Mayor's Transport Strategy, including safer roads, smoothing traffic flow, rejuvenating town centres and better facilities for cycling and walking.",
+     "The £4.7m funding package in 2012/13 will finance a range of transport projects in Barnet, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"£485,000 to deliver activities and projects in and near schools to reduce school run traffic and parking.  It will also support schools in developing and implementing their school travel plans\",\"£104,000 to deliver Road Safety Education initiatives including cycle training, pedestrian training and road safety theatre in education\"]}",
+     "Mayor of London, Boris Johnson, said: 'London is undergoing a neo-Victorian level of investment in its transport network.",
+     "'Every London borough is receiving money that will directly benefit communities, making London an even better place to live and work.",
+     "'We've also cut bureaucracy to make it easier for the boroughs to decide how they want to spend their funding.'",
+     "The LIP funds hundreds of large and small scale transport projects every year.",
+     "Last year in Barnet it financed cycle training for 1,123 children and 178 adults, the removal of 150 metres of guardrail; 60 road safety training events; to refresh 105 school travel plans and one new controlled parking zone.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision for transport\"}",
+     "Notable larger projects already undertaken in Barnet include the borough's smarter travel planning with school children which it has used £175,000 of LIP funding for initiatives including 'Walking on Wednesdays', 'Walk to School Week' and to help increase active travel and improve health.",
+     "London's Transport Commissioner, Peter Hendy, said: 'Year-on-year the boroughs continue to deliver innovative projects that support the Mayor's vision for transport in the capital.",
+     "'This investment will build on the excellent work that has already been achieved and complement the huge programme of work we at TfL are undertaking to make his vision a reality through working in partnership with the boroughs.'",
+     "The funding was previously forecast to reduce year on year to reflect the reduced general grant TfL receives from the Department for Transport.  However, because of the importance of the boroughs in delivering the priorities of Mayor's Transport Strategy, the funding has been kept at a consistent level to 2013/14.",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003e Programme\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eAllocation across London (£m)\\u003c/strong\\u003e \"],[\"Principal road maintenance\",\"945\"],[\"Local transport funding\",\"100\"],[],[\"Corridors, neighbourhoods and supporting measures\",\"3,729\"],[\"\\u003cstrong\\u003eTotal\\u003c/strong\\u003e \",\"\\u003cstrong\\u003e 4,774\\u003c/strong\\u003e \"]]}",
+     "\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

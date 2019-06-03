@@ -1,0 +1,100 @@
+{
+ "pageTitle": "Baker Street",
+ "keywords": "Bus operators,Bus passengers,Coach drivers,Cyclists,Drivers,Freight industry,Motorbikers,Pedestrians,Planning and construction,Taxi and private hire,Taxi passengers,B,Westminster,Roads,Buses,Coaches,Cycling,Deliveries,Driving,Motorcycle,TfL",
+ "description": "We switched to two-way traffic on Baker Street and Gloucester Place in February 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Baker Street"
+  }
+ ],
+ "title": {
+  "title": "Baker Street",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Baker Street and Gloucester Place formed a large one-way system running from Regent's Park to Oxford Street. We switched to two-way traffic between 21 and 24 February 2019 - finishing works will continue until mid-2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Bus routes have been adjusted on Baker Street and Gloucester Place since roads were reopened in the new two-way system.\u003cstrong\u003ePlease look both ways and be careful as traffic gets used to the new system.\u003c/strong\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Baker Street bus map as of  24 February 2019\",\"url\":\"/cdn/static/cms/documents/where-to-catch-your-bus.pdf\",\"icon\":\"download\",\"size\":\"PDF 142KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We've worked with Westminster City Council, Baker Street Quarter Partnership and The Portman Estate to introduce two-way traffic on these routes.",
+     "The scheme was approved by our Surface Board and the Westminster City Council Cabinet.",
+     "The project will reduce the dominance of traffic along Baker Street and Gloucester Place, making it safer and easier to access.",
+     "Rebalancing road space will benefit pedestrians and cyclists, and keep traffic flowing while also discouraging high speeds.",
+     "A number of similar one-way road systems are being transformed into community-friendly, safe, two-way streets as part of our \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets approach\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The improvements\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Introducing two-way traffic will help shorten journey times as vehicles won't have to follow long routes around the system or make circuitous routes on residential streets\",\"Up to 50 new and upgraded pedestrian crossings will make it easier to cross safely in any direction\",\"Wider pavements, reduced street clutter and improved street lighting along Baker Street and at Dorset Square will make the area more pleasant. Westminster City Council is also looking at ways to introduce more trees and green spaces\",\"New cycle lanes will connect the area with cycle routes. New Advanced Stop Lines at junctions would help make cycling in the area safer and there will be more places to park bikes\",\"Two-way traffic will help improve access to buses and take passengers closer to their destinations\",\"The project will help prepare the area for the extra visitors and workers expected when the \\u003ca href=\\\"/travel-information/improvements-and-projects/elizabeth-line\\\"\\u003eElizabeth line\\u003c/a\\u003e opens (it's currently being built by Crossrail Ltd.), as well as Network Rail's longer term proposals to upgrade the Chiltern line into Marylebone station\"]}",
+     "More on the overarching project, plus Westminster City Council's feasibility report, drawings and Cabinet Member report, are on the \u003ca href=\"http://www.bakerstreettwoway.co.uk\"\u003eBaker Street two-way project website\u003c/a\u003e .",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/baker-street-1.jpg\",\"alt\":\"Artist's impression of the new road layout from early 2019\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bakerstreet-image.jpg\",\"alt\":\"Artist's impression of the new road layout from early 2019\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/baker-street-3.jpg\",\"alt\":\"Artist's impression of the new road layout from early 2019\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/baker-street-4.jpg\",\"alt\":\"Artist's impression of the new road layout from early 2019\"}],\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "A406 Gunnersbury Avenue",
+      "url": "/travel-information/improvements-and-projects/a406-gunnersbury-avenue",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Camden Town capacity upgrade",
+      "url": "/travel-information/improvements-and-projects/camden-town-capacity-upgrade",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

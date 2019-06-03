@@ -1,0 +1,174 @@
+{
+ "pageTitle": "Three Mills to East India Dock",
+ "keywords": "TfL",
+ "description": "Section six of the Lea Valley Walk includes great views of landscapes old and new.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Lea Valley Walk",
+   "url": "/modes/walking/lea-valley"
+  },
+  {
+   "title": "Three Mills to East India Dock"
+  }
+ ],
+ "title": {
+  "title": "Three Mills to East India Dock",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Section six of the Lea Valley Walk includes great views of landscapes old and new.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route information\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Section start: Bromley-by-Bow\",\"Nearest public transport to the start: Bromley-by-Bow (Tube)\",\"Section finish: East India Dock\",\"Nearest public transport to the finish: East India (DLR)\",\"Section distance: 2 miles (3.2 km)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Limehouse Cut\",\"St Anne's Church\",\"Bow Creek Ecology Park\",\"East India Dock\",\"Trinity Buoy Wharfspan\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Map\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lea Valley Walk section 6\",\"url\":\"/cdn/static/cms/documents/lea-valley-section-6.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.35MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "Waltham Abbey to Ponders End",
+      "url": "/modes/walking/waltham-abbey-to-ponders-end",
+      "image": {}
+     },
+     {
+      "title": "Ponders End to Tottenham Hale",
+      "url": "/modes/walking/ponders-end-to-tottenham-hale",
+      "image": {}
+     },
+     {
+      "title": "Tottenham Hale to Lea Bridge",
+      "url": "/modes/walking/tottenham-hale-to-lea-bridge",
+      "image": {}
+     },
+     {
+      "title": "Lea Bridge to Three Mills",
+      "url": "/modes/walking/lea-bridge-to-three-mills",
+      "image": {}
+     },
+     {
+      "title": "Three Mills to Limehouse Basin",
+      "url": "/modes/walking/three-mills-to-limehouse-bas",
+      "image": {}
+     },
+     {
+      "title": "Three Mills to East India Dock",
+      "url": "/modes/walking/three-mills-to-east-india-dock",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

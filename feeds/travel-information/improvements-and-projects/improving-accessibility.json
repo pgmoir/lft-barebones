@@ -1,0 +1,110 @@
+{
+ "pageTitle": "Improving accessibility",
+ "keywords": "TfL",
+ "description": "New trains and stations on the Elizabeth line will offer better accessibility",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Elizabeth line",
+   "url": "/travel-information/improvements-and-projects/elizabeth-line"
+  },
+  {
+   "title": "Improving accessibility"
+  }
+ ],
+ "title": {
+  "title": "Improving accessibility",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"When fully open, the Elizabeth line will dramatically improve access at key locations along the route.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "To  make sure most passengers can move independently through stations, all newly-built stations in the central section will have:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Marked routes\",\"Step-free access\",\"Straightforward signs and information\"]}",
+     "All Elizabeth line stations will be step-free from street to platform, with level access from platform to trains at all of the new central London stations and at Heathrow and Abbey Wood.",
+     "The \u003ca href=\"/travel-information/improvements-and-projects/new-trains\"\u003enew trains\u003c/a\u003e are fully accessible, with four dedicated wheelchair spaces on each train close to the doors and separate from multi-use spaces for wheelchair users, buggies, luggage and bicycles. There will also be dedicated and clearly distinguished priority seats.",
+     "At stations on the outer sections that share tracks with other services, staff will deploy a manual boarding ramp between the platform and train.",
+     "The same 'turn up and go' service currently provided on the Tube and London Overground will be available for passengers who need assistance onto and off trains."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Elizabeth line",
+    "links": [
+     {
+      "title": "What we've done so far",
+      "url": "/travel-information/improvements-and-projects/what-we-ve-done-so-far",
+      "image": {}
+     },
+     {
+      "title": "New trains",
+      "url": "/travel-information/improvements-and-projects/new-trains",
+      "image": {}
+     },
+     {
+      "title": "Improving accessibility",
+      "url": "/travel-information/improvements-and-projects/improving-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Preparing for the Elizabeth line",
+      "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Elizabeth line",
+     "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

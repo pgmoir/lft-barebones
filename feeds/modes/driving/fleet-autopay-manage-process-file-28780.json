@@ -1,0 +1,56 @@
+{
+ "pageTitle": "Upload a new vehicle list",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Upload a new vehicle list"
+  }
+ ],
+ "title": {
+  "title": "Upload a new vehicle list",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "When the upload is finished you'll be taken to the ‘File processed’ confirmation page.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"{0}\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fleet Auto Pay is active on {1} vehicles.\"}",
+     "From today, any Congestion Charges or ULEZ charges for the vehicle(s) you have added will be taken from your bank account by monthly direct debit.",
+     "The £10 annual registration charge for each vehicle added to your Fleet Auto Pay service will show on your next statement. We will send a summary and detailed vehicle list to your account email."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

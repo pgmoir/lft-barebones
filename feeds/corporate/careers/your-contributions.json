@@ -1,0 +1,95 @@
+{
+ "pageTitle": "Your contributions",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Your contributions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "As an employee you contribute 5% of your pensionable salary. The actual cost to you is less because contributions are deducted from your salary before tax is calculated, so they generate tax relief at your highest rate."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "You also pay reduced National Insurance contributions because the Fund is contracted-out of the State Second Pension.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Part-time workers\"}",
+     "If you work part-time you contribute 5% of your pro-rated pensionable salary.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Employer contributions\"}",
+     "Your employer makes contributions to meet the balance of the costs of the Fund. The Actuary regularly looks at funding levels and advises on how much each employer should contribute, so the amount can vary. At the moment the Fund is in deficit so:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The principal employer is paying 6.2 times the amount its employees pay\",\"All the other participating employers are paying additional contributions over a period of ten years, as well as paying more than three times the amount their employees pa\"]}",
+     "You can find full details in the Trustees' Annual Report and Accounts, which can be found in \u003ca href=\"/corporate/careers/documents\"\u003eFund documents\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to contributions\"}",
+     "Contributions normally change in January of each year and are based on pensionable salary in the previous November.",
+     "Contributions remain the same for the calendar year unless working hours change. In this case they will be based on your pro-rated pensionable salary following each change.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"When contributions stop\"}",
+     "Your contributions stop when you retire or leave service. While you are in service they will only stop if you:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Complete 40 years' pensionable service and choose to stop paying contributions\",\"Reach age 65 and choose to stop paying contributions\",\"Opt out of the Fund\",\"Are an Existing Member and choose to stop paying contributions when you reach age 60\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Increasing your contributions\"}",
+     "You can increase your contributions by joining the \u003ca href=\"/corporate/careers/additional-voluntary-contributions\"\u003eAdditional Voluntary Contributions\u003c/a\u003e Plan.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your pay falls\"}",
+     "Occasionally, when changing jobs, your pensionable salary may fall. If this happens the pension that you have already earned is protected."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

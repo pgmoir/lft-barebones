@@ -1,0 +1,180 @@
+{
+ "pageTitle": "Cycle Skills",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Free, tailored courses for novices and experienced cyclists",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Cycling in London",
+   "url": "/modes/cycling/cycling-in-london"
+  },
+  {
+   "title": "Cycle Skills"
+  }
+ ],
+ "title": {
+  "title": "Cycle Skills",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Whether you're a first-time rider or a regular cyclist looking to improve your skills, we fund free, tailored courses to suit your individual abilities and goals.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Most local borough cycling teams will lend you a bike so you can take part in a Cycle Skills session. Check with your own local team.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/basic-cycle-skills-teaser_rdax_400x250.jpg\",\"alt\":\"Basic cycle skills cartoon bike image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Basic cycle skills\"}",
+     "Learn to cycle with a free session tailored to you. You'll practice in a safe, off-road environment with a fully qualified instructor. In a session you'll learn the basics, build skills and gain confidence to navigate around your local area.",
+     " \u003ca href=\"/modes/cycling/start-cycling/cycle-training/request-cycle-training\"\u003eRequest a free session in the borough where you live, work or study\u003c/a\u003e ",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/urban-cycle-skills-teaser_rdax_400x250.jpg\",\"alt\":\"Urban Cycle Skills cartoon image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Urban cycle skills\"}",
+     "Improve your cycling skills with a free session tailored to you. You'll start in a safe off-road environment to refresh your cycling technique and develop new skills before moving on to practice on quiet roads.",
+     " \u003ca href=\"/modes/cycling/start-cycling/cycle-training/request-cycle-training\"\u003eRequest a free session in the borough where you live, work or study\u003c/a\u003e ",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/advanced-cycle-skills-teaser_rdax_400x250.jpg\",\"alt\":\"Advanced cycle skills cartoon bike image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Advanced cycle skills\"}",
+     "Perfect your cycling techniques with a free one-to-one session from a fully qualified trainer. Improve your performance when dealing with complex junctions, heavy traffic or cycling at night and receive assurance that you are cycling efficiently and effectively.",
+     " \u003ca href=\"/modes/cycling/start-cycling/cycle-training/request-cycle-training\"\u003eRequest a free session in the borough where you live, work or study\u003c/a\u003e ",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/family-cycle-skills-teaser_rdax_400x250.jpg\",\"alt\":\"Family cycle skills cartoon bike image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Family cycle skills\"}",
+     "Gain confidence and learn skills to cycle as a family with a free family cycling session. In the session a qualified instructor will teach you how to cycle with children, using quiet routes and parks. These sessions offer the opportunity to build on, or prepare for, Bikeability skills taught in schools.",
+     " \u003ca href=\"/modes/cycling/start-cycling/cycle-training/request-cycle-training\"\u003eRequest a free session in the borough where you live, work or study\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Younger cyclists\"}",
+     "Cycling is a fun way for youngsters to keep fit while getting around their local area. Cycle training will teach them the skills they need to ride more safely.",
+     "The Bikeability scheme rewards youngsters for taking part in cycle training. They can work their way through the following three levels as they move from primary to secondary school.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Level 1: Learn to control your bike in a safe, off-road environment\",\"Level 2: Cycle safely on the road with other traffic on quieter roads\",\"Level 3: Cycle on busier roads and manage complex junctions in London\"]}",
+     "If your child's school doesn't already offer cycle training, the school can contact their borough's road safety/school travel team for information on how to book a course.",
+     "Email your full name, your child's full name, phone number and preferred borough to \u003ca href=\"mailto:schoolsandyoungpeople@tfl.gov.uk\"\u003eschoolsandyoungpeople@tfl.gov.uk\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Rider stories",
+      "url": "/modes/cycling/cycling-in-london/rider-profiles",
+      "image": {}
+     },
+     {
+      "title": "Cycle Skills",
+      "url": "/modes/cycling/cycling-in-london/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Advanced London By Bike",
+      "url": "/modes/cycling/start-cycling/cycle-training/advanced-london-by-bike",
+      "image": {}
+     },
+     {
+      "title": "Request cycle training",
+      "url": "/modes/cycling/start-cycling/cycle-training/request-cycle-training",
+      "image": {}
+     },
+     {
+      "title": "Protect your bike from theft",
+      "url": "/modes/cycling/cycling-in-london/avoid-theft",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycling-in-london/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycling with children",
+      "url": "/modes/cycling/cycling-in-london/cycling-with-children",
+      "image": {}
+     },
+     {
+      "title": "Electric bikes",
+      "url": "/modes/cycling/cycling-in-london/electric-bikes",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

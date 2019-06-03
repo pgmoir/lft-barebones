@@ -1,0 +1,67 @@
+{
+ "description": "Drivers can also make a discounted monthly or annual payment. Monthly and annual payments will receive a 15 per cent discount equating to 3 and 40 charge-free days respectively. Business fleet users will be able to pay a discounted daily charge of",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Reminder - the congestion charge will cost £8 from Monday 4th July",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is reminding all drivers that the congestion charge will cost £8 per day from Monday 4th July."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Drivers can also make a discounted monthly or annual payment.",
+     "Monthly and annual payments will receive a 15 per cent discount equating to 3 and 40 charge-free days respectively.",
+     "Business fleet users will be able to pay a discounted daily charge of £7 per day for the use of the automated fleet scheme for fleets with ten or more vehicles.",
+     "The Mayor has stated that the congestion charge will not be raised again during the current Mayoral term.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The congestion charge operates from 7am until 6.30pm, Monday to Friday. The charge does not operate on weekends or bank holidays\",\"Since the introduction of the charge congestion has been reduced by 30%, which has improved journey times and reliability. Road accidents and vehicle emissions within the zone have also been reduced\",\"The congestion charge has raised net revenues in excess of £170 million since its introduction in February 2003. All net revenues are invested in London's transport system\",\"The new charge is expected to raise an additional £35-45million per year to be invested in London's transport system. It is expected that the number of vehicle movements coming into the charging zone during charging hours by vehicles with four or more wheels would decline by an additional 3-7 per cent\",\"The £8 charge will maintain and improve on the current benefits experienced within the zone.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

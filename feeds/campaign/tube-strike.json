@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Tube strike",
+ "keywords": "Tube ,Tube Strike ,TfL",
+ "description": "Travel advice and information during Tube strikes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Tube strike"
+  }
+ ],
+ "title": {
+  "title": "Tube strike",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use our travel tools\"}",
+     "Check before you travel and plan ahead using our travel tools. Keep up-to-date with the latest service information. See:",
+     "{\"template\":\"bulletlist\",\"items\":[\"This web page, which will be regularly updated\",\"TfL Twitter accounts, including \\u003ca href=\\\"https://twitter.com/TfLTravelAlerts\\\"\\u003e@TfLTravelAlerts\\u003c/a\\u003e , \\u003ca href=\\\"https://twitter.com/bakerlooline\\\"\\u003e@bakerlooline\\u003c/a\\u003e , \\u003ca href=\\\"http://www.twitter.com/piccadillyline\\\"\\u003e@TfLBusAlerts\\u003c/a\\u003e and \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e as well as the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\"Check the latest \\u003ca href=\\\"/status-updates/index\\\"\\u003estatus updates\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

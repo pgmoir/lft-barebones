@@ -1,0 +1,45 @@
+{
+ "pageTitle": "CC Discount - Blue Badge - Manage - Replace-vehicle-submit",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "CC Discount - Blue Badge - Manage - Replace-vehicle-submit"
+  }
+ ],
+ "title": {
+  "title": "CC Discount - Blue Badge - Manage - Replace-vehicle-submit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Southwark to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Southwark is to benefit from better transport under a proposed £10 billion, 5 Year Investment Programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Southwark and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Southwark on the move.\"",
+     "The main benefits for Southwark included in TfL's 5 Year Capital Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"continuation of major safety work on the Rotherhithe Tunnel;\",\"the funding to design and powers stage of the Cross River Tram, a new scheme proposed to run from King's Cross and Camden, via Euston and Waterloo, to Peckham and Brixton, linking railway stations and employment opportunities with housing and regeneration areas.\"]}",
+     "In addition, the following improvements to Bakerloo, Northern, East London and Jubilee lines and stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"station refurbishments and/or modifications to Borough, Kennington (completing 2005); Elephant and Castle (completing 2006); Bermondsey, Canada Water, London Bridge and Southwark (completion 2007 -2010).\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Southwark's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Improvements to transport in Southwark carried out by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor, fully accessible buses on 40 routes, increased frequencies on 34 routes, the introduction of 16 new routes including seven night bus services;\",\"funding for additional Met police officers and police Community Support officers to reduce crime and the fear of crime, improve enforcement on and around bus routes and tackle taxi touting;\",\"new 'metro-style' rail services on the London Bridge to Dartford route via Greenwich, providing a minimum of four trains per hour (weekdays) increased trains during the evening period and improved passenger information and security;\",\"station safety improvements will take place in 2004 for all Southern train company stations, installation of CCTV, improved lighting and passenger help points;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with the borough a range of local schemes have been implemented including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"area wide traffic-reduction projects in the Bermondsey Spa, St. James's Road and Faraday/Browning areas;\",\"the refurbishment of the A200 (Tooley Street) by London Bridge station providing improvements to footways and pedestrian crossings and;\",\"the installation of approximately 150 cycle stands across the borough.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

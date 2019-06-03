@@ -1,0 +1,64 @@
+{
+ "pageTitle": "Review Fleet Auto Pay",
+ "keywords": "TfL",
+ "description": "You need at least 6 vehicles on your Fleet Auto Pay service. You can select a vehicle already on your account or add a new one.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Review Fleet Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Review Fleet Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You need at least 6 vehicles on your Fleet Auto Pay service. You can select a vehicle already on your account or add a new one.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you're adding a vehicle to a 100% discount, this display may not update for 24 hours. It may still show as 'Should be paid' even though the discount is active.",
+     "This vehicle is currently registered for a 100% discount from the Congestion Charge. You can check when this discount expires in the 'Manage discounts' section of your account.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the ULEZ charge.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can give us evidence that your vehicle does meet the ULEZ emissions standards, you will need to \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can give us evidence that your vehicle does meet the ULEZ emissions standards, you will need to \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "I agree to the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"target=\"_blank\"\u003eFleet Auto Pay terms and conditions\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

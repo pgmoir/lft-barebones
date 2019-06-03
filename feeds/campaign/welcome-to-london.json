@@ -1,0 +1,156 @@
+{
+ "pageTitle": "Welcome to London",
+ "keywords": "TfL",
+ "description": "Travel tips and information to help you get started in the Capital.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Welcome to London"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Welcome to London",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/welcome-to-london-section-header.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Everything you need to know to get started exploring your new neighbourhood. We operate the Tube, Buses, DLR, London Overground, Trams, River Services and more. Find out where you can get to, how to plan your journey, when off-peak is, and how to pay for your travel."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "How to pay ",
+    "texts": [
+     "Choosing how to pay for your travel can be complicated. Let us help"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/oyster-cartoon-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Ways to get around ",
+    "texts": [
+     "Our visitor information page lists all our transport services. Find out more"
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/getting-around-london/visitor-information",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxibustube_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Get started travelling in London",
+    "texts": [
+     "Tips for all new Londoners, including discounts, walking and cycling. Find out more"
+    ],
+    "link": {
+     "url": "/campaign/student-travel",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Oyster and contactless account",
+    "texts": [
+     "Top up, view your journeys and get refunds with an online account"
+    ],
+    "link": {
+     "url": "https://contactless.tfl.gov.uk/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Fares",
+    "texts": [
+     "Check the cost of your journey before you travel"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/index",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Maps",
+    "texts": [
+     "View and download our whole range of maps"
+    ],
+    "link": {
+     "url": "/maps_/maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Get the app",
+    "texts": [
+     "Download and set up the free official TfL Oyster app"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

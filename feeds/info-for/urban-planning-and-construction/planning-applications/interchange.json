@@ -1,0 +1,180 @@
+{
+ "pageTitle": "Interchange",
+ "keywords": "TfL",
+ "description": "Improved public transport interchange hubs that enable better integration of London's public transport are a key element of the Mayor's transport priorities",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Interchange"
+  }
+ ],
+ "title": {
+  "title": "Interchange",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Improved public transport interchange hubs allow better integration of London's public transport. They are key to supporting the Mayor's transport priorities.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improving journeys using integration\"}",
+     "Combining different ways of travelling makes public transport more attractive to current and new customers. It also shows how the transport system, including interchanges, can contribute to economic, social, and environmental objectives.",
+     "Interchange hubs are areas with different modes of transport where customers can change from one mode to another. A beginning to end journey can consist of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Underground\",\"TfL Rail\",\"Overground\",\"National Rail\",\"DLR\",\"Tram\",\"Bus\",\"Taxi\",\"Coach\",\"Emirates Air Line\",\"River\",\"Cycling\",\"Walking\"]}",
+     "Creating a simpler, more convenient and better-quality transport interchange is essential for the integration of different transport modes. This allows journeys by public transport to become faster, easier, safer, more reliable and enjoyable.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Read our guidance\"}",
+     "The interchange best practice guidance gives advice from project inception to ensure any developments respond to our communities and transport in a positive way. It's set out in five themes:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Interchange best practice guidance\",\"url\":\"/cdn/static/cms/documents/interchange-best-practice-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.40MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Interchange",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "Planning with WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Interchange",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Streets toolkit",
+      "url": "/corporate/publications-and-reports/streets-toolkit",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Case studies",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

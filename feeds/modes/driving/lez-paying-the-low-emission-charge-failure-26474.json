@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Pay a LEZ charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Pay a LEZ charge"
+  }
+ ],
+ "title": {
+  "title": "Pay a LEZ charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Payment failed\"}",
+     "Your payment has failed.",
+     "Your payment has failed.",
+     "You have not paid the charge because your payment to us has failed. If you need to pay this charge, use an alternative payment method.\u003cbr /\u003e\u003cbr /\u003eIf you fail to pay the correct charge, a Penalty Charge Notice will be issued."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "pageTitle": "Four Lines Modernisation",
+ "keywords": "F,Tube improvement,Tube,TfL",
+ "description": "We are transforming the Circle, District, Hammersmith \u0026 City and Metropolitan lines to increase capacity and boost reliability, making journeys faster and more comfortable",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Four Lines Modernisation"
+  }
+ ],
+ "title": {
+  "title": "Four Lines Modernisation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are transforming the Circle, District, Hammersmith \\u0026 City and Metropolitan lines. When the work is completed in 2023, increased capacity and boosted reliability will make journeys faster and more comfortable.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Because these lines share a lot of track and infrastructure, they are being modernised under a single combined and integrated project, Four Lines Modernisation (4LM).",
+     "Watch how we're transforming the Circle, District, Hammersmith \u0026 City and Metropolitan Lines.",
+     "{\"template\":\"video\",\"style\":\"jhsFWSO4mA8\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The four lines are among some of the oldest sections of the Underground network, with parts dating back to 1863. Together they make up 40% of the Tube network, with around a million passenger journeys each day.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Geographical map of the four lines\",\"url\":\"/cdn/static/cms/documents/four-lines-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 211KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/4lm-map-detail.jpg\",\"alt\":\"Map of the four sub-surface Tube lines\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Some equipment used on these lines is old and needs to be replaced. We're introducing new technology that will reduce journey times and increase capacity - essential to support London's growing population.",
+     "This project will require some line closures. To stay up-to-date you can \u003ca href=\"http://www.twitter.com/tfltravelalerts\"\u003efollow @TfLTravelAlerts on Twitter\u003c/a\u003e , check \u003ca href=\"/plan-a-journey/index\"\u003eJourney Planner\u003c/a\u003e and \u003ca href=\"/travel-information/social-media-and-email-updates/email-updates\"\u003esign up to our email alerts\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New trains\"}",
+     "A fleet of 192 modern, air-conditioned, walk-through S-stock trains run across the Circle, Hammersmith \u0026 City, District and Metropolitan lines.",
+     "These trains are longer and more spacious than the old trains they replaced. The train doors are also bigger, creating extra space for more people to get on and off at stations. This speeds up journeys.",
+     "The trains also have improved audio and visual information, dedicated wheelchair spaces and colour contrasting interiors.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New track and drainage\"}",
+     "By replacing old and worn out track and points your journeys will be quieter and smoother. Coupled with brand new drainage systems, they will be more reliable during bad weather.",
+     "Better drainage means that the track is much less likely to flood, reducing delays to journeys because of signal failures, as well as fewer closures for maintenance and repair works.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New signalling system\"}",
+     "Work to install a new signalling and control system began in summer 2016. This will eventually allow the trains to be driven automatically, with a train operator in the cab to open and close the doors. The train operator will be responsible for managing customer information and safety.",
+     "Similar technology introduced in recent years on the Jubilee and Northern lines improved performance. The new signalling system allows trains to be run closer together, meaning a more frequent service and shorter waiting times, allowing more people to be carried. This new technology will enable us to reduce delays and improve reliability.",
+     "The programme will allow us to operate 32 trains per hour, a 33% increase in peak-hour capacity. Installation work will require some line closures.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A new fleet of air-conditioned trains, with brighter more spacious interiors, low floors and dedicated spaces for wheelchair users, CCTV and other improved features\",\"Space for more customers\",\"Faster journeys and reduced waiting times\",\"Fewer delays as safe but obsolete equipment - dating back to the 1920s in some places - is replaced with modern, computerised signalling and control systems\",\"Better live customer information on platforms and to smart devices\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Timeline\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"2017: start to install new signalling on the first section of track. Trains begin to be fitted with new on-board signalling equipment\",\"2018: new Hammersmith Service Control Centre opens. Improved reliability and customer information on sections of Circle and Hammersmith \\u0026 City lines\",\"2019: first section of new signalling is complete and goes into operational use\",\"2020: new signalling complete across central London\",\"2021: initial improvements to journey times in central London and to Barking - up to 30 trains per hour during the peak\",\"2022: final section of new signalling system completed. Trains increased to 32 per hour in central London and to Barking during peak times\",\"2023: more trains on the Metropolitan line at peak times. Increased services on the busiest sections and better customer information\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

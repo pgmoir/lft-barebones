@@ -1,0 +1,107 @@
+{
+ "pageTitle": "Service delay refund claims",
+ "keywords": "Bus passengers,DLR passengers,London Overground passengers,Public,Tube passengers,R,Finance,TfL",
+ "description": "Figures for the types of refunds we give including for incomplete journeys, service delays and contactless payment",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Service delay refund claims"
+  }
+ ],
+ "title": {
+  "title": "Service delay refund claims",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The report shows the total number of claims we have received by month since January 2013, as well as the total value of refunds and the average refund value per customer.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Go to the \u003ca href=\"/corporate/publications-and-reports/oyster-card\"\u003eOyster card publications and reports page\u003c/a\u003e for information on the number of Oyster card refunds we pay, and to the \u003ca href=\"/corporate/publications-and-reports/contactless-payment\"\u003eContactless publications and reports page\u003c/a\u003e for information on the number of contactless refunds.",
+     " \u003ca href=\"/fares-and-payments/fares2018/refunds-and-replacements\"\u003eGo to Refunds and replacements\u003c/a\u003e if you want to claim a refund.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Service delay refunds report\",\"url\":\"/cdn/static/cms/documents/service-delay-refunds.pdf\",\"icon\":\"download\",\"size\":\"PDF 256KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Oyster card reports",
+      "url": "/corporate/publications-and-reports/oyster-card",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contactless reports",
+      "url": "/corporate/publications-and-reports/contactless-payment",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Refunds and replacements",
+      "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

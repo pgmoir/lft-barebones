@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Report roadworks",
+ "keywords": "Cyclists,Drivers,Freight industry,Public,Taxi and private hire,TfL",
+ "description": "How to report roadworks and street faults from abandoned vehicles to potholes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Help \u0026 contacts",
+   "url": "/help-and-contact/index"
+  },
+  {
+   "title": "Report roadworks"
+  }
+ ],
+ "title": {
+  "title": "Report roadworks",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Tell us about a problem at a roadworks site. We will take action or send your report to the relevant Highway Authority if the location is not part of our road network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"https://tflportal.icasework.com/form?\u0026Login=false\u0026Type=Roadworks\u0026NoAbout=Yes\"\u003eReport a roadworks issue\u003c/a\u003e ",
+     " \u003ca href=\"/help-and-contact/contact-us-about-streets-and-other-road-issues\"\u003eReport other street faults\u003c/a\u003e - such as potholes or abandoned vehicles",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Roadworks Pledge\"}",
+     "As part of an ongoing drive to reduce the amount of roadworks in London, TfL, the London Boroughs and all those\ndigging up the Capital's roads have pledged to do all they can to minimise\nunnecessary roadworks disruption and ensure works are well managed.",
+     "To help us\nachieve this you can report any roadworks that do not follow the\nRoadworks Pledge.",
+     "Roadworks should:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eBe tidy and safe\\u003c/strong\\u003e with a clutter-free site so it is safe for pedestrians, cyclists and other road users\",\"\\u003cstrong\\u003eAlways explain what's happening\\u003c/strong\\u003e through detailed, clear and consistent signage\",\"\\u003cstrong\\u003eAlways have activity on site\\u003c/strong\\u003e or, if not, explain why (eg concrete is drying)\",\"\\u003cstrong\\u003eTake up as little road/pavement space as possible\\u003c/strong\\u003e with a compact working area and eliminating the unnecessary use of cones, safety barriers and storage of materials\",\"\\u003cstrong\\u003eHelp keep London moving\\u003c/strong\\u003e by working outside peak hours, re-opening the road to traffic at peak times and, where this is not possible, working all day or extended hours to complete works as quickly as possible. Diversion routes should be clearly signed\"]}",
+     "{\"template\":\"bulletlist\"}",
+     "The Department for Transport also publishes guidelines on the safe management of roadworks.",
+     "Read the \u003ca href=\"https://www.gov.uk/government/publications/safety-at-street-works-and-road-works\"\u003eDfT Code of practice\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

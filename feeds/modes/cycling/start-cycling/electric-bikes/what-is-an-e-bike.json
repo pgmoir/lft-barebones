@@ -1,0 +1,172 @@
+{
+ "keywords": "TfL",
+ "description": "Information on e-bikes, their batteries, how much they cost and the law around using them",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Cycling in London",
+   "url": "/modes/cycling/cycling-in-london"
+  },
+  {
+   "title": "Electric bikes",
+   "url": "/modes/cycling/cycling-in-london/electric-bikes"
+  },
+  {
+   "title": "What is an e-bike?"
+  }
+ ],
+ "title": {
+  "title": "What is an e-bike?",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"An e-bike, or electric bike, is a standard pedal cycle fitted with a battery and electric motor. When you pedal, the motor kicks in to take up some of the strain. Once it reaches a top speed of 15.5 mph (25 kph), it cuts out and leaves the rest up to leg power alone. You can go faster than this, but not with the help of the motor.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Most e-bikes have a range of power settings so that you can adjust the level of assistance the bike provides. It can also be turned off completely, so you can use it like a standard pedal bike.",
+     "You don't need a special licence to use an e-bike*, and it doesn't need an MOT, but insurance is recommended. As long as you're at least 14 years old, you can pick one up and pedal straight out of the shop.",
+     "You're free to travel anywhere a regular pedal bike can.",
+     "E-bikes are easy, practical and fun, are are inexpensive to run. You're also free to travel anywhere a regular pedal bike can.",
+     " \u003ca href=\"http://ebikes.london/find-a-test-ride/\"\u003eFind a free test ride\u003c/a\u003e to try one out before you buy.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About e-bike batteries\"}",
+     "E-bikes are fitted with a rechargeable battery that powers the motor, which helps to drive the pedals when power assistance is active. The battery is detachable and recharged via a standard mains socket, so you can bring it indoors when power is low and have it fully charged for when you next set out.",
+     "Batteries tend to be either mounted on the frame or fitted within specially designed racks above the back wheel, and vary in power. This is an important factor in determining what kind of range you will achieve.",
+     "Another factor to consider is how you use your e-bike. Advertised battery ranges often reflect ideal riding conditions and conservative battery assistance, so the range of your own battery will depend heavily on the types of rides you undertake and the level of assistance you use. For example, you can expect a battery to deplete faster when used on full power assistance in the hilly suburbs of north London, than when used on low power along the comparatively flat routes through the centre of the city.",
+     "However, a typical e-bike battery should last the length of a reasonable commute through London to work and back. Just choose a battery with twice your normal daily usage and you should have plenty of power to complete your ride. If you do ever run out of battery, you'll still be able to pedal the bike home.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much do e-bikes cost?\"}",
+     "E-bikes tend to cost more than regular bikes because of the battery and motor, and are typically priced between £500 and £2,500.",
+     "However, running costs are low - they're easy and cheap to recharge, costing between 5 and 10 pence per charge - and you do not need a licence*, or to pay for an MOT or Vehicle Excise Duty. You'll never have to pay for petrol either, so e-bikes are much cheaper than owning and using a car or other motor vehicle.",
+     "Insurance is also not required, though it is recommended that you take out a policy. Standard bicycle insurance or household insurance policies may not include e-bikes, so make sure you check the terms of any policy.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The law and e-bikes\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You must be at least 14 years old to ride an e-bike\",\"E-bikes have a legal maximum motor power output of 250 watts and a power-assisted speed of up to 15.5 mph (25 kph)\",\"You must follow the rules of the road, as you would if you were using any other vehicle on the UK's roads. \\u003ca href=\\\"https://www.gov.uk/guidance/the-highway-code\\\"\\u003eRefer to the Highway Code for more information\\u003c/a\\u003e .\"]}",
+     " \u003ca href=\"https://www.gov.uk/electric-bike-rules\"\u003eLearn more about the laws on using e-bikes\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Advice and further information\"}",
+     "For more information about e-bikes, we recommend you speak to one of the companies listed on the \u003ca href=\"http://ebikes.london/find-a-test-ride/\"\u003ee-bikeslondon website\u003c/a\u003e , or visit other specialist e-bike websites.",
+     "*Except Northern Ireland, where you need to obtain a motorcycle licence to ride an e-bike, and are required to tax, insure and register your ride with the DVLA."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Rider stories",
+      "url": "/modes/cycling/cycling-in-london/rider-profiles",
+      "image": {}
+     },
+     {
+      "title": "Cycle Skills",
+      "url": "/modes/cycling/cycling-in-london/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Protect your bike from theft",
+      "url": "/modes/cycling/cycling-in-london/avoid-theft",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycling-in-london/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycling with children",
+      "url": "/modes/cycling/cycling-in-london/cycling-with-children",
+      "image": {}
+     },
+     {
+      "title": "Electric bikes",
+      "url": "/modes/cycling/cycling-in-london/electric-bikes",
+      "image": {}
+     },
+     {
+      "title": "What is an e-bike?",
+      "url": "/modes/cycling/start-cycling/electric-bikes/what-is-an-e-bike",
+      "image": {}
+     },
+     {
+      "title": "Is an e-bike for me?",
+      "url": "/modes/cycling/start-cycling/electric-bikes/is-an-e-bike-for-me",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

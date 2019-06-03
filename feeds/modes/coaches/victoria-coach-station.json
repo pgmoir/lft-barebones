@@ -1,0 +1,122 @@
+{
+ "pageTitle": "Victoria Coach Station",
+ "keywords": "TfL",
+ "description": "Booking information and directions to Victoria Coach Station",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Coaches",
+   "url": "/modes/coaches/index"
+  },
+  {
+   "title": "Victoria Coach Station"
+  }
+ ],
+ "title": {
+  "title": "Victoria Coach Station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Using Victoria Coach Station can make your journeys to and from London a lot easier. With good transport links to mainline rail, Underground and bus services, it offers a range of express and commuter services, day tours, coach holidays and private hire.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Booking information\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Ticket Hall\"}",
+     "The ticket office is open daily from 08:30 to 19:30.",
+     "Tickets for most coach companies can be purchased from the Ticket Hall at Victoria Coach Station. Please allow at least one hour before your coach is scheduled to depart.",
+     "We also top up and sell Oyster cards which can be used on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line, River Bus services and most National Rail services in London. Please note that Oyster card refunds cannot be processed at the Coach Station.",
+     "If you are travelling on an overnight service, please arrive 20 minutes\nbefore your coach is scheduled to depart.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Timetables\"}",
+     "For timetable information, contact the coach company running the service you want to use.",
+     " \u003ca href=\"/modes/coaches/coach-companies\"\u003eFind a coach company\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By foot or cycle\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By foot or cycle\",\"url\":\"/cdn/static/cms/documents/victoriacoach-by-foot.pdf\",\"icon\":\"download\",\"size\":\"PDF 854KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By bus\"}",
+     "Bus numbers 11, 44, 170, 211, C1, C10, N11 and N44 stop outside the Coach Station.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By bus\",\"url\":\"/cdn/static/cms/documents/victoria-2277-by-bus.pdf\",\"icon\":\"download\",\"size\":\"PDF 98KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By Tube\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By Tube\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.69MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By rail\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By Rail\",\"url\":\"/cdn/static/cms/documents/london-rail-and-tube-services-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.33MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By taxi or minicab\"}",
+     "A taxi rank is outside the Coach Station on Eccleston Place.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By car\"}",
+     "There is a NCP car park on Semley Place next to the Coach Station. Parking meters are also available in nearby streets."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Coaches",
+    "links": [
+     {
+      "title": "Victoria Coach Station",
+      "url": "/modes/coaches/victoria-coach-station",
+      "image": {}
+     },
+     {
+      "title": "Victoria Coach Station facilities",
+      "url": "/modes/coaches/victoria-coach-station-facilities",
+      "image": {}
+     },
+     {
+      "title": "Coach companies",
+      "url": "/modes/coaches/coach-companies",
+      "image": {}
+     },
+     {
+      "title": "Mobility assistance",
+      "url": "/modes/coaches/mobility-assistance",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Coaches",
+     "url": "/modes/coaches/mobility-assistance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

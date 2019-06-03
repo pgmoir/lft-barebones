@@ -1,0 +1,72 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Brent to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Brent is to benefit from better transport under a proposed £10 billion investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Brent and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Brent on the move.\"",
+     "The main benefits for Brent included in TfL's 5 Year Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the completion of the showcase Wembley Park station, which will be completed in time for the opening of the new Wembley Stadium in 2006. The improvements will mean the station will be able to manage 37,500 customers per hour;\",\"a package of improvements is planned for Silverlink Metro services, providing station and security improvements including better CCTV and lighting, graffiti cleaning, improved customer information and the extension of station staffing hours to provide a greater early morning and later night presence.\"]}",
+     "In addition, improvements to trains and stations in the area planned to be delivered under the PPP by 2010 include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"a new signalling system and increase in capacity of 48 percent on the Jubilee line;\",\"the first new air-cooled trains to be introduced on the Metropolitan Line in 2009.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Brent's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Brent by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded, includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding;\",\"increased frequencies on 22 bus routes, new low floor, fully accessible buses on 21 routes, two new routes introduced (440, 460), three new night bus routes;\",\"improvements have been made to rail services on the North London Line between Richmond and North Woolwich.\",\"In partnership with Brent, a range of local schemes have been implemented including:\",\"the Safer Routes to Schools programme at Wembley Manor Junior School has resulted in a 37 per cent decrease in car journeys to school;\",\"Oliver Goldsmith and Braincroft Primary schools have benefited from cycle parking and lockers.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

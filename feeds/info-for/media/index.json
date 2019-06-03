@@ -1,0 +1,169 @@
+{
+ "pageTitle": "Media",
+ "description": "Information aimed primarily at journalists and filmmakers, including press releases and news articles.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media"
+  }
+ ],
+ "title": {
+  "title": "Media",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Our Press Office manages requests from journalists, news photographers and crews, and our Film Offices help filmmakers, photographers and students/non-professionals work on our transport networks."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Photos",
+    "texts": [
+     "License our photography for use and access our image gallery"
+    ],
+    "link": {
+     "url": "/info-for/media/photos",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/photography-on-tfl_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Filming \u0026 photography",
+    "texts": [
+     "Get permission before commercial filming on our networks"
+    ],
+    "link": {
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/filming-on-tube-700x350_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Press releases",
+    "texts": [
+     "See our latest press releases and browse the archive"
+    ],
+    "link": {
+     "url": "/info-for/media/press-releases",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Map licensing ",
+    "texts": [
+     "Did you know the world famous Underground map is copyrighted?"
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/map-licensing",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Design standards ",
+    "texts": [
+     "License our fonts and logos and apply our design guidelines"
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/design-standards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfL",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfL",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

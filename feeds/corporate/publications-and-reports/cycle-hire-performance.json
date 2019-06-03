@@ -1,0 +1,143 @@
+{
+ "pageTitle": "Cycle hire performance",
+ "keywords": "Cyclists,C,Performance,Cycling,TfL",
+ "description": "Quarterly performance reports including statistics on revenue generated and the most frequent journeys",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Cycle hire performance"
+  }
+ ],
+ "title": {
+  "title": "Cycle hire performance",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We publish information on the performance of our cycle hire scheme, including statistics such as revenue generated and the most frequent journeys. Santander replaced Barclays as the sponsor of the scheme in March 2015.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quarterly performance statistics\"}",
+     "Santander Cycles (previously Barclays Cycle Hire/BCH)",
+     "Quarterly performance report Q3 2018/19",
+     "PDF 366KB",
+     "Quarterly performance report Q2 2018/19",
+     "PDF 365KB",
+     "Quarterly performance report Q1 2018/19",
+     "PDF 364KB",
+     "Quarterly performance report Q4",
+     "PDF 363KB",
+     "Santander cycles transparency to end of December 2017",
+     "PDF 970KB",
+     "Santander cycles transparency to end of September 2017",
+     "PDF 186KB",
+     "Santander cycles transparency to end of June 2017",
+     "PDF 190KB",
+     "Santander Cycles transparency to end of March 2017",
+     "PDF 191KB",
+     "Santander Cycles transparency to end of December 2016",
+     "PDF 574KB",
+     "Santander Cycles transparency to end of September 2016",
+     "PDF 189KB",
+     "Santander Cycles transparency to end June 2016",
+     "PDF 89KB",
+     "Santander Cycles transparency to end March 2016",
+     "PDF 181KB",
+     "Santander Cycles transparency to end December 2015",
+     "PDF 552KB",
+     "Santander Cycles transparency to end September 2015",
+     "PDF 587KB",
+     "Santander Cycles transparency to end June 2015",
+     "PDF 202KB",
+     "Santander Cycles transparency to end March 2015",
+     "PDF 197KB",
+     "BCH transparency to end December 2014",
+     "PDF 574KB",
+     "BCH transparency to end of September 2014",
+     "PDF 572KB",
+     "BCH transparency to end June 2014",
+     "PDF 576KB",
+     "BCH transparency to end of March 2014",
+     "PDF 425KB",
+     "BCH transparency to end of December 2013",
+     "PDF 429KB",
+     "BCH transparency to end of August 2013",
+     "PDF 432KB",
+     "BCH transparency to end of June 2013",
+     "PDF 386KB",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles customer surveys\"}",
+     "Cycle hire scheme member and casual user customer satisfaction surveys (updated October 2017)",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Santander Cycles casual users customer satisfaction Q2 2017/18\",\"url\":\"/cdn/static/cms/documents/santander-cycles-casuals-css-q2-2017-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 893KB\",\"image\":{}},{\"title\":\"Santander Cycles members customer satisfaction Q2 2017/18\",\"url\":\"/cdn/static/cms/documents/santander-cycles-members-css-q2-2017-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"Santander Cycles casual users customer satisfaction Q2 2016/17\",\"url\":\"/cdn/static/cms/documents/santander-cycle-hire-casuals-q2-2016-17.pdf\",\"icon\":\"download\",\"size\":\"PDF 888KB\",\"image\":{}},{\"title\":\"Santander Cycles members customer satisfaction Q2 2016/17\",\"url\":\"/cdn/static/cms/documents/santander-cycle-hire-members-q2-2016-17.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"Santander Cycles customer satisfaction and usage survey Q3 2015/16\",\"url\":\"/cdn/static/cms/documents/santander-cycles-members.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.36MB\",\"image\":{}},{\"title\":\"Santander Cycles casual users profile Q2 2015/16\",\"url\":\"/cdn/static/cms/documents/santander-cycles-casuals.pdf\",\"icon\":\"download\",\"size\":\"PDF 859KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

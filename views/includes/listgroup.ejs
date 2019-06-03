@@ -1,0 +1,92 @@
+<% if (typeof o !== 'undefined') { card = o } %>
+
+<% if (card.style && card.style == 'nocard' ) { %>
+        <ul class="list-group mb-3">
+
+<% } else if (card.style && card.style == 'nocardsquare') { %>
+        <ul class="list-group list-group-flush">
+
+<% } else if (card.style && card.style == 'nocardbody') { %>
+  <div class="card">
+        <ul class="list-group list-group-flush">
+
+<% } else if (card.style && card.style == 'noflush') { %>
+  <div class="card">
+    <div class="card-body">
+        <ul class="list-group">
+
+<% } else if (card.style && card.style == 'foldernav') { %>
+  <div class="card">
+    <% if (card.link && card.link.url) { %>
+      <h3 class="card-header bg-dark h5"><a href="<%= card.link.url %>" class="text-white"><%= card.link.title %> <span class="sr-only">navigation</span></a></h3>
+    <% } else if (card.title) { %>
+      <h3 class="card-header bg-dark text-white h5"><%= card.title %> <span class="sr-only">navigation</span></h3>
+    <% } %>
+    <div class="card-body">
+      <div class="card m-0">
+        <ul class="list-group list-group-flush">
+
+<% } else if (card.style && card.style == 'links') { %>
+      <div class="card m-0 <% if (card.class) { %><%= card.class %><% } %>">
+        <ul class="list-group list-group-flush">
+
+<% } else { %>
+  <div class="card">
+    <div class="card-body">
+      <% if (card.title) { %>
+      <h3 class="card-title h5"><%= card.title %></h3>
+      <% } %>
+      <div class="card m-0">
+        <ul class="list-group list-group-flush">
+<% } %>
+
+<% if (card.links) { %>
+    <% for (let link of card.links) { %>
+      <% if (link.icon) { %>
+        <li class="list-group-item <% if (card.style == 'nocardsquare') { %>rounded-0<% } %>">
+          <% if (link.url) { %><a href="<%= link.url %>" class="d-flex align-items-center"><% } else { %><div class="d-flex align-items-center"><% } %>
+            <% if (link.pre) { %><div class="svgpre svgicon-<%= link.pre %> flex-shrink-1 p-2 mr-2"></div><% } %>
+            <% if (link.image && link.image.url) { %><div class="flex-shrink-1 mr-3"><img src="<%= link.image.url %>"></div><% } %>
+            <div class="w-100 pr-2"><%= link.title %><% if (link.size) { %> (<%= link.size %>)<% } %></div>
+            <div class="svgpost svgicon-<%= link.icon %> flex-shrink-1"></div>
+          <% if (link.url) { %></a><% } else { %></div><% } %></li>
+        </li>
+      <% } else { %>
+        <li class="list-group-item"><% if (link.url) { %><a href="<%= link.url %>"><% } %><%= link.title %><% if (link.url) { %></a><% } %></li>
+      <% } %>
+    <% } %>
+<% } %>
+
+<% if (card.style && card.style == 'nocard' ) { %>
+        </ul>
+
+<% } else if (card.style && card.style == 'nocardsquare' ) { %>
+        </ul>
+
+<% } else if (card.style && card.style == 'nocardbody') { %>
+        </ul>
+  </div>
+
+<% } else if (card.style && card.style == 'noflush') { %>
+        </ul>
+    </div>
+  </div>
+
+<% } else if (card.style && card.style == 'foldernav') { %>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<% } else if (card.style && card.style == 'links') { %>
+        </ul>
+    </div>
+
+<% } else { %>
+        </ul>
+      </div>
+    </div>
+  </div>
+<% } %>
+
+

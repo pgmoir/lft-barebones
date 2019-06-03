@@ -1,0 +1,130 @@
+{
+ "pageTitle": "LEZ road signs",
+ "keywords": "TfL",
+ "description": "Traffic signs and road markings make it clear when you are approaching, entering and leaving the LEZ zone",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "LEZ: Where and when",
+   "url": "/modes/driving/low-emission-zone/about-the-lez"
+  },
+  {
+   "title": "LEZ road signs"
+  }
+ ],
+ "title": {
+  "title": "LEZ road signs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Look out for signs at the boundary and side of the road to see where LEZ applies.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/lez-sign.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/lez-road-signs-within.gif\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Inside the Zone\"}",
+     "Once you're inside the LEZ, on main roads there are signs to remind you\n        that you're in the zone and that the scheme is enforced by cameras:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/lez-road-signs-approaching.gif\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Advance warning signs\"}",
+     "On major approaches to the M25, advance warning signs like these\n        indicate the position of the LEZ boundary, allowing you to choose to\n        divert onto the M25:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/lez-road-signs-advanced.gif\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Additional advance signs\"}",
+     "Closer to the boundary itself, some approaches have additional advance\n        signs to indicate a route you may take to avoid entering the zone:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "LEZ road signs",
+      "url": "/modes/driving/low-emission-zone/about-the-lez/lez-road-signs",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

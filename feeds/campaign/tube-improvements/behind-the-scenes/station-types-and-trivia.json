@@ -1,0 +1,141 @@
+{
+ "pageTitle": "Station types and trivia",
+ "keywords": "TfL",
+ "description": "We're moderning our busiest stations, and integrating with other modes of transport",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving the Tube",
+   "url": "/campaign/tube-improvements"
+  },
+  {
+   "title": "Behind the scenes",
+   "url": "/campaign/tube-improvements/behind-the-scenes"
+  },
+  {
+   "title": "Station types and trivia"
+  }
+ ],
+ "title": {
+  "title": "Station types and trivia",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Explore the different kinds of stations you use, and find out a few facts along the way.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Station categories\"}",
+     "We categorise our stations in the four ways below.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/stationtypes-gateway_rdax_400x250.gif\",\"alt\":\"Sketch of a Gateway station type\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Gateway\"}",
+     "These stations are the main visitor entry points to London, with high volumes of customers and a high proportion of people unfamiliar with the Tube network. At these stations, new Visitor Information Centres will be in place. An example of a Gateway station would be King's Cross St. Pancras or Heathrow 1,2,3.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/stationtypes-destination_rdax_400x250.gif\",\"alt\":\"Sketch of a destination station type\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Destination\"}",
+     "These busy stations in Central London have high volumes of customers and include commuter rail termini and tourist destinations. An example of a destination station would be Embankment.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/stationtypes-metro_rdax_400x250.gif\",\"alt\":\"Sketch of a metro station type\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Metro\"}",
+     "These stations serve predominantly inner London communities with many regular users. An example of a metro station would be Clapham South.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/stationtypes-local_rdax_400x250.gif\",\"alt\":\"Sketch of a local station type\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local\"}",
+     "These smaller stations, in outer London or beyond, have lower customer numbers and serve mainly regular customers, familiar with the Tube network. An example of a local station would be Rickmansworth.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube trivia\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tottenham Court Road station upgrade will have 80,000 ceramic tiles installed in its station - enough to tile eight Olympic pools\",\"Tottenham Court Road station upgrade will have 327,000 metres of cabling installed - four times the length of the Central line\",\"Tottenham Court Road station has 8,000 panels of glass cladding installed, weighing 180 tonnes - the same as a blue whale\",\"Victoria station has received 23,000 cubic metres of reinforced concrete - enough to fill nine Olympic pools or 3,800 concrete mixers\",\"Victoria station is getting 300 metres of new tunnels - the same distance a Torchbearer carried the Olympic Flame during the 2012 Olympics\",\"At Victoria station, we have installed over 2,000 interlocking jet grout columns\",\"Also at Victoria, we are using over 100 suppliers to increase the size of the station by 133%\",\"Along with the waste from the Crossrail sites, Bond Street station upgrade waste goes to Wallasea Island where it is being used by the RSPB to create a nature reserve\",\"Some of the excavation work at Bond Street had to be done by hand. A tunnel has been dug by hand between the Central line platforms to create a passage to one of the new lifts\"]}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tottenham-court-road-ticket-hall.jpg\",\"alt\":\"We're building a new ticket hall\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tottenham-court-road-station-oxford-st-entrance.jpg\",\"alt\":\"Building a new entrance and ticket hall on Oxford Street by 2016\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/victoria-step-free-access.jpg\",\"alt\":\"Construction of step-free access\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/victoria-station-upgrade-new-ticket-halls.jpg\",\"alt\":\"Building a new underground North ticket hall with an entrance at street level by 2016\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bond-street-station-upgrade-new-tunnels.jpg\",\"alt\":\"Creating new tunnels for interchanges with Crossrail services within the station\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/central-line-interchange-tunnel.jpg\",\"alt\":\"Interchange tunnel in preparation for tiling\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/embankment-station-repainting.jpg\",\"alt\":\"Giving platforms a facelift by repainting the walls on platforms\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/embankment-station-laying-floors.jpg\",\"alt\":\"Laying new accessible platform flooring\"}],\"wrapped\":false}",
+     "See exclusive behind the scenes updates on all our Tube improvements on Twitter \u003ca href=\"https://twitter.com/search?f=realtime\u0026q=%23TubeImprovements\u0026src=typd\"\u003e#TubeImprovements\u003c/a\u003e and our \u003ca href=\"http://www.facebook.com/transportforlondon\"\u003eTfL\u003c/a\u003e and \u003ca href=\"http://www.facebook.com/londonunderground\"\u003eTube\u003c/a\u003e Facebook pages."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving the Tube",
+    "links": [
+     {
+      "title": "What we've done",
+      "url": "/campaign/tube-improvements/what-we-ve-done",
+      "image": {}
+     },
+     {
+      "title": "What we're doing",
+      "url": "/campaign/tube-improvements/what-we-are-doing",
+      "image": {}
+     },
+     {
+      "title": "Behind the scenes",
+      "url": "/campaign/tube-improvements/behind-the-scenes",
+      "image": {}
+     },
+     {
+      "title": "Station types and trivia",
+      "url": "/campaign/tube-improvements/behind-the-scenes/station-types-and-trivia",
+      "image": {}
+     },
+     {
+      "title": "Track renewal",
+      "url": "/campaign/tube-improvements/behind-the-scenes/track-renewal",
+      "image": {}
+     },
+     {
+      "title": "Signalling",
+      "url": "/campaign/tube-improvements/behind-the-scenes/signalling",
+      "image": {}
+     },
+     {
+      "title": "Tube escalators \u0026 lifts",
+      "url": "/campaign/tube-improvements/behind-the-scenes/escalator-refurbishment",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Improving the Tube",
+     "url": "/campaign/tube-improvements/behind-the-scenes/escalator-refurbishment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London (TfL) staff member honoured in New Year's Honours List",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "John Lulham, Head of Contracts and Procurement for TfL Streets has been awarded a MBE in the New Year's Honours List for services to equality and diversity through procurement."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "John has worked for TfL and its predecessor organisations for 39 years and in recent years has led the implementation of TfL's Equality and Diversity policies in two major contracts for TfL Streets, totalling £1.5bn as well as a number of smaller contracts.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL's commitment\"}",
+     "TfL operates a Responsible Procurement Policy and organisations that supply goods or services to TfL need to have a similar commitment to equality and diversity through the implementation of fair employment practices and policies that eliminate unlawful discrimination.",
+     "Mayor of London, Boris Johnson, said: 'I am delighted that John has been recognised for his tireless and persistent work over many years to promote this vital TfL agenda.",
+     "'His efforts have increased the commitment of many companies that work with TfL to provide greater opportunities across the Capital, particularly for its diverse ethnic communities and for disabled Londoners.'",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"A well deserved reward\"}",
+     "John Lulham said: 'It is a great privilege to receive this award and was certainly a big surprise when I found out.",
+     "'I am very pleased to be able to highlight the importance of the equality and diversity agenda which is very significant for London.'",
+     "Peter Brown, Chief Operating Officer of TfL Streets said: 'This award is very well deserved and is recognition of John's commitment and contribution towards equality and diversity.",
+     "'John was one of the first procurement specialists to see the importance of integrating equality and diversity into the procurement process.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Raising the bar\"}",
+     "'He has worked strenuously with contractors and suppliers to raise awareness of the diversity agenda, helping them develop their own policies and bring them up to the required standards.",
+     "'He has led the development of procurement best practice in his field and his advice is now sought by other public authorities and private sector companies endeavouring to progress in this area.",
+     "'On behalf of TfL, I would like to extend my congratulations to John and his family.'",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"John Lulham lives in Surbiton, south west London\"]}",
+     "\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

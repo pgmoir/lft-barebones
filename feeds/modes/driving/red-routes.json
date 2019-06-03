@@ -1,0 +1,210 @@
+{
+ "pageTitle": "Red routes",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "Information about red routes",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Red routes",
+  "card": {
+   "texts": [
+    "London's red routes form a network of major roads that make up 5% of the roads, but carry up to 30% of the city's traffic. If you don't follow the signs and road markings, we may issue you with a Penalty Charge Notice (PCN)."
+   ],
+   "link": {
+    "url": "/modes/driving/pay-a-pcn",
+    "button": "Pay a penalty",
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "title": "Where are the red routes?",
+    "texts": [
+     "Use the maps to see if a red route is on your journey"
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/red-route-maps",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/red-routes-cars_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Rules of the red routes",
+    "texts": [
+     "Signs and road markings tell you what you can and can't do."
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/rules-of-red-routes",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/no-stopping_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Parking dispensations",
+    "texts": [
+     "We can occasionally relax the parking rules but you need permission first"
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/dispensations",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Challenge a PCN",
+    "texts": [
+     "Find out how to make a representation against your Penalty Charge Notice"
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Highway licences",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure/highway-licences",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge",
+      "url": "/modes/driving/congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Zone",
+      "url": "/modes/driving/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLTrafficNews",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

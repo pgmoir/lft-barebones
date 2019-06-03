@@ -1,0 +1,79 @@
+{
+ "pageTitle": "Northern line services this evening",
+ "description": "This is due to a major signalling system failure at Clapham Common.Work to resolve the signalling failure is being undertaken by Tube Lines, who are responsible for the maintenance and renewal of the Northern line.Passengers are advised to avoid Stockwell",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Northern line services this evening",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) advised passengers that Northern line services between Stockwell and Morden would be severely disrupted this evening with a limited service in operation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Engineers from Tube Lines have been working to restore services as quickly as possible",
+     "This is due to a major signalling system failure at Clapham Common.",
+     "Work to resolve the signalling failure is being undertaken by Tube Lines, who are responsible for the maintenance and renewal of the Northern line.",
+     "Passengers are advised to avoid Stockwell station due to potential overcrowding and use National Rail services where possible.",
+     "Valid LU tickets will be accepted on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Southern services from Victoria for Clapham Junction, Wandsworth Common and Balham\",\"South West Trains from Waterloo or Vauxhall for Wimbledon or Clapham Junction\",\"First Capital Connect from Blackfriars for Tooting\"]}",
+     "A limited replacement bus service is available from Stockwell and Wimbledon and will operate as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Stockwell to Clapham Common\",\"Wimbledon to South Wimbledon and Morden\"]}",
+     "London Buses and Croydon Tramlink are also accepting valid LU tickets by any reasonable route.",
+     "Passengers travelling to South Wimbledon or Morden are advised to use the District line or National Rail services to Wimbledon and then continue their journey via the replacement bus service or Croydon Tramlink.",
+     "Passengers travelling to Tooting or Tooting Bec are advised to use First Capital Connect services from Blackfriars or Southern services to Wandsworth Common.",
+     "Mike Brown, Chief Operating Officer, London Underground, said: \"A major signalling system failure at Clapham Common earlier this morning has disrupted Northern line services throughout the day.",
+     "\"Engineers from Tube Lines have been working to restore services as quickly as possible but the only option has been to undertake emergency engineering works this afternoon.",
+     "\"A limited service will operate between Stockwell and Morden this evening. We apologise to passengers for the inconvenience caused.\"",
+     "\u003cbr /\u003e\u003cbr /\u003e\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tube Lines are responsible for maintenance and renewal of the Jubilee, Northern and Piccadilly lines.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "pageTitle": "Land enquiries",
+ "keywords": "TfL",
+ "description": "Get in touch if you want to enquire about land we own",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Our property portfolio",
+   "url": "/info-for/business-and-commercial/our-property-portfolio"
+  },
+  {
+   "title": "Land enquiries"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Land enquiries",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/land-enquiries.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We are one of London's largest landowners, with a wide range of space across the Capital. You can ask about buying or leasing land from us."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial properties",
+    "links": [
+     {
+      "title": "Becoming a tenant",
+      "url": "/info-for/business-and-commercial/becoming-a-tenant",
+      "image": {}
+     },
+     {
+      "title": "Managing my property",
+      "url": "/info-for/business-and-commercial/managing-my-property",
+      "image": {}
+     },
+     {
+      "title": "Our property portfolio",
+      "url": "/info-for/business-and-commercial/our-property-portfolio",
+      "image": {}
+     },
+     {
+      "title": "Retail",
+      "url": "/info-for/business-and-commercial/retail",
+      "image": {}
+     },
+     {
+      "title": "Arches and industrial",
+      "url": "/info-for/business-and-commercial/arches-and-industrial",
+      "image": {}
+     },
+     {
+      "title": "Offices",
+      "url": "/info-for/business-and-commercial/offices",
+      "image": {}
+     },
+     {
+      "title": "Pop ups, pitches and more",
+      "url": "/info-for/business-and-commercial/other-opportunities",
+      "image": {}
+     },
+     {
+      "title": "Land enquiries",
+      "url": "/info-for/business-and-commercial/land-enquiries",
+      "image": {}
+     },
+     {
+      "title": "Send us feedback",
+      "url": "/info-for/business-and-commercial/send-us-feedback",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial properties",
+     "url": "/info-for/business-and-commercial/send-us-feedback",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

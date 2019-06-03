@@ -1,0 +1,44 @@
+<%- include('../includes/head') %>
+
+  <section id="title" class="banner-content" aria-label="breadcrumb navigation and page title">
+    <span class="banner-background<% if (title.hero) { %> hero-background<% } %> d-none d-md-block" style="background-image: url(<%= title.background %>)"></span>
+    <div class="container-fluid">
+      <div class="container-lft">
+        <div class="d-block hgt-1"></div>
+        <%- include('../includes/breadcrumb', { breadcrumbs: breadcrumbs }) %>
+        <div class="d-none d-md-block hgt-3"></div>
+        <h1>
+          <span class="h-standard pb-2 d-block d-md-none"><%= title.title %></span>
+          <span class="h-highlight h-dark d-none d-md-inline-block"><%= title.title %></span>
+        </h1>
+          <div class="row">
+            <div class="col-12 col-sm-6 col-lg-4">
+              <%- include('../includes/planajourney', { card: { "template": "planajourney", "advanced": true } }) %>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-8">
+              <div class="row">
+                <div id="collapse-pajadvanced" class="collapse col-12 p-0" aria-labelledby="collapse-pajadvancedlink">
+                  <div class="card">
+                  <div class="card-header">Advanced Options for planning your journey</div>
+                    <ul>
+                      <li>Bus</li>
+                      <li>Bus</li>
+                      <li>Bus</li>
+                      <li>Bus</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="row d-flex justify-content-end">
+                <div class="col-12 col-lg-6 p-0">
+                  <%- include('../includes/card', { card: { "style": "card-dark", "title": "Go and discover London this spring", "texts": [ "Start exploring" ], 
+                  "link": { "url": "https://londonblog.tfl.gov.uk/category/sightseeing/?intcmp=hero-Plan%20a%20journey-Go%20and%20discover%20London%20this%20spring", "icon": "external" } } }) %>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </section>
+
+<%- include('../includes/foot') %>

@@ -1,0 +1,222 @@
+{
+ "pageTitle": "Trams",
+ "keywords": "Tram ,Trams,TfL",
+ "description": "Tramlink is a fast, frequent and reliable tram service to routes through central Croydon from Wimbledon, Beckenham, Elmers End and New Addington.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Trams"
+  }
+ ],
+ "title": {
+  "title": "Trams",
+  "icon": "tram",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Cashless trams",
+    "texts": [
+     "Find out how to pay for your journey."
+    ],
+    "link": {
+     "url": "/modes/trams/cashless-trams",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cashless-tram3.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Planned trams line closures",
+    "texts": [
+     "There will be some temporary service changes for trams throughout 2019"
+    ],
+    "link": {
+     "url": "/modes/trams/planned-trams-line-closures",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Service changes",
+    "texts": [
+     "Check for planned line closures and service changes"
+    ],
+    "link": {
+     "url": "/status-updates/planned-track-closures",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "About London Trams",
+    "texts": [
+     "Find out how we manage London Trams"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/what-we-do/london-trams",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Croydon tram derailment",
+    "texts": [
+     "Information following the tragic events in Croydon on 9 November 2016"
+    ],
+    "link": {
+     "url": "/modes/trams/croydon-tram-derailment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Fares",
+      "url": "/fares-and-payments/fares2018/find-fares/bus-and-tram-fares",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Refunds",
+      "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Bus \u0026 Tram discount scheme",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/bus-and-tram-discount",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Croydon tram derailment",
+      "url": "/modes/trams/croydon-tram-derailment",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Maps",
+      "url": "http://tfl.gov.uk/maps/track/tram",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycling near trams",
+      "url": "https://tfl.gov.uk/travel-information/safety/road-safety-advice/driving-and-cycling-safety?intcmp=5456#on-this-page-4",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "serviceboard",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@tramslondon",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

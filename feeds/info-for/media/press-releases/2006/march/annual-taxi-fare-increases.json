@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Annual taxi fare increases",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Annual taxi fare increases",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "New taxi fares come into effect this Saturday, 1 April."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The annual increase of 3.7 per cent takes into account operating costs and average national earnings and is effective across all three tariffs.",
+     "The new fares also include an increase in the Christmas and New Year supplement up from £3 to £4, designed to encourage more drivers to work over the busy period.",
+     "The Heathrow supplement will also increase up from £1 to £2 to cover some of the cost of an increased levy imposed by airport.",
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "\u003cstrong\u003estrong\u003c/strong\u003e ",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCurrent average\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eNew average\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eIncrease (£)\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eIncrease (%)\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eTariff 1\\u003c/strong\\u003e \",\"£8.97\",\"£9.29\",\"£0.32\",\"3.6%\"],[\"\\u003cstrong\\u003eTariff 2\\u003c/strong\\u003e \",\"£10.37\",\"£10.75\",\"£0.38\",\"3.6%\"],[\"\\u003cstrong\\u003eTariff 3\\u003c/strong\\u003e \",\"£12.12\",\"£12.57\",\"£0.45\",\"3.7%\"],[\"\\u003cstrong\\u003eAll week\\u003c/strong\\u003e \",\"£9.89\",\"£10.25\",\"£0.36\",\"3.6%\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

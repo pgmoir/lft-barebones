@@ -1,0 +1,101 @@
+{
+ "pageTitle": "Visitor Oyster credit no longer needed",
+ "keywords": "TfL",
+ "description": "What to do if you no longer need your TfL Visitor Oyster card.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "Visitor Oyster credit no longer needed"
+  }
+ ],
+ "title": {
+  "title": "Visitor Oyster credit no longer needed",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you no longer need your Visitor Oyster card, you can keep it for your next visit, give it to someone else to use or get a refund.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If you're still in London\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get a refund in person\"}",
+     "If your remaining credit is £10 or less, you can get a refund from a Tube station ticket machine.",
+     "You can also get a refund at a \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-centres\"\u003eVisitor Centre\u003c/a\u003e (except Gatwick).",
+     "Your Visitor Oyster card will be cancelled when we process this refund.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If you've left London and live in the UK\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get a refund by phone\"}",
+     "Call:\u003cbr /\u003e \u003ca href=\"tel:0343 222 1234\"\u003e0343 222 1234\u003c/a\u003e ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eCharges may apply\u003c/a\u003e )",
+     "With your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Visitor Oyster card number\",\"Address\",\"Bank details - account number and sort code\"]}",
+     "We may ask you to post your Visitor Oyster card to us.",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If you've left London and live abroad\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get a refund by phone\"}",
+     "Call:\u003cbr /\u003e \u003ca href=\"tel:0343 222 1234\"\u003e0343 222 1234\u003c/a\u003e ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eCharges may apply\u003c/a\u003e )",
+     "With your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Oyster card number\",\"Full address including country and postal, zip or area code\",\"Email address\"]}",
+     "We may ask you to post your Visitor Oyster card to us.",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get a refund by post\"}",
+     "Send your Visitor Oyster card and contact details (name, address, email address and phone number) to:\u003cbr /\u003eTfL Customer Services\u003cbr /\u003e4th Floor\u003cbr /\u003e14 Pier Walk\u003cbr /\u003eLondon\u003cbr /\u003eSE10 0ES",
+     "We will then contact you to process any refund you may be due."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

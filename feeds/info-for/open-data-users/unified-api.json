@@ -1,0 +1,147 @@
+{
+ "pageTitle": "Unified API",
+ "keywords": "TfL",
+ "description": "Our open data spans a large spectrum of quality, accuracy and data formats - all easily accessible via TfL's unified API",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Open data users",
+   "url": "/info-for/open-data-users/index"
+  },
+  {
+   "title": "Unified API"
+  }
+ ],
+ "title": {
+  "title": "Unified API",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our open data spans a large spectrum of quality, accuracy and data formats. We are simplifying your access to this data with a new front-end for our unified API.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our improved unified API has a number of benefits over our older processes:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits of a unified API\"}",
+     "\u003cstrong\u003eUnification of the data for modes of transport into a common format and structure (common canonical data model).\u003c/strong\u003e ",
+     "The majority of the transport data provided by each mode of transport is semantically similar. Historically, the data for each mode has been shared with you in different formats and structures.  This makes the development of multi-mode applications difficult as you will need to write code for each mode of transport.",
+     "The unified API presents all the data that is semantically similar for each mode of transport in the same format and consistent structures. This enables you to write once, and access all of the same types of data across all the modes of transport quickly, making multi-mode application development easier.",
+     "The core identifiers for all stations and platforms have been normalised to the national Naptan standard.  This standard is an identification scheme that is supported by the DfT nationally, allowing the API to integrate data from transport authorities outside of London.  The complexity of mapping between multiple identification systems used within TfL has been hidden from consumers of the API.",
+     "\u003cstrong\u003eLive and web scale\u003c/strong\u003e ",
+     "The unified API is designed for applications to use in realtime and at high volume.",
+     "Previously the data has been provided in a variety of ways from flat file to streams.  In particular the flat files encourage an approach where you create applications with copies of the data, meaning the local copy quickly becomes outdated.  The new API is designed to allow you to query in realtime and on demand, so that end customers always have the latest information.",
+     "\u003cstrong\u003eLow latency\u003c/strong\u003e ",
+     "Some data sets are time-sensitive; in particular bus and rail arrivals can be out of date within 30s.  The unified API supports the latest technologies to deliver this information at the lowest possible latencies (websockets) in ways that scale to meet high volumes. This capability is delivered for rail and buses even though the source data systems use differing paradigms behind the scenes (bus Countdown uses streams, Trakernet uses polling).",
+     "\u003cstrong\u003eMinimise structural and operational complexity\u003c/strong\u003e ",
+     "Much of TfL's source data is provided from back-office operational systems.  The data is rich, but in many places it is over-complicated for most consumer applications.  The unified API is designed with customer-facing applications in mind and the data that is output is designed to be easily understandable, and supportive of common customer-facing application use cases.",
+     "\u003cstrong\u003eSupport of common web and data formats\u003c/strong\u003e ",
+     "The unified API supports output in both XML and JSON format.",
+     "JSON is quickly becoming the de facto data format for web and mobile applications, due to its ease of integration into browser technologies and server technologies that support Javascript.  XML is also widely used as the data interchange format for data rich applications.",
+     "JSON also allows easier integration with web-based mapping technologies such as Google Maps and Open Street map.",
+     "\u003cstrong\u003eSupportive of future change whilst minimising user impact\u003c/strong\u003e ",
+     "The unified API acts as a mediator and façade between the users of the API and changes to the core source systems that provide the data.  This shields users of the API from changes to those source systems as the API can implement logic to maintain the structures and methods that applications have been developed against.",
+     "JSON is a schema-less standard which is particularly suited to allowing new data to be incorporated without impacting previously developed solutions.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Available datasets\"}",
+     "The API supports all the data requirements of the TfL website.  Every data-driven aspect of the website (including maps) is powered by the unified API.",
+     "Some of the multi-modal core datasets included and available to developers are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Journey Planning (current and future)\",\"Status (current and future)\",\"Disruptions (current) and Planned works (future)\",\"Arrival/departure predictions (instant and websockets)\",\"Timetables\",\"Embarkation points and facilities\",\"Routes and lines (topology and geographical)\",\"Fares\"]}",
+     "Additionally, the API supports an extensive places capability for looking up and matching locations by name, postcode etc. It also includes cycle hire data.",
+     "Other datasets are also available for Cabwise, providing locations of registered taxi firms and WebCAT, which includes modelling information on transport, such as travel times between locations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using the unified API\"}",
+     "Using the new API is designed to be as simple as possible, and is available to all:",
+     " \u003ca href=\"https://api.tfl.gov.uk\"\u003estrong\u003c/a\u003e ",
+     "To use the API, you need to register for access tokens and must send those tokens as part of your request. The default response format is JSON, but developers can also request XML if preferred.  These examples are live and it is recommended that a JSON formatter plugin is installed in your browser to make it easier to view the results.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How it works\"}",
+     "Unlike the old API, the unified API consumes and aggregates many of the existing open data sources that you are working with already.",
+     "When the data emerges from the API, it is uniformly consistent in output and structure.  The core benefit for this approach is that with the API acting as a facade, the logic and processes behind creating the API and merging the datasets are abstracted away from you.",
+     "This means that we deal with all of the complexity of stitching the many formats and nuances of the many data formats and qualities from their source systems, and provide you with a unified API that is easier to use.",
+     "This approach also allows us to maintain a compatibility layer going forward. If the input source data systems change, the data can still be provided in the same format out of the API and allow your systems to carry on working in the future.",
+     "The data provided by the API regularly updates from the source systems to deliver the most accurate information available at the time.",
+     "The unified API also represents a step change in the way that the data is provided to you. Traditionally much of the data has been provided as flat files - this required you to do a lot of work to pull the data into your own databases and systems before being able to query that data.",
+     "The API is designed to support a model of interaction where you query the API rather than needing to load the data into your own systems.  It is possible for you to use the data from the API to populate your own databases, but we encourage you to use the API directly as this will minimise issues with data freshness across all delivery channels.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Existing data sources\"}",
+     "Going forward it would be beneficial for you to adopt the new API and to request enhancements and updates to this rather than reverting to the old feeds.",
+     "In the future, we may begin to phase out the old sources of data when the information they currently contain is fully available through the API.  In some cases, there is additional data and value in the old raw data, and these will continue to be made available.",
+     "It should be noted that creating multi-modal applications from those old data sources would be more challenging than using the API and, in these cases, using the old data sources is not recommended."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Open data users",
+    "links": [
+     {
+      "title": "Open data policy",
+      "url": "/info-for/open-data-users/open-data-policy",
+      "image": {}
+     },
+     {
+      "title": "Unified API",
+      "url": "/info-for/open-data-users/unified-api",
+      "image": {}
+     },
+     {
+      "title": "Our open data",
+      "url": "/info-for/open-data-users/our-open-data",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 branding",
+      "url": "/info-for/open-data-users/design-and-branding",
+      "image": {}
+     },
+     {
+      "title": "Widgets",
+      "url": "/info-for/open-data-users/widgets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Open data users",
+     "url": "/info-for/open-data-users/widgets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

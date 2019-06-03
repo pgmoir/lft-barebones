@@ -1,0 +1,167 @@
+{
+ "pageTitle": "Legible London",
+ "keywords": "TfL",
+ "description": "We worked with boroughs, business organisations and disability groups to create this easy-to-use system to help people find their way around London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Legible London"
+  }
+ ],
+ "title": {
+  "title": "Legible London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are keen to work with local authorities, business associations and other organisations to help us expand Legible London across the Capital.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/monolith-south-kensington_rdax_400x250.jpg\",\"alt\":\"Monolith in South Kensington\"},\"wrapped\":false}",
+     "We developed Legible London to help both residents and visitors walk to their destination quickly and easily. The signs offer a consistent experience and information about distances between areas.",
+     "They're also integrated with other transport modes so, for example, when people are leaving the Tube they can quickly identify the route to their destination.",
+     "Find out more about the \u003ca href=\"/info-for/boroughs/maps-and-signs\"\u003efeatures of Legible London maps and signs\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Delivering your scheme\"}",
+     "Introducing Legible London in your area can encourage walking, reduce street clutter and improve links to businesses and local attractions - making where you live a better place for everyone.",
+     "To find out more about bringing the system to your area, email us at \u003ca href=\"mailto:legiblelondon@tfl.gov.uk\"\u003elegiblelondon@tfl.gov.uk\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Legible London expression of interest\",\"url\":\"/cdn/static/cms/documents/legible-london-expression-of-interest-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 386KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We work with a range of organisations representing disability groups to ensure the Legible London design is as inclusive as possible. For example, the Legible London maps show steps, pavement widths and pedestrian crossings.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"The Yellow Book: a prototype wayfinding system for London\",\"url\":\"/cdn/static/cms/documents/ll-yellow-book.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.37MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Sub-regional transport planning",
+      "url": "/info-for/boroughs/sub-regional-transport-planning",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Healthy Workplace Charter",
+      "url": "/info-for/boroughs/healthy-workplace-charter",
+      "image": {}
+     },
+     {
+      "title": "Cycling Toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Safety",
+      "url": "/info-for/boroughs/safety",
+      "image": {}
+     },
+     {
+      "title": "Street Types for London",
+      "url": "/info-for/boroughs/street-types",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Maps \u0026 signs",
+      "url": "/info-for/boroughs/maps-and-signs",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

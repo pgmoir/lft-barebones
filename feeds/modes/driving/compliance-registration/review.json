@@ -1,0 +1,59 @@
+{
+ "pageTitle": "Review application",
+ "keywords": "TfL",
+ "description": "Review your compliance registration application",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "Review application"
+  }
+ ],
+ "title": {
+  "title": "Review application",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Check your vehicles and proof\"}",
+     "You can add up to 50 vehicles to each application. We can only accept vehicles of the same type in a single application - for example, if you have registered a car for ULEZ, you can only register cars as part of this registration.",
+     "If you want to register other types of vehicle you will need to submit a separate application.",
+     "If your application times out, try adding no more than 10 vehicles at a time.",
+     "We aim to process your registration within 10 working days. We will email you with the outcome.",
+     "In the meantime, if you drive in the ULEZ or the LEZ you need to pay any charges your vehicle is liable for.",
+     "I accept the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"target=\"_blank\"\u003eterms and conditions\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

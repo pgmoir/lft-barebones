@@ -1,0 +1,90 @@
+{
+ "pageTitle": "Upload proof",
+ "keywords": "TfL",
+ "description": "Upload proof of compliance",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "Upload proof"
+  }
+ ],
+ "title": {
+  "title": "Upload proof",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Euro emissions standards for LEZ\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vans and minibuses: Euro 3\",\"Buses, coaches and HGVs: Euro IV\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Required documents\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Abatement equipment or retrofit technologies have been fitted:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Proof of equipment fitted showing the vehicle now meets the required Euro standards\"]}",
+     "\u003cstrong\u003eYou can upload a maximum of 19 documents for this application.\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Euro emissions standards for ULEZ\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cars, motorcycles, vans and minibuses: petrol - Euro 4, diesel - Euro 6\",\"Buses, coaches and HGVs: diesel - Euro VI\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Required documents\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle manufactured to a higher Euro standard than was mandatory (early adopters):\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Vehicle Manufacturers Conformity Certificate\",\"Letter signed by a named individual from the vehicle manufacturer's homologation department showing the:\\u003cbr /\\u003e- Number plate (Vehicle Registration Mark)\\u003cbr /\\u003e- Vehicle Identification Number (VIN)\\u003cbr /\\u003e- Euro standard the vehicle was manufactured to - fuel type\\u003cbr /\\u003e- nitrogen oxides (NOx) value and particulate matter (PM) value (if diesel)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle should be exempt or not subject to the ULEZ scheme:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Four photographs of the vehicle (front, sides, rear and interior)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Registering for the 100% showman's discount:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Detailed explanation of the equipment and how it is used for the show\",\"Four or more colour photographs of the vehicle set up for use, from each of its four sides and clearly showing its registration number\",\"Where the equipment is inside the vehicle, colour photographs of the vehicle interior with all doors open and the equipment in place, showing how it is permanently fitted\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Retrofit technologies have been fitted:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Proof of equipment fitted demonstrating the vehicle now meets the required standards or above\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle is registered outside of the UK\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document showing year of manufacture and the Euro standard it was manufactured to\"]}",
+     "\u003cstrong\u003eYou can upload a maximum of 19 documents for this application.\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Euro emissions standards for ULEZ/LEZ\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"ULEZ\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cars, motorcycles, vans and minibuses: petrol - Euro 4, diesel - Euro 6\",\"Buses, coaches and HGVs: diesel - Euro VI\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"LEZ\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vans and minibuses - Euro 3\",\"Buses, coaches and HGVs - Euro IV\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Required documents\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Abatement equipment or retrofit technologies have been fitted:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Proof of equipment fitted showing the vehicle now meets the required standards or above\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle manufactured to a higher Euro standard than was mandatory (early adopters):\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Vehicle Manufacturers Conformity Certificate\",\"Letter signed by a named individual from the vehicle manufacturer's homologation department showing the:\\u003cbr /\\u003e- Number plate (Vehicle Registration Mark)\\u003cbr /\\u003e- Vehicle Identification Number (VIN)\\u003cbr /\\u003e- Euro standard the vehicle was manufactured to\"]}",
+     "If you are registering the vehicle for ULEZ it will also need to state fuel type, nitrogen oxides (NOx) value and particulate matter (PM) value (if diesel).",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle should be exempt from the ULEZ or exempt/not subject to the LEZ:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A copy of vehicle registration document (V5C or foreign equivalent)\",\"Four photographs of the vehicle (front, sides, rear and interior)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Registering for the 100% showman's discount:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document (V5C or foreign equivalent)\",\"Detailed explanation of the equipment and how it is used for the show\",\"Four or more colour photographs of the vehicle set up for use, from each of its four sides and clearly showing its registration number\",\"Where the equipment is inside the vehicle, colour photographs of the vehicle interior with all doors open and the equipment in place, showing how it is permanently fitted\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle is registered outside of the UK\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copy of vehicle registration document showing year of manufacture and the Euro standard it was manufactured to\"]}",
+     "\u003cstrong\u003eYou can upload a maximum of 19 documents for this application.\u003c/strong\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "pageTitle": "Our role",
+ "keywords": "Public,TfL",
+ "description": "The Mayor of London is reponsible for certain transport services in the Capital. We manage those services and implement the Mayor's Transport Strategy",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "How we work",
+   "url": "/corporate/about-tfl/how-we-work"
+  },
+  {
+   "title": "Our role"
+  }
+ ],
+ "title": {
+  "title": "Our role",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our role is to implement the Mayor's Transport Strategy. We also manage those services across the Capital for which the Mayor is responsible.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Virtually everyone who visits, lives or works in London will use one of our services and every one of those journeys matters to us.",
+     "We are here to keep London working and growing, and to make life in the Capital better. But a rapidly growing population means achieving this goal is more challenging than ever.",
+     "Currently, 8.4 million people live in the Capital. This is expected to become 10 million in the 2030s. We must carry on supporting this growth if London's success is to continue.",
+     "We also have to balance delivering our services with one of the biggest savings and efficiency programmes in the public sector. Our success depends on Government support through grants and borrowing, our fare payers, developing our commercial income and achieving our efficiency targets.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we work\"}",
+     "Our Commissioner reports to our Board and leads a management team which is accountable for the daily running of the organisation and the work of more than 25,000 employees.",
+     "We gained most of our functions from our predecessor London Regional Transport, but only took over responsibility for the Underground in 2003.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we are organised\"}",
+     "There are three units, each with responsibility for different aspects of the organisation:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Surface Transport\",\"Underground\",\"Crossrail\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Surface Transport covers the following areas:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/buses/index\\\"\\u003eBuses\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/london-overground/index\\\"\\u003eOverground\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/dlr/index\\\"\\u003eDocklands Light Railway\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/\\\"\\u003eRoads\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/index\\\"\\u003eCycling\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/river/index\\\"\\u003eRiver services\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/trams/index\\\"\\u003eTram\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/emirates-air-line/index\\\"\\u003eEmirates Air Line\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/coaches/index\\\"\\u003eVictoria Coach Station\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/dial-a-ride/index\\\"\\u003eDial-a-Ride\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/taxis-and-minicabs/index\\\"\\u003eTaxi \\u0026 private hire\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/walking/index\\\"\\u003eWalking\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Underground covers the following areas:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/tube/index\\\"\\u003eUnderground\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/tfl-rail/index\\\"\\u003eTfL Rail\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Crossrail Ltd\"}",
+     "This joint venture between Transport for London and the Department for Transport is building a new railway under central London. This will eventually connect Maidenhead and Heathrow in the west, to Shenfield and Abbey Wood in the east.",
+     "When completed, the service on this new section will be launched as the \u003ca href=\"/travel-information/improvements-and-projects/elizabeth-line\"\u003eElizabeth line\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "How we work",
+    "links": [
+     {
+      "title": "Our role",
+      "url": "/corporate/about-tfl/how-we-work/our-role",
+      "image": {}
+     },
+     {
+      "title": "How we are governed",
+      "url": "/corporate/about-tfl/how-we-work/how-we-are-governed",
+      "image": {}
+     },
+     {
+      "title": "How we are funded",
+      "url": "/corporate/about-tfl/how-we-work/how-we-are-funded",
+      "image": {}
+     },
+     {
+      "title": "Planning for the future",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future",
+      "image": {}
+     },
+     {
+      "title": "Public affairs",
+      "url": "/corporate/about-tfl/how-we-work/public-affairs",
+      "image": {}
+     },
+     {
+      "title": "Our customer commitments",
+      "url": "/corporate/about-tfl/how-we-work/our-customer-commitments",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "How we work",
+     "url": "/corporate/about-tfl/how-we-work/our-customer-commitments",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "The Mayor's Transport Strategy",
+      "url": "/corporate/about-tfl/the-mayors-transport-strategy",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Annual Report",
+      "url": "/corporate/publications-and-reports/annual-report",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Committee \u0026 panel meetings",
+      "url": "http://www.beta.tfl.gov.uk/corporate/publications-and-reports/?Category=Committee%20and%20panel%20meetings",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

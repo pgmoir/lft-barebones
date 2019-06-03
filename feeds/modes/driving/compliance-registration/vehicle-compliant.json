@@ -1,0 +1,55 @@
+{
+ "pageTitle": "You don't have to register this vehicle",
+ "keywords": "TfL",
+ "description": "Vehicle compliant",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "You don't have to register this vehicle"
+  }
+ ],
+ "title": {
+  "title": "You don't have to register this vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "You don't have to pay the ULEZ or LEZ charge for this vehicle.",
+     "There is no need to register it - we know it already meets the emissions standards for ULEZ and LEZ, has no charge due or is exempt from the schemes.",
+     "You will need to \u003ca href=\"/modes/driving/pay-the-charge-select-vehicle-26283\"\u003epay the Congestion Charge\u003c/a\u003e as normal."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

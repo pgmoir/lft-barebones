@@ -1,0 +1,131 @@
+{
+ "pageTitle": "The Roundel",
+ "keywords": "TfL",
+ "description": "The London Underground logo is one of the most recognised and imitated logos in the world",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "Art \u0026 design",
+   "url": "/corporate/about-tfl/culture-and-heritage/art-and-design"
+  },
+  {
+   "title": "The Roundel"
+  }
+ ],
+ "title": {
+  "title": "The Roundel",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The London Underground logo is one of the most recognised and imitated logos in the world.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/roundel-culture-heritage_rdax_400x250.jpg\",\"alt\":\"The Roundel\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1908\"}",
+     "The very first roundel starts life as a platform nameboard at the station we now call St James's Park. Originally known as the bar and circle, the red, glassy, enamel disc with the blue horizontal bar is created to make station names stand out against the adverts and billboards on platform walls.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1911/1912\"}",
+     "The new logo begins to appear on map covers, station exteriors, posters and other publicity. There aren't any guidelines at this point so artists use the bar and circle freely and imaginatively in their work.",
+     "The letters U and D also begin to appear across the bar of the roundel but in 1912, but further changes are made when the London General Omnibus Company (LGOC), becomes part of the Underground Group and the search for a new symbol begins. The new symbol combines the LGOC's winged wheel logo and the bar and disc to form the basis of the roundel trademark as we know it.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1913\"}",
+     "Publicity manager Frank Pick commissions typographer Edward Johnston to design a company typeface.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1914\"}",
+     "To establish their independence, Metropolitan Railway introduce an alternative version of the roundel. It has a blue, station name plate mounted on a red diamond. It is used for promotional material, timetables and buildings and can still be seen on the 1923 facade at Farringdon station.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1916/1917\"}",
+     "The new typeface is put on the bar and circle and is registered as a trademark in 1917. Between 1920 and 1933, Johnston designs several different versions of the bar and circle symbol for the different divisions of the Underground Group in an attempt to create a unified identity for both rail and road services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1920s and 30s\"}",
+     "Frank Pick recruits the architect Charles Holden to design new Underground stations and reconstruct existing ones. In the 1930s, Holden begins to incorporate the logo into the very fabric of station interiors; including platform furniture and on bus stop flags and shelters.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"1933\"}",
+     "The London Passenger Transport Board is created by an act of Parliament. In the search for a new symbol to unify all its newly acquired services, it creates another winged symbol which incorporates the initials of the Board. This is shortlived and Edward Johnston is asked to revise this new symbol to better reflect the name of the new organisation.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"1935\"}",
+     "Hans Schleger is commissioned to redesign the bus stop roundel. He keeps the colour coding but removes the established outline of the symbol.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"1938\"}",
+     "London Transport issues a 'Standard Signs Manual'. This sets out guidance on the precise design and possible use of the symbol. This is one of the first times a famous company realises the visual and financial value of its logo and sets out to manage its usage.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1947\"}",
+     "London Transport is nationalised but the roundel stays as a logo. The post-war fashion for more minimal designs (which are cheaper to make and maintain), means that the logo is simplified, once again.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1970s \\u0026 1980s\"}",
+     "The roundel symbol begins to appear on the sides of buses and a plain colour version - with no text - is introduced on Underground trains. In 1972, the roundel is officially named as the corporate symbol of London Transport. As a result, the Design Research Unit is employed to review the design and use of logo and typeface.",
+     "London Underground takes the opportunity commissions design consultants Henrion, Ludlow and Schmidt to create a new blue and red Underground roundel, not unlike the Design Research Unit symbol of 1972.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"1990s to present\"}",
+     "In 2000, after 10 years of LRT and its subsidiary companies looking after London transport, Transport for London (TfL), is created to take control of transport. TfL becomes responsible for the Underground, buses, London Rail, taxis, London River Services, Victoria Coach Station, Docklands Light Railway, Trams, Street Management and the London Transport Museum.",
+     "Rather than creating a new design to represent all these services, TfL decided to keep the roundel as its trademark."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Art \u0026 design",
+    "links": [
+     {
+      "title": "Station architecture",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/station-architecture",
+      "image": {}
+     },
+     {
+      "title": "Harry Beck's Tube map",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/harry-becks-tube-map",
+      "image": {}
+     },
+     {
+      "title": "The Roundel",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/the-roundel",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Art \u0026 design",
+     "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/the-roundel",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

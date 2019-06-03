@@ -1,0 +1,289 @@
+{
+ "pageTitle": "Schools \u0026 young people",
+ "keywords": "Schools and young people,TfL",
+ "description": "Resources to help young people travel safely and confidently in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people"
+  }
+ ],
+ "title": {
+  "title": "Schools \u0026 young people",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We offer London schools a range of\u003cstrong\u003e free \u003c/strong\u003e programmes and resources to help students with the skills to travel safely and confidently, and to encourage active travel behaviour like cycling, walking, scooting and public transport use."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Safety \u0026 Citizenship",
+    "texts": [
+     "Free education promoting safe, responsible and respectful behaviour while travelling"
+    ],
+    "link": {
+     "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/schools-yp-image-safety_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Youth Travel Ambassadors (YTA)",
+    "texts": [
+     "YTA  is a youth-led programme for secondary schools"
+    ],
+    "link": {
+     "url": "/info-for/schools-and-young-people/teaching-resources/youth-travel-ambassadors",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Youth involvement",
+    "texts": [
+     "Our work with organisations that speak for young people"
+    ],
+    "link": {
+     "url": "/info-for/schools-and-young-people/youth-involvement",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Transport for Young London newsletters",
+    "links": [
+     {
+      "title": "Primary schools",
+      "url": "/cdn/static/cms/documents/transport-for-young-london-primary-newsletter.pdf",
+      "icon": "download",
+      "size": "PDF 757KB",
+      "image": {}
+     },
+     {
+      "title": "Secondary schools and colleges",
+      "url": "/cdn/static/cms/documents/transport-for-young-london-secondary-newsletter.pdf",
+      "icon": "download",
+      "size": "PDF 757KB",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "STARS ",
+    "texts": [
+     "Ensuring school communities adopt safer, healthier and more sustainable travel options"
+    ],
+    "link": {
+     "url": "https://stars.tfl.gov.uk",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/schools-yp-image-camden_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Junior Travel Ambassadors (JTA)",
+    "texts": [
+     "Aimed at Year 6 pupils, JTA promotes safer, active and independent travel"
+    ],
+    "link": {
+     "url": "/info-for/schools-and-young-people/teaching-resources/junior-travel-ambassadors",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "links": [
+     {
+      "title": "Delivery plan for schools and young people 14/15 update",
+      "url": "/cdn/static/cms/documents/delivery-plan-schools-young-people-010415-singles.pdf",
+      "icon": "download",
+      "size": "PDF 1.05MB",
+      "image": {
+       "url": "https://tfl.gov.uk/cdn/static/cms/images/syp-download-image.jpg",
+       "alt": "Schools \u0026 young people download image"
+      }
+     },
+     {
+      "title": "Delivery plan for schools and young people",
+      "url": "/cdn/static/cms/documents/delivery-plan-schools-young-people-2014.pdf",
+      "icon": "download",
+      "size": "PDF 2.77MB",
+      "image": {
+       "url": "https://tfl.gov.uk/cdn/static/cms/images/delivery-plan-syp.jpg",
+       "alt": "Group of young children on zebra crossing"
+      }
+     },
+     {
+      "title": "Skills and Employment strategy",
+      "url": "/cdn/static/cms/documents/skills-and-employment-strategy.pdf",
+      "icon": "download",
+      "size": "PDF 1.61MB",
+      "image": {
+       "url": "https://tfl.gov.uk/cdn/static/cms/images/skills-employment-strategy.jpg",
+       "alt": "skills employment schools and young people"
+      }
+     },
+     {
+      "title": "Brake's Giant Walk",
+      "url": "/cdn/static/cms/documents/brakes-giant-walk-.pdf",
+      "icon": "download",
+      "size": "PDF 284KB",
+      "image": {
+       "url": "https://tfl.gov.uk/cdn/static/cms/images/brakes-giant-walk.jpg",
+       "alt": "Brakes Giant Walk schools and young people"
+      }
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Schools \u0026 young people",
+    "links": [
+     {
+      "title": "Inspire Engineering",
+      "url": "/info-for/schools-and-young-people/inspire-engineering",
+      "image": {}
+     },
+     {
+      "title": "Youth involvement",
+      "url": "/info-for/schools-and-young-people/youth-involvement",
+      "image": {}
+     },
+     {
+      "title": "Educational resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 Citizenship",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+      "image": {}
+     },
+     {
+      "title": "Young car drivers",
+      "url": "/info-for/schools-and-young-people/young-car-drivers",
+      "image": {}
+     },
+     {
+      "title": "Innovate TfL",
+      "url": "/info-for/schools-and-young-people/innovate-tfl",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Schools \u0026 young people",
+     "url": "/info-for/schools-and-young-people/innovate-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Tickets for students and children",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "School party travel scheme",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/travel-for-schools",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Young Crossrail",
+      "url": "http://www.crossrail.co.uk/careers/young-crossrail/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Mayoral site for educators",
+      "url": "https://www.london.gov.uk/WHAT-WE-DO/education-and-youth",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "pageTitle": "Cash free buses",
+ "keywords": "TfL",
+ "description": "You can't use cash to pay for your bus fare",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Buses",
+   "url": "/modes/buses/index"
+  },
+  {
+   "title": "Cash free buses"
+  }
+ ],
+ "title": {
+  "title": "Cash free buses",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can't use cash to pay for your bus fare.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ways to pay\"}",
+     "There are different ways to pay for your bus fare:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003econtactless payment card\\u003c/a\\u003e to pay as you go\",\"An \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003e Oyster card \\u003c/a\\u003e with pay as you go credit, Travelcard or Bus \\u0026 Tram Pass\",\"A  Visitor Oyster card\",\"A \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003e Day Travelcard or a One day Bus \\u0026 Tram Pass\\u003c/a\\u003e \"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/contactless-symbol.jpg\",\"alt\":\"Contactless payment symbol\"},\"wrapped\":false}",
+     "A pay as you go adult fare is £1.50 with a contactless payment, Oyster, or Visitor Oyster card. If you make another bus or tram journey within an hour of touching in on a bus or tram, your second journey will be free.",
+     "UK issued contactless payment cards are accepted, just look out for the contactless symbol. If you're visiting London from overseas then you will need to \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003echeck if your card will be accepted first\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"One more bus journey to get home\"}",
+     "If you don't have enough credit on your Oyster card to pay the £1.50 fare or your Bus \u0026 Tram Pass or Travelcard has just expired, you can make one more journey on a bus. You must then \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/sso/0001.do\"\u003etop up your pay as you go credit\u003c/a\u003e to clear the negative balance before you can use your Oyster card again or before you can renew a Travelcard or Bus \u0026 Tram Pass.",
+     "Where to get or top up your Oyster card",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://account.tfl.gov.uk/oyster?App=8ead5cf4-4624-4389-b90c-b1fd1937bf1f\\u0026returnURL=https://oyster.tfl.gov.uk/oyster/security_check\\\"\\u003eOyster online\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\\\"\\u003eOyster app\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \",\"Tube, London Overground and TfL Rail stations\",\"DLR stations (top up only at most stations)\",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e \",\"Some National Rail stations in London\",\"TfL Customer Services on 0343 222 1234*\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Auto top-up on Oyster\"}",
+     "Auto top-up makes sure you never run out of pay as you go credit by automatically topping up your Oyster card with money from your credit or debit card, whenever your pay as you go balance falls below £10.",
+     "Your Oyster card is automatically topped up when you touch it on a yellow card reader at the start of a journey on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line, Thames Clipper River Bus or National Rail services in London.",
+     " \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/sso/0002.do\"\u003eSet up Auto top-up\u003c/a\u003e on an existing Oyster card, or \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/0005.do\"\u003eorder a new Oyster card online\u003c/a\u003e with pay as you go credit included and choose to add Auto top-up.",
+     "If you set up Auto top-up on an existing card, you must activate it by making a journey from a station, tram stop, Emirates Air Line terminal or River pier. You will not be able to activate Auto top-up by making a journey on a bus.",
+     "Don't forget you can also top up your Oyster card at Oyster Ticket Stops in participating newsagents and shops, or at stations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Watch out for card clash\"}",
+     "Card clash happens when a yellow card reader detects two or more Oyster, contactless payment or other smartcards at the same time.",
+     "If a card reader detects more than one card:",
+     "{\"template\":\"bulletlist\",\"items\":[\"It doesn't know which card to take payment from\",\"If you get a green light it could take payment from a card you did not intend to pay with\",\"If you get a red light it means you won't have paid for your journey\"]}",
+     "To avoid card clash, keep your Oyster and contactless payment cards separate and only touch the card you wish to use on the reader.",
+     "*Service and network charges may apply. Find out about \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003e TfL call charges\u003c/a\u003e for details."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Buses",
+    "links": [
+     {
+      "title": "Changes to bus routes",
+      "url": "/modes/buses/bus-service-changes",
+      "image": {}
+     },
+     {
+      "title": "Live bus arrivals",
+      "url": "/modes/buses/live-bus-arrivals",
+      "image": {}
+     },
+     {
+      "title": "Improving buses",
+      "url": "/modes/buses/improving-buses",
+      "image": {}
+     },
+     {
+      "title": "Who runs your bus",
+      "url": "/modes/buses/who-runs-your-bus",
+      "image": {}
+     },
+     {
+      "title": "Cash free buses",
+      "url": "/modes/buses/cash-free-buses",
+      "image": {}
+     },
+     {
+      "title": "Demand responsive bus service",
+      "url": "/modes/buses/demand-responsive-bus-service",
+      "image": {}
+     },
+     {
+      "title": "Using buses in London",
+      "url": "/modes/buses/using-buses-in-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Buses",
+     "url": "/modes/buses/using-buses-in-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

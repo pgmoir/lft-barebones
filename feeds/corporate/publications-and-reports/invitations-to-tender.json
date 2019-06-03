@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Invitations to tender",
+ "keywords": "Boroughs,Businesses,Media,Suppliers,I,Contract,Corporate information,Regular reports,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Invitations to tender"
+  }
+ ],
+ "title": {
+  "title": "Invitations to tender",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"On this page we publish all invitations to tender since April 2014.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL invitations to tender\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-since-april-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"TfL ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-since-apr-14.csv\",\"icon\":\"download\",\"size\":\"CSV 451KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"GLA invitations to tender\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Greater London Authority ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/gla-itt-issued-since-apr-14.pdf\",\"icon\":\"download\",\"size\":\"PDF 173KB\",\"image\":{}},{\"title\":\"Greater London Authority ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/gla-itt-issued-since-apr-14.csv\",\"icon\":\"download\",\"size\":\"CSV 37KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "pageTitle": "Challenge a PCN",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Challenge a PCN"
+  }
+ ],
+ "title": {
+  "title": "Challenge a PCN",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens next?\"}",
+     "The enforcement process will now be suspended and the outstanding amount of your PCN will not increase until we have investigated and responded to your representation.",
+     "Once we have made a decision you will be sent a letter of acceptance or a notice of rejection.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"If your representation is rejected\"}",
+     "If we have rejected your representation, the Notice of rejection will outline two options:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pay the penalty charge by the date stipulated on the Notice of rejection OR\",\"Use the form enclosed with your Notice of rejection to appeal to an independent adjudicator at \\u003ca href=\\\"http://www.londontribunals.gov.uk/\\\"\\u003eLondon Tribunals\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

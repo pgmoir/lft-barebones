@@ -1,0 +1,147 @@
+{
+ "pageTitle": "School leaver training programme",
+ "keywords": "TfL",
+ "description": "Find out about our Road Space Management School Leaver Programme",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "School leaver training programme"
+  }
+ ],
+ "title": {
+  "title": "School leaver training programme",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about our Road Space Management school leaver programme.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Programme overview\"}",
+     "Our new, work-based training and development scheme is a great way for you to start building a rewarding career. It's the first step towards full-time employment in one of our most innovative and fast-paced areas.",
+     "During this programme, you'll join the Outcomes Delivery team and work alongside people at the forefront of innovation. With a range of challenging responsibilities, you'll develop valuable skills, gain industry experience and help to influence the life of London. Along the way, you'll have the chance to study for recognised qualifications.",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eProgramme length\\u003c/strong\\u003e \\u003cbr /\\u003eFour years\\u003cbr /\\u003e\"],[\"Entry requirements\\u003cbr /\\u003eul\"],[\"\\u003cstrong\\u003eSalary\\u003c/strong\\u003e \\u003cbr /\\u003eA guaranteed minimum salary of London Living Wage, plus benefits\\u003cbr /\\u003e\"],[\"\\u003cstrong\\u003eApplication dates\\u003c/strong\\u003e \\u003cbr /\\u003eApplications close 18 April 2016. However, we will close schemes when sufficient numbers are received, so we recommend that you apply early.\\u003cbr /\\u003e\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About Road Space Management\"}",
+     "From cars and cabs to buses and bikes, Road Space Management makes sure London's above-ground transport network works well for everyone who uses it. Our people are always creating new solutions - from working with app developers, exploring how people use our network, and developing traffic signal strategies to designing the new Cycle Superhighway that will transform cycling for millions of Londoners.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Joining us\"}",
+     "You will be a valuable member of our team with a key role to play. You'll experience different roles through a range of placements across Road Space Management and, with expert training and support, you'll develop new skills and knowledge.",
+     "By getting involved with our engineering solutions and using pioneering modelling software, you'll develop the skills to research and develop new techniques which will make London's road network even more efficient. Discovering the latest thinking in road space design helps us to shape practices that the rest of the world will adopt.",
+     "Your experiences will include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Working on innovative traffic schemes to improve pedestrian access\",\"Helping to design highway schemes, with specialist engineering insight\",\"Making new advances at the forefront of cycle safety\",\"Using world-leading systems for traffic control and signalling\",\"Modelling traffic using complex software to predict what we need to do next\",\"Working at the heart of realtime signal control, providing traffic engineering support in the London Streets Traffic Control Centre\",\"Analysing and interpreting road network performance\",\"Designing and developing products to transform data into intelligence and business reports\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Placements\"}",
+     "After experiencing a variety of placements in your first three years, you'll specialise in an area that really suits you during year four. We'll give you a permanent role and further specialist training.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you get out of it\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Practical experience of designing, delivering and analysing schemes for London's roads\",\"Diverse placements, all at the forefront of innovation\",\"Guaranteed minimum salary of London Living Wage plus benefits\",\"Specialist knowledge and skills through training and professional experience\",\"Great potential to develop an interesting future career\",\"The possibility to work with us to shape your academic future, should you wish to\",\"A real salary and benefits\"]}",
+     "Through a rewarding combination of on-the-job experience, formal training and the opportunity for further funded study, you'll develop a host of confidence and capability-boosting skills. We'll set you challenges which will push you to achieve things you might not have imagined. As you progress, you'll get to solve problems, present solutions and contribute to complex projects.",
+     "You'll follow a structured training programme which covers a wide range of technical and professional skills - from reviewing and developing schemes and investigating faults to writing reports, analysing and managing data, and using specialist technology. What's more, there may be the opportunity to shape your academic future and take on further study relevant to your role, to enhance your knowledge and enrich your learning experience in a way that suits you.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your future\"}",
+     "Depending on your interests and your progression, the programme could open doors to a range of different career paths. For example:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Model and deliver engineering solutions for the road network as a traffic control engineer\",\"Join a premier, problem-solving team and drive improvements to the road network as a traffic analyst\",\"Produce high-quality maps using sophisticated tech as a geographic information system (GIS) officer\",\"Work with data and help us make important decisions as an operations (Business) intelligence specialist\",\"Design and develop new highway schemes and road network improvements as a design engineer\"]}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduate scheme",
+      "url": "/corporate/careers/graduate-scheme",
+      "image": {}
+     },
+     {
+      "title": "Student placements",
+      "url": "/corporate/careers/student-placements",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "School leaver training programme",
+      "url": "/corporate/careers/school-leaver-s-training-programme",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Women in Stations",
+      "url": "/corporate/careers/women-in-stations",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/women-in-stations",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

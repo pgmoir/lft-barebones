@@ -1,0 +1,85 @@
+{
+ "pageTitle": "Tube and DLR delays",
+ "keywords": "TfL",
+ "description": "Information on if and how you can apply for a refund for your delayed Tube or DLR journey.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "Tube and DLR delays"
+  }
+ ],
+ "title": {
+  "title": "Tube and DLR delays",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You may be able to get a refund if your journey was delayed for 15 minutes or more.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "Please wait at least 48 hours as you might receive an automatic refund.",
+     "We do not give refunds for delays outside our control, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Strikes\",\"Security alerts\",\"Bad weather\",\"Customer incidents e.g. a person falling ill on a train\",\"Engineering works\"]}",
+     "We do not give refunds if you travel for free using a Freedom Pass, 60+ Oyster photocard, Veterans Oyster photocard, or are aged 11 or under.",
+     "Refunds are given as \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go\"\u003epay as you go\u003c/a\u003e credit, web credit or by transfer into your bank account.",
+     "If you used a \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\"\u003epaper ticket\u003c/a\u003e or National Rail smartcard, your refund is transferred into your bank account. You need to create a contactless and Oyster account to claim a refund.",
+     "You must claim within 28 days of the delay.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund online\"}",
+     "If the delay happened in the last 28 days and you were delayed for 15 minutes or more:",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Or \u003ca href=\"https://contactless.tfl.gov.uk/\"\u003ecreate an account\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"National Rail smartcards\"}",
+     "Choose 'paper ticket' as your ticket type if you use a National Rail smartcard and enter your full card number where asked to enter your ticket number."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

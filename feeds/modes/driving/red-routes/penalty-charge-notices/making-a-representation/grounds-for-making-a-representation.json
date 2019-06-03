@@ -1,0 +1,170 @@
+{
+ "pageTitle": "Grounds for making a representation",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Penalty Charge Notices",
+   "url": "/modes/driving/red-routes/penalty-charge-notices"
+  },
+  {
+   "title": "Challenge a Penalty Charge Notice",
+   "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation"
+  },
+  {
+   "title": "Grounds for making a representation"
+  }
+ ],
+ "title": {
+  "title": "Grounds for making a representation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"There are defined grounds on which we will accept a representation against a Penalty Charge Notice (PCN).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In all cases, please ensure that you make a representation within 28 days of the date of service of the PCN.",
+     "Find out more about challenging a PCN.",
+     "Your PCN will also clearly state for which contravention it has been issued and will set out the grounds on which you can make a representation.",
+     "You may make representations on any of the eight grounds below and raise any other mitigating circumstances.",
+     "If you do not provide the relevant information, it may not be possible to consider your representation.",
+     "You can make representations on any of the five grounds listed below and raise any other mitigating circumstances.",
+     "If you do not provide the relevant information, it may not be possible to consider your representation.",
+     "You can make representations on any of the grounds listed below and raise any other mitigating circumstances.",
+     "If you do not provide the relevant information, it may not be possible to consider your representation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Pay a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "How to appeal",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/how-to-appeal",
+      "image": {}
+     },
+     {
+      "title": "Grounds for making a representation",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/grounds-for-making-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Statutory Declarations",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/statutory-declarations",
+      "image": {}
+     },
+     {
+      "title": "Witness statements",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/witness-statement",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agent \u0026 bailiffs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-agent-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Local Authority PCNs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

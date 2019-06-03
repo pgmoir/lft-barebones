@@ -1,0 +1,149 @@
+{
+ "pageTitle": "About River Bus",
+ "keywords": "TfL",
+ "description": "Fast and frequent services on the Thames",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "River",
+   "url": "/modes/river/index"
+  },
+  {
+   "title": "About River Bus"
+  }
+ ],
+ "title": {
+  "title": "About River Bus",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Six River Bus routes run from 22 piers between Putney and Woolwich.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "River Bus services run from early morning until late evening and the River Bus Express is a dedicated service running before and after events at the O2 in North Greenwich.",
+     "River Bus services are operated by \u003ca href=\"http://www.thamesclippers.com\"\u003eMBNA Thames Clippers\u003c/a\u003e . TfL manages the piers and licenses river passenger services. To contact TfL, phone: 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) or email \u003ca href=\"mailto:river@tfl.gov.uk ?Subject=Pier%20berthing%20facilities%20enquiry\"\u003eriver@tfl.gov.uk\u003c/a\u003e .",
+     "MBNA Thames Clippers offer a fast and frequent service with departures from major London piers every 20 minutes, other routes vary so please \u003ca href=\"/travel-information/timetables/index\"\u003echeck routes and timetables\u003c/a\u003e before you travel.",
+     "All River Bus boats are covered and most boats also have a small outside deck area. There are on-board bars serving hot and cold drinks, snacks and refreshments, and most boats have accessible toilets.",
+     "MBNA Thames Clippers boats are all wheelchair accessible and ramps are used to board the boat. All piers offer step-free access, except Cadogan Pier, Wandsworth Riverside Quarter Pier and London Bridge City Pier. A maximum of four wheelchairs and a further three folding wheelchairs can be accommodated on larger boats. Passengers with mobility scooters need to enter \u003ca href=\"http://www.thamesclippers.com/about-mbna-thames-clippers/accessibility-information\"\u003eMBNA Thames Clippers Mobility Scooter Recognition Scheme\u003c/a\u003e to bring their mobility scooters on board.",
+     "Bikes are allowed on board and there are ten spaces available on larger boats - these are offered on a first come, first served basis. Dogs can also travel on River Bus services but must be kept on a lead.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fares and tickets\"}",
+     "You can use contactless or Oyster to pay as you go on MBNA Thames Clippers services. Alternatively, you can buy tickets in advance from the \u003ca href=\"http://www.thamesclippers.com/\"\u003eMBNA Thames Clippers website\u003c/a\u003e , or on the day from a pier ticket office or machine. The MBNA Thames Clippers \u003ca href=\"http://www.thamesclippers.com/app\"\u003esmartphone ticketing app\u003c/a\u003e also allows you to buy tickets on the go. You must ensure you pay for travel before boarding the boat.",
+     "A zonal fares system is in place for River Bus services, and the fare you pay depends upon the Zones you travel through: East, Central or West Zones. Full fares and the River Bus route map can be found on the \u003ca href=\"http://www.thamesclippers.com/route-time-table/prices\"\u003eMBNA Thames Clippers website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using contactless or Oyster\"}",
+     "You can use contactless or Oyster to pay as you go on all MBNA Thames Clippers services. Once instructed to board the boat, touch in on the yellow card reader and remember to touch out again at the end of your journey, this includes interchanges. A member of MBNA Thames Clippers staff must see you touch in.",
+     "If you are using contactless or Oyster to pay as you go, you will pay a lower rate fare. (This also applies to those who purchase tickets via the smartphone app.)",
+     "You can't top up your Oyster card at River Bus piers, so make sure you have enough pay as you go credit on your Oyster card before you travel.",
+     "Journeys made using contactless or Oyster on River Bus services do not count towards capping.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelcard discount\"}",
+     "If you have a Travelcard, either a paper ticket or loaded on an Oyster card, you will receive 1/3 discount on standard price adult and child fares. If you have a paper ticket, present it at the pier ticket office to receive a discount or buy your ticket via the smartphone app. If you have a Travelcard loaded on your Oyster card as well as pay as you go credit, the 1/3 discount will automatically be applied as you touch in on the yellow reader.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Freedom Pass discount\"}",
+     "Freedom Passes are not compatible with pay as you go on River Bus services, if you are a Freedom Pass holder you must buy a ticket before travelling which is offered at a discounted rate.",
+     "Freedom Pass, 60+ Oyster and War Veteran Oyster card holders receive 50% discount, and this will always be off the lower rate fare, whether you purchase via the phone app or at a pier ticket office.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Season tickets\"}",
+     "Regular River Bus customers may save money by \u003ca href=\"https://www.thamesclippers.com/commuters/season-tickets\"\u003ebuying a season ticket\u003c/a\u003e . Weekly, monthly and annual season tickets are available. 18+ Student Oyster photocard holders and Apprentice Oyster photocard holders get 1/3 off season tickets. .",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-bus-mbna-millenium-br.jpg\",\"alt\":\"Passing under the Millennium Bridge with St Paul's Cathedral in view\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-bus-interior.jpg\",\"alt\":\"A comfortable journey awaits you\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-bus-mbna-big-ben.jpg\",\"alt\":\"Passing Big Ben and the Houses of Parliament\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-bus-mbna-o2.jpg\",\"alt\":\"Open water near the O2\"}],\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "River",
+    "links": [
+     {
+      "title": "About River Bus",
+      "url": "/modes/river/about-river-bus",
+      "image": {}
+     },
+     {
+      "title": "About River Tours",
+      "url": "/modes/river/about-river-tours",
+      "image": {}
+     },
+     {
+      "title": "Woolwich Ferry",
+      "url": "/modes/river/woolwich-ferry",
+      "image": {}
+     },
+     {
+      "title": "The river experience",
+      "url": "/modes/river/the-river-experience",
+      "image": {}
+     },
+     {
+      "title": "Corporate \u0026 private boat hire",
+      "url": "/modes/river/corporate-and-private-boat-hire",
+      "image": {}
+     },
+     {
+      "title": "Explore London tickets",
+      "url": "/modes/river/explore-london-tickets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "River",
+     "url": "/modes/river/explore-london-tickets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Stations, stops \u0026 piers",
+      "url": "/travel-information/stations-stops-and-piers/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

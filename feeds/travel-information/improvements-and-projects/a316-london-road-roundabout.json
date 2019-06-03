@@ -1,0 +1,110 @@
+{
+ "pageTitle": "A316 London Road roundabout",
+ "keywords": "Drivers,A,L,Richmond upon Thames,Roads,Cycling,Driving,TfL",
+ "description": "Improving the roundabout will make it easier to get to Twickenham town centre and improve journey times",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "A316 London Road roundabout"
+  }
+ ],
+ "title": {
+  "title": "A316 London Road roundabout",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Construction on safety improvements at the A316 London Road roundabout is expected to begin in winter 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Improving the roundabout would bring wider benefits for users of the A316 and A310 corridors.",
+     "These benefits could include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reducing traffic congestion at the junction and improving journey time reliability\",\"Improving the cycling and pedestrian environment, providing a continuous corridor for cyclists along the A316, making it easier to get to Twickenham town centre\",\"Signalising the roundabout and introducing signalised pedestrian crossings\"]}",
+     "We committed to review safety at the London Road roundabout after improvements were made there in April 2013."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "A406 Gunnersbury Avenue",
+      "url": "/travel-information/improvements-and-projects/a406-gunnersbury-avenue",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Camden Town capacity upgrade",
+      "url": "/travel-information/improvements-and-projects/camden-town-capacity-upgrade",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "pageTitle": "Member self-service",
+ "keywords": "TfL",
+ "description": "Member self-service is changing in 2017",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "News and publications",
+   "url": "/pensions/news-and-publications"
+  },
+  {
+   "title": "Member self-service"
+  }
+ ],
+ "title": {
+  "title": "Member self-service",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The TfL Pension Fund's new member web service is now available.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to register\"}",
+     "Please follow the link below and complete the registration process to get your new log in details: \u003ca href=\"https://www.pensions.tfl.gov.uk/\"\u003ehttps://pensions.tfl.gov.uk\u003c/a\u003e .",
+     "This is a new system so you will need to sign up to use the service, your old user name and password won't work with this system.",
+     "On the home page don't enter any details, just click the sign up link, and provide an email address. You'll then be sent a link to register where you create your user name, password and pick a memorable word.",
+     "When setting these up click the help links as you need upper case, lower case, numbers and symbols in some of these.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Log in\"}",
+     "If you have already registered for member web service, please follow the link below to log in: \u003ca href=\"https://www.pensions.tfl.gov.uk/PWPUser/Account/Login?ReturnUrl=%2FPWPUser%2F\"\u003ehttps://www.pensions.tfl.gov.uk/PWPUser/Account/Login?ReturnUrl=%2FPWPUser%2F\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Pensions web portal help\",\"url\":\"/cdn/static/cms/documents/tflpf-guide-to-the-pension-web-portal.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.48MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Member self-service",
+      "url": "/pensions/news-and-publications/member-self-service",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2016",
+      "url": "/pensions/news-and-publications/pcc-election-results-2016",
+      "image": {}
+     },
+     {
+      "title": "Annual benefit statements",
+      "url": "/pensions/news-and-publications/new-page",
+      "image": {}
+     },
+     {
+      "title": "News archive",
+      "url": "/pensions/news-and-publications/news-archive",
+      "image": {}
+     },
+     {
+      "title": "Annual Members meeting 2017",
+      "url": "/pensions/news-and-publications/annual-members-meeting-2016",
+      "image": {}
+     },
+     {
+      "title": "Publications",
+      "url": "/pensions/news-and-publications/publications",
+      "image": {}
+     },
+     {
+      "title": "On The Move",
+      "url": "/pensions/news-and-publications/on-the-move",
+      "image": {}
+     },
+     {
+      "title": "2017 benefit statements",
+      "url": "/pensions/news-and-publications/2017-benefit-statements",
+      "image": {}
+     },
+     {
+      "title": "April 2018 pension increase",
+      "url": "/pensions/news-and-publications/april-2018-pension-increase",
+      "image": {}
+     },
+     {
+      "title": "Pension web portal maintenance",
+      "url": "/pensions/news-and-publications/pension-web-portal-maintenance",
+      "image": {}
+     },
+     {
+      "title": "Annual Members' Meeting 2018",
+      "url": "/pensions/news-and-publications/annual-members-meeting-2018",
+      "image": {}
+     },
+     {
+      "title": "April 2019 pension increase",
+      "url": "/pensions/news-and-publications/april-2019-pension-increase",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2017",
+      "url": "/pensions/news-and-publications/pcc-election-results-2017",
+      "image": {}
+     },
+     {
+      "title": "Maximising Additional Voluntary Contributions for 2018/19",
+      "url": "/pensions/news-and-publications/maximising-additional-voluntary-contributions-for-2018-19",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2018",
+      "url": "/pensions/news-and-publications/pcc-election-results-2018",
+      "image": {}
+     },
+     {
+      "title": "Annual report on Sustainable Investing published",
+      "url": "/pensions/news-and-publications/annual-report-on-sustainable-investment-published",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

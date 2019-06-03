@@ -1,0 +1,125 @@
+{
+ "pageTitle": "Vauxhall Cross gyratory",
+ "keywords": "Cyclists,Drivers,Pedestrians,V,Lambeth,Southwark,Wandsworth,Westminster,Environment,Roads,Buses,Cycling,Deliveries,Driving,Motorcycle,Walking,TfL",
+ "description": "We plan to start converting the one-way road system back to two-way in 2020",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Vauxhall Cross gyratory"
+  }
+ ],
+ "title": {
+  "title": "Vauxhall Cross gyratory",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are working closely with Lambeth Council to return the one-way road system at Vauxhall to two-way roads and improve the area for pedestrians and cyclists. We plan to start construction of the new road layout and bus station in 2021.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The proposed changes will help to improve connectivity and create a better environment for people living, working and travelling through Vauxhall.",
+     "We will:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Remove the existing one-way road system (Parry Street, Wandsworth Road, Kennington Way and South Lambeth Road) by converting these roads to two-way\",\"Provide more cycle and pedestrian crossings as well as segregated lanes and parking for cyclists\",\"Improve existing public spaces and provide new public spaces\",\"Redesign the transport interchange, including a new central bus station, so that it works in a two-way arrangement\"]}",
+     "{\"template\":\"video\",\"style\":\"QKA4z4Bm5qw\",\"title\":\"Proposed Vauxhall Cross bus station\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=consulteeComments\u0026keyVal=OX93X2BOK0U00\"\u003eOur planning application\u003c/a\u003e for the proposed bus station buildings and associated buildings was approved by Lambeth Council in February 2018.",
+     "We expect to start construction in 2021 and finish by 2024, subject to approvals.",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-cross-street-railway-bridge.jpg\",\"alt\":\"Artist's impression of proposals for  Kennington Lane and South Lambeth Road junction\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-cross-railway-bridge.jpg\",\"alt\":\"Artist's impression of proposals for South Lambeth Road and South Lambeth Place\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-from-vauxhall-bridge.jpg\",\"alt\":\"Vauxhall Cross - from Vauxhall Bridge\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-cross-view-01-08.jpg\",\"alt\":\"Artist's impression of proposals for Albert Embankment\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-wandsworth-road.jpg\",\"alt\":\"Wandsworth Road - looking north with new bus station on right\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-bondway-looking-north.jpg\",\"alt\":\"Bondway - looking north with new bus station on left\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-square-daytime.jpg\",\"alt\":\"The station square (daytime) from the rail station entrance\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-square-night.jpg\",\"alt\":\"The station square (night) from the rail station entrance\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/vauxhall-bus-station-canopy.jpg\",\"alt\":\"Bus station canopy - Bondway is on the right\"}],\"wrapped\":false}",
+     "Our second consultation on detailed design proposals closed in January 2016. Our response to issues raised during the consultation can be found on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/vauxhall-cross/\"\u003eVauxhall Cross consultation page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related website",
+    "links": [
+     {
+      "title": "Vauxhall Regeneration",
+      "url": "http://www.nineelmslondon.com/vauxhall",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

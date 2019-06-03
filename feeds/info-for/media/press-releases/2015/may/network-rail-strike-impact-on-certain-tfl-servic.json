@@ -1,0 +1,251 @@
+{
+ "description": "Press releases and news articles from Transport for London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2015",
+   "url": "/info-for/media/press-releases/2015"
+  },
+  {
+   "title": "May",
+   "url": "/info-for/media/press-releases/2015/may"
+  },
+  {
+   "title": "Network Rail strike: impact on certain TfL services"
+  }
+ ],
+ "title": {
+  "title": "Network Rail strike: impact on certain TfL services ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Network Rail unions have called 48 hours of industrial action on Monday 25  and Tuesday 26 May.  This includes a country-wide 24 hour strike on national rail services starting from 17:00 on Monday 25 May. If the industrial action goes ahead, it will affect services on Bank Holiday Monday, Tuesday and into Wednesday morning.",
+     "Neither Transport for London (TfL) nor London Underground (LU) staff will strike and so the vast majority of TfL services will run as normal. However, some TfL services rely on Network Rail signals and power supply so will be affected.",
+     "If the industrial action goes ahead, the following TfL services will be affected on Monday, Tuesday and into Wednesday morning:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bakerloo line: trains will not run north of Queen's Park;\",\"District line: there will be no service between Wimbledon and Putney Bridge after 17:00 on Monday and all day Tuesday. There will be no service between Turnham Green and Richmond all day on Monday and Tuesday;\",\"Waterloo \\u0026 City line: no service;\",\"London Overground: no services will run, except between Dalston Junction and New Cross/New Cross Gate, which will operate from 08:00 and 13:00 on Monday and 08:00 and 17:00 on Tuesday.\"]}",
+     "Some LU and DLR stations, particularly those in south London, as well as the entire Tram network, are expected to be much busier than usual and managed queuing systems may be in place. Passengers may wish to stagger their journey, even if they do not normally use National Rail services.",
+     "TfL will operate around 100 extra buses, mainly in South London, to help Londoners get around. National Rail tickets will be accepted on TfL Tube and bus services on any reasonable alternative routes.",
+     "TfL will be suspending roadworks wherever possible, however it is expected that there will be heavy traffic in central London, particularly during peak hours.",
+     "For information on TfL services, customers should visit \u003ca href=\"http://tfl.gov.uk/network-rail-strike\"\u003etfl.gov.uk/network-rail-strike\u003c/a\u003e .  National Rail customers are advised to check with their train operator before travelling or visit \u003ca href=\"http://www.nationalrail.co.uk/industrialaction\"\u003ewww.nationalrail.co.uk/industrialaction\u003c/a\u003e or follow \u003ca href=\"http://@nationalrailenq\"\u003e@nationalrailenq\u003c/a\u003e on twitter using \u003ca href=\"http://#industrialaction\"\u003e#industrialaction\u003c/a\u003e ",
+     "During the strike customers will be kept informed of the status of TfL services in a range of ways, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Up-to-date information at tfl.gov.uk/network-rail-strike\",\"Travel alerts will be provided through Twitter on @TfLTravelAlerts, and through each of the Tube line Twitter handles, visit tfl.gov.uk/socialmedia\",\"Real-time travel information will be provided to radio and television outlets\",\"Additional staff will be available across the network and at key locations to provide advice to customers\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2015/december",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2015/november",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2015/october",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2015/september",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2015/august",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2015/july",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2015/june",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2015/may",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2015/april",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2015/march",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2015/february",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2015/january",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Trade union facility time",
+ "keywords": "Transparency data ,TfL",
+ "description": "Under the Transparency Code of Practice TfL is required to publish information on trade union facility time",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Trade union facility time"
+  }
+ ],
+ "title": {
+  "title": "Trade union facility time",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Under the Transparency Code of Practice TfL is required to publish information on trade union facility time.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Trade Union Facility Time 2017/18\",\"url\":\"/cdn/static/cms/documents/trade-union-facility-time.pdf\",\"icon\":\"download\",\"size\":\"PDF 54KB\",\"image\":{}},{\"title\":\"Trade Union Facility Time 2016/17\",\"url\":\"/cdn/static/cms/documents/trade-union-facility-time-101117.pdf\",\"icon\":\"download\",\"size\":\"PDF 10KB\",\"image\":{}},{\"title\":\"Trade Union Facility Time 2015/16\",\"url\":\"/cdn/static/cms/documents/trade-union-facility-time-201516.pdf\",\"icon\":\"download\",\"size\":\"PDF 10KB\",\"image\":{}},{\"title\":\"Trade Union Facility Time 2014/15\",\"url\":\"/cdn/static/cms/documents/tradeunionfacilitytime201415.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 12KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

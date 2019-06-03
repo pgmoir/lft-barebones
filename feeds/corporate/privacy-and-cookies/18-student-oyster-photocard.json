@@ -1,0 +1,274 @@
+{
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "18+ Student Oyster photocard"
+  }
+ ],
+ "title": {
+  "title": "18+ Student Oyster photocard ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page explains how Transport for London (TfL) uses your personal information when using your 18+ Student Oyster photocard. It also describes how long that information is kept for and the circumstances in which we might disclose it to a third party.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Personal information we hold\"}",
+     "The personal information we hold about you includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Name, address, email address, telephone number\",\"Date of birth\",\"Telephone number\",\"The name of your educational establishment or training provider, student enrolment ID number, course dates\",\"Password and user name for your TfL web account\",\"Your marketing and contact preferences\",\"Your journey history\",\"Payment card information or bank account and sort code numbers\",\"Transaction information (when and where you topped up your balance or purchased a season ticket, or were issued with a refund)\",\"Enquiries, complaints or other correspondence from you\"]}",
+     "If you \u003ca href=\"https://oyster.tfl.gov.uk/oyster/entry.do\"\u003esign in to your online account\u003c/a\u003e , TfL will collect the IP address used by your device for the purpose of fraud prevention and detection.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Legal basis for using your information\"}",
+     "Under data protection legislation, TfL is only allowed to use personal information if we have a proper reason or 'legal basis' to do so. In the case of Oyster, there are a number of these 'legal grounds' we rely on, which are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Our statutory and public functions:ul\",\"Where you have given your consent to TfL, for example:ul\",\"For the 'performance of a contract', for example:ul\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Obtaining and using your personal information\"}",
+     "The personal information we hold is provided by you when you apply for your 18+ Student Oyster photocard.",
+     "TfL and the companies that process personal information on our behalf use your information for customer services and to administer the 18+ Student Oyster photo card scheme.",
+     "For example, we will use your personal information to ensure that you are eligible for the particular scheme you have applied for, to issue your 18+ Student Oyster photo card and respond to queries if you contact us.",
+     "If you contact Customer Services in connection 18+ Student photocard, we will create a record of this. If you phone us, your call may also be recorded for training and quality purposes.",
+     "We may send you a text message to let you know when applications are open for the next academic year, or that your card is on its way. We will also contact you near the expiry date of your card to tell you about your future ticketing options.",
+     "TfL's ticketing systems record the location, date and time an Oyster card is used to make a journey on TfL's network, affiliated National Rail services or London River Services on which Oyster cards are accepted.",
+     "If you sign up for an online account and provide your email address, from time to time we will send you travel related information by email. These will be messages that are useful to know in relation to the season tickets you have bought or services that you use, and might include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"important changes to services you use\",\"new travel services\",\"travel disruption\",\"information about fares\",\"consultations on TfL's plans for transport in London\",\"changes to terms and conditions of travel\"]}",
+     "We appreciate that you don't always want to be contacted in this way, so all our emails will include a hyperlink so you can opt out from receiving future service messages at any time.",
+     "We will only send you messages about TfL's offers and promotions if you choose to receive them, and you can change your marketing preferences at any time.",
+     "TfL will never pass your personal information to any other organisation for marketing purposes without your prior consent.",
+     "TfL will use aggregated or depersonalised Oyster journey information to carry out research and analysis, for example, to look at travel demand, provide customers with information on how busy stations are at particular times and to make improvements to our transport services. Individuals will not be identified using this information.",
+     "Relevant police services, and Local Authority Anti Social Behaviour units may provide TfL with details of any criminal convictions, warnings, reprimands, or other sanctions issued in relation to offences that have been committed by you on, or in relation to, London's public transport network.",
+     "Such information may be used as the basis for the withdrawal of your 18+ Student Oyster photocard, and TfL may inform the police of any decision to withdraw your concession.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Length of time we keep information\"}",
+     "TfL will retain personal information in line with its data retention policies. This means that we will not hold information for longer than is necessary for the purposes we obtained it for.",
+     "We retain data about the individual journeys made using your 18+ Student Oyster photocard for eight weeks after the card is used. After eight weeks, the journey data in the ticketing system is disassociated from your card (ie pseudonymised). This eight-week period is considered reasonable to enable customers to verify or make enquiries concerning their journeys (for example, for refund purposes).",
+     "Some journey information is also stored on the Oyster card itself; this comprises the last eight journeys and related charges, up to three season tickets, (generally the most recent three tickets, including future dated), and the last two incomplete journeys, if any. If you don't use your Oyster card very often, the data stored on the card may be older than eight weeks. However, no other data is stored on the Oyster card itself (eg name or address).",
+     "The information we collect as part of the application process is kept for up to three years after the expiry date of your photo card. Details of debit or credit cards used to pay the admin fee when you apply for your 18+ Student photo card, or to add pay as you go credit or buy season tickets are retained for a maximum of 18 months.",
+     "IP addresses collected when you access your Oyster online account are retained for 13 months. This helps TfL monitor for things like online fraud, for example when people apply for online refunds",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping personal information secure\"}",
+     "We take the privacy of our customers very seriously, and a range of robust policies, processes and technical measures are in place to control and safeguard access to, and use of, personal information associated with Oyster data. This includes payment card data which is handled in accordance with the Payment Card Industry Data Security Standard ('PCI DSS').",
+     "Anyone with access to personal information held in TfL's systems is required to complete TfL's privacy and data protection training on an annual basis.",
+     "We also publish \u003ca href=\"/corporate/privacy-and-cookies/protect-your-data\"\u003eguidance\u003c/a\u003e on the steps you can also take to protect your personal information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Automated processing and profiling\"}",
+     "Under data protection legislation we have to let you know when we use your personal information to do something 'automatically' using our computers or other systems, or make an automated decision (without human intervention) that significantly affects you.",
+     "If you are a pay as you go customer, TfL calculates the fares you are charged using automated means - ie using the location where you start your journey (touch in) and, if travelling by train or tube, end your journey (touch out). If you use a pink card reader, that data will be used to confirm you took a particular route and charge you accordingly.",
+     "On some occasions, TfL may 'auto complete' a journey for you if you do not tap your Oyster card on a yellow reader at both ends of your journey. We do this by looking at other journeys you have made previously and making an assumption about the likely origin or destination of the incomplete journey.",
+     "If you are due a refund as a result of TfL auto completing your journey (eg if you were originally charged a maximum single fare), we will also automatically load the refund amount to your Oyster card.",
+     "We may also proactively issue you a refund if we can see from your journey history that you have been affected by a major disruption or incident that has severely impacted your travel.",
+     "If you believe you have been incorrectly charged, or not received a refund you were due, you can ask Customer Services to review those transactions.",
+     "We sometimes use your journey history, travel patterns, or frequently used stations as the basis for sending service messages. For example if you regularly use the Central Line, we might use this information to help decide that messages about service alterations on that line would be helpful for you know.",
+     "Similarly, we may use postcode information to decide that it would be useful for you to know about changes to travel services near where you live, such as a station or bus stop closure or a road closure or diversions.",
+     "The purpose of this type of profiling is to make sure that we send only information to people who will actually find it relevant and useful. You are able to opt out from receiving these kinds of messages at any time.",
+     "We analyse journey patterns and transaction history to inform measures to protect TfL against fare evasion and fraudulent transactions. We use this data in different ways. For example, to identify 'hotspots' so we can deploy Revenue Inspectors in certain London Underground stations or on particular bus routes.",
+     "We may also use the outcome of our analysis to contact you with advice to touch in and out at the correct stages of a journey.",
+     "We may also suspend concessionary Oyster cards based on their initial purchases, subsequent top ups and disable web accounts based on online activities.",
+     "Part of our statutory responsibilities includes a duty to do all we reasonably can to reduce crime and disorder on and around the transport system - and we work together with our local authority, policing, and other law enforcement partners as part of this.",
+     "We may use aggregated or depersonalised Oyster journey data to undertake intelligence, analysis and research activities to identify and inform responses to a number of issues including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reducing all crime and anti-social behaviour on and around the public transport network\",\"Creating crime and anti social behaviour strategies\",\"Targeting crime and disruption hotspots to better coordinate and deploy policing resources\",\"Reducing fear of crime and improving public confidence in the safety of the journeys they make in the capital\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sharing personal information\"}",
+     "TfL uses an external service provider to process your application, issue your photo card and operate the photo card scheme on a day to day basis, including some Customer Services support. TfL also uses external service providers to operate 'back office' technical services and customer database management.",
+     "Your named educational establishment is able to view the relevant parts of your application online and will authorise it by confirming to TfL that you are enrolled on an eligible course. If we have subsequent concerns about your ongoing eligibility for an 18+ Student Oyster card, we may contact your educational establishment to help verify this.",
+     "If you use your 18+ Student Oyster photocard on National Rail services, TfL may share your personal data with the relevant train operating companies for the purposes of customer administration and fraud prevention and detection. The same applies if you use your Oyster card on river services operated by other companies.",
+     "Where you have agreed to receive marketing messages from train operating companies, we will pass them your contact details.",
+     "If you appeal against a penalty fare notice issued on a National Rail service and you state that you used your Oyster card for that journey, the independent appeals body may verify the information you provide against journey data held in our ticketing systems. This is strictly for the purpose of assessing your appeal, and any information sharing is managed in accordance with relevant privacy and data protection legislation.",
+     "We have partnerships with a number of academic institutions in the UK and overseas (e.g. USA), who work with us to analyse journey patterns and undertake travel modelling to help us understand the way our customers travel so we can improve and plan our services for the future.",
+     "To do this we provide them with journey data derived from our Oyster ticketing systems that has been processed, replacing data, where required, with alternative identifiers (pseudonyms) so that it isn't possible to identify an individual customer.",
+     "All academic research is carried out in accordance with privacy and data protection legislation and protected by robust confidentiality agreements.",
+     "In some circumstances, disclosures of personal data to the police (and other law enforcement agencies) are permitted by data protection legislation if they relate to the prevention or detection of crime and/or the apprehension or prosecution of offenders. Before any such disclosure takes place, the police are required to demonstrate that the personal data concerned will assist them in this respect. Each police request to TfL is dealt with on a strictly case-by-case basis to ensure that any such disclosure is lawful and in accordance with data protection legislation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Overseas processing\"}",
+     "TfL, its service providers and academic research partners currently process personal information relating to Oyster within the United Kingdom, European Economic Area (EEA) and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Team London volunteering\"}",
+     "When you apply for your 18+ Student Oyster card, we will give you information about the Team London volunteering scheme run by the Greater London Authority (GLA).",
+     "If you choose to receive further information about Team London, TfL will pass your name to the GLA so that they can send you newsletters about volunteering opportunities. You can opt out from receiving this information at the time you make your 18+ Student Oyster application. If you wish to unsubscribe from receiving the newsletters at a later date, you will need to do this via the GLA.",
+     "Further information about how the GLA will handle your personal data can be found on the \u003ca href=\"http://volunteerteam.london.gov.uk/#s\"\u003eTeam London website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your information rights\"}",
+     "You can see your journey history by \u003ca href=\"https://oyster.tfl.gov.uk/oyster/entry.do\"\u003esigning into your online account\u003c/a\u003e or you can request a copy by calling \u003ca href=\"/corporate/useful-contacts/index\"\u003eCustomer Services\u003c/a\u003e .",
+     "You can also view and update the contact information we hold about you within your account; as well as your contact preferences",
+     "For access to other personal information please see Subject Access requests in \u003ca href=\"/corporate/privacy-and-cookies/access-your-data\"\u003eAccess your data\u003c/a\u003e .",
+     "If you would like to unsubscribe from service or marketing messages, please use the link we include at the end of every email. You can also update your contact preferences within your online account - or by emailing \u003ca href=\"mailto:unsubscribe@tfl.gov.uk\"\u003eunsubscribe@tfl.gov.uk\u003c/a\u003e at any time.",
+     "You also have a number of other information rights which include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The right to question any information we have about you that you think is wrong or incomplete\",\"The right to object to how we use your data or to ask us to delete or restrict how we use it\",\"The right to complain to our Data Protection Officer\",\"The right to complain to the regulator - the Information Commissioner's Office\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this page\"}",
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in December 2018."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Privacy \u0026 cookies",
+    "links": [
+     {
+      "title": "Access your data",
+      "url": "/corporate/privacy-and-cookies/access-your-data",
+      "image": {}
+     },
+     {
+      "title": "Bus data collection pilot",
+      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
+      "image": {}
+     },
+     {
+      "title": "Capital Call",
+      "url": "/corporate/privacy-and-cookies/capital-call",
+      "image": {}
+     },
+     {
+      "title": "CCTV \u0026 surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "image": {}
+     },
+     {
+      "title": "Compulsory purchase",
+      "url": "/corporate/privacy-and-cookies/compulsory-purchase",
+      "image": {}
+     },
+     {
+      "title": "Contactless payment",
+      "url": "/corporate/privacy-and-cookies/contactless-payment",
+      "image": {}
+     },
+     {
+      "title": "Cookies",
+      "url": "/corporate/privacy-and-cookies/cookies",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/corporate/privacy-and-cookies/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "Employment",
+      "url": "/corporate/privacy-and-cookies/employment",
+      "image": {}
+     },
+     {
+      "title": "Event data from mobile devices",
+      "url": "/corporate/privacy-and-cookies/event-data-from-mobile-devices",
+      "image": {}
+     },
+     {
+      "title": "External Recruitment",
+      "url": "/corporate/privacy-and-cookies/external-recruitment",
+      "image": {}
+     },
+     {
+      "title": "Oyster card",
+      "url": "/corporate/privacy-and-cookies/oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Privacy \u0026 data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "image": {}
+     },
+     {
+      "title": "Protect your data",
+      "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Road User Charging",
+      "url": "/corporate/privacy-and-cookies/road-user-charging",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/privacy-and-cookies/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/corporate/privacy-and-cookies/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Website privacy",
+      "url": "/corporate/privacy-and-cookies/website-privacy",
+      "image": {}
+     },
+     {
+      "title": "Wi-Fi data collection",
+      "url": "/corporate/privacy-and-cookies/wi-fi-data-collection",
+      "image": {}
+     },
+     {
+      "title": "Your information rights",
+      "url": "/corporate/privacy-and-cookies/your-information-rights",
+      "image": {}
+     },
+     {
+      "title": "Zip Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/18-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Privacy \u0026 cookies",
+     "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

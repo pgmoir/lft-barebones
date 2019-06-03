@@ -1,0 +1,75 @@
+{
+ "pageTitle": "Travel advice for London Overground and Bakerloo line customers",
+ "description": "London Overground services between Euston and Watford will stop running earlier tonight to allow Network Rail engineers onto the track to carry out repairs to overhead lines which came down and disrupted services yesterday.The last London Overground train",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Travel advice for London Overground and Bakerloo line customers ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Replacement Euston to Watford services on London Overground and London Underground tonight."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We are working hard to minimise disruption to our customers",
+     "London Overground services between Euston and Watford will stop running earlier tonight to allow Network Rail engineers onto the track to carry out repairs to overhead lines which came down and disrupted services yesterday.",
+     "The last London Overground train will depart from Euston to Watford at 20:37 (two-and-a-half hours earlier than normal), and the last train from Watford will leave at 21:01.",
+     "In its place there will be a limited shuttle service from Euston calling at all stations to Queen's Park every half hour from 20:47 until 23:47.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Seek alternative routes\"}",
+     "From Queen's Park passengers can connect for limited Bakerloo line service.",
+     "The Bakerloo line will be suspended from Stonebridge Park to Harrow \u0026 Wealdstone from 21:30hrs.",
+     "There will be a 30 minutes replacement bus service from Stonebridge Park to Watford Junction calling at all stations, and a 10-minute bus service between Stonebridge Park and Harrow \u0026 Wealdstone.",
+     "However, passengers are strongly advised to seek alternative routes, such as the Metropolitan line.",
+     "There will be full ticket acceptance on buses and Tube.",
+     "A TfL spokesman said: 'We are working hard to minimise disruption to our customers while Network Rail carry out repairs to their overhead lines alongside our routes.'",
+     "\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

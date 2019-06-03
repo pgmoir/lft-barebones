@@ -1,0 +1,172 @@
+{
+ "pageTitle": "Corporate social responsibility",
+ "keywords": "Public,TfL",
+ "description": "The environment, sustainability, equality and inclusion and how we work with charities",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Corporate social responsibility"
+  }
+ ],
+ "title": {
+  "title": "Corporate social responsibility",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We recognise the importance of corporate social responsibility. For us this means maximising the social and economic benefits of our operations."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Armed Forces Covenant",
+    "texts": [
+     "Our promise to help ex-service personnel is available on the MOD website"
+    ],
+    "link": {
+     "url": "https://www.gov.uk/government/publications/businesses-who-have-signed-the-armed-forces-covenant-company-names-beginning-with-t",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/af-covenant_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Equality \u0026 inclusion",
+    "texts": [
+     "Discover our role in providing access to education, employment and services"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/equality-and-inclusion",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Charities",
+    "texts": [
+     "Raising money for a registered charity? Apply to collect at Tube stations"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/charities",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Transport \u0026 health",
+    "texts": [
+     "We're connecting our transport services to improving the health of Londoners"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Corporate social responsibility",
+    "links": [
+     {
+      "title": "Charities",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/charities",
+      "image": {}
+     },
+     {
+      "title": "Environment",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/environment",
+      "image": {}
+     },
+     {
+      "title": "Equality \u0026 inclusion",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/equality-and-inclusion",
+      "image": {}
+     },
+     {
+      "title": "Transport \u0026 health",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Corporate social responsibility",
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Transparency",
+      "url": "/corporate/transparency/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Safety and sustainability panel",
+      "url": "/corporate/publications-and-reports/safety-sustainability-hr",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Health, safety and environment report",
+      "url": "/corporate/publications-and-reports/health-safety-and-environment",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

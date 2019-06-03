@@ -1,0 +1,63 @@
+{
+ "pageTitle": "Proposed industrial action suspended",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Proposed industrial action suspended",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground have issued the following statement in response to RMT's decision to call off planned strike action:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A TfL spokesperson said: \"We welcome the decision to call off the strike next Tuesday.  We have always made clear that the issues should be resolved through discussion.  We will continue to meet to resolve the outstanding issues.\""
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

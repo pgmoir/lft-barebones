@@ -1,0 +1,236 @@
+{
+ "pageTitle": "Planning for the future",
+ "keywords": "Public,TfL",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "How we work",
+   "url": "/corporate/about-tfl/how-we-work"
+  },
+  {
+   "title": "Planning for the future"
+  }
+ ],
+ "title": {
+  "title": "Planning for the future",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We are investing billions to transform the Capital's transport network. Proposals include improving suburban railways and the cycling infrastructure and tackling vehicle emissions."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Mayor's Transport Strategy 2018",
+    "texts": [
+     "Sadiq Khan has published his strategy for the future of transport in London"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/the-mayors-transport-strategy",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/draft-mts-teaser-beige_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Healthy Streets",
+    "texts": [
+     "We're putting the health of London's people at the heart of our planning"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/healthy-streets-parents_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Extending the Overground",
+    "texts": [
+     "Find out about our plans to extend the London Overground to Barking Riverside"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/barking-riverside-extension",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/overground_rdax_400x200.gif"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "London's airports",
+    "texts": [
+     "The Mayor wants to support aviation but not at the expense of the environment"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/london-airports",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/aviation-teaser-web_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Developing the rail network",
+    "texts": [
+     "We want to take responsibility for London's inner-suburban rail services"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Improving station information",
+    "texts": [
+     "We're providing more information on the busiest times on our network"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/improving-station-information",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Bakerloo line extension",
+    "texts": [
+     "Extending the Bakerloo line to south east London will support new homes and jobs"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/bakerloo-line-extension",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "New river crossings for London",
+    "texts": [
+     "We think east London needs new river crossings. Read about our plans"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/new-river-crossings-for-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Rotherhithe-Canary Wharf crossing",
+    "texts": [
+     "Pedestrians and cyclists would benefit from a Rotherhithe-Canary Wharf crossing"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/rotherhithe-canary-wharf-crossing",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Consultations \u0026 surveys",
+    "texts": [
+     "We consult on a range of projects with customers, businesses and others"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Crossrail 2",
+    "texts": [
+     "This key long-term project is needed to support London's rapid growth"
+    ],
+    "link": {
+     "url": "http://www.crossrail2.co.uk",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Strategic transport \u0026 land-use models",
+      "url": "/corporate/publications-and-reports/strategic-transport-and-land-use-models",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Budget and business plan",
+      "url": "/corporate/publications-and-reports/business-plan",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

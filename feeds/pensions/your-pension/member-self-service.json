@@ -1,0 +1,166 @@
+{
+ "pageTitle": "Member self-service",
+ "keywords": "TfL",
+ "description": "Use our pension calculator, view the personal information we hold about you, amend your contact details and access various documents in our member self-service area.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Your pension",
+   "url": "/pensions/your-pension"
+  },
+  {
+   "title": "Member self-service"
+  }
+ ],
+ "title": {
+  "title": "Member self-service",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Use our pension calculator, view the personal information we hold about you, amend your contact details (if you are no longer a contributing member) and access various documents in our member self-service area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003ePlease note:\u003c/strong\u003e If you are using an Apple Mac PC you may require additional software.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Need help?\"}",
+     "We have prepared a number of help sheets for our self-service website as follows:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Accessing Self Service\",\"url\":\"/cdn/static/cms/documents/accessing-self-service.pdf\",\"icon\":\"download\",\"size\":\"PDF 281KB\",\"image\":{}},{\"title\":\"Changing your password\",\"url\":\"/cdn/static/cms/documents/changing-your-password.pdf\",\"icon\":\"download\",\"size\":\"PDF 105KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Already registered? \u003ca href=\"https://pensionsmemberservice.tfl.gov.uk/Compendia/\"\u003eSign in\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Registration\"}",
+     " \u003ca href=\"https://pensionsmemberservice.tfl.gov.uk/Compendia/selfregistration.asp\"\u003eRegister now\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Your contributions",
+      "url": "/pensions/your-pension/your-contributions",
+      "image": {}
+     },
+     {
+      "title": "Joining and leaving the fund",
+      "url": "/pensions/your-pension/joining-and-leaving-the-fund",
+      "image": {}
+     },
+     {
+      "title": "Retirement",
+      "url": "/pensions/your-pension/retirement",
+      "image": {}
+     },
+     {
+      "title": "Ill-health retirement",
+      "url": "/pensions/your-pension/ill-health-retirement",
+      "image": {}
+     },
+     {
+      "title": "Benefits on death",
+      "url": "/pensions/your-pension/benefits-on-death",
+      "image": {}
+     },
+     {
+      "title": "Contracting-out",
+      "url": "/pensions/your-pension/contracting-out",
+      "image": {}
+     },
+     {
+      "title": "Pension payments and deductions",
+      "url": "/pensions/your-pension/pension-payments-and-deductions",
+      "image": {}
+     },
+     {
+      "title": "Remarriage and divorce",
+      "url": "/pensions/your-pension/remarriage-and-divorce",
+      "image": {}
+     },
+     {
+      "title": "Member self-service",
+      "url": "/pensions/your-pension/member-self-service",
+      "image": {}
+     },
+     {
+      "title": "Staff travel",
+      "url": "/pensions/your-pension/staff-travel",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Add vehicle to residents' discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Add vehicle to residents' discount"
+  }
+ ],
+ "title": {
+  "title": "Add vehicle to residents' discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "You can only have 1 vehicle on this discount at a time.",
+     "You must be the registered keeper of the vehicle and it must be registered with the DVLA at the address you use to apply for the residents' discount.",
+     "You can also add a company car or lease vehicle as long as it is for your own use.",
+     "To add a vehicle to your discount you need evidence to support your request - you have 40 days to supply this to us. If you miss this deadline, your vehicle will be removed from the discount and you must pay the Congestion Charge in full.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Refunds\"}",
+     "If you have already paid the charge for the vehicle currently on your residents' discount, any remaining days will be automatically refunded back to the card used to make the original payment. If you paid by cheque the refund will be made by cheque.",
+     "You can pay the charge for your new vehicle online once you have completed this process.",
+     "You will need to provide an image or copy of 1 document from the list below:",
+     "Your own private vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your V5C vehicle registration certificate (logbook). (The vehicle must also be registered with the DVLA in your name and at the address you use to apply for the residents’ discount)\"]}",
+     "Company car:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate and confirm that the vehicle is for your use only. (The vehicle must be registered in the company name with the DVLA)\"]}",
+     "Lease vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicle lease document - this is the document that you signed to lease the vehicle. (The vehicle must be registered in the lease company name with the DVLA)\"]}",
+     "A company car provided by a lease company:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your company’s vehicle lease document (this is the document that you signed to lease the vehicle)\"]}",
+     "AND",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate and confirm that the vehicle is for your use only. (The vehicle must be registered in the company or lease name with the DVLA)\"]}",
+     "All documents must be clear enough to read easily. If we can't read them we may ask you for more proof. This will delay the registration process."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

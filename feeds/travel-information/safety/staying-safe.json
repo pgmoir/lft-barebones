@@ -1,0 +1,155 @@
+{
+ "pageTitle": "Staying safe and secure",
+ "keywords": "TfL",
+ "description": "Tips for travelling on buses, trains, taxis and minicabs or by bike",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety",
+   "url": "/travel-information/safety/index"
+  },
+  {
+   "title": "Staying safe and secure"
+  }
+ ],
+ "title": {
+  "title": "Staying safe and secure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We take security very seriously and work closely with our policing partners to keep travelling in London safe and secure.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We fund over 2,000 officers across the Metropolitan Police Service (MPS), British Transport Police (BTP) and the City of London Police (CoLP). They police London's transport network to tackle crime and antisocial behaviour, and keep you safe when travelling in London.",
+     "You may at times see armed police officers patrolling our services, or officers assisted by trained police dogs to help detect illegal materials and substances.",
+     "We also have comprehensive CCTV coverage across our network to ensure it remains a low-crime environment and all our staff are trained to respond to reports of unattended items, unusual activity and have the capability to contact our control rooms and the police easily.",
+     "Follow these tips to help keep us safe and secure whilst travelling in London.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Reporting - See It. Say It. Sorted.\"}",
+     "Whilst travelling on our network please help keep yourselves and others safe by reporting any unattended items or suspicious behaviour. Find about more about this on the \u003ca href=\"http://www.btp.police.uk/safety_on_the_railway/keeping_yourself_safe/vigilance.aspx\"\u003eBritish Transport Police\u003c/a\u003e website.",
+     "Examples of suspicious behaviour could include someone who appears to be carrying out surveillance, by taking photos of our security arrangements.",
+     "Do not leave it to someone else to report:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tell a police officer or member of staff\",\"Text the British Transport Police on 61016\",\"In an emergency always call 999\"]}",
+     "Both the Police and TfL take your information seriously and we will check all reports thoroughly.",
+     "Find more information on reporting incidents that occur on the network \u003ca href=\"https://tfl.gov.uk/travel-information/safety/report-a-crime-or-incident\"\u003ehere\u003c/a\u003e .",
+     "Remember - See it. Say it. Sorted.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Your belongings\"}",
+     "Make sure you do not leave your belongings unattended at any point during your journey. Keep your bags zipped and keep your phone, wallet and purse out of sight and valuables secure.",
+     "If you cycle, follow these \u003ca href=\"https://tfl.gov.uk/modes/cycling/cycling-in-london/avoid-theft\"\u003etips\u003c/a\u003e to keep your bike secure.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Plan your journey\"}",
+     "Make sure you \u003ca href=\"https://tfl.gov.uk/plan-a-journey/\"\u003eplan your journey\u003c/a\u003e in advance  and, if using a taxi or minicab, make sure they are licensed. Only black taxis can be hailed in the street; minicabs must be booked direct with a licensed operator by phone, app, or at a minicab office. Find out more about our \u003ca href=\"https://tfl.gov.uk/campaign/safer-travel?cid=safer-travel\"\u003eSafer Travel\u003c/a\u003e campaign."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Safety",
+    "links": [
+     {
+      "title": "Staying safe",
+      "url": "/travel-information/safety/staying-safe",
+      "image": {}
+     },
+     {
+      "title": "Report a crime or incident",
+      "url": "/travel-information/safety/report-a-crime-or-incident",
+      "image": {}
+     },
+     {
+      "title": "Road safety advice",
+      "url": "/travel-information/safety/road-safety-advice",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Safety",
+     "url": "/travel-information/safety/road-safety-advice",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Safety \u0026 security",
+      "url": "/corporate/safety-and-security/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Live bus arrivals",
+      "url": "/modes/buses/live-bus-arrivals",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycling-in-london/cycle-parking",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Book a taxi or a minicab",
+      "url": "/modes/taxis-and-minicabs/book-a-taxi",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

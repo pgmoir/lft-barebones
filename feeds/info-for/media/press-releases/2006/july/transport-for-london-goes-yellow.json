@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Transport for London goes Yellow",
+ "description": "The comprehensive, easy to use guide will feature local travel information, including practical information on the Congestion Charge, Oyster card, taxi and Dial-a-Ride services and cycling in London. It will also feature bus services and maps, tube map,",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London goes Yellow",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Central London residents will be the first to benefit from a partnership between Transport for London (TfL) and international directories publisher Yell - as a new 16 page travel guide is introduced to the front of London Yellow Pages directories published from July 2006."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The comprehensive, easy to use guide will feature local travel information, including practical information on the Congestion Charge, Oyster card, taxi and Dial-a-Ride services and cycling in London.",
+     "It will also feature bus services and maps, tube map, trams and river service information and useful contact details.",
+     "The Central London Yellow Pages directory, will be delivered from King's Cross to Chelsea and Earls Court to Hoxton over the next few weeks.",
+     "Twelve more editions featuring the new travel guide will be delivered across the London area between July 2006 and March 2007 - more than three million directories in total.",
+     "Chris Townsend, Director of Group Marketing at Transport for London, said: \"For the first time Londoners will be able to access full print travel information from TfL in their Yellow Pages directory.",
+     "\"This new service complements TfL's already extensive range of customer travel information sources, which include the online Journey Planner, text message alerts and TfL's travel information line.\"",
+     "Paul Plant, Yell's head of innovation, said: \"Yellow Pages is a comprehensive source of business and local information for Londoners, which is continually being updated.",
+     "\"Around 50 per cent of Londoners use public transport at least once a week, so the new travel guide will be really useful and help to ensure that Yellow Pages continues to play an important role in London life.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"Yell is a leading international directories business operating in the classified advertising market through printed, online and telephone-based media\",\"Yell's brands in the UK are Yellow Pages and Business Pages, Yell.com, Yellow Pages 118 24 7 and in the US are Yellow Book and Yellowbook.com, all of which are trademarks\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

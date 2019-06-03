@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Review application",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Review application"
+  }
+ ],
+ "title": {
+  "title": "Review application",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "I confirm that I have read, understood and accept the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"target=\"_blank\"\u003eaccredited breakdown discount terms and conditions\u003c/a\u003e ",
+     "Once your discount is approved, you will need to pay £10 for each vehicle you want to add. This charge must be paid at the time the vehicle is added.",
+     "Your discount is valid for 12 months. When you renew it, you will need to pay the £10 charge for each vehicle active on the discount at that time."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

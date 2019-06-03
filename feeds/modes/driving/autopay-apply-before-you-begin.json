@@ -1,0 +1,63 @@
+{
+ "pageTitle": "Set up Auto Pay",
+ "keywords": "TfL",
+ "description": "Before we can set up your Auto Pay service, you need to create a London Road User Charging account.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Set up Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Set up Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Pay the Congestion Charge and Ultra Low Emission Zone (ULEZ) charge automatically each month.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Auto Pay records the number of charging days a vehicle travels in the Congestion Charge zone and, if your vehicle does not meet the emissions standards, the ULEZ. It bills users each month.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "You need to create a London Road User charging account before setting up Auto Pay. (Already have an account? \u003ca href=\"/modes/driving/cc-autopay-apply-select-vehicles\"\u003eSign in now.\u003c/a\u003e )",
+     "To set up Auto Pay you will need your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicle registration details\",\"Bank or payment card details\"]}",
+     "You can add a maximum of 5 vehicles to Auto Pay. If you're a business with 6 or more vehicles you can \u003ca href=\"/modes/driving/fleet-autopay-apply-apply-anon-30199\"\u003eset up Fleet Auto Pay\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Annual charge\"}",
+     "The £10 registration charge for each vehicle added to Auto Pay must be paid every year. You don't have to pay this charge immediately - it will be added to your first statement.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

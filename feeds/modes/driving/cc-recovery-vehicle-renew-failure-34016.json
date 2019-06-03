@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Renew recovery vehicle discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Renew recovery vehicle discount"
+  }
+ ],
+ "title": {
+  "title": "Renew recovery vehicle discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Payment failure\"}",
+     "Your discount renewal application has failed.",
+     "If you still want to renew the discount, please \u003ca href=\"/modes/driving/cc-discount-manage-discounts-32822\"\u003erestart the renewal application\u003c/a\u003e or call us on 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

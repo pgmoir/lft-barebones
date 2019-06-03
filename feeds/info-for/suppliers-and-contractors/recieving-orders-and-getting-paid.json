@@ -1,0 +1,114 @@
+{
+ "pageTitle": "Invoicing and getting paid",
+ "keywords": "TfL,Suppliers, TfL, payment, purchase orders, invoice",
+ "description": "A page for TfL suppliers about how to submit invoices and get paid quickly",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Invoicing and getting paid"
+  }
+ ],
+ "title": {
+  "title": "Invoicing and getting paid",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're going to start working with us, we want make it as simple and transparent as possible. Here, you'll find all the information you need to do business with us.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Receiving orders\"}",
+     "If you're a supplier, this is what you should expect to receive when you place an order:",
+     "When you order goods or services, we create a purchase order with a unique number. The purchase order will be issued via agreed channels (EDI, email, post or fax). As the supplier, you should have a valid purchase order (or as a minimum, the purchase order number), before providing the goods or services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting paid\"}",
+     "Invoice and payment options are available as well as support if there's a delay in your payment.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Invoice options\"}",
+     "We aim to pay all our suppliers quickly and efficiently for the goods and services they provide, so we offer three routes for invoices:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"1. The preferred method - E-invoicing (EDI)\"}",
+     "Our encouragement to use electronic invoicing means that thousands of our suppliers now send us their invoices this way each month. EDI has proved to be better for suppliers, and us, because it:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reduces printing and postage costs (which is also environmental best practice)\",\"Stops misplaced/lost invoices\",\"Makes the invoice process more efficient (invoices are received by file direct to our SAP system\"]}",
+     "We now offer a comprehensive \u003ca href=\"/corporate/publications-and-reports/procurement-information\"\u003eelectronic invoicing platform \u003c/a\u003e for all suppliers.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2. PDF invoices (emailed)\"}",
+     "We can accept invoices by email but they must be in PDF format. Each invoice must be a separate PDF and with a unique file reference. Please send emails to: \u003ca href=\"mailto:invoices@tfl.gov.uk\"\u003einvoices@tfl.gov.uk\u003c/a\u003e .",
+     "\u003cstrong\u003eSubmitting invoices\u003c/strong\u003e ",
+     "To avoid a delay in payment, it's important for your invoice to be legally compliant. The following checklist will help to avoid payment delays.",
+     "Make sure you include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your company name and address (including postcode)\",\"Our address (and be specific - the TfL company you're billing should be the same as the one on your purchase order)\",\"All your relevant contact details, including telephone numbers, email addresses, fax numbers, etc\",\"The correct bank details - these must be the same as the ones on our supplier portal\",\"The right title - state whether it's an invoice or a credit note\",\"An identifiable, unique invoice/credit number because without it, your invoice will be returned. Our system handles numbers of up to 16 alphanumeric characters. If we receive more than one invoice with the same invoice number, these will also be returned\",\"An invoice date/ tax point. This allows us to action your invoice within the correct payment terms\",\"Include value and currency\",\"A description of the goods and services being supplied\",\"The correct TfL or GLA purchase order (PO) number and line number (e.g. 3100987654/10)\",\"The contact details of the TfL representative named\"]}",
+     "Non-compliant invoices are rejected and sent back to suppliers to be corrected and resubmitted, which could lead to a delay in payment.",
+     "If VAT is applied, the invoice should be split between the net value of goods and services, the rate and amount of VAT, and the total value of the invoice. A valid and current VAT number must also be displayed.",
+     "Find out more about what an ideal invoice layout should include:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Standard invoice example\",\"url\":\"/cdn/static/cms/documents/sample-standard-invoice.docx\",\"icon\":\"download\",\"size\":\"DOCX 39KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Payment terms\"}",
+     "It's our standard policy to make due payments to suppliers on the 30th day of the month following the date of the invoice. However, where clauses are agreed which vary the terms of payment, these will be honoured.",
+     "We expect our suppliers to pay any sums due to sub-contractors promptly and within a period not exceeding that set out above.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Prompt payment code\"}",
+     "We have signed up to the Prompt Payment Code (PPC) to highlight our commitment to paying suppliers on time and in line with the agreed terms. Suppliers are notified in writing of why their invoice cannot be paid. \u003ca href=\"http://www.promptpaymentcode.org.uk/\"\u003eFind out more\u003c/a\u003e about the Prompt Payment Code.\u003cbr /\u003e\u003cbr /\u003eWe reserve the right to withhold payment where the goods or services have not been provided in accordance with the contract.",
+     "If you'd like to know more about why you may not have been paid, the following document provides more information:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Reasons for non payment\",\"url\":\"/cdn/static/cms/documents/non-payment.pdf\",\"icon\":\"download\",\"size\":\"PDF 58KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Preventing payment delays\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Returned invoices are the main reason for delays in payment. The best ways to avoid this are:\\u003cbr /\\u003e\\u003cbr /\\u003e- Ensure the correct purchase order (PO) number is on the invoice\\u003cbr /\\u003e- Ensure the correct TfL company code is included as part of the address and matches the details on\\u003cbr /\\u003ethe purchase order\\u003cbr /\\u003e- Ensure all essential information is included and the invoice adds up\"]}",
+     "If your invoice has been returned and you need more information, please contact Accounts Payable: 0343 222 5100 or learn more from the following guide:\u003cbr /\u003e",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"How to help us pay your invoice on time\",\"url\":\"/cdn/static/cms/documents/how-to-help-us.pdf\",\"icon\":\"download\",\"size\":\"PDF 812KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Purchase orders\"}",
+     "You must make sure you have received a PO so you can quote the correct number on your invoice. Discrepancies between an invoice and PO raised will result in a system-generated hold. To help avoid this, please make sure:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The invoice being raised has the same supplier details as those provided on the purchase order. If they're not the same, speak to the contact provided on the order\",\"Your invoice details match the purchase order, including the description of goods/services, which should be itemised in exactly the same way\",\"That if freight charges are not included on the PO they should not be included on the invoice\",\"The PO number we provide is quoted on the invoice. If you have been asked to supply additional goods or services using an existing order number, please check whether this existing order covers the new charges. If not, you should request a new PO\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Returned invoices\"}",
+     "If an invoice has been returned, it's probably because the following is missing:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The company name and/or postal address - If we don't know who the invoice has been raised by, or their address, we can't allocate the invoice to a supplier account\",\"Invoice address - invoices should clearly show the name of the TfL company being billed. This is detailed on the purchase order\",\"Purchase order number - a PO number should be quoted on all invoices\",\"Pages of the invoice - backing documents are missing from the invoice, such as timesheets or itemised billing\",\"Invoice totals - the gross amount has not been clearly stated on the invoice. To help us process your invoice please quote the net and VAT amount where applicable\",\"Invoice date - invoice date not clearly shown on the invoice\",\"Invoice number - unable to identify the invoice number provided. This may be due to poor print quality, the use of multiple numbers with no clear indication of which one is the invoice number, or no invoice number provided\",\"Labour element not quoted for construction work\"]}",
+     "An invoice will also be returned if there is incorrect information quoted for the TfL company such as:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Company code\",\"Purchase order number\"]}",
+     "Invoice is damaged or illegible:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Poor quality invoice\",\"Invoice is damaged or illegible and cannot be scanned\"]}",
+     "If your invoice totals do not add up correctly, this may also be a reason why your invoice has been returned.",
+     "If an invoice has been returned to you, please amend it accordingly and resubmit the invoice.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contacting Financial Services Centre (FSC)\"}",
+     "With the exception of disputes, FSC provides a single point of contact for both suppliers and customers, reducing the need for you to chase individuals and different departments.",
+     "Contact FSC for all Accounts Payable-related queries on: 0343 222 5100,  or email: accountspayable@tfl.gov.uk. The FSC is open 09.00-17.00, Monday to Friday, except public holidays.",
+     "Any queries concerning the information on an order received should be raised with the local procurement department."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "pageTitle": "24-hour service for route 36 and new night route N136 for Chislehurst",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "24-hour service for route 36 and new night route N136 for Chislehurst",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From Saturday 9 February, route 36 will become a 24-hour service."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "London's night bus network has expanded dramatically in recent years",
+     "Transport for London (TfL) will also be introducing a new night route, the N136.",
+     "Route 36 will become a 24-hour service, running with increased frequency during the daytime.",
+     "The route runs between Queen's Park and New Cross Bus Garage via Paddington, Hyde Park Corner, Victoria, Vauxhall, Camberwell and Peckham.",
+     "A new night route, the N136, will be introduced between Oxford Circus and Chislehurst.",
+     "This will serve Oxford Circus, Victoria, Vauxhall, Camberwell, Peckham, New Cross, Lewisham, Catford, Downham Way and Grove Park, replacing the current N36.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes\"}",
+     "It will then go on to Chislehurst War Memorial via Chinbrook Road, Marvels Lane, Dunkery Road, Mottingham Road, White Horse Hill, Red Hill, Chislehurst High Street and Centre Common Road.",
+     "Buses on route N136 will operate every 30 minutes on Sunday to Thursday and every 20 minutes on Friday and Saturday.",
+     "As a result of these changes, route N36 will no longer run.",
+     "Passengers currently travelling on route N36 between Queen's Park, Oxford Circus and Trafalgar Square can use other existing night buses, including 24-hour route 6 which runs via Shirland Road instead of Harrow Road.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessible\"}",
+     "John Barry, Head of Network Development for London Buses, said: \"The new 24-hour service on route 36 and new route N136 are further accessible transport connections for late night travellers in the Capital.",
+     "\"London's night bus network has expanded dramatically in recent years with passenger numbers more than doubling since 2000.",
+     "\"Almost half the users are people travelling to or from work.\"",
+     "The change comes following a review of the existing service.",
+     "{\"template\":\"bulletlist\",\"items\":[\"From Monday to Saturday, route 36 will operate every six minutes during the day (currently every 7.5 minutes) and every 12 minutes in the evening, Monday to Saturday\",\"Sunday frequencies remain unchanged\",\"There will be a bus every 30 minutes on weeknights and every 20 minutes on weekend nightsul\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

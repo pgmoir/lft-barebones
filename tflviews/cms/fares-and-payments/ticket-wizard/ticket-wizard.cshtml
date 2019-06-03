@@ -1,0 +1,113 @@
+﻿ 
+@{ 
+    // Content that is inserted into the Ticket Wizard form
+    var viewModel = new
+    {          
+        // Price types
+        PerPerson = "",
+        DailyCap = "based on the daily cap",
+        WeeklyCap = "based on the Monday to Sunday capping",
+        LikelySpend = "Likely spend per person based on two single Pay as you go fares",
+
+        // When
+        WhenHeader = "Duration and time of travel",
+        DaysHeader = "How long will you be travelling around London?",
+        MultitripHeader = "How many trips will you be making each day?",
+        MultitripLabel = "More than 2 trips a day",
+        NotMultitripLabel = "2 trips or less a day",
+        PeakHeader = "When will you be travelling?",        
+        MultitripPeakExplanation = "Daily peak (i.e. Anytime) caps apply if travelling between 0430 and 0930 Monday to Friday (excluding public holidays). Off peak caps apply at all other times",
+        NonMultitripPeakExplanation = "Peak fares (i.e. Anytime) apply from 0630 to 0930 and from 1600 to 1900 Monday to Friday (excluding public holidays). Off peak fares apply at all other times.",
+        NonJavascriptPeakExplanation = "Desriptions of peak and off peak",
+        
+        // How
+        AllModesSummary = "Tube and other rail services with bus and tram",
+        HowHeader = "Travelling by",
+        HowSubHeader = "Which services will you travel on?",
+        HowExplanation = "",
+        BusOnlyLabel = "Bus and tram services only",
+        BusOnlyDescription = "",
+        TubeDlrOverground = "Tube and other rail services",
+        TubeDescription = "with bus and tram",
+ 
+       // Where
+        WhereHeader = "Travelling to",
+        WhereSubHeader = "Choose which zones you want to travel",
+        WhereFooter = "&lt;span&gt;Your ticket must cover all the zone you travel through.&lt;/span&gt; If you travel outside of the zones covered by your ticket, you may be charged an additional fare",
+        ZoneLookupLabel = "Not sure which zones to select?",
+        
+        // Who
+        WhoHeader = "Get ticket options",
+        WhoSubHeader = "Select your first passenger to get options for tickets",
+        WhoSubHeaderNext =  "Select your next passenger to get options for tickets",
+        FreeBusQuestion = "Are you eligible for free bus travel?",
+
+        // Misc
+        // WhoOptionImage1 = "<img src="/cdn/static/cms/images/feeds/oyster-card_rdax_150x95.png">",
+        // WhoOptionImage2 = "<img src="/cdn/static/cms/images/feeds/oyster-card_rdax_150x95.png">",
+        // WhoOptionImage3 = "<img src="/cdn/static/cms/images/feeds/oyster-card_rdax_150x95.png">",
+        // WhoOptionImage4 = "<img src="/cdn/static/cms/images/feeds/oyster-card_rdax_150x95.png">",
+        
+    Age0To4 = "Under 5 travel FREE",
+    Age5To10 = "Children 5-10 years old",
+    Age11To15 = "Children 11-15 years old",
+    Age16To18 = "16-18 year olds"
+    };
+
+    // Further railcard types can be added or removed here
+    // viewModel.Railcards.Add("TFL Staff Railcard");
+}
+    @{ Html.RenderAction("Breadcrumbs", "Modules", new { lastBreadcrumbName = "Ticket wizard", nameAndUrls = new[] { new Tuple<string, string>("Fares", "/fares-and-payments/") }.ToList() }); }
+    <div class="r">
+        <div class="headline-container content-page">
+            <h1>
+                Ticket wizard
+            </h1>
+        </div>
+    </div>
+    <div class="r main-and-aside">
+        <div class="main tw-content">
+             <div class="intro"><h2></h2>
+                Find ticket options for your journey on bus, Tube, tram, DLR, London Overground and most National Rail services in London. Please be aware that ticket options for customers will be updated soon to reflect the recent fares update.
+            </div>
+
+    @{ Html.RenderAction("TicketWizard", "Fares", new RouteValueDictionary(viewModel)); }
+    <div class="tw-quick-links clearfix">
+    <h3>Not sure what you're looking for? Check out our <span class="">useful links</span></h3>
+    <ul class="tw-links-list">
+        <li class="list-heading">Popular ways to pay</li>
+        <li><a href="http://www.tfl.gov.uk/fares-and-payments/oyster">Oyster</a></li><li><a href="/fares-and-payments/ticket-types/paper-tickets?intcmp=11507">Paper tickets</a></li><li><a href="http://www.tfl.gov.uk/travel-information/visiting-london/visitor-oyster-card">Visitor Oyster card</a></li><li><a href="http://www.tfl.gov.uk/fares-and-payments/contactless">Contactless payment card</a></li>
+    </ul>
+    <ul class="tw-links-list">
+        <li class="list-heading">Adult discounts and concessions</li>
+        <li><a href="http://www.tfl.gov.uk/fares-and-payments/adult-discounts-and-concessions">Adult discounts and concessions</a></li>
+    </ul>
+    <ul class="tw-links-list">
+        <li class="list-heading">Students and children</li>
+        <li><a href="/fares-and-payments/travel-for-under-18s">Under 18s travel</a></li>
+    </ul>
+    <ul class="tw-links-list">
+        <li class="list-heading">Other ways to travel</li>
+        <li><a href="http://www.tfl.gov.uk/modes/river/">River</a></li><li><a href="http://www.tfl.gov.uk/modes/emirates-air-line/">Emirates Air Line</a></li><li><a href="/modes/cycling/santander-cycles">Santander Cycles</a></li>
+    </ul>
+</div>
+        </div>
+    </div>
+
+@{
+    ViewBag.Title = "Ticket wizard";
+    ViewBag.MetaCreated = "4/12/2013";
+    ViewBag.MetaModified = "3/19/2014";
+    ViewBag.MetaDescription = "Find fares for bus and tram travel in London";
+    ViewBag.MetaIdentifier = "B25E29D13AD6499F97579253F1914D5D";
+ }
+
+
+
+
+
+
+
+
+
+ 

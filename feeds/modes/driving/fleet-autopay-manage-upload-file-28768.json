@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Upload a new vehicle list",
+ "keywords": "TfL",
+ "description": "Make multiple changes to your Fleet Auto Pay vehicle list by uploading a .csv, .xls or .xlsx file.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Upload a new vehicle list"
+  }
+ ],
+ "title": {
+  "title": "Upload a new vehicle list",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Make multiple changes to your Fleet Auto Pay vehicle list by uploading a .csv, .xls or .xlsx file.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Upload file\"}",
+     "\u003cstrong\u003eUploading a new list will overwrite your existing list.\u003c/strong\u003e Your new list must include all your vehicles, not just vehicles that you want to add. A £10 charge for each new vehicle will be added to your next monthly statement.",
+     "Any vehicles not on your new list will not be added to your Auto Pay service. You need to pay the charge another way if they are driven within the zone.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ Information\"}",
+     "Cars, motorcycles, motorised tricycles, vans, minibuses, buses, coaches and HGVs, motorised caravans and horseboxes, breakdown and recovery vehicles, private ambulances, motor hearses, dual purpose vehicles and other specialist vehicle types that do not meet the minimum Euro emission standards are liable for the ULEZ charge.",
+     "The minimum emissions standards for ULEZ are Euro 3 for motorcycles, Euro 4/IV for petrol vehicles and Euro 6/VI for diesel vehicles.",
+     "If your vehicle does not meet the emissions standards for ULEZ the charge will be added to your monthly statement, in addition to the Congestion Charge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Download template or list\"}",
+     "\u003cstrong\u003eFirst time:\u003c/strong\u003e Download a blank template if you are adding vehicles for the first time.",
+     "\u003cstrong\u003eAlready have vehicles:\u003c/strong\u003e Download and modify your current list of Fleet Auto Pay vehicles.\u003cstrong\u003e Remove all duplicates, or your upload may fail.\u003c/strong\u003e ",
+     "Your uploaded vehicle list must be a .csv, .xls or .xlsx file. It must also be laid out in the same format as the blank template.",
+     "You can use the template provided, but if you already have a list of vehicles on Fleet Auto Pay it may be easier to download and edit this list.",
+     "This upload will replace ALL your Fleet Auto Pay vehicles. Any vehicles not included in the file will be\u003cstrong\u003edeleted\u003c/strong\u003e from your Fleet Auto Pay service.",
+     "Make sure that each upload file you submit:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Contains all the vehicles you wish to keep\",\"Contains all the new vehicles you wish to add\",\"\\u003cstrong\\u003eDoes not \\u003c/strong\\u003e contain vehicles you wish to remove\",\"\\u003cstrong\\u003eDoes not\\u003c/strong\\u003e contain any duplicate entries\"]}",
+     "Once you have created your vehicle list,\u003cstrong\u003esave the file to your device\u003c/strong\u003e . You can then drag it into the box above or click ‘Browse your files’ to find it on your computer.",
+     "When you've found the file and click ‘Open’, you should see it in the upload section and be able to click ‘Continue’.",
+     "An email will be sent automatically to the account holder once the upload process has finished. If you want us to send an additional email to another account user, enter the email address details below."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

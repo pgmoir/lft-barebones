@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Service update",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Service update",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A normal service is operating on the following lines:Bakerloo, Central, East London, Jubilee, Northern, Victoria and Waterloo \u0026 City lines."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "From the first train tomorrow (18 July) King's Cross St Pancras Underground station is open for the Metropolitan, Northern and Victoria lines and interchange with other Underground lines is available.",
+     "The Circle line remains suspended.",
+     "The Hammersmith \u0026 City line is operating between Hammersmith and Paddington only.",
+     "There is no service on the Metropolitan line between Moorgate and Aldgate.",
+     "On the District line there is no service between High Street Kensington and Edgware Road.",
+     "On the Piccadilly line there is no service between Hyde Park Corner and Arnos Grove and between Rayners Lane and Uxbridge.",
+     "There are two special bus services in operation:",
+     "{\"template\":\"bulletlist\",\"items\":[\"One service calls at Arnos Grove and Finchley Central to provide a connection with the Northern line.\",\"From 13 July the second special bus service will now start from Arnos Grove rather than Bounds Green calling at Bounds Green, Wood Green, Turnpike Lane and Seven Sisters to connect with Victoria line services.\"]}",
+     "Additional bus services are operating on route 91 between Holloway Road and Euston via Caledonian Road and King's Cross St Pancras."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "pageTitle": "Update your details",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Update your details"
+  }
+ ],
+ "title": {
+  "title": "Update your details",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Before you can access your account online for the first time, please provide us with some additional information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Name\"}",
+     "Please provide your full name.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Address\"}",
+     "Please provide your full address.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Telephone number*\"}",
+     "Please provide at least\u003cstrong\u003e1\u003c/strong\u003e contact telephone number.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Email address\"}",
+     "All account-related correspondence will be sent to the email address you supply here."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "pageTitle": "Our partners",
+ "keywords": "TfL",
+ "description": "List of partners for travel options information",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Our partners",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"TfL are the strategic transport authority for London. However, transport in the city is also provided by other operators, such as Network Rail and train operating companies such as Southern and Southeastern.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Following the success of transport operator partnerships during the 2012 Games and our continued commitment to give customers transparent and integrated information, transport operators are working together through Know Your Travel Options to provide an open and joined-up view of transport in London.",
+     "Our partners include:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "pageTitle": "Set up a direct debit",
+ "keywords": "TfL",
+ "description": "You'll be billed monthly for all your Congestion Charge and ULEZ charges.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Set up a direct debit"
+  }
+ ],
+ "title": {
+  "title": "Set up a direct debit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You'll be billed monthly for all your Congestion Charge and ULEZ charges.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you are not the bank/building society account holder, or more than one person is required to authorise debits from this account, you will not be able to authorise a Direct Debit mandate.",
+     "All correspondence about this Direct Debit mandate will be sent using the preferred contact details on your London Road User Charging account.",
+     "\u003cstrong\u003eYour Fleet Auto Pay may be suspended if we are unable to collect a payment.\u003c/strong\u003e Check regularly to make sure that you have enough funds available."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

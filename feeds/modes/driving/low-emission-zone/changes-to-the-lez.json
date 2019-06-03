@@ -1,0 +1,143 @@
+{
+ "pageTitle": "Changes to the LEZ",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Changes to the LEZ"
+  }
+ ],
+ "title": {
+  "title": "Changes to the LEZ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"From 26 October 2020, Low Emission Zone (LEZ) standards will be tighter. Heavy vehicles including lorries, buses and coaches will need to meet the new standards or pay a daily charge to drive within the zone.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Emissions standards\"}",
+     "Current LEZ emissions standards set a limit for how much particulate matter (PM) a vehicle may emit. PM is very fine particles of pollutants which can contribute to asthma, heart and lung disease, other respiratory illnesses and even early death.",
+     "From 26 October 2020 the LEZ emission standards for heavy vehicles will also set a limit for emissions of nitrogen oxides (NOx), which form harmful nitrogen dioxide (NO2) in the atmosphere. Vehicles need to meet the LEZ emissions standards based on vehicle type and the type of emission.",
+     "\u003cstrong\u003eFrom 26 October 2020, LEZ standards will be:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eEuro VI\\u003c/strong\\u003e for buses and coaches over 5 tonnes, lorries and other specialist vehicles over 3.5 tonnes - this is the same as the ULEZ standard (these vehicles will no longer need to pay a separate ULEZ charge)\",\"\\u003cstrong\\u003eEuro 3\\u003c/strong\\u003e for PM for larger vans and minibuses - this is the same as the current LEZ standard\"]}",
+     "If you drive a larger van or minibus within the ULEZ area, you also need to pay the ULEZ charge if you do not meet the ULEZ standard of Euro 4 petrol/Euro 6 diesel.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"ULEZ and LEZ emissions standards and charges\",\"url\":\"/ruc-cdn/static/cms/documents/lez-ulez-comparison-table.pdf\",\"icon\":\"download\",\"size\":\"PDF 38KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Explore some of the \u003ca href=\"/modes/driving/low-emission-zone/ways-to-meet-the-standards\"\u003eways to meet the LEZ standards\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Meeting the standards\"}",
+     "Your vehicle registration document (V5C) will help identify your vehicle's Euro emission standard.",
+     "The LEZ is enforced based on declared emissions of the vehicle rather than age, but Euro VI engines are generally those registered with the DVLA after 2014.",
+     "Vans and minibuses registered on or after 1 January 2002 will meet the existing Euro 3 emissions standard, which is not changing.",
+     "Vehicles which meet the ULEZ standards will already meet the tighter LEZ standards.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle types that may not meet the tighter LEZ standards (if registered as new before 2014)\"}",
+     "Lorries\u003cbr /\u003eMotor caravans\u003cbr /\u003eMotorised horseboxes\u003cbr /\u003eBreakdown and recovery vehicles\u003cbr /\u003eSnow ploughs\u003cbr /\u003eGritters\u003cbr /\u003eRefuse collection vehicles\u003cbr /\u003eRoad sweepers\u003cbr /\u003eConcrete mixers\u003cbr /\u003eFire engines\u003cbr /\u003eTippers\u003cbr /\u003eRemoval lorries\u003cbr /\u003eOther specialist vehicles",
+     "Buses\u003cbr /\u003eCoaches (with 8+ passenger seats)",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicles types not meeting current or tighter LEZ standards (if registered as new before 1 January 2002)\"}",
+     "Larger vans\u003cbr /\u003eMotorised horseboxes\u003cbr /\u003e4x4 light utility vehicles\u003cbr /\u003ePick-ups\u003cbr /\u003eOther specialist vehicles",
+     "Motor caravans\u003cbr /\u003eAmbulances",
+     "Minibuses (with 8+ passenger seats)",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How charges and penalties will change\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From 26 October 2020\"}",
+     "If you drive a bus, coach, lorry or other specialist vehicle over 3.5 tonnes within the LEZ and it:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Does not meet Euro VI, you will need to pay a daily charge of £100\",\"Does not meet Euro IV PM standard, you will need to pay £300\",\"When the LEZ standards tighten, you will no longer need to pay a separate ULEZ charge if you drive a bus, lorry or other specialist vehicle over 3.5 tonnes.\",\"If your larger van or minibus does not meet Euro 3, you will need to pay a daily LEZ charge of £100. If you drive a larger van or minibus within the ULEZ area you will also need to pay the daily ULEZ charge if you do not meet the ULEZ standard of Euro 4 petrol/Euro 6 diesel.\"]}",
+     " \u003ca href=\"/modes/driving/low-emission-zone/penalty-charges\"\u003ePenalty charges will also change from 26 October 2020.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "pageTitle": "Replace a vehicle",
+ "keywords": "TfL",
+ "description": "Information on newer vehicle models, which may help meet the Low Emission Zone standards",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Ways to meet the LEZ standards",
+   "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards"
+  },
+  {
+   "title": "Replace a vehicle"
+  }
+ ],
+ "title": {
+  "title": "Replace a vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Newer vehicles have lower emissions, so you may choose to upgrade to a new (or newer) vehicle model that meets the Low Emission Zone (LEZ) emissions standards or an electric vehicle. Find out more about electric vehicles at Source London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Second-hand vehicles\"}",
+     "For some larger van owners it may be cheaper to purchase a second-hand vehicle that meets LEZ standards.",
+     "Second-hand vehicles can be purchased at vehicle dealerships and online, such as \u003ca href=\"http://www.autotrader.co.uk/\"\u003eAutotrader\u003c/a\u003e , \u003ca href=\"http://www.exchangeandmart.co.uk/\"\u003eExchange and Mart\u003c/a\u003e and \u003ca href=\"http://motors.ebay.co.uk\"\u003eEbay\u003c/a\u003e . Auction houses, such as \u003ca href=\"http://www.auctioneers.co.uk/\"\u003eAuctioneers\u003c/a\u003e and \u003ca href=\"http://www.manheim.co.uk/\"\u003eManheim\u003c/a\u003e , can be used to provide guidance on average prices. Make sure that the vehicle you purchase meets LEZ standards.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Leasing a vehicle\"}",
+     "If you're planning to drive in the LEZ for a short period of time only, you may wish to consider hiring or leasing a vehicle that meets the required emissions standards. Please check the \u003ca href=\"http://www.bvrla.co.uk/\"\u003eBVRLA website\u003c/a\u003e to find a rental company near you.",
+     "It's important to check that you are hiring a vehicle that meets LEZ standards or you may be issued with a Penalty Charge Notice. Charities, voluntary or community groups can also source transport through their local community transport project.",
+     " \u003ca href=\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\"\u003eSee which vehicle types are affected\u003c/a\u003e .",
+     "A number of major vehicle manufacturers have put together bespoke offers on new models, to help owners of larger vans, minibuses and lorries affected by the LEZ meet the required emissions standards."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Replace a vehicle",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards/replace-a-vehicle",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

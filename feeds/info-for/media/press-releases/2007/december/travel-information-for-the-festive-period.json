@@ -1,0 +1,87 @@
+{
+ "pageTitle": "Travel information for the festive period",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Travel information for the festive period ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) and the Mayor of London secure free travel for New Year's Eve revellers"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "If you're going home or going out on New Year's Eve, public transport is the best way to get about",
+     "TfL has announced full details of public transport arrangements for the festive period.",
+     "On New Year's Eve London Underground, Docklands Light Railway and Croydon Tramlink services will run all night in addition to normal 24-hour bus routes.",
+     "The Mayor of London has also decided that travel will be free between 23.45 on New Year's Eve and 04.30 on New Year's Day.",
+     "There will be some changes to normal services so Londoners and visitors to the Capital are being advised to 'check before you travel'.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Parties\"}",
+     "In addition to free TfL services, the Mayor is funding free travel on National Rail services between 1am and 5am in a number of areas where there are fewer Tube connections.",
+     "Mayor of London, Ken Livingstone, said: \"London is one of the greatest places in the world to spend New Year's Eve, with parties going on throughout the city.",
+     "\"Those arriving in central London early enough will be able to see our award-winning midnight fireworks display at the British Airways London Eye, which is also visible from other parts of the Capital and will be screened live on BBC One.",
+     "\"Once again this year it will be easy for everyone to bring in the New Year with free public transport services through the night.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fireworks\"}",
+     "\"This means those celebrating can enjoy themselves responsibly and then travel home safely.\"",
+     "People working or going out in central London are advised that there will be major road closures in the vicinity of the fireworks display along the Thames and that these will be put in place earlier than last year - from 6pm.",
+     "The Mayor added: \"If you're going home or going out on New Year's Eve, public transport is the best way to get about.",
+     "\"I advise people not to drive in due to the central London road closures and plan your journey in advance because there will be some improvement works taking place across the festive period at Victoria station and across town at Liverpool Street station.\"",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Essential work\"}",
+     "To prepare for the Victoria Station upgrade, which will increase the size of the station by around 50 per cent, work needs to be carried out to remove asbestos from above escalators in the Victoria line ticket hall.",
+     "This essential work will be carried out between Saturday 22 December to Sunday 6 January 2008, a period when the station has fewer passengers.",
+     "Victoria line trains will not stop at the station during this period and passengers will be able to make their journeys using London buses.",
+     "Liverpool Street station will be closed for 10 days over Christmas because of vital work to replace a railway bridge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rebuilding\"}",
+     "The work is being carried out as part of a £1.4bn investment that will see the huge improvements to London's rail network including the rebuilding and extension of the East London line as part of the new London Overground network.",
+     "The station will be closed from 23 December 2007 and will re-open at 4am on 2 January 2008, in time for people to get back to work after the Christmas break.",
+     "Passengers travelling to London will be able to access the London Underground by getting off at Stratford.",
+     "The Congestion Charge will be suspended from Tuesday 25 December to Tuesday 1 January inclusive."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

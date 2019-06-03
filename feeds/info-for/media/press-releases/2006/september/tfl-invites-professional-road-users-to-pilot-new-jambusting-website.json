@@ -1,0 +1,84 @@
+{
+ "pageTitle": "TfL invites professional road users to pilot new jam-busting website",
+ "description": "Traffic News is a unique traffic management tool that will provide real time details of road works, streetworks, public events, accidents and incidents that may affect road journeys, allowing road users to make informed decisions about their routes before",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL invites professional road users to pilot new jam-busting website",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is inviting London's professional road users to pilot a world class traffic news website, www.tfl.gov.uk/trafficnews, which is launched today to help road users avoid congestion and disruption on the Capital's roads."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Traffic News is a really simple way to help road users avoid congested areas",
+     "Traffic News is a unique traffic management tool that will provide real time details of road works, streetworks, public events, accidents and incidents that may affect road journeys, allowing road users to make informed decisions about their routes before they travel.",
+     "Many professional road users are advised by office-based staff, who now have live traffic news at their finger tips.",
+     "Phil Davies, Director of Traffic Operations at Transport for London, said: \"Traffic News is all about road users being given timely and accurate information, to take greater responsibility for their journeys.",
+     "\"This is the first stage in the roll-out of Traffic News, so it makes sense that we should start by getting feedback from London's most regular road users.",
+     "\"After all, these businesses rely on the smooth running of London's roads for the success of their operations.\"",
+     "Traffic News is a real time interactive map based on live information feeds from TfL's LTCC (London Traffic Control Centre), which manages the Capital's traffic flow by monitoring key routes and junctions across London and taking action to mitigate problems.",
+     "The LTCC uses a network of 1,500 CCTV cameras, intelligent traffic signals that measure live traffic flows and updates from London's network of bus drivers to quickly identify any traffic delays.",
+     "The LTCC is also supported by the Metropolitan Police Area Traffic Control, who is directly linked to traffic and transport police resources on the street.",
+     "Phil Davies said: \"With over 11 million car and motorcycle trips made every day in London, the capital's roads are in great demand.",
+     "\"However, Traffic News is a really simple way to help road users avoid congested areas.",
+     "\"We know that when road users choose to avoid congestion, the congestion itself eases, thus getting London moving again.\"",
+     "The information is auto refreshed every 60 seconds for users who stay connected to Traffic News and is completely updated every five minutes.",
+     "Data from the LTCC is already used by broadcasters for regional TV and Radio traffic updates.",
+     "Phil Davies added: \"For the first time Traffic News will give London's road users access to the detailed real time congestion information which is used by broadcasters on radio and TV traffic alerts.",
+     "\"They will now be able to find out about traffic incidents before they set off, and can keep abreast of the traffic situation whilst driving from radio broadcasts.\"",
+     "Traffic News has been developed as part of TfL's commitment to improving traffic in London.",
+     "The service also helps fulfil TfL's Network Management Duty, under the Traffic Management Act 2004, which encourages traffic authorities to share information with drivers and passengers to enable them to plan their journeys more effectively.",
+     "TfL is keen to hear comments about Traffic News from professional road users.",
+     "Please send your views to \u003ca href=\"mailto:trafficnews@tfl.gov.uk\"\u003etrafficnews@tfl.gov.uk\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Icons on the Traffic News map show the location of specific traffic incidents, road works or events. Using coloured lines the website also provides information on live congestion on certain central London roads from sensors buried in the roads. A yellow line indicates the traffic is slower than expected and a red line indicates severe congestion, while a green line shows that traffic is flowing as expected for that time of the day\",\"With zoom buttons and a function that allows users to search by borough, Traffic News displays information as icons which users click to read text as it is displayed on illuminated road side message signs. The map also features live still images from TfL's traffic management CCTV cameras\",\"As well as displaying real time information, Traffic News can also provide road users with information on forthcoming road works and events several days before they take place, allowing road users to plan journeys in advance to avoid expected delays.\",\"The website also features a link to the Highways Agency website which provides details of traffic conditions on motorways and major A roads across England.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

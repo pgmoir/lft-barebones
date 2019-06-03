@@ -1,0 +1,143 @@
+{
+ "pageTitle": "News and publications",
+ "template": "page-cards",
+ "breadcrumbs": null,
+ "title": {
+  "title": "News and publications",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "title": "On the Move",
+    "link": {
+     "url": "/corporate/careers/on-the-move",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/big-ben-aerial_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Publications",
+    "link": {
+     "url": "/corporate/careers/publications",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/box-junction_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "News",
+    "links": [
+     {
+      "title": "PCC election results 2014",
+      "url": "/corporate/careers/pcc-election-results-2014",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Suspension of transfers in",
+      "url": "/corporate/careers/suspension-of-transfers-in",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "April 2015 pension increase",
+      "url": "/corporate/careers/april-2014-pension-increase",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "April 2014 pension increase",
+      "url": "/corporate/careers/april-2014-pension-increase",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2013",
+      "url": "/corporate/careers/pcc-election-results-2013",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "New Year's Resolution",
+      "url": "/corporate/careers/new-years-resolution",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "News archive",
+      "url": "/corporate/careers/news-archive",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,249 @@
+{
+ "pageTitle": "Apprenticeships",
+ "keywords": "TfL",
+ "description": "The main page for apprentices with information about TfL apprenticeship schemes",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Apprenticeships"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Apprenticeships",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/apprentices-again.jpg",
+  "card": {
+   "texts": [
+    "Applications are closed for apprenticeships for September 2018. Applications will re-open in January for schemes starting in September 2019."
+   ],
+   "link": {
+    "url": "https://forms.akkroo.com/#/events/tflapprentice/201285?background=ffffff\u0026font=253d70\u0026page=ffffff",
+    "button": "Sign up for updates",
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "template": "video",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Why TfL?",
+    "texts": [
+     "Grow your future as a TfL apprentice"
+    ],
+    "link": {
+     "url": "/corporate/careers/apprenticeships/why-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Apprenticeship schemes",
+    "texts": [
+     "Find the perfect apprenticeship for you"
+    ],
+    "link": {
+     "url": "/corporate/careers/apprenticeships/apprenticeship-schemes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Meet our future leaders",
+    "texts": [
+     "Find out what it's really like to work at TfL"
+    ],
+    "link": {
+     "url": "/corporate/careers/apprenticeships/what-s-it-really-li",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "How to apply",
+    "texts": [
+     "You're three steps away from your future"
+    ],
+    "link": {
+     "url": "/corporate/careers/apprenticeships/application-process",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Degree apprenticeships",
+    "texts": [
+     "Study for a degree alongside working at TfL"
+    ],
+    "link": {
+     "url": "/corporate/careers/apprenticeships/degree-apprenticeships",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Schools outreach",
+    "texts": [
+     "Find out more with our teacher, parent and student toolkits"
+    ],
+    "links": [
+     {
+      "title": "Parent \u0026 teacher guide",
+      "url": "/cdn/static/cms/documents/new-16-17-teachers-guide.pdf",
+      "icon": "download",
+      "size": "PDF 2.29MB",
+      "image": {}
+     },
+     {
+      "title": "Student guide",
+      "url": "/cdn/static/cms/documents/new-16-17-student-guide.pdf",
+      "icon": "download",
+      "size": "PDF 1.99MB",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Why TfL?",
+      "url": "/corporate/careers/apprenticeships/why-tfl",
+      "image": {}
+     },
+     {
+      "title": "How to apply",
+      "url": "/corporate/careers/apprenticeships/application-process",
+      "image": {}
+     },
+     {
+      "title": "Choosing your apprenticeship",
+      "url": "/corporate/careers/apprenticeships/choosing-your-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeship schemes",
+      "url": "/corporate/careers/apprenticeships/apprenticeship-schemes",
+      "image": {}
+     },
+     {
+      "title": "Degree apprenticeships",
+      "url": "/corporate/careers/apprenticeships/degree-apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Meet our current apprentices",
+      "url": "/corporate/careers/apprenticeships/what-s-it-really-li",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "socialmedianotsure",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

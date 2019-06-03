@@ -1,0 +1,147 @@
+{
+ "pageTitle": "Minimising disruption",
+ "keywords": "TfL",
+ "description": "Aiming to ensure that maintenance and improvement work causes as little disruption as possible.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving the Tube",
+   "url": "/campaign/tube-improvements"
+  },
+  {
+   "title": "What we're doing",
+   "url": "/campaign/tube-improvements/what-we-are-doing"
+  },
+  {
+   "title": "Minimising disruption"
+  }
+ ],
+ "title": {
+  "title": "Minimising disruption",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"How we coordinate closures to make sure that necessary improvement and maintenance work causes you as little disruption as possible.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We aim to do as much work as possible during the four hours a night when the Tube is closed. But we may need longer for large projects when we must move in lots of heavy equipment.",
+     "The weekend - when there are fewer customers travelling - is often still the best time for us to work. Weekend closures give us more than 50 uninterrupted hours.",
+     "New ways of working, including the latest engineering techniques, help as we try to keep disruption to a minimum. We will always ensure there are alternative ways for you to make your journeys.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why weekend closures are necessary\"}",
+     "David Waboso, London Underground's Capital Programmes Director, explains:",
+     "'We know it can be disruptive but the weekend is the best time for us to work as we have more than 50 uninterrupted hours to access the tracks. Compared to weekday use, there are fewer passengers - even though we know it doesn't always feel that way.",
+     "'The four hours or so we have available at night during the week, in the time between the last trains returning to the depots (at around 01:30) and first trains starting (at around 05:30), just isn't long enough to carry out projects such as replacing track or installing new signalling equipment.",
+     "'During a weekend closure we always make sure suitable alternative travel options are available, such as alternative Tube lines, DLR, London Overground, National Rail and replacement buses.'",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coordinating closures\"}",
+     "We work closely with other transport operators when considering closures. This includes Network Rail and train companies running services into London.",
+     "We take into account:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The impact each closure has on service levels across the city\",\"The detailed requirements of each project (including\\n    upgrades of trains and signals, general maintenance and other external\\n    works) where specific jobs must be carried out in order or at a specific\\n    time\",\"The availability of suitable alternative routes (including the provision of replacement bus services)\",\"The need to support major events\"]}",
+     "We always try our best to avoid closing several lines in the\nsame area. However, sections of some lines share tracks or signals, so work\non one line may force the closure of another.",
+     "Our network is a lot bigger and more complex than most other\nmetro systems. For example, we have 249 miles of track compared to 133\nmiles in Paris or 56 miles in Singapore. Many metro systems are much\nnewer, and some (like New York) have four-track systems allowing trains\nto run 24 hours a day at the same time as they do improvement work.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Planned closures list\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Track closures six months look ahead (updated 11 March 2019)\",\"url\":\"/cdn/static/cms/documents/track-closures.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.25MB\",\"image\":{}},{\"title\":\"Station closures six months look ahead (updated 11 March 2019)\",\"url\":\"/cdn/static/cms/documents/station-closures.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.20MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find out about closures\"}",
+     "All planned engineering\nwork is publicised in advance. Several sources of information can help\nyou navigate around the disruption.",
+     " \u003ca href=\"/travel-information/social-media-and-email-updates/email-updates\"\u003eWeekend closures email\u003c/a\u003e \u003cbr /\u003eGet advanced warning of weekend closures with our free weekly email",
+     " \u003ca href=\"/status-updates/index\"\u003eStatus updates\u003c/a\u003e \u003cbr /\u003eFind out how services are currently running and check for planned works taking place over the weekend",
+     "\u003cstrong\u003eMetro newspaper\u003c/strong\u003e \u003cbr /\u003eWeekend travel information is featured every Friday",
+     "\u003cstrong\u003eWeekly posters\u003c/strong\u003e \u003cbr /\u003eCheck for updates at Tube stations (and National Rail stations in the south east)",
+     "\u003cstrong\u003eTrain and station announcements\u003c/strong\u003e ",
+     "\u003cstrong\u003eTravel information telephone line\u003c/strong\u003e \u003cbr /\u003eCall0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ). This line is open 24 hours a day."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving the Tube",
+    "links": [
+     {
+      "title": "What we've done",
+      "url": "/campaign/tube-improvements/what-we-ve-done",
+      "image": {}
+     },
+     {
+      "title": "What we're doing",
+      "url": "/campaign/tube-improvements/what-we-are-doing",
+      "image": {}
+     },
+     {
+      "title": "Improving the trains",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-the-trains",
+      "image": {}
+     },
+     {
+      "title": "Improving customer service",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-customer-service",
+      "image": {}
+     },
+     {
+      "title": "Minimising disruption",
+      "url": "/campaign/tube-improvements/what-we-are-doing/minimising-disruption",
+      "image": {}
+     },
+     {
+      "title": "The Night Tube",
+      "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
+      "image": {}
+     },
+     {
+      "title": "Behind the scenes",
+      "url": "/campaign/tube-improvements/behind-the-scenes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Improving the Tube",
+     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

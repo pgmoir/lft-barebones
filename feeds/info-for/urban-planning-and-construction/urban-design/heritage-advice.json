@@ -1,0 +1,182 @@
+{
+ "pageTitle": "Heritage advice",
+ "keywords": "TfL",
+ "description": "Find out about the heritage assets we're responsible for in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Design and heritage",
+   "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage"
+  },
+  {
+   "title": "Heritage advice"
+  }
+ ],
+ "title": {
+  "title": "Heritage advice",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're responsible for hundreds of heritage assets, either statutorily or locally listed, in one of London's four World Heritage Sites or conservation areas.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we do\"}",
+     "We manage:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Thames bridges\",\"Street furniture\",\"Commercial and residential buildings\",\"London Overground and TfL Rail stations\",\"More than 100 Underground stations\"]}",
+     "Our Heritage Advisor gives expert advice to transport projects that affect heritage assets and environments, especially if they need planning permission or negotiation with \u003ca href=\"https://historicengland.org.uk/\"\u003eHistoric England\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Examples of our heritage projects\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bank station capacity upgrade\"}",
+     "Heritage advice for over-station development taking place as part of \u003ca href=\"/travel-information/improvements-and-projects/bank-and-monument\"\u003emajor improvements to Bank\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Chiswick Bridge restoration\"}",
+     "Like-for-like replacement of weathered balusters, strengthened with integral (hidden) steelwork, plus comprehensive refurbishment of 80-year-old Grade II listed bridge.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Crystal Palace station restoration\"}",
+     "Award-winning £7.5m restoration of Grade II listed station building and ticket hall, new Overground platforms and provision of step-free access.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cycle Superhighways\"}",
+     "Hheritage expertise provided for the East-West route which passes along the Victoria Embankment and through Regent's Park, Green Park and Hyde Park.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"London Overground heritage audit\"}",
+     "Detailed reports on heritage features and designations on railway lines and stations managed by TfL as part of the London Overground network.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"National Rail/London Rail cycle-rail steering group\"}",
+     "Rrepresenting TfL on the \u003ca href=\"http://www.raildeliverygroup.com/\"\u003eNetwork Rail/Rail Delivery Group \u003c/a\u003e working group, to integrate heritage into nationwide strategy to improve combined rail and cycling journeys.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "If you have any questions, contact Edmund Bird at \u003ca href=\"mailto:edmundbird@tfl.gov.uk\"\u003eedmundbird@tfl.gov.uk\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Heritage advice",
+      "url": "/info-for/urban-planning-and-construction/urban-design/heritage-advice",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "Planning with WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

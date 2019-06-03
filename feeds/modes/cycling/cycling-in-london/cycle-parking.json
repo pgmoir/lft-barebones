@@ -1,0 +1,169 @@
+{
+ "pageTitle": "Cycle parking",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Find safe, convenient cycle parking all over London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Cycling in London",
+   "url": "/modes/cycling/cycling-in-london"
+  },
+  {
+   "title": "Cycle parking"
+  }
+ ],
+ "title": {
+  "title": "Cycle parking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You'll find safe, convenient bike parking all over London, on streets, at stations and at work places.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cyclists-road.jpg\",\"alt\":\"Cyclists riding in London\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Urban Cycle Parking Map\"}",
+     "In partnership with London Cycling Campaign, we are supporting a new cycle parking map.",
+     " \u003ca href=\"http://www.urbancycleparking.org.uk/current/\"\u003eUrban Cycle Parking\u003c/a\u003e aims to capture current cycle parking locations and cyclists' views of where they would like to see more.",
+     "To make a cycle parking suggestion, or help map current locations, visit the \u003ca href=\"http://www.urbancycleparking.org.uk\"\u003eUrban Cycle Parking website\u003c/a\u003e .",
+     "All suggested and current bike parking captured via the map is being regularly sent to us and the relevant highway authority for consideration. Thank you for your help.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Finsbury Park Cycle Hub\"}",
+     "The new improved Finsbury Park Cycle Park is a 24-hour secure cycle parking facility that provides parking for 147 cycles.",
+     "\u003cstrong\u003eLocated next to Finsbury Park Railway on Stroud Green Road, the facility provides:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Secure covered cycle parking for 147 cycles including trikes, cargo bikes, tandems and recumbents\",\"24-hour access, covered by CCTV\",\"Bike pump and repair stand\",\"Access Card facility\"]}",
+     " \u003ca href=\"https://www.cyclehoop.rentals/cyclehub/fpcp\"\u003eApply online for membership\u003c/a\u003e or call\u003cstrong\u003e0208 699 1338\u003c/strong\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"City of London cycle parking\"}",
+     "The City of London provides free 24-hour cycle parking in staffed car parks at the following locations:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eLondon Wall\\u003c/strong\\u003e - 176 spaces\\u003cbr /\\u003eEntry is between the Museum of London and Wood Street\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eBaynard House \\u003c/strong\\u003e - 106 spaces\\u003cbr /\\u003e133 Queen Victoria Street, just north of Blackfriars Station\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eTower Hill Car Park\\u003c/strong\\u003e - 52 spaces\\u003cbr /\\u003eEntry is off Lower Thames Street\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eMinories \\u003c/strong\\u003e - 15 spaces\\u003cbr /\\u003eEntry is off Mansell Street\"]}",
+     " \u003ca href=\"/modes/cycling/cycling-in-london/avoid-theft\"\u003eRead more about locking your bike safely\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Heathrow cycle hub\"}",
+     "The Heathrow cycle hub offers free cycle parking all around Heathrow, with more than 400 bicycle racks.",
+     "A new cycle centre has opened at the airport and is the first of its kind anywhere in the UK, as well as being free to use.",
+     " \u003ca href=\"http://www.heathrowairport.com/transport-and-directions/cycling-to-heathrow\"\u003eFind out more about cycle parking at Heathrow\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Rider stories",
+      "url": "/modes/cycling/cycling-in-london/rider-profiles",
+      "image": {}
+     },
+     {
+      "title": "Cycle Skills",
+      "url": "/modes/cycling/cycling-in-london/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Protect your bike from theft",
+      "url": "/modes/cycling/cycling-in-london/avoid-theft",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycling-in-london/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycling with children",
+      "url": "/modes/cycling/cycling-in-london/cycling-with-children",
+      "image": {}
+     },
+     {
+      "title": "Electric bikes",
+      "url": "/modes/cycling/cycling-in-london/electric-bikes",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

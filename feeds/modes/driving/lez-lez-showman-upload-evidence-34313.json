@@ -1,0 +1,62 @@
+{
+ "pageTitle": "Showman's discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Showman's discount"
+  }
+ ],
+ "title": {
+  "title": "Showman's discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Upload documents\"}",
+     "We need to see evidence of your company's relevant accreditations to process your application.",
+     "Upload images of the following documents:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A copy of the company’s BS EN ISO 9001:2008 certification document\",\"Evidence of compliance with PAS 43 standards (the BS EN ISO 9001:2008 should state this)\",\"Company headed paper showing a company registration number, or a photocopy of a certificate of incorporation\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle documents\"}",
+     "If you are adding a vehicle you will also need to provide an image or copy of 1 document from the list below:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your vehicle registration document (V5C) - this is the document that is sent to you by the DVLA (vehicle must be registered with the DVLA in your name and at the address you are using to apply for the resident's discount)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this letter must be on company headed paper, state your full name, the Vehicle Registration Mark and confirm that the vehicle is for your use only (vehicle must be registered in the company name with the DVLA)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicle lease document - this is the document that you signed to lease the vehicle (vehicle must be registered in the lease company name with the DVLA)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your company's vehicle lease document - this is the document that you signed to lease the vehicle\"]}",
+     "AND",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this letter must be on company headed paper, state your full name, the Vehicle Registration Mark and confirm that the vehicle is for your use only (vehicle must be registered in the company or lease name with the DVLA)\"]}",
+     "You can scan paper documents to your computer, or take photographs of them with your camera, smartphone or tablet. You’ll need to save each file as a .jpg, .jpeg, .tif, .tiff or .pdf.",
+     "Once you have saved your document(s) on your computer/mobile device, drag them into the box below or click 'Or browse to your files' and select the file you want to upload. Check you have selected the correct file.",
+     "Repeat for every document you want to attach. If you make a mistake, you can add or remove files before submitting your application."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

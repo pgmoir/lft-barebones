@@ -1,0 +1,138 @@
+{
+ "pageTitle": "Borough funding",
+ "keywords": "TfL",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Borough funding"
+  }
+ ],
+ "title": {
+  "title": "Borough funding",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We provide a range of funding streams to help our partners in the boroughs to deliver the Mayor's Transport Strategy.",
+     "This section provides details on streams such as LIPs and Crossrail Complementary Measures."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Local Implementation Plans",
+    "texts": [
+     "LIPs information, guidance and links to LIPs documents"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/local-implementation-plans",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Liveable Neighbourhoods",
+    "texts": [
+     "We fund projects that encourage walking, cycling and using public transport"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/liveable-neighbourhoods",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Crossrail complementary measures",
+    "texts": [
+     "Information, guidance and links to key documents"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/crossrail-complementary-measures",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Local Implementation Plans",
+      "url": "/info-for/boroughs/local-implementation-plans",
+      "image": {}
+     },
+     {
+      "title": "Crossrail complementary measures",
+      "url": "/info-for/boroughs/crossrail-complementary-measures",
+      "image": {}
+     },
+     {
+      "title": "Liveable Neighbourhoods",
+      "url": "/info-for/boroughs/liveable-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

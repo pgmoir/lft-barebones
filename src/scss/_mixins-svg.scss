@@ -1,0 +1,56 @@
+$standardSprite: 'vsprite';
+$imagePath: 'images/';
+$num-sprite-rows: 117;
+$default-sprite-height: 24px;
+$default-sprite-width: 24px;
+
+@mixin sprite-background-image(){
+  $svg-file : $imagePath+$standardSprite+'.svg';
+  background-image: url($svg-file );
+}
+
+@mixin standard-sprite() {
+  @include sprite-background-image;
+  $map-height: $default-sprite-height * $num-sprite-rows;
+  $map-width: $default-sprite-width * 3;
+  background-size: $map-width $map-height;
+  height: $default-sprite-height;
+	width: $default-sprite-width;
+}
+
+@mixin svg-icon($row, $col, $img-width: $default-sprite-width, $img-height: $default-sprite-height, $x-offset: 0px, $y-offset: 0px, $display: block,
+    $sprite-width: $default-sprite-width, $sprite-height: $default-sprite-height, $sprite-file: $standardSprite, $num-rows: $num-sprite-rows, 
+    $num-columns: 3, $force-auto-height: false, $force-auto-width: false) {
+  $map-height: $sprite-height * $num-rows;
+  $map-width: $sprite-width * $num-columns;
+  $svg-file : $imagePath + $sprite-file + '.svg';
+	background-image: url($svg-file );
+	background-size: $map-width $map-height;
+	background-position: (-1 * $sprite-width * ($col - 1) + $x-offset) (-1 * $sprite-height * ($row - 1) + $y-offset);
+	@if ($force-auto-height == false) {
+	    height: $img-height;
+    } @else {
+        height: auto;
+    }
+    @if ($force-auto-width == false) {
+	    width: $img-width;
+    } @else {
+        width: auto;
+    }
+	display: $display;
+}
+
+@mixin svg-icon-position-only($row, $col, $x-offset: 0px, $y-offset: 0px, $img-width: $default-sprite-width, $img-height: $default-sprite-height) {
+	background-position: (-1 * $img-width * ($col - 1) + $x-offset) (-1 * $img-height * ($row - 1) + $y-offset);
+}
+
+@mixin svg-icon-scaled($row, $col, $img-width, $img-height, $display: block, $sprite-width: $default-sprite-width, $sprite-height: $default-sprite-height,
+    $sprite-file: $standardSprite, $num-rows: $num-sprite-rows, $num-columns: 3) {
+	background-size: ($img-width * $num-columns) ($img-height * $num-rows);
+	background-position: (-1 * $img-width * ($col - 1)) (-1 * $img-height * ($row - 1));
+  height: $img-height;
+	width: $img-width;
+	display: $display;
+}
+
+

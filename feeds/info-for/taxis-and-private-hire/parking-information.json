@@ -1,0 +1,176 @@
+{
+ "pageTitle": "Parking information",
+ "keywords": "TfL",
+ "description": "Find out more about where taxi and private hire drivers can and cannot park in London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Ranks, regulation and policy",
+   "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy"
+  },
+  {
+   "title": "Parking information"
+  }
+ ],
+ "title": {
+  "title": "Parking information ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about where taxi and private hire drivers can and cannot park in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Stopping and waiting\"}",
+     "Taxi and private hire drivers can stop to pick up or drop off customers in many areas where there are waiting or stopping restrictions. Drivers should be aware that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Taxis and private hire vehicles can only stop as long as is necessary for the customer to get in or out of the vehicle. This includes more time to assist wheelchair users and to make sure that the wheelchair is in the right position and safely secured\",\"Picking up or dropping off is allowed on single and double yellow and red lines, in places where loading is not allowed (shown by markings on the kerb), in parking bays and in bus lanes\",\"Drivers should not stop where they would cause an obstruction or a safety hazard. This includes stopping on zigzag lines (for example, by pedestrian crossings or on school crossings) or where there is a 'No stopping' sign\",\"Private hire vehicles must never stop on taxi ranks, even when picking up or setting down customers\",\"If there are waiting or parking restrictions, drivers cannot stop for longer than necessary for the customer to get in or out of the vehicle. The exception is that between 22:00 and 06:00 drivers can stop for up to five minutes on red routes to allow customers to use cash points\",\"Where waiting or parking restrictions apply, there is no general exemption to leave the vehicle to assist a customer to or from a building. A driver who feels this assistance is essential should minimise any time spent away from the vehicle and, if possible, record details of the customer in case a Penalty Charge Notice (PCN) is issued\",\"When not picking up or dropping off, a driver waiting at a time and place where restrictions apply will be liable to receive a PCN. This applies even if the vehicle has arrived early for a booking or the customer is late, or where a customer asks a driver to stop and wait while they visit a shop or use a cashpoint\",\"Taxi and private hire drivers should not leave their engines idling. Running the engine while your vehicle is stationary pollutes the environment and is \\u003ca href=\\\"/info-for/taxis-and-private-hire/licensing/existing-licensee#Parking2\\\"\\u003eillegal on a public road\\u003c/a\\u003e .\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus lanes \\u0026 bus stops\"}",
+     "Taxis and private hire vehicles can pick up or set down customers in a bus lane even if they are not normally allowed to drive in it. The only exceptions are stretches of red route   where stopping is not permitted because of the disruption this would cause to already busy roads. Taxi and private hire drivers should be aware that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Drivers should enter and leave the bus lane in the most direct and safe way\",\"Customers should never be set down in the middle of the road, even if the vehicle is stopped due to traffic - the driver must always get close to the kerb\",\"Private hire vehicles cannot stop at 'bus stop clearways' marked with a wide yellow line by the kerb. On red routes both taxis and private hire vehicles cannot stop at bus stops marked with a wide red line by the kerb. At other red route bus stops, taxi and private hire drivers should avoid stopping to avoid disruption to the bus network\",\"Remember, only licensed taxi drivers can drive in bus lanes - private hire vehicles are not allowed. Licensed taxi drivers should check the signs at the start of the bus lanes, however, because there are a still a number of bus lanes they cannot use\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi ranks\"}",
+     "There are around 600 taxi ranks in London and this number is growing. Taxi ranks are located at most large transport hubs including mainline train stations, and many customers rely on them to complete their journeys.",
+     "Find out more about \u003ca href=\"/info-for/taxis-and-private-hire/taxi-ranks\"\u003etaxi ranks and locations\u003c/a\u003e , including information on ranks policy and how to suggest locations for new ranks.",
+     "Private hire vehicles must never stop or wait in taxi ranks, or the driver will be subject to a Penalty Charge Notice and potentially licensing action.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Customer requests\"}",
+     "Drivers should be familiar with the area in which they work and should, therefore, be able to advise customers of places where they can stop and wait if necessary.",
+     "If a customer asks a driver to wait where this is prohibited, the driver should explain politely that the vehicle cannot wait in certain places.",
+     "If possible, the driver should suggest alternative shops, ATMs and so on as appropriate, or seek ways for the driver and customer to reassure each other so that the driver will not lose the fare but the customer is confident that the vehicle will return for them.",
+     "We appreciate that these issues can lead to disagreements between drivers and customer, and understand the difficulties this causes. The professionalism of London's licensed drivers is essential in maintaining the good reputation of London's taxi and private hire trade.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Penalty Charge Notices (PCNs)\"}",
+     "Taxi and private hire drivers can be given a PCN by parking attendants or a PCN can be sent to the registered keeper of the vehicle as a result of camera observation. Usually there is a discount for prompt payment.\u003cbr /\u003e\u003cbr /\u003eWhere a driver is not the registered keeper of the vehicle, we advise that they discuss the arrangements for making sure the keeper passes on any PCNs promptly so that there is time to contest PCNs issued in error.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Challenging a PCN\"}",
+     "Taxi and private hire drivers who receive a PCN from a borough or from us can appeal against it. The details of how to make a challenge will be provided on the PCN, and drivers should follow the procedure outlined.\u003cbr /\u003e\u003cbr /\u003eAny evidence to support the case, such as details of the customer,  a copy of any log that shows the journey in question, or photographs of the location if the signage is incorrect, should be provided with the appeal. The trade associations and trade unions may be able to provide further advice to drivers on how to do this.",
+     "If the initial appeal to the authority is unsuccessful, an appeal can be made to \u003ca href=\"https://londontribunals.org.uk/\"\u003eLondon Tribunals\u003c/a\u003e which was formerly known as PATAS (Parking and Traffic Appeals Service). There is no charge for an appeal, and the driver can go to the hearing if desired."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "Taxi ranks",
+      "url": "/info-for/taxis-and-private-hire/taxi-ranks",
+      "image": {}
+     },
+     {
+      "title": "Changes to private hire regulation",
+      "url": "/info-for/taxis-and-private-hire/new-private-hire-regulations",
+      "image": {}
+     },
+     {
+      "title": "English language requirement",
+      "url": "/info-for/taxis-and-private-hire/english-language-requirement",
+      "image": {}
+     },
+     {
+      "title": "Accepting card payments",
+      "url": "/info-for/taxis-and-private-hire/accepting-card-payments",
+      "image": {}
+     },
+     {
+      "title": "Parking information",
+      "url": "/info-for/taxis-and-private-hire/parking-information",
+      "image": {}
+     },
+     {
+      "title": "Passengers and accessibility",
+      "url": "/info-for/taxis-and-private-hire/passengers-and-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for taxis",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-taxis",
+      "image": {}
+     },
+     {
+      "title": "PHVs and the Congestion Charge",
+      "url": "/info-for/taxis-and-private-hire/phvs-and-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for PHVs",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-phvs",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "pageTitle": "TfL call charges",
+ "keywords": "TfL",
+ "description": "Call charges for TfL telephone lines",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Terms \u0026 conditions",
+   "url": "/corporate/terms-and-conditions/index"
+  },
+  {
+   "title": "TfL call charges"
+  }
+ ],
+ "title": {
+  "title": "TfL call charges",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Call charges to TfL lines vary according to the type of number and your network provider. Here are the typical charges for our lines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"020 and 034 numbers\"}",
+     "Most providers offer call packages that allow calls free of charge at certain times. 020 and 034 numbers are usually included in these packages. Outside of these, calls from landlines are typically charged between 2p and 10p per minute and calls from mobiles typically cost between 10p and 40p per minute. Connection charges may apply.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"084 and 087 numbers\"}",
+     "Find \u003ca href=\"https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/costs-and-billing/how-much-does-a-phone-call-really-cost\"\u003ecall charges for 084 and 087 numbers\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Calls from BT Payphones\"}",
+     "Calls from BT Payphones are charged at the following rate:",
+     "{\"template\":\"bulletlist\",\"items\":[\"For 020 and 03 numbers, the rate is 0.66p per minute\",\"There is also a 40p connection charge. Call charges are rounded up to the nearest 10p, with a minimum charge of 60p\"]}",
+     "Charges to all numbers may vary. Please check with your network provider.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Short Messaging Service (SMS)\"}",
+     "We will provide the SMS service to you at a charge of 12 pence per text over your standard network rate. This charge may change in the future, but any change will be noted here and publicised by TfL.",
+     "Texts via overseas networks are charged at the network's standard roaming rate only, but are limited to five per day. \u003ca href=\"/corporate/terms-and-conditions/live-bus-departure-information\"\u003eFind out more about terms and conditions\u003c/a\u003e .",
+     "The overall cost of sending a text may vary depending on the contract you have with your mobile network operator. You should check with your operator if you are unsure of the amounts charged to you for sending and receiving texts."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Terms \u0026 conditions",
+    "links": [
+     {
+      "title": "Competitions",
+      "url": "/corporate/terms-and-conditions/competitions",
+      "image": {}
+     },
+     {
+      "title": "Conditions of Carriage",
+      "url": "/corporate/terms-and-conditions/ticketing-and-travel-conditions-of-carriage",
+      "image": {}
+     },
+     {
+      "title": "Conveyancing searches",
+      "url": "/corporate/terms-and-conditions/conveyancing-searches",
+      "image": {}
+     },
+     {
+      "title": "Live Bus \u0026 River Bus arrivals",
+      "url": "/corporate/terms-and-conditions/live-bus-departure-information",
+      "image": {}
+     },
+     {
+      "title": "Online accounts",
+      "url": "/corporate/terms-and-conditions/online-accounts",
+      "image": {}
+     },
+     {
+      "title": "Pay to drive in London",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london",
+      "image": {}
+     },
+     {
+      "title": "Pay to drive in London app",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london-app",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/terms-and-conditions/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/corporate/terms-and-conditions/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Social media",
+      "url": "/corporate/terms-and-conditions/social-media",
+      "image": {}
+     },
+     {
+      "title": "STARS",
+      "url": "/corporate/terms-and-conditions/stars",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/corporate/terms-and-conditions/taxi-delicensing",
+      "image": {}
+     },
+     {
+      "title": "Technology Innovation Portal",
+      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
+      "image": {}
+     },
+     {
+      "title": "TfL call charges",
+      "url": "/corporate/terms-and-conditions/tfl-call-charges",
+      "image": {}
+     },
+     {
+      "title": "TfL Oyster and contactless app",
+      "url": "/corporate/terms-and-conditions/tfl-oyster-app",
+      "image": {}
+     },
+     {
+      "title": "TfL Pension Fund",
+      "url": "/corporate/terms-and-conditions/tfl-pension-fund",
+      "image": {}
+     },
+     {
+      "title": "Transport Data Service",
+      "url": "/corporate/terms-and-conditions/transport-data-service",
+      "image": {}
+     },
+     {
+      "title": "Visitor Oyster shop",
+      "url": "/corporate/terms-and-conditions/visitor-oyster-shop",
+      "image": {}
+     },
+     {
+      "title": "WebCAT",
+      "url": "/corporate/terms-and-conditions/webcat",
+      "image": {}
+     },
+     {
+      "title": "Website",
+      "url": "/corporate/terms-and-conditions/website",
+      "image": {}
+     },
+     {
+      "title": "DLR Discovery",
+      "url": "/corporate/terms-and-conditions/dlr-discovery",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Terms \u0026 conditions",
+     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

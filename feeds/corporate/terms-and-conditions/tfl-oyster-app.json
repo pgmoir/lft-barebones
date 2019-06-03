@@ -1,0 +1,85 @@
+{
+ "pageTitle": "TfL Oyster and contactless app",
+ "keywords": "TfL",
+ "description": "Terms and conditions for the TfL Oyster app",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Terms \u0026 conditions",
+   "url": "/corporate/terms-and-conditions/index"
+  },
+  {
+   "title": "TfL Oyster and contactless app"
+  }
+ ],
+ "title": {
+  "title": "TfL Oyster and contactless app",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Terms and conditions for the TfL Oyster and contactless app. Download information: Version 1.3\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you have an enquiry, or experience a problem using the app, please contact us:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/help-and-contact/contact-us-about-the-tfl-oyster-app\\\"\\u003eComplete an online form\\u003c/a\\u003e \",\"Call TfL customer services on 0343 222 1115 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\",\"Write to: Customer Services, 4th Floor, 14 Pier Walk, London, SE10 0ES\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"App ownership and responsibilities\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"User Terms and Conditions\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 1- Technical information\"}",
+     "The app can:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Identify the device ID \\u0026 read the device status\",\"Send notifications by binding to a notification listener service and receive data from the Internet\",\"View network connections\",\"Read Google service configuration\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 2 - Agreeing to use the app\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 3 - Using the app\"}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-first-gen_rdax_400x250.jpg\",\"alt\":\"First generation Oyster card - back view\"},\"wrapped\":false}",
+     "Compatible Oyster card",
+     "{\"template\":\"bulletlist\",\"items\":[\"Low pay as you go balance warning\",\"Advice that your Travelcard will expire soon\"]}",
+     "6. Notifications can be delivered at any time, even if your device is locked or in sleep mode.\u003cbr /\u003e7. You will need to set how often you sign in to the app. You can choose from once a day, every seven days or every 30 days.\u003cbr /\u003e8. Once an Oyster card has been stopped it won't show in the app.\u003cbr /\u003e9. If you want to remove a payment card from the app, you must do so via your TfL online account.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 4 - Responsibilities of customer\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 5 - Suspension from using the app\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 6 - Ending your agreement with us\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You have broken any of these or the contactless and Oyster online terms and conditions\",\"You are acting fraudulently when using the account\",\"You have been abusive to any of our staff or agents when discussing the app or your contactless and Oyster online account with us\",\"There has been suspicious activity on your account\",\"The app has been withdrawn by Apple Inc. or Google Inc. or we are stopping support for the app on your mobile device or the operating system it runs on\"]}",
+     "3. Once your agreement with us ends, you must uninstall the app from your mobile device(s). Note that all rights granted to you in respect of the app will immediately end.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 7 - Using your data\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

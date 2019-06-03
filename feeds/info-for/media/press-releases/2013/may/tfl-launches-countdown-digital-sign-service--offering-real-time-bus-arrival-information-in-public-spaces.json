@@ -1,0 +1,80 @@
+{
+ "pageTitle": "TfL launches Countdown Digital Sign service - offering real time bus arrival information in public spaces",
+ "description": "Signs can be quickly and easily self-installed Information tailored to meet local needsTransport for London has today launched a new Countdown Digital Sign service - providing a new way to deliver tailored live bus arrival information cheaply and",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL launches Countdown Digital Sign service - offering real time bus arrival information in public spaces",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "New and innovative technology offered following successful trial."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Signs can be quickly and easily self-installed\",\"Information tailored to meet local needs\"]}",
+     "Transport for London has today launched a new Countdown Digital Sign service - providing a new way to deliver tailored live bus arrival information cheaply and effectively to a range of public locations, such as hospital waiting rooms, schools or shopping centre foyers.",
+     "The introduction of the Digital Sign service follows a successful trial in four locations which included Oaks Park High School in Newbury Park, Loxford School of Science and Technology in Ilford, Redbridge College in Romford and Gracefields Gardens Health and Social Care Centre in Streatham.",
+     "The trial demonstrated the signs worked well delivering clear, easily accessible information about local bus services, utilising existing IT and display equipment in public locations.",
+     "The technology can be self-installed using existing equipment - so it can be delivered at minimal cost to all.",
+     "The business or organisation is provided with a tailored web link via a dedicated URL* - that will give information for the bus stop or stops in the immediate vicinity.",
+     "An electronic map detailing the local area is also displayed, which is especially useful for passengers unfamiliar with the location.",
+     "Businesses or organisations interested in learning more about the service should email - \u003ca href=\"mailto:Digisign.countdown@tfl.gov.uk\"\u003eDigisign.countdown@tfl.gov.uk\u003c/a\u003e ",
+     "The introduction of the Digital Signs service compliments the extremely popular 'Countdown' real time bus information service which was upgraded and relaunched in October 2011.",
+     "The service provides live bus arrival information via dot matrix signs at bus stops, the web, smart phones and SMS, and informs around 13 per cent of all bus journeys every day.",
+     "These numbers are growing daily, as more passengers appreciate the added convenience the service offers when getting around London.",
+     "Simon Reed, Head of Technical Services Group at London Buses, said: 'We hope the new Digital Sign service will help passengers make the most of London's extensive bus service.",
+     "'The service makes use of existing infrastructure that is already in place in many public spaces and can be delivered cheaply and quickly.",
+     "'It will help our passengers' access real time bus information away from their local stop which is especially helpful for those who may not have access to the Internet or a smart phone.'",
+     "TfL's ongoing digital commitment to supply API data feeds to app developers has also seen a large rise in the number smart phone applications.",
+     "With over 30 of these apps already available, which are in addition to TfL's free mobile site ( \u003ca href=\"http://m.countdown.tfl.gov.uk\"\u003ehttp://m.countdown.tfl.gov.uk\u003c/a\u003e ). Live bus information is always available at passengers' fingertips 24 hours a day.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Access to 'Countdown' real time bus service information can be made via the TfL website, from a fixed computer or web enabled phone and involves three simple steps. Simply go to the TfL buses webpage for live bus information at \\u003ca href=\\\"http://www.tfl.gov.uk/buses\\\"\\u003etfl.gov.uk/buses\\u003c/a\\u003e ; then enter a bus route, postcode, street name or bus stop code (these are clearly displayed at all bus stops or available on the TfL website) and view live bus arrival times, including bus destinations, for all services due in the next 30 minutes\",\"Passengers without access to the internet can simply text the bus stop code to 87287 for detailed bus information at a small charge of 12p plus the network operator's standard SMS charge\",\"Countdown real time bus arrival information is also available at 2,500 bus stops across the capital. New and improved roadside signs provide clear amber text on black background, of particular help to visually impaired passengers\",\"*TfL charge £240 per annum for the service to cover operational costs. This charge can be waived for public sector applications and other specific circumstances.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

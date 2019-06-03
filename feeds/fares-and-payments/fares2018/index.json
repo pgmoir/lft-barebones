@@ -1,0 +1,189 @@
+{
+ "pageTitle": "Fares",
+ "keywords": "TfL,Fares, London, travel, tfl, price of travel",
+ "description": "Information about fares for all TfL services",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Fares",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/fares-section-image.jpg",
+  "card": {
+   "texts": [
+    "Find out what's the best ticket for you and how to use contactless and Oyster cards, view fares, check if you can get a refund or replacement and see if you're eligible for free and discounted travel."
+   ],
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "title": "Contactless pay as you go",
+    "texts": [
+     "Use a contactless card or device to travel on our transport"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-fares_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Oyster pay as you go",
+    "texts": [
+     "Use an Oyster card to pay as you go to travel on our transport"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/oyster-fares_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "TfL Oyster and contactless app",
+    "texts": [
+     "Top up anytime, anywhere and manage your cards on the go"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-oyster-app.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Single fare finder",
+    "texts": [
+     "Check the cost of a single journey between two stations"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/single-fare-finder",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/single-fare-finder-fares_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Find fares",
+    "texts": [
+     "Check the cost of your journey before you travel"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/find-fares",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Refunds and replacements",
+    "texts": [
+     "How to get a refund, or replace your Oyster card or season ticket"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "How to pay and where to buy",
+    "texts": [
+     "There are different ways to pay for your travel"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Free and discounted travel",
+    "texts": [
+     "You may be eligible for free travel or discounts off your fares"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/free-and-discounted-travel",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Contactless and Oyster account",
+    "texts": [
+     "Get an account to manage your travel quickly and easily"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/contactless-and-oyster-account",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Conditions of Carriage",
+      "url": "/corporate/terms-and-conditions/ticketing-and-travel-conditions-of-carriage",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

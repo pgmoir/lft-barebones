@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Confirmation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Confirmation"
+  }
+ ],
+ "title": {
+  "title": "Confirmation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "You have made a payment of {0} to your Auto Pay service.",
+     "\u003cstrong\u003eYour Auto Pay service has been updated. \u003c/strong\u003e ",
+     "To check your Auto Pay status go to \u003ca href=\"/modes/driving/account-personal-account-29357\"\u003eMy account\u003c/a\u003e or call us on 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "If you drive within the zone before your Auto Pay status is active you will need to pay the charge another way.",
+     "Auto Pay is now active",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What happens next\"}",
+     "The amount you have paid will be deducted from your next monthly statement.",
+     "The card used to make this payment will not replace your existing Auto Pay payment details. If you want to update the payment card used for Auto Pay, go to 'Manage my Auto Pay'."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

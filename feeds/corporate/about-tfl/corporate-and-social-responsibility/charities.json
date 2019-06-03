@@ -1,0 +1,128 @@
+{
+ "pageTitle": "Charities",
+ "keywords": "TfL",
+ "description": "We work with charities to help them fundraise safely on our network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Corporate social responsibility",
+   "url": "/corporate/about-tfl/corporate-and-social-responsibility"
+  },
+  {
+   "title": "Charities"
+  }
+ ],
+ "title": {
+  "title": "Charities",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We help charities by facilitating their fundraising activities while at the same time protecting the security and peace of mind of our customers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Collections at our stations\"}",
+     "If you're collecting money for a registered charity, you can apply to\ncollect at our stations. We also allow carol singing and seasonal music\nin December.",
+     "We have an online booking service for charity collections:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Applications to collect must be made by the charity\",\"Charities must ensure all their fundraisers at London Underground stations have been security-checked or hold a basic disclosure\",\"Members of the old Fundraising Standards Board (FRSB) - now the Fundraising Regulator - can apply for fundraising opportunities with their existing allocated membership number until this is formally replaced by the Fundraising Regulator. If your charity does not hold an FRSB number, you can apply for a temporary number by contacting the TfL Charities team\"]}",
+     "To arrange fundraising activities at our stations, fill out the \u003ca href=\"http://charities.tfl.gov.uk/signup\"\u003eTfL Charities online form\u003c/a\u003e .",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca href=\"mailto:charities@tfl.gov.uk\"\u003echarities@tfl.gov.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePost:\u003c/strong\u003e \u003cbr /\u003eTfL Charities\u003cbr /\u003e5th Floor\u003cbr /\u003e197 Blackfriars Road\u003cbr /\u003eLondon\u003cbr /\u003eSE1 8NJ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Safety in the station\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You may only collect or sing in the ticket hall area\",\"You must stay away from lifts, escalators and automatic barriers\",\"You can't collect on trains\",\"All collectors must sign in at the station and  follow the instructions of station staff during your collection\"]}",
+     "We regularly host station collections and fundraising activity by \u003ca href=\"http://www.railwaychildren.org.uk/\"\u003eRailway Children\u003c/a\u003e , the \u003ca href=\"http://www.britishlegion.org.uk/\"\u003eRoyal British Legion Poppy Appeal\u003c/a\u003e and \u003ca href=\"http://www.dec.org.uk/\"\u003eDisasters Emergency Committee\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our engagement with charities\"}",
+     "Our public affairs colleagues look after our relationships with voluntary organisations and charities that speak for our customers and users.",
+     "We get many requests to support charities. As a not-for-profit organisation and statutory body, we need to consider a number of legal, operational and budgetary constraints when reviewing requests from charities.",
+     "In most cases, we'll only be able to meet requests that can help us to carry out our function of providing transport in London. We are not able to agree to most requests.",
+     "We have guidance to ensure a fair and consistent approach to how we consider requests from charities.",
+     "See our \u003ca href=\"/corporate/about-tfl/corporate-and-social-responsibility/charity-request-guidance\"\u003echarity request guidance\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Transport Museum\"}",
+     " \u003ca href=\"http://www.ltmuseum.co.uk/\"\u003eLondon Transport Museum\u003c/a\u003e is the world's leading museum of urban transport. It is an independent heritage and education charity that is part of TfL.",
+     "The charity works with over 150,000 young people each year, bringing social benefits through:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Iinspirational, preventative and restorative projects\",\"Help for young people to discover their city\",\"Building their skills and secure employment in transport and engineering\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Corporate social responsibility",
+    "links": [
+     {
+      "title": "Charities",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/charities",
+      "image": {}
+     },
+     {
+      "title": "Charity request guidance",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/charity-request-guidance",
+      "image": {}
+     },
+     {
+      "title": "Environment",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/environment",
+      "image": {}
+     },
+     {
+      "title": "Equality \u0026 inclusion",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/equality-and-inclusion",
+      "image": {}
+     },
+     {
+      "title": "Transport \u0026 health",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Corporate social responsibility",
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

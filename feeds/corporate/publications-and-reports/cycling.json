@@ -1,0 +1,158 @@
+{
+ "pageTitle": "Cycling",
+ "keywords": "Cyclists,Public,C,Special reports,Cycling,TfL",
+ "description": "These documents provide useful background on a range of cycling-related issues",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Cycling"
+  }
+ ],
+ "title": {
+  "title": "Cycling",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We produce a range of publications covering our cycling activities.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New cycle route quality criteria\"}",
+     "The New cycle route quality criteria will help us continue to improve the quality of the cycle network in London. The six criteria are designed to be consistent with recommendations in the \u003ca href=\"/corporate/publications-and-reports/streets-toolkit\"\u003eLondon Cycling Design Standards\u003c/a\u003e and - working alongside other guidance and tools - should be used to shape the design of new cycling infrastructure.",
+     "The spreadsheet tool allows planners and designers to use data to determine whether conditions are appropriate for routes to mix people cycling with motor traffic. The tool also recommends when dedicated space for cycling would be most appropriate.",
+     "The accompanying technical note describes the relationship of the six criteria and how the automated spreadsheet tool interprets the data.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"New cycle route quality criteria - Spreadsheet tool\",\"url\":\"/cdn/static/cms/documents/cycle-route-quality-criteria-spreadsheet-tool-v1.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 815KB\",\"image\":{}},{\"title\":\"New cycle route quality criteria - Technical note\",\"url\":\"/cdn/static/cms/documents/cycle-route-quality-criteria-technical-note-v1.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.45MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New cycle infrastructure on London's streets\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Summary report of on-street trials\"}",
+     "To assess whether recently delivered innovative infrastructure trials work as intended for all users, including a review of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Hold-the-left-turn: ahead/left-turning cyclists and left-turning general traffic are separately signalled\",\"Early release: cyclists receive a green signal ahead of other traffic\",\"Two-stage turns: facilities enabling cyclists to wait between signal phases and therefore avoid turning in conflict with other traffic\",\"Cycle gates: cyclists proceed from an area ahead of other traffic in both time and space, and are held while general traffic proceeds\",\"Bus stop bypass crossings: a pedestrian crossing of a separate cycle track that runs behind the bus shelter\"]}",
+     "This report summarises a series of detailed \u003ca href=\"http://www.trl.co.uk\"\u003eTransport Research Laboratory studies\u003c/a\u003e which will be used to inform future updates to TfL's street design guidance.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"New cycle infrastructure monitoring report - July 2018\",\"url\":\"/cdn/static/cms/documents/new-cycle-infrastructure-monitoring-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.00MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Guidance note - Pedestrian crossings at bus stop bypasses\"}",
+     "This guidance note provides an update to TfL's design guidance for pedestrian crossings at bus stop bypasses. It includes technical drawings for the arrangements tested as part of the new cycle infrastructure on London's streets report.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guidance note - Pedestrian crossings at bus stop bypasses\",\"url\":\"/cdn/static/cms/documents/guidance-note-pedestrian-crossings-at-bus-stop-bypasses.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.39MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic cycling analysis - June 2017\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Strategic cycling analysis\",\"url\":\"/cdn/static/cms/documents/strategic-cycling-analysis.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.99MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Tour de France 2014 - Three Inspirational Days\",\"url\":\"/cdn/static/cms/documents/tour-de-france-three-inspirational-days.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.27MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"The Mayor's Vision for Cycling in London\",\"url\":\"/cdn/static/cms/documents/gla-mayors-cycle-vision-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.63MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"International Cycling Infrastructure Best Practice Study\",\"url\":\"/cdn/static/cms/documents/international-cycling-infrastructure-best-practice-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.08MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"International Cycling Infrastructure Best Practice Study appendix\",\"url\":\"/cdn/static/cms/documents/international-cycling-infrastructure-best-practice-study-appendix.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.06MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Tour de France 2014 - Impact\",\"url\":\"/cdn/static/cms/documents/tour-de-france-three-inspirational-days-impact.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.21MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2010\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/no-entry-except-cycles-signing-review.pdf\"\u003e'No entry except cycles' signing review (PDF 5.0MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2009\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/pedal-cyclist-fatalities-in-London-2001-2006.pdf\"\u003eAnalysis of police collision files for pedal cyclist fatalities in London, 2001-2006 (PDF 845KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/Community-Cycling-Fund-for-London-Annual-Report-2008-09.pdf\"\u003eCommunity Cycling Fund for London - annual report 2008-2009 (PDF 777KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/london-cycle-training-partnership-08-09-report.pdf\"\u003eLondon Cycle Training Partnership - end of year report 2008-2009 (PDF 3.02MB) \u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/london-cycle-training-partnership-spring2009-newsletter.pdf\"\u003eLondon Cycle Training Partnership newsletter - spring 2009 (PDF 896KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/cycle-as-freight-may-2009.pdf\"\u003eCycle freight in London - a scoping study (PDF 1.41MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/attitudes-to-cycling-2009-research-summary.pdf\"\u003eAttitudes to cycling research (PDF 15KB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2008\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/lctp-mid-year-report-0809-version2.pdf\"\u003eLondon Cycle Training Partnership - mid-year report 2008-09 (PDF 3.22MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/london-cycle-training-partnership-stakeholder-borough-minutes-nov-dec-08.pdf\"\u003eLondon Cycle Training Partnership - minutes of borough stakeholder meetings November-December 2008 (PDF 291KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/london-cycle-training-ptship-ictp-stkhldr-mins-dec-08.pdf\"\u003eLondon Cycle Training Partnership - minutes of independent cycle training provider stakeholder meetings November-December 2008 (PDF 167KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/cycle-hire-scheme-feasibility-full-report-nov2008.pdf\"\u003eFeasibility study for a central London cycle hire scheme - full report (PDF 3.52MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/london-cycle-training-partnership-newsletter-autumn-2008.pdf\"\u003eLondon Cycle Training Partnership newsletter - autumn 2008 (PDF 795KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/cycling-in-london-final-october-2008.pdf\"\u003eCycling in London - final report (PDF 4.24MB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/temporary-cycle-parking.pdf\"\u003eTemporary cycle parking (PDF 824KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/ctc-london-bchmkg-project-final-report-jul-2008.pdf\"\u003eLondon Cycling Benchmarking Project final report (PDF 1.07MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/london-cycling-training-partnership-strategy-july-2008.pdf\"\u003eLondon Cycle Training Partnership strategy (PDF 316KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/attitudes-to-cycling-2008-research-report.pdf\"\u003eAttitudes to cycling research report (PDF 527 KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/Community-Cycling-Fund-for-London-Annual-Report-2007-08.pdf\"\u003eCommunity cycling fund for London - annual report 2007-08 (PDF 2MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/cyclists-use-of-zebra-crossings.pdf\"\u003eCyclists use of zebra crossings summary (PDF 42KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/shared-zebra-crossing-study.pdf\"\u003eShared zebra crossing study (PDF 1.82MB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/cycling-training-effectiveness-results-summary-2008.pdf\"\u003eCycling training effectiveness results - summary (PDF 161KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/cycling-on-greenways-equality-impact-assessment-action-plan.pdf\"\u003eMay 2008 Cycling on Greenways equality impact assessment action plan (PDF 25KB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2007\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/tour-de-france-research-summary.pdf\"\u003eTour de France research summary (PDF 838KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/cycling-on-greenways-2007.pdf\"\u003eCycling on Greenways - equality impact assessment (PDF 513KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/LCN-Link-alignments-SEP07-FINAL.pdf\"\u003eLCN+ route alignment alternatives, night-time routes and LCN+ 'Spurs' (PDF 38KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/green-crisp-brief-version2.pdf\"\u003eGreen CRISP brief - version two (PDF 45KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/final-monitoring-july07.pdf\"\u003eTLRN cycling scheme - final monitoring report (PDF 1.46MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/CRISP-Report-and-Covering-Letter-Jul07.pdf\"\u003eResponse to a review of a sample of final CRISP reports for compliance with the CRISP brief and covering letter (PDF 94KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/bicycle-recycling-schemes-London-scoping-study-april-2007.pdf\"\u003eBicycle recycling schemes in London - a scoping study (PDF 842KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/Review-of-CRISP-reports.pdf\"\u003eReview of a sample of final CRISP reports for compliance with the CRISP brief (PDF 1.5MB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/cycling-on-greenways-implementation-plan-consultation-summary.pdf\"\u003eCycling on Greenways - implementation plan - consultation summary (PDF 551KB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/LCN-High-Risk-Barriers-Report.pdf\"\u003eLCN+ high risk barriers report (PDF 2.06MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2006\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/ASL-Findings-Report-October-011106.pdf\"\u003eAdvanced stop line findings report (PDF 1.25MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/Workplace-Cycle-Parking-Guide.pdf\"\u003eWorkplace cycle parking guide (PDF 2.35MB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/share-the-road-september-2006.pdf\"\u003eShare the Road (PDF 1.2MB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/TIRA-Progress-Review-Report.pdf\"\u003eTIRA progress review report (PDF 317KB)\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/cycle-london-community-grants-scheme-2006-1.pdf\"\u003eCycle London - community grants scheme (PDF 1.2MB)\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycle census technical note\",\"url\":\"/cdn/static/cms/documents/cycle-census-technical-note.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.05MB\",\"image\":{}},{\"title\":\"Analysis of cycling potential\",\"url\":\"/cdn/static/cms/documents/analysis-of-cycling-potential.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.33MB\",\"image\":{}},{\"title\":\"Barriers to cycling for ethnic minorities and deprived groups\",\"url\":\"/cdn/static/cms/documents/barriers-to-cycling-for-ethnic-minorities-and-deprived-groups-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 272KB\",\"image\":{}},{\"title\":\"Exploring the relationship between cycling leisure and utility trips\",\"url\":\"/cdn/static/cms/documents/exploring-the-relationship-between-cycling-leisure-and-utility-trips.pdf\",\"icon\":\"download\",\"size\":\"PDF 292KB\",\"image\":{}},{\"title\":\"Children and young people - cycling and walking potential\",\"url\":\"/cdn/static/cms/documents/dhildren-and-young-people-cycling-and-walking-potential.pdf\",\"icon\":\"download\",\"size\":\"PDF 618KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "'Delivering the benefits of cycling in outer London' is a joint report by Transport for London, London Councils, London Cycling Campaign and Sustrans, aimed at those who set the priority for transport in local areas.",
+     " \u003ca href=\"/cdn/static/cms/documents/benefits-of-cycling-summary.pdf\"\u003eDelivering the benefits of cycling in outer London - summary document (PDF 3MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/benefits-of-cycling-report.pdf\"\u003eDelivering the benefits of cycling in outer London - full report (PDF 4.26MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2014\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/greenways-final-annual-monitoring-report.pdf\"\u003eLondon Greenways final monitoring report 2010-2014 (PDF 813KB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2012\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/london-greenways-monitoring-report.pdf\"\u003eLondon Greenways monitoring report 2012 (PDF 2MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2011\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/london-greenways-report-2011.pdf\"\u003eLondon Greenways monitoring report 2011 (PDF 2.72MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2010\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/london-greenways-report-2010.pdf\"\u003eLondon Greenways monitoring report 2010 (PDF 920KB)\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Understanding cycle route choice\",\"url\":\"/cdn/static/cms/documents/understanding-cycle-route-choice.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.29MB\",\"image\":{}},{\"title\":\"Influencing the growth of cycling in London\",\"url\":\"/cdn/static/cms/documents/influencing-the-growth-of-cycling-in-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.24MB\",\"image\":{}},{\"title\":\"Attitudes to cycling 2011\",\"url\":\"/cdn/static/cms/documents/attitudes-towards-cycling-2011.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.00MB\",\"image\":{}},{\"title\":\"Cycling tipping points - 2009\",\"url\":\"/cdn/static/cms/documents/cycling-tipping-points.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.84MB\",\"image\":{}},{\"title\":\"Motivating the near market about cycling - 2009\",\"url\":\"/cdn/static/cms/documents/motivating-the-near-market-about-cycling.pdf\",\"icon\":\"download\",\"size\":\"PDF 878KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are other useful reports, including the London Greenways monitoring report on the \u003ca href=\"/corporate/publications-and-reports/cycling\"\u003eCycling Publications page\u003c/a\u003e .",
+     "Smart Moves magazine provided news and information on walking and cycling in London until 2010.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2010\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/smartmoves-feb-2010.pdf\"\u003eFebruary 2010 Smart Moves (PDF 2.45MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2009\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/smartmoves-nov-2009.pdf\"\u003eNovember 2009 Smart Moves (PDF 2.78MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smartmoves-aug-2009.pdf\"\u003eAugust 2009 Smart Moves (PDF 2.55MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smartmoves-may-2009-final.pdf\"\u003eMay 2009 Smart Moves (PDF 2MB) \u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smartmoves-february-2009.pdf\"\u003eFebruary 2009 Smart Moves (PDF 1.99MB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2008\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/smartmoves-november-2008.pdf\"\u003eNovember 2008 Smart Moves (PDF 2.43MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smartmoves-August-2008.pdf\"\u003eAugust 2008 Smart Moves (PDF 1.96MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smart-moves-may-2008.pdf\"\u003eMay 2008 Smart Moves (PDF 2.03MB) \u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smart-moves-february-2008.pdf\"\u003eFebruary 2008 Smart Moves (PDF 2.69MB) \u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2007\"}",
+     " \u003ca href=\"/cdn/static/cms/documents/smart-moves-November-2007.pdf\"\u003eNovember 2007 Smart Moves (PDF 2.38MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smart-moves-07-08.pdf\"\u003eAugust 2007 Smart Moves (PDF 1.9MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smart-moves-May-2007.pdf\"\u003eMay 2007 Smart Moves (PDF 3.5MB)\u003c/a\u003e \u003cbr /\u003e \u003ca href=\"/cdn/static/cms/documents/smart-moves-February-2007.pdf\"\u003eFebruary 2007 Smart Moves (PDF 2.5MB)\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Cycling",
+      "url": "/modes/cycling/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Streets toolkit (incl. London Cycling Design Standards)",
+      "url": "/corporate/publications-and-reports/streets-toolkit",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

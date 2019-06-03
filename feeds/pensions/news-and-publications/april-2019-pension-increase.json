@@ -1,0 +1,74 @@
+{
+ "pageTitle": "April 2019 pension increase",
+ "keywords": "TfL",
+ "description": "April 2019 pension increase",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "News and publications",
+   "url": "/pensions/news-and-publications"
+  },
+  {
+   "title": "April 2019 pension increase"
+  }
+ ],
+ "title": {
+  "title": "April 2019 pension increase",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Pensions from the TfL Pension Fund increase in April 2019\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This is based on the rise in the Retail Price Index over the 12 months to September 2018 which was 3.3 per cent.",
+     "Depending on the period of membership of the TfL Pension Fund, your pension may comprise of various components, some of which are not increased by the fund at the above rate, but may be increased by the state.",
+     "If you have been receiving your pension for less than a year you may receive a pro rata increase, as shown in the following table.",
+     "{\"template\":\"table\",\"rows\":[[\"h4\",\"h4\"],[\"Up to 1 April 2018\",\"3.30\"],[\"2 April 2018 to 1 May 2018\",\"3.025\"],[\"2 May 2018 to 1 June 2018\",\"2.750\"],[\"2 June 2018 to 1 July 2018\",\"2.475\"],[\"2 July 2018 to 1 August 2018\",\"2.20\"],[\"2 August 2018 to 1 September 2018\",\"1.925\"],[\"2 September 2018 to 1 October 2018\",\"1.650\"],[\"2 October 2018 to 1 November 2018\",\"1.375\"],[\"2 November 2018 to 1 December 2018\",\"1.100\"],[\"2 December 2018 to 1 January 2019\",\"0.825\"],[\"2 January 2019 to 1 February 2019\",\"0.550\"],[\"2 February 2019 to 1 March 2019\",\"0.275\"],[\"2 March 2019 to 1 April 2019\",\"0\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

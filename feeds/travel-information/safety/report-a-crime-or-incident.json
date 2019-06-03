@@ -1,0 +1,160 @@
+{
+ "pageTitle": "Report a crime or incident",
+ "keywords": "Public,Buses,London Overground,Rail,Taxis and minicabs,Tube,TfL",
+ "description": "How to report crime or antisocial behaviour on public transport in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety",
+   "url": "/travel-information/safety/index"
+  },
+  {
+   "title": "Report a crime or incident"
+  }
+ ],
+ "title": {
+  "title": "Report a crime or incident",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you have been a victim of a crime on the transport system, or experienced antisocial behaviour, you should report it to the police.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Emergencies\"}",
+     "In an emergency:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Call the police on\\u003cstrong\\u003e999\\u003c/strong\\u003e \",\"Speak to the nearest member of staff\",\"Use the passenger alarm\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reporting a crime\"}",
+     "To report a crime on the transport network:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Call the police on\\u003cstrong\\u003e101\\u003c/strong\\u003e \",\"For Tube and rail, you can also text what happened, where and when, to 61016\",\"Also, you can \\u003ca href=\\\"https://online.met.police.uk/\\\"\\u003ereport some crimes - such as theft, criminal damage and hate crime - online\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Terrorism or suspicious activity\"}",
+     "To report possible terrorist activity:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Call the confidential hotline on\\u003cstrong\\u003e0800 789 321\\u003c/strong\\u003e \",\"Report online to the \\u003ca href=\\\"https://beta.met.police.uk/tell-us-about/possible-terrorist-activity/\\\"\\u003eMet Police\\u003c/a\\u003e \",\"Give information anonymously via \\u003ca href=\\\"https://crimestoppers-uk.org/\\\"\\u003eCrimeStoppers\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hate crime\"}",
+     "A hate crime is \u003ca href=\"http://www.btp.police.uk/safety_on_the_railway/keeping_yourself_safe/hate_crime.aspx\"\u003edefined by the British Transport Police\u003c/a\u003e as when someone \u003ca href=\"http://www.btp.police.uk/safety_on_the_railway/keeping_yourself_safe/hate_crime.aspx\"\u003ecommits a crime\u003c/a\u003e against you because of your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"race\",\"religion\",\"sexual orientation\",\"gender identity\",\"disability\"]}",
+     "We understand that you might not feel comfortable talking to the police about what happened.\u003cbr /\u003e \u003ca href=\"http://www.report-it.org.uk/home\"\u003eYou can submit reports anonymously via True Vision - Report It\u003c/a\u003e .",
+     "In addition, you can report hate crime to some of the organisations who support affected communities, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.stophateuk.org/\\\"\\u003eStop Hate UK\\u003c/a\\u003e , for all hate crime\",\" \\u003ca href=\\\"https://tellmamauk.org\\\"\\u003eTell MAMA\\u003c/a\\u003e , for anti-Muslim hate crime\",\" \\u003ca href=\\\"https://cst.org.uk/\\\"\\u003eCommunity Security Trust\\u003c/a\\u003e , for anti-Semitic hate crime\",\" \\u003ca href=\\\"http://www.galop.org.uk/\\\"\\u003eGALOP\\u003c/a\\u003e , for anti-LGBT+ hate crime\"]}",
+     " \u003ca href=\"https://www.met.police.uk/advice/advice-and-information/hco/hate-crime/how-to-report-hate-crime/\"\u003eFind out more about how to report hate crime.\u003c/a\u003e Remember, you don't have to be the victim of hate crime to report it. You can report anything you've seen happening to someone else, or report it on their behalf if they don't want to.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "Let us know about safety and security issues online using our online reporting forms:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/help-and-contact/report-criminal-damage-or-antisocial-behaviour\\\"\\u003eReport criminal damage or antisocial behaviour\\u003c/a\\u003e \",\" \\u003ca href=\\\"/help-and-contact/reporting-touting-and-illegal-cabs\\\"\\u003eTouting and illegal cab activity\\u003c/a\\u003e \"]}",
+     "For more help and ways to contact us:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/help-and-contact/index\\\"\\u003eVisit our Help and contacts page\\u003c/a\\u003e \",\" \\u003ca href=\\\"/help-and-contact/lost-property\\\"\\u003eReport lost property\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"CCTV evidence\"}",
+     "It's important that you report a crime or incident on the transport system as soon as possible. Images captured by CCTV are only kept for a limited time period. Find out more about \u003ca href=\"/corporate/privacy-and-cookies/cctv#retention\"\u003ehow long we keep personal data\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Safety",
+    "links": [
+     {
+      "title": "Staying safe",
+      "url": "/travel-information/safety/staying-safe",
+      "image": {}
+     },
+     {
+      "title": "Report a crime or incident",
+      "url": "/travel-information/safety/report-a-crime-or-incident",
+      "image": {}
+     },
+     {
+      "title": "Report it to stop it",
+      "url": "/travel-information/safety/report-it-to-stop-it",
+      "image": {}
+     },
+     {
+      "title": "Road safety advice",
+      "url": "/travel-information/safety/road-safety-advice",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Safety",
+     "url": "/travel-information/safety/road-safety-advice",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 security",
+      "url": "/corporate/safety-and-security/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Useful contacts",
+      "url": "/corporate/useful-contacts/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "pageTitle": "How to pay and where to buy tickets and Oyster",
+ "keywords": "TfL,Oyster, contactless, pay as you go, Travelcards, Bus \u0026 Tram Pass, tickets, Visitor Oyster, single tickets, return tickets",
+ "description": "Overview of the different ways you can pay to travel in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "How to pay and where to buy tickets and Oyster"
+  }
+ ],
+ "title": {
+  "title": "How to pay and where to buy tickets and Oyster",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "What's the best ticket for me?",
+    "texts": [
+     "We'll help you choose the best way to pay for your travel"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/whats-the-best-ticket-for-me",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/best-ticket-for-me-left.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Contactless",
+    "texts": [
+     "Use contactless (card or device) to pay as you go on all our transport services"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-fares_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "TfL Oyster and contactless app",
+    "texts": [
+     "Top up anytime, anywhere and manage your cards on the go"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-oyster-app.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Touching in and out",
+    "texts": [
+     "Always touch in at the start of your journey and touch out at the end"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/yellow-reader-small_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Buying tickets and Oyster",
+    "texts": [
+     "You can buy tickets and Oyster cards online and from places across London"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/buying-tickets-and-oyster",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Keep within maximum journey times",
+    "texts": [
+     "Find the maximum journey time for your travel so you pay the right fare"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/keep-within-maximum-journey-times",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Single and return tickets",
+    "texts": [
+     "Buy paper tickets for Tube and rail journeys from ticket machines"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Oyster card",
+    "texts": [
+     "Top up your Oyster card or add Travelcards and Bus \u0026 Tram Passes"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/oyster-fares_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Pay as you go",
+    "texts": [
+     "You could save money by using pay as you go"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/pay-as-you-go_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Touch a pink card reader",
+    "texts": [
+     "Pink card readers charge the right fare by telling us you didn't go through Zone 1"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touch-pink-card-reader-when-changing-trains",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/pink-reader-small_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Card clash",
+    "texts": [
+     "Keep your contactless and Oyster cards separate when touching yellow card readers"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/card-clash",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Travelcards and group tickets",
+    "texts": [
+     "You can travel as much as you like at any time with a Travelcard"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Bus \u0026 Tram Pass",
+    "texts": [
+     "You can get unlimited travel on buses and trams across London"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Free and discounted travel",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Visitor Oyster cards",
+      "url": "/travel-information/visiting-london/visitor-oyster-card",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

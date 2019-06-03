@@ -1,0 +1,69 @@
+{
+ "pageTitle": "London Underground publishes latest performance figures",
+ "description": "The figures, covering the period 8 January to 4 February, show that the percentage of scheduled services was 97.1 per cent. Average delays for the financial year to date - as measured by the number of customer hours lost to disruption - are at their",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Underground publishes latest performance figures",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The latest figures on London Underground's performance have been published today by Transport for London (TfL)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The figures, covering the period 8 January to 4 February, show that the percentage of scheduled services was 97.1 per cent.",
+     "Average delays for the financial year to date - as measured by the number of customer hours lost to disruption - are at their lowest since 2003/04, when TfL took responsibility for the Underground.",
+     "This period is the sixth consecutive period where delays are down compared to the equivalent periods during the last financial year.\u003cbr /\u003e\u003cbr /\u003eThe latest figures also show accessibility improvements around the network, with more than 98 per cent of lifts available at LU stations during the period.",
+     "Work included returning Earl's Court to full step-free status, with lifts there returned to service four months ahead of schedule following a nine-month programme of works to increase lift reliability.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/corporate/modesoftransport/londonunderground/1592.aspx\\\"\\u003eDownload the report and figures\\u003c/a\\u003e \"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

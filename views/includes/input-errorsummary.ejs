@@ -1,0 +1,14 @@
+<div class="lft-error-summary" aria-labelledby="error-summary-title" role="alert" tabindex="-1" data-module="error-summary">
+  <h3 class="lft-error-summary__title" id="error-summary-title">
+  <%= title %>
+  </h3>
+  <div class="lft-error-summary__body">
+    <ul class="lft-list lft-error-summary__list">
+    <% errors.forEach(function (error, i) { %>
+    <li>
+      <a href="#<%= error.ref %>"><%= error.msg %></a>
+    </li>
+    <% }) %>
+    </ul>
+  </div>
+</div>

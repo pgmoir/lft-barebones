@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Local highways maintenance funding",
+ "keywords": "L,Roads,,TfL",
+ "description": "Local highways maintenance funding",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Local highways maintenance funding"
+  }
+ ],
+ "title": {
+  "title": "Local highways maintenance funding",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Department for Transport provides funding to ensure that local roads and highway assets are fit for the future. We provide details of the funding we receive here.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2018/19\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Allocation of maintenance fund report\",\"url\":\"/cdn/static/cms/documents/allocation-of-maintenance-fund-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 178KB\",\"image\":{}},{\"title\":\"Letter from the DfT to the Commissioner\",\"url\":\"/cdn/static/cms/documents/dft-letter-to-commissioner.pdf\",\"icon\":\"download\",\"size\":\"PDF 43KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "pageTitle": "New accessibility boost for DLR passengers",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "New accessibility boost for DLR passengers",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Passengers travelling on the Docklands Light Railway (DLR) can now benefit from a new enhanced train information system, providing automatic audible and visual announcements on all trains for the first time."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The DLR prides itself on being one of the most accessible modes of transport in the UK",
+     "#EndEditableThe on-train Audio and Visual Information System (AVIS) has been funded by Transport for London (TfL) as part of its commitment to improving accessibility on London's transport network.",
+     "AVIS provides information on train destinations, next stations and interchange opportunities throughout the journey of a train, using verbal announcements and scrolling display screens.",
+     "The system is designed to assist passengers with hearing or eyesight difficulties, as well as occasional users who may be unfamiliar with the DLR network.",
+     "Jonathan Fox, Director DLR, said: 'AVIS will improve the journey experience for our passengers by providing key information in a way that is convenient and easy to understand.",
+     "'The DLR prides itself on being one of the most accessible modes of transport in the UK, reflected in rapidly increasing journey numbers and record customer satisfaction levels.'",
+     "Unlike any other railway in the UK, the DLR already offers full step-free access to all stations and trains for passengers with mobility impairments.",
+     "The installation of the AVIS information system means that it is now also accessible for passengers with hearing or eyesight impairments.",
+     "As well as its accessibility benefits, AVIS will improve the quality of DLR customer information for all passengers.",
+     "Research into passenger requirements has shown that tourists and occasional DLR users in particular feel that access to real-time information is very important.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The DLR is part of TfL.\",\"The roll-out of the Audio and Visual Information System (AVIS) was concluded this month, after being fitted to the entire fleet of 94 trains\",\"Over 50 million journeys are made on the DLR annually, a figure forecast to increase to 80 million by 2009.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "pageTitle": "New buses hit the streets",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "New buses hit the streets",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "People in south London will be able to experience a fleet of brand new buses - and benefit from an increased service."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "More than 100 new vehicles are being introduced across south London.",
+     "Timetable improvements have also been made on some routes:",
+     "Changes include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sixty new double-decker buses have been introduced on routes 68 (Euston to Norwood), 468 (Elephant and Castle to South Croydon), N68 (Tottenham Court Road to Old Coulsdon) and X68 (Russell Square to West Croydon)\",\"The peak hour frequency on route 68 (Euston to Norwood) has been increased from eight buses to nine buses per hour on Mondays to Fridays, and from six buses to eight buses per hour on Saturdays.\\u003cbr /\\u003eRoute 468 now has increased frequencies in the evening and all day Sunday, while peak hour express route X68 now runs every 15 minutes instead of every 20 minutes\",\"In the Lewisham area, new single-deck buses have been introduced on routes 181 and 225 which have both been extended - route 181 (Lewisham - Bromley Road/Downham Way) now continues along Downham Way to Grove Park Station providing new links for the Downham area. Route 225 has been extended from Lewisham to Hither Green Station to serve new housing developments in Hither Green Lane. It has been revised in the Rotherhithe area to terminate at Canada Water instead of Bermondsey Station\",\"New buses are also being introduced along route 284, from Lewisham to Grove Park Cemetery\",\"All buses on route 127, which runs from Purley to Tooting, have been replaced by new double-deckers. A revised timetable has also been introduced\",\"At the end of April, buses on route 315, from Balham to Norwood, are due to be replaced with new single-deck vehicles. No changes will be made to the timetable\",\"From the beginning of May, new double-decker buses will also be introduced along route 196, between Norwood junction and Elephant and Castle. The timetable will remain unchanged\",\"In the Bromley area new single-deckers are being introduced over the next few weeks on routes 138 (Bromley North to Coney Hall), 162 (Beckenham Junction to Eltham) and 367 (West Croydon - Bromley North). New double-deckers will replace single-deckers on route 353 (Addington - Orpington) during the coming summer\"]}",
+     "Operations Director Mike Weston said: \"These new vehicles have the latest design features and will give passengers a much more comfortable ride across the city and are fully-accessible.",
+     "\"There has been a 39 per cent increase in passenger usage over the past five years across London and these bus service changes are just part of our response to the growing demand on the network.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"To arrange photographs of any of the new buses contact Zahra Akkerhuys\",\"For more details about these routes and others, passengers should visit TfL's Journey Planner at \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003eTfL's website\\u003c/a\\u003e \"]}",
+     "\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

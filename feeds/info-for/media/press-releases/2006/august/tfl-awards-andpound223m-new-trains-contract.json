@@ -1,0 +1,79 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL awards £223m new trains contract",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) today announced that a £223m contract to build and maintain more than 44 new trains has been awarded to Bombardier. The trains will be built in the UK at Bombardier's Derby plant."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We want to revitalise London's rail services, addressing issues of capacity and train performance",
+     "Funded by TfL's £10 billion Investment Programme, the new trains \nwill operate on the North London Railway, which TfL will manage from November \nnext year, and the extended East London Line.",
+     "The trains are expected to enter service in 2009.",
+     "The rolling stock contract will deliver a fleet of new trains, modelled on \nBombardier's Class 376 Electrostar, designed specifically to cater for the high \nvolumes of passengers on busy commuter routes.",
+     "The order will be delivered as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Twenty-four dual-voltage three-car trains for the North London Railway\",\"Twenty, four-car trains for the extended East London Line when it opens in \\n2010.\"]}",
+     "The contract also includes further options for extra carriages for the North \nLondon Railway and more trains for the extended East London Line.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Passengers first\"}",
+     "Howard Smith, Chief Operating Officer, TfL London Rail said: \"I'm delighted \nto confirm this order for 44 new trains for the North London Railway and \nextended East London Line.",
+     "\"They will significantly improve the comfort, reliability and overall quality \nof train services for passengers on these TfL rail routes.",
+     "\"TfL's priority is to put passengers first.",
+     "\"When we assume responsibility for the North London Railway in November next \nyear, our first priority is to improve safety and security on the route.",
+     "\"But we also want to revitalise London's rail services, addressing issues of \ncapacity and train performance.",
+     "\"The award of a contract for these trains is a significant step towards \nachieving TfL's vision for rail services in London.\"",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Shortlist\"}",
+     "In June this year, TfL announced a shortlist of bidders to operate train \nservices on the North London Railway and the extended East London Line, under \nthe TfL London Rail Concession.",
+     "The successful bidder is likely to be announced next summer.\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"The tendering process for the TfL London Rail rolling stock contract began in late 2005 and concluded today with the announcement of Bombardier as the successful bidder\",\"The 44 new trains, manufactured by Bombardier, will operate on a chassis that is similar to those in use on Southern and South Eastern Trains services. This design has been tried and tested and proved to be effective on London commuter routes\",\"Alistair Darling, then Secretary of State for Transport, announced in February 2006 that responsibility for the North London Railway will transfer to TfL in November 2007. The North London Railway consists of:\",\"The North London Line (Richmond to North Woolwich)\",\"The London Euston to Watford Junction local line\",\"The West London Line (Willesden Junction to Clapham Junction via Kensington Olympia)\",\"The Gospel Oak to Barking line\",\"The East London Line Project (Phase 1) will extend the existing line south to West Croydon and north to Dalston Junction. It is due for completion by 2010\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

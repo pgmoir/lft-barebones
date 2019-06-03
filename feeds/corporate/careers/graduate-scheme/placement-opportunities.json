@@ -1,0 +1,156 @@
+{
+ "pageTitle": "Placement opportunities",
+ "keywords": "TfL",
+ "description": "TfL offers student placements and year in industry programmes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Graduates",
+   "url": "/corporate/careers/graduates"
+  },
+  {
+   "title": "Placement opportunities"
+  }
+ ],
+ "title": {
+  "title": "Placement opportunities",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Whether you would like to build your work experience and develop your CV, or get your foot in the door and kick-start a career at TfL, we have placement opportunities for undergraduates and recent graduates.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you are looking to build your experience through a placement programme, we have some great opportunities for you. You can apply if you have a degree, are working towards one or have recently graduated.",
+     "You'll be given responsibility from day one, developing your skills whilst working on live projects and gaining valuable work experience.  After your placement, you could go on to secure a permanent role or a position on one of our graduate programmes.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"We offer student placements in the following areas:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/corporate/careers/student-placements/customer-and-communications-internship\\\"\\u003eCustomer \\u0026 Communications BAME Internship\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/careers/student-placements/stuart-ross-bame-internship\\\"\\u003eThe Stuart Ross BAME PR Internship\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bursary \\u0026 benefits\"}",
+     "We can help you grow your career whilst still having a life away from work. In 2018, we were recognized as an organization that offers the best work-life balance to employees.",
+     "Your benefits include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bursary to cover London living wage\",\"28 days annual leave, plus standard public holidays\",\"Free travel on our networks (Zones 1-9) with an Oyster card for you and one other member of your household\",\"Membership of our pension scheme\",\"75% reimbursement on the price of an annual travel ticket outside the TfL network- plus an interest-free loan to pay for it\",\"Optional private medical benefit\",\"A range of staff retail and leisure discounts\",\"Extensive volunteering opportunities\"]}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Application process\",\"texts\":[\"From application to job offer, watch our videos and find out what to expect\"],\"link\":{\"url\":\"/corporate/careers/graduate-scheme/application-process\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Behaviours \\u0026 competencies\",\"texts\":[\"Have you got what it takes to be one of our team?\"],\"link\":{\"url\":\"/corporate/careers/graduate-scheme/behaviours-and-competencies\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Placement opportunities",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Graduate opportunities",
+      "url": "/corporate/careers/graduate-scheme/graduate-opportunities",
+      "image": {}
+     },
+     {
+      "title": "Customer \u0026 Communications BAME Internship",
+      "url": "/corporate/careers/student-placements/customer-and-communications-internship",
+      "image": {}
+     },
+     {
+      "title": "Stuart Ross BAME PR Internship",
+      "url": "/corporate/careers/student-placements/stuart-ross-bame-internship",
+      "image": {}
+     },
+     {
+      "title": "Behaviours and competencies",
+      "url": "/corporate/careers/graduate-scheme/behaviours-and-competencies",
+      "image": {}
+     },
+     {
+      "title": "Salary \u0026 benefits",
+      "url": "/corporate/careers/graduate-scheme/salary-and-benefits",
+      "image": {}
+     },
+     {
+      "title": "Application process",
+      "url": "/corporate/careers/graduate-scheme/application-process",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Placement opportunities",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

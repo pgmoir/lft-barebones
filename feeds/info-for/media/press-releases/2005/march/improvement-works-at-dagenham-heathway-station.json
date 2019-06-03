@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Improvement works at Dagenham Heathway station",
+ "description": "The ticket hall will also close for one additional weekend later in the year.The works will include improvements to CCTV and communications equipment, better lighting, new flooring in the ticket hall and redecoration.The closures will take place during",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Improvement works at Dagenham Heathway station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Work to improve the communications systems and refurbish the ticket office of Dagenham Heathway Tube station means it will close during three weekends in March, April and May."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The ticket hall will also close for one additional weekend later in the year.",
+     "The works will include improvements to CCTV and communications equipment, better lighting, new flooring in the ticket hall and redecoration.",
+     "The closures will take place during the following weekends:",
+     "{\"template\":\"bulletlist\",\"items\":[\"19/20 March 2005 - Ticket hall closure ONLY;\",\"25/26/27/28 March 2005 (Easter weekend) - Full station closure;\",\"9/10 April 2005 - Full station closure;\",\"28/29/30 May 2005 (Bank Holiday weekend) - Full station closure.\"]}",
+     "A rail replacement bus service will operate between Dagenham Heathway and Becontree Tube stations during the three weekend station closures. The bus services will meet the first and last Tube connections and run at 15 minute intervals.",
+     "Passengers are advised to allow more time for their journeys during this important improvement work. For more information, check out the \u003ca href=\"http://www.tfl.gov.uk\"\u003eTfL website \u003c/a\u003e or call London Travel Information on\u003cstrong\u003e020 7222 1234\u003c/strong\u003e .\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is investing £10 bn over the next 5 years to improve and expand London's transport network, more than half of that in the Tube.\",\"Metronet are doing this improvement work and are responsible for the maintenance and renewal of the Circle, District, Metropolitan, Hammersmith and City and East London Line.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

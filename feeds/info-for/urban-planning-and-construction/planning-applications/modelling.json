@@ -1,0 +1,173 @@
+{
+ "pageTitle": "Modelling",
+ "keywords": "TfL",
+ "description": "We can help you carry out local or strategic transport modelling for your new development",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Modelling"
+  }
+ ],
+ "title": {
+  "title": "Modelling",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We can help you carry out local or strategic transport modelling for your new development.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local transport modelling\"}",
+     "Some planning applications use local transport models to predict and test the potential impacts of a new development on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Public transport\",\" \\u003ca href=\\\"/campaign/active-travel\\\"\\u003eActive travel\\u003c/a\\u003e \",\"Highway conditions\"]}",
+     "These models usually deal with individual junctions, crossings or other small parts of the transport network.",
+     "You need to carry out local transport modelling if your planning application could affect:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Traffic signals\",\"Pedestrian crossing\",\"Bus journey times\",\"The capacity and reliability of London's \\u003ca href=\\\"/modes/driving/red-routes\\\"\\u003ered routes\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic transport modelling\"}",
+     "We use \u003ca href=\"/corporate/publications-and-reports/strategic-transport-and-land-use-models\"\u003estrategic transport models\u003c/a\u003e to understand the potential impacts of our own projects and investments. The models make predictions about:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Public transport\",\" \\u003ca href=\\\"/campaign/active-travel\\\"\\u003eActive travel\\u003c/a\\u003e \",\"Highway impacts\"]}",
+     "These can be used in the \u003ca href=\"/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments\"\u003eTransport Assessments\u003c/a\u003e of large-scale planning applications.",
+     "You need to carry out strategic transport modelling if your planning application is above, or around, 1,000 housing units and/or 10,000 square metres of any other land use. There's a fee to use our strategic models.",
+     "Our strategic modelling flow chart shows timings and relationships involved when you use our strategic transport models:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Strategic modelling flow chart\",\"url\":\"/cdn/static/cms/documents/strategic-modelling-flowchart.pdf\",\"icon\":\"download\",\"size\":\"PDF 230KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our Future Transport Context reports use our models and other internal data. They provide useful insights on the future transport and travel conditions likely to affect your proposed development.",
+     "We're working with Camden Council on the first ever Future Transport Context report for Kentish Town, which will be ready soon.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use our services\"}",
+     "You always need to \u003ca href=\"/info-for/urban-planning-and-construction/planning-applications/pre-application-services\"\u003ebook an initial screening meeting\u003c/a\u003e for our modelling services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "For more information, contact \u003ca href=\"mailto:strategicmodelling@tfl.gov.uk\"\u003estrategicmodelling@tfl.gov.uk\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "Planning with WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Operational Note: Wood Lane closure this weekend",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Traffic around Shepherds Bush, White City and North Acton may be heavier this weekend as works continue on the Hammersmith \u0026 City Line bridge in Wood Lane as part of the White City Development."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Wood Lane will be closed from the Uxbridge Road / Wood Lane junction right up to the BBC entrance from 9pm Thursday 28 July through to 6am Tuesday 2 August\",\"It will remain open from the entrance to the BBC (north of the Hammersmith \\u0026 City line over-bridge) northwards towards the A40\",\"Traffic, including buses will be diverted to the A3220 West Cross Route\",\"There will be no access through to the A40 if heading north or to the Uxbridge Road if heading south, but access into Ariel Way will be available as will access into the BBC car park, south of the bridge\",\"Security personnel will be positioned at the Uxbridge Road junction to allow access through to residents of Wood Lane, McFarlane Road, Bulwer Street, or Hopgood Street\",\"There will also be admission allowed to those needing to access any of the Industrial Units in Ariel Way, or Network House\",\"Pedestrian access will constantly be available in Wood Lane\"]}",
+     "In conjunction, a rail replacement bus service will be in place between Hammersmith and Baker Street as no trains will operate between Hammersmith and Edgware Road on the Hammersmith \u0026 City Line from Friday until Monday.",
+     "Passengers are advised to use alternative Tube routes, especially the District Line from Hammersmith and the Central Line from Shepherd's Bush.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The development at White City, scheduled to open in 2008, comprises a 1.3million sq. ft. shopping centre and will have a large positive impact on the transport infrastructure in the area\",\"The central Line Shepherd's Bush station will be rebuilt, a new station will be provided on the Hammersmith \\u0026 City line, as will a new station on the West London line\",\"In addition, a new bus interchange is to be constructed to the north of the site.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

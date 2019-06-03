@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Full District and Hammersmith \u0026 City line services restored",
+ "description": "The 50-year-old signal cables, and others that supply traction power in the area, were destroyed during the fire. This led to a suspension of services between Plaistow and Dagenham East, and further disruption on other parts of the District and",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Full District and Hammersmith \u0026 City line services restored",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "District line and Hammersmith \u0026 City line services in east London have now been restored after London Underground (LU) engineers worked around the clock to repair damage caused by a trackside fire in Barking last Friday."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "I would like to thank all our customers for their patience during this disruption",
+     "The 50-year-old signal cables, and others that supply traction power in the area, were destroyed during the fire.",
+     "This led to a suspension of services between Plaistow and Dagenham East, and further disruption on other parts of the District and Hammersmith \u0026 City lines.",
+     "The heat was so intense that cables and equipment melted and specialist in house engineers, some apprenticed nearly 40 years ago, were called in to form a 24-hour engineering team, tracing the old cable routes by hand and splicing in hundreds of metres of new cabling.",
+     "They were joined by engineers from EDF Powerlink and Thales, who carried out crucial and complicated electrical work.",
+     "All signalling and power is now restored and operating as normal.",
+     "Howard Collins, LU's Chief Operating Officer, said: 'On behalf of London Underground I would like to thank all our customers for their patience during this disruption.",
+     "'Rebuilding the remnants of the 50-year-old cable system with new materials is a difficult surgical job that would usually have taken over a month to complete.",
+     "'Our engineers have been working around the clock to restore services as quickly as possible and we are pleased to say that full services are now operating on the District and Hammersmith \u0026 City lines.'",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

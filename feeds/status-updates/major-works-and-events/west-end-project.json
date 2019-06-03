@@ -1,0 +1,97 @@
+{
+ "pageTitle": "West End Project",
+ "keywords": "TfL",
+ "description": "Travel advice for West End Project",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "West End Project"
+  }
+ ],
+ "title": {
+  "title": "West End Project",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Until spring 2020, roads around the West End, especially Tottenham Court Road, Gower Street/Bloomsbury Street, and High Holborn, will be busy. This is because of building work for the West End Project.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The West End Project is being built by the London Borough of Camden. TfL have part-funded this scheme.",
+     "Tottenham Court Road was switched two-way traffic in April 2019.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "These are the main changes that affect drivers:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tottenham Court Road is now two-way\",\"The new southbound lane will be for buses and cyclists only at all times until spring 2020\",\"All traffic can continue to travel northbound until the entire scheme is completed in spring 2020\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Map - restrictions on Tottenham Court Road throughout the project\",\"url\":\"/cdn/static/cms/documents/tottenham-court-road-restrictions-to-spring-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 250KB\",\"image\":{}},{\"title\":\"Permanent changes on Tottenham Court Road from spring 2020\",\"url\":\"/cdn/static/cms/documents/moving-around-tottenham-court-road-from-spring-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 312KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are more details and maps on \u003ca href=\"https://www3.camden.gov.uk/westendproject/maps\"\u003eCamden's project website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "Key changes that affect cyclists from 20 April 2019:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tottenham Court Road is now two-way\",\"The new southbound lane is for buses and cyclists only at all times until spring 2020\",\"All traffic can continue to travel northbound until the entire scheme is completed in spring 2020\"]}",
+     "If you want to hire a Santander Cycle, you can check availability  using the \u003ca href=\"/modes/cycling/santander-cycles/find-a-docking-station\"\u003eonline docking station map\u003c/a\u003e . Follow \u003ca href=\"https://twitter.com/SantanderCycles\"\u003e@SantanderCycles\u003c/a\u003e for news and customer service.",
+     "Download the Santander Cycles app from the \u003ca href=\"https://itunes.apple.com/gb/app/santander-cycles/id974792287?mt=8\"\u003eApp Store\u003c/a\u003e or \u003ca href=\"https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire\u0026hl=en_GB\"\u003eGoogle Play\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "Both northbound and southbound buses now use Tottenham Court Road. Buses no longer run along Gower Street/Bloomsbury Street. This is a permanent change.",
+     "Find out how your bus may be affected on our \u003ca href=\"https://tfl.gov.uk/bus/status\"\u003eBus status updates map\u003c/a\u003e .",
+     "Follow \u003ca href=\"https://twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New bus arrangements from 20 April 2019\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"New bus arrangements from 20 April 2019\",\"url\":\"/cdn/static/cms/documents/tottenham-court-road-buses.pdf\",\"icon\":\"download\",\"size\":\"PDF 82KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pedestrians\"}",
+     "Tottenham Court Road is now two-way - take care crossing.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Freight, deliveries and servicing\"}",
+     "Loading bays will need to be suspended at times for works. These temporary changes will be clearly signed.",
+     "The project team is continuing to work with local businesses to provide advice and to ensure that you can make and receive deliveries during construction.",
+     "If you make or receive deliveries in the area, talk to your customers and suppliers now to see if there are changes you need to make to your deliveries or collections, such as moving them to outside the restricted periods. Find out more about \u003ca href=\"/info-for/deliveries-in-london/index\"\u003echanging your deliveries\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the scheme\"}",
+     "Work will be completed in spring 2020.",
+     "Find out more about the scheme on Camden's \u003ca href=\"http://www3.camden.gov.uk/westendproject\"\u003eproject webpage\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

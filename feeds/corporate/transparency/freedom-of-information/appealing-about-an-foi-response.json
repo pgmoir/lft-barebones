@@ -1,0 +1,131 @@
+{
+ "pageTitle": "Appealing about an FOI response",
+ "keywords": "TfL",
+ "description": "If we have turned down your request or withheld some of the information you wanted, you can ask for an internal review",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transparency",
+   "url": "/corporate/transparency/index"
+  },
+  {
+   "title": "Freedom of Information",
+   "url": "/corporate/transparency/freedom-of-information"
+  },
+  {
+   "title": "Appealing about an FOI response"
+  }
+ ],
+ "title": {
+  "title": "Appealing about an FOI response",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We try to fulfil our responsibilities under the Freedom of Information Act and take complaints about information requests seriously. If you are unhappy about our handling of your information request you can ask for an internal review.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The internal review process\"}",
+     "An internal review is an opportunity for us to consider your original request for information afresh. It is carried out by a panel drawn from TfL General Counsel, who will review the chronology, a summary of the facts and any supporting documentation.",
+     "This may trigger involvement of other internal stakeholders. We may also discuss your case with those who handled your original request.",
+     "You can make your complaint in writing by letter or email to:",
+     "Information Access Team\u003cbr /\u003eInformation Governance\u003cbr /\u003eTransport for London\u003cbr /\u003eRoom 291, 2nd Floor Petty France\u003cbr /\u003eLondon SW1H 0BD",
+     "Email: \u003ca href=\"mailto:foi@tfl.gov.uk\"\u003efoi@tfl.gov.uk\u003c/a\u003e ",
+     "We will acknowledge your complaint within five working days and where possible we will respond within 20 working days.\u003cbr /\u003e",
+     "We will let you know the outcome of the review. If you are still unhappy, you can appeal to the Information Commissioner's Office.",
+     "Read TfL's Internal Review Procedure in full",
+     "PDF 213KB",
+     "This procedure is for complaints about information requests, ie requests that fall under the Freedom of Information Act, Environmental Information Regulations, INSPIRE Regulations or Re-use of Public Sector Information Regulations.",
+     "For any other complaints, for example about a TfL service, please visit \u003ca href=\"https://custserv.tfl.gov.uk/icss_csip/resetSession2.do?Standalone=yes\u0026showmodulename=false\"\u003eHelp \u0026 contact\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Transparency",
+    "links": [
+     {
+      "title": "Audit of accounts",
+      "url": "/corporate/transparency/audit-of-accounts---notice-of-public-rights",
+      "image": {}
+     },
+     {
+      "title": "Freedom of Information",
+      "url": "/corporate/transparency/freedom-of-information",
+      "image": {}
+     },
+     {
+      "title": "Search",
+      "url": "/corporate/transparency/freedom-of-information/search",
+      "image": {}
+     },
+     {
+      "title": "Make a request",
+      "url": "/corporate/transparency/freedom-of-information/foi-make-request",
+      "image": {}
+     },
+     {
+      "title": "FOI exemptions \u0026 charges",
+      "url": "/corporate/transparency/freedom-of-information/foi-exemptions-and-charges",
+      "image": {}
+     },
+     {
+      "title": "Appealing about an FOI response",
+      "url": "/corporate/transparency/freedom-of-information/appealing-about-an-foi-response",
+      "image": {}
+     },
+     {
+      "title": "FOI performance",
+      "url": "/corporate/transparency/freedom-of-information/foi-performance",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Transparency",
+     "url": "/corporate/transparency/freedom-of-information/foi-performance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

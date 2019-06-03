@@ -1,0 +1,189 @@
+{
+ "pageTitle": "Investment management and principles",
+ "keywords": "TfL",
+ "description": "Companies that managed investments on behalf of the TfL Pension Fund.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Fund management",
+   "url": "/pensions/fund-management"
+  },
+  {
+   "title": "Investment management and principles"
+  }
+ ],
+ "title": {
+  "title": "Investment management and principles",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The following companies managed investments on behalf of the TfL Pension Fund as at 31 March 2018.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\"AQR Capital Partners LLC\",\"Anchorage Capital Partners Offshore Limited\",\"Ardevora Asset Management LLP\",\"Blackrock Investment Management (UK) Limited\",\"Blue Mountain Credit Alternatives Fund Limited\",\"Brevan Howard Asset Management LLP\",\"Bridgewater Associates, Inc\",\"Burgundy Asset Management\",\"CBRE Global Collective Investors UK Limited\",\"Colonial First State Global Asset Management\",\"Coronation International Limited\",\"Credit Suisse IRIS ALHC Fund Limited\",\"Goldman Sachs Asset Management\",\"IFC Asset Management Company LLC\",\"Industry Funds Management Pty Limited\",\"JO Hambro Capital Management Limited\",\"Neuberger Berman Alternatives Advisers LLC\",\"Nomura Asset Management UK Limited\",\"Oak Hill Advisors LP\",\"Paradice Investment Management Pty Limited\",\"Partners Group (UK) Limited\",\"Pzena Investment Management LLC\",\"Russell Implementation Services Limited\",\"Semperian PPP Investment Partners Holdings Ltd\",\"Siguler Guff \\u0026 Company LP\",\"Stonepeak Infrastructure Fund LP\",\"Veritas Asset Management LLP\",\"Wellington Management Company LLP\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Statement of Investment Principles\"}",
+     "The Trustees' Statement of Investment Principles aims to ensure the Fund's assets are carefully managed. It specifies:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The kind of investments to be held\",\"Expected returns on investments\",\"The balance between investments\",\"The level of risk undertaken\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Statement of Investment Principles\",\"url\":\"/cdn/static/cms/documents/statement-of-investment-principles-march-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.41MB\",\"image\":{}},{\"title\":\"Extract of the Law Commission's guidance for pension trustees' duties when setting an investment strategy\",\"url\":\"/cdn/static/cms/documents/law-commission-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 263KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Trustee board",
+      "url": "/pensions/fund-management/trustee-board",
+      "image": {}
+     },
+     {
+      "title": "Committees",
+      "url": "/pensions/fund-management/committees",
+      "image": {}
+     },
+     {
+      "title": "Pension Consultative Council",
+      "url": "/pensions/fund-management/pension-consultative-council",
+      "image": {}
+     },
+     {
+      "title": "Pensioners' Forum",
+      "url": "/pensions/fund-management/pensioners-forum",
+      "image": {}
+     },
+     {
+      "title": "Pensions working group",
+      "url": "/pensions/fund-management/pensions-working-group",
+      "image": {}
+     },
+     {
+      "title": "Annual members meeting",
+      "url": "/pensions/fund-management/annual-meeting",
+      "image": {}
+     },
+     {
+      "title": "Investment management and principles",
+      "url": "/pensions/fund-management/investment-management-and-principles",
+      "image": {}
+     },
+     {
+      "title": "Performance",
+      "url": "/pensions/fund-management/performance",
+      "image": {}
+     },
+     {
+      "title": "Accounts",
+      "url": "/pensions/fund-management/accounts",
+      "image": {}
+     },
+     {
+      "title": "Associations",
+      "url": "/pensions/fund-management/associations",
+      "image": {}
+     },
+     {
+      "title": "Transport Benevolent Fund",
+      "url": "/pensions/fund-management/transport-benevolent-fund",
+      "image": {}
+     },
+     {
+      "title": "Staff Welfare Fund",
+      "url": "/pensions/fund-management/staff-welfare-fund",
+      "image": {}
+     },
+     {
+      "title": "Documents",
+      "url": "/pensions/fund-management/documents",
+      "image": {}
+     },
+     {
+      "title": "Actuarial Valuation",
+      "url": "/pensions/fund-management/actuarial-valuation",
+      "image": {}
+     },
+     {
+      "title": "Archive",
+      "url": "/pensions/fund-management/archive",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

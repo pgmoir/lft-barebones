@@ -1,0 +1,95 @@
+{
+ "pageTitle": "Check your vehicle",
+ "keywords": "Driving,LEZ,Low Emission Zone ,TfL",
+ "description": "Check that your vehicle meets the required emissions standards",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Check your vehicle"
+  }
+ ],
+ "title": {
+  "title": "Check your vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out if your vehicle meets the emissions standards required for the Ultra Low Emission Zone (ULEZ) and/or the Low Emission Zone (LEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ\\u003c/a\\u003e : covers all vehicles driven within the central London area\",\" \\u003ca href=\\\"/modes/driving/low-emission-zone\\\"\\u003eLEZ\\u003c/a\\u003e : only covers larger vans, minibuses, lorries, buses and coaches as well as other specialist vehicles driven within most of Greater London\"]}",
+     "Both schemes operate 24 hours a day, every day of the year - charging days run from midnight to midnight.",
+     "You will need to pay charges if your vehicle doesn't meet the emissions standards of these schemes. You might also need to pay the \u003ca href=\"/modes/driving/congestion-charge\"\u003eCongestion Charge\u003c/a\u003e .",
+     "This checker doesn't yet reflect \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003echanges we're making to LEZ standards in 2020\u003c/a\u003e .",
+     "Be careful not to mix up the letters '\u003cstrong\u003eI\u003c/strong\u003e ' and '\u003cstrong\u003eO\u003c/strong\u003e ' with the numbers '\u003cstrong\u003e1\u003c/strong\u003e ' and '\u003cstrong\u003e0\u003c/strong\u003e '.",
+     "Choose the correct country of registration. You risk getting a penalty if you pick the wrong one.",
+     "\u003cstrong\u003eDaily charge:\u003c/strong\u003e £200",
+     "\u003cstrong\u003eWhy: \u003c/strong\u003e The vehicle’s details as registered with us show it doesn’t meet the required LEZ standards OR it's registered outside the UK and we don't hold any details for it.",
+     "\u003cstrong\u003eThe LEZ is different from the ULEZ - it doesn't apply to cars and motorbikes.\u003c/strong\u003e ",
+     "If you believe your vehicle does meet the required standards, \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e . Until we confirm your vehicle is registered you need to pay the £200 daily LEZ charge if you drive it within the zone.",
+     "\u003cstrong\u003eDaily charge:\u003c/strong\u003e £100",
+     "\u003cstrong\u003eWhy:\u003c/strong\u003e The vehicle's details as registered with us show it doesn't meet the required LEZ standards.",
+     "\u003cstrong\u003eThe LEZ is different from the ULEZ - it doesn't apply to cars and motorbikes.\u003c/strong\u003e ",
+     "If you believe your vehicle does meet the required standards, \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e . Until we confirm your vehicle is registered you need to pay the daily LEZ charge if you drive it within the zone.",
+     "\u003cstrong\u003eThe LEZ is different from the ULEZ - it doesn't apply to cars and motorbikes.\u003c/strong\u003e This vehicle either meets the required emission standards, is exempt from or not affected by the scheme, or is subject to a 100% discount.",
+     "\u003cstrong\u003eDaily charge:\u003c/strong\u003e £12.50",
+     "\u003cstrong\u003eWhy:\u003c/strong\u003e This could be because the vehicle’s details as registered with us show it doesn’t meet the required ULEZ standards OR it's registered outside the UK and we don't hold any details for it.",
+     "If you believe your vehicle meets the standards:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.epcplc.com/ulez/login\\\"\\u003eRegister a non-UK vehicle\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/compliance-registration/before-you-start\\\"\\u003eRegister a UK vehicle\\u003c/a\\u003e \"]}",
+     "Until we confirm that your vehicle meets the emissions standards, you need to pay the daily ULEZ charge whenever you drive within the zone.",
+     "The checker ONLY checks the emissions standard of the vehicle. To check if a discount or exemption applies to your vehicle - and whether you need to pay the charge - go to \u003ca href=\"/modes/driving/pay-to-drive-in-london\"\u003ePay to drive in London\u003c/a\u003e .",
+     "\u003cstrong\u003eDaily charge:\u003c/strong\u003e £100",
+     "\u003cstrong\u003eWhy:\u003c/strong\u003e The vehicle's details as registered with us show it doesn't meet the required ULEZ standards.",
+     "If you believe your vehicle meets the standards:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.epcplc.com/ulez/login\\\"\\u003eRegister a non-UK vehicle\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/compliance-registration/before-you-start\\\"\\u003eRegister a UK vehicle\\u003c/a\\u003e \"]}",
+     "Until we confirm that your vehicle meets the emissions standards, you need to pay the daily ULEZ charge whenever you drive within the zone.",
+     "The checker ONLY checks the emissions standard of the vehicle. To check if a discount or exemption applies to your vehicle - and whether you need to pay the charge - go to \u003ca href=\"/modes/driving/pay-to-drive-in-london\"\u003ePay to drive in London\u003c/a\u003e .",
+     "This vehicle meets the emission standards for ULEZ so you don't have to pay this charge when driving within the zone.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the ULEZ.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "A 100% ULEZ discount applies to this vehicle. You don't have to pay the charge to drive within the zone.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Check your zone\"}",
+     "If you're not sure where the zones are, use our \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-where-and-when\"target=\"_blank\"\u003eULEZ zone map\u003c/a\u003e and \u003ca href=\"/modes/driving/low-emission-zone/about-the-lez\"target=\"_blank\"\u003eLEZ zone map\u003c/a\u003e to check if you're driving into or within any of the zones.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Options\"}",
+     "If you're thinking of buying a new or second-hand car, look up its emissions in real-world driving conditions on the Mayor's \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/cleaning-londons-vehicles/cleaner-vehicle-checker\"\u003eCleaner Vehicle Checker\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

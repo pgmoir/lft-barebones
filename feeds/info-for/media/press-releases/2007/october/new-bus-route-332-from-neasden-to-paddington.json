@@ -1,0 +1,74 @@
+{
+ "pageTitle": "New bus route 332 from Neasden to Paddington",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "New bus route 332 from Neasden to Paddington",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Bus passengers will benefit from a new bus service - route 332 - from Saturday 13 October."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The new route will run between Brent Park Tesco in Neasden and Paddington.",
+     "Route 316, which currently runs from Neasden to North Kensington, will change on the same day.",
+     "Route 316 currently operates between Brent Park Tesco and St. Charles Hospital in North Kensington.",
+     "From 13 October, it will be shortened to run between Cricklewood Broadway and North Kensington.",
+     "Passengers wishing to continue their journey towards Neasden will be able to do so using the new route 332, which replaces the northern end of route 316.",
+     "Route 332 will operate with double deck buses.",
+     "Bob Blitz, Network Planning Manager for London Buses, said: \"The introduction of the new 332 service will create new links from Neasden, Cricklewood and Kilburn to the Paddington development area and Paddington Station.",
+     "\"Passengers will also benefit from an overall increase in frequencies on services between Cricklewood and Kilburn.\"",
+     "The change comes following a review of the existing service.",
+     " \u003ca href=\"/assets/downloads/332-316.pdf\"\u003eDownload a map of the route (PDF 50KB).\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"All London's buses have in-vehicle CCTV and all except the Heritage Routemasters are accessible to wheelchair users\",\"With more than 8000 buses on approximately 700 routes the London bus network has seen usage increase by 45 per cent since 1999/2000\",\"The 332 will operate between Brent Park Tesco and Paddington via Neasden, Staples Corner, Cricklewood, Kilburn, Maida Vale and Edgware Road, then via Harrow Road and Eastbourne Terrace, returning via Praed Street to Edgware Road (northbound)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The frequencies for the new 332 service are as follows:ul\",\"The 316 frequencies remain unchanged:ul\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

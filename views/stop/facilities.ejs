@@ -1,0 +1,24 @@
+<% if (facilities) { %>
+  <div class="mb-3">
+    <h3 class="h5 p-3 bg-basic mb-0 border">Station facilities</h3>
+    <div class="row mx-0 pt-3 border border-top-0">
+      <div class="col-12">
+        <div class="row">
+        <% for (let feature of facilities.features) { %>
+          <div class="col-12 col-sm-6">
+            <div class="d-flex align-items-center p-1">
+              <div class="svgfacility svgicon-<%= feature.icon %> flex-shrink-1" aria-hidden="true"></div>
+              <div class="w-100 pl-6 my-4"><%= feature.title %></div>
+            </div>
+          </div>
+        <% } %>
+        </div>
+        <div class="dash-separator"></div>
+        <h4 class="h5">Address</h4>
+        <p><% for (let line of facilities.address) { %>
+          <%= line %><br />
+        <% } %></p>
+      </div>
+    </div>
+  </div>
+<% } %>

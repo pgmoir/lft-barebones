@@ -1,0 +1,57 @@
+{
+ "pageTitle": "Find vehicle",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Find vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, your vehicle is exempt from the Congestion Charge. If you believe this is incorrect you can still continue.",
+     "\u003cstrong\u003eThis exemption could change at any time - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from London Road User Charging. You do not have to pay the Congestion Charge or the ULEZ charge.",
+     "If you still want to register for an Auto Pay service you can continue.",
+     "\u003cstrong\u003eThis may change at any time - always check to see if you need to pay to drive within the zones.\u003c/strong\u003e ",
+     "\u003cstrong\u003eUK Registered: \u003c/strong\u003e If your vehicle's make and model details have not been returned, make sure you entered the number plate correctly before continuing.",
+     "\u003cstrong\u003eRegistered outside the United Kingdom: \u003c/strong\u003e We are unable to display the make, model and colour information. Confirm this is the correct vehicle to continue.",
+     "You can save up to 10 vehicles to your account to speed up Congestion Charge payments. If you want to save this vehicle you must remove a saved vehicle in your account settings.",
+     "You can't add this vehicle - please call us on 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "This vehicle is already on an Auto Pay service and can't be added again. If it is not on your service please call 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What if my vehicle details are incorrect?\"}",
+     "If the number plate (Vehicle Registration Mark) is correct but the description shown is wrong, you can still continue.",
+     "Vehicle information is provided to TfL by the DVLA so you'll need to let the DVLA know if your details are wrong or need to be updated."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

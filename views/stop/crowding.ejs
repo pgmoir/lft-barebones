@@ -1,0 +1,19 @@
+<% if (crowding) { %>
+  <div class="mb-3">
+    <h3 class="h5 p-3 bg-basic mb-0 border">Busiest times at this station</h3>
+    <div class="row mx-0 pt-3 border border-top-0">
+      <div class="col-12">
+        <h4 class="h5">diagram</h4>
+      </div>
+    </div>
+    <div class="row mx-0 border border-top-0">
+      <div class="col-12 p-0">
+        <%- include('../includes/listgroup', { card: { style: 'nocardsquare', links: [
+          { title: 'Earlier time Later' },
+          { title: 'Represents typical weekday journeys to help you decide how to travel' },
+          { title: 'More about busiest times', url: '/corporate/about-tfl/how-we-work/planning-for-the-future/improving-station-information', icon: 'internal' }
+        ]}}) %>
+      </div>
+    </div>
+  </div>
+<% } %>

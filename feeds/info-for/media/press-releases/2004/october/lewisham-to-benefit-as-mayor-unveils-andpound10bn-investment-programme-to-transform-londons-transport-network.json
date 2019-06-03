@@ -1,0 +1,72 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Lewisham to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Lewisham is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Lewisham and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Lewisham on the move.\"",
+     "The main benefits for Lewisham included in TfL's 5 Year Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the East London Line Project will be extended south to Crystal Palace and West Croydon and north to Dalston Junction by 2010 in good time for the Olympic Games;\",\"the planned upgrade to 3-car trains to be introduced by late 2009 on the DLR between Bank and Lewisham, increasing peak capacity on this link by 30% and helping to meet future demand.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Lewisham's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Lewisham by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor, fully accessible buses on 42 routes, increased frequencies on 26 routes, five new routes introduced (343, 356, 363, 436, 453) and five new night bus routes (N63, N75, N89, N108 and N453);\",\"piloting of 'metro-style' rail services on four key south London routes, one of which is the London Bridge to Dartford route, via Greenwich providing a minimum of four trains per hour (weekdays), increased trains during the evening period and improved passenger information, station facilities and security;\",\"funding for additional Metropolitan Police Officers and Community Support Officers to reduce crime and fear of crime, improve enforcement and tackle taxi touting;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with Lewisham, a range of schemes are being introduced during 2004/05, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the provision of a cycle track to form part of Route 2 on the London Cycle Network along Long Pond Road in Blackheath;\",\"a scheme in Forster Park to encourage both children and adults to take up cycling and;\",\"a controlled Parking Zone at Rushey Green East and West Catford.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

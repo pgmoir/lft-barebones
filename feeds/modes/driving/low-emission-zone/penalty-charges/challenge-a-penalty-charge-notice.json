@@ -1,0 +1,330 @@
+{
+ "pageTitle": "Challenge a Penalty Charge Notice",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Penalty charges for the LEZ",
+   "url": "/modes/driving/low-emission-zone/penalty-charges"
+  },
+  {
+   "title": "Challenge a Penalty Charge Notice"
+  }
+ ],
+ "title": {
+  "title": "Challenge a Penalty Charge Notice",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you want to challenge a Penalty Charge Notice (PCN) then you have 28 days from the date of service of the PCN to get your representation to us.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Make a representation\"}",
+     "To challenge a PCN you need to make a representation. This forms part of a legal process. You can either make your representation online or in writing.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The registered keeper\"}",
+     "PCNs are normally sent to the registered keeper of a vehicle as per the records of the \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency\"\u003eDVLA\u003c/a\u003e or the \u003ca href=\"https://www.nidirect.gov.uk/information-and-services/motoring\"\u003eDVA\u003c/a\u003e . They may also be issued to the nominated hirer or lease of a vehicle if a valid hire agreement is provided by the registered keeper.",
+     "The person or organisation named on a PCN must make the representation, even if they were not the driver. Note:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The registered keeper can make a representation on behalf of a third party\",\"We will not consider a representation from a third party unless the registered keeper provides us with written authorisation\",\"If you have been passed a PCN by the registered keeper and wish to challenge it, have them write in on your behalf or provide you with written authorisation to submit with your representation\",\"If the registered keeper is a company and you are making a representation on behalf of the company, please indicate your position and authorisation within the company when making your representation\",\"We will always advise the registered keeper of the outcome of any investigation\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Timing your representation\"}",
+     "You have 28 days from the date of service of the PCN to either pay the penalty or challenge the PCN by making a representation. If you pay within 14 days of the date of service, you'll receive a 50% discount and the amount payable will be £500 rather than £1000.",
+     "We do not have to consider any representations received outside the 28-day period.",
+     "If you are prevented from sending us your representation within 28 days, we will use our discretion and may still consider it. You must provide supporting evidence to show what delayed you (eg proof of illness or holiday).",
+     "Once we receive your representation, the PCN will be frozen until we have investigated it and written back to you.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Representation in writing\"}",
+     "To make your representation in writing complete the representation section of the PCN. Please remember to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"If applicable, indicate on which ground you wish to make the representation\",\"Use the space provided to explain relevant details. If you need more space please attach additional sheets of paper, remembering to write the PCN number on each sheet\",\"Enclose supporting evidence\",\"Sign and date the representation\",\"Ensure it is received within 28 days of the date of service of the PCN\"]}",
+     "Send it to:",
+     "Low Emission Zone\u003cbr /\u003ePO Box 342\u003cbr /\u003eDarlington DL1 9QB",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our response\"}",
+     "When we have considered your representation, we will write back to you with our response. You will be sent one of three things:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"A request for further evidence\"}",
+     "This means that we need more evidence from you to help us consider the points raised in your representation. The PCN will remain frozen for a number of days to give you enough time to return the information requested.",
+     "If the required evidence is not received you will be issued with a notice of rejection. If the required evidence is received you will be issued with a notice of acceptance or a notice of rejection depending on whether we consider the evidence to be sufficient.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Notice of acceptance\"}",
+     "This means you are no longer liable for the PCN. Read the notice of acceptance carefully and follow the advice given. It will explain why you received the PCN and advise you on how to avoid PCNs in future.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Notice of rejection\"}",
+     "This means we have assessed your representation against accepted grounds and considered any mitigating circumstances, and believe you are still liable for the PCN.",
+     "Read the notice of rejection carefully and follow the advice given. We'll tell you how much you must pay and how to pay. Not paying will mean an increase in the amount you owe and enforcement action continuing.",
+     "We will tell you about your right to appeal to an independent adjudicator. We may ask you for additional information. If this is the case then follow the advice given and return the information to us within the time stipulated.",
+     "\u003cstrong\u003eDo not do nothing.\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Grounds for representation\"}",
+     "A representation may be made on one of six grounds. If none of these applies to your situation, you can still state the reasons why you believe you are not liable for a PCN.",
+     "Each ground for representation is defined by parliament in the governing regulations. The information we provide about each ground, the evidence you need to provide and the circumstances that are applicable are for guidance only - they do not affect your right to make a representation.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"I was not the keeper at the time of the contravention e.g. I have never been the keeper, I ceased to be the keeper, I became the keeper after the date of contravention.\"}",
+     "The Regulations define this ground as:",
+     "\u003cstrong\u003eThat the recipient\u003c/strong\u003e ",
+     "The person liable for a Penalty Charge Notice (PCN) is the registered keeper of the vehicle at the time of the contravention as recorded by the Driver Vehicle Licensing Agency (DVLA) or the Driver and Vehicle Agency Northern Ireland (DVA). TfL therefore contact the DVLA/DVA to identify the name and address of the registered keeper on the day of the contravention so that a PCN can be issued to that person.",
+     "As there is a legal requirement for the DVLA/DVA to be notified of any change in the details of the registered keeper, including name and address, any failure to do so may mean that you are still liable for the charges and penalty charges.",
+     "If you have received a PCN for a vehicle that you have ceased to be the registered keeper of/sold and you have not told the DVLA/DVA of the change of keeper prior to the contravention again you may remain liable for the PCN.",
+     "However, you can still make a Representation and should provide as much evidence as possible to support your Representation. This may include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A copy of the V5C notification sent to the DVLA/DVA detailing the name and address of the new keeper and confirmation of when it was sent to the DVLA/DVA,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"A bill of sale showing the date of sale and the name and address of the new keeper,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"A part-exchange notice from a garage, showing their name and address, that fully identifies the vehicle and when it was taken in part exchange,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"An Invoice showing the relevant vehicle registration, its date of sale and the full name and address including post code) of the person/garage it was sold to,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"A confirmation letter from the DVLA/DVA stating they accept you are not the keeper of the vehicle and the letter includes the dates you notified them and the date they accept when the change of keeper to place,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"If your vehicle was returned/repossessed under a finance agreement, documentary evidence from the finance company that they have received your vehicle and confirming the date the vehicle was removed/repossessed\"]}",
+     "If you purchased the vehicle or believe you became liable after the date of the contravention you should provide as much evidence as possible to support your Representation. This may include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A copy of your V5C notification sent to you as the new keeper from the DVLA/DVA,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"An invoice showing the relevant vehicle registration with its date of sale to you and the full name address (including post code) of the person/garage who sold you the vehicle, and/or A bill of sale showing the date of sale and the name and address of the previous keeper,\\u003cstrong\\u003eand/or\\u003c/strong\\u003e \",\"A confirmation letter from the DVLA/DVA stating they accept you are the new keeper of the vehicle also confirming the date they accept that the change of keeper took place\"]}",
+     "If you believe that the contravening vehicle in the image on the PCN is not your vehicle your Representation to TfL will need to be supported by as much evidence as possible. This may include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Proof the vehicle was at a different location at the time of the contravention using a 'Tracker report', statements from colleagues or neighbours asserting the vehicle was at a different location\",\"Photos of your vehicle (front, back and both sides) that show a difference in the vehicle, e.g. number plate/distinguishing marks\",\"Proof that a crime has been previously reported to the Police regarding the vehicle for example if stolen or if a vehicle is breaking the law by displaying the same number plate (referred to as 'cloned' or 'ringed' vehicles). This should include the name and telephone number of the Police Station it was reported to along with the relevant incident or crime reference number\",\"Confirmation from another enforcement agency, e.g. police or local authority outlining that they have confirmed the vehicle is cloned/ringed for TfL to consider\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"I had paid the LEZ daily Charge due for the vehicle used on that date, at the time and in the manner required by the charging scheme.\"}",
+     "The Regulations define the ground as:",
+     "\u003cstrong\u003e\"That the charge payable for the use or keeping of the vehicle on a road on the occasion in question was paid at the time and manner required by the charging scheme.\"\u003c/strong\u003e ",
+     "This means that the LEZ daily charge must be paid for the actual vehicle that is used in the Low Emission Zone and for the actual date. You must ensure that the number plate that has been paid for matches that of the vehicle used.",
+     "If making a Representation on this ground then you need to prove that you have paid the charge for the correct vehicle registration number and correct date (the contravention date).",
+     "{\"template\":\"bulletlist\",\"items\":[\"The easiest way to do this is to provide your receipt showing all the details (when purchasing the charge we always offer a receipt)\",\"Check the number plate matches that shown on the PCN\",\"Check that the date of travel matches that shown on the PCN\",\"If either of these details do not match then this is why you have received the PCN\",\"If you notice such a mistake then you can still make a Representation but it may only be accepted at our discretion\",\"If you have made a mistake when purchasing the charge please try not to make the same mistake again\",\"If you do not have your receipt then you could demonstrate that you have paid if you have used a credit or debit card. Provide a copy of your credit/debit card statement, date of payment and the credit/debit card number and we will try to trace your payment\",\"If you have neither of these, then you may still make a Representation but it will be very hard for you to prove that the PCN was issued incorrectly; we will of course check all our records thoroughly\"]}",
+     "Most people believe that they had paid the charge but there are a number of common errors which include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Paying for the incorrect number plate. As you may have discovered you need to pay the charge for the number plate that is held by the DVLA/DVA and shown on your vehicle\",\"The number 0 (zero) is often confused with the alpha character O (Oscar) and the number 1 (one) is often confused with the alpha character I (Indigo)\",\"Characters are often transposed such as switching the first three letters with the last three e.g. actual number plate is ABC123 but the paid for number plate is 123ABC\",\"Paying for the wrong date. Always double check the date you want to pay for especially if you are paying in advance\",\"If paying through the TfL website, make sure you enter the details correctly and double check the details. People have been known to enter their car make into the data fields\",\"If paying via the call centre use the phonetic alphabet (i.e. A=Alpha, B=Bravo, C=Charlie...). Make sure the staff member uses the phonetic alphabet, get them to check the make and model of the vehicle, the date of travel and request a receipt. Make sure you make a note of the receipt number in case the receipt should get mislaid\",\"Believed a Congestion Charge payment also covered the vehicle for the Low Emission Zone, it must be noted the schemes are separate and a separate charge is required for each.\"]}",
+     "If you have made an error then we may use our discretion but this is not guaranteed and please do not repeat the error in the future.",
+     "\u003cstrong\u003eRemember:\u003c/strong\u003e You need to provide proof that the charge was paid.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"No penalty charge is payable under the scheme e.g. I was not in the charging area during charging hours.\"}",
+     "The Regulations define this ground as:",
+     "\u003cstrong\u003e\"That no penalty charge is payable under the charging scheme.\"\u003c/strong\u003e ",
+     "There are a number of circumstances which may or may not be applicable (remember to provide as much supporting evidence as you can) including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Exemptions apply to certain vehicles and they will automatically be exempt from the Low Emission Zone (LEZ) if registered in Great Britain. These vehicles are:\\u003cbr /\\u003e\\u003cbr /\\u003e‐ vehicles designed and built for use on a variety of terrains such as agricultural and forestry tractors, mowing machines, agricultural and farm machinery, mobile cranes, and road and building machinery but which may be used on the road for limited purposes. This does not include vehicles that were designed and built as a road going vehicle but may have limited use on the roads or a role or purpose that may mean it is used primarily away from the roads but may occasionally be used on a road.\\u003cbr /\\u003e‐ Historic vehicles (built before 1 January 1973)\\u003cbr /\\u003e‐ Military vehicles\\u003cbr /\\u003e\",\"100% Showman's discount - The 100% showman's discount applies to very few vehicles and this discount is available for certain vehicles provided they are first registered with TfL. Until a vehicle is successfully registered you are required to pay the full daily charge. If you believe that your vehicle is registered, then please provide proof of the registration including the letter confirming the acceptance of your discount for the vehicle in question. Remember to check that the number plate has been recorded correctly\",\"Diverted into the Low Emission Zone - If you are diverted into the Low Emission Zone due to an incident, accident or road works, you should either follow the diversion route or leave as soon as possible. When making a Representation please give as many details as possible including the date, time and location of the diversion; details of the incident that may relate for instance an accident on the M25 and if you spoke with a police officer. We will check our records to confirm if there was a diversion. If, however, you enter the Low Emission Zone just to avoid traffic or got lost then these are not valid grounds for Representation\",\"Signs \\u0026 Boundary - The boundary to the Low Emission Zone is clearly marked with Department for Transport approved road traffic sign and if you pass this road traffic sign during charging hours you must pay the charge. The scheme applies 365 days a year 24 hours a day. Reasons such as you not seeing the signs or there not being enough signs will not be accepted by TfL. However, if you believe that your vehicle did not enter the Low Emission Zone or the signs are incorrect please provide full details with your Representation including the exact location and route you took\",\"Leaving the Low Emission Zone - This will not be accepted by TfL as a valid reason for non payment of the charge as the LEZ Scheme is in operation 365 days a year 7 days a week. The LEZ charge is payable if a vehicle travels within the Low Emission Zone during charging hours whether entering, exiting or just moving within the zone\",\"A vehicle entering the zone on one day, say just before midnight and leaving the next day say just after midnight is required to purchase 2 daily charges, a separate charge for each 24 hour period is required.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The vehicle was used or kept without my consent e.g. stolen.\"}",
+     "The Regulations define this ground as:",
+     "\u003cstrong\u003e\"That the vehicle had been used or kept or permitted to be used or kept on a road by a person who was in control of the vehicle without the consent of the registered keeper.\"\u003c/strong\u003e ",
+     "It is the registered keeper, or if a hire company has transferred liability, the nominated hirer, who is liable for the PCN. You cannot rely on the fact that you may not have been the driver, that an employee was driving the vehicle or that someone borrowed the car.",
+     "If your vehicle was stolen or you had not permitted the use of the vehicle at the time of the contravention, then please make a Representation. However, you will need to provide evidence to support your claim.",
+     "{\"template\":\"bulletlist\",\"items\":[\"E.g. if stolen please provide details of the crime reference number, and the name of the police station to which the crime was reported, the date the vehicle was stolen and if applicable, the date of recovery\",\"Details of any insurance claim\",\"Details regarding the use of the vehicle on that day/time of contravention\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The Penalty Charge exceeds the amount payable in the circumstances of the case.\"}",
+     "This may mean that you are being asked to pay a penalty charge amount above that detailed in the regulations. Reasons would include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The amount shown on the PCN is incorrect and does not reflect the penalty charge due for the vehicle as specified in the Low Emissions Zone Scheme Order - please provide a copy of the PCN\",\"You have already paid the PCN - please provide proof of payment. If you have a receipt please provide this or if not, confirmation that the money has been taken from your account. Remember you need to have allowed time for the payment to have been received\"]}",
+     "This does not mean that you disagree with the amount of the penalty charge or that a penalty charge has been imposed upon you.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"We are a vehicle hire firm and the vehicle was hired out under a hire agreement on the date of contravention and the hirer signed a statement of liability for any resulting penalty charges.\"}",
+     "The Regulations define this ground as:",
+     "\"That the recipient is a vehicle-hire firm and",
+     "If you are the registered keeper of the vehicle, and want to transfer liability to the hirer, liability can only be transferred if you can provide a hire agreement that shows you, as the registered keeper, have entered into an agreement with a hirer to hire the vehicle and the agreement fully meets the requirements of Section 66 of the Road Traffic Offenders Act 1988, and",
+     "{\"template\":\"bulletlist\",\"items\":[\"The vehicle is on hire for a period of less than 6 months, and\",\"The agreement has a signed statement of liability and\",\"The hire agreement has all the relevant information on it where relevant as defined in Schedule 2 of the Road Traffic (Owner Liability) Regulations 2000\"]}",
+     "A director of a hire company cannot transfer liability from themselves where they are the registered keeper of the vehicle using the 'company hire agreement'. This is because as a director you are a separate legal entity to the hire company and the hire agreement is not sufficient to transfer liability away from you.",
+     "Particulars required in a Hiring Agreement to comply with Section 66 of the Road Traffic Offenders Act 1988",
+     "A. Particulars of person signing statement of liability",
+     "If the person taking possession of the vehicle is not the same as the person by or on whose behalf the statement was signed, the full name of that person should also be supplied (if known).",
+     "B. Particulars of hiring agreements",
+     "* The requirement applies only to the vehicle hire firm's copy of the hiring agreement.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Mitigation and discretion\"}",
+     "If none of the six grounds are applicable, you can still make a\nrepresentation to us. If you explain your circumstances, we will\nconsider any mitigating circumstances and use our discretion in\nreaching\na decision.",
+     "We will not accept the following explanations:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Forgetting to pay the charge, without any mitigating circumstances for doing so\",\"Not knowing how to pay the charge\",\"Not meaning to enter the LEZ or entering it as a result of getting lost\",\"Disapproval of the LEZ scheme\",\"Not knowing about the LEZ\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Making an appeal\"}",
+     "You can only appeal to the independent adjudicator if you have made a representation in time which has been rejected by us. You will have been sent a notice of appeal form with the notice of rejection.",
+     " \u003ca href=\"http://www.londontribunals.gov.uk/\"\u003eLondon Tribunals\u003c/a\u003e is an independent body which acts as a adjudication service. Its decision is final and binding on both you and us.",
+     "If you disagree with our decision, you have the right to appeal.",
+     "{\"template\":\"bulletlist\",\"items\":[\"To appeal you need to complete the form sent with the notice of rejection\",\"Do not send this to us but to the address shown on the appeal form\",\"You may opt for either a personal or postal hearing\",\"Remember, you only have 28 days from the date of the notice of rejection to appeal to London Tribunals\",\"You need to provide all your evidence to the adjudicator and not us\",\"When we are notified of your appeal we will freeze the PCN. You should note however that you may be asked to pay the PCN at the full amount if you are unsuccessful. We will then also provide evidence to London Tribunals  and will provide you with a copy of this evidence\",\"The adjudicator will then make a decision looking at your evidence and our evidence pack. Adjudicators cannot consider mitigating circumstances or apply their discretion\",\"A copy of the adjudicator's decision will be sent to both you and us\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Appeal allowed\"}",
+     "This means that following consideration by the adjudicator the tribunal has found in your favour. This will mean that you are no longer liable for the PCN.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Appeal refused\"}",
+     "This means that following consideration by the adjudicator the tribunal has found in our favour. The adjudicator will have listed the reasons why and given direction as to the amount that is owed and how quickly this must be paid.",
+     "Find more on the \u003ca href=\"http://www.londontribunals.gov.uk/ruc/preparing-your-appeal\"\u003eappeals process on the London Tribunals website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Making a Statutory Declaration\"}",
+     "If your PCN remains unpaid after we have served the charge certificate, we may apply to the Traffic Enforcement Centre (TEC) and register the penalty as a debt. You will then be sent an Order for Recovery.",
+     "This is not a County Court Judgement and will not affect your credit rating.",
+     "You should either pay the increased amount or, if applicable, make a Statutory Declaration before the end of the period of 21 days beginning with the date upon which the County Court order is served.",
+     "Failure to take action will result in bailiffs being instructed.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Submitting a Statutory Declaration\"}",
+     "A Statutory Declaration is not a representation or a complaint. You may only make a Statutory Declaration if:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You did not receive the original PCN. This does not apply if you just forgot to pay it, mislaid it or forgot to make a representation\",\"You made a representation but did not receive a reply. This only applies if you made a representation within the 28-day period and did not receive a response from ourselves. It does not apply if you received a reply you disagreed with or we refused to consider your representation because it was late or from a third party\",\"You made an appeal to London Tribunals  and did not receive a reply\"]}",
+     "Remember:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Statutory Declaration is a sworn oath\",\"You must accurately complete the form enclosed with the Order for Recovery\",\"It must be signed before a Commissioner of Oaths (eg a solicitor), an officer of the County Court appointed by a judge to take affidavits, or a Justice of the Peace (at any Magistrates Court)\",\"There is no charge if your signature is witnessed at a County Court\",\"The Statutory Declaration is not a chance to complain or challenge the reason a PCN was issued\"]}",
+     "If the Statutory Declaration is not signed and witnessed, or if you do not make it on one of the three grounds, the Court may refuse it.",
+     "Do not send your Statutory Declaration to us but send it directly to the TEC. It deals with Statutory Declarations only and cannot advise you on other matters or take payments.",
+     "You have the right to challenge the registration of the debt by making an application to file a Statutory Declaration, Out of Time. When submitting such an application you must explain your reasons for not completing the Statutory Declaration within the original time limit.",
+     "These reasons may be accepted or rejected by the local authority. If they are rejected, then the case will be referred to a Senior Officer of the Court at the TEC who will determine whether the application should be granted or refused..",
+     "We will review each application submitted Out of Time and may challenge the application in the event that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"There is evidence that you knew of the PCN\",\"You have failed to update the DVLA with your correct address\",\"You are still resident at the address to which correspondence was sent\",\"There are other grounds under which the application can be challenged\"]}",
+     "For further guidance on submitting an application Out of Time, please refer to the TEC website or contact their helpdesk on 0300 123 1059.",
+     "If you have submitted an application to file a Statutory Declaration Out of Time, you should make the bailiff aware of your circumstances and provide them with evidence of the application.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Outcome\"}",
+     "If your Statutory Declaration is successful it does not mean that the PCN has been cancelled.",
+     "{\"template\":\"bulletlist\",\"items\":[\"If it was made on ground one, 'that you did not receive the PCN', we will reissue it and allow you to pay or make a representation. Do not ignore this PCN. (If you did not receive the original PCN because you changed address, ensure your Statutory Declaration includes details of your new address)\",\"If your Statutory Declaration was made on ground two or three, 'that you did not receive a response to either your representation or appeal', then we will refer the matter to an independent adjudicator. This does not automatically cancel the penalty charge. We will send you a copy of the evidence we are required to pass to the independent adjudicator and they will then contact you about the hearing and its outcome. If this appeal is refused you will be notified and must then pay the PCN\"]}",
+     "You do not have the automatic right to make a Statutory Declaration. Filing a false declaration knowingly and wilfully is a criminal offence under Section 5 of the Perjury Act 1911 and you may be imprisoned for up to two years or fined or both."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/low-emission-zone/penalty-charges/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/low-emission-zone/penalty-charges/challenge-a-penalty-charge-notice",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

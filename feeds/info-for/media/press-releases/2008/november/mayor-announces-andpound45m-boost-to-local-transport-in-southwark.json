@@ -1,0 +1,60 @@
+{
+ "description": "Increase in funding and greater freedom over spending for Southwark to cut road deaths, improve town centres and cycling facilities, tackle the school run and carry out essential min road maintenance.",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Mayor announces £4.5m boost to local transport in Southwark",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Increase in funding and greater freedom over spending for Southwark to cut road deaths, improve town centres and cycling facilities, tackle the school run and carry out essential min road maintenance."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "pageTitle": "Residents' discount",
+ "keywords": "TfL",
+ "description": "If you set up a London Road User Charging account you can also apply for a Resident's discount from the Congestion Charge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Residents' discount"
+  }
+ ],
+ "title": {
+  "title": "Residents' discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can apply for a 90% discount on the Congestion Charge if you qualify as a resident of the charging zone.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "Before we can process your application, you need to set up a London Road User Charging account.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Setting up a London Road User Charging account\"}",
+     "To create an account, click on 'Continue' and complete all required fields. You can also set up optional services, such as mobile phone text alerts, to help you manage your discount. (Sign in now if you already have an account.)",
+     "\u003cstrong\u003eBenefits of a London Road User Charging account\u003c/strong\u003e ",
+     "Having an account with us means you can:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Manage and easily renew your discount online\",\"View your discount vehicle history\",\"Make faster interactions with us by storing your contact, vehicle and payment details\",\"Allow up to 5 people access to your London Road User Charging account\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Applying for your residents' discount\"}",
+     "Once your London Road User Charging account has been created and you sign in, you will be automatically directed to complete your discount application.",
+     "You will need to complete this initial registration. When you have the documents needed, you can complete the full residents' discount application.",
+     "Once your application is approved and your discount is active, you'll be eligible for a refund of 90% of the charges you've paid since applying."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

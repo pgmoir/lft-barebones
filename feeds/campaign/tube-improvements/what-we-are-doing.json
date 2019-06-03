@@ -1,0 +1,135 @@
+{
+ "pageTitle": "What we're doing",
+ "keywords": "TfL",
+ "description": "A major upgrade of the Underground is underway, with some parts of the work already finished. Work to rebuild and renew the network will take about another decade.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving the Tube",
+   "url": "/campaign/tube-improvements"
+  },
+  {
+   "title": "What we're doing"
+  }
+ ],
+ "title": {
+  "title": "What we're doing",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Our programme to improve London Underground is the biggest in 60 years. Each Tube line is being overhauled."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Step-free access",
+    "texts": [
+     "Improving accessibility on the Tube and Overground by making more stations step-free"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/step-free-access",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Four Lines Modernisation",
+    "texts": [
+     "Transforming the Circle, District, Hammersmith \u0026 City and Metropolitan lines"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/four-lines-modernisation",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving the Tube",
+    "links": [
+     {
+      "title": "What we've done",
+      "url": "/campaign/tube-improvements/what-we-ve-done",
+      "image": {}
+     },
+     {
+      "title": "What we're doing",
+      "url": "/campaign/tube-improvements/what-we-are-doing",
+      "image": {}
+     },
+     {
+      "title": "Improving the trains",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-the-trains",
+      "image": {}
+     },
+     {
+      "title": "Improving customer service",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-customer-service",
+      "image": {}
+     },
+     {
+      "title": "Minimising disruption",
+      "url": "/campaign/tube-improvements/what-we-are-doing/minimising-disruption",
+      "image": {}
+     },
+     {
+      "title": "The Night Tube",
+      "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
+      "image": {}
+     },
+     {
+      "title": "Behind the scenes",
+      "url": "/campaign/tube-improvements/behind-the-scenes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Improving the Tube",
+     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

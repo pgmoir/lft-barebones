@@ -1,0 +1,136 @@
+{
+ "pageTitle": "Our property portfolio",
+ "keywords": "TfL",
+ "description": "From a spot in a Tube station for a pop-up shop to industrial space, our portfolio of properties available to rent is varied enough to meet your needs",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Our property portfolio"
+  }
+ ],
+ "title": {
+  "title": "Our property portfolio",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We take pride in being able to offer everything from a business space where you can test a new idea as a pop up, through to modern industrial spaces or central London offices. The size of our estate and our ability to offer properties across London with flexible leases means that we can work with you to fulfil your changing business needs."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-top ",
+    "title": "Available properties",
+    "texts": [
+     "Search our database of current business and retail spaces"
+    ],
+    "link": {
+     "url": "https://tfl.completelygroup.com/?\u0026intcmp=53763",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Retail",
+    "texts": [
+     "We can offer exceptional footfall in our available spaces"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/retail",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Arches and industrial",
+    "texts": [
+     "Learn more about our vibrant commercial and light industrial spaces"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/arches-and-industrial",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Offices",
+    "texts": [
+     "We have a large portfolio of diverse office space to suit different sizes of business"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/offices",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Pop ups, pitches and more",
+    "texts": [
+     "See the many exciting ways you can test ideas and work with us"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/other-opportunities",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Land enquiries",
+    "texts": [
+     "Let us know if you're interested in buying or leasing some of our land"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/land-enquiries",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

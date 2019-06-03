@@ -1,0 +1,174 @@
+{
+ "pageTitle": "Investors",
+ "keywords": "TfL",
+ "description": "Information for our investors includes ratings reports and details of our borrowing programme and funding sources",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Investors"
+  }
+ ],
+ "title": {
+  "title": "Investors",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We are the transport authority responsible for operating the Capital's integrated public transport network and managing London's main roads."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Credit highlights",
+    "texts": [
+     "Take a look at why investing in us is a prudent choice"
+    ],
+    "link": {
+     "url": "/info-for/investors/credit-highlights",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/big-ben-aerial_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Funding sources",
+    "texts": [
+     "Details of revenue streams and Government funding settlement."
+    ],
+    "link": {
+     "url": "/info-for/investors/funding-sources",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/nbfl-row-of-buses_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Ratings",
+    "texts": [
+     "See how we are rated by the three leading international rating agencies"
+    ],
+    "link": {
+     "url": "/info-for/investors/Ratings",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Borrowing programme",
+    "texts": [
+     "Our Medium Term Note and Commercial Paper programmes"
+    ],
+    "link": {
+     "url": "/info-for/investors/borrowing-programme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Reports",
+    "texts": [
+     "We publish a variety of financial reports and information for investors"
+    ],
+    "link": {
+     "url": "/info-for/investors/reports",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Announcements",
+    "texts": [
+     "Read our latest news and announcements"
+    ],
+    "link": {
+     "url": "/info-for/investors/announcements",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Investors",
+    "links": [
+     {
+      "title": "Credit highlights",
+      "url": "/info-for/investors/credit-highlights",
+      "image": {}
+     },
+     {
+      "title": "Ratings",
+      "url": "/info-for/investors/Ratings",
+      "image": {}
+     },
+     {
+      "title": "Funding sources",
+      "url": "/info-for/investors/funding-sources",
+      "image": {}
+     },
+     {
+      "title": "Borrowing programme",
+      "url": "/info-for/investors/borrowing-programme",
+      "image": {}
+     },
+     {
+      "title": "Announcements",
+      "url": "/info-for/investors/announcements",
+      "image": {}
+     },
+     {
+      "title": "Reports",
+      "url": "/info-for/investors/reports",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Investors",
+     "url": "/info-for/investors/reports",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

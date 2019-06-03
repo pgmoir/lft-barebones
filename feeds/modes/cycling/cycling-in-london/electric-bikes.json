@@ -1,0 +1,166 @@
+{
+ "pageTitle": "Electric bikes",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Guide to using electric bikes",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Cycling in London",
+   "url": "/modes/cycling/cycling-in-london"
+  },
+  {
+   "title": "Electric bikes"
+  }
+ ],
+ "title": {
+  "title": "Electric bikes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "An electric bike, or e-bike, is a standard pedal bike fitted with a battery and electric motor. Whether you want help to cycle further, negotiate the hills in your area, or just make your ride easier, e-bikes are a great way to get cycling."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-top ",
+    "title": "Find a free e-bike test ride",
+    "texts": [
+     "Visit the e-bikeslondon website to find your nearest place to try an e-bike for free"
+    ],
+    "link": {
+     "url": "http://ebikes.london/find-a-test-ride/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/e-bikes-main-landing-teaser.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "E-bike offers",
+    "texts": [
+     "Save money with retailer offers on the e-bikeslondon website"
+    ],
+    "link": {
+     "url": "http://ebikes.london/e-bike-offers/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/e-bike-web-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Is an e-bike for me?",
+    "texts": [
+     "Find out about the benefits of using an e-bike"
+    ],
+    "link": {
+     "url": "/modes/cycling/start-cycling/electric-bikes/is-an-e-bike-for-me",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/sarah-ebike-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "What is an e-bike?",
+    "texts": [
+     "Information on e-bikes and how they differ from standard bikes"
+    ],
+    "link": {
+     "url": "/modes/cycling/start-cycling/electric-bikes/what-is-an-e-bike",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Protect your bike from theft",
+    "texts": [
+     "Read our tips on keeping your e-bike safe and secure"
+    ],
+    "link": {
+     "url": "/modes/cycling/cycling-in-london/avoid-theft",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Cycle safety tips",
+    "texts": [
+     "Advice for cycling in London for regular and e-bike users"
+    ],
+    "link": {
+     "url": "/travel-information/safety/road-safety-advice/driving-and-cycling-safety",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Free Cycle Skills courses",
+      "url": "/modes/cycling/cycling-in-london/cycle-skills",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Find a social ride or club",
+      "url": "/campaign/tfl-and-british-cycling",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

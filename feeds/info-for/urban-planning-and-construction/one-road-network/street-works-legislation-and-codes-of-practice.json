@@ -1,0 +1,149 @@
+{
+ "pageTitle": "Street works legislation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "One Road Network",
+   "url": "/info-for/urban-planning-and-construction/one-road-network"
+  },
+  {
+   "title": "Street works legislation"
+  }
+ ],
+ "title": {
+  "title": "Street works legislation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"See the legislation and codes of practice used (or have been used) by the street works industry from the original Public Utilities Street Works Act (PUSWA), to the New Roads and Street Works Act (NRSWA) and the Traffic Management Act, to the latest changes to the various codes of practice.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The earliest piece of legislation to deal with public utility works in the highway was the Public Utilities and Street Works Act 1950. This described itself as:",
+     "\"An Act to enact uniform provisions for regulating relations as to apparatus in streets between authorities, bodies and persons having statutory powers to place and deal with apparatus therein, and those having the control or management of streets and others concerned in the exercise of such powers; to render such powers exercisable in land which abuts on a street and is destined for use for road purposes; to make further provision for regulating the closing or restriction of use of roads for the purposes of works and as to the use of alternative routes; and for purposes connected with the matters aforesaid.\"",
+     "It was repealed and replaced in 1991 by the New Roads and Street Works Act 1991 which is still the primary legislation in force today and is nearly always referred to by the acronym NRSWA.",
+     "NRSWA introduced the concept of the Street Works Register but at that time made no reference to it being an electronic register. In addition, there were several sections of the act that required further enabling legislation to allow their provisions to take force.",
+     "The first plans for an electronic street works register were made in the mid-1990s. Originally it was envisaged that there would be a single national register for the whole country and a specification was even written on this basis. It was then decided that computer systems powerful enough to handle this would be prohibitively expensive and the proposed system was changed to require each local authority and public utility to have their own street works system. This is the system that was eventually implemented and became known as EToN (Electronic Transfer of Notices).",
+     "Notices were sent from the utilities system via FTP (File Transfer Protocol) to the highway authorities FTP server where they were downloaded by the authority and imported into their local street works register. It should be remembered that these were still the early days of the internet and notices were generally sent and received by connecting to the internet using a dial-up modem at speeds as slow as 1200 baud (approximately 120 characters per second!). By 1 April 1999, it was a requirement that highway authorities had an NRSWA system in place to receive notices electronically and by 1 April 2001 undertakers were 'strongly recommended' to have their own systems in place.",
+     "Various modifications were made to EToN over the years with EToN 2 introducing the facility for the highway authority to send back comments electronically to the undertakers and EToN 3 introduced section 74 charges.",
+     "EToN 4 was a major step change in the transmission of notices in that it changed from the use of FTP and text files to using XML web services to transmit the notice information. This is still the method used in common with many other web sites and is considered a modern, reliable technology. It also included the ability to send links to documents stored on a public web site. EToN 5 extended the capabilities of EToN 4 to include permits schemes such as the London Permits Schem (LoPS).",
+     "EToN 6 has not yet been implemented but will be the last piece of the jigsaw, migrating inspection results from still being sent as text files via ftp to being sent as a web service transaction.",
+     "Alongside NRSWA, there were various enabling codes of practice giving detailed guidance as to how the various sections of the act were to be implmented in detail. The books were often referred to by the colour of their cover. These include",
+     "{\"template\":\"bulletlist\",\"items\":[\"Code of Practice for the Co-ordination of Street Works and Works for Road Purposes and Related Matters (Blue Book)\",\"Code of Practice for Inspections (Pink Book)\",\"Specification for the Reinstatement of Openings in Highways (Yellow Book)\",\"Safety at Street Works and Road Works (Red Book)\"]}",
+     "EToN was originally appendix E of the Blue Book but now has its own separate technical specification. There have also been various legislative changes, either implementing specific sections of NRSWA or updates to the legislation.\u003cbr /\u003e\u003cbr /\u003eOf the more significant of these, The Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2001 enabled section 74 of NRSWA which allowed for utilities to be charged when their works overran.\u003cbr /\u003e\u003cbr /\u003eThe Traffic Management Act 2004 was another major change to the legislation in that it allowed the giving of Fixed Penalty Notices for various offences described in NRSWA and also allowed for the creation of street works permits schemes. Permits schemes were further enabled by the Traffic Management Permit Scheme Regulations (England) (2007).\u003cbr /\u003e\u003cbr /\u003eStreet works legislation is currently relatively stable - EToN 6 as described above is currently under discussion and there is also a proposed change to the Code of Practice for inspections but there is no timetable for this.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Downloads\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Code of practice for inspections\",\"url\":\"/cdn/static/cms/documents/code-of-practice-for-inspections.pdf\",\"icon\":\"download\",\"size\":\"PDF 754KB\",\"image\":{}},{\"title\":\"Code of practice for the coordination of street works\",\"url\":\"/cdn/static/cms/documents/code-of-practice-for-the-coordination-of-street-works.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.10MB\",\"image\":{}},{\"title\":\"Technical specification for Electronic Transfer of Notifications (EToN)\",\"url\":\"/cdn/static/cms/documents/eton-technical-specification.pdf\",\"icon\":\"download\",\"size\":\"PDF 672KB\",\"image\":{}},{\"title\":\"New roads and street works act\",\"url\":\"/cdn/static/cms/documents/new-roads-and-street-works-act.pdf\",\"icon\":\"download\",\"size\":\"PDF 7.75MB\",\"image\":{}},{\"title\":\"Traffic management permit scheme regulations\",\"url\":\"/cdn/static/cms/documents/traffic-management-permit-scheme-regulations.pdf\",\"icon\":\"download\",\"size\":\"PDF 141KB\",\"image\":{}},{\"title\":\"Safety at street works\",\"url\":\"/cdn/static/cms/documents/safety-at-street-works.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.30MB\",\"image\":{}},{\"title\":\"Section 74 regulations\",\"url\":\"/cdn/static/cms/documents/section-74-regulations.pdf\",\"icon\":\"download\",\"size\":\"PDF 62KB\",\"image\":{}},{\"title\":\"Specification for reinstatement of openings in highways\",\"url\":\"/cdn/static/cms/documents/specification-for-reinstatement-of-openings-in-highways-sroh.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.23MB\",\"image\":{}},{\"title\":\"Traffic management act\",\"url\":\"/cdn/static/cms/documents/traffic-management-act.pdf\",\"icon\":\"download\",\"size\":\"PDF 420KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "ACCESS ONE ROAD NETWORK",
+    "texts": [
+     "If you've already registered, or if you are a Transport for London employee, \u003ca href=\"https://transportforlondon.sharepoint.com/sites/orn/\"\u003esign in\u003c/a\u003e to access One Road Network.",
+     "All other users, \u003ca href=\"https://tfl.gov.uk/forms/38878.aspx\"\u003eplease register\u003c/a\u003e to access One Road Network."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     },
+     {
+      "title": "About One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network/about-one-road-network",
+      "image": {}
+     },
+     {
+      "title": "Street works legislation",
+      "url": "/info-for/urban-planning-and-construction/one-road-network/street-works-legislation-and-codes-of-practice",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network/street-works-legislation-and-codes-of-practice",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

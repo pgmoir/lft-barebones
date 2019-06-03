@@ -1,0 +1,250 @@
+﻿
+    
+  
+
+
+
+@{ViewBag.Title = "Tube station car parks";}
+@{ViewBag.Keywords = "Drivers,Motorbikers,Public,Tube passengers,Driving,Motorcycle,TfL";}
+@{ViewBag.Url = "/modes/driving/tube-station-car-parks";}
+@{ViewBag.Language = "en";}
+        <!-- empty placeholder -->
+ 
+        
+        
+<div class="r">
+    <div class="breadcrumb-container" role="navigation">
+        <span id="breadcrumb-label" class="visually-hidden">You are here:</span>
+        <ol class="breadcrumbs clearfix" aria-labelledby="breadcrumb-label">
+            <li class="home">
+                <a href="/">
+                    <span class="hide-text">Home</span>
+                </a>
+            </li>
+            
+                 <li><a href="/modes/driving/index">Driving</a></li>
+                
+            
+            
+                <li><span class="last-breadcrumb">Tube station car parks</span></li>
+            
+        
+ 
+        
+ 
+        </ol>
+    </div>
+</div>
+     
+ 
+<div class="r">
+  <div class="headline-container plain">
+    <h1>Tube station car parks</h1>
+
+  </div>
+</div>
+<div class="main-and-aside r">
+  
+<div class="login-aside">
+                @{
+                    Html.RenderAction(
+                        "UserLoginBox", 
+                        "Account", 
+                        new { 
+                            Area = "Ruc", 
+                            returnUrl = "/modes/driving/account-account-landing-29377"
+                        }
+                    );
+                }
+            </div>
+      
+
+ 
+  <div class="main content-container" role="main">
+    
+      <div class="article-teaser">
+        <p>Most of our car parks are located next to the station, which is ideal if you need to get to and from your car quickly.</p>
+        
+      </div>
+    
+    
+      <p>Our car parks also have:</p>
+
+<ul>
+	<li>Free Blue Badge parking</li>
+	<li>CCTV security in the majority of locations</li>
+	<li>All have Park Mark awards</li>
+	<li>Season tickets</li>
+</ul>
+
+<h2>Reduced car parking</h2>
+
+<p>On occasions, some of our car parks are closed for London Underground (and other rail operators') improvement works or rail replacement bus services.</p>
+
+<p>Please check local stations for planned closures. There will be posters located around the area providing information, including details on how parking provisions will be affected.</p>
+
+<h2>Use your mobile phone to pay for parking</h2>
+
+<p>You can use cash to&nbsp;pay to park&nbsp;at the majority of&nbsp;TfL car parks, but you can also pay by&nbsp;other methods such as&nbsp;mobile phone,&nbsp;online and Auto&nbsp;Pay.&nbsp;Auto Pay is only valid at car parks with ANPR (automatic number plate recognition)&nbsp;technology.</p>
+
+<p>To pay, either:</p>
+
+<ul>
+	<li>Call 0333 123 1994*</li>
+	<li>Text 80010** PARK &lt;LOCATION&gt; &lt;DURATION&gt;<br />
+	Text example: PARK 2950 3. (This will purchase three days of parking)</li>
+	<li>Visit <a href="http://www.dashpark.com/tube">Park &amp; Tube</a> to pay online or download an app for your phone</li>
+</ul>
+
+<h3>You will need:</h3>
+
+<ul>
+	<li>Car park location code - this is clearly sign-posted in the car park</li>
+	<li>Valid debit or credit card</li>
+	<li>Vehicle registration number</li>
+</ul>
+
+<h3>To register for the pay by mobile service:</h3>
+
+<p>Call 0333 123 1994*, visit <a href="http://www.dashpark.com/tube">Park &amp; Tube</a> or text "REGTUBE" followed by your vehicle registration to 80010** and we'll call you back. Text example: REGTUBE &lt;CAR_REG&gt;</p>
+
+<p>*Calls are charged at the local rate, standard network operator rates apply.<br />
+**SMS text messages cost 10p to send or receive as part of your parking booking transaction. When you register for the pay by mobile service you can specify whether you receive a confirmation SMS when booking your parking and/or a parking expiry reminder SMS.</p>
+
+<p>You can change your SMS preferences at any time by logging into <a href="http://www.dashpark.com/tube">Park &amp; Tube</a> with your user ID (mobile phone number) and password and editing your profile. You are not charged for receiving any SMS text messages and/or email messages which are related to user ID/password reminders or information on additional products and services.</p>
+
+<h2>Stanmore and Wembley Park: Pre-booking</h2>
+
+<p>Due to major sporting events at Wembley Stadium, parking at Stanmore and Wembley Park stations on some dates&nbsp;may be <a href="https://www.ncp.co.uk/parking-solutions/leisure-parking/wembley-stadium-parking">booked in advance</a>, subject to availability.</p>
+      
+           
+      <div>
+
+<h2>Spaces</h2>
+
+<p>We own or manage 79 car parks, providing over 11,000 spaces. Over 360 of these are free for Blue Badge holders.</p>
+
+<h2>More information</h2>
+
+<p>For more&nbsp;information on a specific car park, visit the <a href="http://www.ncp.co.uk">NCP car park website</a>.</p>
+</div>
+ <div>
+
+<h2>Other car parks</h2>
+
+<p>The following stations also have car parking facilities although we do not manage these:</p>
+
+<ul>
+	<li>Amersham</li>
+	<li>Burnt Oak</li>
+	<li>Hammersmith</li>
+	<li>Pinner</li>
+	<li>Richmond</li>
+	<li>Upminster</li>
+	<li>West Ruislip</li>
+	<li>Wimbledon</li>
+</ul>
+</div>
+ 
+      
+        
+          
+        
+      
+    
+  </div>
+  <div class="aside" role="complementary">
+    
+    
+    
+   
+    
+    
+    
+      <div data-set="sidenav-container" class="large">
+        
+        
+<div id="right-hand-nav" class="expandable-list moving-source-order" role="navigation" aria-labelledby="sub-menu-heading">
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
+
+@this.ScriptBlock(
+    @<script>
+         queue.push("@Html.ScriptPath("modules/M032-expandable-list.min.js")", function () {
+             window.tfl.expandableList.init('#right-hand-nav', false);
+         });
+    </script>
+)
+
+ 
+      </div>
+    
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="advert-tile unsponsored-style google-ads" aria-hidden="true">
+  <div class="advert-link">
+    <div class="advert-content">
+        <div class="medium-large" data-advert="/76889402/driving" data-advert-sizes="300, 250"></div>
+        <div class="small" data-advert="/76889402/driving" data-advert-sizes="300, 250|300, 600"></div>
+    </div>
+  </div>
+</div>
+@{
+    ViewBag.AmazonSlot = "'amznslots'";
+    ViewBag.AmazonAds = "'3199'"; // to add another value, this needs to be ViewBag.AmazonAds = "'3199','xx'";
+}
+      
+
+ </div>
+    
+    <div data-set="sidenav-container" class="small-medium"></div>
+  </div>
+</div>
+ 
+ 
+        
+        
+        
+            @{ViewBag.Description = "Benefits and prices for our Tube station car parks";}
+        
+            
+        
+
+
+ 

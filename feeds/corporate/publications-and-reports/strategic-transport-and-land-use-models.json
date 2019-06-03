@@ -1,0 +1,79 @@
+{
+ "pageTitle": "Strategic transport models",
+ "keywords": ",Boroughs,Planning and construction,S,Environment,Research,TfL",
+ "description": "Planning for the future requires the use of a range of sources of information and analysis techniques, including the application of the strategic transport and land-use models developed by TfL Planning",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Strategic transport models"
+  }
+ ],
+ "title": {
+  "title": "Strategic transport models",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"To plan for the future, we use a range of sources of information and analysis techniques. These include the application of the strategic transport models developed by TfL Planning.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are benefits to investing in transport such as making it easier for people to get around, or reducing public transport crowding and road congestion.",
+     "But with limited financial resources and a variety of options, how can we tell which transport improvements are the best to invest in?",
+     "We can do this by assessing the potential impact of each proposal. Transport models are tools which help to provide a robust and consistent evidence base for these assessments.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London's strategic transport models\",\"url\":\"/cdn/static/cms/documents/londons-strategic-transport-models.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.12MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

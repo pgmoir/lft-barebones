@@ -1,0 +1,117 @@
+{
+ "pageTitle": "Freight",
+ "keywords": "Businesses,Drivers,Freight industry,Planning and construction,F,Freight,Low Emission Zone,Research,Deliveries,Driving,TfL",
+ "description": "Guidance, data reports and case studies show how we work with the freight industry",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Freight"
+  }
+ ],
+ "title": {
+  "title": "Freight",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Publications we produce for the freight industry include strategy documents, guidance, case studies as well as advice on creating Construction Logistics Plans.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safer deliveries\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Delivering safely across Cycle Superhighways\",\"url\":\"/cdn/static/cms/documents/logistics-managers-rp.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.13MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Delivering efficiently\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Construction logistics plans (CLPs)\"}",
+     "Construction logistics plans are an important management tool for planners, developers and all parties involved in the planning process for construction work. They are an effective way of reducing the negative effects of construction work such as congestion, pollution and noise that may affect local communities, residents, businesses and the environment.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"CLPs guidance\",\"url\":\"/cdn/static/cms/documents/construction-logistics-plan-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 10.69MB\",\"image\":{}},{\"title\":\"CLPs: Appendix A\",\"url\":\"/cdn/static/cms/documents/appendix-a-clp-template.pdf\",\"icon\":\"download\",\"size\":\"PDF 482KB\",\"image\":{}},{\"title\":\"CLPs: Appendix B\",\"url\":\"/cdn/static/cms/documents/clp-appendix-b.pdf\",\"icon\":\"download\",\"size\":\"PDF 24.89MB\",\"image\":{}},{\"title\":\"CLPs tool\",\"url\":\"/cdn/static/cms/documents/clp-tool3.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 940KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Consolidating deliveries\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London boroughs consolidation centre - case study\",\"url\":\"/cdn/static/cms/documents/lbcc-case-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 319KB\",\"image\":{}},{\"title\":\"Rethinking deliveries - summary report\",\"url\":\"/cdn/static/cms/documents/rethinking-deliveries--summary-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 571KB\",\"image\":{}},{\"title\":\"London freight consolidation feasibility study\",\"url\":\"/cdn/static/cms/documents/london-freight-consolidation-feasibility-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.58MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Retiming deliveries\"}",
+     "Ahead of the London 2012 Olympic and Paralympic Games, we ran trials of out-of-hours deliveries in partnership with local boroughs, the Freight Transport Association and the Noise Abatement Society. Although the studies were aimed at preparing for the Games, they still offer best practice examples for regular freight operations.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Inner city night delivery in the EU\",\"url\":\"/cdn/static/cms/documents/inner-city-night-delivery-in-the-eu.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.29MB\",\"image\":{}},{\"title\":\"Integrative freight demand management in New York\",\"url\":\"/cdn/static/cms/documents/integrative-freight-demand-management-in-new-york.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.35MB\",\"image\":{}},{\"title\":\"Dublin HGV strategy review\",\"url\":\"/cdn/static/cms/documents/dublin-hgv-strategy-review.pdf\",\"icon\":\"download\",\"size\":\"PDF 306KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Direct vision from heavy goods vehicles\"}",
+     "Our research into visibility from heavy goods vehicles highlights the importance of choosing the right vehicle for working in urban environments such as London. This research is being used to influence the design and purchase of safer, lower vehicles with improved direct vision.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Understanding direct and indirect vision from HGVs - summary\",\"url\":\"/cdn/static/cms/documents/understanding-direct-and-direct-vision-from-hgvs-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 13.37MB\",\"image\":{}},{\"title\":\"Understanding direct and indirect driver vision from HGVs - technical report\",\"url\":\"/cdn/static/cms/documents/understanding-direct-and-indirect-vision-in-hgvs-full-technical-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 17.16MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Construction logistics and cycle safety\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Construction logistics and cycle safety - summary\",\"url\":\"/cdn/static/cms/documents/construction-logistics-and-cyclist-safety-summary-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.02MB\",\"image\":{}},{\"title\":\"Construction logistics and cycle safety - technical report\",\"url\":\"/cdn/static/cms/documents/construction-logistics-and-cyclist-safety-technical-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.90MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Protecting the environment\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Waterways loading infrastructure\"}",
+     "For the transport of goods and materials on the waterways to take pace, suitable and effective methods of handling it at the origin and destination are necessary. This summary explains the most appropriate equipment for this task to ensure that cargoes are transferred between the wharf and craft quickly, safely and economically.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Review of load handling systems for London's canal network\",\"url\":\"/cdn/static/cms/documents/review-of-loading-and-unloading-equipment-london-waterways.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.74MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Freight data reports\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London freight data report 2014\",\"url\":\"/cdn/static/cms/documents/london-freight-data-report-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 384KB\",\"image\":{}},{\"title\":\"London freight data report 2013\",\"url\":\"/cdn/static/cms/documents/london-freight-data-report-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 236KB\",\"image\":{}},{\"title\":\"London freight data report 2012\",\"url\":\"/cdn/static/cms/documents/london-freight-data-report-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 132KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"HGV regulatory non-compliance in London\"}",
+     "HGVs that are non-compliant with regulations and road laws may be more dangerous than those which are fully compliant. In 2015, we commissioned research to understand the level and reasons behind regulatory non-compliance of HGVs operating in London. The research showed unacceptably high level of reported and observed non-compliance by HGV operations in London:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Understanding HGV regulatory non-compliance in London full report\",\"url\":\"/cdn/static/cms/documents/understanding-hgv-regulatory-non-compliance-in-london-full-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.95MB\",\"image\":{}},{\"title\":\"Understanding HGV regulatory non-compliance in London summary report\",\"url\":\"/cdn/static/cms/documents/understanding-hgv-regulatory-non-compliance-in-london-summary-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.45MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

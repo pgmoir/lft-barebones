@@ -1,0 +1,225 @@
+{
+ "pageTitle": "Event data from mobile devices",
+ "keywords": "TfL,event data mobile devices privacy",
+ "description": "Project Edmond event data from mobile devices",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "Event data from mobile devices"
+  }
+ ],
+ "title": {
+  "title": "Event data from mobile devices",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are carrying out research so we can better understand travel patterns across London. This will involve using \\\"event data\\\" from mobile devices using the O2 Network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We will not be able to identify anyone from this project. Nor will we be able to identify people's individual travel patterns or access any other personal information. We will be using depersonalised and aggregated 'event data' from mobile devices using the O2 network.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Mobile phone event data\"}",
+     "Mobile devices (eg phones and tablets) generate event data as they communicate with the network that they are connected to.",
+     "Event data from devices using the O2 network is collected by O2's mobile network infrastructure, across the whole of the UK. The output is depersonalised (to remove information that could identify people) and aggregated (to combine many people's similar journeys) by O2. This means that they create summaries of travel patterns at crowd level, based on the geographical areas around mobile phone masts.",
+     "The O2 network is used by O2 and a number of Mobile Virtual Network Operators - \u003ca href=\"http://www.o2.co.uk\"\u003econtact O2\u003c/a\u003e for full details.",
+     "As part of this project, a copy of this depersonalised and aggregated data is being securely transferred by O2 to TfL. The data was collected from September to November 2016. We are using this mobile device event data along with other depersonalised and aggregated datasets to improve our understanding of people's patterns of travel across London.",
+     "It's important for us to emphasise that the data used for this project is being aggregated to provide travel patterns at a crowd level. Any data relating to crowds of fewer than 10 individual devices is automatically randomised. This will ensure that TfL does not unintentionally identify any individual.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why we are using mobile phone event data\"}",
+     "We thoroughly investigated different data sources that could provide the information we need. We also took advice and guidance from leading industry experts.",
+     "This process was followed by a Europe-wide procurement exercise to help understand the best way of collecting this type of travel demand data. We found that using mobile phone event data combined with TfL's other data sources at a depersonalised level was the most effective way of obtaining the information we need.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Will TfL be able to identify me?\"}",
+     "No, we will not be able to identify any individual O2 or TfL customers as part of this project. We use data anonymisation techniques to obscure the movements of small numbers of people (fewer than 10) between the large origin and destination areas (approximately 1.4 kilometers wide).",
+     "TfL is working with O2, which will be providing depersonalised and aggregated data to TfL, in order to ensure that both organisations comply with all relevant privacy and data protection laws. The level of detail included in the data provided to TfL by O2 is carefully controlled to ensure that it would be impossible for us to use it to identify individuals.",
+     " \u003ca href=\"http://www.o2.co.uk/termsandconditions/privacy-policy\"\u003eMore information about O2 customer privacy policies\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"At the end of the project\"}",
+     "Once the project is complete, we will use the results to update and enhance TfL's strategic transport models. We use these in many different ways - for example, to inform policy in the Mayor's Transport Strategy, to support the case for major infrastructure investment and to understand the likely impacts of new developments.",
+     "Data from these models also underpins a system called WebCAT, TfL's online planning tool. This shows how well-connected a location is in terms of access to public transport both now and in the future.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why TfL has commissioned this project\"}",
+     "One of our responsibilities is to plan the future of London's transport. To help with this we develop transport models that forecast future trip numbers and how people are likely to travel. This information helps us understand the likely impact of new policies and transport investment. It is important that these models can represent current travel behaviour, and so this information needs to be collected.",
+     "While there is a lot of data available on how people use public transport on our network, there is much less data on how people use roads, cycle paths and pavements.",
+     "In the past, this type of information has been collected through roadside interview surveys, which involve stopping vehicles at the side of the road to ask drivers questions or hand-out questionnaires. These methods of data collection are expensive and are becoming more difficult because of due to the disruption that they cause to travellers.",
+     "Buying anonymous and aggregated mobile phone event data is a practical alternative to these methods. It will provide data on trip patterns in a cost efficient, safe way without inconveniencing customers or compromising their privacy."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Privacy \u0026 cookies",
+    "links": [
+     {
+      "title": "Access your data",
+      "url": "/corporate/privacy-and-cookies/access-your-data",
+      "image": {}
+     },
+     {
+      "title": "Bus data collection pilot",
+      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
+      "image": {}
+     },
+     {
+      "title": "Capital Call",
+      "url": "/corporate/privacy-and-cookies/capital-call",
+      "image": {}
+     },
+     {
+      "title": "CCTV \u0026 surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "image": {}
+     },
+     {
+      "title": "Compulsory purchase",
+      "url": "/corporate/privacy-and-cookies/compulsory-purchase",
+      "image": {}
+     },
+     {
+      "title": "Contactless payment",
+      "url": "/corporate/privacy-and-cookies/contactless-payment",
+      "image": {}
+     },
+     {
+      "title": "Cookies",
+      "url": "/corporate/privacy-and-cookies/cookies",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/corporate/privacy-and-cookies/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "Employment",
+      "url": "/corporate/privacy-and-cookies/employment",
+      "image": {}
+     },
+     {
+      "title": "Event data from mobile devices",
+      "url": "/corporate/privacy-and-cookies/event-data-from-mobile-devices",
+      "image": {}
+     },
+     {
+      "title": "External Recruitment",
+      "url": "/corporate/privacy-and-cookies/external-recruitment",
+      "image": {}
+     },
+     {
+      "title": "Oyster card",
+      "url": "/corporate/privacy-and-cookies/oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Privacy \u0026 data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "image": {}
+     },
+     {
+      "title": "Protect your data",
+      "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Road User Charging",
+      "url": "/corporate/privacy-and-cookies/road-user-charging",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/privacy-and-cookies/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/corporate/privacy-and-cookies/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Website privacy",
+      "url": "/corporate/privacy-and-cookies/website-privacy",
+      "image": {}
+     },
+     {
+      "title": "Wi-Fi data collection",
+      "url": "/corporate/privacy-and-cookies/wi-fi-data-collection",
+      "image": {}
+     },
+     {
+      "title": "Your information rights",
+      "url": "/corporate/privacy-and-cookies/your-information-rights",
+      "image": {}
+     },
+     {
+      "title": "Zip Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/18-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Privacy \u0026 cookies",
+     "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

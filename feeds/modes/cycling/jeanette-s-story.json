@@ -1,0 +1,199 @@
+{
+ "pageTitle": "Jeanette's story",
+ "keywords": "TfL",
+ "description": "Jeanette's cycling story",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Cycling in London",
+   "url": "/modes/cycling/cycling-in-london"
+  },
+  {
+   "title": "Rider stories",
+   "url": "/modes/cycling/cycling-in-london/rider-profiles"
+  },
+  {
+   "title": "Jeanette's story"
+  }
+ ],
+ "title": {
+  "title": "Jeanette's story",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/jeanette-adams-bike1.jpg\",\"alt\":\"Jeanette with her bike\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What got you into cycling?\"}",
+     "On the 29/1/2010 I had a serious accident and ended up in a wheelchair and house bound with lots of operations to follow and finally in March 2013 I had my right leg amputated  below knee this has still left me with complications.",
+     "Over the next few years I put weight on and no matter how hard  I tried  I couldn't lose the weight. I ended buying a fold up bike and giving it a go. I didn't have full bend on my knee at the time so it made cycling hard and my balance was all over the place (I kept falling off the bike). I never gave up. Last February I bought a road bike - by then my cycling had improved and I was able to bend my knee. In June I cycled coast to coast with \u003ca href=\"http://limbpower.com/\"\u003eLimbpower\u003c/a\u003e and although I needed help, I managed to cycle 187 miles over 3 days.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who do you cycle with?\"}",
+     "I always cycled on my own as I thought I was too slow to cycle with a group, but last year I finally joined a \u003ca href=\"https://www.letsride.co.uk/breeze\"\u003eBreeze ride\u003c/a\u003e cycling from Redbridge. Apart from hills which are incredibly hard for me as I'm using one leg, I had a super experience and ended up going out with the Breeze girls every week. In October I had another operation on my leg so I was unable to cycle for two months, this drove me mad as cycling is my freedom! In January I joined Redbridge cycling club, a very friendly club and everyone is so kind and caring.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What would you say to women considering cycling?\"}",
+     "If I can cycle, you can. It's great fun. It might be challenging but you meet amazing friends. I don't feel alone any more and I have my freedom back. I feel fitter and healthier and its all down to getting on a bike.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What types of rides do you take part in?\"}",
+     "On 17 April this year I completed the London Phoenix Easter classic 70 miles, I may not have been the fastest but I finished it, this is the longest ride I've done and I was super chuffed with myself, my friends were praising me so much.",
+     "The thing with being an amputee is everyone thinks once your leg has gone you're fine, but it's not like that. It comes with more problems than ever - I'm not pain free, my leg sweats when I cycle, I get sore skin, but the enjoyment is greater than what I can feel.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/cycling-in-london/rider-profiles\\\"\\u003eRead other rider stories\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/cycling-in-london/cycle-skills\\\"\\u003eBook a cycle skills session\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/index\\\"\\u003ePlan your ride\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Rider stories",
+      "url": "/modes/cycling/cycling-in-london/rider-profiles",
+      "image": {}
+     },
+     {
+      "title": "Beth's story",
+      "url": "/modes/cycling/beth-s-story",
+      "image": {}
+     },
+     {
+      "title": "Isabelle's story",
+      "url": "/modes/cycling/isabelle-s-story",
+      "image": {}
+     },
+     {
+      "title": "Katie's story",
+      "url": "/modes/cycling/katie-s-story",
+      "image": {}
+     },
+     {
+      "title": "Hollie's story",
+      "url": "/modes/cycling/hollie-s-story",
+      "image": {}
+     },
+     {
+      "title": "Alix's story",
+      "url": "/modes/cycling/alix-s-story",
+      "image": {}
+     },
+     {
+      "title": "Sarah's story",
+      "url": "/modes/cycling/sarah-s-story",
+      "image": {}
+     },
+     {
+      "title": "Fiona's story",
+      "url": "/modes/cycling/fiona-s-story",
+      "image": {}
+     },
+     {
+      "title": "Isabelle",
+      "url": "/modes/cycling/isabelle",
+      "image": {}
+     },
+     {
+      "title": "Jeanette's story",
+      "url": "/modes/cycling/jeanette-s-story",
+      "image": {}
+     },
+     {
+      "title": "Cycle Skills",
+      "url": "/modes/cycling/cycling-in-london/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Protect your bike from theft",
+      "url": "/modes/cycling/cycling-in-london/avoid-theft",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycling-in-london/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycling with children",
+      "url": "/modes/cycling/cycling-in-london/cycling-with-children",
+      "image": {}
+     },
+     {
+      "title": "Electric bikes",
+      "url": "/modes/cycling/cycling-in-london/electric-bikes",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

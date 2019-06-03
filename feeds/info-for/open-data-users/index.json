@@ -1,0 +1,155 @@
+{
+ "pageTitle": "Open data users",
+ "keywords": "Online developers,TfL",
+ "description": "Information for software and app developers to use TfL's open data",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Open data users"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Open data users",
+  "card": {
+   "texts": [
+    "All public TfL data (or 'open data') is freely released here for developers to use in their own software and services. We encourage software developers to use these feeds to present customer travel information in innovative ways - providing they adhere to the",
+    "."
+   ],
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "title": "Unified API",
+    "texts": [
+     "Discover the benefits of using our unified API"
+    ],
+    "link": {
+     "url": "/info-for/open-data-users/unified-api",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/countdown-digital-sign-700p_rdax_400x200.gif"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Widgets",
+    "texts": [
+     "Stay updated with our services for your website, blog or desktop"
+    ],
+    "link": {
+     "url": "/info-for/open-data-users/widgets",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x001-00099-woman-mobile-phone-app_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "TfL Digital Blog",
+    "texts": [
+     "Get all the latest news on our open data and join the conversation with our experts"
+    ],
+    "link": {
+     "url": "https://blog.tfl.gov.uk/category/developers/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/blog_rdax_400x200.png"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Our open data",
+    "texts": [
+     "A full list of all our available open data"
+    ],
+    "link": {
+     "url": "/info-for/open-data-users/our-open-data",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Journey Planner data updates",
+    "texts": [
+     "A weekly summary of our latest data updates - including bus service and stop changes"
+    ],
+    "link": {
+     "url": "http://blog.tfl.gov.uk/category/information/journey-planner/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Open data users",
+    "links": [
+     {
+      "title": "Open data policy",
+      "url": "/info-for/open-data-users/open-data-policy",
+      "image": {}
+     },
+     {
+      "title": "Unified API",
+      "url": "/info-for/open-data-users/unified-api",
+      "image": {}
+     },
+     {
+      "title": "Our open data",
+      "url": "/info-for/open-data-users/our-open-data",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 branding",
+      "url": "/info-for/open-data-users/design-and-branding",
+      "image": {}
+     },
+     {
+      "title": "Widgets",
+      "url": "/info-for/open-data-users/widgets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Open data users",
+     "url": "/info-for/open-data-users/widgets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

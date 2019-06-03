@@ -1,0 +1,180 @@
+{
+ "keywords": "TfL",
+ "description": "TfL offers free in-school presentations for secondary pupils and more experienced travellers",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people",
+   "url": "/info-for/schools-and-young-people/index"
+  },
+  {
+   "title": "Safety \u0026 Citizenship",
+   "url": "/info-for/schools-and-young-people/safety-and-citizenship"
+  },
+  {
+   "title": "Secondary (post-transition)"
+  }
+ ],
+ "title": {
+  "title": "Secondary (post-transition)",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The TfL Safety and Citizenship team offer free in-school presentations for secondary pupils and more experienced travellers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "These sessions are delivered to secondary schools pupils. The sessions explore ways in which journeys have changed for young people since their transition to independent travel from primary school. Post-transition in-school presentations are allocated after referral from local policing teams, TfL and members of staff at the school. We concentrate on schools where pupils have experienced specific travel concerns.",
+     "\u003cstrong\u003eContent\u003c/strong\u003e ",
+     "Presentations last between 20 minutes and an hour to fit in with secondary timetabling. Longer time slots allow a more interactive and comprehensive session. We see whole year groups together where possible.",
+     "Sessions are tailored to the individual audience. We respond directly to issues, ideas and queries from pupils. We enter into a non-confrontational dialogue with young people, promoting honest responses and an open forum. Pupils use this to explore and resolve issues they may have experienced on the transport network.",
+     "Sessions include fast-paced, educational videos, images to support learning points, role play and question and answer. All videos are age-appropriate and fully subtitled.",
+     "Pupils find the presentations engaging and enjoyable and they appreciate the chance to express their opinions.",
+     "Topics covered might include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Active travel choices\",\"Bus stop safety\",\"Awareness of personal safety\",\"Using the \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel\\\"\\u003eZip Oyster photocard\\u003c/a\\u003e correctly (including the \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/rules-of-travel-for-under-18s\\\"\\u003eBehaviour Code\\u003c/a\\u003e )\",\"Respect for other travellers and staff members\",\"Making responsible decisions\",\"Thinking about the impact of their choices\",\"How to report issues\"]}",
+     "If you are a secondary school teacher who feels that your pupils would benefit from a presentation, please contact us on 020 7565 7303 or email \u003ca href=\"mailto:tflsafetyandcitizenship@ltmuseum.co.uk\"\u003etflsafetyandcitizenship@ltmuseum.co.uk\u003c/a\u003e .",
+     "We endeavour, within our capacity, to deliver where schools raise specific travel concerns. In schools where you have noticed or we have had reports of ongoing issues, we can offer our \u003ca href=\"/info-for/schools-and-young-people/safety-and-citizenship/restorative-justice\"\u003erestorative justice\u003c/a\u003e sessions for a more targeted approach with smaller groups or individuals if appropriate.",
+     "Take a look at our post-transition work in secondary schools below.",
+     "{\"template\":\"video\",\"style\":\"QHG8VMOqEw0\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Schools \u0026 young people",
+    "links": [
+     {
+      "title": "Inspire Engineering",
+      "url": "/info-for/schools-and-young-people/inspire-engineering",
+      "image": {}
+     },
+     {
+      "title": "Youth involvement",
+      "url": "/info-for/schools-and-young-people/youth-involvement",
+      "image": {}
+     },
+     {
+      "title": "Educational resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 Citizenship",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+      "image": {}
+     },
+     {
+      "title": "Primary (pre-transition)",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/primary-pre-transiti",
+      "image": {}
+     },
+     {
+      "title": "Secondary (post-transition)",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/secondary-post-transition",
+      "image": {}
+     },
+     {
+      "title": "Special Educational Needs and Disability",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/special-educational-needs",
+      "image": {}
+     },
+     {
+      "title": "Pupil Referral Units",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/pupil-referral-units",
+      "image": {}
+     },
+     {
+      "title": "Faith schools",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/faith-schools",
+      "image": {}
+     },
+     {
+      "title": "Home-schooled pupils",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/home-schooled-pupils",
+      "image": {}
+     },
+     {
+      "title": "Restorative justice",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/restorative-justice",
+      "image": {}
+     },
+     {
+      "title": "Community \u0026 museum events",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/community-and-museum-events",
+      "image": {}
+     },
+     {
+      "title": "Following on from your visit",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/following-on-from-your-visit",
+      "image": {}
+     },
+     {
+      "title": "Learning resources",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/lesson-plans",
+      "image": {}
+     },
+     {
+      "title": "Transport Youth Engagement Officers",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/transport-youth-engagement-officers",
+      "image": {}
+     },
+     {
+      "title": "Young car drivers",
+      "url": "/info-for/schools-and-young-people/young-car-drivers",
+      "image": {}
+     },
+     {
+      "title": "Innovate TfL",
+      "url": "/info-for/schools-and-young-people/innovate-tfl",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Schools \u0026 young people",
+     "url": "/info-for/schools-and-young-people/innovate-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

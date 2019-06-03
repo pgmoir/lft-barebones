@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Current services on London Underground during RMT strike action",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Current services on London Underground during RMT strike action",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Services operating on more than half of lines."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Transport Commissioner, Peter Hendy, said: 'Services are currently running on more than half of London Underground lines, with good service on the Northern line and a decent service across the Jubilee line.",
+     "'Clearly, support for the RMT leadership's actions is far from the level they were expecting.",
+     "'Londoners and I will fully appreciate all the efforts being made by those Tube and transport staff who are working today to keep London moving.",
+     "'The picture will change constantly throughout the day and those travelling should check before they travel via the TfL website \u003ca href=\"http://www.tfl.gov.uk\"\u003etfl.gov.uk\u003c/a\u003e to see how Tube services are running, or take advantage of the many alternative travel options being provided by the Mayor and TfL.'",
+     "Services on London Underground are reduced this morning, due to industrial action called by the RMT leadership. However, the following services are operating:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Northern line - good service\",\"Jubilee line - minor delays\",\"Victoria line - shuttle service between Victoria and Seven Sisters\",\"District line - shuttle service from Wimbledon to High Street Kensington\",\"Metropolitan line - shuttle service between Wembley Park and Baker Street\",\"Piccadilly line - shuttle service between Arnos Grove and Cockfosters\",\"Bakerloo line - a shuttle service will shortly start between Queen's Park and Paddington\"]}",
+     "We also hope to run a service on the Central and Hammersmith and City lines later today.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

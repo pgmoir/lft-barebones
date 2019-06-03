@@ -1,0 +1,18 @@
+<%- include('includes/head') %>
+
+<%- include('includes/title', { 
+    title: { title: 'Page not found' }, 
+    breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Page not found' } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+          <p>We're very sorry, but the page you were looking for has not been found</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<%- include('includes/foot') %>

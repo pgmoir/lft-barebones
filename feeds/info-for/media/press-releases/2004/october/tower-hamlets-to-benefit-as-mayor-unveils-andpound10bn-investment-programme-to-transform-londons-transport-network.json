@@ -1,0 +1,73 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Tower Hamlets to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Tower Hamlets is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Tower Hamlets and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Tower Hamlets on the move.\"",
+     "The main benefits for Tower Hamlets included in TfL's 5 Year Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"phase one of the East London Line Project extensions, which will extend the existing line north to Dalston Junction and south to Crystal Palace and West Croydon;\",\"upgrade to 3-car running on the Docklands Light Railway between Bank and Lewisham to boost capacity by 30 percent to help meet future demand;\",\"a new package of improvements for Silverlink Metro services including station and security enhancements such as better CCTV and lighting, graffiti cleaning and the extension of station staffing hours providing a greater presence early in the morning and later at night.\",\"continuation of major safety work on the Rotherhithe Tunnel.\"]}",
+     "In addition, the following improvements to District, Central, Jubilee and Hammersmith \u0026 City Lines and stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"station refurbishments and/or modifications to Bow Road (completion 2005); Aldgate East and Tower Hill (2006); Bethnal Green, Mile End, Whitechapel, Bromley-by-Bow, Canary Wharf and Stepney Green (2007 - 2010);\",\"all 75 District Line trains to be refurbished by 2009 including space for wheelchairs, audio \\u0026 video info systems and refurbished seats and interiors;\",\"Victoria Line interim upgrade and Central Line upgrade to improve journey times by 2006;\",\"Jubilee Line to be improved with the addition of a seventh car to be added to trains and new signalling system with a total increase in capacity of 48 percent.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Tower Hamlet's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "Work undertaken to improve transport in Tower Hamlets by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded, includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"increased frequencies on 25 bus routes, new low floor, fully accessible buses on 22 routes, five new links to existing routes and 10 new bus routes;\",\"major works have been carried out to upgrade the A13 Thames Gateway corridor, contributing to regeneration of the area and;\",\"TfL is currently carrying out major refurbishment works to the Southbound Blackwall Tunnel;\",\"funding for additional Met police officers and police Community Support officers to reduce crime and the fear of crime, improve enforcement on and around bus routes and tackle taxi touting;\",\"licensing private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "Working in partnership with Tower Hamlets TfL have been implemented including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"improvement around the Shadwell Interchange between DLR and Tube stations providing enhanced security measures;\",\"a range of Environmental Traffic Management schemes in Salmon Lane, Ben Jonson/Harford Street, Old Bethnal Green and Bow Common Lane areas.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

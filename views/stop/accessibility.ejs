@@ -1,0 +1,14 @@
+<% if (accessibility) { %>
+  <div class="mb-3">
+    <h3 class="h5 p-3 bg-basic mb-0 border">Accessibility information</h3>
+    <div class="row mx-0 pt-3 border border-top-0">
+      <div class="col-12 mb-3">
+        <p><strong>Platform and train access</strong></p>
+        <p>Find out more about step free access on the tube with our guide:</p>
+        <%- include('../includes/listgroup', { card: { style: 'links', class: 'card-b1 mb-3', links: [ { title: 'Step free tube guide (pdf)', url: 'https://tfl.gov.uk/cdn/static/cms/documents/step-free-tube-guide-map.pdf', icon: 'download' }]}}) %>
+        <p>Find out more from our range of accessibility guides in alternative formats to help you plan and make journeys:</p>
+        <%- include('../includes/listgroup', { card: { style: 'links', class: 'card-b1', links: [ { title: 'Accessibility guides', url: 'https://tfl.gov.uk/forms/12387.aspx', icon: 'internal' }]}}) %>
+      </div>
+    </div>
+  </div>
+<% } %>

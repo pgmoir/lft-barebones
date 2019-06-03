@@ -1,0 +1,95 @@
+{
+ "pageTitle": "Update on Friday services",
+ "description": "London UndergroundLondon Underground has confirmed the following expected service patterns for Friday 22nd July. However, this may be subject to potential changes.Passengers are advised to check the latest travel information for their routes by calling",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Update on Friday services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Additional TfL staff will be on duty across the London Underground and London bus networks providing passengers with the latest travel information."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Underground\"}",
+     "London Underground has confirmed the following expected service patterns for Friday 22nd July. However, this may be subject to potential changes.",
+     "Passengers are advised to check the latest travel information for their routes by calling TfL travel information on 020 7222 1234 or visiting \u003ca href=\"http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html\"\u003elive travel news\u003c/a\u003e .",
+     "We are encouraging our passengers and staff to remain vigilant, to question who owns items that remain unattended and to report any unattended items or suspicious activity to transport staff or the Police.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Normal service\"}",
+     "Bakerloo\u003cbr /\u003eCentral\u003cbr /\u003eEast London Line\u003cbr /\u003eJubilee\u003cbr /\u003eNorthern\u003cbr /\u003eVictoria\u003cbr /\u003eWaterloo \u0026 City",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Restricted service\"}",
+     "No service High St Kensington to Edgware Road (due to 7 July incidents).",
+     "No service between Moorgate to Aldgate (due to 7 July incidents).",
+     "No service between Arnos Grove to Hyde Park Corner and Rayners Lane to Uxbridge (due to 7 July incidents).",
+     "A special bus service will call at Arnos Grove and Finchley Central to provide a connection with the Northern line.",
+     "A second special bus service will operate from Arnos Grove calling at Bounds Green, Wood Green, Turnpike Lane and Seven Sisters to connect with Victoria line services.",
+     "Additional bus services are operating on route 91 between Holloway Road and Euston via Caledonian Road and King's Cross St Pancras.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Station Closures\"}",
+     "Oval, Shepherds Bush (Hammersmith \u0026 City) and Warren Street Stations are closed due to 21 July incidents.",
+     "Edgware Road, Aldgate and Russell Square stations are closed due to 7 July incidents.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"No service\"}",
+     "Circle (due to 7 July incidents).\u003cbr /\u003eA replacement bus service is operation along the northern section of the Circle Line.",
+     "Hammersmith \u0026 City (due to 7 July and 21 July incidents).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Buses\"}",
+     "London Buses will run a full service. There will be some diversions around the Hackney and Shepherd's Bush incident sites.",
+     "An additional bus service will be in operation calling at Highbury \u0026 Islington, King's Cross St Pancras, Euston and Warren Street Underground stations.",
+     "An increased frequency bus service will operate on route 30 from Highbury \u0026 Islington to Warren Street.",
+     "Regular security checks will continue to take place on each bus and at all bus stations and garages.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Docklands Light Railway\"}",
+     "Normal service.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roads\"}",
+     "Some localised road closures around Shepherd's Bush and Hackney following 21 July incident sites.",
+     "Tavistock Place remains closed due to 7 July incident.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Congestion charge\"}",
+     "The congestion charge will be in effect during Friday.",
+     "TfL's advice to drivers remains not to travel through central London during this period."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

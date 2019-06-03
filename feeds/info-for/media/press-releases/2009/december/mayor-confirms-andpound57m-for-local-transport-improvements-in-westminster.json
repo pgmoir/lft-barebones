@@ -1,0 +1,79 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Mayor confirms £5.7m for local transport improvements in Westminster",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Greater freedom for Westminster over local transport spending delivers innovative transport projects"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "in these tough economic times I am committed to providing this funding to all of London's boroughs",
+     "The Mayor of London has confirmed £5.7m for Westminster to spend on local transport improvements during 2010/11, including £752,000 for essential road maintenance and £768,000 for major schemes.",
+     "Westminster has been developing proposals for a number of schemes that it will be financing with the funding package, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"£500,000 to roll out Legible London to the West End providing better information for people who want to explore the area by foot\",\"£1,065,000 to implement major streetscape improvements to nine connector streets surrounding Leicester Square, including new granite paving throughout, wall mounted lighting, greening and de-cluttering\",\"£100,000 support for electric vehicles including new charging points and the provision of more Car Club bays\",\"£350,000 for the implementation of more shared space and simplified streetscape projects\"]}",
+     "Mayor of London, Boris Johnson, said: 'Even in these tough economic times I am committed to providing this funding to all of London's boroughs.",
+     "'The investment means that across the Capital town centres and public spaces are being overhauled, cycling and walking facilities are being improved, and roads are being made safer.",
+     "'We have cut red tape to make it easier for borough councils to choose the local transport projects that benefit their residents the most, simplifying the funding system and working together to give local people the improvements they want.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fairer funding formulas\"}",
+     "'This time we're also giving an extra focus to cycling - helping to provide the training, cycle parking, and maintenance knowhow to support the introduction of the first two Cycle Superhighways next year.'",
+     "Funding for local schemes is allocated each year by Transport for London (TfL).",
+     "The Mayor has simplified the system - reducing the number of funding streams from 23 to five, and introducing fairer funding formulas where needed.",
+     "London's Transport Commissioner, Peter Hendy, said: 'Westminster has identified a range of small and large scale projects that will make a real difference to local people by improving town centres and public spaces, reducing the number of collisions on our roads, improving the environment and promoting greener forms of travel.",
+     "'Westminster also has the flexibility to move certain funding between projects if, during the course of the year, more or less funding is needed for individual schemes.'",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Each borough produces a Local Implementation Plan (LIP) to demonstrate how it plans to implement the Mayor's Transport Strategy locally. While TfL allocated funding for individual schemes, the LIP and delivery of individual projects is the responsibility of each borough\",\"In addition to the usual borough allocation, TfL has included £100,000 for each of the boroughs to spend locally on transport as they choose\",\"Below is a table with a breakdown of LIP funding for Westminster:\"]}",
+     "\u003cbr /\u003e",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eProgramme allocation\\u003c/strong\\u003e \",\"\\u003cstrong\\u003e(£000)\\u003c/strong\\u003e \"],[\"Maintenance\",\"752\"],[\"Corridors\",\"2,170\"],[\"Neighbourhoods\",\"1,395\"],[\"Smarter travel\",\"502\"],[\"Area-based schemes\",\"768\"],[\"Local transport funding\",\"100\"],[\"\",\"\"],[\"\\u003cstrong\\u003eTotal\\u003c/strong\\u003e \",\"5,687\"]]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

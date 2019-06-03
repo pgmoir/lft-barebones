@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Fleet Auto Pay statements",
+ "keywords": "TfL",
+ "description": "View and download your Auto Pay statements.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Fleet Auto Pay statements"
+  }
+ ],
+ "title": {
+  "title": "Fleet Auto Pay statements",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"View and download your Auto Pay statements.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Statements are available 24 months after first being issued."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

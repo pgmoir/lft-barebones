@@ -1,0 +1,108 @@
+{
+ "pageTitle": "Wood Lane arches",
+ "keywords": "W,Hammersmith \u0026 Fulham,Streetscape,Walking,TfL",
+ "description": "Developing the disused arches at Wood Lane will help to transform the area",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Wood Lane arches"
+  }
+ ],
+ "title": {
+  "title": "Wood Lane arches",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're creating commercial and retail units in our mostly disused railway arches at Wood Lane Tube station, work that will support new jobs and opportunities for businesses. We plan to complete the first phase of the project in spring 2019, with new businesses opening later in that year.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We own 31 arches in the Hammersmith \u0026 City line railway viaduct at Wood Lane Tube station. We have planning permission from Hammersmith \u0026 Fulham Council  to convert the arches into commercial units which could become cafés, restaurants or shops.",
+     "Our arches are in the White City Opportunity Area close to several major housing developments. We want to contribute to the regeneration of the area by opening up some of our arches as public access routes.",
+     "The White City Opportunity Area is aimed at generating 6,000 new homes and 10,000 new jobs.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The works\"}",
+     "We plan to carry out the works in two separate phases, coordinating with the construction timetables of nearby developments. The first phase would create 13 new commercial units and three arches for public access.",
+     "We showed our proposals for the arches at public drop-in sessions in November 2016.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Wood Lane arches proposals - display boards\",\"url\":\"/cdn/static/cms/documents/wood-land-arches-public-consultation-display-boards.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.71MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wood-lane-arches-future-cgi.jpg\",\"alt\":\"The future development\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wood-lane-arches-rail-line.jpg\",\"alt\":\"Rail line over disused arches\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wood-lane-arches-inside.jpg\",\"alt\":\"Inside a disused arch\"}],\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Commercial properties",
+      "url": "/info-for/business-and-commercial/commercial-properties",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

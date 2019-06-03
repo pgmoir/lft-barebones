@@ -1,0 +1,123 @@
+{
+ "pageTitle": "Borrowing programme",
+ "keywords": "TfL",
+ "description": "Investment in TfL can be made through our public market borrowing programmes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Investors",
+   "url": "/info-for/investors/index"
+  },
+  {
+   "title": "Borrowing programme"
+  }
+ ],
+ "title": {
+  "title": "Borrowing programme",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are the UK's leading public sector issuer of capital markets debt after the Government's Debt Management Office.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Public market borrowing programmes\"}",
+     "Investment in Transport for London can be made through either of our two public market borrowing programmes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A £5bn Medium Term Note (MTN)\",\"A £2bn Commercial Paper (CP)\"]}",
+     "Since July 2012 we have issued more than £3bn of bonds under our MTN programme and are an active player in the CP market. The funds raised from our borrowing programmes are used for capital expenditure and to re-finance existing debt. Our funds are purchased by both domestic and international investors.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Documentation\"}",
+     "Download documentation relating to the \u003ca href=\"/info-for/investors/borrowing-program/documentation\"\u003eMTN and CP programmes\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Green Bond\"}",
+     "Our overarching goal is to keep London working, growing, and making it a better place to live by providing safe, reliable and sustainable transport.",
+     "With London's population expected to exceed 10 million by 2030, we will need to increase its service capacity to support such growth. We are committed to do so using good practice, innovation and smart technology in order to achieve environmentally-efficient growth, consistent with its driving principles.",
+     "We issued our debut sterling Green Bond in April 2015. The purpose of the Green Bond is to finance five eligible green project categories, detailed in our Green Bond framework.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Green Bond framework\",\"url\":\"/cdn/static/cms/documents/tfl-green-bond-framework.pdf\",\"icon\":\"download\",\"size\":\"PDF 232KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "DNV GL Business Assurance Services Limited (DNV GL) has been commissioned to provide a second party opinion of the Green Bond framework, to include an assessment of the alignment of it with the Green Bond principles and to review the environmental benefits of the five eligible green project categories.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Green Bond second party opinion\",\"url\":\"/cdn/static/cms/documents/dnv-gl-green-bond-opinion.pdf\",\"icon\":\"download\",\"size\":\"PDF 386KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The TfL \u003ca href=\"/corporate/publications-and-reports/health-safety-and-environment\"\u003eHealth, Safety and Environment report\u003c/a\u003e , as well as the management assertion on the use of proceeds, is published on an annual basis. As of 31 March 2018 there have been no changes to the allocation of the proceeds from TfL 2.125% Notes Due 24 April 2025 since 31 March 2016, as reported in the management assertion below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Use of Proceeds management assertion (2016)\",\"url\":\"/cdn/static/cms/documents/tfl-green-bond-management-assertion-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 412KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"/corporate/about-tfl/environment\"\u003eRead more about our environmental policies.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Investors",
+    "links": [
+     {
+      "title": "Credit highlights",
+      "url": "/info-for/investors/credit-highlights",
+      "image": {}
+     },
+     {
+      "title": "Ratings",
+      "url": "/info-for/investors/Ratings",
+      "image": {}
+     },
+     {
+      "title": "Funding sources",
+      "url": "/info-for/investors/funding-sources",
+      "image": {}
+     },
+     {
+      "title": "Borrowing programme",
+      "url": "/info-for/investors/borrowing-programme",
+      "image": {}
+     },
+     {
+      "title": "Documentation",
+      "url": "/info-for/investors/borrowing-program/documentation",
+      "image": {}
+     },
+     {
+      "title": "Announcements",
+      "url": "/info-for/investors/announcements",
+      "image": {}
+     },
+     {
+      "title": "Reports",
+      "url": "/info-for/investors/reports",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Investors",
+     "url": "/info-for/investors/reports",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

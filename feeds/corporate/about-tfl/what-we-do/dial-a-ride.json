@@ -1,0 +1,182 @@
+{
+ "pageTitle": "London Dial-a-Ride",
+ "keywords": "Dial a Ride passengers,Public,Assisted travel,TfL",
+ "description": "We run a door-to-door service who can't safely use other forms of public transport",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "What we do",
+   "url": "/corporate/about-tfl/what-we-do"
+  },
+  {
+   "title": "London Dial-a-Ride"
+  }
+ ],
+ "title": {
+  "title": "London Dial-a-Ride",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"London Dial-a-Ride is a free door-to-door transport service for disabled people who can't use buses, trains or the Tube. Members of the scheme can use Dial-a-Ride services for all sorts of journeys, making it easier to go shopping, visit friends and attend doctor appointments.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Dial-a-Ride started in London more than 30 years ago - we've been running it since 2002.",
+     "It can offer journeys (subject to availability) between 06:00 and 02:00, 365 days a year.",
+     "Our section for \u003ca href=\"/modes/dial-a-ride/index\"\u003eDial-a-Ride\u003c/a\u003e customers details what services are on offer.",
+     "For more information about our efforts to make the Capital's transport system more accessible to disabled customers, visit the \u003ca href=\"/transport-accessibility/door-to-door-transport-services\"\u003elocal transport services\u003c/a\u003e page in our accessibility section.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quick facts\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"1.2 million journeys per year\",\"91% of requested journeys successfully booked in 2017/18\",\"Service operates 365 days a year\",\"Customer satisfaction rating of 92 out of 100\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "What we do",
+    "links": [
+     {
+      "title": "Buses",
+      "url": "/corporate/about-tfl/what-we-do/buses",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/what-we-do/coaches",
+      "image": {}
+     },
+     {
+      "title": "Cycling",
+      "url": "/corporate/about-tfl/what-we-do/cycling",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway",
+      "url": "/corporate/about-tfl/what-we-do/docklands-light-railway",
+      "image": {}
+     },
+     {
+      "title": "Emirates Air Line",
+      "url": "/corporate/about-tfl/what-we-do/emirates-air-line",
+      "image": {}
+     },
+     {
+      "title": "London Dial-a-Ride",
+      "url": "/corporate/about-tfl/what-we-do/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/what-we-do/london-overground",
+      "image": {}
+     },
+     {
+      "title": "London Trams",
+      "url": "/corporate/about-tfl/what-we-do/london-trams",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "/corporate/about-tfl/what-we-do/london-transport-museum",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/what-we-do/london-underground",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/what-we-do/river",
+      "image": {}
+     },
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 private hire",
+      "url": "/corporate/about-tfl/what-we-do/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "TfL Rail",
+      "url": "/corporate/about-tfl/what-we-do/tfl-rail",
+      "image": {}
+     },
+     {
+      "title": "Walking",
+      "url": "/corporate/about-tfl/what-we-do/walking",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "What we do",
+     "url": "/corporate/about-tfl/what-we-do/walking",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Dial-a-Ride",
+      "url": "/modes/dial-a-ride/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

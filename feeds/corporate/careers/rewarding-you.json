@@ -1,0 +1,151 @@
+{
+ "pageTitle": "Rewarding you",
+ "keywords": "TfL",
+ "description": "If we are to attract the right talent and retain the energy and commitment of our people, we must provide the rewards for that to happen.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Rewarding you"
+  }
+ ],
+ "title": {
+  "title": "Rewarding you",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If we are to attract the right talent and retain the energy and commitment of our people, we must provide the rewards for that to happen.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This means more than simply providing a competitive pay and benefits package. We also aim to recognise individual and team success through performance-related pay and bonuses.",
+     "In addition, we offer lifestyle discounts for retail and travel purchases and tax-efficient schemes for childcare and cycle-to-work purchases.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rewards\"}",
+     "Rewards vary* according to the business area and role but may include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Final salary pension scheme\",\"Free travel for you and a nominated partner/family member on the TfL network\",\"A 75% discount on National Rail Season Ticket and interest-free loan\",\"Minimum of 29 days annual leave plus public holidays\",\"Private healthcare discounted scheme - optional\",\"Tax-efficient childcare payments\",\"Tax-efficient cycle-to-work programme\",\"Retail, health, leisure and travel offers including discounted Eurostar travel\"]}",
+     "*Different terms and conditions apply to our Surface Transport vehicle maintenance (London Dial-a-Ride) scheme.",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Pension Fund\"}",
+     "It's never too early to start thinking about your pension - your future comfort depends on it.\nWe offer a fantastic final salary pension scheme that provides excellent benefits for you and your dependants.",
+     "Visit the \u003ca href=\"http://www.tfl.gov.uk/microsites/pensions/home.asp\"\u003eTfL Pension Fund\u003c/a\u003e website for all you need to know about these benefits, how\nmuch you'll contribute, and what you can expect to receive while\nworking, after leaving and during your well-earned retirement."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "TfL Pension Fund",
+      "url": "http://www.tfl.gov.uk/microsites/pensions/home.asp",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Search for jobs",
+      "url": "https://tfl.taleo.net/careersection/external/moresearch.ftl?lang=en",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "socialmedianotsure",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "pageTitle": "Travel date and charges",
+ "keywords": "TfL",
+ "description": "Choose the date and time of day you will be driving the vehicle in central London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Travel date and charges"
+  }
+ ],
+ "title": {
+  "title": "Travel date and charges",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Choose the date and time of day you will be driving the vehicle in central London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Based on the vehicle registration (VRM) details that you have entered and the classification information held by Transport for London (TfL) on this day, your vehicle is deemed 100% discounted and you are not required to pay the congestion charge.",
+     "If you believe that this information is incorrect and you still want to pay the Congestion Charge, then you can continue.",
+     "\u003cstrong\u003ePlease be aware that classification may change without notification, so you should always check to see if payment is required for journeys into the zone.\u003c/strong\u003e ",
+     "Based on the vehicle registration (VRM) details that you have entered and the classification information held by Transport for London (TfL) on this day, your vehicle is deemed exempt and you are not required to pay the congestion charge.",
+     "If you believe that this information is incorrect and you still want to pay the Congestion Charge, then you can continue.",
+     "\u003cstrong\u003ePlease be aware that classification may change without notification, so you should always check to see if payment is required for journeys into the zone.\u003c/strong\u003e ",
+     "1 charging day {0}.",
+     "This vehicle is exempt from the Congestion Charge."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "description": "CircleDistrictHammersmith \u0026 City Metropolitan At King's Cross St. Pancras, we cannot yet predict with any confidence when the full Piccadilly line service will resume. We will update you when we have more information.Thank you for your patience whilst we",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "13 July service update: 1400 hours",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "We are working with the Police and hope to have a full service on the following lines five days after the investigations are completed at Aldgate and Edgware Road:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Circle\",\"District\",\"Hammersmith \\u0026 City\",\"Metropolitan\"]}",
+     "At King's Cross St. Pancras, we cannot yet predict with any confidence when the full Piccadilly line service will resume.",
+     "We will update you when we have more information.",
+     "Thank you for your patience whilst we do our best to return services to normal."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

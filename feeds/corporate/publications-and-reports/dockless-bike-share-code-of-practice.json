@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Dockless cycle hire",
+ "keywords": "Boroughs,Cyclists,Planning and construction,Public,D,Policy,Cycling,TfL,Dockless bike hire share schemes code of practice",
+ "description": "Code of practice for dockless bike share schems",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Dockless cycle hire"
+  }
+ ],
+ "title": {
+  "title": "Dockless cycle hire",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This code of practice has been developed by TfL in collaboration with London's boroughs and other key stakeholders for potential operators of dockless cycle hire schemes. Dockless cycle hire is a service in which bikes can be located, hired and unlocked using a smartphone app and do not require a docking station.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The code lets operators know what is expected of them and ensures that dockless bike schemes complement London's public transport network and support the Mayor's Transport Strategy.",
+     "Dockless cycle hire has potential to make cycling more accessible and attractive for Londoners. While we welcome responsible bike hire initiatives, dockless bike operators need to work with TfL and London boroughs to make sure that schemes do not have a negative impact on other cyclists, road users and pedestrians or result in unlawful highway obstruction.",
+     "The code, which will be regularly reviewed and updated, outlines the requirements and recommendations that dockless bike share operators are expected to follow in London. It complements existing laws and regulations, which operators must comply with at all times.",
+     "The updated code (September 2018) extends to include electric dockless bikes and provides greater detail on engagement, operational safety, parking and data requirements.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dockless bike share code of practice\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Dockless bike share code of practice\",\"url\":\"/cdn/static/cms/documents/dockless-bike-share-code-of-practice.pdf\",\"icon\":\"download\",\"size\":\"PDF 423KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

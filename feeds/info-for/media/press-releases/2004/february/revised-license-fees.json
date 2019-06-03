@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Revised License Fees",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Revised License Fees",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London has approved the following fees with effect from 1 April 2004."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"table\",\"titles\":[\"Fee Type\",\"Current Fee\",\"New Fee\",\"Licence Period\"],\"rows\":[[],[\"Taxi Driver Licence\",\"£241\",\"£249\",\"3 years\"],[\"Taxi Driver Knowledge\",\"£100\",\"£100\",\"One-off\"],[\"Taxi Licence\",\"£140\",\"£146\",\"1 year\"],[\"Private Hire Operator Application\",\"£619\",\"£637\",\"5 years\"],[\"Private Hire Operator Licence (Small)\",\"£500\",\"£500\",\"5 years\"],[\"Private Hire Operator Licence (Standard)\",\"£1,459\",\"£1,510\",\"5 years\"],[\"Private Hire Driver Application\",\"£131\",\"£157\",\"3 years\"],[\"Private Hire Driver Licence\",\"£87\",\"£105\",\"3 years\"]]}",
+     "The increases in respect of the taxi trade have been included in the cost of living index used to set the forthcoming rise in taxi fares",
+     "Transport for London has also authorised the making of private hire vehicle regulations, which includes the following application and licence fees. The effective date for the introduction of private hire vehicle licensing will be announced separately.",
+     "{\"template\":\"table\",\"titles\":[\"Fee Type\",\"Current Fee\",\"New Fee\",\"Licence Period\"],\"rows\":[[],[\"Private Hire Vehicle Application\",\"None\",\"£75\",\"1 year\"],[\"Private Hire Vehicle Licence\",\"None\",\"£25\",\"1 year\"]]}",
+     "Roy Ellis\u003cbr /\u003eHead of the Public Carriage Office\u003cbr /\u003e",
+     "\u003cstrong\u003eFor media enquiries contact the TfL press office on 020 7941 4141/4881.\u003c/strong\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

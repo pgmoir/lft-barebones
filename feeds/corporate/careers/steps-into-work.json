@@ -1,0 +1,121 @@
+{
+ "pageTitle": "Steps into work",
+ "keywords": "TfL,Steps into Work, disabilities, work experience",
+ "description": "A page about the Steps into Work programme",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Steps into work"
+  }
+ ],
+ "title": {
+  "title": "Steps into work ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Steps into Work programme is a 12-month scheme which offers people with mild to moderate learning disabilities and those on the autism spectrum the chance to gain skills and work experience.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/steps-into-work-12.jpg\",\"alt\":\"steps into work\"},\"wrapped\":false}",
+     "If you are 16 years or older and have mild to moderate learning disabilities and/or are on the autism spectrum, this programme gives you the chance to develop your employability skills through work experience to prepare you to look for a paid job.",
+     "On the programme, you will complete work experience placements and will be supported in completing a BTEC Level 1 Work Skills qualification.",
+     "There are 24 places each year on the Steps into Work programme. It runs from September to August, Monday to Friday, 10:00 to 15:30.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How to get on the programme\"}",
+     "Please email \u003ca href=\"mailto:stepsintowork@tfl.gov.uk\"\u003estepsintowork@tfl.gov.uk\u003c/a\u003e or call 020 3054 2718 to request an expression of interest form or for further information about the programme."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "About Steps into Work",
+      "url": "/corporate/careers/about-steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

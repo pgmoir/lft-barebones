@@ -1,0 +1,49 @@
+{
+ "pageTitle": "Refund a LEZ charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Refund a LEZ charge"
+  }
+ ],
+ "title": {
+  "title": "Refund a LEZ charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "We will respond to your request within 10 working days. If your refund request is approved, the refund will be made to the card used to make the original payment. If the payment was made by cheque you will be refunded by cheque.",
+     "Read the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging#Keeping%20personal%20information%20secure\"target=\"_blank\"\u003eLondon Road User Charging privacy notice\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

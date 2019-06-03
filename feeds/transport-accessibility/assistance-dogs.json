@@ -1,0 +1,170 @@
+{
+ "pageTitle": "Assistance dogs",
+ "keywords": "TfL",
+ "description": "Advice to customers who wish to take assistance dogs with them into taxis, minicabs or chauffeured vehicles, particularly regarding complaints",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transport accessibility",
+   "url": "/transport-accessibility/index"
+  },
+  {
+   "title": "Assistance dogs"
+  }
+ ],
+ "title": {
+  "title": "Assistance dogs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Know your rights when travelling by taxi, minicab or chauffeured vehicle with an assistance dog.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Drivers or companies refusing dogs\"}",
+     "Any taxi (black cab) or private hire (minicab) driver, or minicab company who refuses a fare, or charges an additional fee because a passenger has an assistance dog risks prosecution and the possible loss of their licence.",
+     "If you have an assistance dog and are refused a journey or charged more, please report this to us. All complaints will be fully investigated.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"A guide to assistance dogs for London's private hire drivers\"}",
+     "We have produced an animated guide to assistance dogs. It reminds drivers that assistance dogs should be carried with their owners in all private hire vehicles, at no extra charge.",
+     "There are different types of assistance dogs providing a wide range of support to older and disabled people. Not all assistance dogs wear a jacket and there are other assistance dogs in addition to those shown in our film and on the poster and leaflet. Taxi drivers, private hire operators and drivers should be aware that some passengers may have a health condition that is not obvious or visible but will still have an assistance dog.",
+     " \u003ca href=\"/info-for/taxis-and-private-hire/passengers-and-accessibility\"\u003eWatch our short video\u003c/a\u003e on what taxi and private hire drivers must do when a passenger has an assistance dog. Or \u003ca href=\"https://soundcloud.com/transportforlondon/know-your-rights/s-UtO8g\"\u003elisten to an audio-only version of the film on SoundCloud\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How to contact us if there is a problem\"}",
+     "If you experience a problem with assistance dogs when using taxi or private hire services in London, please let us know by contacting us:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eOnline\\u003c/strong\\u003e : \\u003ca href=\\\"http://tfl.gov.uk/tph-comments\\\"\\u003etfl.gov.uk/tph-comments\\u003c/a\\u003e \",\"\\u003cstrong\\u003ePhone\\u003c/strong\\u003e : 0343 222 4000\",\"\\u003cstrong\\u003ePost\\u003c/strong\\u003e : London Taxi and Private Hire, TfL Customer Services, 4th Floor, 14 Pier Walk, London SE10 0ES\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"More information\"}",
+     "There's more information on travelling with an assistance dog in a taxi or private hire vehicle in this leaflet. You can get braille versions of this leaflet, and the driver information leaflet on assistance dogs, by \u003ca href=\"mailto:tflaccessibility@tfl.gov.uk\"\u003eemailing us\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Know your rights when travelling with assistance dogs\",\"url\":\"/cdn/static/cms/documents/assistance-dogs-know-your-rights.pdf\",\"icon\":\"download\",\"size\":\"PDF 361KB\",\"image\":{}},{\"title\":\"Know your rights when travelling with assistance dogs (large print)\",\"url\":\"/cdn/static/cms/documents/know-your-rights-travelling-with-assistance-dogs-large-print.pdf\",\"icon\":\"download\",\"size\":\"PDF 143KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Transport accessibility",
+    "links": [
+     {
+      "title": "Plan an accessible journey",
+      "url": "/transport-accessibility/plan-an-accessible-journey",
+      "image": {}
+     },
+     {
+      "title": "Public transport support",
+      "url": "/transport-accessibility/learn-to-use-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Help from staff",
+      "url": "/transport-accessibility/help-from-staff",
+      "image": {}
+     },
+     {
+      "title": "Fares \u0026 tickets",
+      "url": "/transport-accessibility/fares-and-tickets",
+      "image": {}
+     },
+     {
+      "title": "Wheelchair access \u0026 avoiding stairs",
+      "url": "/transport-accessibility/wheelchair-access-and-avoiding-stairs",
+      "image": {}
+     },
+     {
+      "title": "Priority seating and other features on board",
+      "url": "/transport-accessibility/features-on-board",
+      "image": {}
+     },
+     {
+      "title": "People with sight or hearing loss",
+      "url": "/transport-accessibility/people-with-sight-or-hearing-loss",
+      "image": {}
+     },
+     {
+      "title": "Pregnant women \u0026 buggy users",
+      "url": "/transport-accessibility/pregnant-women-and-pushchairs",
+      "image": {}
+     },
+     {
+      "title": "Using the pavement",
+      "url": "/transport-accessibility/road-users-and-pedestrians",
+      "image": {}
+     },
+     {
+      "title": "Door-to-door transport services",
+      "url": "/transport-accessibility/door-to-door-transport-services",
+      "image": {}
+     },
+     {
+      "title": "Accessibility guides \u0026 maps",
+      "url": "/transport-accessibility/accessibility-guides-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Equality and assistance policies, and future plans",
+      "url": "/transport-accessibility/equality-policy-and-future-plans",
+      "image": {}
+     },
+     {
+      "title": "Contact us about accessibility",
+      "url": "/transport-accessibility/contact-us-about-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Assistance dogs",
+      "url": "/transport-accessibility/assistance-dogs",
+      "image": {}
+     },
+     {
+      "title": "Blue Badges and driving",
+      "url": "/transport-accessibility/blue-badges-and-driving",
+      "image": {}
+     },
+     {
+      "title": "Accessible travel stories",
+      "url": "/transport-accessibility/accessible-travel-stories",
+      "image": {}
+     },
+     {
+      "title": "Please offer me a seat",
+      "url": "/transport-accessibility/please-offer-me-a-seat",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Transport accessibility",
+     "url": "/transport-accessibility/please-offer-me-a-seat",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

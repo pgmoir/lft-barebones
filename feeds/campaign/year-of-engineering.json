@@ -1,0 +1,86 @@
+{
+ "pageTitle": "Year of Engineering",
+ "keywords": "TfL,Year of Engineering 2018 schools TfL",
+ "description": "Year of Engineering 2018",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Year of Engineering"
+  }
+ ],
+ "title": {
+  "title": "Year of Engineering",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "TfL is celebrating all things science, technology, engineering and mathematics during the \u003ca href=\"https://www.yearofengineering.gov.uk\"\u003eYear of Engineering\u003c/a\u003e .",
+     "Our science, technology, engineering and mathematics (STEM) volunteers can come to your school to show how school-based subjects come to life in the real world - and how they help us keep London moving.",
+     "Our School Skills programme of activities is designed to support the curriculum. It helps young people understand the wide range of STEM careers available in the 21st century and enables parents, carers, teachers and careers advisors to see some of the opportunities of the future.",
+     "We aim to support greater diversity in the transport industry, encourage social mobility and address the scarcity of key skills, including technology and engineering.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Engineering opportunities\"}",
+     "Some of our engineers pictured in their workplaces.",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer3.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer12.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer7b.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer2.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer9.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineers6.jpg\",\"alt\":\"TfL engineers photographed with projects they work on\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer8.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer11.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer7.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer4.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/engineer10.jpg\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"School Skills activities and resources for the Year of Engineering\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eAge group \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eActivity \\u003c/strong\\u003e \",\"\\u003cstrong\\u003ePurpose\\u003c/strong\\u003e \",\"\"],[\"16+\",\" \\u003ca href=\\\"/info-for/schools-and-young-people/innovate-tfl\\\"\\u003eInnovate TfL\\u003c/a\\u003e \",\"The TfL Schools Challenge: Innovate TfL, in association with Cleshar, is a unique opportunity for Year 12 and 13 students to develop the skills employers want, and win work experience at TfL.\",\"\"],[\"14-16\",\"GCSE project\",\"This activity complements teaching at GCSE across multiple core and foundation subjects including Mathematics, English, Geography and Design and technology. It's currently in its pilot phase.\",\"\"],[\"11-19\",\" \\u003ca href=\\\"/info-for/schools-and-young-people/teaching-resources/youth-travel-ambassadors\\\"\\u003eYouth Travel Ambassadors\\u003c/a\\u003e \",\"Young people aged 11-19 can make a difference to the transport issues affecting their school communities. Youth Travel Ambassadors (YTA) is a youth-led programme for secondary schools and sixth form centres in London.\\u003cbr /\\u003e\",\"\"],[\"12-14\",\" \\u003ca href=\\\"/info-for/schools-and-young-people/inspire-engineering\\\"\\u003eInspire engineering days\\u003c/a\\u003e \",\"This interactive day introduces students to how our engineers shape the city we serve, making life in London better. To inspire and enrich problem solving and communication skills in years 7, 8 and 9.\\n            Primary\",\"\"],[\"Primary\",\" \\u003ca href=\\\"https://www.ltmuseum.co.uk/learning/schools/key-stage-2\\\"\\u003eThe world's first underground railway\\u003c/a\\u003e \",\"This activity introduces primary school pupils to engineering habits of mind. It's a fun and inspiring way to engage in problem solving and teamwork.\",\"\"],[\"Primary, secondary and further education\",\" \\u003ca href=\\\"https://www.stem.org.uk/stem-ambassadors/\\\"\\u003eSTEM Ambassadors\\u003c/a\\u003e \",\"STEM professional volunteers enrich STEM learning in schools. They can be requested through the national \\u003ca href=\\\"https://www.stem.org.uk/stem-ambassadors/join-stem-ambassador-programme\\\"\\u003eSTEMLearning\\u003c/a\\u003e database or the \\u003ca href=\\\"mailto:EngineeringAmbassadors@ltmuseum.co.uk\\\"\\u003eLondon Transport Museum\\u003c/a\\u003e .\\u003cbr /\\u003e\",\"\"],[\"Primary, secondary and further education\",\" \\u003ca href=\\\"http://www.inspiringthefuture.org/\\\"\\u003eInspiring the Future / Inspiring Women / Primary Futures\\u003c/a\\u003e \",\"This initiative aims to improve careers advice from primary to 6th form and to promote the diversity of different careers in transport. Volunteers are requested through the \\u003ca href=\\\"https://www.inspiringthefuture.org/schools-and-colleges-2\\\"\\u003einspiring the future\\u003c/a\\u003e national volunteering database.\\u003cbr /\\u003e\",\"\"],[\"11-24\",\" \\u003ca href=\\\"http://www.plotr.co.uk/careers/worlds/a-better-connected-future-transport-careers/\\\"\\u003ePlotr \\\"A better connected world\\\" transport careers\\u003c/a\\u003e \",\"Plotr is a free-to-access, highly engaging, careers information website that connects young people with employers and jobs that fit their interests, skills and personality. You can explore transport careers in our online transport world.\",\"\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Register your school\"}",
+     "If you have an enquiry or would like to register your school for an event, email your contact details to \u003ca href=\"mailto:YoE@tfl.gov.uk\"\u003eYoE@tfl.gov.uk\u003c/a\u003e .",
+     "We'll only use your information to contact you about Year of Engineering events and it will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data visit our \u003ca href=\"/corporate/privacy-and-cookies/index\"\u003eprivacy and cookies\u003c/a\u003e pages."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

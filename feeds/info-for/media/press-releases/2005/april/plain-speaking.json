@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Plain speaking",
+ "description": "This consistency will provide customers with accurate and clear information about the service if it's disrupted so they will be able to make informed decision on how to continue their journey. This information will also be displayed on the service update",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Plain speaking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Tube platform announcements telling customers how the service is running will, from April 3, be consistent across the Underground network."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "\u003cbr /\u003eThis consistency will provide customers with accurate and clear \ninformation about the service if it's disrupted so they will be able to make \ninformed decision on how to continue their journey.",
+     "This information will also be displayed on the service update boards in the \nticket halls.",
+     "\u003cstrong\u003eImproving customer information\u003c/strong\u003e ",
+     "{\"template\":\"table\",\"titles\":[\"Customer message\",\"What this means\"],\"rows\":[[],[\"Good Service\",\"No noticeable impact on your journey\"],[\"Minor Delays\",\"Noticeably longer journey time however, stay with your planned \\nroute\"],[\"Severe Delays\",\"Significantly longer journey time - consider using another route\"],[\"Suspended / Part Suspended\",\"Your planned route is unavailable - please use another route or mode of \\ntransport - ask staff about your options\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

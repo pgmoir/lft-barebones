@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Freedom of Information",
+ "keywords": "TfL",
+ "description": "Freedom of Information",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transparency",
+   "url": "/corporate/transparency/index"
+  },
+  {
+   "title": "Freedom of Information"
+  }
+ ],
+ "title": {
+  "title": "Freedom of Information",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "title": "Performance of FOI requests",
+    "texts": [
+     "We receive around 3,000 requests every year and publish performance figures annually"
+    ],
+    "link": {
+     "url": "/corporate/transparency/freedom-of-information/foi-performance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Appealing about a response",
+    "texts": [
+     "If you are unhappy about our handling of a request you can ask for an internal review"
+    ],
+    "link": {
+     "url": "/corporate/transparency/freedom-of-information/appealing-about-an-foi-response",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Exemptions \u0026 charges",
+    "texts": [
+     "Although we answer most FOI requests in full, some information is protected by law"
+    ],
+    "link": {
+     "url": "/corporate/transparency/freedom-of-information/foi-exemptions-and-charges",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "description": "A number of Tube stations had to be temporarily closed on Friday due to unattended items being left in stations.During these difficult times, we especially ask that passengers be extra careful not to leave belongings behind or leave litter on trains or at",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "How to help Tube staff on Monday / service update",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Passengers should be reassured that safety is the top priority for London Underground, the British Transport Police and the Metropolitan Police. Underground staff will be out in stations reassuring passengers that the Tube is safe to travel on. Approaching 4000 Underground staff are on duty during the morning peak on weekdays."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A number of Tube stations had to be temporarily closed on Friday due to unattended items being left in stations.",
+     "During these difficult times, we especially ask that passengers be extra careful not to leave belongings behind or leave litter on trains or at stations as these will cause unnecessary security alerts.",
+     "Passengers should remain vigilant and question any suspect items or behaviour and immediately inform Tube staff or the Police.\u003cbr /\u003eWe expect that a normal service will operate on the following lines:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bakerloo, Central, East London, Jubilee, Northern, Victoria and Waterloo \\u0026 City lines.\",\"The Circle line remains suspended. Hammersmith \\u0026 City line will operate between Hammersmith and Paddington only. There will be no service on the Metropolitan line between Moorgate and Aldgate and on the District line there will be no service between High Street Kensington and Edgware Road.\",\"On the Piccadilly line there will be no service between Hyde Park Corner and Arnos Grove and between Rayners Lane and Uxbridge. A special bus service will call at Arnos Grove and Finchley Central to provide a connection with the Northern line. A second service calling at Bounds Green, Wood Green, Turnpike Lane and Seven Sisters will operate to connect with Victoria line services. Additional bus services are operating on route 91 between Holloway Road and Euston via Caledonian Road and King's Cross St Pancras.\",\"From the first train tomorrow (18 July) King's Cross St Pancras Underground station is open for the Metropolitan, Northern and Victoria lines and interchange with other Underground lines is available.\"]}",
+     "London Underground expects that passenger numbers will be lower tomorrow compared to a normal Monday in London but as the days go on we anticipate that Londoners will return to using the Tube in the same numbers as they did before."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

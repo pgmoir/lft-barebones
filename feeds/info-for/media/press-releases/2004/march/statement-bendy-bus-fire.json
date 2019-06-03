@@ -1,0 +1,64 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Statement: Bendy bus fire",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A bendy bus on route 436 caught fire in London on Saturday 20th March at 1815. Operated by London Central, the bus was on Park Lane travelling northbound when the engine caught fire. Approximately 30 passengers were safely evacuated and there were no injuries to them, the driver or other road users. London Fire brigade attended, but aided by strong winds, the vehicle was gutted."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This is the third incident of a bus in service suffering from an engine fire since December 2003. Previous incidents were also on route 436 buses on the Edgware Road (December) and in Camberwell (February). Fortunately there has been no injury of loss of life in any of the three incidents, nor in any other bus fire in London.",
+     "Following a high-level meeting today between TfL, Mercedes (the bus manufacturer) and London Central (route 436 operator) the following actions were agreed:",
+     "For press enquiries contact the TfL press office on 020 7941 4141."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

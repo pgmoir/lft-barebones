@@ -1,0 +1,72 @@
+{
+ "pageTitle": "TfL advice on travelling to World Cup qualifying game at Wembley this evening",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL advice on travelling to World Cup qualifying game at Wembley this evening",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is doing everything possible to help get fans to the England v Andorra World Cup qualifying game at Wembley stadium this evening."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We are doing all we can to keep trains running",
+     "However, those travelling to the match should check before they travel, plan their journey and allow much more time for their journey, both to and from the venue.",
+     "A TfL spokesperson said: 'We are doing all we can to keep trains running on the Jubilee and Metropolitan Tube lines through Wembley Park station, but services will be reduced.",
+     "'London Overground trains will be running a limited service which will serve the nearby Wembley Central Station.",
+     "'Journeys today will be difficult, so if supporters can travel to Wembley without relying on public transport as their sole means of travel, they should consider that option, including walking for at least part of the journey.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Check before you travel\"}",
+     "'Londoners and fans travelling to the game should check before they travel on the TfL website - \u003ca href=\"http://www.tfl.gov.uk/\"\u003etfl.gov.uk\u003c/a\u003e - and also the \u003ca href=\"http://www.thefa.com/\"\u003eFootball Association website\u003c/a\u003e ",
+     "Fans should note the following points:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The turnstiles will now open earlier at 17:45 to ease the disruption and the game will kick off at 20:15 as planned\",\"The match will not be held behind 'closed doors' and every ticket purchased for it remains valid. Refunds will be made available to ticketholders who decide not to attend this game. For more information on tickets, please check the \\u003ca href=\\\"http://www.thefa.com/\\\"\\u003eFootball Association website \\u003c/a\\u003e \",\"Supporters should travel as early as possible and have alternative routes planned in case of disruption\",\"Check our live travel news and Journey Planner on \\u003ca href=\\\"http://www.tfl.gov.uk/\\\"\\u003etfl.gov.uk\\u003c/a\\u003e for the latest information\",\"When planning journeys to Wembley, \\u003ca href=\\\"http://www.tfl.gov.uk/journeyplanner\\\"\\u003eJourney Planner \\u003c/a\\u003e can direct you to your entry gate. All you need to do is type 'Wembley' as your destination then select 'point of interest' from the drop down box, press enter, then scroll down and select your gate from the list. This will then show the best travel option and walking route\",\"There will also be serious road congestion before and after the match. We understand that there will be no additional parking facilities at or around the stadium area. Drivers are advised to avoid the area if at all possible from late afternoon\",\"Bus services are likely to be delayed due to road congestion. Check Journey Planner for local bus services\\u003cbr /\\u003e\"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

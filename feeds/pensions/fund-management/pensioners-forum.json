@@ -1,0 +1,198 @@
+{
+ "pageTitle": "Pensioners' Forum",
+ "keywords": "TfL",
+ "description": "The role of the TfL Pension Fund's Pensioners' Forum and membership details.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Fund management",
+   "url": "/pensions/fund-management"
+  },
+  {
+   "title": "Pensioners' Forum"
+  }
+ ],
+ "title": {
+  "title": "Pensioners' Forum",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Pensioners' Forum allows representatives of pensioners to meet formally with TfL management to discuss issues affecting pensioners of the TfL Pension Fund. It meets quarterly.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Role of the forum\"}",
+     "The role of the forum is to facilitate discussion between TfL and pensioner representatives about TfL policies which affect TfL pensioners. This includes policies relating to pensions, travel concessions and other relevant matters. (Non-pension matters may be the subject of negotiation).",
+     "The forum does not discuss:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Matters falling within the responsibility of the TfL Pension Fund Trustees\",\"Issues relating to an individual's entitlement to Fund benefits\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Membership\"}",
+     "The forum is made up of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The eight elected members of Section One of the Pension Consultative Council\",\"Four pensioner members, elected by and from the Management Committee of the London Transport Pensioners Association\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Further information\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Constitution of the Pensioners' Forum\",\"url\":\"/cdn/static/cms/documents/pensioners-forum-constitution.pdf\",\"icon\":\"download\",\"size\":\"PDF 43KB\",\"image\":{}},{\"title\":\"LT Pensioners' Association Constitution\",\"url\":\"/cdn/static/cms/documents/lt-pensioners-association-constitution-ltps-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 73KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you have an issue which you wish to raise and consider it may be appropriate for the Pensioners' Forum and are a member of the Fifty Five Society, the LT Pensioners' Association or the LT Retired Staff Association, you should initially seek advice from a Committee member of your Society/ Association. (See page 17 of the TfL Pension Fund, A guide for pensioners or \u003ca href=\"/pensions/contact\"\u003efind contact details on our website\u003c/a\u003e ).",
+     "Otherwise, you may contact the current Pensioners' Spokesperson for the Pensioners' Forum:",
+     "Linda Arwood",
+     "\u003cstrong\u003eTelephone:\u003c/strong\u003e 020 8656 2763",
+     "\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:lindarwood@btinternet.com\"\u003elindarwood@btinternet.com\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Trustee board",
+      "url": "/pensions/fund-management/trustee-board",
+      "image": {}
+     },
+     {
+      "title": "Committees",
+      "url": "/pensions/fund-management/committees",
+      "image": {}
+     },
+     {
+      "title": "Pension Consultative Council",
+      "url": "/pensions/fund-management/pension-consultative-council",
+      "image": {}
+     },
+     {
+      "title": "Pensioners' Forum",
+      "url": "/pensions/fund-management/pensioners-forum",
+      "image": {}
+     },
+     {
+      "title": "Pensions working group",
+      "url": "/pensions/fund-management/pensions-working-group",
+      "image": {}
+     },
+     {
+      "title": "Annual members meeting",
+      "url": "/pensions/fund-management/annual-meeting",
+      "image": {}
+     },
+     {
+      "title": "Investment management and principles",
+      "url": "/pensions/fund-management/investment-management-and-principles",
+      "image": {}
+     },
+     {
+      "title": "Performance",
+      "url": "/pensions/fund-management/performance",
+      "image": {}
+     },
+     {
+      "title": "Accounts",
+      "url": "/pensions/fund-management/accounts",
+      "image": {}
+     },
+     {
+      "title": "Associations",
+      "url": "/pensions/fund-management/associations",
+      "image": {}
+     },
+     {
+      "title": "Transport Benevolent Fund",
+      "url": "/pensions/fund-management/transport-benevolent-fund",
+      "image": {}
+     },
+     {
+      "title": "Staff Welfare Fund",
+      "url": "/pensions/fund-management/staff-welfare-fund",
+      "image": {}
+     },
+     {
+      "title": "Documents",
+      "url": "/pensions/fund-management/documents",
+      "image": {}
+     },
+     {
+      "title": "Actuarial Valuation",
+      "url": "/pensions/fund-management/actuarial-valuation",
+      "image": {}
+     },
+     {
+      "title": "Archive",
+      "url": "/pensions/fund-management/archive",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "pageTitle": "Art \u0026 design",
+ "keywords": "Public,TfL",
+ "description": "From the Tube map to Art Deco architecture, our transport designs have become iconic design classics.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "Art \u0026 design"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Art \u0026 design",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/art-and-design-section.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "From the Tube map to Art Deco architecture, our transport designs have become iconic design classics."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Station architecture",
+    "texts": [
+     "London Underground's architecture gives insight into the city's social history"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/station-architecture",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/t001-14989-culture-heritage-architecture.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Classic transport designs",
+    "texts": [
+     "Find out about the history of the Tube map, and Harry Beck's classic design"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/harry-becks-tube-map",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/lt55815-archive-old-tube-map_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Art on the Underground",
+      "url": "http://art.tfl.gov.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "The Roundel",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/the-roundel",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Art \u0026 design",
+    "links": [
+     {
+      "title": "Station architecture",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/station-architecture",
+      "image": {}
+     },
+     {
+      "title": "Harry Beck's Tube map",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/harry-becks-tube-map",
+      "image": {}
+     },
+     {
+      "title": "The Roundel",
+      "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/the-roundel",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Art \u0026 design",
+     "url": "/corporate/about-tfl/culture-and-heritage/art-and-design/the-roundel",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "London's Transport - a history",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "TfL Corporate Archives",
+      "url": "/corporate/about-tfl/culture-and-heritage/corporate-archives",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Art on the Underground",
+      "url": "http://art.tfl.gov.uk/?intcmp=4906",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

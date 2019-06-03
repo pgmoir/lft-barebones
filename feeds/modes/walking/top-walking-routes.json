@@ -1,0 +1,179 @@
+{
+ "pageTitle": "Walk London",
+ "keywords": "Pedestrians,Public,Walking,TfL",
+ "description": "Beautiful and interesting walks across central and Greater London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London"
+  }
+ ],
+ "title": {
+  "title": "Walk London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Beautiful and interesting walks can be found all across central and Greater London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-addinton-hills.jpg\",\"alt\":\"View from Addinton Hills, London Loop\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bloomsbury-square-gardens-j.jpg\",\"alt\":\"Bloomsbury Square Gardens, Jubilee Walkway\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bow-creek-ecology-park-lea.jpg\",\"alt\":\"Bow Creek Ecology Park, Lea Valley Walk\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-city-hall.jpg\",\"alt\":\"City Hall, Jubilee Walkway \\u0026 Thames Path\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/little-venice-jubilee-gatew.jpg\",\"alt\":\"Little Venice, Jubilee Greenway\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-richmond-riverside.jpg\",\"alt\":\"Richmond Riverside, Capital Ring \\u0026 Thames Path\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/st-james-park-jubilee-walkw.jpg\",\"alt\":\"St James's Park, Jubilee Walkway\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-tower-bridge.jpg\",\"alt\":\"Tower Bridge, Jubilee Walkway \\u0026 Thames Path\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/victoria-park-jubilee-green.jpg\",\"alt\":\"Victoria Park, Jubilee Greenway\"}],\"wrapped\":false}",
+     "Getting to see what London has to offer is easy, especially if you walk: There's lots to explore and some great walks connecting them.",
+     "These seven routes form the Walk London Network, one of the largest walking networks of any city in the world. These routes are specifically designed to be easily accessible by public transport and you can walk as little or as far as you want by walking them in sections.",
+     "So, whether it's a place to feed the ducks, a stroll during your lunch hour or an energetic Sunday walk you're after, our quality walking routes have something for everyone.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Routes\"}",
+     "You can download a map and written directions for each of the sections that make up the Walk London Network routes.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/capital-ring-campaign.jpg\",\"alt\":\"Walking - Capital Ring campaign logo\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/capital-ring\"\u003eCapital Ring\u003c/a\u003e \u003cbr /\u003eA walk through London's greenest suburbs, this 78-mile route is divided into 15 shorter walks, including Richmond Park, Wimbledon Common and Eltham Palace.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/green-chain-campaign.jpg\",\"alt\":\"Walking - Green Chain campaign logo\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/green-chain-walk\"\u003eGreen Chain\u003c/a\u003e \u003cbr /\u003eA network of straight and circular walks across South East London, the route takes in dozens of woods and parks, as well as the Thames Barrier and Crystal Palace.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/jubilee-greenway-campaign.jpg\",\"alt\":\"Walking - Jubilee Greenway campaign logo\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/jubilee-greenway\"\u003eJubilee Greenway\u003c/a\u003e \u003cbr /\u003eCelebrating the Queen's Diamond Jubilee, this path for walkers and cyclists links the Olympic and Paralympic Games venues, including the O2 Arena, Greenwich Park and the Serpentine.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/jubilee-walkway-campaign.jpg\",\"alt\":\"Walking - Jubilee Walkway campaign logo\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/jubilee-walkway\"\u003eJubilee Walkway\u003c/a\u003e \u003cbr /\u003eThis route, created to celebrate the Queen's Silver Jubilee, encompasses London's most iconic landmarks, from St Paul's to Buckingham Palace, and includes Bloomsbury and the City on the way.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/lea-valley-walk-campaign.jpg\",\"alt\":\"Walking - Lea Valley campaign\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/lea-valley\"\u003eLea Valley\u003c/a\u003e \u003cbr /\u003eA glimpse into Britain's industrial past, the path follows the 18 miles along the Lee Navigation towpath, from Waltham Abbey to the Thames at Limehouse Basin.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/london-loop-campaign.jpg\",\"alt\":\"Walking - LOOP campaign logo\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/loop-walk\"\u003eLondon Outer Orbital Path (LOOP)\u003c/a\u003e \u003cbr /\u003eThe London Outer Orbital Path, or LOOP, almost completely encircles Greater London. Nearly 150 miles are split into 24, bite-sized walks.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/thames-path-campaign.jpg\",\"alt\":\"Thames Path campaign logo\"},\"wrapped\":false}",
+     " \u003ca href=\"/modes/walking/thames-path\"\u003eThames Path\u003c/a\u003e \u003cbr /\u003eA 40-mile stretch of easy, level walking on both sides of the river, the path stretches from Hampton Court Palace through the heart of London to East India Dock."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Living Streets",
+      "url": "http://www.livingstreets.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Report street faults",
+      "url": "/help-and-contact/report-roadworks",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Ramblers",
+      "url": "http://www.ramblers.org.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

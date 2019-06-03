@@ -1,0 +1,58 @@
+{
+ "pageTitle": "Oyster cards",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Oyster cards",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "A Transport for London spokesperson said:",
+     "\"There was a technical problem with Oyster card readers at London Underground stations this morning which affected Oyster pay as you go cards only.  Oyster card readers on the bus and tram network were unaffected.",
+     "\"The problem has now been resolved and card readers are progressively coming back on-line at London Underground stations.",
+     "\"Cards have not been disabled and so can continue to be used as normal.  We will automatically refund any passengers who may have been charged the maximum £4 fare as a result of not being able to touch in and out at the beginning and end of their journeys this morning. Oyster card holders need take no further action.",
+     "\"This problem, like the recent issue, resulted from incorrect data tables being sent out by our contractor, Transys (a consortium of the firms EDS and Cubic).  Transys has also issued a statement today confirming that they are taking steps to ensure that this does not happen again, that they will undertake a root cause analysis and, like us, apologising for any inconvenience caused to our customers.\"\u003cbr /\u003e",
+     "\u003cbr /\u003e",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

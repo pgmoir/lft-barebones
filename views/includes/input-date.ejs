@@ -1,0 +1,43 @@
+<div class="lft-form-group">
+  <fieldset class="lft-fieldset" aria-describedby="<%= field.name %>-hint" role="group">
+    <legend class="lft-fieldset__legend lft-fieldset__legend--xl">
+      <label class="lft-fieldset__heading h3">
+        <%= field.question %>
+      </label>
+    </legend>
+    <span id="<%= field.name %>-hint" class="lft-hint">
+      <%- field.hint %>
+    </span>
+    <% if (field.error) { %>
+    <span id="<%= field.name %>-error" class="lft-error-message">
+      <span class="lft-visually-hidden">Error:</span> <%= field.error %>
+    </span>
+    <% } %>
+    <div class="lft-date-input" id="<%= field.name %>">
+      <div class="lft-date-input__item">
+        <div class="lft-form-group">
+          <label class="lft-label lft-date-input__label" for="<%= field.name %>-day">
+            Day
+          </label>
+          <input class="lft-input lft-date-input__input lft-input--width-2 <% if (field.error) { %>lft-input--error<% } %>" id="<%= field.name %>day" name="<%= field.name %>day" type="number" min="1" max="31" maxlength="2" <% if (field.required) { %>required<% } %> value="<%= field.formvalueday %>">
+        </div>
+      </div>
+      <div class="lft-date-input__item">
+        <div class="lft-form-group">
+          <label class="lft-label lft-date-input__label" for="<%= field.name %>-month">
+            Month
+          </label>
+          <input class="lft-input lft-date-input__input lft-input--width-2 <% if (field.error) { %>lft-input--error<% } %>" id="<%= field.name %>month" name="<%= field.name %>month" type="number" min="1" max="12" maxlength="2" <% if (field.required) { %>required<% } %> value="<%= field.formvaluemonth %>">
+        </div>
+      </div>
+      <div class="lft-date-input__item">
+        <div class="lft-form-group">
+          <label class="lft-label lft-date-input__label" for="<%= field.name %>-year">
+            Year
+          </label>
+          <input class="lft-input lft-date-input__input lft-input--width-4 <% if (field.error) { %>lft-input--error<% } %>" id="<%= field.name %>year" name="<%= field.name %>year" type="number" min="1900" max="2020" maxlength="4" size="4" <% if (field.required) { %>required<% } %> value="<%= field.formvalueyear %>">
+        </div>
+      </div>
+    </div>
+  </fieldset>
+</div>

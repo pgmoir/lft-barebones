@@ -1,0 +1,176 @@
+{
+ "pageTitle": "Jubilee Walkway",
+ "keywords": "TfL",
+ "description": "This Walk London route consists of five circular sections and includes some of London's most iconic landmarks.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Jubilee Walkway"
+  }
+ ],
+ "title": {
+  "title": "Jubilee Walkway",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This Walk London route consists of five circular sections and includes some of London's most iconic landmarks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/jubilee-walkway-feb1.jpg\",\"alt\":\"Jubilee Walkway latest\"},\"wrapped\":false}",
+     "The Jubilee Walkway may only be 15 miles long but it contains some of London's most iconic landmarks.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"City Hall\",\"Tate Modern\",\"London Eye\",\"Houses of Parliament\",\"St. James's Park\",\"British Museum\",\"Sir John Soane's Museum\",\"St Paul's Cathedral\",\"Tower of London\",\"Tower Bridge\",\"The Millennium Bridge\",\"Trafalgar Square\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Signage\"}",
+     "You can find out more about route directions from the discs placed at the footway of every junction. Look out for:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Discs featuring the cross of a crown pointing in the direction of travel\",\"Gold discs which mark out special events in history\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route sections\"}",
+     "This walk is divided into sections:",
+     "Section 1: \u003ca href=\"/modes/walking/western-loop-walk\"\u003eThe Western Loop\u003c/a\u003e ",
+     "Section 2: \u003ca href=\"/modes/walking/eastern-loop-walk\"\u003eThe Eastern Loop\u003c/a\u003e ",
+     "Section 3: \u003ca href=\"/modes/walking/the-city-loop\"\u003eThe City Loop\u003c/a\u003e ",
+     "Section 4: \u003ca href=\"/modes/walking/the-camden-loop\"\u003eThe Camden Loop\u003c/a\u003e ",
+     "Section 5: \u003ca href=\"/modes/walking/the-jubilee-loop-walk\"\u003eThe Jubilee Loop\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Certificate\"}",
+     "Completed this walk? Why not download the certificate to celebrate.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Jubilee Walkway certificate\",\"url\":\"/cdn/static/cms/documents/jubilee-walkway-certificate.pdf\",\"icon\":\"download\",\"size\":\"PDF 158KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "The Western Loop",
+      "url": "/modes/walking/western-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "The Eastern Loop",
+      "url": "/modes/walking/eastern-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "The City Loop",
+      "url": "/modes/walking/the-city-loop",
+      "image": {}
+     },
+     {
+      "title": "The Camden Loop",
+      "url": "/modes/walking/the-camden-loop",
+      "image": {}
+     },
+     {
+      "title": "The Jubilee Loop",
+      "url": "/modes/walking/the-jubilee-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

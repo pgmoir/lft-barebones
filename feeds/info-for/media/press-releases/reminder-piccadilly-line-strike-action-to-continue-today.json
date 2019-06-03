@@ -1,0 +1,253 @@
+{
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2018",
+   "url": "/info-for/media/press-releases/2018"
+  },
+  {
+   "title": "September",
+   "url": "/info-for/media/press-releases/2018/september"
+  },
+  {
+   "title": "REMINDER: Piccadilly line strike action to continue today"
+  }
+ ],
+ "title": {
+  "title": "REMINDER: Piccadilly line strike action to continue today",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Action will mean limited service from around 15.30 today, and no service from 22.00 onwards"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Follow tfl.gov.uk/tube-strike and @TfLTravelAlerts, @TfLTrafficNews and @TfLBusAlerts for latest travel information\",\"Services on other Tube lines will continue to run as normal\"]}",
+     "TfL has today reminded customers that strike action on the Piccadilly line could disrupt their journeys later today. Customers should check before they travel using travel advice published on the TfL website and via social media.",
+     "Despite inviting RMT to continue discussions via the conciliation service ACAS to end the strike early, the RMT have not yet agreed to talks and will continue their planned strike action. Services will resume at around 15.30, with frequent trains between Heathrow and Cockfosters, and trains every 5 minutes between Acton Town and Uxbridge. However, the line will begin to wind down again from 22.00.",
+     "There will be no Night Tube running on the Piccadilly line tonight, but all other Night Tube lines will run as normal. Night buses will also be in operation.",
+     "Services will resume to a normal level at around 07.30 on Saturday between Heathrow and Cockfosters, and around 08.30 from Uxbridge to Acton Town.",
+     "For anyone travelling between Heathrow airport and central London today, TfL Rail services will be available to and from London Paddington and Ealing Broadway station every thirty minutes, while Heathrow Express services from Paddington will also run normally.",
+     "All other Tube lines are expected to run as normal. However, interchange stations along the Piccadilly line - Finsbury Park, Green Park, Hammersmith, and King's Cross St Pancras stations, in particular - will continue to be much busier than usual.",
+     "Around 70 additional buses will be in operation to help customers complete their journeys. The Mayor's Hopper fare is available all day and night - allowing Londoners to take unlimited bus and tram journeys across the capital within an hour for just £1.50. Tube tickets will also be accepted on buses for reasonable alternative routes.",
+     "\u003cstrong\u003eNigel Holness, TfL's Director of Network Operations for London Underground, said\u003c/strong\u003e : \"I apologise to customers who are suffering three days of disruption for no good reason. The RMT unilaterally ended discussions at ACAS on Tuesday and made no attempt to engage with us to try and resolve this dispute. Despite our request to meet the RMT at ACAS they haven't yet agreed to talks. I encourage all customers to check before they travel, and reiterate that we remain available for talks with the RMT at any time.\"",
+     "TfL Travel Ambassadors will be at key locations to provide travel information and advice to customers affected by this action.",
+     "Customers can keep up-to-date with the latest service information in a variety of ways, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Information on the TfL website at \\u003ca href=\\\"http://www.tfl.gov.uk/tube-strike\\\"\\u003ewww.tfl.gov.uk/tube-strike\\u003c/a\\u003e \",\"Real-time information on the TfL Twitter accounts, including @TfLTravelAlerts and @piccadillyline, as well as the TfL Travelbot on Facebook messenger\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2018/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2018/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2018/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2018/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2018/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2018/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2018/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2018/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2018/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2018/october",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "News articles",
+      "url": "/info-for/media/news-articles",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

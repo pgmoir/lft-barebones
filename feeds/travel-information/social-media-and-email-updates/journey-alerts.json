@@ -1,0 +1,65 @@
+{
+ "pageTitle": "Journey alerts",
+ "keywords": "TfL",
+ "description": "Find out more about our text and email alert service for journeys in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates",
+   "url": "/travel-information/social-media-and-email-updates/index"
+  },
+  {
+   "title": "Journey alerts"
+  }
+ ],
+ "title": {
+  "title": "Journey alerts",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about our email alert service for journeys in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/journey-alerts_rdax_400x250.png\",\"alt\":\"Journey alerts\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Get an email if your journey is disrupted\"}",
+     "These alerts cover journeys on the Tube, London Overground, DLR and TfL Rail.",
+     "Tell us where and when you travel, and we'll send you a message if your regular journey is disrupted. It means you can replan if you need to, or check for updates before you set off.",
+     "You can also choose to get a daily email with a live snapshot of the network - handy if you often travel around London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sign up\"}",
+     "You need a TfL account to \u003ca href=\"https://tfl.gov.uk/login?returnUrl=/travelalerts\"\u003eset up an alert\u003c/a\u003e . You can use your Oyster or contactless account or you can \u003ca href=\"https://account.tfl.gov.uk/register/basic?AppId=c9127673-66ed-4557-8e78-767a99a8214a \"\u003ecreate an account now\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

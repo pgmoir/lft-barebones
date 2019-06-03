@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Drivers advised to avoid A406 and A40 roads in the Hanger Lane area",
+ "description": "A406 North Circular closed in both directions between Hanger Lane Gyratory and Harrow Road A404 following an accident Work underway to restore some lanes, but serious congestion likely throughout the rest of the day and eveningThe A406 is currently closed",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Drivers advised to avoid A406 and A40 roads in the Hanger Lane area ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is advising all drivers to avoid the A406 North Circular Road and A40 in and around the Hanger Lane area for the rest of the day following a serious road traffic accident."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"A406 North Circular closed in both directions between Hanger Lane Gyratory and Harrow Road A404 following an accident\",\"Work underway to restore some lanes, but serious congestion likely throughout the rest of the day and evening\"]}",
+     "The A406 is currently closed in both directions between the Hanger Lane Gyratory and Harrow Road A404 and there is serious congestion on all approaches to the area - including the A40.",
+     "TfL's staff and contractors are currently working with the police to re-open as much of the road as possible as soon as possible.",
+     "However, the serious nature of the collision - which spanned the central reservation - means that even when the road is re-opened, it is likely that at least one lane in either direction will remain closed throughout the evening and congestion will remain serious.",
+     "Variable Messaging signs are being deployed on the A40 and A406 on approaches to the incident area, advising drivers to take other routes.",
+     "Drivers are advised to plan ahead, avoid the area and check the latest via the TfL website or by following @tfltrafficnews on Twitter.",
+     "Leon Daniels, Managing Director of Surface Transport at TfL said: 'Our staff and contractors are working to minimise disruption to drivers on the A406 and A40, working with the emergency services to re-open as much of the North Circular as we can as soon as possible.",
+     "'But this was a serious collision, which has damaged a large section of the central reservation. At present the A406 is closed in both directions around Hanger Lane and the A40 in the area is also seriously affected.",
+     "'I would advise all drivers to avoid the area and take other routes.",
+     "'Up-to-the-minute travel information is available on the TfL website or by following @tfltrafficnews on Twitter.'",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

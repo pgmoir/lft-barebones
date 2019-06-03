@@ -1,0 +1,64 @@
+{
+ "pageTitle": "Making payments",
+ "keywords": "TfL",
+ "description": "Temporary change to payments for road schemes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Making payments"
+  }
+ ],
+ "title": {
+  "title": "Making payments",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Ultra Low Emission Zone (ULEZ) is live. Cars, motorbikes, vans, minibuses, buses, coaches and heavy goods vehicles (HGVs) in central London need to meet minimum exhaust emissions standards or pay a daily charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This is in addition to any Congestion Charge or Low Emission Zone (LEZ) charges that may apply.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Congestion Charge, ULEZ and LEZ payments\"}",
+     "To pay a Congestion Charge or a ULEZ or LEZ charge:",
+     "\u003cstrong\u003eOnline \u003c/strong\u003e (payments only, other services to follow)\u003cstrong\u003e: \u003c/strong\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003ePhone:\u003c/strong\u003e 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003e\u003cstrong\u003eOpen:\u003c/strong\u003e Monday to Friday: 08:00-20:00\u003cbr /\u003eClosed on weekends and bank holidays",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Penalty Charge Notice (PCN) payments\"}",
+     "To pay a PCN for the Congestion Charge, ULEZ, LEZ or red routes:",
+     "\u003cstrong\u003ePhone:\u003c/strong\u003e 0343 222 3333 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003e\u003cstrong\u003eOpen:\u003c/strong\u003e Monday to Friday: 08:00-20:00\u003cbr /\u003eClosed on weekends and bank holidays",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Check if your vehicle meets ULEZ or LEZ emissions standards\"}",
+     "If it doesn't you need to pay to drive within the zone(s).",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/congestion-charge\\\"\\u003eReturn to Congestion Charge page\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone\\\"\\u003eReturn to Ultra Low Emission Zone page\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/low-emission-zone\\\"\\u003eReturn to Low Emission Zone page\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/red-routes\\\"\\u003eReturn to Red routes page\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

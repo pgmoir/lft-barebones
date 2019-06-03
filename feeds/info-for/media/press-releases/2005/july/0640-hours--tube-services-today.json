@@ -1,0 +1,80 @@
+{
+ "pageTitle": "06.40 hours - Tube services today",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "06.40 hours - Tube services today",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Following yesterday's attack, services are now running on most lines, although you may experience some delays."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Following yesterday's attack, services are now running on most lines, although you may experience some delays.",
+     "However there will be no service on the following lines until further notice:",
+     "\u003cstrong\u003ePiccadilly line\u003c/strong\u003e - no service between Hyde Park Corner and Arnos Grove. A special bus service will operate between Arnos Grove and Finchley Central to connect with Northern line services.",
+     "\u003cstrong\u003eCircle and Hammersmith \u0026 City lines\u003c/strong\u003e - no service at all",
+     "\u003cstrong\u003eMetropolitan line\u003c/strong\u003e - no service between Baker Street and Aldgate",
+     "\u003cstrong\u003eDistrict line\u003c/strong\u003e - no service between High Street Kensington and Edgware Road",
+     "Additionally King's Cross St Pancras station is closed.",
+     "Passengers are to keep their belongings with them at all times and report anything suspicious to a member of staff.",
+     "\u003cstrong\u003eCongestion charge\u003c/strong\u003e ",
+     "Please note, the congestion charge will not be in effect during Friday. TfL's advice to drivers remains not to travel through central London during this period.",
+     "\u003cstrong\u003eTUBE\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"This is the worst incident in the history of London underground\",\"The last serious incident was the Kings Cross fire in 1987 when 27 people died after a machine room under a wooden escalator caught fire. This led to a major overhaul of emergency procedures\",\"There was a derailment at White City on May 11, 2004 but there were no injuries or fatalities\",\"There was a derailment at Camden Town 19 October 2003 with 7 injuries and no fatalities\",\"There was a derailment at Chancery Lane 25 January 2003 with no injuries and no fatalities\",\"Each AM peak 370,000 use the tube.\"]}",
+     "\u003cstrong\u003eWell prepared\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Underground conducted a live emergency exercise at Tower Hill station two and a half weeks ago on 12 June which fully tested the combined emergency services response to an emergency\",\"Each year LU holds an emergency exercise to test procedures\",\"There was a multi national emergency desktop exercise, Atlantic Blue, earlier this year which focused on the response to a potential terrorist attack.\"]}",
+     "\u003cstrong\u003ePrecautions\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"There has recently been a renewed campaign in conjunction with the Met Police to report suspect bags and packages. These posters are highly visible in Tube stations and on buses\",\"A London resilience team has weekly meetings - London wide resilience plans have been fully tested.\"]}",
+     "\u003cstrong\u003eBUSES\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Approximately 325,000 people travel on buses during the morning peak\",\"CCTV pictures will be used to assist police.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

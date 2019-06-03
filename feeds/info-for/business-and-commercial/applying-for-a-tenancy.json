@@ -1,0 +1,135 @@
+{
+ "pageTitle": "Applying for a tenancy",
+ "keywords": "TfL",
+ "description": "Find how to apply to be a TfL tenant",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Becoming a tenant",
+   "url": "/info-for/business-and-commercial/becoming-a-tenant"
+  },
+  {
+   "title": "Applying for a tenancy"
+  }
+ ],
+ "title": {
+  "title": "Applying for a tenancy",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Here's our guide to applying for a property, the leases we offer and how we will consider your application.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Applying for a property\"}",
+     "See a list of \u003ca href=\"https://tfl.completelygroup.com/?intcmp=52564\"\u003eour available properties\u003c/a\u003e .",
+     "To find out more about a property, contact the relevant agent listed in the property details. If you don't know which property you're interested in and want to discuss what property would suit your business most, email us at \u003ca href=\"mailto:businessdevelopment@tfl.gov.uk\"\u003ebusinessdevelopment@tfl.gov.uk\u003c/a\u003e .",
+     "To apply for one of our units you'll need to email a completed application form (see below) to the property's nominated agent. The nominated agent is listed on the letting particulars.",
+     "A credit check and proof of identity will be required. Please include the unit reference number on the application.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Vacant premises - application form\",\"url\":\"/cdn/static/cms/documents/vacate-premises-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 271KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Considering your application\"}",
+     "We openly market our properties to create opportunities for as many businesses as possible. When we receive more than one offer for a property, we will consider applications on factors including level of rent and suitability in the local area. Some properties also only allow certain uses.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Permitted property uses\"}",
+     "The type of business you can run in one of our properties falls into different categories. We will consider a wide range of businesses and uses.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Conflicting use\"}",
+     "We are unlikely to accept applications from similar retailers if there is an existing offering in the area, unless station footfall justifies multiple offers (applies more to retail units).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our leases\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lease length\"}",
+     "Our standard leases are for six years, but a flexible range of leases are available. These are negotiated on an individual basis depending on the type of property you've applied for. Your lease will specify what the premises may be used for and will also identify the extent of the property contained in the lease.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lease type\"}",
+     "All leases are excluded from the security of tenure and compensation provisions of the Landlord and Tenant Act 1954. This means that when your lease expires, your landlord is not obliged to grant you a new lease under the Act.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rent\"}",
+     "Rent is payable quarterly in advance by direct debit. The rental figure quoted includes rent for the landlord but doesn't include rates, outgoings (including utilities), taxes or service charge. The rental figure may include a turnover provision.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Rent reviews and lease renewals\"}",
+     "We may carry out a rent review, in accordance with your lease, part way through your lease term. This allows us to consider changes in the market and set a fair rent, reflecting comparable rents paid locally.",
+     "Towards the end of your lease, we will discuss what happens when the lease runs out, including opportunities to renew your lease where appropriate and how this will be negotiated."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial properties",
+    "links": [
+     {
+      "title": "Becoming a tenant",
+      "url": "/info-for/business-and-commercial/becoming-a-tenant",
+      "image": {}
+     },
+     {
+      "title": "Applying for a tenancy",
+      "url": "/info-for/business-and-commercial/applying-for-a-tenancy",
+      "image": {}
+     },
+     {
+      "title": "Managing my property",
+      "url": "/info-for/business-and-commercial/managing-my-property",
+      "image": {}
+     },
+     {
+      "title": "Our property portfolio",
+      "url": "/info-for/business-and-commercial/our-property-portfolio",
+      "image": {}
+     },
+     {
+      "title": "Send us feedback",
+      "url": "/info-for/business-and-commercial/send-us-feedback",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial properties",
+     "url": "/info-for/business-and-commercial/send-us-feedback",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

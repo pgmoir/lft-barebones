@@ -1,0 +1,245 @@
+{
+ "pageTitle": "TfL Rail",
+ "keywords": "TfL Rail ,TfL",
+ "description": "TfL Rail landing page",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Rail"
+  }
+ ],
+ "title": {
+  "title": "TfL Rail",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "TfL Rail Paddington to Heathrow",
+    "texts": [
+     "You can now use contactless or Oyster on the Paddington to Heathrow service"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-rail-heathrow-700x350.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "searchfilter",
+    "title": "Find a TfL Rail station",
+    "texts": [
+     "For live departures, status information, route maps and timetables"
+    ],
+    "link": {
+     "url": "https://tfl.gov.uk/disambiguation",
+     "button": "Go",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Fares",
+    "texts": [
+     "Find out more about paying for travel across TfL Rail stations"
+    ],
+    "link": {
+     "url": "/fares-and-payments/fares2018/index",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/fares-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Timetables",
+    "texts": [
+     "Use a TfL Rail timetable to help you plan ahead"
+    ],
+    "link": {
+     "url": "/modes/tfl-rail/tfl-rail-timetables",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Service changes",
+    "texts": [
+     "Check for planned line closures and service changes"
+    ],
+    "link": {
+     "url": "/status-updates/planned-track-closures",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Refunds and replacements",
+      "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Live travel",
+    "texts": [
+     "Get live travel information about TfL Rail services"
+    ],
+    "link": {
+     "url": "/status-updates/stations-status",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/network-status-sign_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Elizabeth Line",
+    "texts": [
+     "Find out more about the new Elizabeth Line"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/elizabeth-line",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "About us",
+    "links": [
+     {
+      "title": "Find out more about TfL Rail",
+      "url": "/corporate/about-tfl/what-we-do/tfl-rail",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "serviceboard",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/tflrail",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London Travelwatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Transport Focus",
+      "url": "http://www.transportfocus.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "National Rail",
+      "url": "http://www.nationalrail.co.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

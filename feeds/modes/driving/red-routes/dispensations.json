@@ -1,0 +1,145 @@
+{
+ "pageTitle": "Red route dispensations",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "The circumstances in which we can relax red routes parking rules",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Red route dispensations"
+  }
+ ],
+ "title": {
+  "title": "Red route dispensations",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"In special circumstances we can relax the parking rules, for example if you are moving house, making a bulky delivery or undertaking building works.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What is a dispensation?\"}",
+     "Parking on \u003ca href=\"/modes/driving/red-routes/red-route-maps\"\u003ered routes in London\u003c/a\u003e is strictly controlled to keep traffic moving. If you park your vehicle on a red route in contravention of the regulations, you could receive a penalty charge notice (PCN).",
+     "In some cases we will allow exemptions to the existing parking controls. These are known as dispensations.",
+     "You will need a dispensation to either:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Load or unload for longer than a bay's time limit\",\"Park on red lines during restricted hours\"]}",
+     "We manage parking dispensations along red routes. Dispensations for roads that have yellow lines are managed by the relevant London Borough. You will need to contact them to arrange a yellow line dispensation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dispensation costs\"}",
+     "The cost of a red route dispensation depends on the restriction in place at the location. If you need to stop on either a double red or a single red restriction, the fee is £48 per day per vehicle. If you wish to stop in a loading or parking bay, it is £38 per day per vehicle.",
+     "Payment is required for approved dispensation applications, by payment card, prior to the issue of your permit. You will not be charged if your application is unsuccessful.",
+     "If you intend to apply by post and pay by cheque, you need to allow 10 working days for the cheque to clear before we can process your application.",
+     "In certain cases, and at the discretion of TfL, these charges may be waived for certain activities.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Applying for a dispensation\"}",
+     "Contact us as early as possible if you want to apply for a red route dispensation. We need at least 6 working days (including the day we receive your request) to process your application.",
+     "To request a dispensation, call us on 0343 222 3333, press option 2 to make an enquiry and the star key to speak to an adviser ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ). You must have the following information to hand when you call:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Date and time you need the dispensation\",\"Reason for the dispensation\",\"Precise location (street name, adjacent property number/name)\",\"Red route controls in place at that site\",\"Your contact details, including email address\",\"Description of the vehicle(s) you wish to apply for. For example, car, van or lorry\"]}",
+     "We do not need the vehicle's number plate (Vehicle Registration Mark) at this point in the application. When the application is approved, we will need this before you pay.",
+     "We will review your application to consider the impact of your request on other road users. Traffic engineers may have to assess the impact on traffic flow and decide if there is a conflict with other scheduled activity or works.",
+     "A dispensation may not be granted where reasonable parking alternatives are available or simply for reasons of convenience. For example, if you are making a delivery, we would expect loading/unloading to take place in nearby parking or loading bays rather than immediately outside a property.",
+     "Dispensations requested for parking on single or double red lines are only granted in exceptional circumstances (such as erecting scaffolding, moving heavy items). This often requires special consideration and a review by our traffic engineers, and could involve carrying out a site visit before the application can be granted.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your dispensation is approved\"}",
+     "We will contact you to confirm that your request has been approved and to ask for payment by payment card.",
+     "We will then require the following details of your vehicle(s):",
+     "{\"template\":\"bulletlist\",\"items\":[\"Number plate (Vehicle Registration Mark)\",\"Make, model and colour\"]}",
+     "Once payment is received, we will email you a permit to be placed on the vehicle's dashboard. This will alert other road users that you have permission to stop your vehicle there. The dispensation is only valid if the permit is on display.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your dispensation is refused\"}",
+     "We may refuse your request for a dispensation where the impact on the red route is considered to be too great or where the grounds for the dispensation are not considered appropriate.",
+     "Where possible, we will try to offer an alternative to your request. This may be an alternative time or an alternative location to the one you requested.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your plans change\"}",
+     "Refunds are not granted once a permit has been approved and issued, even where the permit is unused.",
+     "The re-issue of a permit will be considered subject to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A minimum of one working days' notice prior to the approved permit's start date\",\"The revised permit details being provided, for consideration, at the time of the re-issue request\",\"A permit being re-issued once only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Yellow lines\"}",
+     "Red route parking dispensations are managed by TfL. Dispensations for roads which have yellow lines are managed by the relevant London Borough. You will need to contact them to arrange a yellow line dispensation. Find parking contact details on the \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns\"\u003eLocal Authority PCNs page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

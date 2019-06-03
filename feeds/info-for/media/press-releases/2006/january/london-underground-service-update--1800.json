@@ -1,0 +1,79 @@
+{
+ "pageTitle": "London Underground service update - 1800",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Underground service update - 1800",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "This afternoon, the RMT strike is having a minimal impact on London Underground services."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "London Underground is running good services on 10 out of 12 lines.",
+     "More than ninety per cent of our 275 stations are currently open, with only 19 closed due to the non-availability of staff.\u003cbr /\u003e\u003cbr /\u003eTim O'Toole, Managing Director, London Underground said: \"The RMT strike has had very little effect on Tube services today. Nearly all lines, with the exception of the Northern line, are running normal services and only 19 out of 275 stations are closed.",
+     "\"We intend to maintain a good service throughout the day and to get people home from work this evening.\u003cbr /\u003e\u003cbr /\u003e\"I want to thank the majority of London Underground staff for the dedication they have shown in maintaining services.",
+     "\"The agreement we signed with station staff a year ago was hailed at the time by the RMT as the best in the entire UK rail industry, providing a 35-hour week with 52 days' leave each year. I am committed to implementing that agreement.",
+     "\"Ninety per cent of station staff have signed up to the new rosters which have also been validated for safety.",
+     "\"I hope the RMT will now return to the negotiating table so that we can iron out any remaining problems and start the 35 hour week on 5 February.\"",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Service information\"}",
+     "The Northern line is running with severe delays due to unconnected unofficial industrial action at Morden depot. The Piccadilly line is also running with severe delays.",
+     "TfL is running over 7,000 buses this afternoon and additional TfL staff are out helping passengers on the network.",
+     "Before they travel, passengers should check local radio and television travel bulletins or call 020 7222 1234 for up to the minute travel information.",
+     "Passengers are strongly recommended to plan their journey carefully in advance so that they know how to get to their destinations using an alternative route if necessary.",
+     "Strike action by the RMT is scheduled to end at 1830 but London Underground anticipates that disruption will continue throughout the remainder of today.",
+     "\u003cstrong\u003eLondon Underground lines\u003c/strong\u003e The following services are currently running (1800) on London Underground lines:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Delays on the Northern and Piccadilly lines\",\"A good service is operating on all other London Underground lines\"]}",
+     "\u003cstrong\u003eLondon Underground stations\u003c/strong\u003e \u003cbr /\u003eThe following London Underground stations are closed at 1800hrs.",
+     "Passengers are urged to check before they travel as stations may re-open at any time:\u003cbr /\u003eBorough, Bow Road, Caledonian Road, Chalk Farm, Covent Garden, Edgware Road (Bakerloo line only), Goodge Street, Hampstead, Kilburn Park, Lambeth North, Maida Vale, Manor House, Mornington Crescent, Pimlico, Regent's Park, Stepney Green, Swiss Cottage, Tufnell Park, and Warren Street.",
+     "{\"template\":\"bulletlist\",\"items\":[\"For 24-hour information on public transport in London, please call: 020 7222 1234\",\"TfL's Realtime pages display live travel information on London's public transport network: \\u003ca href=\\\"http://www.tfl.gov.uk/realtime\\\"\\u003ewww.tfl.gov.uk/realtime\\u003c/a\\u003e \",\"Journey Planner checks the transport network's status before providing results. The best available route is shown automatically: \\u003ca href=\\\"http://www.tfl.gov.uk/journeyplanner\\\"\\u003ewww.tfl.gov.uk/journeyplanner\\u003c/a\\u003e \",\"Travel alerts via SMS and email can be set up at: \\u003ca href=\\\"http://www.tfl.gov.uk/alerts\\\"\\u003ewww.tfl.gov.uk/alerts\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

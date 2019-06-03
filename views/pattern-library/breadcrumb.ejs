@@ -1,0 +1,32 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Breadcrumbs' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Breadcrumbs' }]
+}) %>
+
+<%- include('../includes/title', {
+  title: { title: 'Example' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' },
+  { title: 'First Page', url: '/firstpage'}, 
+  { title: 'Second Page with a pretty long title', url: '/secondpage'}, 
+  { title: 'Third Page', url: '/thirdpage'}, 
+  { title: 'Fourth Page with an even longer title', url: '/fourthpage'}, 
+  { title: 'Fifth Page', url: '/fifthpage'}, 
+  { title: 'Pattern Library - Breadcrumbs' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+
+      <div class="col-12">
+        <p class="alert alert-danger">Issue: Background colour with link colour does not meet AA accessibility standards.</p>
+        <p class="alert alert-danger">Issue: Style implementation incomplete.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+  
+<%- include('../includes/foot') %>

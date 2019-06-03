@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Tube service update",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Tube service update",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Following incidents at Warren Street, Oval and Shepherd's Bush (Hammersmith \u0026 City) stations on the afternoon of 21 July, and because of the continuing disruption caused by the events of 7 July, Tube services will be disrupted on Friday 22 July."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We hope to run normal services on the\u003cstrong\u003eBakerloo, Central, East London, Jubilee\u003c/strong\u003e and\u003cstrong\u003eWaterloo \u0026 City\u003c/strong\u003e lines.",
+     "We also hope to run normal services on the\u003cstrong\u003eDistrict\u003c/strong\u003e line, except between High Street Kensington and Edgware Road where there will be no service, and normal services on the Metropolitan line, except between Moorgate and Aldgate where there will be no service.",
+     "Services will run on the\u003cstrong\u003eNorthern \u003c/strong\u003e and\u003cstrong\u003eVictoria\u003c/strong\u003e lines but there may be some disruption.",
+     "Services on the\u003cstrong\u003ePiccadilly\u003c/strong\u003e line will be suspended between Arnos Grove and Hyde Park Corner, and there may also be disruption to the rest of the line.",
+     "There will be no service on the\u003cstrong\u003eCircle\u003c/strong\u003e or\u003cstrong\u003eHammersmith \u0026 City\u003c/strong\u003e lines.",
+     "Please check the latest situation before you travel - \u003ca href=\"http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html\"\u003eclick here\u003c/a\u003e for full current details, including details of replacement bus services operating.",
+     "For alternative route options you can use \u003ca href=\"http://journeyplanner.tfl.gov.uk/\"\u003eJourney Planner\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Caught on camera",
+ "description": "The exhibition is taking place at the Old Truman Brewery in Shoreditch and is being organised by Good Going, the travel awareness campaign that promotes sustainable transport across 33 London boroughs. It will present its audience with alternative ways of",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Caught on camera",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "AN exhibition this weekend by award-winning photographer Adam Whitaker will attempt to challenge the way Londoners see - and travel - around the capital."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The exhibition is taking place at the Old Truman Brewery in Shoreditch and is being organised by Good Going, the travel awareness campaign that promotes sustainable transport across 33 London boroughs.",
+     "It will present its audience with alternative ways of travelling in London.",
+     "Doors will open from midday to 5pm today (Friday), from midday to 4pm on Saturday and from 1pm to 4pm on Sunday.",
+     "Admission is free."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

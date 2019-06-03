@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Find vehicle",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Find vehicle"
+  }
+ ],
+ "title": {
+  "title": "Find vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Based on the vehicle details entered and information held by us today, your vehicle is exempt from the Congestion Charge.",
+     "If you believe this information is incorrect you can still continue.",
+     "\u003cstrong\u003eThis exemption could change without notice - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details you have entered and information held by the DVLA and TfL today, this vehicle is exempt from London Road User Charging. You do not need to pay the Congestion Charge or the ULEZ charge.",
+     "\u003cstrong\u003eThis may change without notice - always check to see if you need to pay to drive within the zones.\u003c/strong\u003e ",
+     "If you still want to register for a Fleet Auto Pay service you can continue.",
+     "\u003cstrong\u003eUK-registered:\u003c/strong\u003e If your vehicle’s make and model details have not been returned, make sure you entered the number plate correctly before continuing.",
+     "\u003cstrong\u003eRegistered outside the United Kingdom:\u003c/strong\u003e We are unable to display the make, model and colour information. Confirm this is the correct vehicle to continue.",
+     "You can save a maximum of 10 vehicles to your account to speed up congestion charge payments. If you would like to save this vehicle you must remove a saved vehicle in your account settings.",
+     "This vehicle is already on an Auto Pay service and can't be added again. If it is not on your service please call 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "You can't add this vehicle - please call us on 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "This vehicle is already on an Auto Pay service and can't be added again. If it is not on your service please call 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "CCANDTOXICITYCHARGEABLETEXT",
+     "CCEXEMPTANDTOXICITYCHARGEABLETEXT",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your details are not correct\"}",
+     "Check you have entered the correct vehicle registration number. If that is correct but other details are not, you can still continue",
+     "However, you need to let the DVLA know so they can update your vehicle details."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

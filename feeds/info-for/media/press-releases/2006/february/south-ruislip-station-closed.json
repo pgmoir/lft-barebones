@@ -1,0 +1,71 @@
+{
+ "pageTitle": "South Ruislip station closed",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "South Ruislip station closed",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "South Ruislip station has been closed while all the necessary safety precautions are taken following the discovery of asbestos yesterday afternoon. The station is currently being refurbished by Metronet."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Safety of passengers and staff is London Underground's top priority",
+     "London Underground (LU) is now carrying out extensive tests in order to understand the full extent of the conditions and to determine what action we need to take.",
+     "On the basis of our progress so far, we anticipate re-opening the station late this afternoon.",
+     "In the meantime, rail tickets are being accepted on local buses and a special bus service is currently operating every five minutes between South Ruislip and Ruislip Gardens.",
+     "Safety of passengers and staff is LU's top priority and the station will not re-open until LU is fully satisfied that it is safe to do so.",
+     "For 24-hour information on public transport in London, please call: 020 7222 1234.\u003cbr /\u003e\u003cbr /\u003eTfL's Realtime pages display live travel information on London's public transport network: \u003ca href=\"http://www.tfl.gov.uk/realtime\"\u003ewww.tfl.gov.uk/realtime\u003c/a\u003e ",
+     "Journey Planner checks the transport network's status before providing results. The best available route is shown automatically: \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003ewww.tfl.gov.uk/journeyplanner\u003c/a\u003e ",
+     "Travel alerts via SMS and email can be set up at: \u003ca href=\"http://www.tfl.gov.uk/alerts\"\u003ewww.tfl.gov.uk/alerts\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Refurbishment works are being undertaken by Metronet Rail BCV who are responsible for the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines\",\"South Ruislip first opened on 1 May 1908 as part of the Great Western Railway. It was reconstructed and first served by the Central line on 30 June 1947 as part of the Central line extension to West Ruislip\",\"The station has approximately 3,000 daily users\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

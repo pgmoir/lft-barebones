@@ -1,0 +1,136 @@
+{
+ "pageTitle": "Trams",
+ "keywords": "TfL",
+ "description": "Decades after they disappeared from London's streets, trams were reintroduced to Croydon and then became part of the TfL network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "London's transport - a history",
+   "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history"
+  },
+  {
+   "title": "Trams"
+  }
+ ],
+ "title": {
+  "title": "Trams",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"An extensive tram network covered large parts of London for several decades during the first half of the twentieth century.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "By the 1950s, however, trams were seen as old\nfashioned and were gradually phased out to create more room for buses and cars. The last tram journey in London for three decades took place between Woolwich and New Cross on 6 July 1952.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Trams in Croydon\"}",
+     "By the mid-1980s motorised traffic had increased sharply in central Croydon. London Regional Transport (one of TfL's\npredecessor organisations) carried out a study to consider whether the\nreintroduction of trams could help to reduce traffic volumes, and also provide\nbetter links to the poorly connected New Addington area.",
+     "A\nbill put to Parliament in 1991 received Royal\nAssent on 21 July 1994. Following a competitive tender, consortium Tramtrack\nCroydon Limited (TCL) was awarded a 99-year concession to build and run the\nsystem in 1996.",
+     "The Tram system opened in 2000. As well as on\nstreet running, it made use of a number of disused railway alignments. Part of the line between Wimbledon and Croydon actually follows the route of the Surrey\nIron Railway which first opened in 1803 with horse drawn trains, some 22 years\nbefore the much more famous Stockton to Darlington Railway.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL and trams\"}",
+     "In June 2008, TfL bought\nout TCL, and set about refurbishing trams, track, and tram stops, which had\nreceived little investment since the system opened. In June 2012, six new trams were introduced, enabling\nservices in central Croydon to be increased from eight to twelve trams an hour,\nand allowing a new route from Therapia Lane to Elmers End.",
+     "In April 2016, services between Wimbledon and Croydon increased from eight to 12 trams per hour, following the completion of works to build an additional tram platform at Wimbledon station."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "London's transport - a history",
+    "links": [
+     {
+      "title": "Women in transport",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/women-in-transport",
+      "image": {}
+     },
+     {
+      "title": "London buses",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-buses",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-overground",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/coaches",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/river",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway (DLR)",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/dlr",
+      "image": {}
+     },
+     {
+      "title": "Trams",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "London's transport - a history",
+     "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

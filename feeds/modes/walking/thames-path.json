@@ -1,0 +1,214 @@
+{
+ "pageTitle": "Thames Path",
+ "keywords": "TfL",
+ "description": "This Walk London route includes both north and south banks of the Thames.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Thames Path"
+  }
+ ],
+ "title": {
+  "title": "Thames Path",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This Walk London route includes both north and south banks of the Thames.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/thames-path-february.jpg\",\"alt\":\"Thames Path latest\"},\"wrapped\":false}",
+     "Stretching from the lost floodplains of Richmond to the Dickensian stretches of the eastern marshes, the Thames Path offers walkers lots to see and do.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Syon Park\",\"Houses of Parliament\",\"Tower Bridge\",\"Canary Wharf\",\"Thames Barrier\",\"South Bank\",\"Hampton Court Palace\",\"Chiswick Pier\",\"Albert Bridge\",\"Erith Marshes\",\"The Royal Docks\",\"Battersea Park\",\"Barnes Wetland Centre\",\"Kew Gardens\",\"Kingston Bridge\",\"Teddington Lock\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Signage\"}",
+     "Between west London to the end of the route at the Thames Barrier in Greenwich, look out for the Thames Path National Trail symbol. Beyond the Thames Barrier, the route is way-marked with the Thames Barge Symbol.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route sections\"}",
+     "This 79.5 mile (128km) route is divided into four sections on both the North and South Bank:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"North bank\"}",
+     "Section 1: \u003ca href=\"/modes/walking/hampton-court-to-albert-bridge\"\u003eHampton Court to Albert Bridge\u003c/a\u003e ",
+     "Section 2: \u003ca href=\"/modes/walking/albert-bridge-to-tower-bridge\"\u003eAlbert Bridge to Tower Bridge\u003c/a\u003e ",
+     "Section 3: \u003ca href=\"/modes/walking/tower-bridge-to-greenwich\"\u003eTower Bridge to Greenwich\u003c/a\u003e \u003cbr /\u003e\u003cbr /\u003eSection 4: \u003ca href=\"/modes/walking/greenwich-to-east-india-dock\"\u003eGreenwich to East India Docks \u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"South bank\"}",
+     "Section 1: \u003ca href=\"/modes/walking/teddington-lock-to-battersea-park\"\u003eTeddington Lock to Battersea Park\u003c/a\u003e ",
+     "Section 2: \u003ca href=\"/modes/walking/albert-bridge-to-tower-bridge-south\"\u003eAlbert Bridge to Tower Bridge\u003c/a\u003e ",
+     "Section 3: \u003ca href=\"/modes/walking/tower-bridge-to-the-thames-barrier\"\u003eTower Bridge to Thames Barrier\u003c/a\u003e ",
+     "Section 4: \u003ca href=\"/modes/walking/thames-barrier-to-river-darent\"\u003eThames Barrier to River Darent\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Certificate\"}",
+     "Completed the walk? Why not download the certificate to celebrate.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Thames Path certificate\",\"url\":\"/cdn/static/cms/documents/thames-path-certificate.pdf\",\"icon\":\"download\",\"size\":\"PDF 168KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Hampton Court to Albert Bridge",
+      "url": "/modes/walking/hampton-court-to-albert-bridge",
+      "image": {}
+     },
+     {
+      "title": "Albert Bridge to Tower Bridge",
+      "url": "/modes/walking/albert-bridge-to-tower-bridge",
+      "image": {}
+     },
+     {
+      "title": "Tower Bridge to Greenwich",
+      "url": "/modes/walking/tower-bridge-to-greenwich",
+      "image": {}
+     },
+     {
+      "title": "Greenwich to East India Dock",
+      "url": "/modes/walking/greenwich-to-east-india-dock",
+      "image": {}
+     },
+     {
+      "title": "Teddington Lock to Battersea Park",
+      "url": "/modes/walking/teddington-lock-to-battersea-park",
+      "image": {}
+     },
+     {
+      "title": "Albert Bridge to Tower Bridge (south)",
+      "url": "/modes/walking/albert-bridge-to-tower-bridge-south",
+      "image": {}
+     },
+     {
+      "title": "Tower Bridge to Thames Barrier",
+      "url": "/modes/walking/tower-bridge-to-the-thames-barrier",
+      "image": {}
+     },
+     {
+      "title": "Thames Barrier to River Darent (south)",
+      "url": "/modes/walking/thames-barrier-to-river-darent",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "National Trail",
+    "texts": [
+     "Learn more about accessibility on the Thames Path under the section 'who can enjoy the trail?'"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Thames Path closures",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

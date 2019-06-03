@@ -1,0 +1,62 @@
+{
+ "pageTitle": "Confirmation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Confirmation"
+  }
+ ],
+ "title": {
+  "title": "Confirmation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "\u003cstrong\u003eMake note of this number for your records. \u003c/strong\u003e ",
+     "Check the status of your challenge by going to \u003ca href=\"/modes/driving/view-a-pcn\"\u003eView a PCN\u003c/a\u003e with your PCN number and number plate (Vehicle Registration Mark).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens next?\"}",
+     "The enforcement process will now be suspended. The amount of your PCN will not increase until we have investigated and responded to your representation.",
+     "We may contact you to ask for additional information. Once we have made a decision you will be sent a letter of acceptance or a notice of rejection - this may be served using the email address you provided."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

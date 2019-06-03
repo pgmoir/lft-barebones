@@ -1,0 +1,59 @@
+{
+ "pageTitle": "Create an account",
+ "keywords": "TfL",
+ "description": "Once you have opened a personal account or business account, you will be able to add up to 5 people as authorised users to help you manage your account.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Create an account"
+  }
+ ],
+ "title": {
+  "title": "Create an account",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Once you have opened a personal account or business account, you will be able to add up to 5 people as authorised users to help you manage your account. Each user will be given unique sign in credentials.",
+     "There is little difference between these account types.",
+     "With either account you can nominate up to 5 account users to help manage it. Each user will get their own sign in credentials.",
+     "\u003cstrong\u003ePersonal account users\u003c/strong\u003e can set up \u003ca href=\"/modes/driving/auto-pay\"\u003eAuto Pay\u003c/a\u003e , an automated payment service for up to 5 vehicles. Suitable for:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Resident's discount\",\"Blue Badge holders\",\"9+ seater discount\",\"Cleaner vehicle discount\",\"Motor tricycles\",\"Roadside recovery vehicles\"]}",
+     "\u003cstrong\u003eBusiness account users\u003c/strong\u003e can set up Auto Pay or \u003ca href=\"/modes/driving/fleet-auto-pay\"target=\"_blank\"\u003eFleet Auto Pay\u003c/a\u003e , an automated payment service for companies with a fleet of 6 or more vehicles. Also suitable for accredited breakdown vehicle discount.",
+     "All account-related correspondence will be sent to the email address you supply here.",
+     "If you are setting up an account on behalf of a business, you may prefer to enter your individual work email address rather than a group one. This will make it easier to send and receive important emails.",
+     "You need to create a 6-digit number to set up secure online access to your London Road User Charging account. This number will also help identify you if you contact us by phone.",
+     "Your PIN must be exactly 6 digits",
+     "Add at least 1 contact telephone number"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

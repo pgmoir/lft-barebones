@@ -1,0 +1,260 @@
+{
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2017",
+   "url": "/info-for/media/press-releases/2017"
+  },
+  {
+   "title": "November",
+   "url": "/info-for/media/press-releases/2017/november"
+  },
+  {
+   "title": "New campaign asks customers to be ‘#TravelKind’"
+  }
+ ],
+ "title": {
+  "title": "New campaign asks customers to be ‘#TravelKind’",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Customers are encouraged to consider other travellers and to help improve journeys for everyone on World Kindness Day"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A series of posters and social media films highlighting the part that public transport customers and road users can play in improving journeys for everyone were launched today by Transport for London (TfL).",
+     "The #TravelKind campaign is timed to coincide with World Kindness Day (13 November), and features nine posters with real passengers and staff highlighting the small steps that people can take to help prevent delays and make journeys run smoothly for them and their fellow passengers. Tips for customers include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Please have your card ready;\",\"Please make space for wheelchair users;\",\"Please keep your cool on the road;\",\"Please help others off the train and onto the platform if they feel ill;\",\"Please move down inside, so everyone can get there quicker.\"]}",
+     "One of the social media films includes a paramedic from the London Ambulance Service advising customers to help others off the train if they fall ill so they can be seen quicker by staff. Passengers being ill on trains make up a significant proportion of customer incidents that cause delays on the Tube.",
+     "Mark Evers, Director of Customer Strategy at TfL said: \"As part of the draft Mayor's Transport Strategy we are putting huge investment into transforming public transport and our roads, making them easier and more pleasant to use. As we do this, our customers can also take some simple steps to help make travelling around London better for everyone.",
+     "\"Sharing the Road with other users or taking backpacks off when boarding to allow more room in the carriage for customers, helps to reduce delays. Today, on World Kindness Day, we want to raise awareness that being #TravelKind to others can help everyone have a smoother journey.\"",
+     "Notes to Editors:",
+     "The following #TravelKind posters can be seen across London over the next few weeks:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Please help others off the train if they feel ill, we can provide better care on the platform\",\"Please make space for wheelchair users, the priority space on the bus is the only place wheelchair users can travel\",\"Please use the bins, loose rubbish can delay trains and your journey\",\"Please don't hold the doors open, it causes delays for everyone\",\"Please have your card ready, so everyone can get on quickly and avoid delays\",\"Please move down inside, so everyone can get there quicker\",\"Please look out for other before moving off, so everyone has a better journey\",\"Please keep your cool, so everyone has a better journey\",\"Please leave space for others, so everyone has a better journey\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2017/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2017/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2017/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2017/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2017/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2017/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2017/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2017/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2017/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2017/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2017/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2017/december",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "pageTitle": "Natural environment",
+ "keywords": "TfL",
+ "description": "We work to protect animal and plant life that could be affected by our operations, particularly trackside",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Environment",
+   "url": "/corporate/about-tfl/environment"
+  },
+  {
+   "title": "Natural environment"
+  }
+ ],
+ "title": {
+  "title": "Natural environment",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are working to protect, connect and enhance the biodiversity of our track and highway verges.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We plant and maintain street trees because they deliver environmental, economic and social benefits.",
+     "Proximity to green space is linked to increased birth weight in babies as well as increased life expectancy in the elderly. London boroughs with a lot of trees tend to have lower prescription rates for antidepressants.",
+     "London's urban forest helps to remove airborne PM10 particulate matter. Trees also contribute to water management by intercepting and holding rainfall, reducing surface water runoff from asphalt by as much as 62% and lowering the costs associated with storm water management.",
+     "Woodlands, shrubs, wildflowers and green walls are also part of our green infrastructure. Well-maintained green infrastructure has been shown to reduce crime and even improve driver behaviour.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Wildlife variety\"}",
+     "The land surrounding our rail tracks acts as a safe haven for wildlife that includes bats, badgers, reptiles and water voles.",
+     "Altogether around 550 plant species, 42 bird species, 14 mammals, 538 invertebrate species, three reptile species and three amphibian species have been recorded on our land.",
+     "Find out more about how we look after our land and \u003ca href=\"/corporate/about-tfl/our-trackside-neighbours\"\u003eour trackside neighbours\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Environment",
+    "links": [
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/cycling-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Our trackside neighbours",
+      "url": "/corporate/about-tfl/our-trackside-neighbours",
+      "image": {}
+     },
+     {
+      "title": "Sustainability",
+      "url": "/corporate/about-tfl/sustainability",
+      "image": {}
+     },
+     {
+      "title": "Natural environment",
+      "url": "/corporate/about-tfl/natural-environment",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Environment",
+     "url": "/corporate/about-tfl/natural-environment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

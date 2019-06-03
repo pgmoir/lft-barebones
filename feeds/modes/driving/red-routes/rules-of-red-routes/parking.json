@@ -1,0 +1,167 @@
+{
+ "pageTitle": "Parking",
+ "keywords": "TfL",
+ "description": "Helping you use parking bays on red routes in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Rules of red routes",
+   "url": "/modes/driving/red-routes/rules-of-red-routes"
+  },
+  {
+   "title": "Parking"
+  }
+ ],
+ "title": {
+  "title": "Parking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Helping you park on the Transport for London Road Network (TLRN) - the 'red routes' that operate every day.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Parking means stopping your vehicle within a parking bay or on a single red line when permitted.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Parking bays\"}",
+     "Parking bays are an essential part of the red route as they allow parking to be controlled.",
+     "Their availability is limited and some are only available during specified periods when their use will not cause any major disruption to our busy road network.",
+     "We often limit the amount of time you have to park at popular locations so that others drivers can also use the bay. Occasionally, we are able to provide parking bays that you can use at any time and without a limit on the amount of time you can park. Always check the signs to see when and for how long you can park.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What you can do\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Park in designated parking bays indicated by signs showing the P (Parking) symbol\",\"Park only at the times and/or on the days of the week indicated on the sign, where a parking bay has restrictions\",\"Sometimes use the same parking bay more than once during the day. However, you need to read the sign to find out how long you must wait after leaving the bay before you can return to it\",\"Use a parking bay to stop or for loading - the sign will tell you when and for how long\",\"Use a parking bay if you want to go shopping - the sign will tell you when and for how long. Some parking bays allow you to park at any time without restriction\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What you can't do\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Use the parking bay outside of the hours shown on the sign or on any days when parking is not permitted. Always check the sign\",\"Use the parking bay for longer than the times shown on the sign\",\"Park in a bay that is designated specifically for use by Blue Badge holders. \\u003ca href=\\\"/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking\\\"\\u003eFind out about Blue Badge parking\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public\\\"\\u003ePark in a bay that is designated specifically for loading\\u003c/a\\u003e \",\"Park on the red route network with any part of your vehicle on the footway or on a crossover, except where the signs indicate that you may\",\"Park on double red lines (this is never permitted)\",\"Park on a single red line unless the sign says you can\",\"Park at a bus stop\",\"Park on zig-zag lines (this is a criminal offence and subject to prosecution)\"]}",
+     "These are not exhaustive lists. Contact us for more information or if you are unsure.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using a parking bay\"}",
+     "Read the sign to find out when and for how long you can use the parking bay. Our signs are quite distinct from other road signs and generally have two or three parts to inform you of the restrictions and exemptions in place at a particular bay.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/white-line-bays_rdax_400x250.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"White bays\"}",
+     "If a red route parking bay is marked out by a white dotted line, it generally means that the bay can be used throughout the day. However, there may be a maximum time limit - always check the signs.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/red-bay_rdax_400x250.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Red bays\"}",
+     "If a red route parking bay is marked out by a red dotted line, it indicates that the bay can be used outside peak traffic hours, however, peak traffic hours often vary from area to area and even from road to road. Always check the signs. For example, some bays may only be available during the morning and early afternoon, some may be available only during the late afternoon and in the evening.",
+     "Please remember parking is not permitted in all bays - some may be reserved for other activities, for example, loading or disabled parking only.",
+     "For other road signs please \u003ca href=\"https://www.gov.uk/highway-code\"\u003evisit the Highway Code website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Penalty Charge Notices (PCNs)\"}",
+     "We want to deter all drivers from breaking the rules so that parking bays are used correctly and kept free of parked vehicles when road traffic is busy.",
+     "A PCN may be issued to you at the time of contravention by a Civil Enforcement Officer.  However, we may also use CCTV cameras to enforce restrictions on the red route and if this is the case you will receive the PCN later by post.",
+     " \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices\"\u003eFind about more about Penalty Charge Notices\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Loading for the public",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public",
+      "image": {}
+     },
+     {
+      "title": "Yellow box junctions",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/yellow-box-junctions",
+      "image": {}
+     },
+     {
+      "title": "Banned turns",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/banned-turns",
+      "image": {}
+     },
+     {
+      "title": "Bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/parking",
+      "image": {}
+     },
+     {
+      "title": "Blue Badge (disabled) parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking",
+      "image": {}
+     },
+     {
+      "title": "Red lines and no stopping",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/red-lines-and-no-stopping",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

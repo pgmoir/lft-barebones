@@ -1,0 +1,75 @@
+{
+ "pageTitle": "Have your say on local bus services in Hammersmith and Fulham",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Have your say on local bus services in Hammersmith and Fulham",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is inviting passengers and local residents to give their comments on proposals for a new bus route, 228 and plans to extend route 316."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "we continue to meet passenger needs",
+     "The proposed new route 228 has been developed in partnership with Hammersmith \u0026 Fulham Council and the Royal Borough of Kensington \u0026 Chelsea meeting long standing requests for new transport links.",
+     "It would operate between Central Middlesex Hospital (in Park Royal) and Elgin Avenue, via White City, Ladbroke Grove and Harrow Road.",
+     "An associated change is proposed for the route 316 which currently operates between Cricklewood (Edgware Road) and St. Charles Hospital.",
+     "There are plans to extend the route from St. Charles Hospital to White City along St. Mark's Road and St. Ann's Road.",
+     "The extension will provide a high frequency link between North Kensington and the areas around Latimer Road, and White City, as well as providing links from Queen's Park, Kilburn High Road, Brondesbury and Cricklewood.",
+     "Both routes will use single-deck buses and provide new bus links to White City and the new Westfield Development.",
+     "Peter Bradley, Head of Stakeholder Engagement, said: 'London's bus network is constantly under review to ensure we continue to meet passenger needs.'",
+     "'We are very keen to hear passengers' views on our proposals for local bus services.'",
+     "Further information about the proposals can be accessed through \u003ca href=\"http://www.tfl.gov.uk/busrouteconsultation\"\u003ewww.tfl.gov.uk/busrouteconsultation\u003c/a\u003e and also from London Buses Customer Services.",
+     "The consultation will run from 26 May until 11 July 2008.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Leaflets with details of the proposals will be sent out to around 30,000 local residents, including residents in and around new roads to be served in White City and Ladbroke Grove\",\"London Buses Customer Services contact details:\\u003cbr /\\u003eul\"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

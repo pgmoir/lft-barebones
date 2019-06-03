@@ -1,0 +1,142 @@
+{
+ "pageTitle": "About Steps into Work",
+ "keywords": "TfL,Steps into work, students, scheme, programme",
+ "description": "Background information about the Steps into Work programme",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Steps into work",
+   "url": "/corporate/careers/steps-into-work"
+  },
+  {
+   "title": "About Steps into Work"
+  }
+ ],
+ "title": {
+  "title": "About Steps into Work",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about the Steps into Work programme.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"video\",\"style\":\"3f6_aAV0Xo8\",\"title\":\"Steps into Work\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who runs the programme\"}",
+     "Steps into Work is a three-way partnership between TfL, \u003ca href=\"http://www.remploy.co.uk\"\u003eRemploy\u003c/a\u003e and \u003ca href=\"http://www.barnetsouthgate.ac.uk/\"\u003eBarnet \u0026 Southgate College\u003c/a\u003e that provides work experience for adults with mild to moderate learning disabilities and/or on the autism spectrum. They get the opportunity to develop work experience through working in a business environment.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How it works\"}",
+     "The programme is made up of  three unpaid work placements, mainly in offices across TfL. Those aged 18 or over will also have the option of working as a customer service assistant (CSA) in a London Underground station. This placement also provides an opportunity to gain an NVQ Level 2 Customer Services in the Rail Industry award.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/csa_rdax_400x250.jpg\",\"alt\":\"csa\"},\"wrapped\":false}",
+     "People on the programme will study for a BTEC Level 1 qualification and will be students of Barnet \u0026 Southgate College and not TfL employees. The programme, including the BTEC classes will be based in TfL's offices in central London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The placement\"}",
+     "If you are on this programme, this is what you can expect:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You will be one of 24 students, working unpaid, in one of TfL's central London offices\",\"You will complete an induction to working for TfL\",\"Placements are split into three, 10-11 week periods. CSA placements are eight weeks long (participants must be aged 18 or over to apply for CSA placements)\",\"You will attend five days a week, Monday to Friday from 10:00am until 3:30pm. Each day consists of four hours in your placement and an hour for tutorial with some travelling time in between\",\"You will be supported as you apply and prepare for each placement. The three placements will be spread throughout the year with breaks in between\"]}",
+     "We are aiming to provide real life work experience. Roles may be complex but are structured such that people with learning disabilities and those on the autism spectrum should be able to effectively complete tasks.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Job examples\"}",
+     "These are examples of the things you may be asked to do during the placements:",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/data-entry_rdax_400x250.jpg\",\"alt\":\"data entry officer\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Administrator\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Opening and date stamping mail every morning, sorting mail for each department and delivering the mail to the right team\",\"Daily scanning of case files and single letters, naming the scanned document and saving the scan to the shared drive on the computer network\",\"Filing documents and case files into drawers in alphabetical order\",\"Data entry to update personal information, address and department details\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Office support\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Emailing staff about meeting bookings, photocopying and preparing documents, and setting up IT equipment for those meetings\",\"Preparing weekly stationery orders and checking office stock levels\",\"Assisting with labelling and separating files for archiving, storing and shredding\",\"Using the database to create and issue letters\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Qualification\"}",
+     "The curriculum is based on the knowledge and skills needed for employment and the work placements involve gaining experience in a real working environment. You will build a portfolio of evidence as a record of learning while working towards the qualification. There are no exams on the programme.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Support and progression\"}",
+     "Remploy will provide a job coach to support you during your placements and help with the transition to the Remploy branch at the end of the programme. Remploy will also help you look for paid work.",
+     "This programme doesn't guarantee you will get an interview for a paid role or find a job at the end, but many former students are working in a range of roles in various organisations."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "About Steps into Work",
+      "url": "/corporate/careers/about-steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

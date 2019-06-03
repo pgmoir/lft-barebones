@@ -1,0 +1,202 @@
+{
+ "pageTitle": "Documents",
+ "keywords": "TfL",
+ "description": "TfL Pension Fund documents.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Fund management",
+   "url": "/pensions/fund-management"
+  },
+  {
+   "title": "Documents"
+  }
+ ],
+ "title": {
+  "title": "Documents",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"List of TfL Pension Fund documents.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Member guides\"}",
+     "If you are new to the TfL Pension Fund, the following guide for new members provides a brief overview of the Fund and the benefits it offers.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A guide for new members (short version)\",\"url\":\"/cdn/static/cms/documents/tfl-member-guide-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 378KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "More detailed guides are included below.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Existing members - before 2 April 1989\"}",
+     "This guide is for you if:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You joined the Fund on 1 April 1989 as a result of the merger of the London Transport Pension Fund and the 1970 Superannuation Fund\",\"You were in service at 1 April 1989, aged over 18, but had not completed a year's service or were too young to join either the London Transport Pension Fund or the 1970 Superannuation Fund and were automatically entered into the Fund on 1 April 1989\",\"You were under 18 on 1 April 1989, and at that date were given the option, which you accepted, to join the Fund on reaching age 18\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A guide for existing members\",\"url\":\"/cdn/static/cms/documents/tflpf-guide-for-members-existing-april-2009.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.12MB\",\"image\":{}},{\"title\":\"Addendum to a guide for existing members\",\"url\":\"/cdn/static/cms/documents/addendum-guide-for-existing-members.pdf\",\"icon\":\"download\",\"size\":\"PDF 103KB\",\"image\":{}},{\"title\":\"Addendum to member guide\",\"url\":\"/cdn/static/cms/documents/addendum-to-member-guide-may-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 39KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New members - after 1 April 1989\"}",
+     "This guide is for you if you joined the TfL Pension Fund after 1 April 1989* or are considering joining.\n*Unless you fall under the 3rd bullet point below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A guide for new members\",\"url\":\"/cdn/static/cms/documents/tfl-pension-fund-member-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.53MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pensioner Guide\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A guide for pensioners\",\"url\":\"/cdn/static/cms/documents/tflpf-guide-for-pensioners-april-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.64MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Additional Voluntary Contributions guide\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A guide to Additional Voluntary Contributions (AVCs)\",\"url\":\"/cdn/static/cms/documents/a-guide-to-additional-voluntary-contributions.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.54MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other fund documents\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Annual report and accounts\",\"url\":\"/cdn/static/cms/documents/tflpf-report-and-accounts-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 982KB\",\"image\":{}},{\"title\":\"Statement of investment principles\",\"url\":\"/cdn/static/cms/documents/statement-of-investment-principles-march-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.41MB\",\"image\":{}},{\"title\":\"Public sector Statement of Funding Principles\",\"url\":\"/cdn/static/cms/documents/public-sector-statement-of-funding-principles-april-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 12.54MB\",\"image\":{}},{\"title\":\"Public sector Recovery Plan\",\"url\":\"/cdn/static/cms/documents/public-sector-recovery-plan-april-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.57MB\",\"image\":{}},{\"title\":\"Public sector Schedule of Contributions\",\"url\":\"/cdn/static/cms/documents/public-sector-schedule-of-contributions-april-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.81MB\",\"image\":{}},{\"title\":\"Public sector Actuarial Valuation Report\",\"url\":\"/cdn/static/cms/documents/public-sector-actuarial-valuation-report-as-at-31-march-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 713KB\",\"image\":{}},{\"title\":\"Trust deed and rules\",\"url\":\"/cdn/static/cms/documents/trust-deed-and-rules.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.33MB\",\"image\":{}},{\"title\":\"Internal disputes resolution procedure\",\"url\":\"/cdn/static/cms/documents/idr-procedure.pdf\",\"icon\":\"download\",\"size\":\"PDF 149KB\",\"image\":{}},{\"title\":\"Internal disputes resolution application form\",\"url\":\"/cdn/static/cms/documents/idr-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 186KB\",\"image\":{}},{\"title\":\"Ill health guidelines\",\"url\":\"/cdn/static/cms/documents/ill-health-guidelines.pdf\",\"icon\":\"download\",\"size\":\"PDF 119KB\",\"image\":{}},{\"title\":\"Link up policy\",\"url\":\"/cdn/static/cms/documents/link-up-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 60KB\",\"image\":{}},{\"title\":\"Opting-in policy\",\"url\":\"/cdn/static/cms/documents/opting-in-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 37KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you need to tell us about changes to your address or bank details, go to the \u003ca href=\"/pensions/contact/forms\"\u003eForms section\u003c/a\u003e and download the relevant form."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Trustee board",
+      "url": "/pensions/fund-management/trustee-board",
+      "image": {}
+     },
+     {
+      "title": "Committees",
+      "url": "/pensions/fund-management/committees",
+      "image": {}
+     },
+     {
+      "title": "Pension Consultative Council",
+      "url": "/pensions/fund-management/pension-consultative-council",
+      "image": {}
+     },
+     {
+      "title": "Pensioners' Forum",
+      "url": "/pensions/fund-management/pensioners-forum",
+      "image": {}
+     },
+     {
+      "title": "Pensions working group",
+      "url": "/pensions/fund-management/pensions-working-group",
+      "image": {}
+     },
+     {
+      "title": "Annual members meeting",
+      "url": "/pensions/fund-management/annual-meeting",
+      "image": {}
+     },
+     {
+      "title": "Investment management and principles",
+      "url": "/pensions/fund-management/investment-management-and-principles",
+      "image": {}
+     },
+     {
+      "title": "Performance",
+      "url": "/pensions/fund-management/performance",
+      "image": {}
+     },
+     {
+      "title": "Accounts",
+      "url": "/pensions/fund-management/accounts",
+      "image": {}
+     },
+     {
+      "title": "Associations",
+      "url": "/pensions/fund-management/associations",
+      "image": {}
+     },
+     {
+      "title": "Transport Benevolent Fund",
+      "url": "/pensions/fund-management/transport-benevolent-fund",
+      "image": {}
+     },
+     {
+      "title": "Staff Welfare Fund",
+      "url": "/pensions/fund-management/staff-welfare-fund",
+      "image": {}
+     },
+     {
+      "title": "Documents",
+      "url": "/pensions/fund-management/documents",
+      "image": {}
+     },
+     {
+      "title": "Actuarial Valuation",
+      "url": "/pensions/fund-management/actuarial-valuation",
+      "image": {}
+     },
+     {
+      "title": "Archive",
+      "url": "/pensions/fund-management/archive",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

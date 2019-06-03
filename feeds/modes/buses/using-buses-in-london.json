@@ -1,0 +1,135 @@
+{
+ "pageTitle": "Using buses in London",
+ "keywords": "TfL,boarding, alighting",
+ "description": "Boarding and alighting a bus",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Buses",
+   "url": "/modes/buses/index"
+  },
+  {
+   "title": "Using buses in London"
+  }
+ ],
+ "title": {
+  "title": "Using buses in London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"When you travel on a London bus we want you to have the best experience possible. If you haven't used our services before, or it has been some time since your last trip, here are some tips on using our services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Over 6 million people use London's bus services every day and your safety is our priority. We are investing in improving London's bus services, this includes making live information available online and at bus stops, customer service training for bus drivers and using the latest technology for new, greener buses.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Planning your trip\"}",
+     "Our \u003ca href=\"/plan-a-journey/index\"\u003ejourney planner\u003c/a\u003e allows you to plan journeys by public transport across London. If you want to know about bus routes in your area, search our wide range of \u003ca href=\"/maps_/bus-spider-maps\"\u003elocal area maps\u003c/a\u003e . Check for disruptions to your journey on our \u003ca href=\"https://tfl.gov.uk/bus/status/\"\u003ebus status updates\u003c/a\u003e page or follow \u003ca href=\"http://www.twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts on Twitter\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-tap-on-bus_rdax_400x250.jpg\",\"alt\":\"Oyster tap on bus\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Paying for your journey\"}",
+     "To make journeys quicker and travelling simpler, all buses in London are now \u003ca href=\"/modes/buses/cash-free-buses\"\u003ecash-free\u003c/a\u003e . This means you will need to have an \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster \u003c/a\u003e card, \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless payment\u003c/a\u003e , a bus and tram pass, a paper Travelcard or Freedom Pass to travel on a London Bus.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/hailing-a-bus_rdax_400x250.jpg\",\"alt\":\"hailing a bus\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Getting on our bus services\"}",
+     "At all our stops in London there is a sign showing the stop name, which routes stop there and in what direction they are heading. Many of our stops also have an information panel showing information about other bus routes in the surrounding area.",
+     "Bus drivers always look out for anyone waiting to board a bus. They will give you time to board safely, but once the doors have been closed please let the bus leave safely and wait for the next bus. Visit our \u003ca href=\"https://tfl.gov.uk/travel-information/stations-stops-and-piers/\"\u003elive bus arrivals\u003c/a\u003e page to find out when the next bus will arrive.",
+     "All our buses are \u003ca href=\"https://tfl.gov.uk/transport-accessibility/\"\u003eaccessible\u003c/a\u003e . They can be lowered and have ramps for those who need help getting on or off. Once on board please either touch your card or payment device on the yellow reader or show your ticket or pass to the driver. Please move down inside the bus and use all available space and seats including upstairs on double decker buses. There is a wheelchair space available and wheelchair users have priority over this space.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hail and Ride\"}",
+     "Buses operate a Hail and Ride service on some of our routes in outer London. There are no fixed stops so you can signal to the driver that you wish to get on or press the stop button to get off at any safe point along the road. You will be informed when the bus is entering and leaving the Hail and Ride section of the route.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/stop-bus_rdax_400x250.jpg\",\"alt\":\"stop a bus\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Getting off our bus services\"}",
+     "To help customers know where they are on their journeys, next stop information is displayed on the information screens and announced on all of our buses. When your stop is displayed and announced, please press the bell once and in good time. This lets the driver know you intend to get off.",
+     "Some of our buses are fitted with hearing induction loops to help customers with hearing impairments communicate with the driver.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Closed bus stops\"}",
+     "We sometimes have to close bus stops due to roadworks, marches and sporting events. When a bus stop is closed, a yellow cover is placed over the sign at the stop and some stops will have information about where to go to catch your bus.",
+     "A message informing you a stop is closed will be displayed on the information screens on the bus and announcements will be made. You will also be informed if the bus is going to be diverted. Speak to the driver when the bus is stationary if you require more information."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Buses",
+    "links": [
+     {
+      "title": "Changes to bus routes",
+      "url": "/modes/buses/bus-service-changes",
+      "image": {}
+     },
+     {
+      "title": "Live bus arrivals",
+      "url": "/modes/buses/live-bus-arrivals",
+      "image": {}
+     },
+     {
+      "title": "Improving buses",
+      "url": "/modes/buses/improving-buses",
+      "image": {}
+     },
+     {
+      "title": "Who runs your bus",
+      "url": "/modes/buses/who-runs-your-bus",
+      "image": {}
+     },
+     {
+      "title": "Cash free buses",
+      "url": "/modes/buses/cash-free-buses",
+      "image": {}
+     },
+     {
+      "title": "Demand responsive bus service",
+      "url": "/modes/buses/demand-responsive-bus-service",
+      "image": {}
+     },
+     {
+      "title": "Using buses in London",
+      "url": "/modes/buses/using-buses-in-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Buses",
+     "url": "/modes/buses/using-buses-in-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

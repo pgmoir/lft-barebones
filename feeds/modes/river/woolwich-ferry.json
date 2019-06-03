@@ -1,0 +1,137 @@
+{
+ "pageTitle": "Woolwich Ferry",
+ "keywords": "TfL",
+ "description": "The Woolwich ferry is a free service linking Woolwich and North Woolwich. It carries pedestrians, cyclists, cars, vans and lorries",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "River",
+   "url": "/modes/river/index"
+  },
+  {
+   "title": "Woolwich Ferry"
+  }
+ ],
+ "title": {
+  "title": "Woolwich Ferry",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Woolwich Ferry is open and running a regular service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Woolwich Ferry strike - 28 May\"}",
+     "A strike is planned on the Woolwich Ferry on Tuesday 28 May. If the strike goes ahead, the service will be seriously disrupted. \u003ca href=\"/status-updates/index\"\u003eCheck\u003c/a\u003e before you travel and \u003ca href=\"/plan-a-journey/index\"\u003ePlan an alternative journey\u003c/a\u003e by public transport, cycling or walking.",
+     "Further strikes are planned on 31 May and 3 June.",
+     "The Woolwich Ferry links Woolwich and North Woolwich. It's free and carries pedestrians, cyclists, cars, vans and lorries.",
+     "The Ferry is operated by Briggs Marine and Environmental on behalf of TfL.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Operating hours\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Monday to Friday\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"From 6:10 to 20:00\",\"Last boat from south to north 19:45\"]}",
+     "Boats run approximately every 10-15 minutes throughout the day.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Saturday and public holidays\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"From 6:10 to 20:00\",\"Last boat from south to north 19:45\"]}",
+     "One boat runs approximately every 20 minutes throughout the day.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"From 11:30 to 19:30\",\"Last trip south to north 19:15\"]}",
+     "One boat runs approximately every 20 minutes throughout the day.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Christmas Day, Boxing Day and New Year's Day\"}",
+     "There is no service on 25 and 26 December or on 1 January.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tides and weather\"}",
+     "The Woolwich Ferry is not usually affected by tidal conditions, but we sometimes need to suspend the service when there is an extremely high tide.",
+     "We suspend the service when there is dense fog in the area.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicle restrictions\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Maximum size\"}",
+     "\u003cstrong\u003eMaximum height:\u003c/strong\u003e 4.7 metres or 15.5 feet\u003cbr /\u003e\u003cstrong\u003eMaximum width:\u003c/strong\u003e 3.5 metres or 11.5 feet",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Dangerous goods\"}",
+     "Vehicles displaying Hazchem signs are prohibited.",
+     "The International Maritime Dangerous Goods Code contains a list of dangerous or harmful substances known as the Dangerous Goods List. Any vehicle or trailer carrying any substance specified in the Dangerous Goods List will not be allowed on the Woolwich Ferry.",
+     "This excludes any fuel that is contained in the tanks of the vehicle and is used for moving the vehicle or operating its equipment."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "River",
+    "links": [
+     {
+      "title": "About River Bus",
+      "url": "/modes/river/about-river-bus",
+      "image": {}
+     },
+     {
+      "title": "About River Tours",
+      "url": "/modes/river/about-river-tours",
+      "image": {}
+     },
+     {
+      "title": "Woolwich Ferry",
+      "url": "/modes/river/woolwich-ferry",
+      "image": {}
+     },
+     {
+      "title": "The river experience",
+      "url": "/modes/river/the-river-experience",
+      "image": {}
+     },
+     {
+      "title": "Corporate \u0026 private boat hire",
+      "url": "/modes/river/corporate-and-private-boat-hire",
+      "image": {}
+     },
+     {
+      "title": "Explore London tickets",
+      "url": "/modes/river/explore-london-tickets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "River",
+     "url": "/modes/river/explore-london-tickets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

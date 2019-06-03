@@ -1,0 +1,96 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Additional Voluntary Contributions (AVCs)",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Active members can pay extra contributions to the Fund's AVC Plan.",
+     "Although the Trustees provide a facility for members of the Fund to pay AVCs it is a separate and personal arrangement between the individual and the AVC provider.",
+     "AVCs are paid into a personal fund and used to provide additional pension benefits on retirement.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who can pay\"}",
+     "The majority of active members of the Fund are eligible. However you will not be able to pay AVCs if you are planning to retire within a year of commencing AVCs.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Payment amounts\"}",
+     "If you joined the pension scheme after 1 June 1989, you can pay up to 15 per cent of your gross taxable earnings (subject to the Scheme Earnings Cap) in each tax year, minus your normal contributions to the Fund.",
+     "If you joined the Fund before 1 June 1989, you can pay up to 15 per cent of your gross taxable earnings, minus your normal contributions.",
+     "You can change the amount you pay by contacting the Fund office.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Making payments\"}",
+     "Your contributions are deducted from your pay by your employer. You can also make one-off payments.",
+     "You can stop payments by giving four weeks' notice.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"AVC investment\"}",
+     "Your AVCs are invested according to your choice. \u003ca href=\"/corporate/careers/avc-investment-options\"\u003eRead about the investment options\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"AVC tax advantages\"}",
+     "Just like your main Fund contributions you get full tax relief on your AVCs. Investment returns on your AVC fund are free of income tax.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transferring your AVCs\"}",
+     "You can transfer your AVCs at any time before or after leaving service and drawing your benefits from the Fund.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"AVCs on retiring\"}",
+     "You may take up to 25 per cent of the value of your total benefits from the Fund as a tax-free lump sum when you retire. If your AVCs exceed this amount the balance must be used to buy you a pension from an insurer.",
+     "Alternatively, you may choose to use all or part of your AVCs to buy an annuity or defer payment.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"In case of death\"}",
+     "Subject to HMRC limits, your AVC fund may be payable as a tax-free lump sum at the discretion of the Fund's Trustees.  Payment would normally be to the recipients of the lump sum death benefit.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Deferring payments of AVC benefits\"}",
+     "Your AVCs will remain in the TfL Pension Fund AVC Plan until you decide to take them.",
+     "{\"template\":\"bulletlist\",\"items\":[\"They will continue to be invested in accordance with your investment choices\",\"During the deferred period you can change your investments between the various funds offered\",\"You will continue to receive annual benefit statements confirming the value of your AVCs\",\"You must start drawing an income from your AVCs by the time you reach age 75, otherwise your AVCs will then be automatically used to buy an annuity\",\"Only 25 per cent of the fund value at the time you take your AVCs may be taken as cash with the rest used to buy you an annuity with an insurer\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"AVC annuities\"}",
+     "You can get quotations from the Fund's appointed AVC providers or from other insurance companies to assess which offers the best value.",
+     "If you decide to get quotes from other insurance companies you should contact them direct.",
+     "To help you, you could visit the Financial Services Authority's website at \u003ca href=\"http://www.fsa.gov.uk/\"\u003ehttp://www.fsa.gov.uk/\u003c/a\u003e and get instant quotes from a number of insurers. Alternatively you could contact the Annuity Bureau on 0845 602 6263."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

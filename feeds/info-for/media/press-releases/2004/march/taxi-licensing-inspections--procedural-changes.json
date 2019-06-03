@@ -1,0 +1,65 @@
+{
+ "pageTitle": "TAXI LICENSING INSPECTIONS - PROCEDURAL CHANGES",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TAXI LICENSING INSPECTIONS - PROCEDURAL CHANGES",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From Monday 29 March 2004 a small number of procedural changes will be made to the taxi inspection process. These changes are: -"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"road tests will no longer form a routine part of normal taxi licensing and miscellaneous inspections but will remain an option where there are particular reasons for requiring one;\",\"the number of licence reject appointments will be increased to 60 per day; and,\",\"all licence reject inspections will be conducted by appointment only.\"]}",
+     "These changes are being implemented in order to address specific health and safety issues relating to the road test element of the vehicle licensing process and to increase the availability of licence reject appointments thereby reducing the time before re-presentation. All key roadworthiness, environmental and safety related items will continue to be tested and the overall standard of licensing will not be compromised.",
+     "Any questions about this notice should be directed to Dave Stock, Head of Vehicle Inspections and Standards in the first instance."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Pint of milk and top up my Oyster card please",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Pint of milk and top up my Oyster card please",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "TfL unveils plans for e-money on Oyster."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Customers could soon be using Oyster to pay for newspapers, milk and car-parking as Transport for London begins exploring the possibility of small payments as a feature on the smartcard.",
+     "Mayor of London Ken Livingstone said:\u003cbr /\u003e\"Oyster is already making travel in London quicker and easier, by speeding up the bus service, cutting queues at Tube stations and helping to take cash off the buses. Now the smartcard technology can make Londoners' lives even easier - Oyster users will be able to pay for their car parking or for a pint of milk in the local shop with their Oyster card, instead of using cash.\"",
+     "Oyster has the largest customer base of all smartcards in the UK, with more than 2.2 million users. It also has the highest level of daily use, with more than 3 million journeys made every day using Oyster.",
+     "Jay Walder, Managing Director of Finance and Planning at TfL said:\u003cbr /\u003e\"This is a significant step towards extending the convenience of Oyster even further. The dash to the cash point and worrying about small change for parking could be things of the past. Oyster will become a quick and easy alternative for these kinds of purchases.",
+     "\"Oyster already delivers greater security and convenience than traditional travel tickets. Stolen or lost Oyster cards can be stopped so no one else can use them, and the card will soon be able to be topped-up automatically. Similar schemes such as Octopus in Hong Kong have shown customers appreciate the speed and ease this form of payment brings to the many small purchases people make every day.\"",
+     "The plan to extend Oyster from travel to small money purchases demonstrates TfL's commitment to provide greater convenience for passengers and generate additional revenue for the transport network.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "pageTitle": "Cars",
+ "keywords": "TfL",
+ "description": "Check to see if your car complies with the ULEZ standards",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "Cars"
+  }
+ ],
+ "title": {
+  "title": "Cars",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Cars need to meet minimum emissions standards when travelling within the Ultra Low Emission Zone (ULEZ) or the daily charge must be paid.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Minimum emission standards\"}",
+     "Petrol:\u003cstrong\u003eEuro 4\u003c/strong\u003e \u003cbr /\u003eDiesel:\u003cstrong\u003eEuro 6\u003c/strong\u003e ",
+     "The ULEZ is enforced based on the declared emissions of the vehicle rather than the age. However:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Petrol cars that meet the ULEZ standards are\\u003cstrong\\u003egenerally\\u003c/strong\\u003e those first registered with the DVLA after 2005, although cars that meet the standards have been available since 2001\",\"Diesel cars that meet the standards are\\u003cstrong\\u003egenerally\\u003c/strong\\u003e those first registered with the DVLA after September 2015\"]}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charges (if ULEZ standards NOT met)\"}",
+     "\u003cstrong\u003eWe prefer that you use a vehicle that meets the new emissions standards rather than pay a daily charge.\u003c/strong\u003e ",
+     "A daily charge runs from midnight to midnight. If you drive within the ULEZ area across two days, for example before midnight and after midnight, you will have to pay two daily charges.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Daily ULEZ charge: £12.50\",\"Penalty charge: £160 (reduced to £80 if paid within 14 days)\"]}",
+     "These are in addition to any Congestion Charge that applies. (Cars are not subject to the Low Emission Zone (LEZ).)",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How to pay\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/auto-pay\\\"\\u003eSet up Auto Pay\\u003c/a\\u003e (£10 annual charge per vehicle). Already have Auto Pay? Then you don't need to do anything\",\" \\u003ca href=\\\"/modes/driving/pay-to-drive-in-london\\\"\\u003ePay online\\u003c/a\\u003e \",\"Download the official TfL Pay to drive in London app for free from both the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApple App Store\\u003c/a\\u003e and \\u003ca href=\\\"http://play.google.com/store\\\"\\u003eGoogle Play Store\\u003c/a\\u003e \",\"Pay by phone\\u003cbr /\\u003eUK: 0343 222 2222 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\\u003cbr /\\u003eInternational:+44 20 7649 9122\\u003cbr /\\u003eTextphone: 020 7649 9123 (if you have impaired hearing)\"]}",
+     "Patients travelling to NHS hospital appointments may be able to get a refund for ULEZ charges. Find out more on the \u003ca href=\"/modes/driving/ultra-low-emission-zone/discounts-and-exemptions\"\u003eDiscounts and exemptions page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your options\"}",
+     "If your vehicle does not meet the required ULEZ standards you can:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Walk, cycle or use our public transport network\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"This includes our Night Tube, Night Bus and Night Overground services\",\" \\u003ca href=\\\"/plan-a-journey/\\\"\\u003eVisit our journey planner tool\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Take advantage of our fares freeze and off-peak fares\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Use our Hopper fare to take unlimited bus or tram journeys within one hour for £1.50. \\u003ca href=\\\"https://tfl.gov.uk/campaign/hopper-fare\\\"\\u003eFind out more about the Hopper fare\\u003c/a\\u003e \",\"Travel off peak anywhere between Zones 2 and 6 for £1.50. \\u003ca href=\\\"https://tfl.gov.uk/fares/\\\"\\u003eFind out more about fares\\u003c/a\\u003e \",\"Night services on the Tube and London Overground are off peak\",\"If you're planning a night out, travel from Zones 2-9 in to Zone 1 during the rush hour from £2.40. \\u003ca href=\\\"https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares\\\"\\u003eWhen is off peak?\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Upgrade to a second-hand vehicle that meets ULEZ standards\"}",
+     "If you're thinking of buying a new or second-hand car, first look up its emissions in real-world driving conditions with the Mayor's \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/cleaning-londons-vehicles/cleaner-vehicle-checker\"\u003eCleaner Vehicle Checker\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"Nearly all petrol vehicles produced since 2005 meet the ULEZ standards\",\"Vehicles which meet the equivalent of the Euro 4 NOx standard for petrol have been available to buy since 2001\"]}",
+     "You can find a vehicle's Euro emission standard on its vehicle registration document.",
+     "If it's not shown, you can use the date when the vehicle was first registered with the DVLA - this is in section B of the document. Then check \u003ca href=\"https://vehicleenquiry.service.gov.uk/\"\u003eGov.uk's vehicle enquiry service\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pay the daily charge\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/pay-to-drive-in-london\\\"\\u003ePay any ULEZ, LEZ and/or Congestion Charges online\\u003c/a\\u003e , all at the same time\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Join a car club\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"All car club vehicles are expected to meet the ULEZ standards by April 2019 at the latest. \\u003ca href=\\\"/modes/driving/car-clubs\\\"\\u003eFind out more about car clubs\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Go electric\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Electric cars emit no NOx or CO2 from the tailpipe (compared to 120 g/km for the average small petrol car). More information about electric and plug-in hybrids, including advice on picking a vehicle is on the \\u003ca href=\\\"https://www.goultralow.com/\\\"\\u003eGo Ultra Low website\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"See if you qualify for a discount or exemption\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Check on the \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/discounts-and-exemptions\\\"\\u003eDiscounts and exemptions page\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Questions about ULEZ?\"}",
+     "If you need more advice about the ULEZ, you can \u003ca href=\"/modes/driving/ulez-make-an-enquiry-wizard\"\u003emake an enquiry\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ boundary expansion\"}",
+     "From October 2021 the ULEZ will \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-where-and-when\"\u003eexpand to the North and South Circular Roads\u003c/a\u003e . All cars within the expanded zone will need to meet the ULEZ emissions standards or pay a daily charge."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

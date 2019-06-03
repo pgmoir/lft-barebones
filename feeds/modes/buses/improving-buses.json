@@ -1,0 +1,123 @@
+{
+ "pageTitle": "Improving buses",
+ "keywords": "TfL",
+ "description": "TfL is continually improving the entire bus network across London. Learn how these improvements will benefit your journey",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Buses",
+   "url": "/modes/buses/index"
+  },
+  {
+   "title": "Improving buses"
+  }
+ ],
+ "title": {
+  "title": "Improving buses",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"As part of our commitment to your bus service, we have been improving the entire bus network across London. Learn how these improvements will benefit your journey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our bus network now carries 2.3 billion passengers a year - more than the rest of England combined. We're constantly looking at how new technology can help to improve our customers' journeys and reduce our impact on the environment.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cleaner-air-for-london_rdax_400x250.jpg\",\"alt\":\"Cleaner Air for London\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cleaner, greener buses\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The central London Ultra Low Emission Zone (ULEZ)\"}",
+     "All TfL buses operating in the ULEZ in central London meet or exceed Euro VI emission standards. Euro VI is the latest emission standard for vehicles reducing emissions of NOx by up to 95%. The buses operating in the area are made up of zero emission (at tail pipe) buses, new Euro VI standard buses, buses retrofitted to Euro VI standards and hybrid Euro VI standard buses.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/zero-emission-bus_rdax_400x250.jpg\",\"alt\":\"A single decker zero emission bus across Tower Bridge in the evening\"},\"wrapped\":false}",
+     "Our growing fleet of greener buses now includes over 150 electric buses and from 2020 all new single deck buses entering the fleet will be zero emission (at tailpipe). They will be a mix of hydrogen buses and electric buses. These buses will contribute to improving air quality and are also much quieter, with lower vibration levels for a more comfortable experience.",
+     "Routes already fully converted to zero-emission (at the tailpipe):",
+     "46  - Lancaster Gate Station to St Bartholomew's Hospital\u003cbr /\u003e153 - Finsbury Park Interchange to Finsbury Square / Moorgate\u003cbr /\u003e312 - South Croydon Bus Garage to Norwood Junction Station\u003cbr /\u003e360 - Elephant \u0026 Castle / Newington Causeway to Prince Consort Road\u003cbr /\u003e507 - Waterloo Station to Victoria Bus Station\u003cbr /\u003e521 - Waterloo Station to London Bridge Station\u003cbr /\u003e70 - South Kensington Station to  Chiswick Business Park\u003cbr /\u003eC1 - Victoria Station to  White City Bus Station\u003cbr /\u003eRV1 - Covent Garden / Catherine Street To: Tower Gateway Station",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/on-bus-information-boards_rdax_400x250.jpg\",\"alt\":\"New information screens on 507 and 521\"},\"wrapped\":false}",
+     "Electric buses on routes 507 and 521 have live information boards that tell you how long it is to your next stop as well as live status updates across other parts of our network. Many electric bus have handy USB ports for charging your phone.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Low Emission Bus Zones\"}",
+     "The zones are designed to tackle the worst air quality hotspots outside central London by concentrating cleaner buses on the most polluting routes, helping people to breathe cleaner air and our city to flourish.",
+     "The introduction of Low Emission Bus Zones will mean that all scheduled TfL buses travelling within the zone will need to meet or exceed latest Euro VI emissions standards.",
+     "The zones have been progressively launched since 2017 and we'renow over halfway to completing all 12 Low Emission Bus Zones by the end of 2019. This forms a central part of the Mayor's far-reaching plans for a drastic clean-up of London's toxic air.",
+     "The zones which have now been launched are as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ePutney High Street \\u003c/strong\\u003e from Putney Station to Putney Bridge Road\",\"\\u003cstrong\\u003eBrixton to Streatham \\u003c/strong\\u003e from Brixton Road, along Brixton Hill, Streatham Hill and Streatham High Road(to the junction of Gleneldon Road)\",\"\\u003cstrong\\u003eHaringey \\u003c/strong\\u003e from High Road to Green Lanes\",\"\\u003cstrong\\u003eCamberwell to New Cross \\u003c/strong\\u003e from Camberwell New Road, along Peckham High Street and New Cross Road to Deptford Bridge station\",\"\\u003cstrong\\u003eWandsworth to St John's Hill \\u003c/strong\\u003e from Wandsworth Road (junction with Nine Elms/Parry Street) along Lavender Hill to St John's Hill (junction with Harbut Road)\",\"\\u003cstrong\\u003eEdgware Road (Kilburn to Maida Vale) \\u003c/strong\\u003e from Edgware Road (by Staples Corner/North Circular) Cricklewood Broadway via Shoot-Up Hill to Kilburn High Road and Maida Vale (junction with Elgin Avenue/Abercon Place)\",\"\\u003cstrong\\u003eA12 Eastern Avenue \\u003c/strong\\u003e from Homerton High Street along Homerton Road, Warren Road, Gainsborough Road, Cambridge Park Road to Eastern Avenue (by Redbridge Lane West)\",\"\\u003cstrong\\u003eLewisham to Catford\\u003c/strong\\u003e from Lewisham Road, along Lewisham High Street to Bromley Road (junction with whitefoot Lane and southend Lane)\",\"\\u003cstrong\\u003eStratford \\u003c/strong\\u003e from Mile End Road to Romford Road\",\"\\u003cstrong\\u003eEdmonton to Seven Sisters \\u003c/strong\\u003e from Ponders High Street, Hertford Road High Street and Fore Street to Seven Sisters Road\"]}",
+     "The other zones will be introduced in the following areas:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eUxbridge Road to Shepherds Bush \\u003c/strong\\u003e from Uxbridge Road via Ealing Broadway, The Vale to Uxbridge Road (Shepherd's Bush station)\",\"\\u003cstrong\\u003eChiswick High Road to Kensington \\u003c/strong\\u003e from Chiswick High Road and Hammersmith Broadway to Kensington High Street (to High Street Kensington station)\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Map of the Low Emissions Bus Zones\",\"url\":\"/cdn/static/cms/documents/low-emissions-bus-zones-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.19MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Making our older buses cleaner\"}",
+     "We plan to retrofit around 5,000 buses so that they meet the latest emissions standards (Euro VI) as quickly as possible.",
+     "The introduction and expansion of these technologies play a key role in improving the air we breathe in London.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hybrid buses\"}",
+     "Over 3,500 diesel-electric hybrid buses currently run through the Capital, making up 30% of our bus fleet. All of these buses are quieter, more fuel-efficient and cleaner than standard diesel buses.",
+     "All new double-deck buses entering our fleet are diesel-hybrid meeting Euro VI emissions standards.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Green technology trials\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Wireless charging\"}",
+     "We have also started trialling wireless charging technology on some of our buses running on route 69 as part of Project ZeEus. The buses are fitted with special technology enabling on-board batteries to receive a charge boost on plates fitted at bus stands at either end of the route.",
+     "This should enable the buses to operate in pure electric mode for a significant period of the time they are in passenger service.",
+     "The trial uses inductive charging technology allowing the buses to top up their batteries without needing to be physically plugged in.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bus-charging-plate_rdax_400x457.jpg\",\"alt\":\"Demonstration of new inductively-charged (through the road) electric hybrid bus\"},\"wrapped\":false}",
+     "The buses have a diesel engine that will be used when battery power is depleted. But we anticipate this will only be a small amount of the time, meaning emissions on these vehicles are greatly reduced.",
+     "Passengers will notice that these extended range diesel electric hybrid buses offer much lower noise and vibration levels compared to conventional diesel vehicles. The buses have significantly reduced tail pipe emissions, resulting in improved air quality and cleaner air for London.",
+     "Reduced fuel use will mean lower carbon emissions. The trial will help us develop plans for greater use of electric buses in central London in the future.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/biodiesel-logo-on-bus_rdax_400x250.jpg\",\"alt\":\"Biodiesel logo on bus\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Even more fuels for the future\"}",
+     "We've also been running trials of a combination of diesel and bio-fuel made from used cooking oil from the catering industry.",
+     "This is designed to test the feasibility of running London's bus fleet on a 20% bio-diesel blend, which would produce around 15% fewer carbon emissions over their lifespan than ordinary diesel-powered vehicles.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Live information\"}",
+     "Our arrivals boards at more than 2,500 bus stops let customers know when their next bus is due. And the audio-visual technology on all of our buses helps people navigate their journeys around London.",
+     "We are also making accurate, live service information available to customers on their mobile phones, tablets and other devices, as well as at roadside signs and public locations like hospital waiting rooms, schools and shopping centres.",
+     "Passengers can even check when their next bus is due before leaving the house. At the same time, app developers are using our travel information to launch more and more useful products.",
+     " \u003ca href=\"/modes/buses/live-bus-arrivals\"\u003eFind out more about getting live bus information\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improving bus routes\"}",
+     "We are making a number of changes along our bus routes to improve the experience for customers. These include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"More convenient routes to key amenities such as shopping centres and hospitals\",\"Quicker journeys on selected routes by giving buses priority on the roads, meaning buses get ahead of traffic\",\"Increased space on buses by introducing double-deck buses on certain routes\",\"Extra buses during busy times such as morning and evening peak, school runs and Saturday and Sunday shopping times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Revamping stations and stops\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"In 2016, West Croydon bus station was completely transformed. The new bus station provides better customer information, is more spacious and has fully accessible bus stops, making it easier and more convenient to travel in the area\",\"Over the next two years, we will be upgrading key bus stations including Kingston Cromwell Road and East Croydon\",\"95% of our bus stops are fully accessible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Weekend Night bus services\"}",
+     "As Night Tube services are introduced, we've started running more weekend-only Night bus services to help passengers start or finish their Night Tube journeys.",
+     "This is also providing new local travel opportunities. The \u003ca href=\"/campaign/tube-improvements/what-we-are-doing/night-tube\"\u003enew Night bus services\u003c/a\u003e are in addition to London's already extensive network of 24-hour bus services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus Priority Programme\"}",
+     "We're investing in enhancements across London's bus network to keep it efficient and reliable - making sure we provide the best quality of service to our customers.",
+     "The programme gives buses priority in areas like:",
+     "{\"template\":\"bulletlist\",\"items\":[\"More continuous bus lanes which cross junctions with bus lanes on either side and enforced yellow box junctions\",\"Improving performance of existing bus lanes to ensure appropriate widths for bus passengers and cyclists\",\"Extending bus lane hours to cover peaks and increasing off-peak hours of operation where appropriate, such as during the working day, evenings and weekends. This will be supported by increased enforcement and further encouraging bus drivers to report infringements\",\"Reducing dwell times and enhancing bus stop accessibility to make it easier for buses to access bus stops from the carriageway and ensure passengers can board and alight safely\",\"Upgrading signals to prioritise buses at traffic signals including bus only movements\"]}",
+     "We're also extending and redirecting bus routes to support housing growth across London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

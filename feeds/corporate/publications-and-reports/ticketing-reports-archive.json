@@ -1,0 +1,86 @@
+{
+ "pageTitle": "Ticketing reports archive",
+ "keywords": "TfL",
+ "description": "Archived reports relating to Oyster, contactless etc",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Oyster card",
+   "url": "/corporate/publications-and-reports/oyster-card"
+  },
+  {
+   "title": "Ticketing reports archive"
+  }
+ ],
+ "title": {
+  "title": "Ticketing reports archive",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster card balances and refunds\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Oyster card balances and refunds September 2014\",\"url\":\"/cdn/static/cms/documents/oyster-card-balances-and-refunds-september-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 132KB\",\"image\":{}},{\"title\":\"Oyster card balances and refunds June 2014\",\"url\":\"/cdn/static/cms/documents/oyster-card-balances-and-refunds-june-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 136KB\",\"image\":{}},{\"title\":\"Oyster card balances and refunds April 2014\",\"url\":\"/cdn/static/cms/documents/oyster-balances-refunds-april-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 132KB\",\"image\":{}},{\"title\":\"Oyster card balances and refunds October 2013\",\"url\":\"/cdn/static/cms/documents/oyster-card-balances-and-refunds-nov2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 131KB\",\"image\":{}},{\"title\":\"Oyster card balances and refunds July 2013\",\"url\":\"/cdn/static/cms/documents/oyster-card-balances-and-refunds-july-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 128KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Trends in Oyster card usage\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Trend of Oyster card usage 1 October 2013 to 30 September 2014\",\"url\":\"/cdn/static/cms/documents/trend-of-oyster-card-usage-1-october-2013-to-30-september-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 128KB\",\"image\":{}},{\"title\":\"Trend of Oyster card usage 1 July 2013 - 30 June 2014\",\"url\":\"/cdn/static/cms/documents/trend-of-oyster-card-usage-1-july-2013-to-30-june-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 129KB\",\"image\":{}},{\"title\":\"Trend of Oyster card usage 1 April 2013 to 31 March 2014\",\"url\":\"/cdn/static/cms/documents/trend-oyster-usage-april-2013-march-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 130KB\",\"image\":{}},{\"title\":\"Trend of Oyster card usage 1 November 2012 to 31 October 2013\",\"url\":\"/cdn/static/cms/documents/trend-of-oyster-card-usage-nov-2012-october-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 129KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Daily breakdown of Oyster card usage\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Daily breakdown of Oyster card usage 1 October 2012 to 30 September 2014\",\"url\":\"/cdn/static/cms/documents/daily-breakdown-of-oyster-card-usage-1-october-2012-to-30-september-2014.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 30KB\",\"image\":{}},{\"title\":\"Daily breakdown of Oyster card usage 1 August 2012 to 31 March 2014\",\"url\":\"/cdn/static/cms/documents/daily-breakdown-oyster-usage-august-2012-march-2014.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 26KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster photocard scheme data\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Oyster photocard data 2014/15\",\"url\":\"/cdn/static/cms/documents/photocard-data.pdf\",\"icon\":\"download\",\"size\":\"PDF 221KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

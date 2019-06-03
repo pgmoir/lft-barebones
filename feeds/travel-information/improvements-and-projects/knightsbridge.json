@@ -1,0 +1,82 @@
+{
+ "pageTitle": "Knightsbridge",
+ "keywords": "K,Kensington \u0026 Chelsea,Westminster,Tube improvement,Tube,TfL",
+ "description": "Knightsbridge Tube station will get step-free access in 2020, reached by a new entrance at Hooper's Court",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Knightsbridge"
+  }
+ ],
+ "title": {
+  "title": "Knightsbridge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Knightsbridge Tube station will have step-free access in 2020, reached by a new entrance at Hooper's Court.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Two new lifts will serve the Piccadilly line platforms, making the station step-free from street level to the trains.",
+     "A second new entrance will open at 15 Brompton Road in 2019, replacing the former entrance on the corner of Sloane Street and Brompton Road. The pavement on Brompton Road and Sloane Street will be widened, making more room for pedestrians.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Works at the station\"}",
+     " \u003ca href=\"http://www.knightsbridge-estate.com/\"\u003eThe Knightsbridge Estate\u003c/a\u003e was granted permission to redevelop the space above Knightsbridge Tube station in 2016. This includes modernising the office, retail and residential space inside.",
+     "Working with the Knightsbridge Estate team, we began preparatory works (including scaffolding) around the Tube station entrance at 1 Brompton Road in September 2017. This entrance, on the corner of Sloane Street and Brompton Road, is now closed.",
+     "The space currently occupied by this entrance will be changed into a retail unit, and the shop fronts on this stretch of Brompton Road will be restored using heritage features.",
+     "Other entrances to the station will stay open during the works."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

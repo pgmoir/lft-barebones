@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Change address",
+ "keywords": "TfL",
+ "description": "Change your account address if your business has moved.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Change address"
+  }
+ ],
+ "title": {
+  "title": "Change address",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Change your account address if your business has moved.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you are located:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eWithin the UK:\\u003c/strong\\u003e Enter a valid postcode\",\"\\u003cstrong\\u003eOutside of the UK: \\u003c/strong\\u003e Enter the address manually\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

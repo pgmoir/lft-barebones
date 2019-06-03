@@ -1,0 +1,219 @@
+{
+ "pageTitle": "Quirky London",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Quirky London - step away from the tourist cliches",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Santander Cycles",
+   "url": "/modes/cycling/santander-cycles"
+  },
+  {
+   "title": "Leisure routes",
+   "url": "/modes/cycling/santander-cycles/leisure-routes"
+  },
+  {
+   "title": "Quirky London"
+  }
+ ],
+ "title": {
+  "title": "Quirky London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Step away from the tourist clichés and discover another side to the city. From ancient burial grounds, to creepy museums, creative coffees and brightly coloured squares, London has hidden gems in every corner to suit every taste.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/quirky-london-alice-shop.jpg\",\"alt\":\"Alice's shop\"},\"wrapped\":false}",
+     "Start this short ride by hiring a bike from Hop Exchange docking station near London Bridge. Travel a short distance down Southwark Street and turn left on Redcross Way. Here you'll find the Cross Bones Graveyard. This was a graveyard for prostitutes and paupers refused burial in church grounds on account of being judged as sinners.",
+     "The otherwise unnoticeable graveyard is today marked by ribbons and other notes of sympathy that have been placed by locals. The site is said to contain the bodies of over 15,000 people.",
+     "Head across the Thames and follow the cycle route straight ahead. The next sight is London's oldest church. It is the church of St Bartholomew the Great which was originally founded in 1123. It is one of the oldest surviving examples of a timber-frame house front. Near here is also the statue of the Golden Boy.",
+     "The statue marks the spot where the Great Fire of London ended back in 1666. It was long believe that the fire was God's way of punishing the citizens of London for their gluttony. The golden fat boy is a reminder not to commit this sin again.",
+     "The next interesting stop is the Hunterian Museum. This contains curious displays of anatomical specimens.",
+     "The tour ends at Neal's Yard. The nearest docking station is on Drury Lane. Neal's Yard is a colourful little nest in the heart of London. It is home to a number of quirky shops. Near here there's also Freud's bar, serving cocktails to a small crowd underground. There's also the Monmouth coffee shop which coffee lovers will adore.",
+     "Distance: 3.4 miles (5.5 km)",
+     "Route supplied by \u003ca href=\"http://www.londoncyclist.co.uk/\"\u003ethe London Cyclist Blog\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Directions\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hop Exchange to Cross Bones\"}",
+     "Undock your bike on Southwark Street and cycle down the road, taking the first left on to Redcross Way.",
+     "Around halfway down the street you'll see the Cross Bones Graveyard. Double back on yourself on to Southwark Street and turn left. Take the second right to cycle over Southwark Bridge. Alternatively, you can dismount and use the pedestrian crossing to the left of Thrale Street.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cross Bones to Fat Boy\"}",
+     "When you reach the traffic lights, continue straight ahead and on to the cycle link on Queen Street. Keep going straight ahead, crossing over the five junctions.",
+     "At the end of King Street, take a left on to Gresham Street, followed by the second right on to Wood Street.",
+     "Take the next left down London Wall, followed by the third exit at the roundabout, down Aldersgate Street. Alternatively, you can dismount and use the pedestrian crossings around the junction.",
+     "Take the next left on to Long Lane, followed by a sharp left on to Cloth Street and then a sharp right on to Middle Street. Continue straight ahead and on the left you'll see the church of St Bartholomew-the-Great.",
+     "Follow the roundabout around and head down Giltspur Street on the left. On the corner of Cock Lane, turn right and you'll see the Golden Fat Boy.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fat Boy to Hunterian Museum\"}",
+     "Pedal down Cock Lane and turn right at the end. You'll reach Smithfield Market where you'll need to take a right on the main road, up Farringdon Street. Alternatively, you can dismount and use the pedestrian crossings around the junction.",
+     "Take the next left on to Charterhouse Street.",
+     "At the roundabout, take the third exit down New Fetter Lane and continue straight ahead.",
+     "At the end of New Fetter Lane, turn right on to Fleet Street, followed by the next right on to Chancery Lane.",
+     "Take the first left on to Carey Street and then turn right on Serle Street.",
+     "Turn left onto Lincoln's Inn Fields and you'll be at the Hunterian Museum, which is inside the Royal College of Surgeons.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/neals-yard-quirky-london-cycling.jpg\",\"alt\":\"Neals Yard\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hunterian Museum to Neal's Yard\"}",
+     "After the museum, take a right onto Lincoln's Inn Fields, followed by a left shortly after, onto Remnant Street.",
+     "Continue straight ahead onto Great Queen Street and dock your bike on Drury Lane.",
+     "Continue on foot up Drury Lane and take the left onto Shorts Gardens. Continue straight ahead and, after Neal Street, head into Neal's Yard."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "How it works",
+      "url": "/modes/cycling/santander-cycles/how-it-works",
+      "image": {}
+     },
+     {
+      "title": "What you pay",
+      "url": "/modes/cycling/santander-cycles/what-you-pay",
+      "image": {}
+     },
+     {
+      "title": "Find a docking station",
+      "url": "/modes/cycling/santander-cycles/find-a-docking-station",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles membership",
+      "url": "/modes/cycling/santander-cycles/register-for-your-own-key",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/santander-cycles/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Saturday markets",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/saturday-markets",
+      "image": {}
+     },
+     {
+      "title": "Independent shops \u0026 markets",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/independent-shops-and-markets",
+      "image": {}
+     },
+     {
+      "title": "London's secret gardens",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/londons-secret-gardens",
+      "image": {}
+     },
+     {
+      "title": "Quirky London",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/quirky-london",
+      "image": {}
+     },
+     {
+      "title": "Sporting sights",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/sporting-sights",
+      "image": {}
+     },
+     {
+      "title": "Route ideas for Explore London ticket holders",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+      "image": {}
+     },
+     {
+      "title": "Lost, stolen or faulty",
+      "url": "/modes/cycling/santander-cycles/lost-stolen-or-faulty",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles app",
+      "url": "/modes/cycling/santander-cycles/community",
+      "image": {}
+     },
+     {
+      "title": "Suggestions \u0026 complaints",
+      "url": "/modes/cycling/santander-cycles/suggestions-and-complaints",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles business accounts",
+      "url": "/modes/cycling/santander-cycles/business-accounts",
+      "image": {}
+     },
+     {
+      "title": "Blaze Laserlights",
+      "url": "/modes/cycling/santander-cycles/blaze-laserlights",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

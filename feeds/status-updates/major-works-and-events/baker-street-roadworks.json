@@ -1,0 +1,231 @@
+{
+ "pageTitle": "Baker Street road works",
+ "keywords": "TfL",
+ "description": "We're changing the road system around Baker Street. Find out travel advice here",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Baker Street road works"
+  }
+ ],
+ "title": {
+  "title": "Baker Street road works",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Two-way traffic will be re-introduced to Baker Street and Gloucester Place over the weekend of 21-24 February 2019. Here's how your journey could be affected.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "From 20:00 on Thursday 21 February to Sunday 24 February, sections of road will progressively close on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Gloucester Place and Portman Street\",\"Park Road\",\"Baker Street and Orchard Street\",\"Oxford Street (between Marble Arch and Orchard Street).\"]}",
+     "This will allow final works to be completed for the switch.",
+     "Once these roads are closed they will only reopen when the area is ready for two-way for traffic. We expect to make the switch to two-way traffic on Sunday 24 February 2019, as soon as all works are completed and it is safe to do so.",
+     "Get live updates on traffic conditions during the road closures on our \u003ca href=\"http://tfl.gov.uk/traffic/status/?Input=baker%20street\u0026disruptionIds=TIMS-165573\"\u003etraffic status map\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Traffic impact map\"}",
+     "View the construction area and live traffic conditions on our traffic status map. Or view the map below for the impact of the works on traffic in the coming months or download the PDF",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Baker Street switch 21-24 February - traffic impact map\",\"url\":\"/cdn/static/cms/documents/baker-street-two-way-traffic-impact-21-24-feb.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.67MB\",\"image\":{}},{\"title\":\"Baker Street traffic impact map -  February 2019\",\"url\":\"/cdn/static/cms/documents/baker-street-two-way-and-nearby-major-road-works-v125.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.99MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Driving through the area\"}",
+     "Extensive road closures in the area that mean you will not be able to travel southbound on Park Road from the junction with Gloucester Place.",
+     "If you are travelling north/south through London on the A5 or A41 expect long queues and extensive delays. You are advised to avoid the area until the roads reopen for two way traffic. Seek alternative routes where possible and leave extra time for your journey.",
+     "Consider alternative ways of making your journey, especially the Tube.",
+     "View the construction area and live traffic conditions on our \u003ca href=\"http://tfl.gov.uk/traffic/status/?Input=baker%20street\u0026disruptionIds=TIMS-165573\"\u003etraffic status map\u003c/a\u003e .",
+     "For news about traffic in London, follow \u003ca href=\"https://twitter.com/tfltrafficnews\"\u003e@TfLTrafficNews\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local traffic\"}",
+     "Side roads will remain open. We recommend using alternative means of travel, especially walking or Tube.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Deliveries and servicing\"}",
+     "You are advised to arrange deliveries outside this time as access will be limited. Find out more about \u003ca href=\"/info-for/deliveries-in-london/delivering-efficiently\"\u003echanging deliveries\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "Tube and Rail services are unaffected by the works. Access to Baker Street and Bond StreetTube stations will be maintained throughout the works.",
+     "The Tube will be one of the best ways of making journeys to and from the area during these works. Baker Street is on the Jubilee Line, which runs along the A41 Finchley Road.",
+     " \u003ca href=\"/plan-a-journey/index\"\u003ePlan a journey\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"20:00 Thursday 21 - Sunday 24 February 2019 (road closures)\"}",
+     "Temporary changes apply to bus services in the area during works. Services will continue but some buses will stop short of their destination or be on diversion. \u003ca href=\"/plan-a-journey/index\"\u003ePlan your journey\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From Sunday 24 February 2019\"}",
+     "Routes will be realigned on Baker Street and Gloucester Place following the reopening of roads in the new two-way system on Sunday 24 February. See the map below.",
+     "For the latest information on how buses are running, see our \u003ca href=\"http://tfl.gov.uk/bus/status/\"\u003ebus status updates\u003c/a\u003e . For news about the bus network, follow \u003ca href=\"https://twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Map - where to catch buses from 24 February\",\"url\":\"/cdn/static/cms/documents/baker-street-buses-map-from-24-feb.pdf\",\"icon\":\"download\",\"size\":\"PDF 134KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"20:00 Thursday 21 - Sunday 24 February 2019 (road closures)\"}",
+     "All footways will remain open. Stewards will be able to help.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From Sunday 24 February 2019\"}",
+     "Look both ways when the two-way traffic system comes into place on Sunday 24 February.",
+     "See our map showing \u003ca href=\"/cdn/static/cms/documents/walking-tube-map.pdf\"\u003ewalking times between stations\u003c/a\u003e on the same Tube line.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "During the road closures, you can still use adjacent local roads.",
+     "Cyclists travelling east to west can use",
+     "{\"template\":\"bulletlist\",\"items\":[\"The London Cycle Network (LCN) Route 0, which brings cyclists east west along Seymour Street, Portman Square and Wigmore Street.\",\"The LCN Route 40, which feeds cyclists from Crawford Street.\"]}",
+     "Cyclists travelling north to south can use:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Great Cumberland - Bryanston Square - Enford Street - Harewood Avenue, which connects with Seymour and Crawford for connections east to west on the London Cycle Network\",\"James St - Marylebone High Street, which connects with east to west routes at Wigmore and Crawford Street\"]}",
+     "Find information on \u003ca href=\"/modes/cycling/index\"\u003ecycling and nearby cycle routes\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coaches\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"20:00 Thursday 21 - Sunday 24 February 2019 (road closures)\"}",
+     "Coaches will be diverted via St John's Wood Road and Edgware Road during the road closures.",
+     "Northbound coaches towards Luton and Stansted Airports, Hemel Hempstead, Leighton Buzzard will serve:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Marble Arch (except Airport Bus Express)\",\"Finchley Road, Underground Station, coach stop CL\"]}",
+     "National Express services towards Northampton and the Midlands will not serve Marble Arch, Baker Street or Finchley Road until Monday 25 February. Passengers should use Victoria Coach Station.",
+     "Until 15:00 Sunday 24 February, Coach route X90 towards Oxford will serve:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Marble Arch, Speaker's Corner coach stop 14\",\"Edgware Road Underground Station, Chapel Street bus stop ET\"]}",
+     "After the switch, the coach routes will remain as they currently are now.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the scheme\"}",
+     "The aim of this project is to reduce the dominance of traffic along Baker Street and Gloucester Place which divides up the area, creating access and safety problems. For more information, please visit the \u003ca href=\"http://www.bakerstreettwoway.co.uk/\"\u003eproject webpage\u003c/a\u003e .\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related works\"}",
+     "Find out \u003ca href=\"/status-updates/major-works-and-events/travel-advice-for-road-users\"\u003eall major roadworks in London\u003c/a\u003e , or specific travel advice for current projects in London:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Chelsea Embankment\",\" \\u003ca href=\\\"/status-updates/major-works-and-events/road-changes-at-victoria-embankment\\\"\\u003eVictoria Embankment\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Major works \u0026 events",
+    "links": [
+     {
+      "title": "August Bank Holiday \u0026 Notting Hill Carnival",
+      "url": "/status-updates/major-works-and-events/august-bank-holiday-and-notting-hill-carnival",
+      "image": {}
+     },
+     {
+      "title": "Baker Street roadworks",
+      "url": "/status-updates/major-works-and-events/baker-street-roadworks",
+      "image": {}
+     },
+     {
+      "title": "Christmas travel",
+      "url": "/status-updates/major-works-and-events/christmas-travel",
+      "image": {}
+     },
+     {
+      "title": "Cycle Superhighway 11",
+      "url": "/status-updates/major-works-and-events/cycle-superhighway-11",
+      "image": {}
+     },
+     {
+      "title": "Easter travel 2018",
+      "url": "/status-updates/major-works-and-events/easter-travel-2018",
+      "image": {}
+     },
+     {
+      "title": "Easter travel 2019",
+      "url": "/status-updates/major-works-and-events/easter-travel-2019",
+      "image": {}
+     },
+     {
+      "title": "Hammersmith Bridge closure",
+      "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
+      "image": {}
+     },
+     {
+      "title": "Highbury Corner roundabout",
+      "url": "/status-updates/major-works-and-events/highbury-corner-roundabout",
+      "image": {}
+     },
+     {
+      "title": "Improvements between Acton and Wood Lane",
+      "url": "/status-updates/major-works-and-events/improvements-between-acton-and-wood-lane",
+      "image": {}
+     },
+     {
+      "title": "Spring Bank Holiday 2019",
+      "url": "/status-updates/major-works-and-events/may-bank-holidays-2019",
+      "image": {}
+     },
+     {
+      "title": "Old Street roundabout",
+      "url": "/status-updates/major-works-and-events/old-street-roundabout",
+      "image": {}
+     },
+     {
+      "title": "Prudential RideLondon 2019",
+      "url": "/status-updates/major-works-and-events/ride-london-2019",
+      "image": {}
+     },
+     {
+      "title": "RideLondon",
+      "url": "/status-updates/major-works-and-events/ridelondon",
+      "image": {}
+     },
+     {
+      "title": "Road changes at Victoria Embankment",
+      "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
+      "image": {}
+     },
+     {
+      "title": "Tour of Britain 2018",
+      "url": "/status-updates/major-works-and-events/tour-of-britain-2018",
+      "image": {}
+     },
+     {
+      "title": "Travel advice for road users",
+      "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
+      "image": {}
+     },
+     {
+      "title": "Victoria Embankment",
+      "url": "/status-updates/major-works-and-events/victoria-embankment",
+      "image": {}
+     },
+     {
+      "title": "West End Project",
+      "url": "/status-updates/major-works-and-events/west-end-project",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Major works \u0026 events",
+     "url": "/status-updates/major-works-and-events/west-end-project",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

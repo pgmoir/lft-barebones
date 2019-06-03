@@ -1,0 +1,179 @@
+{
+ "pageTitle": "Scrappage scheme",
+ "keywords": "TfL",
+ "description": "The Mayor's scrappate scheme will help smaller business owners scrap older, more polluting vans and switch to cleaner vehicles",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "Scrappage scheme"
+  }
+ ],
+ "title": {
+  "title": "Scrappage scheme",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Mayor of London has launched a scrappage scheme to help tackle London's air quality crisis. It will support micro businesses, sole traders and charities to replace vehicles that don't meet the Ultra Low Emission Zone (ULEZ) standards.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If your vehicle doesn't meet the new, stricter ULEZ emissions standards you will need to pay a daily charge to drive within the zone. Under the Scrappage scheme, eligible micro businesses, sole traders and charities can apply for funds to scrap up to\u003cstrong\u003ethree \u003c/strong\u003e older, more polluting vans and charity minibuses and switch to cleaner vehicles.",
+     "Find out if your vehicle meets the \u003ca href=\"/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more\"\u003eULEZ standards for vans and minibuses\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Grant payment options\"}",
+     "If you meet the \u003ca href=\"#eligibility\"\u003eeligibility criteria for vehicles and organisations\u003c/a\u003e you can apply for one of three funds:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Option 1: Scrappage for frequent users of the Congestion Charge area (£3,500)\"}",
+     "The vehicle being scrapped must:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Have been driven within the Congestion Charge zone at least 52 times between 22 August 2018 and 22 February 2019 (six months before the start of the Scrappage scheme). This will be checked against existing transactions in your London Road User Charging account.\\u003cbr /\\u003e\\u003cbr /\\u003eFor journeys made outside of Congestion Charge operational hours, we will consider evidence of travel\",\"Be a pre-Euro 6 diesel light van (or charity-owned minibus) that does not meet the ULEZ standards\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Option 2: Scrappage and purchase/lease of Euro 6 replacement (£3,500)\"}",
+     "The vehicle being scrapped must be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A pre-Euro 6 diesel light van (or charity-owned minibus) that does not meet the ULEZ standards\",\"Replaced by purchase, lease or hire (for at least two years) with a Euro 6 diesel light van or Euro 6 diesel minibus (for charities only)\"]}",
+     "The micro business, sole trader or charity must be registered at a Greater London address.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Option 3: Scrappage and contribution towards running costs (including insurance) of an electric vehicle (£6,000)\"}",
+     "The grant payment is made up of £3,500 for scrapping ULEZ non- compliant vehicles plus a £2,500 contribution towards running costs (including insurance) of a replacement electric vehicle(s).",
+     "The vehicle being scrapped must be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A pre-Euro 6 diesel light van (or charity-owned minibus) that does not meet the ULEZ standards\",\"Replaced by purchase, lease or hire (for at least two years ) with an electric light van or electric minibus (for charities only)\"]}",
+     "For a micro business, sole trader or charity\u003cstrong\u003enot \u003c/strong\u003e registered in Greater London the vehicle must also:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Have been driven within the Congestion Charge zone at least 52 times between 22 August 2018 and 22 February 2019 (six months before the start of the Scrappage scheme). This will be checked against existing transactions in your London Road User Charging account.\\u003cbr /\\u003e\\u003cbr /\\u003eFor journeys made outside of Congestion Charge operational hours we will consider evidence of travel.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Refund of ULEZ charges\"}",
+     "Successful applicants will be automatically eligible for a refund of any ULEZ charges paid via an Auto Pay service. Charges considered will be for the scrapped vehicle and paid during the first three months after the application was submitted.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Organisation and vehicle eligibility\"}",
+     "For Option 2 and Option 3, organisations must be able to prove that they're registered at an address in a \u003ca href=\"https://www.gov.uk/find-local-council\"\u003eLondon borough or the City of London\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Micro businesses must have:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"10 or fewer employees\",\"Up to £632k turnover\\u003cstrong\\u003eOR \\u003c/strong\\u003e up to £316k balance sheet total in the preceding and current financial year AND\",\"Companies House registration as an active company in the UK\\u003cstrong\\u003eOR\\u003c/strong\\u003e be VAT registered in the UK\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sole traders must be:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"a self-employed person who owns and operates a business as an individual\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Charities must be an:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Entity registered with the Charity Commission as an active charity\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle(s) you intend to scrap must be:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A van owned by a registered micro business, or a minibus owned by a registered charity, for more than calendar 12 months before the start of the scrappage scheme on 22 February 2019\",\"Insured for business use\",\"Road taxed with a valid MOT\",\"Scrapped at an approved \\u003ca href=\\\"https://environment.data.gov.uk/public-register/view/search-elv\\\"\\u003eAuthorised Treatment Facility (ATF)\\u003c/a\\u003e \"]}",
+     "\u003cstrong\u003eThe vehicle that you want to scrap must also fail to meet the \u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Apply to the fund\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Before you start\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Read the Scrappage scheme terms and conditions and guidance notes\",\"Download the application form\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicle registration document (V5c)\",\"Vehicle insurance documents (insurance certificate and insurance premiums)\",\"MOT certificate\",\"A completed and signed scrappage scheme application form\",\"Evidence that you are a sole trader (if applicable)\"]}",
+     "You will need to upload these documents with your application form.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Scrappage Scheme application form guidance notes\",\"url\":\"/ruc-cdn/static/cms/documents/scrappage-scheme-application-form-guidance-notes.pdf\",\"icon\":\"download\",\"size\":\"PDF 110KB\",\"image\":{}},{\"title\":\"Scrappage scheme application form\",\"url\":\"/ruc-cdn/static/cms/documents/scrappage-scheme-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 99KB\",\"image\":{}},{\"title\":\"Scrappage scheme terms and conditions\",\"url\":\"/ruc-cdn/static/cms/documents/scrappage-scheme-terms-and-conditions.pdf\",\"icon\":\"download\",\"size\":\"PDF 139KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Start your application\"}",
+     "Each organisation can only make one application to scrap up to three vehicles. You can't add or remove vehicles to your application once you've submitted it.",
+     "To start your application you'll need to sign in to or create a London Road User Charging (LRUC) account. On your account landing page look for the 'Scrappage scheme' link.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Disclaimer\"}",
+     "We may review how this scheme is operating (such as the length of the scheme, eligibility checks, grant payment options and more) and make changes when necessary.",
+     "See how TfL uses your data on the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging\"target=\"_blank\"\u003eRoad User Charging privacy page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Third party promotions\"}",
+     "If you're scrapping your vehicle(s), consider replacing with a cargobike or vehicle sharing service. \u003ca href=\"/modes/driving/third-party-promotions\"\u003eThird party organisations\u003c/a\u003e have promotions to complement the scrappage scheme.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Car scrappage fund\"}",
+     "In February 2019 the \u003ca href=\"https://www.london.gov.uk/press-releases/mayoral/mayor-doubles-scrap-for-cash-dirty-vehicle-fund\"\u003eMayor of London announced additional funding\u003c/a\u003e to help low income Londoners upgrade to cleaner vehicles. Check back here for more information."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Third party promotions",
+      "url": "/modes/driving/third-party-promotions",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

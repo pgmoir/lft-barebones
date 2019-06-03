@@ -1,0 +1,82 @@
+{
+ "pageTitle": "iBoat to help passengers navigate the Thames",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "iBoat to help passengers navigate the Thames ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Realtime boat arrival information for River Bus services."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Available on screens at piers or via SMS.",
+     "Data made available to app developers.",
+     "Passengers travelling on the River Thames should never 'miss the boat' again, as Transport for London (TfL) introduces a new real time boat arrival information service to all piers served by River Bus services.",
+     "Using the same technology as the hugely successful iBus service, up-to-the-minute boat arrival information has been made available on screens at piers and via a text message service.",
+     "The data will be available on the TfL website later this year.",
+     "The delivery of realtime boat information along the River Thames was detailed in the Mayor's 'River Action Plan' which was published in February 2013.",
+     "It is the first of many measures that are to be delivered with an aim to double the number of passengers using the river by 2020.",
+     "As part of TfL's continued digital strategy, the data has also been made available to app developers, free of charge, which it is hoped will lead to new and innovative smart phone applications making the information even more readily available.",
+     "Andy Thompson, Head of London River Services, said: 'Whether you are catching a River Bus service for your morning commute or to attend a concert at The O2, the vastly improved real time boat arrival service helps you make the most of the Thames.",
+     "'We are delivering next boat arrival information to your finger tips enabling you to plan your journey to perfection.'",
+     "TfL is currently rolling out upgraded passenger information signs at 12 of the existing piers served by the River Bus service, with new signs planned at a further six piers.",
+     "These include St Georges Wharf Pier in Vauxhall and Hilton Docklands Pier, along with four piers on the River Bus route from Putney to Blackfriars which did not previously have any departure information.",
+     "These piers will be fitted with new signs in the next few weeks.",
+     "The improved signs provide clearer amber text on a black background and are of particular help to visually impaired passengers.",
+     "The new passenger information signs will also be able to display important service information so passengers are kept fully informed at all times.",
+     "Passengers will have real time next boat arrival information at their finger tips - wherever they are - with the new service.",
+     "By simply texting the pier code, clearly displayed at piers, to 87287 they will received detailed next boat arrival information for a small charge*.",
+     "As part of TfL's continued commitment to provide real time information to our passengers, it recently launched a new Twitter feed - @TfLriver - that provides updates on the services operated on behalf of London River Services.",
+     "\u003cstrong\u003eNotes to editors: \u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Real time boat arrival information will be added to the TfL website later this year\",\"The SMS service costs 12p plus the network operator's standard SMS charge\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

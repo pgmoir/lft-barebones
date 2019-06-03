@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Select vehicle",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Select vehicle"
+  }
+ ],
+ "title": {
+  "title": "Select vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "An annual £10 registration charge applies to each vehicle you add to this discount. The vehicle must have 9 seats or more to qualify, including the driver's seat.",
+     "You can select a vehicle that's already on your account or add a new one.",
+     "We don't hold any details for this vehicle. Make sure the number plate (Vehicle Registration Mark) is correct before continuing.",
+     "This vehicle is exempt from the Congestion Charge. This is based on the vehicle details entered and information held by the DVLA and TfL today. It may change without notice - always check to see if you need to pay to drive within the zone.",
+     "You've already added this vehicle to the application."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

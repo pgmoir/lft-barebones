@@ -1,0 +1,83 @@
+{
+ "pageTitle": "Real-time bus information now available anytime and anywhere",
+ "description": "Largest and most advanced system in the UK New and improved Countdown signsLondoners never need to run for a bus again from today, with the introduction of a new up-to-the-minute bus information service that can be accessed online, on a smart phone, and",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Real-time bus information now available anytime and anywhere",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Real-time bus service information for every London bus stop online and on your phone."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This technological step forward will revolutionise the way people use London's buses and will banish the need for them to ever wait at a bus stop again.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Largest and most advanced system in the UK\",\"New and improved Countdown signs\"]}",
+     "Londoners never need to run for a bus again from today, with the introduction of a new up-to-the-minute bus information service that can be accessed online, on a smart phone, and via text message and new improved Countdown signs at bus stops.",
+     "Whether you are at home wondering it you have time to finish that cup of coffee, or need to maximise time in the office or between meetings, you won't have to waste time or get cold waiting at a bus stop again.",
+     "Buses are one of the most convenient ways to travel in London with over 8,000 buses operating across 700 routes, many of them running 24 hours a day.",
+     "The new service provides live bus information for all 19,500 bus stops in the Capital.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The power\"}",
+     "Director of Digital London, Kulveer Ranger, said 'Over six million bus journeys are made every day in London and this fantastic application of bus data will now enable people, wherever they are, whatever they are doing, to have at their fingertips the power to know exactly when their bus will reach any one of the Capital's 19,500 bus stops they want to use, at any time of day or night.",
+     "'This technological step forward will revolutionise the way people use London's buses and will banish the need for them to ever wait at a bus stop again.'",
+     "Access via the Transport for London (TfL) website, from a fixed computer or web enabled smart phone involves three simple steps:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Go to the TfL Travel Tools webpage for live bus information\",\"Enter a postcode, street name or bus stop code (these are clearly displayed at all bus stops or available on the TfL website) into the travel tool\",\"View live bus arrival times, including bus destinations, for the next 30 minutes\"]}",
+     "Passengers can search for their bus stops on the TfL website by using a bus route number, a street name or postcode.",
+     "A map will display all the bus stops in the local area from which passengers can select the stop they need.",
+     "This information can be filtered by route number and bus stop numbers can be bookmarked for easy future reference.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New and improved\"}",
+     "Passengers without a Smartphone or access to the web can simply text the bus stop code to 87287 to get detailed bus information at a small charge.",
+     "New and improved Countdown signs will also replace all the existing 2,000 signs at bus stops, with an additional 500 new signs at selected key stops.",
+     "The new signs have improved visibility for visually impaired passengers and will display more travel information than the old signs.",
+     "Later this year all the data will be made freely available for developers to design specific smart phones applications around it, making it even easier for Londoners to find out exactly where their bus is.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The SMS service costs 12p plus the network operator's standard SMS charge\",\"All existing Countdown signs will be replaced as part of a rolling programme. Around an extra 500 will be fitted at key locations as part of this programme\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

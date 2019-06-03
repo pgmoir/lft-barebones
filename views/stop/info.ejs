@@ -1,0 +1,18 @@
+<% if (info) { %>
+<div class="alert alert-<%= info.alert %>">
+  <a href="#" data-toggle="collapse" data-target="#collapse-<%- info.key %>" aria-expanded="true" aria-controls="collapse-<%- info.key %>" id="collapse-<%- info.key %>-heading" class="d-flex align-items-center text-dark">
+    <div class="svgpre svgicon-warning-triangle flex-shrink-1 p-2 mr-2"></div>
+    <div class="w-100 pr-2"><%= info.title %></div>
+    <div class="svgpost svgicon-plus flex-shrink-1"></div>
+  </a>
+  <div id="collapse-<%- info.key %>" class="collapse mt-3 mb-0 text-dark" aria-labelledby="collapse-<%- info.key %>-heading">
+    <% if (info.messages.length == 1) { %>
+      <%- info.messages[0] %>
+    <% } else { %>
+      <% for (var i = 0; i < info.messages.length; i++) { %>
+        <p <% if (i == info.messages.length - 1) { %>class="mb-0"<% } %>><%- info.messages[i] %></p>
+      <% } %> 
+    <% } %>
+  </div>
+</div>
+<% } %>

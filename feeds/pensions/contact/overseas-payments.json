@@ -1,0 +1,135 @@
+{
+ "pageTitle": "Overseas payments",
+ "keywords": "TfL",
+ "description": "Overseas payments from the TfL Pension Fund.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Contact TfL Pension Fund",
+   "url": "/pensions/contact"
+  },
+  {
+   "title": "Overseas payments"
+  }
+ ],
+ "title": {
+  "title": "Overseas payments",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you live abroad your benefits can either be paid to a bank account in the UK or direct into an overseas bank account via Western Union.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "For overseas payments it is important that the information provided is complete and accurate and that all of the information requested on the payment mandate is provided in full, otherwise this may lead to delays in the payment reaching your account.",
+     "A payment mandate form is available to download below, we suggest that you ask your bank to verify that the account and payment routing details are correct.",
+     "Country names and currency codes are provided in the list below, which need to be filled in at the top of the mandate form. If your country is not listed below, please visit the \u003ca href=\"http://www.xe.com/\"\u003eXE website\u003c/a\u003e to find out your currency code.",
+     "If you are changing your bank account please do not close your existing account until your first pension payment has been credited to your new account.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"International payment mandate form\",\"url\":\"/cdn/static/cms/documents/international-payment-mandate.pdf\",\"icon\":\"download\",\"size\":\"PDF 187KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"table\",\"titles\":[\"Country\",\"Currency code\",\"Currency\"],\"rows\":[[],[\"Antigua \\u0026 Barbuda\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"Australia\\u003cbr /\\u003e\",\"AUD\\u003cbr /\\u003e\",\"Australian Dollar\\u003cbr /\\u003e\"],[\"Austria\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Bahamas\\u003cbr /\\u003e\",\"BSD\\u003cbr /\\u003e\",\"Bahamian Dollar\\u003cbr /\\u003e\"],[\"Bangladesh\\u003cbr /\\u003e\",\"BDT\\u003cbr /\\u003e\",\"Bangladeshi Taka\\u003cbr /\\u003e\"],[\"Barbados\\u003cbr /\\u003e\",\"BBD\\u003cbr /\\u003e\",\"Barbadian Dollar\\u003cbr /\\u003e\"],[\"Belgium\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Belize\\u003cbr /\\u003e\",\"BZD\\u003cbr /\\u003e\",\"Belize Dollar\\u003cbr /\\u003e\"],[\"Brazil\\u003cbr /\\u003e\",\"BRL\\u003cbr /\\u003e\",\"Brazilian Real\\u003cbr /\\u003e\"],[\"Bulgaria\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Canada\\u003cbr /\\u003e\",\"CAD\\u003cbr /\\u003e\",\"Canadian Dollar\\u003cbr /\\u003e\"],[\"Cayman Islands\\u003cbr /\\u003e\",\"KYD\\u003cbr /\\u003e\",\"Cayman Island Dollar\\u003cbr /\\u003e\"],[\"Columbia\\u003cbr /\\u003e\",\"COP\\u003cbr /\\u003e\",\"Columbian Peso\\u003cbr /\\u003e\"],[\"Croatia\\u003cbr /\\u003e\",\"HRK\\u003cbr /\\u003e\",\"Croatian Kina\\u003cbr /\\u003e\"],[\"Cyprus\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Denmark\\u003cbr /\\u003e\",\"DKK\\u003cbr /\\u003e\",\"Danish Krone\\u003cbr /\\u003e\"],[\"Dominica\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"Dominican Republic\\u003cbr /\\u003e\",\"DOP\\u003cbr /\\u003e\",\"Dominican Peso\\u003cbr /\\u003e\"],[\"Ecuador\\u003cbr /\\u003e\",\"USD\\u003cbr /\\u003e\",\"US Dollar\\u003cbr /\\u003e\"],[\"Finland\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"France\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Gambia\\u003cbr /\\u003e\",\"GMD\\u003cbr /\\u003e\",\"Gambian Dalasi\\u003cbr /\\u003e\"],[\"Germany\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Ghana\\u003cbr /\\u003e\",\"GHS\\u003cbr /\\u003e\",\"Ghana Cedi\\u003cbr /\\u003e\"],[\"Greece\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Grenada\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"Guinea-Bissau\\u003cbr /\\u003e\",\"XOF\\u003cbr /\\u003e\",\"West African CFA Franc\\u003cbr /\\u003e\"],[\"Guyana\\u003cbr /\\u003e\",\"GYD\\u003cbr /\\u003e\",\"Guyanese Dollar\\u003cbr /\\u003e\"],[\"Hong Kong\\u003cbr /\\u003e\",\"HKD\\u003cbr /\\u003e\",\"Hong Kong Dollar\\u003cbr /\\u003e\"],[\"Hungary\\u003cbr /\\u003e\",\"HUF\\u003cbr /\\u003e\",\"Hungarian Forint\\u003cbr /\\u003e\"],[\"India\\u003cbr /\\u003e\",\"INR\\u003cbr /\\u003e\",\"India Rupee\\u003cbr /\\u003e\"],[\"Indonesia\\u003cbr /\\u003e\",\"IDR\\u003cbr /\\u003e\",\"Indonesian Rupiah\\u003cbr /\\u003e\"],[\"Ireland\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Israel\\u003cbr /\\u003e\",\"ILS\\u003cbr /\\u003e\",\"Israeli New Shekel\\u003cbr /\\u003e\"],[\"Italy\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Jamaica\\u003cbr /\\u003e\",\"MD\\u003cbr /\\u003e\",\"Jamaican Dollar\\u003cbr /\\u003e\"],[\"Kenya\\u003cbr /\\u003e\",\"KES\\u003cbr /\\u003e\",\"Kenyan Shilling\\u003cbr /\\u003e\"],[\"Luxembourg\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Malaysia\\u003cbr /\\u003e\",\"MUR\\u003cbr /\\u003e\",\"Malaysian Ringgit\\u003cbr /\\u003e\"],[\"Malta\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Mauritius\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"Mauritian Rupee\\u003cbr /\\u003e\"],[\"Monaco\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Montserrat\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"Morocco\\u003cbr /\\u003e\",\"MAD\\u003cbr /\\u003e\",\"Moroccan Dirham\\u003cbr /\\u003e\"],[\"Nepal\\u003cbr /\\u003e\",\"NPR\\u003cbr /\\u003e\",\"Nepalese Rupee\\u003cbr /\\u003e\"],[\"Netherlands\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"New Zealand\\u003cbr /\\u003e\",\"NZD\\u003cbr /\\u003e\",\"New Zealand Dollar\\u003cbr /\\u003e\"],[\"Nigeria\\u003cbr /\\u003e\",\"NGN\\u003cbr /\\u003e\",\"Nigerian Nairi\\u003cbr /\\u003e\"],[\"Norway\\u003cbr /\\u003e\",\"NOK\\u003cbr /\\u003e\",\"Norwegian Krone\\u003cbr /\\u003e\"],[\"Oman\\u003cbr /\\u003e\",\"OMR\\u003cbr /\\u003e\",\"Omani Rial\\u003cbr /\\u003e\"],[\"Pakistan\\u003cbr /\\u003e\",\"PKR\\u003cbr /\\u003e\",\"Pakistani Rupee\\u003cbr /\\u003e\"],[\"Peru\\u003cbr /\\u003e\",\"PEN\\u003cbr /\\u003e\",\"Peruvian Nuevo Sol\\u003cbr /\\u003e\"],[\"Philippines\\u003cbr /\\u003e\",\"PHP\\u003cbr /\\u003e\",\"Philippine Peso\\u003cbr /\\u003e\"],[\"Poland\\u003cbr /\\u003e\",\"PLN\\u003cbr /\\u003e\",\"Polish Zloty\\u003cbr /\\u003e\"],[\"Portugal\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Saudi Arabia\\u003cbr /\\u003e\",\"SAR\\u003cbr /\\u003e\",\"Saudi Riyal\\u003cbr /\\u003e\"],[\"Seychelles\\u003cbr /\\u003e\",\"SCR\\u003cbr /\\u003e\",\"Seychellois Ruoee\\u003cbr /\\u003e\"],[\"Singapore\\u003cbr /\\u003e\",\"SGD\\u003cbr /\\u003e\",\"Singapore Dollar\\u003cbr /\\u003e\"],[\"South Africa\\u003cbr /\\u003e\",\"XAR\\u003cbr /\\u003e\",\"South African Rand\\u003cbr /\\u003e\"],[\"Spain\\u003cbr /\\u003e\",\"EUR\\u003cbr /\\u003e\",\"Euro\\u003cbr /\\u003e\"],[\"Sri Lanka\\u003cbr /\\u003e\",\"LKR\\u003cbr /\\u003e\",\"Sri Lankan Rupee\\u003cbr /\\u003e\"],[\"St Kitts \\u0026 Nevis\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"St Lucia\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"St Vincent \\u0026 the Grenadines\\u003cbr /\\u003e\",\"XCD\\u003cbr /\\u003e\",\"East Caribbean Dollar\\u003cbr /\\u003e\"],[\"Sweden\\u003cbr /\\u003e\",\"SEK\\u003cbr /\\u003e\",\"Swedish Krona\\u003cbr /\\u003e\"],[\"Switzerland\\u003cbr /\\u003e\",\"CHF\\u003cbr /\\u003e\",\"Swiss Franc\\u003cbr /\\u003e\"],[\"Tanzania\\u003cbr /\\u003e\",\"TZS\\u003cbr /\\u003e\",\"Tanzanian Shilling\\u003cbr /\\u003e\"],[\"Thailand\\u003cbr /\\u003e\",\"THR\\u003cbr /\\u003e\",\"Thailand Baht\\u003cbr /\\u003e\"],[\"Trinidad \\u0026 Tobago\\u003cbr /\\u003e\",\"TTD\\u003cbr /\\u003e\",\"Trindad \\u0026 Tobago Dollar\\u003cbr /\\u003e\"],[\"Tunisia\\u003cbr /\\u003e\",\"TND\\u003cbr /\\u003e\",\"Tunisian Dollar\\u003cbr /\\u003e\"],[\"Turkey\\u003cbr /\\u003e\",\"TRY\\u003cbr /\\u003e\",\"Turkish Lira\\u003cbr /\\u003e\"],[\"United Arab Emirates\\u003cbr /\\u003e\",\"AED\\u003cbr /\\u003e\",\"United Arab Emirates Dirham\\u003cbr /\\u003e\"],[\"USA\\u003cbr /\\u003e\",\"USD\\u003cbr /\\u003e\",\"United States Dollar\\u003cbr /\\u003e\"],[\"Vietnam\\u003cbr /\\u003e\",\"VND\\u003cbr /\\u003e\",\"Vietnamese Dong\\u003cbr /\\u003e\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     },
+     {
+      "title": "Complaints",
+      "url": "/pensions/contact/complaints",
+      "image": {}
+     },
+     {
+      "title": "Forms",
+      "url": "/pensions/contact/forms",
+      "image": {}
+     },
+     {
+      "title": "Service promise",
+      "url": "/pensions/contact/service-promise",
+      "image": {}
+     },
+     {
+      "title": "Overseas payments",
+      "url": "/pensions/contact/overseas-payments",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact/overseas-payments",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

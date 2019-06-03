@@ -1,0 +1,179 @@
+{
+ "pageTitle": "Vans, minibuses and more",
+ "keywords": "TfL",
+ "description": "Find the ULEZ emissions standards, charges and penalties for small and large vans, minibuses and some specialist vehicles like ambulances up to and including 3.5 tonnes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "Vans, minibuses and more"
+  }
+ ],
+ "title": {
+  "title": "Vans, minibuses and more",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find the emission standards that vans (small and large), minibuses and some other specialist vehicles need to meet when travelling within the Ultra Low Emission Zone (ULEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Vehicles included are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Small vans (weighing up to and including 1.205 tonnes unladen weight)\",\"Larger vans, 4X4 light utility vehicles, motorised horseboxes, pickups (over 1.205 tonnes unladen weight up to and including 3.5 tonnes gross vehicle weight)\",\"Ambulances and motorcaravans (2.5 tonnes to 3.5 tonnes)\",\"Minibuses (more than 8 passenger seats, not over 5 tonnes)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Minimum emission standards\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Petrol: Euro 4\",\"Diesel: Euro 6\"]}",
+     "The ULEZ is enforced based on the declared emissions of the vehicle rather than the age, however:",
+     "{\"template\":\"bulletlist\",\"items\":[\"All new diesel vans sold from September 2016 should meet the Euro 6 standard\",\"All petrol vans registered with the DVLA from January 2006 meet the Euro 4 standard\"]}",
+     "Check your vehicle registration document to see your vehicle's Euro emission standard or NOx emissions. If these are not listed then use our ULEZ vehicle checker.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charges (if ULEZ standards not met)\"}",
+     "\u003cstrong\u003eWe prefer that you use vehicles that meet the new emissions standards rather than pay a daily charge.\u003c/strong\u003e ",
+     "A daily charge runs from midnight to midnight. if you drive a vehicle that does not meet the standards within the ULEZ area across two days, for example before midnight and after midnight, you will be liable to pay two daily charges.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Daily ULEZ charge: £12.50\",\"Penalty charge: £160 (reduced to £80 if paid within 14 days)\"]}",
+     "These are in addition to any Congestion Charge or Low Emission Zone (LEZ) charge that applies. (Small vans up to and including 1.205 tonnes unladen weight are not subject to the LEZ.)",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How to pay\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/auto-pay\\\"\\u003eSet up Auto Pay\\u003c/a\\u003e (£10 annual charge per vehicle). Already have Auto Pay? Then you don't need to do anything\",\" \\u003ca href=\\\"/modes/driving/pay-to-drive-in-london\\\"\\u003ePay online\\u003c/a\\u003e \",\"Download the official TfL Pay to drive in London app for free from both the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApple App Store\\u003c/a\\u003e and \\u003ca href=\\\"http://play.google.com/store\\\"\\u003eGoogle Play Store\\u003c/a\\u003e \",\"Pay by phone\\u003cbr /\\u003eUK: 0343 222 2222 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\\u003cbr /\\u003eInternational:+44 20 7649 9122\\u003cbr /\\u003eTextphone: 020 7649 9123 (if you have impaired hearing)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your options\"}",
+     "If your vehicle does not meet the required ULEZ standards you can:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Join a car club\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"All car club vehicles are expected to meet the ULEZ standards by April 2019 at the latest. \\u003ca href=\\\"/modes/driving/car-clubs\\\"\\u003eFind out more about car clubs\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Go electric\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Electric vans emit no NOx or CO2 from the tailpipe. More information about electric vehicles, including a list of those eligible for a grant, in on \\u003ca href=\\\"https://www.gov.uk/plug-in-car-van-grants\\\"\\u003eGov.uk's page on plug-in grants\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pay the daily charge\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You'll be able to pay any ULEZ, LEZ and/or Congestion Charges that apply online, all at the same time\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Upgrade to a vehicle that meets ULEZ standards\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"All van manufacturers now only sell vehicles that meet the emissions standards - some Euro 6 vans have also been available since 2013. Many more second-hand Euro 6 vans are coming on to the market as rental companies renew their two- to three-year-old fleets\",\"If you're thinking of buying a new or second-hand vehicle, first look up its emissions in real-world driving conditions with the Mayor's \\u003ca href=\\\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/cleaning-londons-vehicles/cleaner-vehicle-checker\\\"\\u003eCleaner Vehicle Checker\\u003c/a\\u003e \",\"Leasing a vehicle may be a more affordable way to get a vehicle that meets the emissions standards. Information on leasing is on the \\u003ca href=\\\"https://www.bvrla.co.uk/\\\"\\u003eBVRLA website\\u003c/a\\u003e \"]}",
+     "We're also working with the top UK van manufacturers and leasing companies to encourage them to offer affordable deals on vehicles that meet the emissions standards.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Van scrappage scheme for small businesses\"}",
+     " \u003ca href=\"https://www.london.gov.uk/press-releases/mayoral/mayor-announces-scrappage-scheme-for-vans-0\"\u003eA scheme announced by the Mayor of London\u003c/a\u003e will help smaller business owners scrap vans that do not comply with the new ULEZ standards, but will be driven regularly into the ULEZ zone.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fit emissions reduction technology\"}",
+     "The ULEZ scheme allows for some vehicles to retrofit emissions reduction technology to meet the ULEZ standards.",
+     "Retrofit technologies will need to be certified by the government's \u003ca href=\"http://www.energysavingtrust.org.uk/business/transport/clean-vehicle-retrofit-accreditation-scheme-cvras\"\u003eClean Vehicle Retrofit Accreditation Scheme (CVRAS)\u003c/a\u003e . The CVRAS currently only has emissions reduction technologies certified for buses and coaches, although equipment suppliers can test and certify equipment.",
+     "More details on the retrofit accreditation process and suppliers are available on the \u003ca href=\"http://www.energysavingtrust.org.uk/transport-travel/transport/clean-vehicle-retrofit-accreditation-scheme-cvras\"\u003eEnergy Savings Trust website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Convert to Liquid Petroleum Gas (LPG)\"}",
+     "If your vehicle has been converted to run on LPG you may meet the emissions standards. However, the emissions standard of the engine will be considered to be the same as it was before it was converted.",
+     "If you have replaced the engine with a spark ignition (petrol) engine as part of an LPG conversion, the emissions standard of the new engine will apply. You must tell the DVLA of this type of engine swap and send us proof that the new engine meets the standards.",
+     "We recommend using a \u003ca href=\"https://www.uklpg.org/installers\"\u003eUK LPG-approved installer\u003c/a\u003e . Our LoCITY programme has an up to date \u003ca href=\"https://locity.org.uk/alternative-fuel-infrastructure-map/\"\u003emap showing LPG refuelling infrastructure\u003c/a\u003e in and around London.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Retrofit: convert to Liquid Petroleum Gas (LPG)\"}",
+     "Converted vehicles will be treated based on the DVLA's records of its emissions standards. This means diesel vehicles should be converted to use LPG in a spark ignition engine, and the DVLA notified of the change.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"See if you qualify for a discount or exemption\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Check on the \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/discounts-and-exemptions\\\"\\u003eDiscounts and exemptions page\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Questions about ULEZ?\"}",
+     "If you need more advice about the ULEZ, you can \u003ca href=\"/modes/driving/ulez-make-an-enquiry-wizard\"\u003emake an enquiry\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ boundary expansion\"}",
+     "From October 2021 the ULEZ will \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-where-and-when\"\u003eexpand to the North and South Circular Roads\u003c/a\u003e . All vans, minibuses etc within the expanded zone will need to meet the ULEZ emissions standards or pay a daily charge."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

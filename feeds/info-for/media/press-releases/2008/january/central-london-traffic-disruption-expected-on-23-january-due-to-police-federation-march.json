@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Central London traffic disruption expected on 23 January due to Police Federation march",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Central London traffic disruption expected on 23 January due to Police Federation march",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is warning of traffic disruption in central London on 23 January due to a planned march by the Police Federation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "TfL aims to reopen affected roads as quickly as possible following the march",
+     "The march will run from Park Lane to Millbank with roads closed between 10.30am and 3pm.",
+     "Diversions will be in place throughout the day to redirect traffic away from the affected roads.",
+     "London Buses on the affected route will also be placed on local diversions.\u003cbr /\u003e\u003cbr /\u003eThe route of the march will be on sections of the north - south Congestion Charge free-through route which links Edgware Road to Vauxhall Bridge.",
+     "The free-through route will be partially closed to traffic during the day.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Alternative route\"}",
+     "\u003cbr /\u003e\u003cbr /\u003eDue to the movement of the march through the day, TfL is unable to install fixed diversions.",
+     "Therefore, drivers who would usually take the free-through route through the Congestion Charge zone should seek an alternative route around the zone to avoid having to pay the daily charge.",
+     "Drivers who enter the zone because of the diversions and are issued with a penalty charge notice should appeal the charge by following the instructions on the notice.\u003cbr /\u003e\u003cbr /\u003eTfL aims to reopen affected roads as quickly as possible following the march, to reduce the disruption.",
+     "For more information about how the road closure may affect your travel, call the TfL travel line on 020 7222 1234 or go \u003ca href=\"http://www.tfl.gov.uk/check\"\u003eonline\u003c/a\u003e ",
+     "Notes to editors",
+     "{\"template\":\"bulletlist\",\"items\":[\"Roads affected by the march are Park Lane (southbound), East side of Hyde Park Corner, Grosvenor Place (southbound), Lower Grosvenor Place, Bressenden Place, Victoria Street, Artillery Row, Horseferry Road, Lambeth Bridge, Millbank\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

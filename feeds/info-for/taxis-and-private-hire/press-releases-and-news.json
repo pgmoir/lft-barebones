@@ -1,0 +1,132 @@
+{
+ "pageTitle": "Taxi \u0026 private hire news",
+ "keywords": "TfL",
+ "description": "Taxi and private hire related press releases from Transport for London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "News and updates",
+   "url": "/info-for/taxis-and-private-hire/driver-news-and-updates"
+  },
+  {
+   "title": "Taxi \u0026 private hire news"
+  }
+ ],
+ "title": {
+  "title": "Taxi \u0026 private hire news",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Uber licensing court case\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Westminster Magistrates' Court judgment\",\"url\":\"/cdn/static/cms/documents/uber-licensing-appeal-final-judgment.pdf\",\"icon\":\"download\",\"size\":\"PDF 80KB\",\"image\":{}},{\"title\":\"Uber licensing conditions\",\"url\":\"/cdn/static/cms/documents/uber-licensing-appeal-license-conditions-june-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 50KB\",\"image\":{}},{\"title\":\"Helen Chapman witness statement June 2018\",\"url\":\"/cdn/static/cms/documents/helen-chapman-third-witness-statement-june.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.93MB\",\"image\":{}},{\"title\":\"Helen Chapman witness statement March 2018\",\"url\":\"/cdn/static/cms/documents/helen-chapman-first-witness-statement-march.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.94MB\",\"image\":{}},{\"title\":\"Transport for London skeleton argument\",\"url\":\"/cdn/static/cms/documents/tfl-skeleton-argument.pdf\",\"icon\":\"download\",\"size\":\"PDF 74KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2018 press releases\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2017 press releases\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2016 press releases\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2015 press releases\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Additional news\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire news",
+      "url": "/info-for/taxis-and-private-hire/press-releases-and-news",
+      "image": {}
+     },
+     {
+      "title": "Meetings",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement-meetings",
+      "image": {}
+     },
+     {
+      "title": "Notices \u0026 consultations",
+      "url": "/info-for/taxis-and-private-hire/notices-and-consultations",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

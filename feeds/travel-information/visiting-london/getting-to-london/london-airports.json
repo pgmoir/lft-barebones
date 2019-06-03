@@ -1,0 +1,186 @@
+{
+ "pageTitle": "London airports",
+ "keywords": "TfL",
+ "description": "Getting to and from London airports.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Visiting London",
+   "url": "/travel-information/visiting-london/index"
+  },
+  {
+   "title": "Getting to London",
+   "url": "/travel-information/visiting-london/getting-to-london"
+  },
+  {
+   "title": "London airports"
+  }
+ ],
+ "title": {
+  "title": "London airports ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"London is served by five main airports. Whether it's Heathrow or London City, find out how to get there.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Heathrow is about 20 miles (32km) west of central London. These are the quickest and easiest ways to get there:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Underground\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eTube line\\u003c/strong\\u003e \",\"Piccadilly\"],[\"\\u003cstrong\\u003eHeathrow terminal  \\u003c/strong\\u003e \",\"2, 3, 4, 5\"],[\"\\u003cstrong\\u003eServices\\u003c/strong\\u003e \",\"To and from central London\"],[\"\\u003cstrong\\u003eService times\\u003c/strong\\u003e \",\"05:00 and 23:40, Sunday to Thursday\\u003cbr /\\u003e24 hours Friday and Saturday ( \\u003ca href=\\\"/campaign/tube-improvements/what-we-are-doing/night-tube\\\"\\u003eNight Tube\\u003c/a\\u003e serving Terminals 2, 3 and 5 only)\"],[\"\\u003cstrong\\u003eExceptions\\u003c/strong\\u003e \",\"Heathrow terminal 4 closes at 23:35, Monday to Saturday and 23:15 on Sunday\"],[\"\\u003cstrong\\u003eJourney time\\u003c/strong\\u003e \",\"Approximately 50 minutes\"],[\"\\u003cstrong\\u003eFares\\u003c/strong\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/single-fare-finder\\\"\\u003eCheck latest fares\\u003c/a\\u003e \"]]}",
+     "\u003cstrong\u003eTip: \u003c/strong\u003e Use \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e , \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster\u003c/a\u003e or a \u003ca href=\"/travel-information/visiting-london/visitor-oyster-card\"\u003eVisitor Oyster card\u003c/a\u003e to travel to and from Heathrow airport on the Underground.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Heathrow by rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"TfL Rail\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eHeathrow terminal \\u003c/strong\\u003e \",\"2 and 3 (with a free shuttle service which connects terminals 4 and 5 with 2 and 3)\"],[\"\\u003cstrong\\u003eServices\\u003c/strong\\u003e \",\"To and from Paddington, calling at:\\u003cbr /\\u003e• Hayes \\u0026 Harlington\\u003cbr /\\u003e• Southall\\u003cbr /\\u003e• Hanwell (except Sundays)\\u003cbr /\\u003e• West Ealing (except Sundays)\\u003cbr /\\u003e• Ealing Broadway\\u003cbr /\\u003eChange at Hayes \\u0026 Harlington for Acton Main Line.\"],[\"\\u003cstrong\\u003eService times\\u003c/strong\\u003e \",\"Every 30 minutes from 05:22 until 00:07, Monday to Saturday\\u003cbr /\\u003eEvery 60 minutes from 06:01 until 00:01 Sundays\"],[\"\\u003cstrong\\u003eExceptions\\u003c/strong\\u003e \",\"Heathrow terminal 4 closes at 23:35, Monday to Saturday and 23:15 on Sunday\"],[\"\\u003cstrong\\u003eJourney time\\u003c/strong\\u003e \",\"Approximately 25 minutes\"],[\"\\u003cstrong\\u003eFares\\u003c/strong\\u003e \",\"The single adult pay as you go fare between Paddington and Heathrow is £10.20 during peak hours (06:30 - 09:30, and 16:00 - 19:00, Monday to Friday). At all other times the single adult pay as you go fare is £10.10.\\u003cbr /\\u003eAt all other times the single adult fare is £10.10.\"]]}",
+     "Use \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e , \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster\u003c/a\u003e or a \u003ca href=\"/travel-information/visiting-london/visitor-oyster-card\"\u003eVisitor Oyster\u003c/a\u003e card to travel to and from Heathrow airport on TfL Rail and benefit from \u003ca href=\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps\"\u003edaily capping\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Heathrow Express\"}",
+     "Heathrow Express operates four non-stop trains per hour to and from Paddington. Trains depart from Paddington between 05:10 and 23:25 and return from Terminal 4 between 05:23 and 00:01 and Terminal 5 between 05:07 and 23:42. Journey time 15-20 minutes.",
+     "The journey time between the stations at Heathrow (Terminals  2, 3) and (Terminals 4 and 5) is 15-20 minutes. Passengers for Terminal 4 must change at Terminals 2, 3 for the free and frequent transfer service to Terminal 4.",
+     "You can \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go\"\u003epay as you go\u003c/a\u003e using contactless (card or device) or an Oyster card to travel to Heathrow Airport. \u003ca href=\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/single-fare-finder\"\u003eFind fares\u003c/a\u003e .",
+     "Get more information and fares on the \u003ca href=\"https://www.heathrowexpress.com/\"\u003eHeathrow Express website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coach\"}",
+     "National Express operates a regular service to and from Victoria Coach Station. The journey time is 35-60 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi\"}",
+     "Taxis are available at Heathrow Airport 24 hours a day, 365 days a year. There are taxi ranks at all five terminals, as well as taxi information desks inside.",
+     "Heathrow to central London by taxi is approximately 30-45 minutes. If there are four or five of you travelling, sharing the cost of the taxi could be cheaper than the bus or train.",
+     "Do not travel with anyone offering a 'taxi' service inside the terminal. It is likely to be an illegal, unlicensed driver.",
+     "Gatwick is 30 miles (48km) to the south of central London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Gatwick by rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Gatwick Express\"}",
+     "Gatwick Express operates four trains per hour to and from London Victoria. Journey time 30 minutes. There is no service between 00:30 and 03:30 from London and between 01:35 and 04:35 from Gatwick. Other rail operators run services through the night.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Southern\"}",
+     "Southern  operates three trains per hour to and from London Victoria. Average journey time is 40 minutes. An hourly service operates through the night.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Thameslink\"}",
+     "Thameslink operates up to four trains per hour to and from London Bridge, City Thameslink, Farringdon and St. Pancras International.",
+     "From January 2016 you can use contactless. Oyster or a Visitor Oyster card to travel to/from Gatwick Airport on Gatwick Express, Southern and Thameslink train services:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The pay as you go fare for a single journey on Gatwick Express is £19.80\",\"The pay as you go fare for a single journey on Southern and Thameslink services is £14 (peak) or £8 (off-peak)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coach\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"National Express\"}",
+     "National Express operates a regular service, operating 24 hours a day, to and from Victoria Coach Station, via Streatham. Journey time 65-95 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Easybus\"}",
+     "Easybus route EB4 operates a regular service to and from Earls Court/West Brompton. Journey time from 65 minutes.",
+     "Stansted Airport is 35 miles (56km) to the north east of central London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Stansted by rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stansted Express\"}",
+     "Stansted Express operates up to four trains per hour to and from Liverpool Street station. Journey time from 45 minutes. Trains from Liverpool Street station commence at 04:10 with the last train leaving at 23:25. Trains from Stansted Airport commence at 06:00 (later at weekends). Connections from the Tube are also available at Tottenham Hale which is 11 minutes from Liverpool Street on the Stansted Express.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Travelling through Tottenham Hale station\"}",
+     "From Friday 5 January 2018 until summer 2018 it will not be possible to buy the full range of tickets or get Oyster refunds at Tottenham Hale station. This is while we make improvements to the station.",
+     "We advise you to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buy your ticket at Stansted Airport or Liverpool Street Underground station\",\"Buy a \\u003ca href=\\\"/travel-information/visiting-london/visitor-oyster-card\\\"\\u003eVisitor Oyster card\\u003c/a\\u003e online before you travel, or at the Stansted Express ticket office or the Stansted Airport Information Centre\",\"Use a \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003econtactless card\\u003c/a\\u003e to pay as you go while in London\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Abellio Greater Anglia\"}",
+     "Abellio Greater Anglia operates services to Liverpool Street and Stratford stations. Journey time from 80 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coach\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"National Express\"}",
+     "National Express operates two separate coach services between Stansted and central London:",
+     "A6 operates up to every 15 minutes, 24 hours a day to and from Victoria Coach Station via Marble Arch, Baker Street (Gloucester Place), Finchley Road and Golders Green. Journey time from 90 minutes.\u003cbr /\u003eA9 operates every 30 minutes to and from Liverpool Street station and Stratford, 24 hours per day. Journey time 50-80 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Terravision\"}",
+     "Terravision operates three separate coach services between Stansted and central London:",
+     "A50 operates every 30 minutes to and from Victoria Green Line Coach Station\u003cbr /\u003eA51 operates every 30 minutes to and from Liverpool Street station\u003cbr /\u003eA52 operates every 30 minutes to and from Stratford station\u003cbr /\u003eJourney time 50-75 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Easybus\"}",
+     "Easybus route EB2 operates a regular service from Baker Street (Gloucester Place). Journey time from 70 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h3\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\"}",
+     "Thameslink operate up to six trains per hour to and from St Pancras International, London Bridge, Farringdon, London City Thameslink and Blackfriars stations. Journey time from 35 minutes. An hourly service operates through the night to and from St Pancras International and Blackfriars. However, please note there are no trains between approximately 01:00 and 03:00.",
+     "{\"template\":\"htag\",\"level\":\"h4\"}",
+     "East Midlands Trains (formerly Midland Mainline) operate a frequent service from St. Pancras to and from Luton Airport Parkway station. Journey time from 21 minutes between 06:00 (09:00 Sundays) and 23:15.",
+     "{\"template\":\"htag\",\"level\":\"h3\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\"}",
+     "Green Line route 757 operates a regular service, operating 24 hours a day, to and from Luton via Finchley Road, Baker Street (Gloucester Place), Marble Arch and Victoria, for a connection to Luton Airport. Please note that this is not a direct service. Journey time from 90 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h4\"}",
+     "Easybus route EB7 operates a regular service to and from Baker Street (Gloucester Place) direct to Luton Airport. Journey time from 60 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h4\"}",
+     "National Express route A1 operates a regular service 24 hours a day between Golders Green, Finchley Road, Baker Street (Gloucester Place), Marble Arch, Victoria and Luton Airport. Journey time from 70 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using Oyster on the DLR from London City Airport\"}",
+     "The airport has a dedicated station on the Docklands Light Railway (DLR). Journey times are 18 minutes to Canary Wharf and 22 minutes to Bank. Trains run every 10 minutes departing Canary Wharf and Bank between 05:30 (07:00 on Sundays) and 00:38 and departing City Airport between 05:28 (07:00 on Sundays) and 00:20.",
+     " \u003ca href=\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/single-fare-finder\"\u003eCheck the latest fares\u003c/a\u003e .",
+     "\u003cstrong\u003eTip: \u003c/strong\u003e Use \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e , \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster\u003c/a\u003e or a \u003ca href=\"/travel-information/visiting-london/visitor-oyster-card\"\u003eVisitor Oyster card\u003c/a\u003e to travel to and from London City Airport on the DLR.",
+     "London Southend Airport  is located approximately 42 miles (68 km) to the east of the centre of London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Southend by rail\"}",
+     "Abellio Greater Anglia operates services to Liverpool Street station and to Stratford station. Journey time around 53 minutes to Liverpool Street and around 44 minutes to Stratford."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Visiting London",
+    "links": [
+     {
+      "title": "Visitor Oyster card",
+      "url": "/travel-information/visiting-london/visitor-oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Experience London",
+      "url": "/travel-information/visiting-london/experience-london",
+      "image": {}
+     },
+     {
+      "title": "Getting to London",
+      "url": "/travel-information/visiting-london/getting-to-london",
+      "image": {}
+     },
+     {
+      "title": "Rail connections",
+      "url": "/travel-information/visiting-london/getting-to-london/rail-connections",
+      "image": {}
+     },
+     {
+      "title": "London airports",
+      "url": "/travel-information/visiting-london/getting-to-london/london-airports",
+      "image": {}
+     },
+     {
+      "title": "Getting around London",
+      "url": "/travel-information/visiting-london/getting-around-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Visiting London",
+     "url": "/travel-information/visiting-london/getting-around-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

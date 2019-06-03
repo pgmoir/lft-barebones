@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Bus shuttle to replace Tube from Hatton Cross to Heathrow on 5 November",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Bus shuttle to replace Tube from Hatton Cross to Heathrow on 5 November",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Piccadilly line will be suspended between Hatton Cross and Heathrow Terminals 1,2,3 and Heathrow Terminal 4 on Sunday 5 November. A replacement bus service will be in operation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The change from Tube to bus is to allow for construction work of the Piccadilly line extension to the new BAA Heathrow Terminal 5.",
+     "Passengers should allow an extra 15 minutes for their journey time.",
+     "The replacement bus services will be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus Service A: Hatton Cross - Heathrow Terminals 1,2 \\u0026 3 (non-stop)\",\"Bus Service B: Hatton Cross - Heathrow Terminal 4 (non-stop)\"]}",
+     "Passengers travelling from Hatton Cross will also be able to travel free on local buses. Porters will be provided at Hatton Cross and Heathrow Terminal 2 to help passengers load and unload their luggage on the bus and coach services.\u003cbr /\u003e\u003cbr /\u003eMike Challis, Piccadilly line General Manager, said:\"On Sunday 5 November all Piccadilly line trains will terminate at Hatton Cross to allow essential construction work to be carried out for the extension of the Piccadilly line to Terminal 5.",
+     "\"Passengers travelling to and from Heathrow Terminals 1, 2 \u0026 3 and Heathrow Terminal 4 will have to take a non-stop replacement bus service connecting Heathrow with Hatton Cross. Leaflets detailing the changes are now available at stations.\"",
+     "Any passengers travelling to and from Terminal 4 who may have difficulty using the stairs at Hatton Cross should travel to Heathrow Terminals 1, 2 \u0026 3 and use the Heathrow Express Service to reach Terminal 4, which is free between Heathrow terminals.",
+     "Passengers using this route should allow an extra 30 minutes to complete their journey.\u003cbr /\u003e\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"For 24-hour information on Tube services, call 020 7222 1234 or visit \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003ewww.tfl.gov.uk\\u003c/a\\u003e \",\"The project to extend the Piccadilly line to Heathrow Terminal 5 is funded by Heathrow Airport Ltd (a subsidiary of BAA). Work is progressing well and is on target for completion in March 2008\",\"Around 22,000 people use the Tube to get to and from Heathrow Terminals 1, 2 \\u0026 3 each day with a further 2,500 people travelling by Tube to Terminal 4\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

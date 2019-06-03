@@ -1,0 +1,97 @@
+{
+ "keywords": "Businesses,Media,Public,Suppliers,C,Contract,Corporate information,Regular reports,Transparency data ,TfL",
+ "description": "A list of contracts for services to TfL ranging from data storage to specialist cleaning of escalators",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Contracts greater than £5,000"
+  }
+ ],
+ "title": {
+  "title": "Contracts greater than £5,000",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"In line with the February 2015 Local Government Transparency Code we publish details of tenders and contracts with a value over £5,000.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Copies of contracts are published on the \u003ca href=\"https://www.gov.uk/contracts-finder\"\u003eContracts finder website\u003c/a\u003e or on our \u003ca href=\"/corporate/publications-and-reports/contracts\"\u003eContracts page\u003c/a\u003e .",
+     "You can also view \u003ca href=\"/corporate/publications-and-reports/contracts-released-under-foi\"\u003econtracts released in response to Freedom of Information requests\u003c/a\u003e . Contracts provided in response to FOI requests made since 1 January 2017 are published in our \u003ca href=\"/corporate/transparency/freedom-of-information\"\u003eFreedom of Information pages\u003c/a\u003e .",
+     "Older contracts will be published on request and any contract announced in a press release will also be published.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL contracts greater than £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-contracts-greater-than-5k.pdf\",\"icon\":\"download\",\"size\":\"PDF 650KB\",\"image\":{}},{\"title\":\"TfL contracts greater than £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-contracts-greater-than-5k.csv\",\"icon\":\"download\",\"size\":\"CSV 466KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Greater London Authority (GLA) contracts\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"GLA contracts\",\"url\":\"/cdn/static/cms/documents/gla-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 127KB\",\"image\":{}},{\"title\":\"GLA contracts\",\"url\":\"/cdn/static/cms/documents/gla-contract.csv\",\"icon\":\"download\",\"size\":\"CSV 75KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contract opportunities",
+      "url": "/corporate/publications-and-reports/contract-opportunities",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

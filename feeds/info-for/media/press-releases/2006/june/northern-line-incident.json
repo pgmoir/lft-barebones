@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Northern line incident",
+ "description": "'An empty northern line train derailed at very low speed as it entered Archway sidings this morning.No passengers were on board the train and no one was injured.'The incident happened at 10.51am.'The Northern Line is partly suspended from Camden Town to",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Northern line incident",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Following an incident which occurred this morning on the Northern line, London Underground has issued the following statement:",
+     "For real-time information visit: http://www.tfl.gov.uk/tube/travelinfo/realtime/"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "\"An empty northern line train derailed at very low speed as it entered Archway sidings this morning.  No passengers were on board the train and no one was injured.",
+     "\"The incident happened at 10.51am.",
+     "\"The Northern Line is partly suspended from Camden Town to East Finchley.  A rail replacement bus service is operating through that area.",
+     "\"An investigation has been launched and the Rail Accident Investigation Branch (RAIB) is at the scene .",
+     "\"The suspension will be in place for the remainder of the day and is expected to be in place tomorrow. A further service update will be issued as more information becomes available.\"",
+     "\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

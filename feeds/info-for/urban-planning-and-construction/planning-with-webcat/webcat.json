@@ -1,0 +1,45 @@
+{
+ "pageTitle": "WebCAT planning tool",
+ "keywords": "TfL",
+ "description": "WebCAT urban planning tool",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Planning with WebCAT",
+   "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat"
+  },
+  {
+   "title": "WebCAT planning tool"
+  }
+ ],
+ "title": {
+  "title": "WebCAT",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": null,
+  "cards": null
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

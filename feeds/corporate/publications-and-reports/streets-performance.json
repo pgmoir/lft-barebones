@@ -1,0 +1,84 @@
+{
+ "pageTitle": "Streets performance",
+ "keywords": "Boroughs,Drivers,Freight industry,S,Performance,Deliveries,Driving,TfL",
+ "description": "For London Streets performance data including information on journey time, reliability, network disruption, traffic speeds and volumes, and customer satisfaction",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Streets performance"
+  }
+ ],
+ "title": {
+  "title": "Streets performance",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Motor vehicles account for more journeys in London on an average weekday than the Tube and buses combined.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Of the 27 million passenger journeys undertaken by Londoners every day, more than 80% of them are made on the road network.",
+     "We monitor the performance of the road network and produce a quarterly performance report.",
+     "This includes measures for journey time, reliability, network disruption, traffic speeds and volumes, asset availability, road and path condition, and customer satisfaction.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Performance reports\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TLRN performance report quarter 2 2017/18\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter2-2017-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 975KB\",\"image\":{}},{\"title\":\"TLRN performance report quarter 1 2017/18\",\"url\":\"/cdn/static/cms/documents/tlrn-performance-report-q1-2017-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.83MB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 4 2016/17\",\"url\":\"/cdn/static/cms/documents/tlrn-performance-report-q4-2016-17.pdf\",\"icon\":\"download\",\"size\":\"PDF 994KB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 3 2016/17\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter3-2016-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.30MB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 2 2016/17\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter2-2016-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.34MB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 1 2016/17\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter1-2016-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.16MB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 4 2015/16\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter4-2015-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.12MB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 3 2015/16\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter3-2015-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.62MB\",\"image\":{}},{\"title\":\"TLRN performance report: quarter 2 2015/16\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter2-2015-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.31MB\",\"image\":{}},{\"title\":\"Total vehicle delay for London 2014/15\",\"url\":\"/cdn/static/cms/documents/total-vehicle-delay-for-london-2014-15.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.19MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 1 2015/16\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter-1-2015-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.13MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 4 2014/15\",\"url\":\"/cdn/static/cms/documents/streets-quarterly-report-q4-2014-15-final-v3.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.08MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 3 2014/15\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter3-2014-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.99MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 2 2014/15\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter2-2014-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 1 2014/15\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter1-2014-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.38MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 4 2013/14\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter4-2013-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.71MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 3 2013/14\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter3-2013-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.56MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 2 2013/14\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter2-2013-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.46MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 1 2013/14\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter1-2013-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.37MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 4 2012/13\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter4-2012-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.38MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 3 2012/13\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter3-2012-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 775KB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 2 2012/13\",\"url\":\"/cdn/static/cms/documents/street-performance-report-quarter2-2012-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.49MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 1 2012/13\",\"url\":\"/cdn/static/cms/documents/london-streets-performance-report-q1-2012-13.pdf\",\"icon\":\"download\",\"size\":\"PDF 994KB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 4 2011/12\",\"url\":\"/cdn/static/cms/documents/london-streets-q4-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.55MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 3 2011/12\",\"url\":\"/cdn/static/cms/documents/london-streets-q3-p-report-2011-12.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.18MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 2 2011/12\",\"url\":\"/cdn/static/cms/documents/streets-quarter-two-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.11MB\",\"image\":{}},{\"title\":\"London Streets performance report: quarter 1 2011/12\",\"url\":\"/cdn/static/cms/documents/streets-quarter-one-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.11MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Customer satisfaction survey\"}",
+     "Our 2012 annual customer satisfaction survey shows that customers are now more satisfied with the performance and management of the TfL Road Network (TRLN).",
+     "Overall satisfaction is up by one point in the last year, to a score of 76 out of 100.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Customer satisfaction survey 2012\",\"url\":\"/cdn/static/cms/documents/tlrn-css-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.09MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

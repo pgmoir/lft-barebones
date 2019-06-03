@@ -1,0 +1,64 @@
+{
+ "pageTitle": "Request a dispensation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Request a dispensation"
+  }
+ ],
+ "title": {
+  "title": "Request a dispensation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Request submitted\"}",
+     "Your application must be approved to make sure it will not conflict with scheduled works or have an adverse impact on traffic flow.",
+     "Your application may have to be reviewed by our traffic engineer teams so our response times vary.",
+     "After 48 hours, you may be able to \u003ca href=\"/modes/driving/view-dispensations-entry\"\u003echeck the status of your application here\u003c/a\u003e .",
+     "If approved, you will be asked to provide the vehicle details (vehicle registration, make, model and colour). You will then be asked to pay online. Once payment is received, we will send you a confirmation email including a dispensation permit. This must be printed and placed in the dashboard of your vehicle for your dispensation to be valid.",
+     "Note, we may offer an alternative date, time or location if your application is initially rejected. Please take care to read the details of the alternative before accepting.",
+     "If rejected, we will try to give adequate reasons why."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

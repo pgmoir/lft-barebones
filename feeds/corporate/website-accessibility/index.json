@@ -1,0 +1,107 @@
+{
+ "pageTitle": "Website accessibility",
+ "keywords": "TfL",
+ "description": "Website accessibility, change the way the site looks, keyboard accessibility, improving accessibility and browser support",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Website accessibility"
+  }
+ ],
+ "title": {
+  "title": "Website accessibility",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We aim to make our digital services accessible and usable for everyone.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you are looking for information about accessibility on London's transport network, please visit \u003ca href=\"/transport-accessibility/index\"\u003eTransport accessibility\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Change the way this site looks\"}",
+     "If you are having trouble reading this website you can change the way it looks. The settings available differ from browser to browser, but most browsers allow you to change the text size, colour and layout:",
+     "You can adjust the size of nearly all the text on this website by using the text size setting in your browser menu. This setting is found under View or Zoom in most browsers. Or you can use CTRL+ or CTRL- to make text bigger or smaller.",
+     "Some browsers allow you to change the default font and background colours you use. These settings are usually found in the Options or Preferences menus.",
+     "Many browsers allow you to remove all layout and styling by turning off the website style sheets. If your browser supports this setting you will most likely find it in the Settings or Preferences menu.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keyboard access\"}",
+     "Most browsers let you skip from link to link using the Tab key. The current link will be highlighted. To move backwards, hold down Shift and press the Tab key.",
+     "We do not use access keys as they may interfere with keyboard controls of browsers and screen readers.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improving accessibility\"}",
+     "We follow the guidelines for UK government websites by supporting \u003ca href=\"http://www.w3.org/TR/WCAG21/\"\u003eW3C's WCAG 2.1 Guidelines\u003c/a\u003e Level AA level.",
+     "We carry out  user-testing with a wide range of people, covering varied accessibility needs (mobile, cognitive, auditory and visual) and this helps us to improve the user-experience for everyone. We also test on assistive devices and software such as screen readers and magnifiers.",
+     "We continue to make improvements following our annual accessibility audit, consultation exercises and feedback from relevant user groups and organisations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Supported browsers\"}",
+     "We try to develop in a way that whatever browser you use, you should be able to access core information on our site.",
+     "Popular browsers (based on our site's usage statistics) are fully supported. If you are using an older browser, we may not be able to give you full visual and interactive richness.",
+     "We also regularly test our website on a variety of popular tablets and mobile devices.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Digital accessibility standards\"}",
+     "All digital content and services created for TfL must meet our accessibility standards.",
+     "These standards apply to desktop, tablet, mobile website, web app and native app experiences",
+     "Digital accessibility standard",
+     "Digital accessibility testing standard"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

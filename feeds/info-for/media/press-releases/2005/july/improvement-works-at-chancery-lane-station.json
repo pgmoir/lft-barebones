@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Improvement works at Chancery Lane station",
+ "description": "Three of the five escalators will be refurbished during this time. The number of passengers exiting the station at peak times far exceeds the capacity of one escalator therefore, during the work on the upper bank the two remaining escalators will be",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Improvement works at Chancery Lane station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Chancery Lane station on the Central line will become exit only during the morning peak from 11 July 2005 to 6 June 2006 due to essential escalator refurbishment works taking place to improve the station."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Three of the five escalators will be refurbished during this time.",
+     "The number of passengers exiting the station at peak times far exceeds the capacity of one escalator therefore, during the work on the upper bank the two remaining escalators will be reversed to run upward, during the morning peak.",
+     "As a result, Chancery Lane station will be exit only between 0730 to 1000 Monday to Friday.",
+     "Metronet Rail BCV is responsible for the maintenance and renewal of the Central line.",
+     "TfL is investing £10bn over the next five years to improve and expand London's transport network, more than half of that in the Tube.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Chancery Lane station first opened on 30 July 1900\",\"43,000 people use the station daily\",\"11,730 passengers exit the station between 0730 and 1000 on weekdays\",\"Chancery Lane station has the shortest escalator (9.1m) on the London Underground System, with just 50 steps.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "pageTitle": "Busking",
+ "keywords": "Public,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "Busking"
+  }
+ ],
+ "title": {
+  "title": "Busking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The London Underground (LU) Busking Scheme is a hit with performers and the travelling public. Passengers enjoy more than 100,000 hours of live music, performed every year by professional, talented buskers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Licensed buskers have a unique audience of around 3.5 million Tube passengers every day.",
+     "Many passengers show their appreciation by dropping a few coins in the hat, knowing that the buskers are licensed and legitimate because they perform on one of our branded pitches.",
+     "The scheme has attracted international media interest and some buskers are regularly booked for events and recording sessions; some have even gone on to perform in front of royalty or work with established musicians ranging from Simply Red to principals of the English National Opera.",
+     "The lure of performing on the Tube has also attracted some big names: Ed Sheeran, Jessie J, Bob Geldof and Katherine Jenkins have all played on the Underground's stage.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Get involved - busk\"}",
+     "Want to perform on London's Underground? We have a limited number of licences and a huge interest in joining the scheme.",
+     "For the first time, we have held auditions as part of the 'Busk in London' initiative, which gives buskers keen to perform on the London Underground the chance to win busking licenses for later on this year. The auditions took place in front of a panel of music industry experts in public locations around the Capital, with entrants being judged on their originality, technique and performance.",
+     "In conjunction with Busk in London, there is also the Mayor of London's Gigs busking competition being held for musicians aged 11-25.",
+     "Find out more about Busk in London, gigs and busking in the capital at \u003ca href=\"http://www.buskinlondon.com\"\u003ewww.buskinlondon.com\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sponsor\"}",
+     "The busking scheme has up to 39 pitches across 25 central London stations which are clearly defined by a semi-circular floor graphic and a backdrop advert on the wall.",
+     "These are highly visible and attract attention because of the professional musicians performing on them every day.",
+     "A sponsor is able to brand the pitches within our guidelines and will benefit from additional joint publicity, special events and other opportunities during the sponsorship period. Past sponsors have included Carling, Capital FM and Coca Cola.",
+     "For full details of this offer, contact the busking scheme by email: \u003ca href=\"mailto:busking@tube.tfl.gov.uk\"\u003ebusking@tube.tfl.gov.uk\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consider the opportunities\"}",
+     "The busking scheme has branched out beyond the confines of the Tube and we can help you make a connection with the buskers.",
+     "Whether you're looking for an entertainer for your event or exhibition, want to advertise in the newsletter we send out to our buskers, or want support with managing your own scheme, we can help.",
+     "Get in touch on 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) or via email to \u003ca href=\"mailto:busking@tube.tfl.gov.uk\"\u003ebusking@tube.tfl.gov.uk\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "HMRS Online",
+      "url": "http://www.hmrs.org.uk/index.php",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "The National Archives",
+      "url": "http://www.nationalarchives.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Metropolitan Archives",
+      "url": "http://www.cityoflondon.gov.uk/things-to-do/visiting-the-city/archives-and-city-history/london-metropolitan-archives/Pages/default.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "National Railway Museum Archives",
+      "url": "http://www.nrm.org.uk/researchandarchive",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

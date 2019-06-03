@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Maps in other languages",
+ "keywords": "DLR passengers,Emirates Air Line passengers,London Overground passengers,Pedestrians,Public,Rail passengers,Tube passengers,M,Maps,DLR,Emirates Air Line,London Overground,Rail,Tube,DLR ,Map,TfL Rail ,Tube ,Tube Map ,TfL",
+ "description": "Maps in other langauges",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Maps in other languages"
+  }
+ ],
+ "title": {
+  "title": "Maps in other languages",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Download Tube maps in languages other than English.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You can also translate web pages on this site into your language using the Google Translate option at the bottom of each page.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube maps - other languages\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"خريطة المترو - Arabic tube map\",\"url\":\"/cdn/static/cms/documents/arabic-tube-map2.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.33MB\",\"image\":{}},{\"title\":\"উবের মানচিত্র বাংলা - Bengali Tube map\",\"url\":\"/cdn/static/cms/documents/bengali-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.31MB\",\"image\":{}},{\"title\":\"地铁线路图 - Chinese Tube map\",\"url\":\"/cdn/static/cms/documents/chinese-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.22MB\",\"image\":{}},{\"title\":\"Plan du métro - French Tube map\",\"url\":\"/cdn/static/cms/documents/french-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.17MB\",\"image\":{}},{\"title\":\"U-Bahn (Tube) Karte - German Tube map\",\"url\":\"/cdn/static/cms/documents/german-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.17MB\",\"image\":{}},{\"title\":\"Υπόγειος σιδηρόδρομος - Greek Tube map\",\"url\":\"/cdn/static/cms/documents/greek-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.19MB\",\"image\":{}},{\"title\":\"ટ􀈽બુ (Tube) નો નક્શો - Gujarati Tube map\",\"url\":\"/cdn/static/cms/documents/gujarati-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.29MB\",\"image\":{}},{\"title\":\"ट्यूब (Tube) का नक्शा - Hindi Tube map\",\"url\":\"/cdn/static/cms/documents/hindi-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.30MB\",\"image\":{}},{\"title\":\"Mappa della metropolitana - Italian Tube map\",\"url\":\"/cdn/static/cms/documents/italian-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.16MB\",\"image\":{}},{\"title\":\"Mapa metra - Polish Tube map\",\"url\":\"/cdn/static/cms/documents/polish-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.19MB\",\"image\":{}},{\"title\":\"Mapa do metropolitano - Portuguese Tube map\",\"url\":\"/cdn/static/cms/documents/portuguese-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.17MB\",\"image\":{}},{\"title\":\"Mapa del metro - Spanish Tube map\",\"url\":\"/cdn/static/cms/documents/spanish-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.17MB\",\"image\":{}},{\"title\":\"லண்டன் சுரங்கப்பாதை வரைபடம் - Tamil Tube map\",\"url\":\"/cdn/static/cms/documents/tamil-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.20MB\",\"image\":{}},{\"title\":\"Tube (Metro) Haritası - Turkish Tube map\",\"url\":\"/cdn/static/cms/documents/turkish-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.19MB\",\"image\":{}},{\"title\":\"لندن زیر زمین  کا نقشہ - Urdu Tube map\",\"url\":\"/cdn/static/cms/documents/urdu-tube-map1.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.40MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

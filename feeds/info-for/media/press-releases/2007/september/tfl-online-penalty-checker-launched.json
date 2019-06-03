@@ -1,0 +1,69 @@
+{
+ "pageTitle": "TfL online penalty checker launched",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL online penalty checker launched",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A NEW online 'penalty checker' service has been launched by Transport for London (TfL)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The free service will allow people who are considering buying a  new vehicle to check if it has any penalty charges outstanding for the central London Congestion Charge.",
+     "To use the online service, potential car buyers will need to provide their name, address and the vehicle registration, as well as confirmation that authorisation has been obtained from the registered keeper.",
+     "Requests should be sent to \u003ca href=\"mailto:OutstandingCCPenaltyCharges@TfL.gov.uk\"\u003eOutstandingCCPenaltyCharges@TfL.gov.uk\u003c/a\u003e and an email response will be sent within 10 working days confirming whether there are any outstanding penalty charges.",
+     "Basic advice as to what action can be taken if there are is also provided.",
+     "John Mason, TfL's head of enforcement in Congestion Charging, said: 'It is only fair that the motorist who incurred, or is liable, for a penalty issued by us for not complying with the Congestion Charge scheme is the person who pays for it.",
+     "'We are providing this service in order to assist anyone buying a used car to find out quickly and conveniently that no outstanding Congestion Charging penalties exist, and provide clear advice and guidance to them if there are.'",
+     "For more information, visit \u003ca href=\"http://www.cclondon.com/\"\u003ehttp://www.cclondon.com/\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

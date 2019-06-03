@@ -1,0 +1,85 @@
+{
+ "pageTitle": "Underground services performance",
+ "keywords": "Public,L,P,U,Performance,Tube,TfL",
+ "description": "Performance figures showing how many people use the Tube, how trains are performing, etc.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Underground services performance"
+  }
+ ],
+ "title": {
+  "title": "Underground services performance",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"London Underground conducts surveys that count the number of people using our service, where they travel to and from and how long their journeys last. We also monitor performance and assets, measuring how far trains have travelled and how many trains, lifts and escalators are in service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Most of our regular performance figures are updated every four weeks - defined as a period - and show a range of service and network-related matters. Some measures are updated once a quarter.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Latest performance figures\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Period 1 - 2019/20 (from 1 April to 27 April 2019)\"}",
+     "{\"template\":\"table\",\"titles\":[\"Passenger journeys\",\"Customer satisfaction\",\"Excess journey time\"],\"rows\":[[\"102.9 million\",\"\"],[\"\\u003cstrong\\u003eLost customer hours\\u003c/strong\\u003e \",\"2.5 million\",\"\"],[\"85 (Q4)\",\"\"],[\"4.42 minutes\",\"\"]]}",
+     "Further information on Tube performance, for the current and previous periods, can be found in the Performance data almanac here:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Performance data almanac\",\"url\":\"/cdn/static/cms/documents/lu-performance-data.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 1.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benchmarking Report\"}",
+     "We regularly report to the Rail \u0026 Underground Panel on our \u003ca href=\"/cdn/static/cms/documents/rup-20150212-part-1-item08-international-benchmarking.pdf\"\u003eperformance against other metros\u003c/a\u003e around the world.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Entry and exit figures by station\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Entry and exit figures by station from 2007\",\"url\":\"/cdn/static/cms/documents/multi-year-station-entry-and-exit-figures.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 418KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

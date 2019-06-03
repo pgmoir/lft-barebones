@@ -1,0 +1,99 @@
+{
+ "pageTitle": "Ill-health retirement",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Ill-health retirement",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "If you can't work because of mental or physical incapacity you may be entitled to ill-health benefits.",
+     "What you receive depends on whether you are a contributing member or have a deferred pension.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Read the ill-health guidelines\",\"url\":\"/cdn/static/cms/documents/ill-health-guidelines.pdf\",\"icon\":\"download\",\"size\":\"PDF 119KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ill-health retirement for contributing members\"}",
+     "Receiving your pension due to ill-health depends on the Trustees' approval, so you must provide us with satisfactory medical evidence that you cannot do your job because of mental or physical incapacity.",
+     "Once the pension is in payment the Trustees may in their absolute discretion vary or suspend the pension granted.",
+     "Such action will only be taken following an ill-health pension review.",
+     "A review will only apply in response to contact made by you or other parties, where you seek re-employment with TfL, or if your earnings exceed, when added together with the ill-health pension, that from your previous job with TfL as currently performed. There will be no reviews after age 60.",
+     "As a guide as to when you should make contact,\u003cstrong\u003ethe Fund requires you to tell us\u003c/strong\u003e if the sum of your current earnings and pension together exceeds the greater of 150 per cent of your pension or £30,000. This latter figure will be increased annually by earnings inflation and the new figure communicated to members.",
+     "The benefit is based on your pensionable service and pensionable salary as follows:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pensionable service less than two years\"}",
+     "You will not receive a pension but you can receive a lump sum of a quarter of your pensionable salary.",
+     "If you are working part-time when you retire, the lump sum will be calculated using pro-rated pensionable salary.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pensionable service between two and five years\"}",
+     "You will receive a pension, calculated as 1/60 x pensionable service x pensionable salary.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pensionable service more than five years\"}",
+     "You will receive a pension, and your pensionable service will be increased by up to 10 years. Your annual pension is calculated as 1/60 x pensionable service x pensionable salary.",
+     "For Existing Members there is a deduction of £10.10 a year for pensionable service from 1 October 1993.",
+     "You can exchange part of your pension for a lump sum, but not the part relating to the enhanced pensionable service. If you receive an ill-health pension you can not get a variable pension.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ill-health retirement for deferred pensioners\"}",
+     "Should you be unable to work because of ill-health you may be able to take your pension whatever your age.",
+     "Receiving your pension due to ill-health depends on the Trustees' approval, so you must provide us with satisfactory medical evidence that you can not earn an income. The Trustees may require regular evidence of continued incapacity and of earnings received from any employment.",
+     "The pension is payable while your incapacity continues.",
+     "Once the pension is in payment the Trustees may in their absolute discretion vary or suspend the pension granted.",
+     "Such action will only be taken following an ill-health pension review.",
+     "A review will only apply in response to contact made by you or other parties, where you seek re-employment with TfL, or if your earnings exceed, when added together with the ill-health pension, that from your previous job with TfL as currently performed. There will be no reviews after age 60.",
+     "As a guide as to when you should make contact,\u003cstrong\u003ethe Fund requires you to tell us\u003c/strong\u003e if the sum of your current earnings and pension together exceeds the greater of 150 per cent of your pension or £30,000. This latter figure will be increased annually by earnings inflation and the new figure communicated to members.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Organ donation\"}",
+     "The Trustees would be willing to consider making a ruling in advance of donating an organ regarding your eligibility for an ill-health pension. In cases of emergency organ donation you can apply for a ruling after the organ donation.",
+     "If you do not ask for this ruling and some time later apply for an ill-health pension, then the Trustees would make a decision in the normal way when you leave service.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Avoiding overpayment\"}",
+     "You must keep the \u003ca href=\"/pensions/contact\"\u003eFund Office\u003c/a\u003e informed of your personal circumstances to avoid any overpayment of pension being made, which would have to be repaid."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

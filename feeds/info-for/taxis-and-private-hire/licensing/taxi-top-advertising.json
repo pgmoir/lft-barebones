@@ -1,0 +1,195 @@
+{
+ "pageTitle": "Taxi top advertising",
+ "keywords": "TfL",
+ "description": "Page for applications for taxi top advertising scheme",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Licensing",
+   "url": "/info-for/taxis-and-private-hire/licensing"
+  },
+  {
+   "title": "Taxi top advertising"
+  }
+ ],
+ "title": {
+  "title": "Taxi top advertising",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"From Monday 1 December 2014, TX4 vehicle licence holders may apply to TfL for a new vehicle licence with approval for their taxi to be fitted with taxi top advertising.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rooftop illuminated digital advertising\"}",
+     "A decision has been made to limit the number of vehicles to 1,000 at this time.",
+     "In limiting the number to 1,000, we have taken into consideration the fact that this is new technology and it allows us to properly assess their impact and how they are received by the public. It also helps to ensure the visual impact of the London taxi and the streetscape of London is maintained.",
+     "There are now between 250-300 taxi vehicles with a taxi top device fitted (this number will be regularly updated).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Eligibility criteria\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Only the licence holders of licensed TX4 model taxis are eligible to apply\",\"For each application, an agreement must be in place with an approved manufacturer. Evidence of this must be provided as part of the application\",\"An approval will only be authorised where an licensing inspection is due within the next 6 months\"]}",
+     "The current approved manufacturers are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Brightmove\",\"Eyetease\"]}",
+     "Please review the taxi top policy document for further information about taxi top advertising.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi roof top illuminated digital advertising policy\",\"url\":\"/cdn/static/cms/documents/taxi-top-vehicle-specific-approval-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 87KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Requesting a new taxi top vehicle licence\"}",
+     "\u003cstrong\u003eApplication\u003c/strong\u003e ",
+     "To apply for approval you will need to complete and submit the following application form accompanied with a copy of the relevant agreement with one of the approved manufacturers.",
+     "Approvals will be provided on a first-come, first-serve basis: the limit is 1,000.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi roof top illuminated digital advertising application form\",\"url\":\"/cdn/static/cms/documents/taxi-top-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 160KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fees\"}",
+     "On approval, you'll need to re-licence your vehicle within 6 months of the approval being issued.",
+     "The licence fee for a vehicle with a taxi top fitted is £166. This is because of the extra checks that need to be carried out to make sure the taxi top device has been fitted correctly.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Completed forms and documentary evidence\"}",
+     "We would recommend that the form is emailed to \u003ca href=\"mailto:taxitopenquiries@nsl.co.uk\"\u003etaxitopenquiries@nsl.co.uk\u003c/a\u003e ",
+     "However an alternative postal address is available:",
+     "Taxi Tops\u003cbr /\u003ePO Box 713\u003cbr /\u003eOldham\u003cbr /\u003eOL1 9NQ",
+     "Please note it is necessary to make a separate application per vehicle. We will not accept multiple applications on one form.",
+     "\u003cstrong\u003eInspection\u003c/strong\u003e ",
+     "Once an application has been approved, a letter will be issued to the vehicle owner advising that within six months of the date of the letter they must:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Fit the approved taxi top device to their vehicle\",\"Have their vehicle pass a full licensing inspection when they renew their current vehicle licence, which will include checking the taxi top device\",\" \\u003ca href=\\\"/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-vehicle-licence\\\"\\u003eFind out more about vehicle licensing inspection\\u003c/a\\u003e \"]}",
+     "When applying for approval please be aware that, should more than 1,000 applications be received, a waiting list will be created.",
+     "\u003cstrong\u003eAdvertisements\u003c/strong\u003e ",
+     "All advertisements displayed via the taxi top must comply with the \"Taxi advertising and private hire vehicle signage guidelines\" which can be found on our \u003ca href=\"/corporate/publications-and-reports/taxi-and-private-hire\"\u003eLegislation and policy web page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi top advertising",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-driver-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-vehicle-licence",
+      "image": {}
+     },
+     {
+      "title": "Information for fleet owners",
+      "url": "/info-for/taxis-and-private-hire/licensing/information-for-fleet-owners",
+      "image": {}
+     },
+     {
+      "title": "Learn the Knowledge of London",
+      "url": "/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-driver-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-vehicle-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire operator licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-operator-licence",
+      "image": {}
+     },
+     {
+      "title": "Topographical assessment",
+      "url": "/info-for/taxis-and-private-hire/licensing/topographical-assessment",
+      "image": {}
+     },
+     {
+      "title": "Existing licensee",
+      "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Licensing information",
+      "url": "/info-for/taxis-and-private-hire/licensing/licensing-information",
+      "image": {}
+     },
+     {
+      "title": "Licence checker",
+      "url": "/info-for/taxis-and-private-hire/licensing/licence-checker",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi top advertising",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

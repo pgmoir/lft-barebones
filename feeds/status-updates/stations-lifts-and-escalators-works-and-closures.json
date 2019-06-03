@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Stations, lifts, escalators, works and closures",
+ "keywords": "TfL",
+ "description": "Look ahead at planned works that affect stations, escalators and lifts",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Stations, lifts, escalators, works and closures"
+  }
+ ],
+ "title": {
+  "title": "Stations, lifts, escalators, works and closures ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Here we publish a list of planned works that affect stations, lifts and escalators.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003eLast updated: 20 May 2019\u003c/strong\u003e ",
+     "This information changes frequently. \u003ca href=\"/plan-a-journey/index\"\u003eCheck before you travel\u003c/a\u003e .",
+     "For planned service changes see \u003ca href=\"/status-updates/planned-track-closures\"\u003ePlanned line closures and service changes\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\"}",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"h2\",\"\",\"\"],[\"Acton Main Line\",\"Sun 2 June 2019\",\"\\u003cstrong\\u003eTfL Rail trains will not stop from 08:00\\u003c/strong\\u003e \"],[\"Acton Main Line\",\"Sun 4 Aug 2019Sun 8 Sep 2019\",\"\\u003cstrong\\u003eTfL Rail trains will not stop\\u003c/strong\\u003e \"],[\"Angel\",\"Fri 21 June until early Sep 2019\",\"\\u003cstrong\\u003eReduced escalator service\\u003c/strong\\u003e \"],[\"h2\",\"\",\"\"],[\"Bank\",\"Mon 1 Apr until late June 2019\",\"\\u003cstrong\\u003eReduced escalator service\\u003c/strong\\u003e \"],[\"Belsize Park\",\"Mon 20 May 2019 until late Feb 2021\",\"\\u003cstrong\\u003eReduced lift service.\\u003c/strong\\u003e \"],[\"h2\",\"\",\"\"],[\"Canary Wharf\",\"Mon 29 Apr until mid-Aug 2019\",\"\\u003cstrong\\u003eNo down escalator from street to mezzaine level.\\u003c/strong\\u003e Please use the stairs.\"],[\"Clapham North\",\"Mon 20 May until Thu 22 Aug 2019\",\"\\u003cstrong\\u003eNo down escalator service.\\u003c/strong\\u003e Please use the stairs.\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"Earl's Court\",\"Tue 22 Jan until mid-July 2019\",\"\\u003cstrong\\u003eNo step-free access to/from the District line.\\u003c/strong\\u003e Use alternative routes or speak to a member of staff.\"],[\"East Ham\",\"Tue 8 Jan until early July 2019\",\"\\u003cstrong\\u003eNo step-free access between the ticket hall and the westbound platform.\\u003c/strong\\u003e Please use nearby stations instead.\"],[\"Euston\",\"Mon 8 Apr until late June 2019\",\"\\u003cstrong\\u003eReduced escalator service\\u003c/strong\\u003e Please use Warren Street or King's Cross St Pancras stations to avoid congestion\"],[\"h2\",\"\",\"\"],[\"Finsbury Park\",\"Sat 17 Jul 2016 until late 2019\",\"\\u003cstrong\\u003eWells Terrace entrance closed on weekdays 07:00-10:00.\\u003c/strong\\u003e Use the Seven Sisters Road exit instead.At all other times use the Seven Sisters Road or Station Place exits and follow the signed walking routes.\"],[\"Forest Gate\",\"Sundays from 19 May until 9 June 2019\",\"\\u003cstrong\\u003eTrains will not stop\\u003c/strong\\u003e \"],[\"h2\",\"\",\"\"],[\"Goodge Street\",\"Mon 4 Sep 2017 until autumn 2019\",\"\\u003cstrong\\u003eExit only on weekdays 07:30-10:00\\u003c/strong\\u003e Use nearby Warren Street or Tottenham Court Road stations instead.\"],[\"h2\",\"\",\"\"],[\"Hanwell\",\"Mon 8 Apr until late May 2019\",\"\\u003cstrong\\u003eCampbell Road entrance closed. \\u003c/strong\\u003e Follow the signposted route to the Station Approach entrance, which is a 10 minute walk.\"],[\"Hanwell\",\"Sun 8 Sep 2019\",\"\\u003cstrong\\u003eTfL Rail trains will not stop after 21:00\\u003c/strong\\u003e \"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"Manor Park\",\"Sundays from 19 May until 9 June 2019\",\"\\u003cstrong\\u003eTrains will not stop\\u003c/strong\\u003e \"],[\"Maryland\",\"Sundays from 19 May until 9 June 2019\",\"\\u003cstrong\\u003eTrains will not stop\\u003c/strong\\u003e \"],[\"Moorgate\",\"Fri 29 Mar until late 2019\",\"\\u003cstrong\\u003eNo down escalator service between the ticket hall and the National Rail platforms.\\u003c/strong\\u003e Please use the stairs.\"],[\"Mornington Crescent\",\"Mon 8 Apr until  early June 2019\",\"\\u003cstrong\\u003eReduced lift service\\u003c/strong\\u003e \"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"Southwark\",\"Tue 30 Oct 2018 until late May 2019\",\"\\u003cstrong\\u003eNo up escalator service to Waterloo East weekdays 07:00-10:00.\\u003c/strong\\u003e Please use the stairs or exit via the Blackdfriars Road ticket hall and walk to the main Waterloo East station entrance.\\u003cstrong\\u003eNo down escalator service from Waterloo East except weekdays 07:00-10:00.\\u003c/strong\\u003e Please use the stairs or follow signs to Waterloo station for Jubilee line interchange.\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"h2\",\"\",\"\"],[\"Victoria\",\"Tue 19 Feb 2019 until July 2020\",\"\\u003cstrong\\u003eReduced escalator service\\u003c/strong\\u003e \"],[\"h2\",\"\",\"\"],[\"Warren Street\",\"Mon 19 Aug until mid-Oct 2019\",\"\\u003cstrong\\u003eReduced escalator service. \\u003c/strong\\u003e Northbound Victoria line trains will not stop, weekdays from 08:00 until 09:45The Victoria line will have no access from the street or from the Northern line, weekdays from 08:00 until 09:45 and from 15:30 until 20:00\"],[\"West Ealing\",\"Sun 2 June 2019\",\"\\u003cstrong\\u003eTfL Rail trains will not stop from 08:00\\u003c/strong\\u003e \"],[\"West Ealing\",\"Sun 4 Aug 2019Sun 8 Sep 2019\",\"\\u003cstrong\\u003eTfL Rail trains will not stop\\u003c/strong\\u003e \"],[\"Whitechapel\",\"Sat 6 July 2019Sat 10 and Sun 11 Aug 2019Sat 7 and Sun 8 Sep 2019Sat 21 and Sun 22 Sep 2019\",\"\\u003cstrong\\u003eLondon Overgrond trains will not stop.\\u003c/strong\\u003e Use local buses to/from Shoreditch High Street or Shadwell.\"],[\"Wood Green\",\"Tue 27 Nov 2018 until mid-Nov 2019\",\"\\u003cstrong\\u003eReduced escalator service\\u003c/strong\\u003e \"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

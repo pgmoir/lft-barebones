@@ -1,0 +1,63 @@
+<% if (departures) { %>
+<div class="mb-3">
+  <h3 class="h5 p-3 bg-basic mb-0 border">First and last services, timetables and route details</h3>
+  <div class="row mx-0 pt-3 border border-top-0">
+    <div class="col-12 col-sm-6 mb-3">
+      <h4 class="h5">Last departure towards..</h4>
+      <% departures.last.in.forEach(function (departure, i) { %>
+      <div class="bg-basic row mx-0 border <% if (i != 0) { %>border-top-0<% } %>">
+        <div class="d-flex flex-fill">
+          <div class="p-2 w-1 bg-<%= departure.route %>"></div>
+          <div class="p-3 flex-grow-1"><%= departure.destination %></div>
+          <div class="p-3 text-right"><%= departure.departs %></div>
+        </div>
+      </div>
+      <% }); %>
+    </div>
+    <div class="col-12 col-sm-6 mb-3">
+      <h4 class="h5">Last departure towards..</h4>
+      <% departures.last.out.forEach(function (departure, i) { %>
+      <div class="bg-basic row mx-0 border <% if (i != 0) { %>border-top-0<% } %>">
+        <div class="d-flex flex-fill">
+          <div class="p-2 w-1 bg-<%= departure.route %>"></div>
+          <div class="p-3 flex-grow-1"><%= departure.destination %></div>
+          <div class="p-3 text-right"><%= departure.departs %></div>
+        </div>
+      </div>
+      <% }); %>
+    </div>
+    <div class="col-12 col-sm-6 mb-3">
+      <h4 class="h5">First departure towards..</h4>
+      <% departures.first.in.forEach(function (departure, i) { %>
+      <div class="bg-basic row mx-0 border <% if (i != 0) { %>border-top-0<% } %>">
+        <div class="d-flex flex-fill">
+          <div class="p-2 w-1 bg-<%= departure.route %>"></div>
+          <div class="p-3 flex-grow-1"><%= departure.destination %></div>
+          <div class="p-3 text-right"><%= departure.departs %></div>
+        </div>
+      </div>
+      <% }); %>
+    </div>
+    <div class="col-12 col-sm-6 mb-3">
+      <h4 class="h5">First departure towards..</h4>
+      <% departures.first.out.forEach(function (departure, i) { %>
+      <div class="bg-basic row mx-0 border <% if (i != 0) { %>border-top-0<% } %>">
+        <div class="d-flex flex-fill">
+          <div class="p-2 w-1 bg-<%= departure.route %>"></div>
+          <div class="p-3 flex-grow-1"><%= departure.destination %></div>
+          <div class="p-3 text-right"><%= departure.departs %></div>
+        </div>
+      </div>
+      <% }); %>
+    </div>
+    <div class="col-12 mb-3">
+      <button class="btn btn-outline-primary btn-block mb-3">Last trains / First trains toggle</button>
+      <% departures.routes.forEach(function (route, i, array) { 
+        let incClass = (i === array.length - 1) ? 'card-b1 mb-0' : 'card-b1 mb-3';
+        %>
+        <%- include('../includes/listgroup', { card: { style: 'links', class: incClass, links: route.links }}) %>
+      <% }); %>
+    </div>
+  </div>
+</div>
+<% } %>

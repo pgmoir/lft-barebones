@@ -1,0 +1,39 @@
+<% if (status) { %>
+<div class="mb-3">
+  <h3 class="h5 p-3 bg-basic mb-0">Status</h3>
+  <% for (let state of status) { %>
+    <% if (state.details) { %>
+    <a href="#" data-toggle="collapse" data-target="#collapse-status-<%- state.route %>" aria-expanded="true" aria-controls="collapse-status-<%- state.route %>" id="collapse-status-<%- state.route %>-heading" class="status">
+    <% } else if (state.url) { %>
+    <a href="<%= state.url %>" class="status">
+    <% } %>
+    <div class="row mx-0 border border-top-0">
+      <div class="col-12 d-flex p-0">
+        <div class="p-3 w-50 bg-<%= state.route %> d-flex flex-column justify-content-center"><%- state.title %></div>
+        <div class="p-3 w-50 <% if (state.details) { %>alert-warning text-dark<% } %>"><%- state.message.replace("|", "<br />") %></div>
+        <% if (state.details) { %>
+          <div class="width-2-5 flex-shrink-1 d-flex flex-column justify-content-center <% if (state.details) { %>alert-warning<% } %>"><div class="svgpost svgicon-plus"></div></div>
+        <% } else if (state.url) { %>
+          <div class="width-2-5 flex-shrink-1 d-flex flex-column justify-content-center"><div class="svgpost svgicon-internal"></div></div>
+        <% } else { %>
+          <div class="width-2-5 flex-shrink-1 d-flex flex-column justify-content-center"></div>
+        <% } %>
+      </div>
+    </div>
+    <% if (state.details) { %>
+    </a>
+    <div class="row mx-0 border border-top-0 collapse mb-0 text-dark" id="collapse-status-<%- state.route %>" aria-labelledby="collapse-status-<%- state.route %>-heading">
+      <% for (let detail of state.details) { %>
+      <div class="p-3 col-12 alert-warning text-dark ">
+      <% for (let text of detail.texts) { %>
+      <p class="mb-0"><%- text %></p>
+      <% } %> 
+      </div>
+      <% } %> 
+    </div>
+    <% } else if (state.url) { %>
+    </a>
+    <% } %>
+  <% } %>
+  </div>
+<% } %>

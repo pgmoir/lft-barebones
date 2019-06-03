@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Northern line alternative travel options",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Northern line alternative travel options",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Due to security alert at Stockwell Station, the Northern Line has no service between Morden Station and Kennington Station in both directions.  This will affect journeys from 10:47 on 22/07/05 until further notice."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "\u003cbr /\u003eFor:\u003cbr /\u003e\u003cstrong\u003eOval\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003eStockwell\u003c/strong\u003e \u003cbr /\u003eUse Kennington \u0026 Vauxhall then walk or use local bus services",
+     "For\u003cbr /\u003e\u003cstrong\u003eClapham North \u003c/strong\u003e Use National Rail from Victoria and Waterloo to Clapham Junction and walk or use local bus services\u003cbr /\u003eOr\u003cbr /\u003eUse Southern services from Victoria to Clapham High Street",
+     "For\u003cbr /\u003e\u003cstrong\u003eClapham South\u003c/strong\u003e Use Southern Trains to Balham and walk or use bus routes 155, 355 to Clapham South and 155, 355 and 249 to Tooting Bec",
+     "For\u003cbr /\u003e\u003cstrong\u003eTooting Broadway \u003c/strong\u003e Go to Wimbledon via South West Trains or District lines and use Rail replacement bus service (Wim, S Wim, CW TB) and local bus service 57, 219, 249",
+     "For\u003cbr /\u003e\u003cstrong\u003eMorden\u003c/strong\u003e \u003cbr /\u003e\u003cbr /\u003eGo to Wimbledon via South West Trains or District lines and use bus service 93 or Rail replacement bus service to South Wimbledon and walk\u003cbr /\u003eOr Tramlink to Morden Road.",
+     "In addition for\u003cstrong\u003eTooting Broadway\u003c/strong\u003e you may want to use South West Trains from Waterloo to Earsfield and use bus services 44, 77 and 270"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

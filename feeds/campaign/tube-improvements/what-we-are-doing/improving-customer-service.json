@@ -1,0 +1,144 @@
+{
+ "pageTitle": "Improving customer service",
+ "keywords": "TfL",
+ "description": "Our modernisation plan to transform customer service in our Tube stations",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving the Tube",
+   "url": "/campaign/tube-improvements"
+  },
+  {
+   "title": "What we're doing",
+   "url": "/campaign/tube-improvements/what-we-are-doing"
+  },
+  {
+   "title": "Improving customer service"
+  }
+ ],
+ "title": {
+  "title": "Improving customer service",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our modernisation plans are transforming customer service on the Tube. We are taking feedback on board and looking for new ways to improve our customer service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "All stations will continue to remain staffed at all times, and there will be more staff available to offer assistance to customers where it is needed most. We are phasing the station changes so that any major events and engineering works are avoided.",
+     "\u003cstrong\u003eChanges we've already made:\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How passengers are served\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"All our station staff  receive customer service training and  are equipped with handheld devices loaded with information to help customers get around, including maps, live service levels, Journey Planner, ticketing options and prices and local information\",\"Staff training includes elements designed and delivered by disabled people on how best to assist disabled customers. Find out about this accessibility training in our film\"]}",
+     "{\"template\":\"video\",\"style\":\"myuE1geMsr0\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Improvements to ticketing facilities\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Customers can buy most tickets at every station. Selected tickets can also be bought over the phone at our London-based contact centre or online\",\"All ticket machines have been improved so that our staff will be able to resolve problems on the spot\",\"Ticket machines offer guidance in 17 languages, sell most ticket types, with a few exceptions such as annual season tickets, which are available online\",\"We have also added 150 new ticket machines across the network to help customers get the ticket they need\",\"There are a range of options and ways to pay for your travel. For most people, pay as you go with \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003econtactless\\u003c/a\\u003e or \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003eOyster\\u003c/a\\u003e is the best option as it offers value, flexibility and convenience\"]}",
+     "For more details, see our guide on \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster\"\u003eother ways of buying tickets and getting information\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/newvisitorcentre_rdax_400x200.gif\",\"alt\":\"New visitor centre\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Enhanced station facilities\"}",
+     "We have worked to make the best use of station space and improve facilities for staff and customers including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"New ticket machine suites at selected stations\",\"Improved staff accommodation\",\"Improved customer information in every station - including maps and signage\",\"Improved retail, shops and restaurants\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving the Tube",
+    "links": [
+     {
+      "title": "What we've done",
+      "url": "/campaign/tube-improvements/what-we-ve-done",
+      "image": {}
+     },
+     {
+      "title": "What we're doing",
+      "url": "/campaign/tube-improvements/what-we-are-doing",
+      "image": {}
+     },
+     {
+      "title": "Improving the trains",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-the-trains",
+      "image": {}
+     },
+     {
+      "title": "Improving customer service",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-customer-service",
+      "image": {}
+     },
+     {
+      "title": "Minimising disruption",
+      "url": "/campaign/tube-improvements/what-we-are-doing/minimising-disruption",
+      "image": {}
+     },
+     {
+      "title": "The Night Tube",
+      "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
+      "image": {}
+     },
+     {
+      "title": "Behind the scenes",
+      "url": "/campaign/tube-improvements/behind-the-scenes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Improving the Tube",
+     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfLTravelAlerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

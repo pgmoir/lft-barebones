@@ -1,0 +1,210 @@
+{
+ "pageTitle": "Manufacturers and fitters",
+ "keywords": "Bus operators,Businesses,Coach drivers,Drivers,Freight industry,Planning and construction,Public,Schools and young people,Suppliers,Buses,Coaches,Driving,TfL",
+ "description": "Manufacturers and fitters must be accredited to offer approved devices and services.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Manufacturers and fitters"
+  }
+ ],
+ "title": {
+  "title": "Manufacturers and fitters",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Manufacturers and fitters must be accredited to offer approved devices and services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting accredited\"}",
+     "Manufacturers of abatement equipment need to get their equipment\n        accredited by one of our recognised\n        certification bodies before it can be added to the list of approved\n        devices available to operators. This ensures that approved filters meet\n        minimum technical standards and that vehicles fitting these\n        approved filters meet the Low Emission Zone (LEZ) emissions standards.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Manufacturers of pollution abatement equipment in Great Britain\"}",
+     "It is the responsibility of manufacturers and suppliers to certify their pollution abatement equipment.",
+     "Pollution abatement equipment can be added to the Low Emissions\n        Certificate (LEC) Approved Devices List if evidence is provided to one\n        of our recognised certification bodies that it meets reduced emissions\n        requirements.",
+     "Certified abatement equipment can also be added to the Reduced\n        Pollution Certificate (RPC) Approved Devices List if evidence is\n        provided to the Vehicle Certification Agency that it meets all scheme\n        requirements.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LEC approved device list\",\"url\":\"/ruc-cdn/static/cms/documents/lec-approved-device-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 47KB\",\"image\":{}},{\"title\":\"LEC guidance notes for applicants\",\"url\":\"/ruc-cdn/static/cms/documents/lec-guidance-notes-for-applicants.pdf\",\"icon\":\"download\",\"size\":\"PDF 113KB\",\"image\":{}},{\"title\":\"LEC technical requirements for manufacturers\",\"url\":\"/ruc-cdn/static/cms/documents/lec-technical-requirements-for-manufacturers.pdf\",\"icon\":\"download\",\"size\":\"PDF 145KB\",\"image\":{}},{\"title\":\"LEC certification body application form\",\"url\":\"/ruc-cdn/static/cms/documents/lec-certification-body-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 87KB\",\"image\":{}},{\"title\":\"LEC company approval guidance notes\",\"url\":\"/ruc-cdn/static/cms/documents/lec-company-approval-guidance-notes.pdf\",\"icon\":\"download\",\"size\":\"PDF 115KB\",\"image\":{}},{\"title\":\"LEC general approval checklist\",\"url\":\"/ruc-cdn/static/cms/documents/lec-general-approval-checklist.pdf\",\"icon\":\"download\",\"size\":\"PDF 102KB\",\"image\":{}},{\"title\":\"TfL-appointed LEC certification bodies\",\"url\":\"/ruc-cdn/static/cms/documents/list-of-tfl-recognised-lec-certification-bodies.pdf\",\"icon\":\"download\",\"size\":\"PDF 15KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Manufacturers of pollution abatement equipment outside Great Britain\"}",
+     "Vehicles not registered in Great Britain and fitted with abatement\n        equipment may register with us providing evidence that they meet the\n        required emissions standards for particulate matter (PM).",
+     "We will require evidence of the equipment fitted to the vehicle, and\n        the resulting emissions levels for PM. This evidence\n        will be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The vehicle registration documents\",\"A declaration of fitting of the pollution abatement equipment. This\\n            must clearly identify the equipment fitted, the vehicle details and the PM emissions standard achieved, together with the national type\\n            approval or certification authority which has certified the emissions\\n            achieved\"]}",
+     "Manufacturers are advised to contact us if they are uncertain as to\n        whether their device meets LEZ emissions standards."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

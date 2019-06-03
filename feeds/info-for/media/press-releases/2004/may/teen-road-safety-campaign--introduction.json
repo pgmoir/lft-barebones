@@ -1,0 +1,68 @@
+{
+ "description": "'Don't die before you've lived' TfL's hard hitting posters and TV advertising campaigns aims to reduce the number of teenagers killed or seriously injured on London's roads. The overall theme for the campaign is 'don't die before you've lived', follows",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Teen Road Safety Campaign : Introduction",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "TfL has launched a new hard hitting new TV advert to support their advertising campaign to reduce the number of teenagers killed or seriously injured on London's roads."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"'Don't die before you've lived'\"}",
+     "TfL's hard hitting posters and TV advertising campaigns aims to reduce the number of teenagers killed or seriously injured on London's roads. The overall theme for the campaign is 'don't die before you've lived', follows successful young people on their way to stardom. However their lives are ended by road accidents before they even get the opportunity to experience the celebrity world.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Boys 11-14 most at risk\"}",
+     "Analysis shows, that in London, boys aged between 11-14 are at most risk from being hit by a vehicle when crossing roads. Children from low income and ethnic minority backgrounds are also particularly vulnerable. Approximately a quarter of all teenage pedestrian casualties occur on the way to or from school. Peer group pressure, mobile phones, texting and the use of personal stereos can easily distract young road users. Other activities including ball games, rollerblading and skateboarding on the street can also lead to serious accidents involving teenagers and traffic.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"717 young pedestrians involved in accidents in London in 2003\"}",
+     "Although the number of incidents involving this road user group has been in gradual decline since 2001, last year 717 young people were involved in pedestrian road accidents in London. Many of these accidents could have been avoided if the victim had been more aware of the risks associated with London's roads.\u003cbr /\u003eYoung people should take extra care and pay more attention when near or using roads.\u003cbr /\u003eThe new advert will support current road safety initiatives in schools across the capital, and hits the small screen this month. There also are plans to roll it out to cinemas over the summer holidays to reach even more young people.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

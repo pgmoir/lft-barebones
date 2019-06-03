@@ -1,0 +1,20 @@
+<% if (breadcrumbs) { %>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb flex-nowrap">
+      <% for (var i = 0; i < breadcrumbs.length; i++) { %>
+      <% if (i < breadcrumbs.length - 1) { %>
+      <li class="breadcrumb-item text-truncate"><a href="<%= breadcrumbs[i].url %>"><%= breadcrumbs[i].title %></a></li>
+      <% } else { %>
+      <li class="breadcrumb-item text-truncate active" aria-current="page"><%= breadcrumbs[i].title %></li>
+      <% } %>
+      <% } %>
+    </ol>
+  </nav>
+<% } else { %>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb flex-nowrap">
+      <li class="breadcrumb-item text-truncate"><a href="/">Home</a></li>
+      <li class="breadcrumb-item text-truncate active" aria-current="page"><%= pageTitle %></li>
+    </ol>
+  </nav>
+<% } %>

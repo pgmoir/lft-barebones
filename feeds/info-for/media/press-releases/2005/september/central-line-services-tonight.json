@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Central line services tonight",
+ "description": "Following a line train radio failure earlier this afternoon, Central line services have been severely disrupted throughout the day but have now resumed to all destinations.While the line train radio fault has now been repaired, passengers should continue",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Central line services tonight",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) has issued the following important travel advice to Central line passengers this evening."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Passengers are advised to allow extra time for their journeys",
+     "Following a line train radio failure earlier this afternoon, Central line services have been severely disrupted throughout the day but have now resumed to all destinations.",
+     "While the line train radio fault has now been repaired, passengers should continue to expect delays on the Central line throughout the evening peak.",
+     "LU passengers travelling on the Central line between Liverpool Street and Ealing Broadway/West Ruislip this evening are advised to allow extra time for their journeys.",
+     "\u003cstrong\u003eAlternative travel arrangements\u003c/strong\u003e ",
+     "To support Central line services, a special bus service will be in operation until 1900 hours between Northholt and Rayners Lane to connect with Piccadilly line services, and between North Acton and Willesden Junction to connect with Bakerloo line services.\u003cbr /\u003e\u003cbr /\u003eValid Underground tickets will be accepted on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Chiltern Railways between West Ruislip and London Marylebone\",\"First Great Western Link between Greenford and London Paddington\",\"London Buses between Liverpool Street and Ealing Broadway/West Ruislip\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

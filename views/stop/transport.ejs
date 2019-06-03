@@ -1,0 +1,10 @@
+<% if (transport) { %>
+  <div class="mb-3">
+    <h3 class="h5 p-3 bg-basic mb-0 border">Other transport options</h3>
+    <div class="row mx-0 border border-top-0">
+      <div class="col-12 p-0">
+        <%- include('../includes/listgroup', { card: { style: 'nocardsquare', links: transport.options }}) %>
+      </div>
+    </div>
+  </div>
+<% } %>

@@ -1,0 +1,53 @@
+{
+ "pageTitle": "Make a scrappage enquiry",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Make a scrappage enquiry"
+  }
+ ],
+ "title": {
+  "title": "Make a scrappage enquiry",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your message has been sent\"}",
+     "We aim to respond within 10 working days.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens next?\"}",
+     "We'll let you know if we need more information or if our reply will be delayed.",
+     "If your initial application has been successful we'll email you with next steps - don't take any further action until you hear from us. Don't make arrangements for your vehicle(s) to be scrapped until we confirm that they are eligible for the scheme.",
+     "To upload any documents that we ask for, return to the \u003ca href=\"/modes/driving/ultra-low-emission-zone/scrappage-scheme\"\u003eScrappage scheme page\u003c/a\u003e and make another enquiry. Quote the reference number above."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

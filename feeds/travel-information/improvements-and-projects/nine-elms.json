@@ -1,0 +1,112 @@
+{
+ "pageTitle": "Nine Elms",
+ "keywords": "N,Wandsworth,Consultation,Roads,Streetscape,Driving,Cycling ,Driving ,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Nine Elms"
+  }
+ ],
+ "title": {
+  "title": "Nine Elms",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are doing work over a 2.5km stretch of Nine Elms Lane and Battersea Park Road (A3205) up to 2021 to support the regeneration of the area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Nine Elms is in a designated regeneration area with approximately 40 major development sites aimed at constructing 20,000 new homes and creating 25,000 new jobs between now and 2030. Find out more on the \u003ca href=\"http://nineelmslondon.com/\"\u003eNine Elms London website\u003c/a\u003e .",
+     "The programme is being developed with the borough of Wandsworth, Nine Elms Vauxhall Partnership and developers. Our proposed changes would support major developments in the area - improving conditions for pedestrians, cyclists and bus passengers, as well as making the area more pleasant and characterful.",
+     "Other schemes in the area include the \u003ca href=\"/travel-information/improvements-and-projects/northern-line-extension\"\u003eNorthern line extension\u003c/a\u003e and \u003ca href=\"/travel-information/improvements-and-projects/vauxhall-gyratory\"\u003eVauxhall Cross gyratory\u003c/a\u003e .",
+     "We will coordinate with these schemes, developers along the corridor and other construction works to minimise the impact of the work.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we are planning\"}",
+     "We propose a complete redesign of the road layout on Nine Elms Lane and the eastern part of Battersea Park Road to improve it for pedestrians, cyclists and bus users. It will also allow for the future growth of the area.",
+     "We consulted on our proposed changes in summer 2017. The consultation report and our response to issues raised, including next steps, is now on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/nine-elms-lane/?cid=nine-elms-lane\"\u003eNine Elms Lane and Battersea Park Road consultation page\u003c/a\u003e .",
+     "Subject to securing the necessary technical and governance approvals, work on the scheme is likely to take place between 2020 and 2021.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Completed work\"}",
+     "More than 40 temporary signs were installed in 2016 to highlight the presence of cyclists and large number of HGVs in the area while construction is going on. Alternative cycling routes are shown.",
+     "In summer 2017 we finished interim works to improve facilities for cyclists and pedestrians. Development works continue in the area.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cycling:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"An area of separation created to protect cyclists on a bend in the run up to the junction of Nine Elms Lane and Wandsworth Road\",\"Advanced Stop Lines extended to 7.5 metres deep\",\"All advisory cycle lanes upgraded to mandatory cycle lanes\",\"HGVs removed from bus lanes at all times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pedestrians:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Footways repaved in some places\",\"Seating area near Thessaly Road improved\",\"Design work to investigate a permanent crossing point between Cringle Street and Ponton Road\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Public areas:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"New plants added to the central reservation planters outside Riverside Court\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Roads:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A new yellow box junction installed next to Havelock Terrace\",\"Areas resurfaced along the corridor\",\"Lane markings repainted where necessary\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/nine-elms-regeneration.jpg\",\"alt\":\"Future view of Nine Elms\"},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on the site",
+    "links": [
+     {
+      "title": "Northern line extension",
+      "url": "/travel-information/improvements-and-projects/northern-line-extension",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

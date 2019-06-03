@@ -1,0 +1,119 @@
+{
+ "pageTitle": "Wi-Fi data collection",
+ "keywords": "TfL",
+ "description": "How and why TfL collects Wi-Fi connection data from devices signed up to use the Wi-Fi available at London Underground stations",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "Wi-Fi data collection"
+  }
+ ],
+ "title": {
+  "title": "Wi-Fi data collection",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page explains how and why TfL collects Wi-Fi connection data from mobile devices at London Underground stations.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Wi-Fi connection data can provide us with a far better understanding of how customers move through stations. It  is not used to identify specific individuals or monitor browsing activity.",
+     "TfL has partnered with Virgin Media to bring free Wi-Fi access to 97% of London Underground stations, giving customers internet access. \u003ca href=\"/campaign/station-wifi\"\u003eFind out more about station Wi-Fi\u003c/a\u003e .",
+     "We are putting up signs at every station explaining the Wi-Fi data collection that is taking place and how to opt-out.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What Wi-Fi connection data is\"}",
+     "When a device such as a smartphone or tablet has Wi-Fi enabled, the device will continually search for a Wi-Fi network to connect to. When searching for a Wi-Fi network, the device sends out a probing request which contains an identifying number specific to that device known as a Media Access Control (MAC) address.This is what we mean by 'Wi-Fi connection data'.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we collect it\"}",
+     "If the device finds a Wi-Fi network that is known to the device, it will automatically connect to that network. If the device finds unknown networks, it will list these in your device settings so you can decide whether to connect to one of them.",
+     "When you are near one of our station Wi-Fi access points (installed on TfL privately-owned property) and you have Wi-Fi enabled, your device will send a probing request to connect. This will be received by our Wi-Fi network, even if your device does not subsequently connect.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we make sure we can't identify people\"}",
+     "We will not be able to identify any individuals from the data collected. We have designed the process to avoid identifying individuals because we are trying to understand how customers as a whole use the network, not how specific individuals use it.",
+     "All data collected is automatically de-depersonalised, using a one-way pseudonymisation process to ensure TfL is unable to identify any individual. This happens immediately after the data is first collected.",
+     "Pseudonymisation is the process of distinguishing individuals in a dataset by using a unique identifier that does not reveal their 'real world' identity. This is a way of protecting people's privacy in accordance with the \u003ca href=\"https://ico.org.uk/media/1061/anonymisation-code.pdf\"\u003eInformation Commissioner's Anonymisation Code of Practice\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we process it and how to prevent processing\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Un-authenticated devices\"}",
+     "If your device has not signed up to use the free Wi-Fi provided on the London Underground network, it's an 'un-authenticated device'.",
+     "When your device sends a probing request, it will contain a MAC address. Most modern devices send out a randomly generated MAC address to prevent unknown routers identifying the device.",
+     "We will not process un-authenticated devices for the purposes described below. We will remove un-authenticated devices from the data that we will be analysing as soon as possible after receipt.",
+     "If you would like to stop your device from sending out probing requests, you can turn off Wi-Fi on your device, turn your device off or put the device into airplane mode while at our stations.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Authenticated devices\"}",
+     "If the device has been signed up for free Wi-Fi on the London Underground network, the device will disclose its genuine MAC address. This is known as an authenticated device.",
+     "The following processing only relates to authenticated devices.",
+     "We process authenticated device MAC address connections (along with the date and time the device authenticated with the Wi-Fi network and the location of each router the device connected to). This helps us to better understand how customers move through and between stations - we look at how long it took for a device to travel between stations, the routes the device took and waiting times at busy periods.",
+     "We do not collect any other data generated by your device. This includes web browsing data and data from website cookies.",
+     "You can choose to de-register your device from using Wi-Fi. Alternatively you can turn off Wi-Fi on your device, turn your device off or put the device into airplane mode while at our stations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why TfL is doing this\"}",
+     "In 2016, TfL carried out a pilot collection of depersonalised Wi-Fi connection data from devices using the station Wi-Fi at 54 Tube stations in central London. We found that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Wi-Fi data can help to understand the paths people take in stations, the platforms and lines they use, the routes they take when they have many options and the interchanges they make\",\"Aggregated data can show which sections of the network are crowded, at what times and how this changes in response to events and network alterations\",\"Data can be used with analytical tools and services to improve the way we run and plan our network, and provide customers with more detailed information\"]}",
+     " \u003ca href=\"/corporate/publications-and-reports/wifi-data-collection\"\u003eFind out more about the pilot and our findings\u003c/a\u003e .",
+     "We want to use technology to provide better information to our customers. Wi-Fi connection data can give us a better understanding of crowding and collective travel patterns so we can improve services and information for customers. We expect the benefits to be as follows.",
+     "{\"template\":\"bulletlist\",\"items\":[\"We will be able to give customers better information to help them plan their journeys and avoid congestion. For example, we plan to use aggregated Wi-Fi connection data to show the relative 'busy-ness' of London Underground stations, in near real time.  We will make this available on our website\",\"We will be able to manage disruptions and events more effectively, deploy staff to best meet customer needs and ensure a safe environment\",\"We will be able to make better transport planning decisions - for example about timetables, station designs and major station upgrades\",\"By understanding how many customers we have and how they move around stations we will be able to maximise revenue from the companies which advertise on our poster sites and those who rent retail units on our property. This money can be invested in improving our services\"]}",
+     "Oyster and Contactless Payment Card ticketing data helps us understand where customers enter and exit the London Underground network (as well as any intermediate validations). But it does not tell us the platforms and lines they are using, the stations they interchange at or how they navigate around our stations. The nature of the Tube network means that people can take many different options for their journeys.",
+     "TfL has previously used paper surveys - but these are expensive, only provide a snapshot of travel patterns on the day of survey and are unable to provide a continuous flow of information. Depersonalised Wi-Fi connection data provides more accurate real time information for improving our services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Legal basis for using this information\"}",
+     "Under privacy and data protection legislation, TfL is only allowed to use personal information if we have a proper reason or 'legal basis' to do so. In the case of Wi-Fi connection data, our 'legal ground' for processing this data is:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Our statutory and public functionsul\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Data protection impact assessments\"}",
+     "To ensure our approach to the collection of Wi-Fi connection data is appropriate, we completed two data protection impact assessments. We carried out an assessment for the pilot and a new assessment before we began collecting depersonalised Wi-Fi data from all stations with free Wi-Fi. Both assessments followed our formal TfL governance and project management processes.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Data protection impact assessment for routine Wi-Fi connection data collection\",\"url\":\"/cdn/static/cms/documents/data-protection-impact-assessment-routine-collection.pdf\",\"icon\":\"download\",\"size\":\"PDF 290KB\",\"image\":{}},{\"title\":\"Data protection impact assessment for pilot Wi-Fi connection data collection\",\"url\":\"/cdn/static/cms/documents/data-protection-impact-assessment-pilot.pdf\",\"icon\":\"download\",\"size\":\"PDF 328KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Length of time we keep Wi-Fi connection data\"}",
+     "TfL will retain any data collected in line with its data retention policies. This means that we will not hold information for longer than is necessary for the purposes we obtained it for. Depersonalised Wi-Fi connection data will be held for two years. When this retention period is over, the data will be aggregated. Aggregation ensures that individual depersonalised data is not held for more than two years.",
+     "The exact parameters of the aggregation are still to be confirmed, but will result in the individual Wi-Fi connection data being removed. Instead, we will retain counts of activities grouped into specific time periods and locations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping information secure\"}",
+     "We take the privacy of our customers very seriously. A range of policies, processes and technical measures are in place to control and safeguard access to, and use of, Wi-Fi connection data. Anyone with access to this data must complete TfL's privacy and data protection training every year.",
+     "Each MAC address is automatically depersonalised (pseudonymised) and encrypted to prevent the identification of the original MAC address and associated device. The data is stored in a restricted area of a secure location and it will not be linked to any other data at a device level.  At no time does TfL store a device's original MAC address.",
+     "We also publish \u003ca href=\"/corporate/privacy-and-cookies/protect-your-data\"\u003eguidance\u003c/a\u003e on the steps you can take to protect your personal information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sharing information\"}",
+     "Individual depersonalised device Wi-Fi connection data is accessible only to a controlled group of TfL employees.  Aggregated data developed by combining depersonalised data from many devices may be shared with other TfL departments and external bodies.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your information rights\"}",
+     "We use a one-way pseudonymisation process to depersonalise the data immediately after it is collected. This means we will not be able to single out a specific person's device, or identify you and the data generated by your device.",
+     "This means that we are unable to respond to any requests to access the Wi-Fi data generated by your device, or for data to be deleted, rectified or restricted from further processing. Please refer to the guidance above on how to choose not to provide your device's Wi-Fi connection data.",
+     "The TfL Privacy and Data Protection team consider and coordinate responses to requests and complaints from people whose personal data is processed by TfL and its subsidiary companies. You can contact the Data Protection Officer by email at dpo@tfl.gov.uk or by writing to:\u003cbr /\u003eData Protection Officer\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon\u003cbr /\u003eSW1H 0BD",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this page\"}",
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. This page was last updated in May 2019."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

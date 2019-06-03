@@ -1,0 +1,153 @@
+{
+ "pageTitle": "Lane rental scheme",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning \u0026 construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Lane rental scheme"
+  }
+ ],
+ "title": {
+  "title": "Lane rental scheme",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The TfL Lane Rental Scheme (TLRS) was introduced in June 2012. The TLRS applies to the most traffic-sensitive locations and the most traffic-sensitive times of day. It applies to 56% of the Transport for London Road Network (TLRN). The scheme is in place to incentivise behaviour change and minimise highway occupation, by applying a daily charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reference documents\"}",
+     "The documents below provide further details on the scheme as well as the applicable locations;",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lane rental scheme order\",\"url\":\"/cdn/static/cms/documents/the-street-works-charges-for-occupation-of-the-highway-transport-for-london-order-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 0KB\",\"image\":{}},{\"title\":\"Lane rental scheme document\",\"url\":\"/cdn/static/cms/documents/tfl-lane-rental-scheme-document-tlrs.pdf\",\"icon\":\"download\",\"size\":\"PDF 243KB\",\"image\":{}},{\"title\":\"Schedule of lane rental locations (Word format)\",\"url\":\"/cdn/static/cms/documents/tfl-lane-rental-scheme-schedule-of-locations-01042018..doc\",\"icon\":\"download\",\"size\":\".DOC 1.07MB\",\"image\":{}},{\"title\":\"Schedule of lane rental locations (PDF format)\",\"url\":\"/cdn/static/cms/documents/tfl-lane-rental-scheme-schedule-of-locations-01042018..pdf\",\"icon\":\"download\",\"size\":\".PDF 840KB\",\"image\":{}},{\"title\":\"GIS files in ESRI format\",\"url\":\"/cdn/static/cms/documents/tlrs-lane-rental-01042018-esri.zip\",\"icon\":\"download\",\"size\":\"ZIP 416KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The two ZIP downloads above contain GIS files in TAB and ESRI format. The files can be used to upload the spatial representation of lane rental locations into most mapping systems. Please note that this files should only be downloaded via desktop computers.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lane rental borough maps\"}",
+     "Maps of the lane rental locations within each borough have been produced as a visual aid.",
+     "Download individual borough maps in PDF format.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Supplementary guidance\"}",
+     "The purpose of the supplementary guidance document below is to provide clarity on certain areas and questions relating to the TLRS that have arisen since the scheme went live in June 2012.",
+     "If you wish to apply for a reduction or waiver in relation to this document, please complete the Apply to waive/reduce/exempt charges form below and return it to \u003ca href=\"mailto:PLaneRentalQueries@tfl.gov.uk\"\u003eLaneRentalQueries@tfl.gov.uk\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Supplementary guidance\",\"url\":\"/cdn/static/cms/documents/tlrs-supplementary-guidance....pdf\",\"icon\":\"download\",\"size\":\"...PDF 469KB\",\"image\":{}},{\"title\":\"Apply to waive/reduce/exempt charges\",\"url\":\"/cdn/static/cms/documents/application-to-waive-reduce-or-exempt-charges...doc\",\"icon\":\"download\",\"size\":\"..DOC 64KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Monitoring reports\"}",
+     "The reports listed below provide information on the impacts of the scheme since it was implemented",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lane rental monitoring report April 2017 to March 2018\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-apr-2017-mar-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.60MB\",\"image\":{}},{\"title\":\"Lane rental monitoring report April 2016 to March 2017\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-apr-2016-mar-2017..pdf\",\"icon\":\"download\",\"size\":\".PDF 2.84MB\",\"image\":{}},{\"title\":\"Lane rental benefits report November 2016\",\"url\":\"/cdn/static/cms/documents/lane-rental-benefits-report-november-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.27MB\",\"image\":{}},{\"title\":\"Lane rental monitoring report April 2015 to March 2016\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-apr-2015-mar-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.70MB\",\"image\":{}},{\"title\":\"Lane rental monitoring report July 2014 to March 2015\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-july-2014-mar-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.37MB\",\"image\":{}},{\"title\":\"Lane rental monitoring report October 2013 to June 2014\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-oct-2013-jun-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 524KB\",\"image\":{}},{\"title\":\"Lane rental monitoring report October 2012 to September 2013\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-oct-2012-sep-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.01MB\",\"image\":{}},{\"title\":\"Lane rental monitoring report October 2012 to March 2013\",\"url\":\"/cdn/static/cms/documents/lane-rental-monitoring-report-oct-2012-mar-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 616KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lane Rental Governance Committee (LRGC)\"}",
+     "A Lane Rental Governance Committee (LRGC) has been established to manage surplus income generated from the Lane Rental scheme by ensuring that expenditure is in accordance with Department for Transport regulations.",
+     "The committee is made up of representatives from utility companies and TfL, and meet quarterly to authorise funding requests for individual projects aimed at reducing disruption and other adverse effects caused by street and roadworks.",
+     "More information relating to the committee can be found within the \u003ca href=\"/cdn/static/cms/documents/lrgc-terms-of-reference.pdf\"\u003eTerms of Reference (PDF 208KB)\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lane rental funding applications, guidance and templates\"}",
+     "The documents below are provided to assist applicants through the process of applying for funding.",
+     "For any queries in relation to applications for funding please email \u003ca href=\"mailto:LaneRentalFunding@TfL.gov.uk\"\u003eLaneRentalFunding@TfL.gov.uk\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lane rental funding questions and answers\",\"url\":\"/cdn/static/cms/documents/lane-rental-funding-questions-and-answers.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.00MB\",\"image\":{}},{\"title\":\"Guidance for lane rental funding applications\",\"url\":\"/cdn/static/cms/documents/lane-rental-funding-application-guidance-v5.pdf\",\"icon\":\"download\",\"size\":\"PDF 856KB\",\"image\":{}},{\"title\":\"Full governance committee lane rental funding application form\",\"url\":\"/cdn/static/cms/documents/lrgc-funding-application-form4.2...docx\",\"icon\":\"download\",\"size\":\"2...DOCX 1.29MB\",\"image\":{}},{\"title\":\"Fast track lane rental funding application form\",\"url\":\"/cdn/static/cms/documents/fast-track-application-form-final-v1..docx\",\"icon\":\"download\",\"size\":\".DOCX 1.28MB\",\"image\":{}},{\"title\":\"Extraordinary measure lane rental funding application form\",\"url\":\"/cdn/static/cms/documents/extraordinary-measure-application-form-final-v1..docx\",\"icon\":\"download\",\"size\":\".DOCX 1.28MB\",\"image\":{}},{\"title\":\"Governance committee meeting dates and submission deadlines\",\"url\":\"/cdn/static/cms/documents/lrgc-schedule-of-dates-dec-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 48KB\",\"image\":{}},{\"title\":\"Project delivery milestone template\",\"url\":\"/cdn/static/cms/documents/lrgc-project-delivery-milestones.doc\",\"icon\":\"download\",\"size\":\"DOC 198KB\",\"image\":{}},{\"title\":\"Project progress report template\",\"url\":\"/cdn/static/cms/documents/lrgc-project-progress-report-template.docx\",\"icon\":\"download\",\"size\":\"DOCX 128KB\",\"image\":{}},{\"title\":\"Project closure report template\",\"url\":\"/cdn/static/cms/documents/lrgc-project-closure-report-template.docx\",\"icon\":\"download\",\"size\":\"DOCX 128KB\",\"image\":{}},{\"title\":\"Publication report template\",\"url\":\"/cdn/static/cms/documents/lrgc-project-publication-template.docx\",\"icon\":\"download\",\"size\":\"DOCX 1.31MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lane rental funding approved applications\"}",
+     "This document provides a summary of all lane rental funded projects approved by the Lane Rental Governance Committee:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lane rental funded approved applications\",\"url\":\"/cdn/static/cms/documents/lrgc-approved-applications-aug-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.13MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LRGC industry publications\"}",
+     "All projects funded by the Lane Rental Governance Committee are required to provide an industry publication at the close of the project.",
+     "This is to advise stakeholders of the outcomes of the project, lessons learnt and recommendations. Below are the publications from all the projects completed to date:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Inter-agency CCTV video sharing\",\"url\":\"/cdn/static/cms/documents/tfl-cctv-sharing-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.11MB\",\"image\":{}},{\"title\":\"Highway spillage control\",\"url\":\"/cdn/static/cms/documents/tfl-highway-spillage-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.15MB\",\"image\":{}},{\"title\":\"Finchley road extraordinary measures\",\"url\":\"/cdn/static/cms/documents/cadent-finchley-road-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.15MB\",\"image\":{}},{\"title\":\"Playbook external access\",\"url\":\"/cdn/static/cms/documents/tfl-playbook-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.13MB\",\"image\":{}},{\"title\":\"London infrastructure mapping application v2.0\",\"url\":\"/cdn/static/cms/documents/gla-limav2-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.85MB\",\"image\":{}},{\"title\":\"Buried utility and highway infrastructure services (PAS 256)\",\"url\":\"/cdn/static/cms/documents/ice-buried-services-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.28MB\",\"image\":{}},{\"title\":\"Archway gyratory future proofing network\",\"url\":\"/cdn/static/cms/documents/archway-gyratory-ducting-publication-final-update.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.32MB\",\"image\":{}},{\"title\":\"Unmanned sewer inspection robot (SOLO)\",\"url\":\"/cdn/static/cms/documents/twu-solo-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.22MB\",\"image\":{}},{\"title\":\"Bagged material trial\",\"url\":\"/cdn/static/cms/documents/publication-roadmender-bagged-material-trial-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.23MB\",\"image\":{}},{\"title\":\"Utilisation of the tunnelling and underground construction academy (TUCA)\",\"url\":\"/cdn/static/cms/documents/tuca-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.28MB\",\"image\":{}},{\"title\":\"Moving variable messaging signs (taxi top)\",\"url\":\"/cdn/static/cms/documents/vms-taxi-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.23MB\",\"image\":{}},{\"title\":\"Stockwell gyratory future proofing network\",\"url\":\"/cdn/static/cms/documents/stockwell-gyratory-future-proofing-network-publication-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.32MB\",\"image\":{}},{\"title\":\"Elephant and castle - future proofing network\",\"url\":\"/cdn/static/cms/documents/eandcpublication.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.28MB\",\"image\":{}},{\"title\":\"Cycle highway north/south (CS6) - future proofing network\",\"url\":\"/cdn/static/cms/documents/cycle-highway-north-south-publication.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.43MB\",\"image\":{}},{\"title\":\"Joint sealing robot for larger gas mains (CISBOT)\",\"url\":\"/cdn/static/cms/documents/publication-cisbot-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.27MB\",\"image\":{}},{\"title\":\"Cycle highway 5 inner - future proofing network\",\"url\":\"/cdn/static/cms/documents/publication-final-ch5inner.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.24MB\",\"image\":{}},{\"title\":\"London ironworks summit\",\"url\":\"/cdn/static/cms/documents/publication-ironworks-summit-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.19MB\",\"image\":{}},{\"title\":\"A4 Hammersmith flyover - provision of extraordinary measures\",\"url\":\"/cdn/static/cms/documents/publication-lrgc-hfo.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.16MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning \u0026 construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Travel plans",
+      "url": "/info-for/urban-planning-and-construction/travel-plans",
+      "image": {}
+     },
+     {
+      "title": "Highway licences",
+      "url": "/info-for/urban-planning-and-construction/highway-licences",
+      "image": {}
+     },
+     {
+      "title": "Roadworks \u0026 street faults",
+      "url": "/info-for/urban-planning-and-construction/roadworks-and-street-faults",
+      "image": {}
+     },
+     {
+      "title": "London Underground \u0026 rail protection",
+      "url": "/info-for/urban-planning-and-construction/london-underground-and-rail-protection",
+      "image": {}
+     },
+     {
+      "title": "Lane rental scheme",
+      "url": "/info-for/urban-planning-and-construction/lane-rental-scheme",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning \u0026 construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

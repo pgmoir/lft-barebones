@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Confirmation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Confirmation"
+  }
+ ],
+ "title": {
+  "title": "Confirmation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "You will need your account number to sign in. Make note of your individual account number:\u003cstrong\u003e{0}\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Save vehicles to your account\"}",
+     "You can make future payments more quickly if you save vehicles to your London Road User Charging account."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

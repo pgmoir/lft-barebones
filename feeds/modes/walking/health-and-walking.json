@@ -1,0 +1,116 @@
+{
+ "pageTitle": "Health and walking",
+ "keywords": "Pedestrians,Public,Walking,TfL",
+ "description": "Information about the benefits of walking",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Health and walking"
+  }
+ ],
+ "title": {
+  "title": "Health and walking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Walking is a great way to stay healthy, see the city and it's probably quicker than you think.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/healthy-streets-2_rdax_400x457.jpg\",\"alt\":\"Healthy Street infographic\"},\"wrapped\":false}",
+     "In London, at least 42% of adults are failing to meet the minimum levels of physical activity needed each week to stay healthy. The good news is that just 2, 10-minute walks a day can change that and improve your health and wellbeing: you'll sleep better, feel more relaxed, and significantly reduce the risk of developing a range of health problems, including Type 2 diabetes, heart disease, some cancers, depression and Alzheimer's disease.",
+     "Using public transport is a great way to build some walking into your day and people who regularly use public transport are more likely to get the activity they need to stay healthy.",
+     "If you want to keep track of your daily walking, use the free One You Active 10 walking app. \u003ca href=\"https://www.nhs.uk/oneyou/active10/home\"\u003eFind out more\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related sites",
+    "links": [
+     {
+      "title": "One You - A Healthier You",
+      "url": "https://www.nhs.uk/oneyou",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

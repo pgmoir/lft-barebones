@@ -1,0 +1,24 @@
+{
+ "pageTitle": "Search",
+ "keywords": "TfL",
+ "description": "Search the TfL website",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "@ViewBag.Title",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

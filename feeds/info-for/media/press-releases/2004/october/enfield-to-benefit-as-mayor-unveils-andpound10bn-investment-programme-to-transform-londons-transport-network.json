@@ -1,0 +1,74 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Enfield to benefit as Mayor unveils £10bn investment programme to transform London's transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Enfield is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Enfield and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Enfield on the move.\"",
+     "The main benefits for Enfield included in TfL's 5 Year Capital Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"£24m of funding to improve the A406 North Circular Road, including a dual two lane environmental and road safety scheme with traffic junction and pedestrian improvements at Bounds Green and mitigation work for rat running, noise and safety in local side roads; and two smaller road safety schemes for Regents Park Road and Golders Green Road;\",\"a number of neglected properties will also be returned to long term beneficial use helping to regenerate an area that has long suffered from the environmental effects of the high volume of traffic on the A406.\"]}",
+     "In addition, the following improvements to Piccadilly Line trains and stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Station refurbishments at Arnos Grove (by 2005); Cockfosters, Oakwood and Southgate between 2007 and 2010.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Enfield's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system and launching new projects.\"",
+     "\"Work undertaken to improve transport in Enfield by Tfl over the past four years, benefiting all Londoners including those with disabilities and the socially excluded, includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor, accessible buses on 27 routes, increased frequencies on 19 routes, the introduction of 3 new routes (377, 382, 491) and 2 new night bus routes (N149, N341);\",\"funding for additional Metropolitan Police Officers and Transport Community Support Officers to reduce crime and fear of crime, improve enforcement and tackle taxi touting;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with Enfield Borough, a range of schemes have implemented including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"improvements to Edmonton Green railway station, resulting in better information and passenger security;\",\"maintenance works to the Lea Valley Road Bridge to strengthen its structure and install a crash barrier;\",\"the provision of cycle and pedestrian crossing facilities at the Bullsmoor Lane and Pasture Gardens junction;\",\"controlled Parking Zones at Enfield Lock and Gordon Hill.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Accredited breakdown discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Accredited breakdown discount"
+  }
+ ],
+ "title": {
+  "title": "Accredited breakdown discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "You can add an unlimited number of vehicles to your discount, up to 50 at a time. You won't have to pay the Congestion Charge for these vehicles.",
+     "There is a £10 registration charge for each vehicle added. The £10 charge must also be paid for every vehicle active on the discount when it is renewed."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

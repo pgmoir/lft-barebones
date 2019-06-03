@@ -1,0 +1,313 @@
+{
+ "keywords": "Businesses,Drivers,Public,Driving,Congestion Charge ,TfL",
+ "description": "Information about the Congestion Charge",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Congestion Charge",
+  "icon": "cc",
+  "card": {
+   "texts": [
+    "The Congestion Charge is an £11.50 daily charge for driving a vehicle within the charging zone\u003cstrong\u003ebetween 07:00 and 18:00, Monday to Friday.\u003c/strong\u003e The easiest way to pay is by setting up Auto Pay. Exemptions and discounts are available too.",
+    "You'll also need to check if your vehicle is affected by the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e ."
+   ],
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "cta",
+    "style": "outline-primary",
+    "link": {
+     "title": "Pay to drive in London",
+     "url": "/modes/driving/pay-to-drive-in-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "cta",
+    "style": "outline-primary",
+    "link": {
+     "title": "Pay a penalty",
+     "url": "/modes/driving/pay-a-pcn",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Charging zone",
+    "texts": [
+     "See if an address or postcode is in the Congestion Charge zone"
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/car-at-congestion-charge-entrance_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Auto Pay",
+    "texts": [
+     "Find out how to save up to £1 a day and avoid a Penalty Charge Notice"
+    ],
+    "link": {
+     "url": "/modes/driving/auto-pay?#autopay",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Penalties and enforcement",
+    "texts": [
+     "If you receive a PCN you can either pay it or challenge it"
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Unofficial selling",
+    "texts": [
+     "Please be aware of unofficial websites selling the Congestion Charge"
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Terms \u0026 conditions",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge publications",
+      "url": "/corporate/publications-and-reports/congestion-charge",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "ULEZ",
+    "texts": [
+     "Find out about the the Ultra Low Emission Zone (ULEZ)"
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/ulez-van-green-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Discounts and exemptions",
+    "texts": [
+     "Find out if you can get a discount or drive in the zone for free"
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Contact us",
+    "texts": [
+     "Find out how to get in touch with the Congestion Charge team"
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Source London",
+    "links": [
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLTrafficNews",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLTrafficNews",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Low Emission Zone",
+      "url": "/modes/driving/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner vehicle checkers",
+      "url": "https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/cleaning-londons-vehicles",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

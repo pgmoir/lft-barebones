@@ -1,0 +1,115 @@
+{
+ "pageTitle": "Environmental, social and governance matters",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Environmental, social and governance matters"
+  }
+ ],
+ "title": {
+  "title": "Environmental, social and governance matters",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Trustee believes that Sustainability and Environmental, Social and Governance (ESG) factors are important when investing the Fund's assets, and should be integrated into the investment process.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The Trustee is a signatory to the UN Principles of Responsible Investing (UNPRI). This is a globally supported sustainability framework and provides a structure through which signatories can assess and develop the integration of ESG criteria into their decision making practices.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Regular sustainability and ESG monitoring\"}",
+     "The Trustee regularly monitors its investment managers' practices in relation to sustainability and ESG. This includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Receiving a Sustainable Investment Report from its investment consultant covering the Fund's public equity managers. This rates the managers in 3 categories:ul\",\"Monitoring the carbon exposure of the underlying portfolios of the Fund's listed equity and bond managers\",\"Monitoring the ESG rating of the underlying portfolios of the Fund's listed equity and bond managers using ESG ratings from a third party provider\",\"Including sustainability and ESG factors in discussions with both current and potential investment managers when they present to the Trustee\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Publications and reports\"}",
+     "Environmental, social and governance reports can be found in our \u003ca href=\"/pensions/news-and-publications/publications\"\u003eNews and publications\u003c/a\u003e section.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Latest report findings\"}",
+     "The last Sustainable Investment Report received by the Trustee identified one equity manager with weaknesses in ESG integration and voting. This was because the manager adopted a mechanistic approach to investing, with a high level of stock turnover. Of the other managers covered, none had any areas rated as a weakness and all but one had at least one area of strength. Two of the managers were rated as strong in all three of the categories listed above.",
+     "The Trustee regularly engages with their investment managers to debate and challenge on ESG issues. It is not the Trustee's role to discuss specific investments but to set a framework for the investment manager to operate within.",
+     "In addition to this, the Fund also invests in some portfolios specifically targeting a sustainable investment theme, such as renewable energy and water and sewerage infrastructure.",
+     "The Sustainable Investment Report will be prepared every 2 years and will then be reviewed by the Trustee."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

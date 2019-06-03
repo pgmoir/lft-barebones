@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Westbourne Grove re-opens to buses",
+ "description": "Bus routes 7, 23, 27, 70 and N7 were diverted during the works and will now return to run along Westbourne Grove while route 36 towards Queens Park will revert to turning directly from Bishop's Bridge Road into Porchester Road. Temporary bus stops erected",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Westbourne Grove re-opens to buses",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Westbourne Grove will re-open to buses on Sunday 10 August. The road has been closed since January 2008 while Thames Water engineering works were carried out."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Bus routes 7, 23, 27, 70 and N7 were diverted during the works and will now return to run along Westbourne Grove while route 36 towards Queens Park will revert to turning directly from Bishop's Bridge Road into Porchester Road.",
+     "Temporary bus stops erected to accommodate the diverted routes on Bishop's Bridge Road will be removed while bus stop P on Queensway will no longer be served by routes 7, 23 and N7.",
+     "Information on local bus stopping arrangements will be available at bus stops and on the Transport for London website.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Westbourne Grove was closed to enable Thames Water to construct a new 1.5 metre diameter sewer in Westbourne Grove and Bishop's Bridge Road as part of a Flood Alleviation Scheme\"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

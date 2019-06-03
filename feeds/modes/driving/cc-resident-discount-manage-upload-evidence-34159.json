@@ -1,0 +1,65 @@
+{
+ "pageTitle": "Upload proof",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Upload proof"
+  }
+ ],
+ "title": {
+  "title": "Upload proof",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "To change the vehicle on your discount you must supply an image or copy of 1 document from this list.",
+     "(If you don't have your proof available yet, send it to us within 40 days. Find out how at the end of this process.)",
+     "Your own private vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your V5C vehicle registration certificate (logbook). (The vehicle must also be registered with the DVLA in your name and at the address you are using to apply for the residents’ discount). When you receive your V5C, you'll need to send it to us - instructions for this will be on the confirmation page\"]}",
+     "Company car:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate and confirm that the vehicle is for your use only. (The vehicle must be registered in the company name with the DVLA)\"]}",
+     "Lease vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicle lease document - this is the document that you signed to lease the vehicle. (The vehicle must be registered in the lease company name with the DVLA)\"]}",
+     "A company car provided by a lease company:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your company’s vehicle lease document (this is the document that you signed to lease the vehicle)\"]}",
+     "AND",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate and confirm that the vehicle is for your use only. (The vehicle must be registered in the company or lease name with the DVLA)\"]}",
+     "All documents must be clear enough to read easily. If we can't read them we may ask you for more proof. This will delay the registration process.",
+     "SKIPEVIDENCE",
+     "You can scan paper documents into your computer, or take photographs of them with your camera, smartphone or tablet. You’ll need to save each file as a .jpg, .jpeg, .tif, .tiff or .pdf.",
+     "Once you have saved your document(s) on your computer/mobile device, click 'Browse' (this may display as 'Choose' or 'Choose File' depending on the web browser you are using) and select the file you want to upload. Remember to double check you have selected the correct file.",
+     "Repeat the process for every document you want to attach. If you make a mistake, you can add or remove files before submitting your application.",
+     "If you're unable to scan or photograph these documents clearly, you can send them directly to us at the address provided at the end of this process."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

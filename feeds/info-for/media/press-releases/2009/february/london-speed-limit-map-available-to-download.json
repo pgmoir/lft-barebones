@@ -1,0 +1,72 @@
+{
+ "pageTitle": "London speed limit map available to download",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London speed limit map available to download",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) today launches the first digital map of the Capital's road speed limits to help drivers keep their driving within the law."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This is about helping motorists make their own, informed decisions about the way they drive",
+     "The digital map, which is available for free download on the TfL website, can be integrated onto satellite Navigation (sat-nav) devices and is aimed at reducing collisions on London's roads.",
+     "This map, once integrated into any sat-nav or Global Positioning System (GPS), will be able to display the current, accurate speed limit to a driver and alert them if they exceed the legal speed limit.",
+     "GPS device manufacturers are being encouraged to take full advantage of this resource which will help to improve road safety in the Capital.",
+     "It is estimated that if everyone used the digital speed map, the number of road collisions could be reduced by 10 per cent.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safer driving\"}",
+     "Chris Lines, Head of TfL's London Road Safety Unit, said, 'This technology will mean drivers know the correct speed limit at all times, which will help them to drive more safely.",
+     "'This is about helping motorists make their own, informed decisions about the way they drive.",
+     "'Some of the sat-nav devices currently on the market can already adopt this new map and we hope other manufacturers will make the necessary adaptations to help make London's roads safer for everyone.'",
+     "{\"template\":\"bulletlist\",\"items\":[\"To download the map, please visit \\u003ca href=\\\"http://www.tfl.gov.uk/isa\\\"\\u003etfl.gov.uk/isa\\u003c/a\\u003e \",\"London's roads are the safest they have been since the 1980s and they are now much safer for children, there has been a 16 per cent fall in the number of children killed or seriously injured in 2007 compared to 2006\",\"In 2008/09, TfL will invest £45m in road safety in London, up from £18m in 2000\",\"In 2007, there was a 38 per cent reduction in the total number of casualties on London's roads, compared to the mid to late 1990s (fatal, serious and slight injuries)\",\"In 2007, there was a 43 per cent reduction in the number of people killed or seriously injured on London's roads, compared to the mid to late 1990s\",\"In 2007, there was a 65 per cent reduction in the number of children killed or seriously injured on London's roads compared to the mid to late 1990s\",\"In 2007, there was a 40 percent reduction in the number of pedestrians killed or seriously injured on London's roads compared to the mid to late 1990s\",\"Ten per cent reductions in road collision: this is based on a study jointly conducted by University of Leeds and Motor Industry Research Association (MIRA). For more details please go to \\u003ca href=\\\"http://www.tfl.gov.uk/assets/downloads/Intelligent-Speed-Adaptation-Literature-Review-and-Scoping-Study-Jan-2006.pdf\\\"\\u003etfl.gov.uk/assets/downloads/Intelligent-Speed-Adaptation-Literature-Review-and-Scoping-Study-Jan-2006.pdf\\u003c/a\\u003e (page 32-33)\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

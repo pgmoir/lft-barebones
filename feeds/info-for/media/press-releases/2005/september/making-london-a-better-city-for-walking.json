@@ -1,0 +1,77 @@
+{
+ "pageTitle": "Making London a better city for walking",
+ "description": "The guide gives planning authorities and developers advice on how to improve walking facilities, and is illustrated with examples of where new developments have improved the walking environment.The document 'Improving Walkability', drafted for TfL by",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Making London a better city for walking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A new guide for local authorities and developers on how to make London a more \"walkable\" city was launched yesterday by Transport for London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The guide gives planning authorities and developers advice on how to improve walking facilities",
+     "The guide gives planning authorities and developers advice on how to improve walking facilities, and is illustrated with examples of where new developments have improved the walking environment.",
+     "The document \"Improving Walkability\", drafted for TfL by Llewelyn Davies Yeang, also provides local authorities with guidance on how to secure funding for improvements to walking facilities.",
+     "The guide will be distributed to all London boroughs and will be made available to developers.",
+     "The guide follows on from TfL's Walking Plan for London, which was developed to support all stakeholders involved in achieving the Mayor's walking vision for London, which seeks to make the Capital one of the world's most walking-friendly cities by 2015.",
+     "Improved waking conditions can lead to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"More journeys being made either fully or in part on foot\",\"Greater use of public transport\",\"Healthier lifestyles\",\"Better social inclusion\",\"A cleaner environment and a more attractive public realm\",\"An improved economy\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"'More rewarding experience'\"}",
+     "Peter Hendy, Managing Director Surface Transport, TfL, said:\u003cbr /\u003e\"TfL is committed to making London one of the world's most walkable cities.",
+     "\"This document builds on the Walking Plan for London, which was published in 2003.",
+     "\"Walking around the Capital helps to bring the city alive both for the individual and for the public as a whole.",
+     "\"London is a wonderful city to explore on foot and this new document will help make it an even more rewarding experience.\"\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Copies of Improving Walkability are available on request\",\"For more information about walking in London, please visit the walking section of \\u003ca href=\\\"/gettingaround/walking/default.aspx\\\"\\u003eTfL's website\\u003c/a\\u003e .\"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

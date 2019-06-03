@@ -1,0 +1,71 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Fare Tariff - PCO Notice 05/04",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Revisions to the taxi tariff, approved by the Transport for London Board on 11 February 04, come into effect from Saturday 3 April 2004. These include a cost of living increase and other changes requested by the taxi trade."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Key points are as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The average Tariff 1 (weekdays 6am-8pm) fare will increase by 2.8% in line with the cost index that takes into account taxi operating costs and increases in national average earnings.\",\"Tariffs 2 and 3 (covering late evenings, nights and weekends) will also increase by an average 2.8% plus an additional 12p per journey, bringing the average increase at these times to about 4%.\",\"£1 extra charge for journeys within London that start at Heathrow Airport.\",\"No change to the minimum fare of £2.\",\"No change to the supplementary charges for Christmas and New Year.\",\"No change to the telephone booking charge of up to £2.\",\"No change to the soiling charge of up to £40.\"]}",
+     "The additional 12p on Tariffs 2 and 3 is in recognition that last April's tariff revision under-compensated drivers working largely during the Tariff 2 and 3 periods for the withdrawal of separate extra charges. 28p was allowed in all tariff periods last year, but subsequent analysis showed the average actually charged during Tariffs 2 and 3 had been higher than this by up to 12p. The extra 12p together with the 28p already included in the fare for every journey undertaken at Tariff 2 and 3 will bring the total compensation in these periods to 40p, equal to the previous charge for one extra passenger.",
+     "The £1 for journeys starting at Heathrow Airport may only be charged on metered journeys within Greater London. The £1 is, in effect, a contribution from customers towards the airport charges incurred by drivers for serving the Heathrow ranks and providing the information and booking desks at the Heathrow terminals. The £1 extra charge will increase the average fare for Heathrow journeys terminating within Greater London by about 3%. Some 1% of licensed taxi journeys start at Heathrow Airport and so the extra charge will increase the London-wide average taxi fare by 0.1%.",
+     "Altogether, these changes will increase the average fare across the whole week by 3.4%, broadly in line with the annual increase in UK average earnings.",
+     "These changes represent a balanced package, which are fair to both drivers and passengers.",
+     "Attached is a table showing example fares under the current and new taxi tariffs. The new fares and tariffs table can be found at \u003ca href=\"http://www.tfl.gov.uk/pco\"lid=\"http://www.tfl.gov.uk/pco\"el=\"http://www.tfl.gov.uk/pco\"\u003ewww.tfl.gov.uk/pco\u003c/a\u003e .",
+     "\u003cstrong\u003eRoy Ellis \u003c/strong\u003e \u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003eExample Fares\u003c/strong\u003e ",
+     "{\"template\":\"table\",\"titles\":[\"Journey\",\"Tariff 1\",\"Tariff 2\",\"Tariff 3\",\"Miles\",\"Current\",\"New\",\"Change\",\"Current\",\"New\",\"Change\",\"Current\",\"New\",\"Change\"],\"rows\":[[],[],[\"Minimum\",\"£2.00\",\"£2.00\",\"0.0%\",\"£2.00\",\"£2.00\",\"0.0%\",\"£2.00\",\"£2.00\",\"0.0%\"],[\"0.5\",\"£2.60\",\"£2.60\",\"0.0%\",\"£2.80\",\"£2.80\",\"0.0%\",\"£3.00\",\"£3.20\",\"6.7%\"],[\"1.0\",\"£3.40\",\"£3.60\",\"5.9%\",\"£3.80\",\"£4.00\",\"5.3%\",\"£4.40\",\"£4.60\",\"4.5%\"],[\"1.5\",\"£4.40\",\"£4.40\",\"0.0%\",\"£5.00\",\"£5.20\",\"4.0%\",\"£5.80\",\"£6.00\",\"3.4%\"],[\"2.0\",\"£5.20\",\"£5.40\",\"3.8%\",\"£6.00\",\"£6.20\",\"3.3%\",\"£7.20\",\"£7.40\",\"2.8%\"],[\"2.5\",\"£6.20\",\"£6.40\",\"3.2%\",\"£7.20\",\"£7.40\",\"2.8%\",\"£8.40\",\"£8.80\",\"4.8%\"],[\"3.0\",\"£7.00\",\"£7.20\",\"2.9%\",\"£8.20\",\"£8.60\",\"4.9%\",\"£9.80\",\"£10.20\",\"4.1%\"],[\"3.5\",\"£8.00\",\"£8.20\",\"2.5%\",\"£9.20\",\"£9.60\",\"4.3%\",\"£11.20\",\"£11.60\",\"3.6%\"],[\"4.0\",\"£8.80\",\"£9.00\",\"2.3%\",\"£10.40\",\"£10.80\",\"3.8%\",\"£12.60\",\"£13.00\",\"3.2%\"],[\"4.5\",\"£9.80\",\"£10.00\",\"2.0%\",\"£11.40\",\"£12.00\",\"5.3%\",\"£13.80\",\"£14.40\",\"4.3%\"],[\"5.0\",\"£10.60\",\"£11.00\",\"3.8%\",\"£12.60\",\"£13.00\",\"3.2%\",\"£15.20\",\"£15.80\",\"3.9%\"],[\"6.0\",\"£12.40\",\"£12.80\",\"3.2%\",\"£14.80\",\"£15.40\",\"4.1%\",\"£18.00\",\"£18.60\",\"3.3%\"],[\"7.0\",\"£15.00\",\"£15.40\",\"2.7%\",\"£17.20\",\"£18.00\",\"4.7%\",\"£20.40\",\"£21.20\",\"3.9%\"],[\"8.0\",\"£17.40\",\"£18.00\",\"3.4%\",\"£19.80\",\"£20.60\",\"4.0%\",\"£23.00\",\"£23.80\",\"3.5%\"],[\"9.0\",\"£20.00\",\"£20.60\",\"3.0%\",\"£22.20\",\"£23.20\",\"4.5%\",\"£25.40\",\"£26.60\",\"4.7%\"],[\"10.0\",\"£22.40\",\"£23.20\",\"3.6%\",\"£24.80\",\"£25.80\",\"4.0%\",\"£28.00\",\"£29.20\",\"4.3%\"],[\"11.0\",\"£25.00\",\"£26.00\",\"4.0%\",\"£27.20\",\"£28.60\",\"5.1%\",\"£30.40\",\"£31.80\",\"4.6%\"],[\"12.0\",\"£27.40\",\"£28.60\",\"4.4%\",\"£29.80\",\"£31.20\",\"4.7%\",\"£32.80\",\"£34.40\",\"4.9%\"],[\"13.0\",\"£30.00\",\"£31.20\",\"4.0%\",\"£32.20\",\"£33.80\",\"5.0%\",\"£35.40\",\"£37.00\",\"4.5%\"],[\"14.0\",\"£32.40\",\"£33.80\",\"4.3%\",\"£34.80\",\"£36.40\",\"4.6%\",\"£37.80\",\"£39.60\",\"4.8%\"],[\"15.0\",\"£35.00\",\"£36.40\",\"4.0%\",\"£37.20\",\"£39.00\",\"4.8%\",\"£40.40\",\"£42.20\",\"4.5%\"],[\"16.0\",\"£37.40\",\"£39.00\",\"4.3%\",\"£39.60\",\"£41.60\",\"5.1%\",\"£42.80\",\"£45.00\",\"5.1%\"],[\"18.0\",\"£42.40\",\"£44.20\",\"4.2%\",\"£44.60\",\"£46.80\",\"4.9%\",\"£47.80\",\"£50.20\",\"5.0%\"],[\"20.0\",\"£47.40\",\"£49.60\",\"4.6%\",\"£49.60\",\"£52.20\",\"5.2%\",\"£52.80\",\"£55.40\",\"4.9%\"]]}",
+     "em"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

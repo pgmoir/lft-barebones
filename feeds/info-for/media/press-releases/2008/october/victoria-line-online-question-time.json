@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Victoria line online question time",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Victoria line online question time",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) passengers will be able to take part in an online question time about the Victoria line, which is undergoing a complete upgrade as part of the Transport for London (TfL) Investment Programme."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Victoria line General Manager, John Doyle will be answering questions with other managers in his team, between 17:00 and 19:00 on the evening of Thursday, 23 October at \u003ca href=\"http://www.tfl.gov.uk/questiontime\"\u003etfl.gov.uk/questiontime\u003c/a\u003e ",
+     "John Doyle said: 'This is a great opportunity for passengers to learn about all the hard work that is going on behind the scenes.",
+     "'The Victoria line opened 40 years ago and now carries 165 million passengers a year.",
+     "'By 2025 it is estimated that passenger numbers will rise to more than 210 million per year.",
+     "'Upgrading the Victoria line - to replace 40-year-old trains and signalling - is one of London Underground's largest investment projects, part of the Transport for London Investment Programme, which is putting billions of pounds into improving and expanding London's transport network.",
+     "'The early evening closures are necessary to allow more time for the upgrade works, to meet the extra passenger demand and provide faster, more reliable journeys.'",
+     "The Victoria line's Performance Managers for Stations Dean Horler and for Trains, Chris Taggart and the Upgrades Delivery Manager Graham White will also be giving answers at the online question time about the Victoria line.",
+     "{\"template\":\"bulletlist\",\"items\":[\"LU is undertaking a major programme of renewal as part of TfL's Investment Programme. This will inevitably result in some disruption for passengers, but TfL is working hard to provide information and alternative travel options. The work is essential to provide for London's growing transport needs now, and into the future.  TfL is urging all Londoners and Tube, London Overground and DLR passengers to \\\"check before you travel\\\" at weekends, allowing extra journey time where necessary. Weekend travel news is available at \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003etfl.gov.uk\\u003c/a\\u003e \\u003cbr /\\u003e\"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

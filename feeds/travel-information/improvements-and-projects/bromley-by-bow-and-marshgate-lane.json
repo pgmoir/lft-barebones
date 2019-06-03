@@ -1,0 +1,88 @@
+{
+ "pageTitle": "Bromley-by-Bow and Marshgate Lane",
+ "keywords": "B,M,Newham,Tower Hamlets,Roads,Cycling,Driving,Walking,TfL",
+ "description": "Our plans would improve transport links around Bromley-by-Bow and Marshgate Lane",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Bromley-by-Bow and Marshgate Lane"
+  }
+ ],
+ "title": {
+  "title": "Bromley-by-Bow and Marshgate Lane",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're working with Tower Hamlets and Newham boroughs and the London Legacy Development Corporation to offer alternatives to car use at Bromley-by-Bow and Marshgate Lane. We aim to hold the next public consultation on our proposals in late 2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Creating attractive, accessible and people-friendly streets will encourage more walking and cycling.",
+     "Local regeneration, growth in housing and the legacy development of the Queen Elizabeth Olympic Park are all expected to change demands on the transport network in Bow and the wider area.",
+     "The proposals for Bromley-by-Bow and Marshgate Lane would:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Make the A12 Blackwall Tunnel Northern Approach easier to cross\",\"Support growth and local businesses by providing better access to new developments\",\"Encourage more walking and cycling\",\"Connect new and existing communities\",\"Create a more liveable place with attractive views, planting and signs\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bromley-by-bow_rdax_400x250.jpg\",\"alt\":\"Bromley-by-Bow - artist's impression\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bromley-by-Bow\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Two signalised junctions on the A12, to the north of Bromley-by-Bow station, would provide access to proposed residential and commercial development to the east of the A12\",\"Vehicles travelling northbound on the A12 would be able to turn right to access these new developments directly, without having to make a U-turn at Bow roundabout\",\"A bus-only link across the A12 would connect Bromley-by-Bow and new developments to the east\",\"Signalised crossings, replacing the existing subway at Three Mill Lane, and improvements to the subway at Bromley-by-Bow station would make crossing the A12 easier and more accessible for pedestrians and cyclists\",\"The proposals would also improve links to the River Lea and the Three Mills heritage and cultural area\",\"A segregated cycle track on the east side of the A12 would help improve access to the local cycle network, including the Lea Valley Towpath and Cycle Superhighway 2\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/marshgate-lane_rdax_400x457.jpg\",\"alt\":\"Marshgate Lane - artist's impression\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Marshgate Lane\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A new link road, connecting Marshgate Lane with Sugarhouse Lane and creating a four-arm junction with A118 Stratford High Street, would allow buses, cyclists and pedestrians to cross the Bow Back River via a new bridge. This will improve access to Pudding Mill Lane station and the Queen Elizabeth Olympic Park\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Public consultation\"}",
+     "We held a public consultation on the proposals at Bromley-by-Bow and Marshgate Lane March-April 2017.",
+     "Our proposals are outlined on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/bromley-by-bow-marshgate-lane/\"\u003eBromley-by-Bow and Marshgate Lane consultation page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

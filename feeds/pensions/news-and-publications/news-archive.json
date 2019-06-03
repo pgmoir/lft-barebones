@@ -1,0 +1,81 @@
+{
+ "pageTitle": "News archive",
+ "keywords": "TfL",
+ "description": "TfL Pension Fund news archive.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "News and publications",
+   "url": "/pensions/news-and-publications"
+  },
+  {
+   "title": "News archive"
+  }
+ ],
+ "title": {
+  "title": "News archive",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2018\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2017\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2016\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2015\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2014\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Nominations for TfL Pension Consultative Council in 2014\",\"url\":\"/cdn/static/cms/documents/pcc-nominations-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 21KB\",\"image\":{}},{\"title\":\"Notice of Extraordinary General Meeting 2014\",\"url\":\"/cdn/static/cms/documents/tflpf-notice-of-egm-march-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 158KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2013\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2012\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2011\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2010\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2009\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2008\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

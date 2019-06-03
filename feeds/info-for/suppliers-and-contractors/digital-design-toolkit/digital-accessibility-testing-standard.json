@@ -1,0 +1,248 @@
+{
+ "pageTitle": "Digital accessibility testing standard",
+ "keywords": "TfL",
+ "description": "Accessibility testing standard for all TfL online services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Digital toolkit",
+   "url": "/info-for/suppliers-and-contractors/digital-toolkit"
+  },
+  {
+   "title": "Testing \u0026 assurance",
+   "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance"
+  },
+  {
+   "title": "Digital accessibility testing standard"
+  }
+ ],
+ "title": {
+  "title": "Digital accessibility testing standard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We want TfL's digital services to be accessible and usable for everyone. As well as meeting the requirements of the Equality Act 2010, all of our online content and services must meet the AA level of the WCAG 2.1 Guidelines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Accessibility testing is carried out during the design and development phases to ensure content and functionality are useful in the real world for users with access needs, over and above the \u003ca href=\"http://www.w3.org/TR/WCAG21/\"\u003eWCAG 2.1 guidelines\u003c/a\u003e .",
+     "We comply with the new \u003ca href=\"https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps\"\u003eAccessibility requirements for public sector websites and apps\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"All public sector websites published after 23 September 2018 must comply with the new government accessibility regulations by 23 September 2019\",\"Existing websites must comply with the regulations by 23 September 2020\",\"Web based or native apps must comply with the regulations by 23 September 2021\"]}",
+     "These standards apply to all desktop, tablet and mobile website, web app and native app experiences.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Requirements\"}",
+     "You must test all new tfl.gov.uk sites and services against the scope defined below, making use of the entry and exit criteria, and scoring defects using the severity criteria.",
+     "Testing must be carried out by a TfL nominated service provider.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Scope\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Validate compliance with WCAG 2.1 Level AA (all new developments)\",\"Expert review and testing with disabled users (annual accessibility audit and major developments, all new developments)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Entry criteria\"}",
+     "Development must include compliancy to WCAG 2.1 Level AA in the definition of done for agile and waterfall product development.",
+     "Development must be at a suitable level for testing.",
+     "The user-testing recruitment spec must include users with a broad range of accessibility issues including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cognitive and learning disabilities such as dyslexia or attention deficit disorders\",\"Visual impairments such as total and partial blindness, colour blindness, poor vision\",\"Auditory disabilities which can also affect language\",\"Motor skill impairments such as those affected by arthritis, strokes, RSI\"]}",
+     "You must include a range of popular assistive devices when carrying out accessibility testing:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Screen readers (eg JAWS, NVDA)\",\"Screen magnifiers (eg Zoom Text, operating system screen magnifiers)\",\"Voice recognition (eg Dragon Naturally Speaking)\",\"Alternative input devices (eg keyboard only, track balls, joysticks)\"]}",
+     "It is preferable for accessibility user-testing to occur in the user's home environment, where their setup may be more accurate.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exit criteria\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Run all tests to completion\",\"Record all compliancy passes and failures\",\"Report on disability testing with suggested fixes and a clear overview of the disabilities and devices tested\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Defects\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sev 1:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Less than 70% of WCAG 2.1 AA checkpoints met extreme inconvenience - will prevent access to sections of the site or the ability to perform required functions\",\"Users cannot use the system\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sev 2:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"70%-90% of WCAG 2.1 AA checkpoints met\",\"Major inconvenience - an issue that affects a central requirement, user can proceed with some limitations - affects some users\",\"Use of the page component or element causes access problems more than 40% of the time (four out of 10 users report the problem)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sev 3:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"90%-95% of WCAG 2.1 AA checkpoints met\",\"Average inconvenience - an issue that affects a non-essential requirement. Could make it difficult for some people to access content and use a page\",\"Use of the page component or element causes access problems more than 10% - 30% of the time\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sev 4:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"95-100% of WCAG 2.1 AA checkpoints met\",\"Minor inconvenience - not likely to prevent anyone from accessing content\",\"Use of the page component or element causes access problems less than 10% of the time\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why we do this\"}",
+     "We carry our accessibility testing to make sure all our sites and services are easy to use and can be accessed by everyone who needs to use them."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Suppliers \u0026 contractors",
+    "links": [
+     {
+      "title": "Become a TfL supplier",
+      "url": "/info-for/suppliers-and-contractors/become-a-supplier",
+      "image": {}
+     },
+     {
+      "title": "Find contract opportunities",
+      "url": "/info-for/suppliers-and-contractors/opportunities",
+      "image": {}
+     },
+     {
+      "title": "Invoicing and getting paid",
+      "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+      "image": {}
+     },
+     {
+      "title": "What we buy",
+      "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Supplier relations",
+      "url": "/info-for/suppliers-and-contractors/supplier-relations",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "image": {}
+     },
+     {
+      "title": "How we work",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/how-we-work",
+      "image": {}
+     },
+     {
+      "title": "Understanding our users",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/understanding-our-users",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 content",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content",
+      "image": {}
+     },
+     {
+      "title": "Technical",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/technical",
+      "image": {}
+     },
+     {
+      "title": "Testing \u0026 assurance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance",
+      "image": {}
+     },
+     {
+      "title": "Digital accessibility testing standard",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-testing-standard",
+      "image": {}
+     },
+     {
+      "title": "Support \u0026 maintenance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/support-and-maintenance",
+      "image": {}
+     },
+     {
+      "title": "Health, safety \u0026 environment",
+      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
+      "image": {}
+     },
+     {
+      "title": "Design standards \u0026 licensing",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "image": {}
+     },
+     {
+      "title": "London Buses tenders",
+      "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+      "image": {}
+     },
+     {
+      "title": "London Service Permits",
+      "url": "/info-for/suppliers-and-contractors/london-service-permits",
+      "image": {}
+     },
+     {
+      "title": "TfL Supplier Awards",
+      "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Suppliers \u0026 contractors",
+     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Digital accessibility standard",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-standard",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "WCAG 2.1 Guidelines",
+      "url": "http://www.w3.org/TR/WCAG21/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "W3C: Making the web accessible",
+      "url": "http://www.w3.org/WAI/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

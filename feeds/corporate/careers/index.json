@@ -1,0 +1,175 @@
+{
+ "pageTitle": "Careers",
+ "keywords": "Public,Jobs,TfL,job, jobs, employment",
+ "description": "Find a career opportunity at TfL",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Careers",
+  "card": {
+   "texts": [
+    "Take a look at job opportunities with us and you may be surprised at what you discover: a rich heritage, a commercial outlook, an iconic brand, a unique public service. It all adds up to make Transport for London a great place to develop your career."
+   ],
+   "link": {
+    "url": "https://tfl.taleo.net/careersection/external/jobsearch.ftl?lang=en",
+    "button": "Search for jobs",
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "template": "video",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Apprenticeships",
+    "texts": [
+     "Kick-start your career working for a world-recognised brand with an ambitious future"
+    ],
+    "link": {
+     "url": "https://careers.tfl.gov.uk",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-apprentices-teaser-700_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Graduates and placements",
+    "texts": [
+     "Find out about our graduate schemes and internships"
+    ],
+    "link": {
+     "url": "/corporate/careers/graduates",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/t001-04091-london-skyline_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Employability toolkit",
+    "texts": [
+     "Get ready for work with our preparation guides to employment"
+    ],
+    "link": {
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/employability-toolkit_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Steps into Work",
+    "texts": [
+     "Are you 16 or older with learning disabilities? This programme could be for you"
+    ],
+    "link": {
+     "url": "/corporate/careers/steps-into-work",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/csa-steps-into-work_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Women in Transport",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "socialmedianotsure",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "pageTitle": "Exemptions",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "Blue Badge holders, motorcyclists and taxi or private hire vehicles have more flexibility on red routes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Exemptions"
+  }
+ ],
+ "title": {
+  "title": "Exemptions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you have a Blue Badge or drive a motorcycle, taxi or private hire vehicle, you'll have more flexibility when using red routes.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Blue Badge holders\"}",
+     "If you have one, you can often park where\n        others can't. Make sure you display your badge. Signs tell you exactly\n        when and where. Always check the sign.",
+     "Loading boxes: Generally for up to three hours\u003cbr /\u003eParking boxes: Generally for as long as you like\u003cbr /\u003eRed lines: You can stop on these to pick up and drop off blue badge holders but you'll need to move on quickly",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and Private Hire\"}",
+     "Always display your licence and exemption sticker. Private hire vehicle owners will now be offered red route exemption stickers at the point of inspection. We will not, under any circumstances, issue a red route sign to an individual whose vehicle is not on site for a licensing inspection.",
+     "You can pick up and drop off passengers on most red routes as long as you display your private hire vehicle (PHV) license. It will tell police, CCTV operators and other road users that you're allowed to do this. It also means that you'll avoid receiving a penalty charge.",
+     "You can't stop on the parts of the red route with a wide red line, pedestrian crossings or zigzags.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bus lanes\"}",
+     "PHVs can also cross bus lanes to gain access to the kerbside to\n        pick up or drop off passengers, but must leave the bus lane straight\n        away.",
+     "In most cases, taxis are permitted to use bus lanes but licensed PHVs\n        are not.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Motorcycles and other vehicles in bus lanes\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Who can use a bus lane?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Motorcycles (without side cars)\",\"Mopeds\",\"Scooters\",\"Tricycles (non-motorised, motorised under 450kg, not with side cars)\",\"Buses which have a minimum of 10 seats (including the driver)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safety\"}",
+     "\u003cstrong\u003eDrivers\u003c/strong\u003e : look out for motorcyclists in bus lanes, especially when turning out of or into a side road.",
+     "\u003cstrong\u003eMotorcyclists, cyclists and pedestrians\u003c/strong\u003e : look out for vehicles turning across bus lanes and remain visible when using bus lanes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

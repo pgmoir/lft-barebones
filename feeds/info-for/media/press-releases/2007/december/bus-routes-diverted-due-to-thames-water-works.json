@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Bus routes diverted due to Thames Water works",
+ "description": "Works are scheduled to take seven months and bus routes 7, 23, 27, 36 and 70 will be on diversion throughout this period. As part of Thames Water's Flood Alleviation Scheme, engineers will build a new 1.5metre diameter sewer underneath Westbourne Grove",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Bus routes diverted due to Thames Water works",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From 5 January 2008, Thames Water will be introducing a Flood Alleviation Scheme at Westbourne Grove, Kensington."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Works are scheduled to take seven months and bus routes 7, 23, 27, 36 and 70 will be on diversion throughout this period.",
+     "As part of Thames Water's Flood Alleviation Scheme, engineers will build a new 1.5metre diameter sewer underneath Westbourne Grove and Bishop's Bridge Road.",
+     "Westbourne Grove will be closed during the planned works.",
+     "A new bus stop will be installed on Bishop's Bridge Road (before Inverness Terrace) and will remain there for the duration of the closure.",
+     "Buses on routes 7, 23, 27, 36, N7 and N36 will serve this stop, starting at 7 a.m. on Sunday 6 January.",
+     "Full details of the diversions will be available on the \u003ca href=\"http://www.tfl.gov.uk\"\u003eTfL website. \u003c/a\u003e ",
+     "Posters advising passengers of the diversions and stopping arrangements will be placed at bus stops along Pembridge Road, Pembridge Villas, Porchester Road and Westbourne Grove.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Routes 7/N7 and 23 towards Ladbroke Grove - will be diverted from Bishop's Bridge Road via Inverness Terrace, Inverness Place, Queensway, Moscow Road, Hereford Road, Dawson Place and Chepstow Place\",\"Routes 7/N7 and 23 towards Paddington - will be diverted via Hereford Road, Princes Square, Garway Road, Princes Square / Porchester Gardens, Queensway and Porchester Road to Bishop's Bridge Road\",\"Route 27 towards Notting Hill Gate - will be diverted via Inverness Terrace and Bayswater Road\",\"Route 27 towards Paddington - will be diverted via Bayswater Road, Queensway and Porchester Road to Bishops Bridge Road.  Pembridge Road and Pembridge Villas will not be served. Passengers on Pembridge Road / Villas can catch routes 28, 31 and 328 to connect with a diverted route (7, 23, 70) at the stop (1261) on Westbourne Grove and change on route 27 at Bishop's Bridge Road\",\"Route 36/N36 towards Royal Oak - will be diverted via Inverness Terrace, Inverness Place, Queensway and Porchester Road. Journeys towards Paddington are not affected\",\"Route 70 towards Ladbroke Grove - will be diverted via Moscow Road, Hereford Road, Dawson Place and Chepstow Place\",\"Route 70 towards Kensington - will be diverted via Hereford Road, Princes Square, Garway Road and Princes Square / Porchester Gardens\",\"All London's buses have in-vehicle CCTV and all except the Heritage Routemasters are accessible to wheelchair users\",\"With over 8000 buses on approximately 700 routes the London bus network has seen usage increase by 45 per cent since 1999/2000\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

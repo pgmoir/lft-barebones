@@ -1,0 +1,48 @@
+
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Social Media share' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Social Media share' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <%- include('../includes/socialmediashare', { pageTitle: 'Pattern Library - Social Media share', fullUrl: 'http://localhost:5000/pattern-library/socialmediashare' }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-9">
+        <%- include('../includes/socialmediashare', { pageTitle: 'Pattern Library - Social Media share', fullUrl: 'http://localhost:5000/pattern-library/socialmediashare' }) %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <%- include('../includes/socialmediashare', { pageTitle: 'Pattern Library - Social Media share', fullUrl: 'http://localhost:5000/pattern-library/socialmediashare' }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/socialmediashare', { pageTitle: 'Pattern Library - Social Media share', fullUrl: 'http://localhost:5000/pattern-library/socialmediashare' }) %>
+      </div>
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/socialmediashare', { pageTitle: 'Pattern Library - Social Media share', fullUrl: 'http://localhost:5000/pattern-library/socialmediashare' }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2"></div>
+      <div class="col-12 col-sm-8">
+        <%- include('../includes/socialmediashare', { pageTitle: 'Pattern Library - Social Media share', fullUrl: 'http://localhost:5000/pattern-library/socialmediashare' }) %>
+      </div>
+      <div class="col-sm-2"></div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-danger">Issue: The fonts need to be bigger for icons.</p>
+        <p class="alert alert-danger">Issue: Some redesign thought is required since this doesn't really need any javascript.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/foot') %>

@@ -1,0 +1,138 @@
+{
+ "pageTitle": "Explore London tickets",
+ "keywords": "TfL",
+ "description": "A page about the new 2-3 way joint and combined River, Emirates and Santander tickets",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "River",
+   "url": "/modes/river/index"
+  },
+  {
+   "title": "Explore London tickets"
+  }
+ ],
+ "title": {
+  "title": "Explore London tickets",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Experience London and the stunning River Thames with our new joint and combined tickets, while saving up to 20%.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/2-3-way-ticket-explore_rdax_400x250.jpg\",\"alt\":\"2-3-way campaign river image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Joint ticket\"}",
+     "Discover London by MBNA Thames Clippers River Bus and Santander Cycles bike with this fantastic joint ticket, all for just £16.70 (20% off the full price).\u003cbr /\u003e\u003cbr /\u003eYou'll enjoy relaxing boat rides along the historic River Thames and exploring the city's cycle ways, quiet streets and parks by bike.\u003cbr /\u003e\u003cbr /\u003eYour ticket includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"An all day hop-on hop-off MBNA Thames Clippers River Roamer ticket\",\"A Santander Cycles promo code which gives you unlimited Santander Cycles rides of up to 30 minutes for 24 hours so you can make the most of exploring London by bike\\u003cbr /\\u003e- Every bike journey up to 30 minutes is free\\u003cbr /\\u003e- Longer journeys cost an extra £2 for each additional 30 minutes (or less) when you hire a bike\"]}",
+     " \u003ca href=\"https://www.thamesclippers.com/whats-on-discounts/explore-london-with-the-mbna-thames-clippers-and-santander-cycles-joint-ticket\"\u003eBook your ticket now\u003c/a\u003e - please note these tickets are sold via the MBNA Thames Clippers website.",
+     " \u003ca href=\"/modes/cycling/santander-cycles/leisure-routes/route-ideas-for-explore-london-ticket-holders\"\u003eSee our suggested day trip routes using your joint ticket\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Combined ticket\"}",
+     "Explore London with Emirates Air Line, MBNA Thames Clippers and Santander Cycles' combined ticket, all for just £25, saving you up to 20%.\u003cbr /\u003e\u003cbr /\u003eYou'll enjoy a breathtaking flight on London's only cable car, scenic boat trips along the River Thames and relaxing bike rides - a lovely way to see London's sights and landmarks.\u003cbr /\u003e\u003cbr /\u003eYour ticket includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"An Emirates Air Line cable car Discovery Experience ticket (this includes a 360 round-trip, in-flight guide and free entry to the Emirates Aviation Experience exhibition)\",\"An all day hop-on hop-off MBNA Thames Clippers River Roamer ticket\",\"A Santander Cycles promo code which gives you unlimited Santander Cycles rides of up to 30 minutes for 24 hours so you can make the most of exploring London by bike\\u003cbr /\\u003e- Every bike journey up to 30 minutes is free\\u003cbr /\\u003e- Longer journeys cost an extra £2 for each additional 30 minutes (or less) when you hire a bike\"]}",
+     " \u003ca href=\"https://www.thamesclippers.com/whats-on-discounts/explore-london-with-the-emirates-air-line-mbna-thames-clippers-and-santander-cycles-combined-ticket\"\u003eBook your ticket now\u003c/a\u003e - please note these tickets are sold via the MBNA Thames Clippers website.",
+     " \u003ca href=\"/modes/cycling/santander-cycles/leisure-routes/route-ideas-for-explore-london-ticket-holders\"\u003eSee our suggested day trip routes using your combined ticket\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "River",
+    "links": [
+     {
+      "title": "About River Bus",
+      "url": "/modes/river/about-river-bus",
+      "image": {}
+     },
+     {
+      "title": "About River Tours",
+      "url": "/modes/river/about-river-tours",
+      "image": {}
+     },
+     {
+      "title": "Woolwich Ferry",
+      "url": "/modes/river/woolwich-ferry",
+      "image": {}
+     },
+     {
+      "title": "The river experience",
+      "url": "/modes/river/the-river-experience",
+      "image": {}
+     },
+     {
+      "title": "Corporate \u0026 private boat hire",
+      "url": "/modes/river/corporate-and-private-boat-hire",
+      "image": {}
+     },
+     {
+      "title": "Explore London tickets",
+      "url": "/modes/river/explore-london-tickets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "River",
+     "url": "/modes/river/explore-london-tickets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Route ideas for Explore London ticket holders",
+      "url": "/modes/cycling/santander-cycles/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

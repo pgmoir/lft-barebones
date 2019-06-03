@@ -1,0 +1,87 @@
+{
+ "pageTitle": "Property partnerships",
+ "keywords": "TfL",
+ "description": "We own around 5,700 acres of land across the Capital including buildings, land attached to Tube stations, railways and highways, making us one of London's largest landowners.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Property partnerships"
+  }
+ ],
+ "title": {
+  "title": "Property partnerships",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We own around 5,700 acres of land across the Capital including buildings, land attached to Tube stations, railways and highways, making us one of London's largest landowners.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/x001-00073-commercial-london_rdax_400x250.jpg\",\"alt\":\"View of the London skyline with an Overground train\"},\"wrapped\":false}",
+     "Our development portfolio includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Listed buildings that offer the opportunity for residential conversion\",\"Mixed use and residential developments over stations and depots\",\"Major regeneration schemes in urban centres\",\"Brownfield developments in inner and outer London\"]}",
+     "We are looking at ambitious and creative ways to make the most of our exceptional commercial estate so we can increase the level of income we receive from our assets.",
+     "Property Partnerships is our main initiative to do this, and involves establishing a framework of partners to develop our assets over a 10-year Business Plan. We have started the process of selecting a small number with whom we can develop long-standing, strategic relationships to deliver our commercial aspirations while enhancing the transport network.",
+     "We envisage taking forward over 50 opportunities (with around 65% within zones 1 and 2) over the next 10 years, with many more coming forward. These sites provide an opportunity to generate revenue while helping us to support the growth of jobs and housing in London.",
+     "Our operating businesses will work alongside the \u003ca href=\"/info-for/business-and-commercial/property-development\"\u003eProperty development\u003c/a\u003e team and our partners to deliver high-quality schemes.",
+     "Watch the video below for further information or see our \u003ca href=\"http://tflportfolio.sirendev.co.uk\"\u003eProperty Partnership opportunities brochure\u003c/a\u003e .",
+     "{\"template\":\"video\",\"style\":\"S8tGcubHBMo\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Next Steps\"}",
+     "The deadline for applying to become one of our development partners via the OJEU process has now passed. This formal European procurement process will conclude with the appointment of development partners towards the end of 2015.",
+     "If you would like to get in contact with us please \u003ca href=\"mailto:customer.services@tube.tfl.gov.uk\"\u003eemail our Property Development team\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

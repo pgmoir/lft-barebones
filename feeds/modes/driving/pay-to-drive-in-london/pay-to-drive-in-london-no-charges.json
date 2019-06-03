@@ -1,0 +1,74 @@
+{
+ "pageTitle": "No charges for this vehicle",
+ "keywords": "TfL",
+ "description": "Based on the information we hold, you don't have to pay any charges to drive this vehicle in London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Pay to drive in London",
+   "url": "/modes/driving/pay-to-drive-in-london"
+  },
+  {
+   "title": "No charges for this vehicle"
+  }
+ ],
+ "title": {
+  "title": "No charges for this vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Based on the information we hold, you don't have to pay any charges to drive this vehicle in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This vehicle either meets the required emission standards, is exempt from the scheme, has a 100% discount or a charge doesn't have to be paid.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from {0}.",
+     "\u003cstrong\u003eThis can change at any time - always check to see if you need to pay to drive within the zone(s).\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the {0} for this vehicle.",
+     "\u003cstrong\u003eThis can change - always check to see if you need to pay to drive within the zone(s).\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today,  you don't have to pay the {0} for this vehicle.",
+     "\u003cstrong\u003eThis can change at any time - always check to see if you need to pay to drive within the zone(s).\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the Congestion Charge.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay any Congestion Charges.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

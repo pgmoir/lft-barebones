@@ -1,0 +1,185 @@
+{
+ "pageTitle": "Arches and industrial",
+ "keywords": "TfL",
+ "description": "Our railway arches and industrial spaces offer unique spaces for your business to thrive",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Our property portfolio",
+   "url": "/info-for/business-and-commercial/our-property-portfolio"
+  },
+  {
+   "title": "Arches and industrial"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Arches and industrial",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/arches.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Our roughly 800 commercial arches across London provide a vibrant mix of industrial, office, leisure and retail spaces that could be a great opportunity for your business. We want to help London businesses grow, in locations across the city."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "image",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "image",
+    "link": {
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/turning-earth_rdax_400x250.jpg",
+     "alt": "Turning Earth studio"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "image",
+    "link": {
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/shoreditch-london-event-venues_rdax_400x250.jpg",
+     "alt": "Shoreditch London venue in arches"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "template": "cta",
+    "style": "outline-primary",
+    "link": {
+     "title": "See all our available space",
+     "url": "https://tfl.completelygroup.com/properties?cat=Industrial",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial properties",
+    "links": [
+     {
+      "title": "Becoming a tenant",
+      "url": "/info-for/business-and-commercial/becoming-a-tenant",
+      "image": {}
+     },
+     {
+      "title": "Managing my property",
+      "url": "/info-for/business-and-commercial/managing-my-property",
+      "image": {}
+     },
+     {
+      "title": "Our property portfolio",
+      "url": "/info-for/business-and-commercial/our-property-portfolio",
+      "image": {}
+     },
+     {
+      "title": "Retail",
+      "url": "/info-for/business-and-commercial/retail",
+      "image": {}
+     },
+     {
+      "title": "Arches and industrial",
+      "url": "/info-for/business-and-commercial/arches-and-industrial",
+      "image": {}
+     },
+     {
+      "title": "Offices",
+      "url": "/info-for/business-and-commercial/offices",
+      "image": {}
+     },
+     {
+      "title": "Pop ups, pitches and more",
+      "url": "/info-for/business-and-commercial/other-opportunities",
+      "image": {}
+     },
+     {
+      "title": "Land enquiries",
+      "url": "/info-for/business-and-commercial/land-enquiries",
+      "image": {}
+     },
+     {
+      "title": "Send us feedback",
+      "url": "/info-for/business-and-commercial/send-us-feedback",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial properties",
+     "url": "/info-for/business-and-commercial/send-us-feedback",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Wood Lane arches",
+      "url": "/travel-information/improvements-and-projects/wood-lane-arches",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "pageTitle": "Glossary",
+ "keywords": "TfL",
+ "description": "These terms are used in WebCAT.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Planning with WebCAT",
+   "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat"
+  },
+  {
+   "title": "Glossary"
+  }
+ ],
+ "title": {
+  "title": "Glossary",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"These terms are used in WebCAT.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003eAccess Index (AI):\u003c/strong\u003e This index is one of the stages in calculating PTAL values. An Access Index value is calculated for each transport service that the PTAL value is composed of (combining walk time and service wait time). The total Access Index for all services is used to derive the PTAL.",
+     "The full calculation method is described in our \u003ca href=\"/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat#connectivity\"\u003econnectivity assessment guide\u003c/a\u003e .",
+     "\u003cstrong\u003eAccessibility:\u003c/strong\u003e This term has been used in the past in two distinct ways - its definition often depends on the accompanying text or context. 'Accessibility' of the transport system often refers to the extent to which the transport system is suitable for people with a range of needs (for example, people with prams and wheelchair users). It may also be used to describe more generally how good the level of transport provision is in different areas.",
+     "This has led to some confusion over the use of the term and that is why WebCAT refers to 'connectivity' to differentiate itself from issues related to physical accessibility.",
+     "\u003cstrong\u003eAM Peak:\u003c/strong\u003e Three-hour morning peak time period from 07:00 to 10:00",
+     "\u003cstrong\u003eAreas for Intensification:\u003c/strong\u003e Areas designated in the London Plan as having significant potential for increased residential, employment and other use development",
+     "\u003cstrong\u003eBase year:\u003c/strong\u003e The base year refers to the public transport network closest to the current state. It is used as a consistent benchmark to compare the current situation with the future network. In WebCAT the PTAL base year is 2015, TIM public transport base year is 2011 and the Cycling base tear is 2014.",
+     "\u003cstrong\u003eBetween Peak Times:\u003c/strong\u003e Six-hour time period between the peak periods from 10:00 to 16:00. This time period is also known as the Inter-Peak.",
+     "\u003cstrong\u003eCatchment:\u003c/strong\u003e In WebCAT, a catchment area contains all the places that can be reached within a specified travel time from a specified place. WebCAT allows the calculation of the population, number of workplaces or various services within catchment areas associated with the scenario chosen.",
+     "\u003cstrong\u003eCensus Output Areas (COAs):\u003c/strong\u003e Created for the output of census estimates. A COA is the lowest geographical level at which census estimates are provided and align to the census zoning hierarchy. Greater London is split into 25,053 zones.",
+     "\u003cstrong\u003eConnectivity:\u003c/strong\u003e In WebCAT the term 'connectivity' is used instead of the more widely used term of 'accessibility' because that usually refers to the physical access to the network. Connectivity describes the ease with which travel is possible from one area to another using measures such as the travel time. WebCAT provides multiple measures of connectivity.",
+     "\u003cstrong\u003eDirection:\u003c/strong\u003e WebCAT allows you to select the direction of travel. This can be TO the point-of-interest or FROM the point-of-interest. The default value used in WebCAT is an AVERAGE of the two.",
+     "\u003cstrong\u003eDistrict centres:\u003c/strong\u003e One of the London town centre categories defined in the London Plan. District centres provide goods and services for local communities. They are accessible by public transport, walking and cycling, and typically contain 10,000-50,000m² of retail floorspace.",
+     "\u003cstrong\u003eEconomically Active Population:\u003c/strong\u003e The number of people that are employed or are actively looking for work. This is derived from the GLA's 2013 round of population forecasts which have been split between TfL's transport model zoning system. WebCAT includes data for the years 2011, 2021 and 2031.",
+     "\u003cstrong\u003eEmployment data:\u003c/strong\u003e Employment data sets are based on the GLA's 2013 round of employment forecasts which have been split between TfL's transport model zoning system.",
+     "The 2013 round of employment forecasts cover a series of five year periods from 2011 to 2041. WebCAT includes data for the years 2011, 2021 and 2031. No breakdown by employment sector is provided in WebCAT.",
+     "\u003cstrong\u003eEquivalent doorstep frequency (EDF):\u003c/strong\u003e PTAL calculation term - the EDF is derived from the Total Access Time and converts the time to a frequency value.",
+     "The full calculation method is described in our \u003ca href=\"/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat#connectivity\"\u003econnectivity assessment guide\u003c/a\u003e .",
+     "\u003cstrong\u003eForecast years:\u003c/strong\u003e Forecast years refer to transport networks and other data sets that have been estimated for the future. Within WebCAT we have forecast outputs for 2021 and 2031. Forecasts are just that - an estimate of what will occur in the future. In WebCAT the forecast public transport networks we use only include funded and committed transport schemes.",
+     "\u003cstrong\u003eFrequency:\u003c/strong\u003e The number of public transport services per hour on a specific route. Frequency is used in the PTAL to calculate the service wait time.",
+     "\u003cstrong\u003eFurther Education:\u003c/strong\u003e An educational institution, eligible to receive public funding through the Learning Skills Council, which deals with the delivery of a full range of full and part-time vocational and academic provision, principally to those above the age of compulsory education. The data is derived from EduBase, a register of educational establishments in England and Wales, maintained by the Department for Education.",
+     "\u003cstrong\u003eGrid:\u003c/strong\u003e A series of points with fixed distances between them. PTAL values in WebCAT are calculated using a grid of points across London at 100m intervals.",
+     "\u003cstrong\u003eHeadway:\u003c/strong\u003e The time between the arrivals of two public transport services with the same stopping pattern. A service with a frequency of 6 vehicles per hour will have headway of 10 minutes.",
+     "\u003cstrong\u003eHouseholds:\u003c/strong\u003e Derived from the GLA's 2013 round of borough population forecasts and based on agreed household sizes. WebCAT includes data for London and London and the South East for 2011, 2021 and 2031. Data outside London is based on the Department for Transport TEMPRO forecast data set.",
+     "\u003cstrong\u003eKey locations:\u003c/strong\u003e These are a series of locations that have been defined in WebCAT as relevant for catchment analysis. The initial data set includes town centres, educational establishments and health related locations. They are used to generate catchment statistics for chosen location, for example how many metropolitan town centres are within 45 minutes travel time of a chosen location.",
+     "\u003cstrong\u003eLondon Plan:\u003c/strong\u003e A document published by the Greater London Authority which contains the overall strategic plan for London, setting out a fully integrated economic, environmental, transport and social framework for the development of the Capital to 2031.",
+     "\u003cstrong\u003eLower Super Output Areas (LSOAs):\u003c/strong\u003e Aggregations of groups of COAs that are used to report census statistics. Like COAs, they align to the census zoning hierarchy. There are 4,835 LSOAs in London.",
+     "\u003cstrong\u003eMajor centres:\u003c/strong\u003e One of the London Town Centre categories defined in the London Plan. These are typically found in inner and some parts of outer London with a borough-wide catchment. They generally contain over 50,000sq m of retail floor space with a relatively high proportion of comparison goods relative to convenience goods. They may also have significant employment, leisure, service and civic functions.",
+     "\u003cstrong\u003eMetropolitan centres:\u003c/strong\u003e One of the London Town Centre categories defined in the London Plan. These serve wide catchments which can extend over several boroughs and into parts of the wider South East region. Contain at least 100,000 sq m of retail floor space with a significant proportion of high-order comparison goods relative to convenience goods. These centres generally have very good connectivity and significant employment, service and leisure functions.",
+     "\u003cstrong\u003eMode:\u003c/strong\u003e WebCAT includes data sets for the following transport modes: All public transport modes including Rail, London Underground, DLR, Bus, Tram; Bus Only; Cycle Only; Step-Free - in WebCAT this is regarded as a separate mode, but is a subset of the full public transport network where routes within stations which are not considered step-free are excluded.",
+     "\u003cstrong\u003eModel:\u003c/strong\u003e Models (or transport models) are computer tools that help us to estimate how the transport network will work and how people will travel both now and in the future.",
+     "\u003cstrong\u003eOpportunity Areas:\u003c/strong\u003e Areas designated in the London Plan as suitable for accommodating large scale development to provide substantial numbers of new employment and housing.",
+     "\u003cstrong\u003ePopulation data:\u003c/strong\u003e This is based on the Greater London Authority's 2013 round of population forecasts which have been split between TfL's transport model zoning system. The GLA forecasts cover a series of five year periods from 2011 to 2041. WebCAT includes results for 2011, 2021 and 2041. The 2011 data set is derived from the 2011 census.",
+     "\u003cstrong\u003ePM  Peak:\u003c/strong\u003e Three hour evening peak travel time period from 16:00 to 19:00",
+     "\u003cstrong\u003ePopulation Pensionable Age:\u003c/strong\u003e This data allows for future increases to the state pension age. It is derived from the GLA's 2013 round of population forecasts which have been split between TfL's transport model zoning system. WebCAT includes data for 2011, 2021 and 2031 and only in London.",
+     "\u003cstrong\u003ePopulation Working Age:\u003c/strong\u003e The number of people of working age. This value allows for future increases to the state pension age.  It is derived from the GLA's 2013 round of population forecasts which have been split between TfL's transport model zoning system. WebCAT includes data for 2011, 2021 and 2031 and only in London.",
+     "\u003cstrong\u003ePrimary Schools:\u003c/strong\u003e Full-time education establishments suitable for junior pupils below the age of 10 year and 6 months. The data is derived from EduBase, a register of educational establishments in England and Wales maintained by the Department for Education.",
+     "\u003cstrong\u003ePTAL:\u003c/strong\u003e Public Transport Access Level is a measure of access to the public transport network. For any given point in London, PTALs combine walk times from a chosen point to the network (stations and bus stops, for example) together with service frequency data at these locations. This provides an overall access index which can be allocated to nine accessibility levels between 0 and 6b. In WebCAT, PTAL values have been pre-calculated for a grid of points covering the whole of London (approximately 150,000 point).",
+     "\u003cstrong\u003eScenario:\u003c/strong\u003e A representation of the public transport network including definitions of modes, routes, and frequencies for a specific year and time period.",
+     "\u003cstrong\u003eStandard Waiting Time (SWT):\u003c/strong\u003e PTAL calculation term, SWT is measured in minutes. It combines average service waiting time (half the time interval between arrivals of services at a stop) + the mode based reliability factor.",
+     "\u003cstrong\u003eSecondary Schools:\u003c/strong\u003e Full-time education establishments suitable for pupils of compulsory school age above 10 yrs and 6 months. The data is derived from EduBase, a register of educational establishments in England and Wales maintained by the Department for Education.",
+     "\u003cstrong\u003eStep-free:\u003c/strong\u003e This term usually refers to the physical nature of the network. Where a step-free network is cited this indicates that a full public transport network has been modified to include only those links where step-free access is possible specifically within stations. In WebCAT, step-free is defined as a separate mode.",
+     "\u003cstrong\u003eTIM:\u003c/strong\u003e Travel Time Mapping - a complementary measure of connectivity to PTALs in WebCAT. Travel times in TIM use travel time data derived from TfL's transport models. The models divide London into over 3200 statistical areas or zones, providing times for all possible origin and destination zone combinations - equivalent to over 9 million records for each scenario. This means the user can select any location within London and WebCAT can quickly display travel times based on the zone where the selected point is located.",
+     "\u003cstrong\u003eTime of Day:\u003c/strong\u003e The standard model time periods available in WebCAT: Am Peak, Between Peak Times and PM Peak.",
+     "\u003cstrong\u003eTotal Access Time (TAT):\u003c/strong\u003e PTAL calculation term, TAT is measured in minutes. It combines Walk Time + Standard Waiting Time.",
+     "\u003cstrong\u003eTown Centres:\u003c/strong\u003e In London, town centres correspond to the GLA London Plan definition. This identifies four broad types of town centre: International, Metropolitan, Major, District.",
+     "\u003cstrong\u003eVehicles per hour (VPH):\u003c/strong\u003e PTAL calculation term, the number of vehicles per hour or frequency of service.",
+     "\u003cstrong\u003eWalk Time:\u003c/strong\u003e PTAL calculation term, derived from walk network distance and a standard walk speed of 4.8kmph.",
+     "\u003cstrong\u003eWebCAT:\u003c/strong\u003e TfL's web-based Connectivity Assessment Toolkit. WebCAT is, designed to support planning work in London.",
+     "\u003cstrong\u003eZone:\u003c/strong\u003e Our transport models divide London into a series of small areas or zones. These are used to calculate travel times from each zone to all other zone though the transport network."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Planning with WebCAT",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/webcat",
+      "image": {}
+     },
+     {
+      "title": "Glossary",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/glossary",
+      "image": {}
+     },
+     {
+      "title": "WebCAT updates",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/webcat-updates",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Planning with WebCAT",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

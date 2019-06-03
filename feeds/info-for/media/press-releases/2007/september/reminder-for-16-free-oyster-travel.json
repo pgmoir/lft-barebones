@@ -1,0 +1,65 @@
+{
+ "description": "The current free travel concession will expire on September 30, for the majority of 16 to 18-year-olds, and those who are starting a new year of study need to re-apply at the Post Office to continue to get free bus and tram travel.Anyone aged 16 to 18 and",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Reminder for 16+ free Oyster travel",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "TRANSPORT for London is reminding young people with a 16-17 Oyster photocard that their free bus and tram travel needs to be renewed every year."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The current free travel concession will expire on September 30, for the majority of 16 to 18-year-olds, and those who are starting a new year of study need to re-apply at the Post Office to continue to get free bus and tram travel.",
+     "Anyone aged 16 to 18 and no longer in full-time education can continue to use their 16-17 Oyster photocard to travel at half the adult rate, or to buy half-rate Travelcard season tickets until the expiry date on the back on the card.",
+     "For more information about Oyster, go to tfl.gov.uk/fares"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

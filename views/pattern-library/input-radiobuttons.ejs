@@ -1,0 +1,45 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Input Radio Buttons'}, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Input Radio Buttons' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <form method="POST" action="/pattern-library/form-submission" class="pb-3 mx-3" role="form">
+          <%- include('../includes/input-radiobuttons', { field: { 
+            name: 'name-changed', 
+            question: 'Have you changed your name?',
+            hint: 'This includes changing your last name or spelling your name differently.',
+            required: true,
+            items: [
+              { title: 'Yes', value: 'yes'},
+              { title: 'No', value: 'no'}
+            ]}}) 
+          %>
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+          <button class="btn btn-primary btn-lg" type="submit">Submit form</button>
+        </form>
+        <form method="POST" action="/pattern-library/form-submission" class="pb-3 mx-3" role="form">
+          <%- include('../includes/input-radiobuttons', { field: { 
+            name: 'error-name-changed', 
+            question: 'Have you changed your name?',
+            hint: 'This includes changing your last name or spelling your name differently.',
+            error: 'You must select one option',
+            items: [
+              { title: 'Yes', value: 'yes'},
+              { title: 'No', value: 'no'}
+            ]}}) 
+          %>
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+          <button class="btn btn-primary btn-lg" type="submit">Submit form</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/foot') %>

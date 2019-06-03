@@ -1,0 +1,76 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Mind the Bump!",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground urges passengers to show courtesy to mums-to-be."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Offering assistance and support to pregnant women is not just a matter of courtesy; it's a matter of health",
+     "A new report released today by London Underground (LU) calls for greater consideration to be given to the needs of pregnant Tube passengers, as research shows passengers are failing to extend courtesy to expectant mums.",
+     "The 'Mind the Bump' study revealed that pregnant passengers are currently made to stand for an average of five stops before being offered a seat, and 35 per cent of mums-to-be are never offered a seat.",
+     "In response to the findings and following a successful trial in Summer 05, LU is rolling out its 'Baby on Board' initiative, to offer support to pregnant women who feel awkward about asking fellow passengers to give up their seats.",
+     "LU Marketing Communications Manager Elizabeth Norris said: \"Our research found that a vast number of mums-to-be find standing on the Tube throughout their pregnancy very difficult, but one in three are too embarrassed to ask a fellow passenger to give up their seat.",
+     "\"In the early stages of pregnancy in particular, it's difficult for people to identify pregnant women, who often feel tired, sick and even faint during these first few months, so being offered a seat makes Tube travel safer and more comfortable.",
+     "\"The Baby on Board badge is designed to help women at all stages of pregnancy feel more confident in using the Tube, and to make journeys less awkward for pregnant women and fellow passengers.\"",
+     "The 'Mind the Bump' report, commissioned by LU, also highlighted a wider problem of lack of consideration for expectant mums' needs.",
+     "From restaurants that ignore dietary requirements to bosses and colleagues who fail to accept that pregnant employees have to slow down, the research shows that there is a need for Londoners to behave more considerately towards pregnant women in all aspects of day-to-day life:",
+     "{\"template\":\"bulletlist\",\"items\":[\"More than two thirds (71 per cent) of pregnant women in the Capital cited rude and discourteous behaviour as a growing source of anxiety and stress during pregnancy\",\"One in three (36 per cent) frequently felt they had to avoid public transport for fear of having to stand for the duration of the journey\",\"One in five (20 per cent) of expectant mums in the Capital spend more than £100 on taxis and private vehicles during their pregnancy to avoid situations where they may have to stand for long periods of time on the Tube\",\"Almost one in five found restaurants to be unaccommodating of their dietary requirements, while 16 per cent felt their needs were overlooked by employers\",\"More than a third (38 per cent) feared for their health and safety at least once during their pregnancy because of the behaviour of others around them\",\"Women are working longer into their pregnancies than ever before, with one in six women in London working an extra month beyond the recommended cut-off point of 36 weeks\",\"London emerged as the least pregnancy-friendly place in the UK, with 45 per cent of London mums having been shocked by the lack of consideration they were shown while pregnant.\",\"Wales was revealed to be the most pregnancy-friendly area of the country, with only one in 20 (six per cent) expectant mums experiencing inconsiderate treatment\"]}",
+     "Backing the initiative and commenting on the implications of the findings for the wellbeing of pregnant women, Dame Karlene Davis, General Secretary of the Royal College of Midwives, said: \"Offering assistance and support to pregnant women is not just a matter of courtesy; it's a matter of health.",
+     "\"Pregnancy is stressful enough without extra fears and worries about coping with difficult and intimidating situations when out and about.",
+     "\"The Baby on Board badges are a great idea for pregnant women and fellow passengers alike - they will help people identify those in need of a seat and in turn make journeys less traumatic for mums-to-be.\"",
+     "LU's Baby on Board badges are available from the LU Customer Services Centre (0845 330 9880)",
+     "{\"template\":\"bulletlist\",\"items\":[\"For further information, please contact us on the number above or email us at \\u003ca href=\\\"mailto:babyonboard@tube.tfl.gov.uk\\\"\\u003ebabyonboard@tube.tfl.gov.uk\\u003c/a\\u003e \",\"The survey was carried out on behalf of LU by The Survey Shop, which interviewed 507 women with children under three years of age by telephone in March 2006\",\"National research results and regional comparisons are available on request\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

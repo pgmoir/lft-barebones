@@ -1,0 +1,188 @@
+{
+ "pageTitle": "What we do",
+ "keywords": "Public,TfL",
+ "description": "TfL is responsible for the day-to-day running of the capital's transport system.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "What we do"
+  }
+ ],
+ "title": {
+  "title": "What we do",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are the integrated transport authority responsible for meeting Mayor Sadiq Khan's strategy and commitments on transport in London. We run the day-to-day operation of the Capital's public transport network and manage London's main roads.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "No other city is as  recognised by its transport system as London. Its red buses, black cabs and Tube trains are known the world\nover.",
+     "Every day more than 31 million separate journey segments are made across our network. We do all we can to keep the city moving, working and growing and to make life in our city better.",
+     "We listen to, and act upon, feedback and complaints to constantly improve our services and work with communities, representative groups, businesses and many other stakeholders to shape transport provision in London.",
+     "We are guided by the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e and its target that 80% of\nall journeys will be made on foot, by cycle or using public transport by 2041.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our transport network\"}",
+     "The services we operate include London Underground, London Buses, Docklands Light Railway, London Overground, TfL Rail, London Trams, London River Services, London Dial-a-Ride, Victoria Coach Station, Santander Cycles and the Emirates Air Line.",
+     "We work to make journeys easier through technology and data. We provide modern ways to pay through Oyster and contactless payment cards and provide information in different formats to help people move around London.",
+     "Live travel information is provided directly by us and through third party organisations which use the data we make available to power apps and other services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Looking to the future\"}",
+     "Our programme of transport capital investment is one of the world's largest. It is building the Elizabeth line, modernising Tube services and stations, transforming the road network and making it safer, especially for more vulnerable road users such as pedestrians and cyclists. \u003ca href=\"/corporate/about-tfl/how-we-work/how-we-are-funded\"\u003eSee how we are funded.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "What we do",
+    "links": [
+     {
+      "title": "Buses",
+      "url": "/corporate/about-tfl/what-we-do/buses",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/what-we-do/coaches",
+      "image": {}
+     },
+     {
+      "title": "Cycling",
+      "url": "/corporate/about-tfl/what-we-do/cycling",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway",
+      "url": "/corporate/about-tfl/what-we-do/docklands-light-railway",
+      "image": {}
+     },
+     {
+      "title": "Emirates Air Line",
+      "url": "/corporate/about-tfl/what-we-do/emirates-air-line",
+      "image": {}
+     },
+     {
+      "title": "London Dial-a-Ride",
+      "url": "/corporate/about-tfl/what-we-do/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/what-we-do/london-overground",
+      "image": {}
+     },
+     {
+      "title": "London Trams",
+      "url": "/corporate/about-tfl/what-we-do/london-trams",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "/corporate/about-tfl/what-we-do/london-transport-museum",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/what-we-do/london-underground",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/what-we-do/river",
+      "image": {}
+     },
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 private hire",
+      "url": "/corporate/about-tfl/what-we-do/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "TfL Rail",
+      "url": "/corporate/about-tfl/what-we-do/tfl-rail",
+      "image": {}
+     },
+     {
+      "title": "Walking",
+      "url": "/corporate/about-tfl/what-we-do/walking",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "What we do",
+     "url": "/corporate/about-tfl/what-we-do/walking",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Annual Report",
+      "url": "/corporate/publications-and-reports/annual-report",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "News articles",
+      "url": "/info-for/media/news-articles",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

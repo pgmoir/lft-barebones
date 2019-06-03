@@ -1,0 +1,134 @@
+{
+ "pageTitle": "Planning and construction resources",
+ "keywords": "TfL",
+ "description": "Understand the rules and outcomes which may affect your planning application and see resources you can use to produce or assess it.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Planning and construction resources"
+  }
+ ],
+ "title": {
+  "title": "Planning and construction resources",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Understand the rules and outcomes which may affect your planning application and see resources you can use to produce or assess it.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Resources for planning applications\"}",
+     "You can find:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.london.gov.uk/what-we-do/planning/london-plan\\\"\\u003eLondon Plan\\u003c/a\\u003e policies that are compulsory for applications\",\"Guidance and tools we'll use to assess applications\",\"Common outcomes like design changes, mitigation and \\u003ca href=\\\"/info-for/urban-planning-and-construction/transport-assessment-guide/planning-obligations\\\"\\u003eplanning obligations\\u003c/a\\u003e \"]}",
+     "Our resources match the content and chapters in our \u003ca href=\"/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments\"\u003eTransport Assessments\u003c/a\u003e to help you understand our approach",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Resources for planning applications\",\"url\":\"/cdn/static/cms/documents/resources-for-planning-applicants.pdf\",\"icon\":\"download\",\"size\":\"PDF 73KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "If you have any questions, email \u003ca href=\"mailto:spatialplanning@tfl.gov.uk\"\u003espatialplanning@tfl.gov.uk\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

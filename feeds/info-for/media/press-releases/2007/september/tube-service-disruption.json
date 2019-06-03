@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Tube service disruption",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Tube service disruption",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "A TfL spokesperson said: \"There is no service on the Circle and Hammersmith \u0026 City lines, or on the District line between High Street Kensington and Edgware Road, this morning.  We would like to apologise to our passengers for the disruption this has caused. We would advise passengers to plan an alternative route and leave extra time for their journeys this morning.",
+     "\"Local trade union safety representatives  have raised concerns about the design of the traction brake controller on the C stock trains used on these lines. As always, we are addressing the safety concerns of the trade unions. However, these trains have been in safe operation for over twenty five years, and there is no reason for the service to the public to be disrupted whilst we seek to address the issues raised.",
+     "\"We are working with the trade unions to resume a full service on the lines affected as soon as possible.\""
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

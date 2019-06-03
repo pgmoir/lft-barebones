@@ -1,0 +1,156 @@
+{
+ "pageTitle": "Penalty Charge Notices",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Penalty Charge Notices"
+  }
+ ],
+ "title": {
+  "title": "Penalty Charge Notices",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you've received a Penalty Charge Notice (PCN), you can either pay it or challenge it if you think it was issued incorrectly.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay a PCN\"}",
+     "Use this button to pay online now.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "To pay by phone or by post, or to find out more, go to the \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn\"\u003ePay a Penalty Charge Notice page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"View the current status of a PCN\"}",
+     "You can see more details of the PCN, including its current status.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Challenge a PCN\"}",
+     "If you think the PCN has been issued incorrectly you can challenge it by making a representation.",
+     "You can make a representation online, in writing, or, in certain circumstances, by phone. It may be possible to give you a quick decision over the phone, depending on the evidence available at the time of calling.",
+     " \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices/make-a-representation\"\u003eFind out more about making a representation\u003c/a\u003e .",
+     "For more information, telephone us on 0343 222 3333 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "Lines are open 08:00-20:00 Monday to Friday."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Pay a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agent \u0026 bailiffs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-agent-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Local Authority PCNs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

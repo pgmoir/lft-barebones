@@ -1,0 +1,150 @@
+{
+ "pageTitle": "Healthy Workplace Charter",
+ "keywords": "TfL",
+ "description": "TfL endorses the Healthy Workplace Charter",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Healthy Workplace Charter"
+  }
+ ],
+ "title": {
+  "title": "Healthy Workplace Charter",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We endorse the London Healthy Workplace Charter and work to support its adoption in partnership with 26 boroughs, including the City of London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The \u003ca href=\"http://www.london.gov.uk/healthyworkplace\"\u003eHealthy Workplace Charter\u003c/a\u003e is a structured framework designed to recognise and support business investment in staff health and wellbeing. Launched in 2012, it has the full support of local authorities and the GLA family.",
+     "We hold the Excellence award for the charter and want to encourage our partners and stakeholders to get free support from the GLA and local authorities to make their workplaces healthier and happier.",
+     "The Charter is:",
+     "{\"template\":\"bulletlist\",\"items\":[\"An evidence-based accreditation scheme\",\"Coordinated by the Mayor of London's Office, supported by Public Health England and backed by leading employers\",\"Aimed at supporting and inspiring employers to create health-enhancing, engaged and productive workplaces\"]}",
+     "The benefits of the Charter are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"An evidence-based template to design employee wellbeing strategies (with a long track record of success)\",\"Proven strategies to enhance employee health and increase engagement and productivity\",\"Fully-funded consultancy and support from an expert in workplace health and wellbeing\",\"A change to be recognised as a top employer in London - to promote a company's brand and attract top talent\",\"Access to an exclusive network of leading employers\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Sub-regional transport planning",
+      "url": "/info-for/boroughs/sub-regional-transport-planning",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Healthy Workplace Charter",
+      "url": "/info-for/boroughs/healthy-workplace-charter",
+      "image": {}
+     },
+     {
+      "title": "Cycling Toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Safety",
+      "url": "/info-for/boroughs/safety",
+      "image": {}
+     },
+     {
+      "title": "Street Types for London",
+      "url": "/info-for/boroughs/street-types",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

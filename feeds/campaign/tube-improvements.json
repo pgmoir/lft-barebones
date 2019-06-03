@@ -1,0 +1,197 @@
+{
+ "pageTitle": "Improving the Tube",
+ "keywords": "Public,Tube passengers,T,Tube improvement,Tube,TfL",
+ "description": "Find out how we're making the Tube faster, more reliable and easier to use",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving the Tube"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Improving the Tube",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/tip-banner.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "The Tube carries more than a billion passengers each year - four million journeys each day and growing. Every single one of these journeys matters to us: network delays are down and reliability has improved. And we're committed to making it even better.",
+     "For more on how we're improving the Tube, \u003ca href=\"/travel-information/social-media-and-email-updates/index\"\u003efollow us on Twitter and Facebook\u003c/a\u003e or \u003ca href=\"https://tfl.gov.uk/travel-information/improvements-and-projects/?Category=Tube-improvement\"\u003evisit our Improvements \u0026 projects page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Station WiFi",
+    "texts": [
+     "Register to access WiFi on 300+ Tube and London Overground platforms"
+    ],
+    "link": {
+     "url": "/campaign/station-wifi",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/mip-wifi-mole_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-tube",
+    "title": "Travel advice",
+    "texts": [
+     "Follow your line on Twitter"
+    ],
+    "link": {
+     "url": "/travel-information/social-media-and-email-updates/index",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-tube",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Improving customer service",
+    "texts": [
+     "We're continuing to transform the way we serve our passengers"
+    ],
+    "link": {
+     "url": "/campaign/tube-improvements/what-we-are-doing/improving-customer-service",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "What we're doing",
+    "texts": [
+     "Find out how you'll benefit from the changes we're making"
+    ],
+    "link": {
+     "url": "/campaign/tube-improvements/what-we-are-doing",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Improving the trains",
+    "texts": [
+     "250 new Tube trains with more capacity and improved accessibility"
+    ],
+    "link": {
+     "url": "/campaign/tube-improvements/what-we-are-doing/improving-the-trains",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving the Tube",
+    "links": [
+     {
+      "title": "What we've done",
+      "url": "/campaign/tube-improvements/what-we-ve-done",
+      "image": {}
+     },
+     {
+      "title": "What we're doing",
+      "url": "/campaign/tube-improvements/what-we-are-doing",
+      "image": {}
+     },
+     {
+      "title": "Behind the scenes",
+      "url": "/campaign/tube-improvements/behind-the-scenes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Improving the Tube",
+     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@tfltravelalerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@tfltravelalerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@tfltravelalerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@tfltravelalerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

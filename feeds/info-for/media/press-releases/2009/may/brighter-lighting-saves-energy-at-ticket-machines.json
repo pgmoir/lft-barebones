@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Brighter lighting saves energy at ticket machines",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Brighter lighting saves energy at ticket machines",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Buses has introduced light emitting diode (LED) lighting at all of its roadside ticket machines."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "New technology can help us decrease our impact on the environment",
+     "Despite using less power, LEDs are much brighter than conventional lighting, making the machines easier to use.",
+     "The LEDs also last a lot longer, ten years on average compared to just two years for conventional fluorescent tubes, meaning lower maintenance and disposal costs.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Saving energy\"}",
+     "The introduction of LED lighting is part of London Buses' continuing efforts to save energy and improve the passenger environment across the London bus network.",
+     "Paul London, London Buses Ticket Technology Manager, said: 'We're always looking for ways in which new technology can help us decrease our impact on the environment, improve our passengers' experience, and provide value for money.",
+     "'Introducing LEDs on ticket machines is a small change that's part of a much bigger effort to make our operations more efficient and environmentally friendly.'",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

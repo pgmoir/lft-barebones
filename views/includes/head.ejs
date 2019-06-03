@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+  <meta charset="utf-8" />
+  <title><%= pageTitle %> - LfT Concept</title>
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+  <% if (typeof keywords !== 'undefined') { %><meta name="keywords" content="<%= keywords %>"><% } %>
+  <% if (typeof description !== 'undefined') { %><meta name="description" content="<%= description %>"><% } %>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/barebones.css">
+  <link rel="stylesheet" href="/css/custom.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+</head>
+
+<body class="barebones">
+
+  <header role="banner">
+    <a id="header-acc-jump" class="sr-only sr-only-focusable" href="#main-acc-jump">
+      <div class="container">
+        <span class="skiplink-text">Skip to content</span>
+      </div>
+    </a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="primary navigation" role="navigation">
+      <div class="container-fluid container-lft">
+        <a class="navbar-brand" href="/"><span class="fas fa-code-branch mr-3" aria-hidden="true"></span>LfT Concept</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="/plan-a-journey/index" class="nav-link">Plan a journey</a>
+            </li>
+            <li class="nav-item">
+              <a href="/status/tube" class="nav-link">Status</a>
+            </li>
+            <li class="nav-item">
+              <a href="/maps_/maps" class="nav-link">Maps</a>
+            </li>
+            <li class="nav-item">
+              <a href="/fares-and-payments/fares2018/index" class="nav-link">Fares</a>
+            </li>
+            <!--<li class="nav-item dropdown mr-3">
+              <a class="nav-item nav-link dropdown-toggle" href="/shopdropdown" id="shopDropdown" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false">The Shop</a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="shopDropdown">
+                <a class="dropdown-item" href="/shop/">View Shop</a>
+                <% if (isAuthenticated) { %>
+                <a class="dropdown-item" href="/shop/cart">Cart</a>
+                <a class="dropdown-item" href="/shop/orders">Orders</a>
+                <hr />
+                <a class="dropdown-item" href="/admin/add-product">Add Product</a>
+                <a class="dropdown-item" href="/admin/products">Admin Products</a>
+                <% } %>
+              </div>
+            </li>-->
+            <li class="nav-item dropdown mr-3">
+              <a class="nav-link dropdown-toggle" href="/navdropdown" id="navbarDropdown" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false">Info</a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/travel-information/visiting-london/index">Visiting London</a>
+                <a class="dropdown-item" href="/transport-accessibility/index">Transport accessibility</a>
+                <a class="dropdown-item" href="/travel-information/safety/index">Safety</a>
+                <a class="dropdown-item" href="/travel-information/improvements-and-projects/index">Improvements &amp; projects</a>
+                <a class="dropdown-item" href="/travel-information/timetables/index">Timetables</a>
+                <a class="dropdown-item" href="/travel-information/stations-stops-and-piers/index">Stations, stops &amp; piers</a>
+                <hr />
+                <a class="dropdown-item" href="/modes/buses/index">Buses</a>
+                <a class="dropdown-item" href="/modes/tube/index">Tube</a>
+                <a class="dropdown-item" href="/modes/dlr/index">DLR</a>
+                <a class="dropdown-item" href="/modes/emirates-air-line/index">Emirates Air Line</a>
+                <a class="dropdown-item" href="/modes/coaches/index">Coaches</a>
+                <a class="dropdown-item" href="/modes/trams/index">Trams</a>
+                <a class="dropdown-item" href="/modes/tfl-rail/index">TfL Rail</a>
+                <a class="dropdown-item" href="/modes/driving/index">Driving</a>
+                <a class="dropdown-item" href="/modes/cycling/index">Cycling</a>
+                <a class="dropdown-item" href="/modes/london-overground/index">London Overground</a>
+                <a class="dropdown-item" href="/modes/taxis-and-minicabs/index">Taxis &amp; minicabs</a>
+                <a class="dropdown-item" href="/modes/river/index">River</a>
+                <a class="dropdown-item" href="/modes/dial-a-ride/index">Dail-a-ride</a>
+                <a class="dropdown-item" href="/modes/walking/index">Walking</a>
+                <hr />
+                <a class="dropdown-item" href="/modes/driving/congestion-charge">Congestion Charge</a>
+                <a class="dropdown-item" href="/modes/driving/low-emission-zone">Low Emission Zone</a>
+                <a class="dropdown-item" href="/status-updates/travel-tools">Travel tools</a>
+                <a class="dropdown-item" href="/fares-and-payments/fares2018/refunds-and-replacements">Refunds and replacements</a>
+                <a class="dropdown-item" href="/modes/cycling/santander-cycles">Santander Cycles</a>
+                <a class="dropdown-item" href="/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go">Oyster pay as you go</a>
+                <a class="dropdown-item" href="/modes/driving/car-clubs">Car clubs</a>
+              </div>
+            </li>
+            <li>
+              <form class="form-inline ml-auto mr-3 pb-1" action="/search" method="GET">
+                <label for="searchWebsite" class="sr-only text-white">Search this website</label>
+                <div class="input-group minw-12">
+                  <input name="searchWebsite" id="searchWebsite" type="text" class="form-control" placeholder="Search this website" aria-label="Search this website">
+                  <div class="input-group-append">
+                    <button class="btn btn-secondary" type="submit">Search</button>
+                  </div>
+                </div>
+                <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+              </form>
+            </li>
+            <% if (isAuthenticated) { %>
+            <form class="nav-item" action="/logout" method="POST">
+              <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+              <button type="submit" class="btn btn-success text-nowrap">
+                  <span class="fas fa-sign-out-alt" aria-label="Logout to return to basic features only"></span> Logout
+              </button>
+            </form>
+            <% } else { %>
+            <li class="nav-item">
+              <a class="btn btn-success text-nowrap" href="/login" aria-label="Login to use personalised features"><span class="fas fa-sign-in-alt" aria-hidden="true"></span> Login</a>
+            </li>
+            <% } %>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main role="main">
+
+    <a id="main-acc-jump" class="sr-only sr-only-focusable" href="#footer-acc-jump">
+      <div class="container">
+        <span class="skiplink-text">Skip to footer content</span>
+      </div>
+    </a>
+
+    <% if (typeof alert !== 'undefined') { %>
+      <%- include('alert', { alert: alert }) %>
+    <% } %>
+
+

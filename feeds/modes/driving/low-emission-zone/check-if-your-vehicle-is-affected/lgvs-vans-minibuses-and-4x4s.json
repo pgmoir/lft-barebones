@@ -1,0 +1,269 @@
+{
+ "pageTitle": "LGVs, vans, minibuses and 4x4s",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Check if your vehicle is affected",
+   "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected"
+  },
+  {
+   "title": "LGVs, vans, minibuses and 4x4s"
+  }
+ ],
+ "title": {
+  "title": "LGVs, vans, minibuses and 4x4s",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Larger vans, minibuses and other specialist diesel vehicles are affected by the Low Emission Zone (LEZ). If you own this type of vehicle, it must meet certain emissions standards to be driven within the LEZ without paying a daily charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "It doesn't matter whether your vehicle is used for commercial or private purposes - it still needs to meet the standards.",
+     "In addition to the existing LEZ emissions standards, tighter emissions standards being phased in will affect different vehicle types and different geographical areas within London.",
+     "As of 8 April 2019, if you are driving any petrol or diesel vehicle within the Congestion Charge area in central London you will need to meet \u003ca href=\"/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard\"\u003eUltra Low Emission Zone (ULEZ) standards\u003c/a\u003e , which are tighter than the London-wide LEZ standards already operating.",
+     "From 26 October 2020 \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003echanges to LEZ standards\u003c/a\u003e , daily charges and penalties will apply to lorries, buses, coaches and other specialist vehicles over 3.5 tonnes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicles affected\"}",
+     "The age and weight of a vehicle indicate the level of emissions it produces.",
+     "The table below shows those vehicle types that won't meet the LEZ emissions standards from 3 January 2012. If you own any of the vehicles listed, you will need to take action before driving within the LEZ, or pay a daily charge.",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eVehicle types that don't meet the LEZ emissions standards (when registered as new before 1 January 2002) \\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eVehicle Type \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eWeight\\u003c/strong\\u003e \"],[\"Larger vans\\u003cbr /\\u003eMotorised horseboxes\\u003cbr /\\u003e4x4 light utility vehicles\\u003cbr /\\u003ePick-ups\\u003cbr /\\u003eOther specialist vehicles\",\"Between 1.205 tonnes unladen and 3.5 tonnes gross vehicle weight\"],[\"Motor caravans\\u003cbr /\\u003eAmbulances\",\"2.5 - 3.5 tonnes gross vehicle weight\"],[\"Minibuses (with 8+ passenger seats)\",\"5 tonnes or less gross vehicle weight\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Early adopters\"}",
+     "Some vehicles\n        registered before 1 January 2002 will also meet the Euro 3 standard as\n        some manufacturers started producing vehicles with engines which met the\n        Euro 3 standard before this date. These vehicles are known as 'early\n        adopters'.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Find out if your vehicle is an early adopter and what you need to do\",\"url\":\"/ruc-cdn/static/cms/documents/early-adopters.pdf\",\"icon\":\"download\",\"size\":\"PDF 752KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why include private vehicles?\"}",
+     "These are included because they emit the same levels of pollutants as commercial vehicles. Specifically, motor caravans and ambulances are included because they have similar emissions to vans and minibuses.",
+     "Motor caravans are defined as vehicles with living accommodation, comprised of the following as a minimum:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Seats and a table\",\"Sleeping accommodation (which may be converted from the seats)\",\"Cooking and storage facilities, including an onboard or external water container\",\"At least one side window\"]}",
+     "To be classified as a motor caravan this equipment must be rigidly fixed to the living compartment. If you have converted your vehicle to operate as a motor caravan, you will need to ensure that it is correctly classified as such by the DVLA or DVA.",
+     "Some examples of vehicles that might be used for private purposes but are still subject to the LEZ include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Light 4x4 utility vehicles weighing over 1.205 tonnes unladen\",\"Pick-ups weighing over 1.205 tonnes unladen\",\"Vehicles with a commercial vehicle body type (for example, vans) weighing over 1.205 tonnes unladen\",\"Minibuses with more than eight seats plus the driver's seat\",\"Motor homes or motorised caravans weighing over 2.5 tonnes gross vehicle weight\",\"Ambulances weighing over 2.5 tonnes gross vehicle weight\"]}",
+     "If your vehicle doesn't appear in the list above, you can use the weight limit and age (date first registered) as a guide to whether you need to take action, or \u003ca href=\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\"\u003euse our tools to check if your vehicle is affected\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Light 4x4 utility vehicles\"}",
+     "There are many types of light 4x4 utility vehicle. It is their classification (decided by the manufacturer and the European Union) that determines whether they're affected by the LEZ or not.",
+     "Light 4x4 utility vehicles classed as cars are not affected by the LEZ. Those classed as commercial vehicles are subject to the LEZ.",
+     "Any vehicle designed to carry goods, or more than nine passengers, is classed as a commercial vehicle, even if it's only used for recreational purposes.",
+     "These include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"All models of pick-up vehicles, including dual cab pick-ups\",\"Commercial or 'panel van' variants of light utility vehicles (these can be identified by having a goods-carrying capacity in place of seating and metal panels in place of windows)\",\"Light utility vehicles that have more than eight passenger seats\"]}",
+     "If your light utility vehicle is subject to the LEZ, then you can \u003ca href=\"/modes/driving/low-emission-zone/ways-to-meet-the-standards\"\u003efind out about your options\u003c/a\u003e .",
+     "If you think that your light 4x4 utility vehicle has been classified incorrectly, \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency\"\u003eplease check with the DVLA\u003c/a\u003e or the \u003ca href=\"https://www.nidirect.gov.uk/information-and-services/motoring\"\u003eDVA\u003c/a\u003e .",
+     "If you have any queries, please contact us on 0343 222 1111 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Land Rovers\"}",
+     "We have worked with Land Rover to establish which vehicles with the body type of 'Light 4x4 Utility Vehicle' are subject to the LEZ. Vehicles manufactured before 1973 are considered to be 'historic' vehicles and are exempt from the LEZ.",
+     "The vehicles listed below are subject to the LEZ standards:",
+     "{\"template\":\"bulletlist\",\"items\":[\"All Defenders; 88s, 90s, 109s, 110s, 127 and 130s (except station wagon variants see below)\",\"All Defenders manufactured with 10 or more seats including the driver's seat\",\"Freelander Commercial\",\"Discovery or Discovery Series 2 Commercial\",\"Conversions (eg ambulance, motor home)\"]}",
+     "The following vehicles are not subject to LEZ as they are classed as 'estates':",
+     "{\"template\":\"bulletlist\",\"items\":[\"Defender, 88, 90, 109 and 110 station wagon variants up to nine seats inc the drivers\"]}",
+     "A small number of Defenders 90s and 110s may be a 'station wagon' but may not be classified as such by the DVLA. This means vehicles with side and rear windows manufactured with fixed seating throughout the vehicle including the area accessed via the back door and there are nine seats or less including the driver's seat. Please note that vehicles without fixed seating throughout will not be treated as an estate and will be subject to LEZ. Fixed seating means individual seats with seat belts. It does not include benches or homemade seating variants.",
+     "If your vehicle meets this criterion it will not be subject to the LEZ. In these circumstances if you intend to use the vehicle in the LEZ you need to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"For models registered from 1998 - correct the body type description, vehicle model details and/or number of seats with the DVLA and provide photographic proof\",\"For models registered before 1998 - register your vehicle with TfL with suitable photographic proofs showing all sides of the vehicles with all doors open which clearly shows the entire internal seating arrangements.\"]}",
+     "Certain vehicles meet the Euro 3 standard because they are \u003ca href=\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected/lgvs-vans-minibuses-and-4x4s#early\"\u003eearly adopters:\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"All Defenders, 90s, 110s, 127s and 130s manufactured after 6 August 2001\",\"Freelander Commercial manufactured after 14 September 2000\",\"Discovery or Discovery Series 2 Commercial manufactured after 2 July 2001\",\"Conversions (eg ambulance, motor home) manufactured after 2 January 2002\"]}",
+     "We've updated our database to reflect these vehicles' emissions standards.",
+     "If you have a Land Rover which is not listed above, please \u003ca href=\"/modes/driving/low-emission-zone/contact-lez\"\u003econtact us\u003c/a\u003e to find out if your vehicle is subject to LEZ.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What are the emissions standards?\"}",
+     "The LEZ emissions standards are based on Euro standards for the emission of particulate matter (PM). PM is very fine particles of soot emitted by vehicles, which have an effect on health. This type of pollution can contribute to asthma, heart and lung disease, other respiratory illnesses and even early death.",
+     "Your vehicle needs to meet the Euro 3 standard for particulate matter.",
+     "In addition to the existing LEZ emissions standards, tighter emissions standards being introduced in phases will affect different vehicle types and different geographical areas within London.",
+     "Any petrol or diesel vehicle driven within the Congestion Charge area in central London will also need to meet \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ) standards\u003c/a\u003e . See if your UK-registered vehicle is affected with the \u003ca href=\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/check-your-vehicle\"\u003eULEZ vehicle checker\u003c/a\u003e .",
+     "For non-UK registered vehicles, see the table of \u003ca href=\"https://tfl.gov.uk/modes/driving/low-emission-zone/changes-to-the-lez\"\u003echanges to LEZ and ULEZ standards\u003c/a\u003e . This page includes information on changes to LEZ standards, daily charges and penalties from 26 October 2020.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Does my vehicle meet the standards?\"}",
+     "The quickest way to check if your vehicle meets the current or new standards is to \u003ca href=\"https://lowemissionzone.tfl.gov.uk/b/pb/lezComplianceProvideVRM.faces?referrer=lez\"\u003eenter your registration plate into our vehicle checker.\u003c/a\u003e ",
+     "Alternatively, you can use the \u003ca href=\"http://www.tfl.gov.uk/tfl/roadusers/lez/check-by-type/default.aspx\"\u003evehicle type tool.\u003c/a\u003e ",
+     "If your vehicle was registered any time\u003cstrong\u003ebefore 1 January 2002\u003c/strong\u003e , it won't meet the Euro 3 emissions standards without modification, so you'll need to take action if you want to drive within the LEZ without paying a daily charge.",
+     " \u003ca href=\"/modes/driving/low-emission-zone/ways-to-meet-the-standards\"\u003eFind out what your options are.\u003c/a\u003e ",
+     "If your vehicle was registered\u003cstrong\u003eon or after 1 January 2002\u003c/strong\u003e , it will meet the Euro 3 emissions standards and you can drive within the LEZ without taking any action."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Exemptions \u0026 discounts",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected/exemptions-and-discounts",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, buses \u0026 coaches",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected/hgvs-lorries-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "LGVs, vans, minibuses and 4x4s",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected/lgvs-vans-minibuses-and-4x4s",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

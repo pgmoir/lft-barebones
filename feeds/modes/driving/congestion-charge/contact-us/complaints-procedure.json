@@ -1,0 +1,140 @@
+{
+ "pageTitle": "Congestion Charge complaints",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "How to complain about the Congestion Charge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Contact Congestion Charge",
+   "url": "/modes/driving/congestion-charge/contact-congestion-charge"
+  },
+  {
+   "title": "Congestion Charge complaints"
+  }
+ ],
+ "title": {
+  "title": "Congestion Charge complaints",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're unhappy with the Congestion Charge service you receive, or have a suggestion of how we can improve it, we'd like to hear from you.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If your complaint is regarding any other aspect of the services we deliver, please see \u003ca href=\"/help-and-contact/\"\u003eHelp \u0026 contacts\u003c/a\u003e .",
+     "You can discuss your complaint with staff in our customer service team. They will try to resolve the problem without you having to make a formal complaint.",
+     "If you are not happy with their response, you can make a formal complaint.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How do I make a complaint?\"}",
+     "The formal complaint procedure has three stages. Please provide any previous reference numbers that you may have.",
+     "Choose from one of the following three options to lodge a formal complaint:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/cc-contact-us-make-a-complaint-wizard-37746\\\"\\u003eMake a complaint online\\u003c/a\\u003e \",\"\\u003cstrong\\u003ePhone:\\u003c/strong\\u003e 0343 222 2222 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\\u003cbr /\\u003eInternational : +44 20 7649 9122\\u003cbr /\\u003eTextphone: 020 7649 9123 if you have impaired hearing\\u003cbr /\\u003ePlease make sure you have all the relevant details to hand before calling.\",\"\\u003cstrong\\u003eWrite to:\\u003c/strong\\u003e \\u003cbr /\\u003eCustomer Services Manager\\u003cbr /\\u003eCongestion Charging\\u003cbr /\\u003ePO Box 344\\u003cbr /\\u003eDarlington DL1 9QE\"]}",
+     "When you submit your complaint, let us know how you'd like us to respond (by email, post or by telephone). We'll normally send written replies within 10 working days.",
+     "If you're not satisfied with our response, you can write to:",
+     "Customer Correspondence Manager\u003cbr /\u003eRoad User Charging\u003cbr /\u003eService Operations Directorate\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eLondon\u003cbr /\u003eSE1 8NW",
+     "We will respond to your complaint within 10 working days. If a full investigation is needed it may take a little longer, but we'll let you know\nthe reasons for the delay.",
+     "If you are still unhappy after the second stage, you may ask us to conduct a final review by writing to:",
+     "General Manager\u003cbr /\u003eRoad User Charging\u003cbr /\u003eService Operations Directorate\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eLondon\u003cbr /\u003eSE1 8NW",
+     "The General Manager will conduct a final review, usually within 10 working days, and will respond with our final position.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local Government Ombudsman (LGO)\"}",
+     "The LGO is an independent national service that investigates complaints against local authorities, such as Transport for London.",
+     "If you've been through our complaints procedure and are still\ndissatisfied, you may choose to escalate your complaint to the LGO at\nthe address below.",
+     "You're entitled to contact the LGO without completing our complaints procedure, but in such cases the LGO may refer your complaint back\nto us, to allow us the opportunity to resolve your issue.",
+     "The Local Government Ombudsman\u003cbr /\u003ePO Box 4771\u003cbr /\u003eCoventry CV4 0EH\u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003eWebsite: \u003c/strong\u003e  \u003ca href=\"http://www.lgo.org.uk/\"\u003ewww.lgo.org.uk\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Complaints about Penalty Charge Notices\"}",
+     "Do not use the complaints system for disputes over \u003ca href=\"/modes/driving/congestion-charge/penalties-and-enforcement\"\u003ePenalty Charge Notices (PCNs)\u003c/a\u003e . These have their own statutory \u003ca href=\"/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-a-representation\"\u003erepresentations\u003c/a\u003e and \u003ca href=\"/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-an-appeal\"\u003eappeals\u003c/a\u003e procedure.",
+     "You can find more information about this procedure on the PCN itself."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge complaints",
+      "url": "/modes/driving/congestion-charge/contact-us/complaints-procedure",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-us/complaints-procedure",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

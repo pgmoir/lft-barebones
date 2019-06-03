@@ -1,0 +1,152 @@
+{
+ "pageTitle": "Pay a Penalty Charge Notice",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Penalty Charge Notices",
+   "url": "/modes/driving/red-routes/penalty-charge-notices"
+  },
+  {
+   "title": "Pay a Penalty Charge Notice"
+  }
+ ],
+ "title": {
+  "title": "Pay a Penalty Charge Notice",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If your vehicle is involved in a contravention on the red route, you'll be sent a Penalty Charge Notice (PCN) for £130. You need to pay this within 28 days.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you pay this within 14 or 21 days (it will say on the PCN), the amount will be reduced to £65.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you need\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"PCN number\",\"Number plate (Vehicle Registration Mark)\",\"Credit or debit card details\"]}",
+     "If instead of paying you want to dispute the charge, find out how to make a representation to \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices/make-a-representation\"\u003echallenge the PCN\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay online\"}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay by phone\"}",
+     "\u003cstrong\u003ePhone: \u003c/strong\u003e 0343 222 3333 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003eLines are open 08:00-20:00 Monday to Friday, closed weekends and bank holidays.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay by post\"}",
+     "Red routes\u003cbr /\u003ePO Box 335\u003cbr /\u003eDarlington DL1 9PU",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Paying late\"}",
+     "You get a 50% discount if you pay within 14 or 21 days (it will say on the PCN).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other PCNs\"}",
+     "If your PCN has been issued by a Local Authority, please \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns\"\u003econtact them directly\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Pay a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agent \u0026 bailiffs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-agent-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Local Authority PCNs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

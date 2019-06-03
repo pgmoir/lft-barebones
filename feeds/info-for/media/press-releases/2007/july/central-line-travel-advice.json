@@ -1,0 +1,62 @@
+{
+ "pageTitle": "Central line travel advice",
+ "description": "Following the derailment of a Central Line train between Mile End and Bethnal Green on Thursday 5 July, the line remains closed between Liverpool Street and Leytonstone in both directions.London Underground is now working to rerail the train and to repair",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Central line travel advice",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Following the derailment of a Central Line train between Mile End and Bethnal Green on Thursday 5 July, the line remains closed between Liverpool Street and Leytonstone in both directions.",
+     "London Underground is now working to rerail the train and to repair damage caused in the derailment.",
+     "At this stage it is very unlikely that full service will be resumed in time for Friday's evening peak.",
+     "A range of measures have therefore been put in place to deal with the disruption that will inevitably take place to customers' regular journeys:",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Underground tickets will be accepted on all local bus services, alternative Underground routes, and on ONE, First Great Western, Chiltern Railways and Silverlink Metro train services via any reasonable routes\\u003cbr /\\u003e\\u003cbr /\\u003e\",\"Four replacement bus services have been put in place\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Stratford - Leytonstone, calling at Leyton\",\"Gants Hill - Ilford non stop\",\"Walthamstow Central - Woodford non stop\",\"Barking - Redbridge non stop\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The District line is operating normally\"]}",
+     "Transport for London advises that there is likely to be congestion at several major stations in the surrounding area this evening and would ask passengers to expect a longer journey time than normal until Central Line services can be fully restored.",
+     "\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

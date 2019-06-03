@@ -1,0 +1,109 @@
+{
+ "pageTitle": "Young car drivers",
+ "keywords": "TfL",
+ "description": "young car drivers",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people",
+   "url": "/info-for/schools-and-young-people/index"
+  },
+  {
+   "title": "Young car drivers"
+  }
+ ],
+ "title": {
+  "title": "Young car drivers",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are committed to helping young car drivers stay safer on London's roads. If you are the parent or carer of a young car driver, here are some simple tips on how you can influence your child to be a safer and more responsible driver.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tips for young drivers\"}",
+     "1. Be a good role model with your own driving behaviour. It may be helpful to remind yourself of \u003ca href=\"https://www.gov.uk/guidance/the-highway-code\"\u003ethe rules of the road\u003c/a\u003e ",
+     "2. Pick an Approved Driving Instructor (ADI), and ask if you can sit in on one of the lessons so that you can be sure that the training meets your child's needs. Choose an \u003ca href=\"https://www.safedrivingforlife.info/learners/i-want-drive/finding-driving-instructor\"\u003eApproved Driving Instructor\u003c/a\u003e ",
+     "3. Encourage your child to take their time when learning to drive to develop life long skills, not just pass the test as soon as possible",
+     "4.  Carry out supervised driving with your child - the government recommends that learners complete a minimum of 20 hours of practice in addition to their driving lessons.",
+     "5. Your supervised journeys should include a variety of driving situations, including night driving, driving in poor weather and driving on urban roads",
+     "6. Encourage further pre- and post-test learning such as \u003ca href=\"https://www.safedrivingforlife.info/learners/i-want-drive/further-training \"\u003ePass Plus\u003c/a\u003e . And for free online hazard perception training, \u003ca href=\"http://www.driveiq.co.uk/ \"\u003evisit DriveiQ for interactive modules\u003c/a\u003e ",
+     "7. Take a look at Euro NCAP for safety advice when buying new and used cars for your child. The five star safety ratings system can help you select the safest vehicle for their needs. \u003ca href=\"http://www.euroncap.com/en/about-euro-ncap/how-to-read-the-stars/ \"\u003eVisit Euro NCAP\u003c/a\u003e ",
+     "8. Encourage your child to get telematics 'black box' insurance. This could result in cheaper premiums depending on how your child drives",
+     "9. Restrict the number of passengers your child carries and their night time driving for the first few months after passing until they are more experienced",
+     "10. Share these tips parents/carers of your child's friends and encourage them to follow this advice as well",
+     "Remember, the licence will be revoked if your child gets 6 or more points within 2 years of passing their test. Your child will have to apply and pay for a new provisional licence and pass both theory and practical parts of the driving test again to get a full license.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find out more\"}",
+     "For more information, email \u003ca href=\"mailto:educationandtraining@tfl.gov.uk\"\u003eeducationandtraining@tfl.gov.uk\u003c/a\u003e with the subject 'YCDWEB'."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Drive IQ",
+      "url": "http://www.driveiq.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Euro NCAP",
+      "url": "http://www.euroncap.com/en",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Safe Driving for Life",
+      "url": "https://www.safedrivingforlife.info/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

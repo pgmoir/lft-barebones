@@ -1,0 +1,106 @@
+{
+ "pageTitle": "Travel advice for road users",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Travel advice for road users"
+  }
+ ],
+ "title": {
+  "title": "Travel advice for road users",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"As London's economy and population booms, the number of works needed for London's modernisation is also growing. We will do everything we can to minimise disruption during construction works, but some people will experience increased congestion at times. Find out how we plan to keep the Capital moving, and how you can help improve your journey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Live traffic information\"}",
+     "For live information on traffic conditions in London, you can:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Check our \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/\\\"\\u003etraffic status tool\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://twitter.com/tfltrafficnews\\\"\\u003eFollow @TfLTrafficNews on Twitter\\u003c/a\\u003e \",\"For the latest information on how buses are running, see our \\u003ca href=\\\"https://tfl.gov.uk/bus/status/\\\"\\u003ebus status updates\\u003c/a\\u003e or follow \\u003ca href=\\\"https://twitter.com/TfLBusAlerts\\\"\\u003e@TfLBusAlerts on Twitter\\u003c/a\\u003e \",\"Check cycle hire availability using the \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003e live docking station map\\u003c/a\\u003e , and follow \\u003ca href=\\\"http://www.twitter.com/santandercycles\\\"\\u003e@SantanderCycles \\u003c/a\\u003e on Twitter\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Major works on our network\"}",
+     "To help you plan your journey, we regularly estimate the impact of construction works on your journey time.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Downloads\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"All-London traffic impact map - June 2019\",\"url\":\"/cdn/static/cms/documents/major-works-v128-jun.pdf\",\"icon\":\"download\",\"size\":\"PDF 853KB\",\"image\":{}},{\"title\":\"All-London traffic impact map - May 2019\",\"url\":\"/cdn/static/cms/documents/major-works-v128-may.pdf\",\"icon\":\"download\",\"size\":\"PDF 854KB\",\"image\":{}},{\"title\":\"Areas affected by postcode - May and June 2019\",\"url\":\"/cdn/static/cms/documents/postcodes-may-and-june.xls\",\"icon\":\"download\",\"size\":\"XLS 706KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Major roadworks\"}",
+     "Find out specific travel advice for current projects in London:",
+     "\u003cstrong\u003eCentral London works\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/status-updates/major-works-and-events/baker-street-roadworks\\\"\\u003eBaker Street roadworks\\u003c/a\\u003e \",\"Trinity Square works\",\" \\u003ca href=\\\"/status-updates/major-works-and-events/victoria-embankment\\\"\\u003eVictoria Embankment\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Blackwall Tunnel\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"In 2015, there were 350 breakdowns in or on the approach to the tunnel. Make sure your vehicle is well maintained and check your fuel before you travel\",\"The maximum height of the northbound tunnel is 4.0m/13\\\". The maximum height of the southbound tunnel is 4.7m/15.4\\\". Check your vehicle - if exceeds this, you'll need to use an alternative route\",\"Pedestrians and cyclists are not allowed to enter the Blackwall Tunnel for safety reasons\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Peak times\"}",
+     "Journey times are increasing in the tunnel. You could have a quicker journey if you're able to avoid the busiest times.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Castelnau\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Peak times\"}",
+     "Journey times are increasing during peak times at Castelnau. The following charts highlight the busiest times of the day to drive through Castelnau on weekdays and weekends.You could have a quicker journey if you can avoid the busiest times.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"A2 New Cross Road\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Peak times\"}",
+     "Journey times are increasing at A2 New Cross Road eastbound. The following charts highlight the busiest times of the day to drive through A2 New Cross Road eastbound on weekdays and weekends. You could have a quicker journey if you can avoid the busiest times.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitter",
+    "title": "Tweets by TfLTrafficNews",
+    "link": {
+     "url": "https://twitter.com/TfLTrafficNews",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,219 @@
+{
+ "pageTitle": "Boroughs",
+ "keywords": "Boroughs,TfL",
+ "description": "We have services to help London's 33 local authorities make planning decisions affecting the Capital's transport network, particularly roads",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs"
+  }
+ ],
+ "title": {
+  "title": "Boroughs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We work closely with London's 32 boroughs and the City of London to integrate transport planning and operations across the Capital.",
+     "In this section borough officers and members can find information and toolkits on a range of subjects. Examples include funding streams, TfL's major projects, operational performance and sub-regional activity. Contact details for additional enquiries are also available."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Borough funding",
+    "texts": [
+     "Our funding streams include LIPs and Crossrail complementary measures"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/borough-funding",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/workers_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Improvements \u0026 projects",
+      "url": "/travel-information/improvements-and-projects/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Urban planning and construction",
+      "url": "/info-for/urban-planning-and-construction/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Information by borough",
+    "texts": [
+     "LIPS letters, traffic management updates and more for each borough"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/shard-boroughs.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Publications \u0026 reports",
+    "texts": [
+     "Find key documents produced by TfL"
+    ],
+    "link": {
+     "url": "/corporate/publications-and-reports/index",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Planning \u0026 resources",
+    "texts": [
+     "Get help with Sub-regional transport plans or download campaign material"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/planning-and-resources",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/box-junction_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Cycle Superhighways",
+      "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Safety enforcement cameras",
+      "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Schools \u0026 young people",
+      "url": "/info-for/schools-and-young-people/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Transport \u0026 healthcare",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Strategic transport \u0026 land-use models",
+      "url": "/corporate/publications-and-reports/strategic-transport-and-land-use-models",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related website",
+    "links": [
+     {
+      "title": "TfL consultation hub",
+      "url": "https://consultations.tfl.gov.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

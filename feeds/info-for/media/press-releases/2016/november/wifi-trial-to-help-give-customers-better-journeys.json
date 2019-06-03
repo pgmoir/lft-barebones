@@ -1,0 +1,270 @@
+{
+ "pageTitle": "WiFi trial to help give customers better journeys",
+ "description": "WiFi information trial to help give London Underground customers better journeys",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2016",
+   "url": "/info-for/media/press-releases/2016"
+  },
+  {
+   "title": "November",
+   "url": "/info-for/media/press-releases/2016/november"
+  },
+  {
+   "title": "WiFi trial to help give customers better journeys"
+  }
+ ],
+ "title": {
+  "title": "WiFi trial to help give customers better journeys",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Four week trial collecting depersonalised WiFi connection data will help TfL better understand how passengers move through stations and interchange between lines"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"If trial is successful, data could be used to improve services, provide better travel information and help prioritise investment across the Tube network\"]}",
+     "Transport for London (TfL) is beginning a short trial that will see de-personalised WiFi connection data collected at 54 London Underground stations within Zones 1-4 to help improve the services it offers customers.",
+     "The trial, which will last four weeks from 21 November, will help give TfL a more accurate understanding of how people move through stations, interchange between services and how crowding develops. This may enable TfL to improve its services, provide better travel information and help prioritise investment.",
+     "By analysing in-station WiFi connection data, a number of potential benefits have been identified:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Providing better customer information for journey planning and avoiding congestion;\",\"Helping TfL better manage disruptions and events and ensure a safe environment for all;\",\"Better planning of timetables, station designs and major station upgrades\"]}",
+     "By understanding how customers move through and around stations, TfL also believes it may be able increase revenue from companies who advertise on poster sites or rent retail units to reinvest in improving services across London.",
+     "The trial will work by collecting WiFi connection requests from mobile devices as customers pass through stations. When a device has WiFi enabled, it will continually search for a WiFi network by sending out a unique identifier - known as a Media Access Control address - to nearby routers.",
+     "The data collected is automatically de-personalised. No browsing data will be collected and TfL will not be able to identify any individuals.",
+     "No data collected through the trial will be made available to any third-parties and posters will be on display within stations to let customers know that the trial is taking place. Should any customers wish to opt-out of the trial, they simply need to turn off their WiFi while passing through the station.",
+     "Shashi Verma, Chief Technology Officer at Transport for London, said:",
+     "'This short trial will help us understand whether WiFi connection data could help us plan and operate our transport network more effectively for customers. Historically, if we wanted to know how people travelled we would have to rely on paper surveys and manual counting, which is expensive, time consuming and limited in detail and reliability. We hope the results of this trial will enable us to provide customers with even better information for journey planning and avoiding congestion.'",
+     "Sue Daley, Head of Big Data, Cloud \u0026 Mobile at techUK, said:",
+     "'TfL is unlocking the power of data to gain insights into how passengers are using the network and drive its transformation into a smart transport system. The availability of big data analytics tools and technologies means that organisations, of all sizes and sectors, are increasingly able to make data driven decisions that can make a real difference to customers' lives. In this case, it will mean more accurate passenger insights and easier journeys for customers.'",
+     "TfL already uses a range of data, such as aggregated and de-personalised Oyster and Contactless payment data and manual paper surveys, to understand how customers travel across London. While these data sources provide detail on the origin and destination of customers' journeys, there are many options that customers could take across the network to complete their journey.",
+     "Traditional paper surveys are also expensive, take time to process and can only provide a snapshot of travel patterns on the day of survey. They are also unable to provide the continuous information detailing the varied travel patterns on the network.",
+     "For more information about the trial, please visit \u003ca href=\"http://www.tfl.gov.uk/privacy\"\u003ewww.tfl.gov.uk/privacy\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL's approach to collecting depersonalised (pseudonimised) Wi-Fi data has been discussed with the Information Commissioners Office and follows their published guidance - \\u003ca href=\\\"https://ico.org.uk/media/1560691/wi-fi-location-analytics-guidance.pdf\\\"\\u003ehttps://ico.org.uk/media/1560691/wi-fi-location-analytics-guidance.pdf\\u003c/a\\u003e \",\"All data from the trial will be securely stored with restricted user access.\",\"TfL carried out customer research to test the proposal through a qualitative research exercise. The overall feedback from the focus groups was positive.\",\"Earlier this year, TfL also carried out a two-day modelling exercise to understand whether this method of data collection was possible.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2016/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2016/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2016/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2016/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2016/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2016/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2016/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2016/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2016/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2016/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2016/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2016/december",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

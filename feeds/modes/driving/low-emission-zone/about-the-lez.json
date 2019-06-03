@@ -1,0 +1,237 @@
+{
+ "keywords": "Bus operators,Businesses,Coach drivers,Drivers,Freight industry,Planning and construction,Public,Schools and young people,Suppliers,Buses,Coaches,Driving,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "LEZ: Where and when"
+  }
+ ],
+ "title": {
+  "title": "LEZ: Where and when",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Low Emission Zone (LEZ) was set up to encourage the most polluting heavy diesel vehicles driving in the Capital to become cleaner. It covers most of Greater London and operates 24 hours a day, every day of the year.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where it operates\"}",
+     "Enter a street name, postcode or landmark in the box below to view its location in relation to the zone. To confirm if an address is inside or outside the zone, use the postcode checker below the map.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Search\"}",
+     "Please go to the postcode checker below",
+     "You can open the map menu to also check the Congestion Charge and ULEZ zone.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Postcode search\"}",
+     "Our postcode checker can tell you if an address is in the LEZ charging zone. (These results will not show on the map above).",
+     "Please go to post code checker at the bottom of the page",
+     "All roads within Greater London, those at Heathrow and parts of the M1 and M4 are included. However, the M25 is not included (even where it passes within the GLA boundary). Look out for signs at the boundary and side of the road to see \u003ca href=\"/modes/driving/low-emission-zone/about-the-lez/lez-road-signs\"\u003ewhere LEZ applies\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Driving in central London\"}",
+     "\u003cstrong\u003eThe LEZ isn't the same as the Congestion Charge zone in central London.\u003c/strong\u003e The \u003ca href=\"/modes/driving/congestion-charge\"\u003eCongestion Charge\u003c/a\u003e applies 07:00-18:00 Monday to Friday, excluding public and bank holidays. If you drive within the charging zone during these times you need to pay the Congestion Charge, even if you meet the LEZ emissions standards or have paid the daily LEZ charge.",
+     "You will also need to pay the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e charge if you don't meet the ULEZ standards - the ULEZ operates at the same times as the LEZ.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"When it operates\"}",
+     "The LEZ operates 24 hours a day, every day of the year, including weekends and public and bank holidays.",
+     "Charging days run from midnight to midnight - if you drive within the LEZ between 23:30 and 01:00 the next day, you'd need to pay for two days.",
+     "Vehicles parked in the zone but not driving are not subject to LEZ requirements for that day.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How the LEZ works\"}",
+     "There are no barriers or toll booths within the LEZ. Instead, cameras will read your number plate as you drive within the LEZ and check it against our database of registered vehicles.",
+     "This database is compiled using information from the DVLA, DVA, the Driver and Vehicle Standards Agency (DVSA), generic vehicle weight data typical of the make and model, and drivers and operators who have registered with us.",
+     "This tells us automatically whether your vehicle meets the LEZ emissions standards, is exempt, is registered for a discount, or if you've already paid the daily charge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicles registered outside the UK\"}",
+     "If you're driving a vehicle registered outside the UK, you'll need to register it with us to let us know that it meets the LEZ emissions standards so we can add your vehicle to our database.",
+     "It's important that you do this, because if you drive in the LEZ without registering, even if your vehicle meets the standards, you'll have to pay the daily charge, or may receive a Penalty Charge Notice.",
+     " \u003ca href=\"/modes/driving/low-emission-zone/find-out-if-you-need-to-register\"\u003eFind out more about registering your vehicle\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Future changes to LEZ and ULEZ\"}",
+     "In addition to the existing LEZ emissions standards operating across most of Greater London, a phased implementation of tighter emissions standards will affect different vehicle types and different geographical areas within London.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From 26 October 2020\"}",
+     "Emissions standards, daily charges and penalties will change for lorries, buses, coaches, and other specialist vehicles over 3.5 tonnes being used within the LEZ. (Vehicles that comply with ULEZ will already meet the tighter emissions standards.)",
+     "\u003cstrong\u003eSee the \u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From 25 October 2021\"}",
+     "The ULEZ boundary around central London will be extended to create a larger zone bounded by the North and South Circular Roads. If you drive any vehicle within this enlarged area you will need to meet new tighter emissions standards or pay a daily charge. This daily charge is in addition to the weekday Congestion Charge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Non-road mobile machinery\"}",
+     "We also need to reduce emissions from non-road mobile machinery (NRMM) to protect and improve Londoners' health.",
+     "A NRMM LEZ sets minimum emissions standards for machinery used on construction sites. More information is on the \u003ca href=\"https://nrmm.london/\"\u003eNRMM London website\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "LEZ road signs",
+      "url": "/modes/driving/low-emission-zone/about-the-lez/lez-road-signs",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

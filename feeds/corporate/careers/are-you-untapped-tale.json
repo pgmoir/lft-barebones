@@ -1,0 +1,125 @@
+{
+ "keywords": "TfL",
+ "description": "If you are just starting out, returning to work after a long break or trying to change career, Smart Sourcing may be able to help.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Smart Sourcing programme",
+   "url": "/corporate/careers/smart-sourcing-programme"
+  },
+  {
+   "title": "Are you untapped talent?"
+  }
+ ],
+ "title": {
+  "title": "Are you untapped talent?",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Lots of people have difficulty finding work or moving on in their careers - even though they have a great deal to offer. If you are just starting out, returning to work after a long break or trying to change career, our Smart Sourcing scheme may be able to help you.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We want a workforce as diverse as the population of London. That means helping people to overcome the barriers they face when they're looking for work and looking for people with untapped talent. Smart Sourcing helps us by opening up our opportunities to everyone and attracting the widest possible range of people.",
+     "We provide support at every stage of your career - from templates, examples and advice to help you prepare your CV and cover letters to interview skills training.",
+     "Our supported placements can help you break into the transport industry, or get back to work after a career break.",
+     "Our support doesn't stop once you've joined us: we'll continue to give you employability skills support and run insight days to help you move on in your career and find out about other opportunities available across our business.",
+     "Our employees include many people who haven't had a conventional career or who have faced difficulties along the way. Ex service people, those returning to work after a long break, ex-offenders and young people from disadvantaged backgrounds are all enjoying successful careers at TfL and contributing to running London's transport network.",
+     "Take a look at what some of the people who have joined us via the Smart Sourcing programme have to say:",
+     "{\"template\":\"video\",\"style\":\"7WGsvSPF0Qc\",\"title\":\"Kevin Potter\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Are you untapped talent?",
+      "url": "/corporate/careers/are-you-untapped-tale",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

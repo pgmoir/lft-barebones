@@ -1,0 +1,74 @@
+{
+ "pageTitle": "BBC Proms comes to the Tube",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "BBC Proms comes to the Tube",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Passengers will be treated to a live BBC Proms concert at Leicester Square Tube station on Thursday 26 June."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We hope that passengers will enjoy the free concert",
+     "A viola quartet from the BBC Symphony Orchestra will be playing between 13:00 and 14:00.",
+     "This short performance is part of the BBC Proms Out+About project, where for one day only some of London's finest musicians serenade new audiences with free live music in unusual locations across the Capital.",
+     "The BBC Symphony Orchestra is the flagship orchestra of the Proms.",
+     "Each year they perform over 12 Proms, including the First and Last Nights.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Listen while you travel\"}",
+     "The classical viola players will be taking centre stage on one of the London Underground (LU) busking pitches at the station.\u003cbr /\u003e\u003cbr /\u003eRichard Parry, Director of Strategy and Service Development for LU said: 'The London Underground busking scheme continues to be a great success with the travelling public.",
+     "'We welcome the collaboration with BBC proms and the opportunity to bring this music to our customers.",
+     "'We hope that passengers will enjoy the free concert.'",
+     "LU is looking for a new sponsor for the popular busking scheme to start from the end of July.",
+     "Offers are welcome and will be considered.",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

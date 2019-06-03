@@ -1,0 +1,192 @@
+{
+ "pageTitle": "Accepting card payments",
+ "keywords": "TfL",
+ "description": "Information for taxi drivers about the card payments mandate",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Ranks, regulation and policy",
+   "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy"
+  },
+  {
+   "title": "Accepting card payments"
+  }
+ ],
+ "title": {
+  "title": "Accepting card payments",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Information about accepting card payments.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi drivers\"}",
+     "All licensed taxis must be fitted with a TfL approved card payment device installed in the passenger compartment which has the facility to produce a printed receipt upon request by the passenger.",
+     "All taxi drivers must accept card and contactless payments via the approved TfL fixed card payment device located in the passenger compartment and provide printed receipts for those payments upon request. Handheld payment devices do not meet the licensing requirements and are regarded as unapproved devices.",
+     "Any taxi found not complying with the requirement will be issued with an unfit notice, which will remain in place until the requirement is fulfilled and the vehicle is presented for inspection. A driver found to be using any unapproved device also may have their fitness to be licensed reviewed. All taxis must also display the taxi contactless and card acceptance signs:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi contactless and card acceptance signs\",\"url\":\"/cdn/static/cms/documents/taxi-payment-signage.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.68MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are no exemptions from the card payment mandate, including the requirement that a card payment terminal must be fitted within the passenger compartment.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Card payment providers\"}",
+     "We currently have 16 card payment providers with approved systems that meet the new card payment requirements. 11 of these are approved for use in the new LEVC TX eCity taxi.",
+     "{\"template\":\"table\",\"rows\":[[\"h3\",\"h3\",\"h3\",\"h3\",\"h3\"],[\"Cab:app Ltd\",\"Miura M010\",\" \\u003ca href=\\\"https://cabapp.io\\\"\\u003ecabapp.io\\u003c/a\\u003e \",\"07508 550 211\",\"Yes\"],[\"Cabvision Network Ltd\",\"Ingenico IPP220\\u003cbr /\\u003eIngenico IPP350\",\" \\u003ca href=\\\"http://www.cabvision.com\\\"\\u003ewww.cabvision.com\\u003c/a\\u003e \",\"020 7655 6970\",\"Yes\"],[\"CMT UK Ltd\",\"CMT FREEdom Solution\",\" \\u003ca href=\\\"http://www.cmt.london\\\"\\u003ewww.cmt.london\\u003c/a\\u003e \",\"020 7183 1894\",\"Yes\"],[\"ComCab\",\"VeriFone VX820\",\" \\u003ca href=\\\"http://www.comcablondon.com/\\\"\\u003ewww.comcablondon.com\\u003c/a\\u003e \",\"020 8962 1800\",\"Yes\"],[\"Curb Mobility Ltd\",\"VeriFone VX680\",\" \\u003ca href=\\\"http://www.gocurb.com\\\"\\u003ewww.gocurb.com\\u003c/a\\u003e \",\"0333 666 1000\",\"Yes\"],[\"Dial a Cab\",\"Ingenico IPP350\",\" \\u003ca href=\\\"http://www.dialacab.co.uk/\\\"\\u003ewww.dialacab.co.uk\\u003c/a\\u003e \",\"020 7251 0581\",\"Yes\"],[\"Farepay Ltd\",\"Miura M010\",\" \\u003ca href=\\\"http://www.farepay.co.uk\\\"\\u003ewww.farepay.co.uk\\u003c/a\\u003e \",\"020 3369 9691\",\"No\"],[\"Ingenico\",\"Ingenico ICT220\\u003cbr /\\u003eIngenico ICT350\",\" \\u003ca href=\\\"https://ingenico.co.uk/\\\"\\u003eingenico.co.uk\\u003c/a\\u003e \",\"020 3702 1500\",\"No\"],[\"iZettle\",\"Miura M010\",\" \\u003ca href=\\\"https://www.izettle.com/gb/card-readers\\\"\\u003ewww.izettle.com\\u003c/a\\u003e \",\"07885 294 841\",\"Yes\"],[\"MyTaxi\",\"SumUp Air\",\" \\u003ca href=\\\"http://www.mytaxi.com\\\"\\u003ewww.mytaxi.com\\u003c/a\\u003e \",\"020 3936 0890\",\"Yes\"],[\"Payataxi\",\"Miura M010\",\" \\u003ca href=\\\"http://www.payataxi.com\\\"\\u003ewww.payataxi.com\\u003c/a\\u003e \",\"0333 123 1243\",\"Yes\"],[\"SumUp (formerly Payleven)\\u003cbr /\\u003e\",\"Miura M010\",\" \\u003ca href=\\\"https://sumup.co.uk/payleven\\\"\\u003ewww.sumup.co.uk/payleven\\u003c/a\\u003e \",\"0203 510 9457\",\"No\"],[\"PayPal\",\"Miura M010\",\" \\u003ca href=\\\"http://www.paypal.com/uk/webapps/mpp/taxi\\\"\\u003ewww.paypal.com\\u003c/a\\u003e \",\"0800 358 7911\",\"Yes\"],[\"Sherbet\",\"MT Data\\u003cbr /\\u003eIngenico IPP350\",\" \\u003ca href=\\\"http://www.mtdata-uk.com\\\"\\u003ewww.mtdata-uk.com\\u003c/a\\u003e \",\"0844 800 8772\",\"No\"],[\"Taxiworld Ltd\",\"Taxiworld FREEdom Solution\",\" \\u003ca href=\\\"http://www.taxiworld.co.uk\\\"\\u003ewww.taxiworld.co.uk\\u003c/a\\u003e \",\"020 8885 8666\",\"Yes\"],[\"The Payment House\",\"Miura M010\",\" \\u003ca href=\\\"http://thepaymenthouse.com/contact-us\\\"\\u003ewww.thepaymenthouse.com\\u003c/a\\u003e \",\"07454 545 542\",\"No\"]]}",
+     "Taxi drivers must have the facility to offer a printed receipt on demand, in accordance with our \u003ca href=\"/corporate/publications-and-reports/taxi-and-private-hire\"\u003eElectronic Payment Guidance\u003c/a\u003e .",
+     "If you know of a card payment device that has not been approved by TfL, but which you would like to use, please ask the company to contact TfL as it may be possible for us to approve their device.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Further information\"}",
+     "The TfL Board agreed that passengers should be able to pay by card, including contactless, at its meeting on 3 February 2016 and from 31 October 2016 all licensed taxi drivers have been required to accept credit and debit card payments. As of 1 January 2017, all card payment devices were required to be securely fitted in the passenger compartment.",
+     "More information about this is available in \u003ca href=\"https://tfl.gov.uk/corporate/publications-and-reports/board-papers\"\u003ethe TfL Board paper\u003c/a\u003e and notice 13/16 on \u003ca href=\"/info-for/taxis-and-private-hire/notices-and-consultations\"\u003ethis web page\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"The London Cab Order 2016 - Card payment acceptance\",\"url\":\"/cdn/static/cms/documents/the-london-cab-order.pdf\",\"icon\":\"download\",\"size\":\"PDF 84KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If after reading these, you need further guidance, please email us at \u003ca href=\"mailto:tph.enquiries@tfl.gov.uk\"\u003etph.enquiries@tfl.gov.uk\u003c/a\u003e or call our licensing team on 0343 222 4444 (Monday to Friday, 08:00-18:00, \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges apply\u003c/a\u003e )",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Accepting payment via online services\"}",
+     "Payments through apps such as HailoPay etc. are permitted if a passenger has access to the app via their own phone or device. Drivers must not enter card details into their own phone or device to process a payment.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Problems with card payments\"}",
+     "Drivers are not expected to leave their cab should a problem with payment arise and they do not feel safe to do so.",
+     "Should a problem occur, our advice to drivers is:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Ask the passenger to try their payment card again\",\"If the issue persists, ask the passenger whether they have another payment card or cash to pay for the fare\",\"If not, offer to take the passenger to the nearest cashpoint\"]}",
+     "If a passenger refuses to pay and an amicable agreement cannot be found, drivers should consider contacting the police.",
+     "All taxi drivers must check that the card payment device is fully working before starting work.",
+     "If a taxi driver experiences any problems with their card payment device they should contact the provider of the card payment system as soon as possible in order to report the problem and rectify the issue.",
+     "If you rent a taxi then you must immediately report the problem to the proprietor so they can report this to the card payment device company and arrange for the device to be fixed or replaced, and provide you with a replacement taxi if necessary.",
+     "When reporting a problem, the card payment device company should be asked to provide:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Confirmation that the problem has been reported\",\"Details of the appointment for the device to be fixed or replaced\"]}",
+     "This information must then be produced if you are stopped by a TfL Compliance Officer before the card payment device has been fixed or replaced.",
+     "If you experience any problems with your card payment device outside of office hours you should follow the same steps as above.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Network data outages\"}",
+     "If there is a documented network-wide outage affecting many card payment devices, affected drivers should advise passengers - before accepting a fare - that they cannot take a card payment and why. Advise passengers that cash payments can be taken and offer to take them to a cashpoint. Under no circumstances should drivers use an alternative, non-fixed card payment device.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Private hire operators\"}",
+     "Since 13 January 2018 it has been an offence for companies, including private hire operators, to charge their customers a surcharge, or extra, because they are paying by credit or debit card.",
+     "Information about this change to the law can be found on the \u003ca href=\"https://www.gov.uk/government/news/rip-off-card-charges-to-be-outlawed\"\u003egovernment's website\u003c/a\u003e .",
+     "Complaints about being charged more when paying by debit or credit card should be reported to your \u003ca href=\"https://www.tradingstandards.uk/consumers/support-advice\"\u003elocal Trading Standards office\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "Taxi ranks",
+      "url": "/info-for/taxis-and-private-hire/taxi-ranks",
+      "image": {}
+     },
+     {
+      "title": "Changes to private hire regulation",
+      "url": "/info-for/taxis-and-private-hire/new-private-hire-regulations",
+      "image": {}
+     },
+     {
+      "title": "English language requirement",
+      "url": "/info-for/taxis-and-private-hire/english-language-requirement",
+      "image": {}
+     },
+     {
+      "title": "Accepting card payments",
+      "url": "/info-for/taxis-and-private-hire/accepting-card-payments",
+      "image": {}
+     },
+     {
+      "title": "Parking information",
+      "url": "/info-for/taxis-and-private-hire/parking-information",
+      "image": {}
+     },
+     {
+      "title": "Passengers and accessibility",
+      "url": "/info-for/taxis-and-private-hire/passengers-and-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for taxis",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-taxis",
+      "image": {}
+     },
+     {
+      "title": "PHVs and the Congestion Charge",
+      "url": "/info-for/taxis-and-private-hire/phvs-and-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for PHVs",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-phvs",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

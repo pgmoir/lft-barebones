@@ -1,0 +1,65 @@
+{
+ "pageTitle": "Update on Woolwich Ferry service",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Update on Woolwich Ferry service ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Following an incident on the Woolwich Ferry today, the service will remain suspended for the remainder of the day."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "From tomorrow, Thursday 4 August, it will operate a reduced one boat service between the hours of 06:10 and 22:00 until further notice.",
+     "London River Services would like to apologise for any inconvenience this may cause and would like to thank you for your patience during this time.",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

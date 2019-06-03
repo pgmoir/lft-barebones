@@ -1,0 +1,56 @@
+{
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "View, add and/or remove vehicles"
+  }
+ ],
+ "title": {
+  "title": "View, add and/or remove vehicles",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can view, add and/or remove vehicles from your selected partner Congestion Charge discount.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Records of vehicles that you have added and removed from your discount are in your \u003ca href=\"/modes/driving/cc-autopay-manage-view-vehicle-history-30894\"\u003evehicle history\u003c/a\u003e .",
+     "\u003cstrong\u003eFind out more about adding or removing vehicles\u003c/strong\u003e in the selected partner user guide.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Selected partner user guide\",\"url\":\"/ruc-cdn/static/cms/documents/selected-partner-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 772KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "span",
+     "You can make multiple changes to your selected partner discount vehicle list by uploading a single file.",
+     "When you add vehicles for the first time, you need to download a blank template.",
+     "If you already have vehicles on your discount you should download and modify your current list.",
+     "\u003cstrong\u003eUploading a new list will overwrite your existing list.\u003c/strong\u003e This means that any vehicles not on your new list will not be active on your selected partner discount and you will need to pay the charge another way if you drive within the Congestion Charge zone.",
+     "If you have vehicles that don't meet or are not exempt from the ULEZ emissions standards, you need to upload them to your Auto Pay service to avoid getting a penalty."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

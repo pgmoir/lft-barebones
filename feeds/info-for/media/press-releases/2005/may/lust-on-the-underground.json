@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Lust on the Underground",
+ "description": "The latest series of Poems on the Underground features six poems that illustrate and explore the cause and effect of human passion, unchanging from the 16th century to the present day. Any Tube traveller whose fancy has been lightly turned to thoughts of",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Lust on the Underground",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Lust, love, the dreams of innocence and the lessons of experience will be on display on the Underground for the next eight weeks."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The latest series of Poems on the Underground features six poems that illustrate and explore the cause and effect of human passion, unchanging from the 16th century to the present day.",
+     "Any Tube traveller whose fancy has been lightly turned to thoughts of love by the spring will find much to enjoy in:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Lines fromemby Christopher Marlowe\",\"emfrom AE Housman's\\u003cbr /\\u003eem\",\"emby American poet Frank O'Hara\",\"emby Emily Dickinson\",\"emby Jenny Joseph\",\"emby John F Deane\"]}",
+     "Poems on the Underground will be more visible than ever in this series.",
+     "The poems will appear on 3,000 advertising spaces, an increase of a third over previous series.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Poems on the Underground is produced in association with Platform for Art, London Underground's Public Art programme\",\"The poems are selected and the programme is administered by writer Judith Chernaik and poets Gerard Benson and Cicely Herbert\",\"Poems on the Underground is supported by London Underground, Arts Council England and the British Council which distributes the posters to its offices throughout the world.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

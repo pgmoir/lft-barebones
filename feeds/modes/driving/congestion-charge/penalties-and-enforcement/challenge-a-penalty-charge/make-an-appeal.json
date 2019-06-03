@@ -1,0 +1,162 @@
+{
+ "pageTitle": "Make an appeal",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "How to appeal to London Tribunals if your representation has been rejected",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Penalties and enforcement",
+   "url": "/modes/driving/congestion-charge/penalties-and-enforcement"
+  },
+  {
+   "title": "Challenge a penalty charge",
+   "url": "/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge"
+  },
+  {
+   "title": "Make an appeal"
+  }
+ ],
+ "title": {
+  "title": "Make an appeal",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can only appeal to London Tribunals, an independent adjudication service, if you have made a representation in time which has been rejected by us. You will have been sent a Notice of Appeal form with the Notice of Rejection.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "London Tribunals is an independent body which acts as an adjudication service. In the normal course of events both you and we will have to comply with any decision made by London Tribunals.",
+     "If you disagree with our decision to reject your representation, you have the right to appeal to London Tribunals.",
+     "{\"template\":\"bulletlist\",\"items\":[\"To appeal you need to complete the form sent with the Notice of Rejection\",\"Do not send this to us but to the address shown on the appeal form\",\"You may opt for either a personal or postal hearing\"]}",
+     "\u003cstrong\u003eRemember you only have 28 days from the date of service of the Notice of Rejection to appeal to London Tribunals.\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"You need to provide all your evidence to the adjudicator and not us\",\"When we are notified of your appeal by London Tribunals, the PCN will be frozen at the relevant amount that is outstanding at that time\",\"We will provide an evidence pack to London Tribunals and will provide you with a copy of this evidence\",\"The adjudicator will then make a decision looking at the evidence in your appeal and our evidence pack. When considering a case, adjudicators cannot consider mitigating circumstances or apply their discretion\",\"A copy of the adjudicator's decision will be sent to both you and us\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Appeal allowed\"}",
+     "If your appeal is successful you will receive a decision from London Tribunals outlining that your appeal has been 'allowed'. This means that either we have reconsidered the evidence and now decided not to contest the appeal or that the adjudicator has considered the facts and found in your favour. This will mean that you may no longer be liable for the PCN, and if you paid the PCN the money paid will be refunded.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Appeal refused\"}",
+     "If your appeal is unsuccessful you will receive a decision from London Tribunals outlining that your appeal has been 'refused'. This means that following consideration by the adjudicator, the tribunal has found in our favour. In the decision you receive from London Tribunals, the adjudicator will outline the reasons why the appeal has been refused and give direction as to the amount that should be paid to us and how quickly this must be paid.",
+     "More information about the appeals process can be found at the \u003ca href=\"http://www.londontribunals.gov.uk\"\u003eLondon Tribunals website\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Challenge a penalty charge",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge",
+      "image": {}
+     },
+     {
+      "title": "Make a representation",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Make an appeal",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-an-appeal",
+      "image": {}
+     },
+     {
+      "title": "Make a Statutory Declaration",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-a-statutory-declaration",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agents and bailiffs",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/enforcement-agents-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

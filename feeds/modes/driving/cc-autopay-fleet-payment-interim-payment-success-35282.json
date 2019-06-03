@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Confirmation",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Confirmation"
+  }
+ ],
+ "title": {
+  "title": "Confirmation",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "You have made a payment of {0} to your Fleet Auto Pay service.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What happens next\"}",
+     "Your Auto Pay service will be reactivated from today's date. All charges due for vehicles active on your service will be taken automatically each month.",
+     "If your monthly payment to us failed, please check your payment details and update them if needed."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

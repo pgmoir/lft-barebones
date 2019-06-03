@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Town centre reports",
+ "keywords": "Boroughs,Bus operators,Bus passengers,Businesses,Cyclists,DLR passengers,London Overground passengers,Planning and construction,Public,Rail passengers,Tube passengers,T,TfL",
+ "description": "Contributions made by bus users and other modes to the economic health and viability of town centres across London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Town centre reports"
+  }
+ ],
+ "title": {
+  "title": "Town centre reports",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Contributions made by bus users and other modes to the economic health and viability of town centres across London\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Town centre summary\",\"url\":\"/cdn/static/cms/documents/town-centre-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 18KB\",\"image\":{}},{\"title\":\"Town centre report\",\"url\":\"/cdn/static/cms/documents/town-centres-report-13.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.61MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

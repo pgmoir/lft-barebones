@@ -1,0 +1,75 @@
+{
+ "pageTitle": "Blue Badges and driving",
+ "keywords": "TfL",
+ "description": "Advice on Blue Badges and driving in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transport accessibility",
+   "url": "/transport-accessibility/index"
+  },
+  {
+   "title": "Blue Badges and driving"
+  }
+ ],
+ "title": {
+  "title": "Blue Badges and driving",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Blue Badge scheme helps you park closer to your destination if you have mobility problems.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you are a Blue Badge holder there are a number of options available to you. These include provisions for stopping to set down or pick up passengers and parking spaces which are reserved solely for the use of Blue Badge holders.",
+     "However, the standard entitlements of the Blue Badge do not apply in parts of central London.",
+     "Find out more on the \u003ca href=\"http://www.bluebadgelondon.org.uk\"\u003eBlue Badge London website.\u003c/a\u003e ",
+     "If you hold a valid Blue Badge, you're eligible to register for a 100 per cent discount for the Congestion Charge, even if you don't own a vehicle or drive. If your vehicle has a disabled road fund licence (tax disc) you will receive the 100 per cent discount automatically, and there is no need to register.",
+     " \u003ca href=\"/modes/driving/congestion-charge/discounts-and-exemptions#on-this-page-0\"\u003eFind out about Congestion Charge discounts\u003c/a\u003e .",
+     "Our Blue Badge guide includes information on parking and stopping on the red route, allowances for taxis and minicabs, as well as general advice on using your Blue Badge.",
+     "To learn more about making the most of what's available download a copy on the link below. Hard copies are also available - if you'd like one email our customer services team at \u003ca href=\"mailto:customerservices@tfl.gov.uk?Subject=Request%20for%20Blue%20Badge%20holders'%20guide%20to%20red%20routes\"\u003ecustomerservices@tfl.gov.uk\u003c/a\u003e . Please include your name and address.",
+     "Blue Badge holders' guide",
+     "PDF 801KB"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

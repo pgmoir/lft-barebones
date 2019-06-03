@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Londoners swap cars for public transport",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Londoners swap cars for public transport",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London is way ahead of many Europe cities when it comes to residents choosing to travel by public transport. Figures released today from Transport for London revealed that even more Londoners are turning to public transport and are set to continue to do so, bucking national and international trends."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The study shows that between 1999 and 2003:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Overall, public transport's mode share in London increased by 4 per cent;\",\"Travel by car has fallen by up to 4 per cent or 400,000 trips;\",\"Bus travel increased by over 30 per cent or by over 1.1 million trips daily from 3.6 to 4.7 million trips per day; and\",\"Train and Tube use increased by 5 per cent to 10 per cent.\"]}",
+     "Assuming continued government grant for the capital, public transport's share of trips could grow from 36 to 39 per cent of all trips by 2016.",
+     "TfL's Director of Planning and Policy Barry Broe said:",
+     "\"The trend for increasing public transport use, despite growing car ownership, sets London apart from other UK and European cities. Affordable and simple fares, service improvements and the impact of congestion charging have combined to attract Londoners back to the bus and this looks set to continue.",
+     "\"However, without increased funding from central Government, these gains are unlikely to continue. London's population is also set to grow by 800,000 by 2016, placing greater demands on public transport in London.\"",
+     "A European Community study on transport use in European cities found that only 6 out of 17 cities had any growth in public transport use between 1991 and 2000, including a 0.3 per cent decline in Paris. The study showed that in 2000 public transport use was 28 per cent in Berlin; 19 per cent in Paris; 31 per cent in Madrid; 46 per cent in Prague; 14 per cent in Brussels and 31 per cent in Barcelona.",
+     "Trends for 2004 suggest that further significant growth in bus use is likely despite the new fares introduced in January 2004. Modest growth is expected in Tube and train travel. Car travel volumes are likely to continue to decline, even in outer London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

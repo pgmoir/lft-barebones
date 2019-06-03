@@ -1,0 +1,200 @@
+{
+ "pageTitle": "Oxleas Wood to Mottingham",
+ "keywords": "TfL",
+ "description": "Section six of the Green Chain Walk offers a gentle and picturesque route through to Falconwood.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Green Chain Walk",
+   "url": "/modes/walking/green-chain-walk"
+  },
+  {
+   "title": "Oxleas Wood to Mottingham"
+  }
+ ],
+ "title": {
+  "title": "Oxleas Wood to Mottingham",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Section six of the Green Chain Walk offers a gentle and picturesque route through to Falconwood.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route information\"}",
+     "This section shares its route with sections one and two of the Capital Ring Walk.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Section start: Oxleas Wood\",\"Nearest public transport to the start: Oxleas Wood (bus stop on Shooters Hill /A207) or Falconwood (Rail)\",\"Section finish: Mottingham\",\"Nearest public transport to the finish: Mottingham (Rail)\",\"Section distance: 3.7 miles (6 km)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Long Pond\",\"Eltham Palace\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Map\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Green Chain Walk section 6\",\"url\":\"/cdn/static/cms/documents/green-chain-walk-section-6.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.82MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Thamesmead to Lesnes Abbey",
+      "url": "/modes/walking/thamesmead-to-lesnes-abbey",
+      "image": {}
+     },
+     {
+      "title": "Erith to Bostall Woods",
+      "url": "/modes/walking/erith-to-bostall-woods",
+      "image": {}
+     },
+     {
+      "title": "Bostall Woods to Oxleas Meadows",
+      "url": "/modes/walking/bostall-woods-to-oxleas-meadows",
+      "image": {}
+     },
+     {
+      "title": "Charlton Park to Bostall Woods",
+      "url": "/modes/walking/charlton-park-to-bostall-woods-or-oxleas-meadows",
+      "image": {}
+     },
+     {
+      "title": "Thames Barrier to Oxleas Meadows",
+      "url": "/modes/walking/thames-barrier-to-oxleas-meadows",
+      "image": {}
+     },
+     {
+      "title": "Oxleas Wood to Mottingham",
+      "url": "/modes/walking/oxleas-woods-to-mottingham",
+      "image": {}
+     },
+     {
+      "title": "Shepherdleas Wood to Middle Park",
+      "url": "/modes/walking/shepherdleas-wood-to-middle-park-eltham",
+      "image": {}
+     },
+     {
+      "title": "Mottingham to Beckenham Place Park",
+      "url": "/modes/walking/mottingham-to-beckenham-place-park",
+      "image": {}
+     },
+     {
+      "title": "Chislehurst to Beckenham Place Park",
+      "url": "/modes/walking/chislehurst-to-beckenham-place-park",
+      "image": {}
+     },
+     {
+      "title": "Beckenham Place Park to Crystal Palace",
+      "url": "/modes/walking/beckenham-place-park-to-crystal-palace-park",
+      "image": {}
+     },
+     {
+      "title": "Crystal Palace to Nunhead Cemetery",
+      "url": "/modes/walking/crystal-palace-to-nunhead-cemetery",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

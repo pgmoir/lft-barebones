@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Improvement works at Theydon Bois station",
+ "description": "The refurbishment works, undertaken by Metronet Rail BCV, are due to be completed in summer 2006.The station will remain open during the improvement works however advantage will be taken of the following track closures to complete the works.Epping branch",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Improvement works at Theydon Bois station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Theydon Bois station at the east end of the Central line is being refurbished and improved as part of the £10bn TfL 5-Year Investment Programme."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The refurbishment works, undertaken by Metronet Rail BCV, are due to be completed in summer 2006.",
+     "The station will remain open during the improvement works however advantage will be taken of the following track closures to complete the works.",
+     "\u003cbr /\u003eEpping branch track closure will take place during the following weekends:",
+     "{\"template\":\"bulletlist\",\"items\":[\"3-4 December\",\"11-12 February 2006\",\"18-19 February 2006\"]}",
+     "Refurbishment works include the restoration of heritage features, the replacement of all CCTV cameras, the installation of new customer help points and an enhanced public address system.",
+     "All cabling will be concealed and the station will be provided with improved lighting.",
+     "At times it may be necessary to close the ticket office; however it will be ensured that machine ticket selling facilities are maintained.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Transport for London (TfL) is investing £10 billion over the next five years to improve and expand London's transport network, over half of that in the Tube\",\"Metronet Rail BCV is responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines\",\"Theydon Bois first opened in 1865 as part of the Great Eastern Railway single-track extension to Ongar and became part of the Central line in 1948\",\"Theydon Bois counts around 1,600 daily users\",\"The Central line is the longest line with 74km (46 miles) serving 49 stations\",\"The longest journey without change on the London Underground can be made on the Central line between West Ruislip and Epping (54.9 km, 34.1 miles).\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

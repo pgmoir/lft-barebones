@@ -1,0 +1,51 @@
+{
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Renew 9+ seater discount"
+  }
+ ],
+ "title": {
+  "title": "Renew 9+ seater discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "Your 9+ seater discount is due to expire.",
+     "If the vehicle is still eligible you can renew the discount for another year.",
+     "You don't have to submit any more documents - we verified your vehicle's eligibility for the discount when you first applied.",
+     "You need to pay £10 to renew the discount. If you pay now, it will be renewed immediately."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

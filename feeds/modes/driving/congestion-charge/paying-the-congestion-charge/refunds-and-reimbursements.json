@@ -1,0 +1,155 @@
+{
+ "pageTitle": "Amendments, refunds and reimbursements",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "See if you're eligible for a refund or remibursement on your Congestion Charge payment",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Congestion Charge payments",
+   "url": "/modes/driving/congestion-charge/paying-the-congestion-charge"
+  },
+  {
+   "title": "Amendments, refunds and reimbursements"
+  }
+ ],
+ "title": {
+  "title": "Amendments, refunds and reimbursements",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If your plans change you can request certain amendments to a charge, or a refund for the days you are not going to use.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charge amendments\"}",
+     "You can ask to change the start date of a charge, the vehicle, or both the start date and vehicle.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Amendments cannot be made for any dates in the past\",\"You can only change the start date of a charge if it starts today or on a future date\"]}",
+     "You will need the:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Number plate (Vehicle Registration Mark)\",\"Receipt number and the charge start date of the charge you want to apply to amend\"]}",
+     "There is a £2.50 charge for all amendments.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Refunds\"}",
+     "You can request a refund on monthly or annual charges either for the full amount or for any unused days in the future. You can only request a refund on a weekly charge on or before the charge start date.",
+     "We don't refund daily charges or charges for dates in the past.",
+     "To request a refund you will need the:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Number plate (Vehicle Registration Mark)\",\"Receipt number and charge start date for the charge you want refunded\"]}",
+     "There is a £10 administration charge to process a refund whatever the amount.",
+     "Rather than request a low value refund, it may be better to amend the charge to another vehicle or date. We don't offer refunds on future daily charges but it is possible to amend them.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"NHS reimbursements\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"NHS patients\"}",
+     "If you are clinically assessed as too ill to travel to an appointment on public transport, you may be eligible to claim back any Congestion Charges and/or Ultra Low Emission Zone (ULEZ) charges from your treating hospital. Your hospital will tell you if you are eligible.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"NHS staff\"}",
+     "You can get a Congestion Charge refund from your NHS organisation if you use your vehicle for official business and claim travel expenses. Your NHS organisation must be registered with us. (There are no staff refunds for ULEZ charges.)",
+     "To get a refund you must:",
+     "1. Be using your vehicle to carry:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bulky, heavy or fragile equipment/supplies\",\"Patients' notes or other confidential material\",\"Controlled drugs\",\"Clinical waste, contaminated sharps, radioactive materials or non-medicinal poisons\",\"Prescription-only medicines, waste medicinal products\",\"Clinical specimens, body fluids, tissues or organs\"]}",
+     "or",
+     "2. Be responding to an emergency when on call. This includes locums and agency staff.",
+     "You'll have to pay the full £11.50 Congestion Charge for your journey and reclaim the money from your NHS organisation. We'll reimburse the NHS organisation.",
+     "If you paid your charge using Auto Pay the £10.50 daily charge will be credited to your account after you have submitted your claim to the NHS organisation.",
+     "You can't:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Apply directly to us\",\"Claim for commuting to and from work\",\"Claim for Penalty Charge Notices\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fire fighters\"}",
+     "You can get a refund for the Congestion Charge from your employer if you're a fire fighter employed by the London Fire and Emergency Planning Authority (LFEPA) and use your vehicle to travel on official business. There are no staff refunds for ULEZ charges.",
+     "You'll have to pay the full £11.50 charge for your journey and then reclaim the money from your employer. We'll reimburse LFEPA.",
+     "If you paid your charge using Auto Pay the £10.50 daily charge will be credited to your account after you have submitted your claim.",
+     "You can't:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Apply directly to us\",\"Claim for commuting to and from work\",\"Claim for Penalty Charge Notices\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Amendments, refunds and reimbursements",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge/refunds-and-reimbursements",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

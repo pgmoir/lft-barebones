@@ -1,0 +1,189 @@
+{
+ "pageTitle": "Planning and construction contacts",
+ "keywords": "TfL",
+ "description": "Find out who to contact if you're thinking about carrying out works near one of our rail systems.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Planning and construction contacts"
+  }
+ ],
+ "title": {
+  "title": "Planning and construction contacts",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out who to contact if you're carrying out work near our assets, services or infrastructure.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Carrying out works affecting our railways\"}",
+     "If you are carrying out works next to London Underground or DLR:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:smblocationenquiries@tfl.gov.uk\\\"\\u003esmblocationenquiries@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "If you are carrying out works next to London Overground:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:loip@tfl.gov.ukIf\\\"\\u003eloip@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "If you are carrying out works next to Trams:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:ltplanninganddevelopment@tfl.gov.uk\\\"\\u003eltplanninganddevelopment@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Carrying out works affecting our highways\"}",
+     "We issue highway licences on red routes for items such as scaffolds and skips. You may have to pay and the processing time may be at least six weeks. Local authorities can license other items like cafe seating, but only if we agree.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Visit our \\u003ca href=\\\"https://tfl.gov.uk/info-for/urban-planning-and-construction/our-land-and-infrastructure/highway-licences\\\"\\u003ehighway licences\\u003c/a\\u003e page\",\"Email \\u003ca href=\\\"mailto:assetoperationslicensing@tfl.gov.uk\\\"\\u003eassetoperationslicensing@tfl.gov.uk\\u003c/a\\u003e if necessary\"]}",
+     "For lane rental on the Transport for London Road Network (TLRN):",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:lanerentalqueries@tfl.gov.uk\\\"\\u003elanerentalqueries@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "For lane rental funding:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:lanerentalfunding@tfl.gov.uk\\\"\\u003elanerentalfunding@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "For a licence under Section 50 of the New Roads and Street Works Act 1991:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:section50@tfl.gov.uk\\\"\\u003esection50@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "For questions about restrictions on road and street works:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:s58waiver@tfl.gov.uk\\\"\\u003es58waiver@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "For street works by utility companies that restrict movement on a red route:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:rputilitytrafficorders@tfl.gov.uk\\\"\\u003erputilitytrafficorders@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "For street works affecting streets registered as Street of Engineering Difficulty or Street of Interest:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto: lulcedip@tfl.gov.uk\\\"\\u003e lulcedip@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reporting faults\"}",
+     "You can \u003ca href=\"https://tfl.gov.uk/help-and-contact/report-roadworks\"\u003ereport a problem \u003c/a\u003e with a roadworks site so we take action or tell the local Highway Authority.",
+     "You can \u003ca href=\"https://tfl.gov.uk/help-and-contact/contact-us-about-streets-and-other-road-issues\"\u003ereport general street faults\u003c/a\u003e including problems with traffic lights.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Planning Applications\"}",
+     "When planning works that could affect TfL you may need to contact us.",
+     "For pre-application services, planning applications, planning policy, urban design and growth areas:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:spatialplanning@tfl.gov.uk\\\"\\u003espatialplanning@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "For Section 278 agreements for highway works on the Transport for London Road Network (TLRN):",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:section278team@tfl.gov.uk\\\"\\u003esection278team@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "Planning applications for works adjacent to TfL property or assets",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:railwaysearches@tfl.gov.uk\\\"\\u003erailwaysearches@tfl.gov.uk\\u003c/a\\u003e \",\"Email \\u003ca href=\\\"mailto:highwaysearches@tfl.gov.uk\\\"\\u003ehighwaysearches@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "Planning applications for works that may affect London Underground or DLR rail assets or operations",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:smblocationenquiries@tfl.gov.uk\\\"\\u003esmblocationenquiries@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "Planning applications for works that may affect London Overground:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:loip@tfl.gov.uk\\\"\\u003eloip@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "Planning applications for works that may affect Trams:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:ltplanninganddevelopment@tfl.gov.uk\\\"\\u003eltplanninganddevelopment@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ownership enquiries\"}",
+     "Conveyancing searches find out if a property might be affected by existing or proposed rail and highway transport schemes. We can advise you on land ownership for sites affected by the Elizabeth Line (Crossrail), TfL Rail, and other rail:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:railwaysearches@tfl.gov.uk\\\"\\u003erailwaysearches@tfl.gov.uk\\u003c/a\\u003e \",\"Email \\u003ca href=\\\"mailto:highwaysearches@tfl.gov.uk\\\"\\u003ehighwaysearches@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "Enquiries about locations of buried TfL assets",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:smblocationenquiries@tfl.gov.uk\\\"\\u003esmblocationenquiries@tfl.gov.uk\\u003c/a\\u003e \",\"Email \\u003ca href=\\\"mailto:loip@tfl.gov.uk\\\"\\u003eloip@tfl.gov.uk\\u003c/a\\u003e \",\"Email \\u003ca href=\\\"mailto:ltplanninganddevelopment@tfl.gov.uk\\\"\\u003eltplanninganddevelopment@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Construction logistics plans\"}",
+     "Construction Logistics Plans (CLPs) are expected as a chapter in Healthy Streets \u003ca href=\"https://tfl.gov.uk/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments\"\u003eTransport Assessments\u003c/a\u003e . For questions about CLPs:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Read our \\u003ca href=\\\"http://content.tfl.gov.uk/construction-logistics-plan-guidance.pdf\\\"\\u003eCLP guidance\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Healthy streets check for designers\"}",
+     "For questions about a \u003ca href=\"https://tfl.gov.uk/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets \u003c/a\u003e check for designers or to submit one for us to review and approve",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:healthystreetsengineering@tfl.gov.uk\\\"\\u003ehealthystreetsengineering@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Heritage advice\"}",
+     "For advice about heritage assets we're responsible for:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:spatialplanning@tfl.gov.uk\\\"\\u003espatialplanning@tfl.gov.uk\\u003c/a\\u003e with 'heritage' in the subject line\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safety audits\"}",
+     "For guidance on how to carry out a safety audit and appropriate safety auditors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:tflsafetyaudit@tfl.gov.uk\\\"\\u003etflsafetyaudit@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic modelling\"}",
+     "For London's strategic transport models:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:strategicmodelling@tfl.gov.uk\\\"\\u003estrategicmodelling@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"WebCAT\"}",
+     "For the WebCAT connectivity assessment toolkit which includes public transport access levels (PTAL) and journey time mapping:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Email \\u003ca href=\\\"mailto:webcat@tfl.gov.uk\\\"\\u003ewebcat@tfl.gov.uk\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

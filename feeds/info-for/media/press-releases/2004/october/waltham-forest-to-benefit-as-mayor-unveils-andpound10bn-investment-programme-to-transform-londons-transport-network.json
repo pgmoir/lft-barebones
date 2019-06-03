@@ -1,0 +1,74 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Waltham Forest to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Waltham Forest is to benefit from better transport under a proposed £10 billion, five-year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Waltham Forest and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Waltham Forest on the move.\"",
+     "The main benefit for Waltham Forest included in TfL's 5-Year Investment Programme, subject to approval by the TfL Board, is:",
+     "{\"template\":\"bulletlist\",\"items\":[\"a new package of improvements for Silverlink Metro services including station and security enhancements such as better CCTV and lighting, graffiti cleaning and the extension of station staffing hours providing a greater presence early in the morning and later at night;\",\"continuing commitments to service improvements providing Winter Sunday and Last Train services on the Gospel Oak to Barking line;\",\"On the Tube Walthamstow Central will undergo a refurbishment and congestion relief project including a new subway from the LU concourse to the bus station completing in 2006.\"]}",
+     "In addition, the following improvements to Central and Victoria line and stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"station refurbishments to Leyton (completing 2006); Blackhorse Road and Leytonstone (completion 2007 - 2010);\",\"Victoria Line interim upgrade (2006) and Central Line upgrade (2006) improving journey times;\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Waltham Forest's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Waltham Forest by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded, includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor, fully accessible buses on 16 routes (20, 48, 55, 56, 58, 66, 123, 145, 212, 230, 257, 308, 313, N55, N73 and W11)\",\"increased frequencies on 14 routes (34, 48, 55, 56, 66, 179, 230, 257, 275, 313, 379, N26, N38 and W15);\",\"improvements have been made to the Gospel Oak-Barling Line providing Winter Sunday and last train services;\",\"four new links added to existing routes (444, 505, N26 and W19);\",\"introduction of three new night bus routes (N55, N58 and N69);\",\"licensing private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with Waltham Forest, a range of schemes have or will shortly be implemented including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the development of a larger bus station at Walthamstow Central along with improved links to the nearby Tube station;\",\"installation of secure bike sheds at Walthamstow Central station and Leytonstone Underground station;\",\"controlled Parking Zone at Leytonstone station, in response to local concerns about parking in the area.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

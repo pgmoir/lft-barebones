@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Something went wrong",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Something went wrong"
+  }
+ ],
+ "title": {
+  "title": "Something went wrong",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Your discount application cannot be processed because your payment to us failed.",
+     "If you still want to apply for a discount, please restart the application.",
+     "You can still apply for the residents' discount but you will not qualify for a refund of any full charges made before your discount is approved.",
+     "For more information, \u003ca href=\"/modes/driving/congestion-charge/contact-congestion-charge\"\u003econtact us\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

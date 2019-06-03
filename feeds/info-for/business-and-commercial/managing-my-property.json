@@ -1,0 +1,135 @@
+{
+ "pageTitle": "Managing my property",
+ "keywords": "TfL",
+ "description": "What it means to be either a commercial or residental TfL tenant",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Managing my property"
+  }
+ ],
+ "title": {
+  "title": "Managing my property",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We offer our tenants ongoing customer support, from fitting out your property to advice on maintenance. We  want to provide you with the guidance and information you need to be able to focus on what is important to you - your business and your customers."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "style": "card-top ",
+    "title": "Our property portfolio",
+    "texts": [
+     "From pop ups to shops in arches and industrial spaces, see what we can offer"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/our-property-portfolio",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Commercial tenants",
+    "texts": [
+     "How to manage your commercial property, plus advice on growing your business"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/commercial-tenants",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/south-kensinton-restaurant-interior-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Residential tenants",
+    "texts": [
+     "Find out more about contacting us as well as insuring safety and reporting faults"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/residential-tenants",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/residential-tenants-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Guidance and policies",
+    "texts": [
+     "Our information will help keep your property safe and maintained"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/guidance-and-policies",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Send us feedback",
+    "texts": [
+     "We use your comments to improve our service"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/send-us-feedback",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

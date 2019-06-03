@@ -1,0 +1,63 @@
+{
+ "pageTitle": "Showman's discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Showman's discount"
+  }
+ ],
+ "title": {
+  "title": "Showman's discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Confirmation\"}",
+     "We will send you a confirmation if your discount has been approved. Until then, you must pay the charge for journeys within the zone.",
+     "We aim to respond to you within the next 10 working days.",
+     "You will need to pay the daily LEZ charge in full until your discount has been approved.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Posting your documents\"}",
+     "If you are sending copies of your documents by post, please either:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Print this page and send it with your documents OR\",\"Quote your account number on each piece of correspondence\"]}",
+     "This will speed up the application process.",
+     "\u003cstrong\u003eAddress:\u003c/strong\u003e ",
+     "Congestion Charging\u003cbr /\u003ePO Box 344\u003cbr /\u003eDarlington\u003cbr /\u003eDL1 9QE",
+     "If you prefer to email images of your documents, please send them to:",
+     " \u003ca href=\"mailto:LEZLondon@TfL.gov.uk\"\u003eLEZLondon@TfL.gov.uk\u003c/a\u003e ",
+     "You will need to submit your documents within the next 10 working days or your application will be cancelled. If your application is cancelled you will need to reapply if you still feel you qualify for the discount.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Next steps\"}",
+     "We will consider your application once we have received all the documents to support it. We will let you know the outcome of your application by your preferred communication channel.",
+     "Once you receive confirmation that your showman's discount is active, your vehicles can benefit from the 100% discount. Until then you need to pay the Daily LEZ Charge if you drive in the zone. You can do this by logging onto your account and paying online. You can also \u003ca href=\"/modes/driving/congestion-charge/contact-congestion-charge\"\u003econtact us\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

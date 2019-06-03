@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Confirm address",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Confirm address"
+  }
+ ],
+ "title": {
+  "title": "Confirm address",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your new address is not in the Congestion Charge zone\"}",
+     "This means it's not eligible for the residents' discount.",
+     "When you confirm these changes your residents' discount will be cancelled. You will need to pay the full Congestion Charge and, If your vehicle doesn't meet the emissions standards, the ULEZ charge to drive within the zone. Any charges you may have made at the reduced rate will be refunded automatically to you.",
+     "If you are sure you want to update your address now and cancel your residents' discount, click 'Confirm'."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

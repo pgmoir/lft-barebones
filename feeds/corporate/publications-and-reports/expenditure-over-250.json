@@ -1,0 +1,105 @@
+{
+ "pageTitle": "Expenditure",
+ "keywords": "E,Corporate information,Finance,Regular reports,Transparency data ,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Expenditure"
+  }
+ ],
+ "title": {
+  "title": "Expenditure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We publish reports of all TfL expenditure over £250 and Crossrail expenditure over £500.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL expenditure over £250\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Payments greater than £250: 9 December 2018 to 5 January 2019\",\"url\":\"/cdn/static/cms/documents/tflspend2019p10.pdf\",\"icon\":\"download\",\"size\":\"PDF 791KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 9 December 2018 to 5 January 2019\",\"url\":\"/cdn/static/cms/documents/tflspend2019p10.csv\",\"icon\":\"download\",\"size\":\"CSV 1.15MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 11 November 2018 to 8 December 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p09.pdf\",\"icon\":\"download\",\"size\":\"PDF 889KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 11 November 2018 to 8 December 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p09.csv\",\"icon\":\"download\",\"size\":\"CSV 1.28MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 14 October 2018 to 10 November 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p08.pdf\",\"icon\":\"download\",\"size\":\"PDF 872KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 14 October 2018 to 10 November 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p08.csv\",\"icon\":\"download\",\"size\":\"CSV 1.27MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 16 September 2018 - 13 October 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p07.pdf\",\"icon\":\"download\",\"size\":\"PDF 842KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 16 September 2018 - 13 October 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p07.csv\",\"icon\":\"download\",\"size\":\"CSV 1.24MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 19 August 2018 - 15 September 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p06.pdf\",\"icon\":\"download\",\"size\":\"PDF 791KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 19 August 2018 - 15 September 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p06.csv\",\"icon\":\"download\",\"size\":\"CSV 1.19MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 22 July 2018 - 18 August 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p05.pdf\",\"icon\":\"download\",\"size\":\"PDF 882KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 22 July 2018 - 18 August 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p05.csv\",\"icon\":\"download\",\"size\":\"CSV 1.30MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 24 June 2018 - 21 July 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p04.pdf\",\"icon\":\"download\",\"size\":\"PDF 868KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 24 June 2018 - 21 July 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p04.csv\",\"icon\":\"download\",\"size\":\"CSV 1.32MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 27 May 2018 - 23 June 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p03.pdf\",\"icon\":\"download\",\"size\":\"PDF 762KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 27 May 2018 - 23 June 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p03.csv\",\"icon\":\"download\",\"size\":\"CSV 1.11MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 29 April 2018 - 26 May 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p02.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.98MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 29 April 2018 - 26 May 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p02.csv\",\"icon\":\"download\",\"size\":\"CSV 1.55MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 1 April 2018 - 28 April 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p01.pdf\",\"icon\":\"download\",\"size\":\"PDF 677KB\",\"image\":{}},{\"title\":\"Payments greater than £250: 1 April 2018 - 28 April 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2019p01.csv\",\"icon\":\"download\",\"size\":\"CSV 1.53MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Crossrail expenditure over £500\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Payments greater than £500: 3 February - 2 March 2019\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p12.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 88KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 6 January - 2 February 2019\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p11.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 94KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 9 December 2018 - 5 January 2019\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p10.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 75KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 11 November - 8 December 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p9.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 87KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 14 October - 10 November 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p8.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 86KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 16 September - 13 October 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p7.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 84KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 19 August - 15 September 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p6.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 82KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 22 July - 18 August 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p5.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 84KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 27 May 2018 - 23 June 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p3.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 90KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 29 April 2018 - 26 May 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p2.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 77KB\",\"image\":{}},{\"title\":\"Payments greater than £500: 1 April 2018 - 28 April 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-expenditure-p1.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 89KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Expenditure",
+    "links": [
+     {
+      "title": "Previous years",
+      "url": "/corporate/publications-and-reports/previous-years",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Expenditure",
+     "url": "/corporate/publications-and-reports/previous-years",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Chief Officers' expenses",
+      "url": "/corporate/publications-and-reports/chief-officers-expenses",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

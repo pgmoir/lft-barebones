@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Report touting \u0026 illegal cabs",
+ "keywords": "TfL",
+ "description": "Use this form to tell us about touting or other illegal cab activity",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Help \u0026 contacts",
+   "url": "/help-and-contact/index"
+  },
+  {
+   "title": "Report touting \u0026 illegal cabs"
+  }
+ ],
+ "title": {
+  "title": "Report touting \u0026 illegal cabs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Use this form to tell us about touting or other illegal cab activity. Please provide as much detail as possible about the incident or issue.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you have information about touting or other illegal cab activity,\n        please use this form. When submitting a report, please provide as much\n        detail as possible about the incident or issue.",
+     "Please note you should\u003cstrong\u003enot \u003c/strong\u003e use this form if you are\n        reporting a specific crime or require a real time response. If you are\n        reporting a crime or require a response then you should report the\n        incident directly to the Metropolitan Police Service on 0300 123 1212\n        (24 hour). In an emergency call 999.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Data Protection Act\"}",
+     "Transport for London, its subsidiaries and service providers will use the\n        information provided in this form for the purposes of prevention and detection\n        of cab-related offences. The information you provide on touting and/or other\n        illegal cab activity will be analysed along with other intelligence sources to\n        help inform future enforcement activities to reduce touting and/or other illegal\n        cab activity and support Transport for London in its role as the Licensing\n        Authority for taxi and private hire services in London. In certain\n        circumstances, TfL may share the information, including personal details,\n        provided in this form with the police and other law enforcement agencies for the\n        purposes of the prevention or detection of crime and/or the apprehension or\n        prosecution of offenders. Your personal information will be properly safeguarded\n        and processed in accordance with the requirements of the Data Protection Act\n        1998 (DPA)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

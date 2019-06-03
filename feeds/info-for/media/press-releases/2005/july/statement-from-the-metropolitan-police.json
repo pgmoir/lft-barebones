@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Statement from the Metropolitan Police",
+ "description": "Following the attacks of July 7, extra policing patrols have been put in place across London, with officers from the MPS, City of London Police and British Transport Police providing visible reassurance, advice and support, and also to act as a deterrent.",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Statement from the Metropolitan Police",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "We are aware of emails in circulation that advise the reader of the threat of another terrorist attack."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Following the attacks of July 7, extra policing patrols have been put in place across London, with officers from the MPS, City of London Police and British Transport Police providing visible reassurance, advice and support, and also to act as a deterrent.",
+     "All police forces are reviewing their own counter-terrorist plans, undertaking community assessments and considering appropriate extra patrols in potentially vulnerable areas and transport hubs.",
+     "However, we are not aware of any specific threat at this time.",
+     "We would advise the public to remain alert and vigilant, and to inform police of anything they see or hear that is suspicious. The confidential Anti-Terrorist Hotline number is 0800 789 321font"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

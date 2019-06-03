@@ -1,0 +1,48 @@
+<%- include('../includes/head') %>
+
+<section id="header" class="container-fluid">
+</section>
+
+<section id="main" class="container-fluid">
+    <div class="container-lft">
+        <h1 class="h-standard">User Comments</h1>
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <!-- main body section that normally sits at two cols wide -->
+                <ul>
+                <% userComments.forEach(function(cmt) { %>
+                    <li>There was a <%= cmt.request %> from <%= cmt.title %> <%= cmt.firstName %> <%= cmt.lastName %> (at email <%= cmt.emailAddress %> and tel <%= cmt.phoneNumber %>) stating "<%= cmt.comments %>"</li>
+                <% }); %>
+                </ul>
+            </div>
+            <div class="col-12 col-lg-4">
+                <!-- right hand nav bit -->
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title h5">Also on this site</h3>
+                        <div class="card m-0">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><a href="#">Conditions of Carriage</a></li>
+                                <li class="list-group-item"><a href="">Contactless and Oyster outside London</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title h5">Contact us</h3>
+                        <p class="card-text">We're open from 08:00 to 20:00, 7 days a week.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title h5">Chat</h3>
+                        <p class="card-text">On Facebook or Twitter</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('../includes/foot') %>

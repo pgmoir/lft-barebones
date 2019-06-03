@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Congestion Charge operational from Friday 2 January after festive period suspension",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Congestion Charge operational from Friday 2 January after festive period suspension",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is reminding motorists that the Congestion Charge will be operational from Friday 2 January 2009, after the festive period suspension."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "For the fifth year running, motorists do not have to pay the Congestion Charge from Thursday 25 December until Thursday 1 January inclusive, when traffic levels are lighter.",
+     "Graeme Craig, TfL's Director of Congestion Charging and Traffic Enforcement, said: 'The Congestion Charge will operate as usual from 2 January so, while the start of this week remains charge-free, motorists will need to pay the charge to drive within the zone on Friday.'",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Congestion Charge is an £8 daily charge for driving a vehicle within the Congestion Charging zone between 7.00am and 6.00pm, Monday to Friday\",\"There are a number of different payment methods for paying the Congestion Charge including:\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca title=\\\"Congestion charging\\\"href=\\\"http://www.tfl.gov.uk/roadusers/congestioncharging/default.aspx\\\"\\u003eRead more about Congestion Charging\\u003c/a\\u003e \"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

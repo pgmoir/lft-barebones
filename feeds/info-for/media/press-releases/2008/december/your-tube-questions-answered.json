@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Your Tube questions answered",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Your Tube questions answered",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Your chance to quiz Tube bosses about your Underground and how it's being improved."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This is your chance to put those burning questions to us about the service we provide to you",
+     "Ever wanted to know how station indicator boards can tell there's a train just round the corner?",
+     "Or just what kind of service you can expect when works to upgrade the Victoria line are complete?",
+     "Then get online and put your questions to London Underground's (LU's) management team.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"It's question time\"}",
+     "LU Chief Operating Officer, Howard Collins, will be joined online by Director of Strategy and Service Development, Richard Parry, to answer questions\u003cstrong\u003ebetween 17:00 and 19:00 on Tuesday 9 December\u003c/strong\u003e .",
+     "Customers can find out more about any aspect of the Tube's service or the works going on to improve the Underground, from how many trains LU operates an hour to the next big improvements just around the corner.",
+     "You just need to \u003ca title=\"Questiontime with Howard and Richard\"href=\"/questiontime\"\u003elog on and put your question to Howard and Richard\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What do our passengers want?\"}",
+     "Chief Operating Officer, Howard Collins, said: 'We're running more trains and carrying more passengers than ever before, and we want customers to tell us how we can address the issues that come with operating such a busy railway.",
+     "'We know that our customers are interested in how we keep the Tube moving on a daily basis, as well as the Investment Programme works being carried out to improve the network.",
+     "'This is your chance to put those burning questions to us about the service we provide to you, to tell us what we do well and what you'd like to see from us in the future.'",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Underground (LU) is undertaking a major programme of renewal as part of Transport for London's Investment Programme. This will inevitably result in some disruption for passengers, but TfL is working hard to provide information and alternative travel options. The work is essential to provide for London's growing transport needs now, and into the future\",\"TfL is urging all Londoners and Tube, London Overground and DLR passengers to 'check before you travel' at weekends, allowing extra journey time where necessary. \\u003ca title=\\\"Weekend live travel news\\\"href=\\\"http://www.tfl.gov.uk/tfl/livetravelnews/realtime/by-date.aspx?offset=weekend\\\"\\u003eWeekend travel news\\u003c/a\\u003e is available online\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

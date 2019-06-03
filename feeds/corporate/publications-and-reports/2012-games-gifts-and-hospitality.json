@@ -1,0 +1,76 @@
+{
+ "pageTitle": "2012 Games gifts and hospitality",
+ "keywords": "Media,Public,G,T,Corporate information,Policy,Special reports,TfL",
+ "description": "TfL staff declared offers of tickets to 2012 Games events and other hospitality and whether they were accepted or declined",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "2012 Games gifts and hospitality"
+  }
+ ],
+ "title": {
+  "title": "2012 Games gifts and hospitality",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"See details of offers to TfL staff of tickets to London 2012 Games events and related hospitality.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London 2012 Olympic and Paralympic Games offers of hospitality\",\"url\":\"/cdn/static/cms/documents/london-2012-games-offers-of-gifts-and-hospitality.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

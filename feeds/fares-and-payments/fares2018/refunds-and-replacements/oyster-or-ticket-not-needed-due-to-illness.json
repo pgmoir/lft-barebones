@@ -1,0 +1,98 @@
+{
+ "pageTitle": "Season ticket not needed due to illness",
+ "keywords": "TfL",
+ "description": "How to get a refund if you're ill and unable to use your Travelcard or Bus \u0026 Tram Pass.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "Season ticket not needed due to illness"
+  }
+ ],
+ "title": {
+  "title": "Season ticket not needed due to illness",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You may be able to get a refund if you're ill and unable to use your Travelcard or Bus \\u0026 Tram Pass.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "You can get a refund if you have a 7 Day or longer Travelcard or Bus \u0026 Tram Pass.",
+     "We will ask you to send us details of your illness and when it started. This could be a:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Medical certificate\",\"Letter on headed paper from your doctor or employer\"]}",
+     "\u003cstrong\u003eIf your illness started less than 6 weeks ago\u003c/strong\u003e , we'll refund you from the start of your illness.",
+     "\u003cstrong\u003eIf your illness started more than 6 weeks ago\u003c/strong\u003e , your refund will be calculated as 6 weeks from the date of your application.",
+     "If you want to claim a refund, you cannot use the ticket again. You will not get a refund if you use the ticket after claiming.",
+     "We charge a £5 admin fee for this refund.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund\"}",
+     "Please \u003ca href=\"/help-and-contact/contact-us-about-oyster\"\u003efill in the Oyster form\u003c/a\u003e , and provide us with:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Details of your illness and when it started\",\"A medical certificate or letter on headed paper from your doctor or employer\",\"Your contact details (name, address and phone number)\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

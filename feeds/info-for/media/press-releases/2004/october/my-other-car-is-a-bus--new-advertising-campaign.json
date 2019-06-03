@@ -1,0 +1,69 @@
+{
+ "pageTitle": "'My other car is a bus' - new advertising campaign",
+ "description": "campaign will run over three months via TV, radio, cinema and print advertising. The campaign's message will be reinforced with promotional events at 20 key sites across London and on advertising at bus stops and buses. The campaign is specifically aimed",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "'My other car is a bus' - new advertising campaign",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) has launched a new £2million advertising campaign aimed at increasing bus use during off peak hours."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Ken Livingstone, Mayor of London, said: \"Buses offer a high quality, reliable and convenient alternative to the car especially for shorter journeys.",
+     "\"By making more bus journeys, and reducing car congestion, people can help to make London a cleaner, safer and more pleasant city.\"",
+     "TfL's Managing Director of Surface Transport, Peter Hendy, said: \"Bus travel in London is an increasingly popular choice with six million passenger trips a day.",
+     "\"Recent customer service surveys reveal that passengers are happier than ever with the quality of service the bus network is now offering.",
+     "\"This new advertising campaign aims to encourage families to take advantage of these improvements.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"The London bus network is one of the largest and most comprehensive urban systems in the world\",\"Each weekday 8,000 London buses carry 6 million passengers on over 700 different routes\",\"Key points about expanding the London bus network:\",\"Bus use is up by 11 per cent over the past year (03/04) - an extra 168 million passenger trips\",\"The number of passengers using buses is at its highest level since 1968\",\"Patronage is rising at its fastest rate since the Second World War\",\"Night bus use is up by 29 per cent over the past year\",\"London Buses is running the highest volume of service on London's roads than at any time since 1957\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

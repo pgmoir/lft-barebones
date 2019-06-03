@@ -1,0 +1,48 @@
+<div class="card">
+  <% if (!card.advanced) { %>
+  <div class="card-header bg-dark">
+    <a href="#" data-toggle="collapse" data-target="#collapse-pajhelp" aria-expanded="true" aria-controls="collapse-pajhelp" id="collapse-pajheading" class="d-flex align-items-center text-white">
+      <div class="w-100 pr-2">Plan a journey</div>
+      <div class="svgpost svgicon-question flex-shrink-1"></div>
+    </a>
+  </div>
+  <% } %>
+  <div class="card-body">
+    <% if (!card.advanced) { %>
+      <p id="collapse-pajhelp" class="collapse" aria-labelledby="collapse-pajheading">To plan a journey within London, using either public or private transport or by walking or cycling, then enter your starting location and where you are trying to reach to get travel instructions based on current conditions. <a href="/plan-a-journey">To use more advanced planning options, then visit our Journey Planner page.</a></p>
+    <% } %>
+    <form action="/plan-a-journey" method="GET">
+      <div class="form-group row">
+        <label for="fromPlace" class="col-sm-3 col-form-label">From</label>
+        <div class="col-sm-9">
+          <input type="text" class="form-control" id="fromPlace" name="from">
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="toPlace" class="col-sm-3 col-form-label">To</label>
+        <div class="col-sm-9">
+          <input type="text" class="form-control" id="toPlace" name="to">
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="modeOfTransport" class="col-sm-3 col-form-label">Mode</label>
+        <div class="col-sm-9">
+          <select class="form-control" id="modeOfTransport" name="mode">
+            <option value="public">Public transport</option>
+            <option value="bus">Bus only</option>
+            <option value="private">Private transport</option>
+            <option value="cycling">Cycling</option>
+            <option value="walking">Walking</option>
+          </select>
+        </div>
+      </div>
+      <% if (card.advanced) { %>
+      <div class="form-group row">
+        <a href="#" data-toggle="collapse" data-target="#collapse-pajadvanced" aria-expanded="true" aria-controls="collapse-pajadvanced" id="collapse-pajadvancedlink" class="d-flex align-items-center col-sm-12">Show advanced options</a>
+      </div>
+      <% } %>
+      <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+      <button class="btn btn-primary btn-textwrap w-100" type="submit">Plan my journey</button>
+    </form>
+  </div>
+</div>

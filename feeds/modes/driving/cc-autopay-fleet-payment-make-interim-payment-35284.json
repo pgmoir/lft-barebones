@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Review payment",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Review payment"
+  }
+ ],
+ "title": {
+  "title": "Review payment",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "After your payment goes through the total amount shown in the summary below will be deducted from your Fleet Auto Pay balance.",
+     "Your next monthly statement will reflect this.",
+     "Your new Fleet Auto Pay balance will be shown on the payment confirmation page."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Transport bulletin 14.00 - fire in Stratford, East London",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport bulletin 14.00 - fire in Stratford, East London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Shortly after midday today, London Fire Brigade was called to a fire on Waterden Road, E15."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A Transport for London (TfL) spokesperson said: \"We understand that the fire did not originate in a bus garage on Waterden Road in Stratford, East London.\"",
+     "The fire has affected TfL services as follows:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Buses\"}",
+     "There are three bus garages in the area - First's Hackney depot and two East London Buses depots -Waterden Road depot and Stratford depot.",
+     "The fire is next to Stratford depot which has been evacuated. The following bus routes could be subject to delays as a result:",
+     "East London Buses: 25, 26 30 86 106 241 257 276 678 (school bus) D3 N26 N106",
+     "First: 58, 212, 236, 308, 309, 323, 339, D6, D7, D8, RV1, S2, W11, W12",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Underground\"}",
+     "There is no current impact on Tube services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "From Sunday 11 November 2007, Silverlink Metro services transferred to TfL control and are now being operated as London Overground.",
+     "London Overground is running a full service in all directions, with the exception of Hackney Wick, where trains are not stopping.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Docklands Light Railway (DLR)\"}",
+     "There is no current impact on DLR services.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Streets\"}",
+     "There is no current impact on the road network.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

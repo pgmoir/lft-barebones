@@ -1,0 +1,86 @@
+{
+ "pageTitle": "Square image test",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Square image test"
+  }
+ ],
+ "title": {
+  "title": "Square image test",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Image square - with overflowing text\"}",
+     "Square image template with a blue square. Original 800px image is stored in the CMS asset manager and resized to 262px automatically. Square image template with a blue square. Original 800px image is stored in the CMS asset manager and resized to 262px automatically. Square image template with a blue square. Original 800px image is stored in the CMS asset manager and resized to 262px automatically.",
+     "Square image template with a blue square. Original 800px image is stored in the CMS asset manager and resized to 262px automatically. Square image template with a blue square. Original 800px image is stored in the CMS asset manager and resized to 262px automatically. Square image template with a blue square. Original 800px image is stored in the CMS asset manager and resized to 262px automatically."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Square image test",
+    "links": [
+     {
+      "title": "Square teasers test",
+      "url": "/campaign/square-teasers-test",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Square image test",
+     "url": "/campaign/square-teasers-test",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

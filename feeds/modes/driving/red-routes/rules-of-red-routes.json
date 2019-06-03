@@ -1,0 +1,188 @@
+{
+ "pageTitle": "Rules of red routes",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Rules of red routes"
+  }
+ ],
+ "title": {
+  "title": "Rules of red routes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're responsible for the Transport for London Road Network (TLRN) - known as 'red routes' because of the painted red lines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Most important roads in London\"}",
+     "These roads are London's main routes, and although they make up only 5% of the total road length, they carry more than 30%\nof London's traffic. \u003ca href=\"/modes/driving/red-routes/red-route-maps\"\u003eSee a map of London's red routes\u003c/a\u003e .",
+     "Our priority is to keep London moving and reduce delays, not raising revenue through fines. We are trying to help people understand red routes so that they avoid an unnecessary fine.",
+     "Signs and road markings along the red routes tell you what you can\nand can't do. If you don't follow signs and markings, we may issue you\nwith a Penalty Charge Notice (PCN).",
+     "We monitor the following on red routes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Parking and loading\",\"Yellow box junctions and banned turns\",\"Bus lanes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local Authority roads\"}",
+     "The majority of roads in London are managed by local councils. Roads\nwith yellow lines or pay and display meters, parking meters or\nresidents' parking bays are all managed by the local London Authority\nand not us. If you have any queries or receive a PCN in relation to these roads, please contact the relevant council who will be able to help."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Loading for the public",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public",
+      "image": {}
+     },
+     {
+      "title": "Yellow box junctions",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/yellow-box-junctions",
+      "image": {}
+     },
+     {
+      "title": "Banned turns",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/banned-turns",
+      "image": {}
+     },
+     {
+      "title": "Bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/parking",
+      "image": {}
+     },
+     {
+      "title": "Blue Badge (disabled) parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking",
+      "image": {}
+     },
+     {
+      "title": "Red lines and no stopping",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/red-lines-and-no-stopping",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Coach parking",
+      "url": "/info-for/coach-drivers/special-parking-arrangements",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "The Highway Code",
+      "url": "https://www.gov.uk/browse/driving/highway-code",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

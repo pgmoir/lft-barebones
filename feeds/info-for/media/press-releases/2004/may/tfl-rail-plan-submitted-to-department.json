@@ -1,0 +1,66 @@
+{
+ "pageTitle": "TfL Rail plan submitted to department",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL Rail plan submitted to department",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London's response to the Secretary of State for Transport's review of the structure of the rail industry was formally submitted to the Department for Transport yesterday."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The response sets out TfL's proposals to improve the overground passenger rail services that run in, out and through London and the commuter belt.",
+     "The response can be found in full here:",
+     " \u003ca title=\"London's Railways - Response to Goverment's Rail Review\"href=\"/assets/downloads/rail-authority-proposal.pdf\"\u003eLondon's Railways - Response to Goverment's Rail Review (PDF 942KB)\u003c/a\u003e ",
+     "Stephen Webb\u003cbr /\u003eChief Press Officer\u003cbr /\u003eEmail: stephenwebb@tfl.gov.uk\u003cbr /\u003eDirect line: 020 7941 4884\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

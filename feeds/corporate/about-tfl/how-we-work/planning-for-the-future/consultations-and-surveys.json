@@ -1,0 +1,180 @@
+{
+ "pageTitle": "Consultations \u0026 surveys",
+ "keywords": "Planning and construction,Public,TfL",
+ "description": "We consult the public regularly on changes we're planning to services as well as roads and other infrastructure. We also run surveys to understand how people use London's transport network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "How we work",
+   "url": "/corporate/about-tfl/how-we-work"
+  },
+  {
+   "title": "Planning for the future",
+   "url": "/corporate/about-tfl/how-we-work/planning-for-the-future"
+  },
+  {
+   "title": "Consultations \u0026 surveys"
+  }
+ ],
+ "title": {
+  "title": "Consultations \u0026 surveys",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We value the opinions of our customers and stakeholders, and regularly ask for views on a range of transport issues.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We consult on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"New guidance, policy updates and amendments\",\"Changes to bus services\",\"Relocation of bus stops and shelters\",\"Design and management of London roads\",\"Major transport projects and developments\"]}",
+     "One of the ways we gather feedback is through online questionnaires on our \u003ca href=\"https://consultations.tfl.gov.uk/\"\u003econsultations hub\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we reach a decision\"}",
+     "We always consider feedback during the decision-making process. Final plans will also take other factors into account, including relevant financial, legal, safety and technical issues.",
+     "Some decisions, such as highway changes, also depend on decisions made by London boroughs.",
+     "Once a decision is made, it is published online.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Travel Demand Survey\"}",
+     "Each year, 8,000 randomly selected households in London and the surrounding area are interviewed about their travel habits as part of the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/london-travel-demand-survey\"\u003eLondon Travel Demand Survey\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelcard Survey\"}",
+     "We run an \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/travelcard-survey\"\u003eannual survey on Travelcard usage\u003c/a\u003e to help us understand how they are used.",
+     "We distribute thousands of Travelcard diaries every year and donate £2 to charity for each completed survey returned to us."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "How we work",
+    "links": [
+     {
+      "title": "Our role",
+      "url": "/corporate/about-tfl/how-we-work/our-role",
+      "image": {}
+     },
+     {
+      "title": "How we are governed",
+      "url": "/corporate/about-tfl/how-we-work/how-we-are-governed",
+      "image": {}
+     },
+     {
+      "title": "How we are funded",
+      "url": "/corporate/about-tfl/how-we-work/how-we-are-funded",
+      "image": {}
+     },
+     {
+      "title": "Planning for the future",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future",
+      "image": {}
+     },
+     {
+      "title": "Bakerloo line extension",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/bakerloo-line-extension",
+      "image": {}
+     },
+     {
+      "title": "Consultations \u0026 surveys",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys",
+      "image": {}
+     },
+     {
+      "title": "London Travel Demand Survey",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/london-travel-demand-survey",
+      "image": {}
+     },
+     {
+      "title": "Travelcard survey",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/travelcard-survey",
+      "image": {}
+     },
+     {
+      "title": "Developing the rail network",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network",
+      "image": {}
+     },
+     {
+      "title": "Healthy Streets",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets",
+      "image": {}
+     },
+     {
+      "title": "Improving station information",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/improving-station-information",
+      "image": {}
+     },
+     {
+      "title": "London's airports",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/london-airports",
+      "image": {}
+     },
+     {
+      "title": "New river crossings for London",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/new-river-crossings-for-london",
+      "image": {}
+     },
+     {
+      "title": "Rotherhithe-Canary Wharf crossing",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/rotherhithe-canary-wharf-crossing",
+      "image": {}
+     },
+     {
+      "title": "Public affairs",
+      "url": "/corporate/about-tfl/how-we-work/public-affairs",
+      "image": {}
+     },
+     {
+      "title": "Our customer commitments",
+      "url": "/corporate/about-tfl/how-we-work/our-customer-commitments",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "How we work",
+     "url": "/corporate/about-tfl/how-we-work/our-customer-commitments",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

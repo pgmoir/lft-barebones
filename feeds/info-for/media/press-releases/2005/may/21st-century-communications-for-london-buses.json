@@ -1,0 +1,72 @@
+{
+ "pageTitle": "21st century communications for London Buses",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "21st century communications for London Buses",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Further improvements to the reliability of bus services in London will be one of the key results from a new £120m technology contract to upgrade the radio and information systems on London Buses' 8,000-strong fleet."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Funded by Transport for London's (TfL's) 5-year £10bn investment programme, the new systems will also deliver further benefits to passengers through better real-time passenger information.",
+     "After assessing 120 expressions of interest as part of a detailed EU procurement process, TfL has selected global services and solutions company, Siemens to deliver this project, the largest of its kind in the world, having decided their bid provided the most innovative, flexible and best value-for-money solution.",
+     "The contract will run from April 2005 for 10 years.",
+     "Siemens will provide a managed service, including operations management, support and maintenance services, installation and decommissioning of equipment, data centre hosting, fault management and training.",
+     "London Buses' current system is based on technology implemented in the early 1990s, and was designed to support a fleet much smaller than the one in operation today.",
+     "An upgrade of the system is required to replace obsolete equipment and provide a system that is responsive to growing passenger numbers and operational needs.",
+     "The first buses to be installed with new systems will roll out in 2007.",
+     "About \u003ca href=\"http://www.tfl.gov.uk/buses/\"\u003eLondon Buses\u003c/a\u003e :",
+     "{\"template\":\"bulletlist\",\"items\":[\"The London bus network is one of the largest and most comprehensive urban systems in the world. Each weekday 8,000 London buses carry 6 million passengers on over 700 different routes\",\"Bus use is up by 11 per cent over the past year (03/04) - an extra 168 million passenger trips\",\"The number of passengers using buses is at its highest level since 1968\",\"Night bus use is up by 29 per cent over the past year\",\"London Buses is running the highest volume of service on London's roads than at any time since 1957.\"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

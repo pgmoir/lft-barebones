@@ -1,0 +1,288 @@
+{
+ "pageTitle": "Visiting London",
+ "keywords": "TfL",
+ "description": "Discover how to get around London on public transport and make the most of your trip",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Visiting London"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Visiting London ",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/visiting-london-banner.jpg",
+  "card": {
+   "style": "card-visitor",
+   "title": "Welcome to London",
+   "texts": [
+    "Information on how to get around, pay for travel, plan a journey or make the most of London's iconic transport services."
+   ],
+   "link": {
+    "url": "/plan-a-journey/index",
+    "button": "Plan your journey around London",
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "style": "card-visitor",
+    "title": "Getting around London",
+    "texts": [
+     "Maps, tips and all the information you need to help you get around London."
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/getting-around-london",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tube-map-leaflet_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-visitor",
+    "title": "Best ways for visitors to pay",
+    "texts": [
+     "Let us help you choose the best way to pay for your travel"
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/best-tickets-image-visiting-london_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-visitor",
+    "title": "Where will your bus take you?",
+    "texts": [
+     "Bus leisure routes to help you explore London's attractions"
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/experience-london/bus-leisure-routes",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/bus-leisure-routes-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Experience London",
+    "texts": [
+     "Inspiring transport experiences, routes, itineraries and amazing discounts"
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/experience-london",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/river-visit-london_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-visitor",
+    "title": "Other languages",
+    "texts": [
+     "Use Google Translate and view our site in your language"
+    ],
+    "link": {
+     "url": "https://translate.google.co.uk/translate?sl=auto\u0026tl=fr\u0026js=y\u0026prev=_t\u0026hl=en\u0026ie=UTF-8\u0026u=https%3A%2F%2Ftfl.gov.uk%2Ftravel-information%2Fvisiting-london%2F\u0026edit-text=\u0026act=url",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/flags-images_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "style": "card-visitor",
+    "title": "Top travel tips for visitors",
+    "texts": [
+     "Move around the city like a local with our tips for travelling on public transport"
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/getting-around-london/visitor-information/top-travel-tips",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/top-tips-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Night Tube",
+    "texts": [
+     "Now on Victoria, Jubilee and most of Central, Northern and Piccadilly lines"
+    ],
+    "link": {
+     "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/night-tube-wide_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Getting to London",
+    "texts": [
+     "Airports, coach and rail connections to get you to and from London"
+    ],
+    "link": {
+     "url": "/travel-information/visiting-london/getting-to-london",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/heathrow-roundel_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Visiting London",
+    "links": [
+     {
+      "title": "Visitor Oyster card",
+      "url": "/travel-information/visiting-london/visitor-oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Experience London",
+      "url": "/travel-information/visiting-london/experience-london",
+      "image": {}
+     },
+     {
+      "title": "Getting to London",
+      "url": "/travel-information/visiting-london/getting-to-london",
+      "image": {}
+     },
+     {
+      "title": "Getting around London",
+      "url": "/travel-information/visiting-london/getting-around-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Visiting London",
+     "url": "/travel-information/visiting-london/getting-around-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Tube status updates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Buy a Visitor Oyster card",
+      "url": "http://visitorshop.tfl.gov.uk/tfl/london-visitor-oyster-card/?utm_medium=referral\u0026utm_source=tfl.gov.uk\u0026utm_campaign=tfl",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "VisitBritain shop",
+      "url": "https://www.visitbritainshop.com/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "TfL souvenirs",
+      "url": "https://shop.tfl.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Visit London",
+      "url": "http://www.visitlondon.com/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfL",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfL",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfL",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

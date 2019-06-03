@@ -1,0 +1,28 @@
+<% if (typeof alert !== 'undefined') { %>
+<% if (alert.announcement) { %>
+  <section id="announcement" class="container-fluid">
+    <div class="container-lft">
+<% } %>
+      <div class="alert alert-<%= alert.style %><% if (alert.announcement) { %> mb-0 mt-3<% } %><% if (alert.dismissable) { %> alert-dismissible fade show<% } %><% if (alert.icon) { %> d-flex flex-row align-items-center<% } %>" role="alert">
+        <% if (!alert.icon && !alert.title && !alert.dismissable && alert.messages.length == 1) { %><%- alert.messages[0] %><% } else { %>
+        <% if (alert.icon) { %><div class="pr-4"><span class="fas fa-<%= alert.icon %> fa-2x"></span></div><% } %>
+        <div class="w-100">
+          <% if (alert.title) { %><div class="h4 alert-heading"><%= alert.title %></div><hr /><% } %>
+          <% if (alert.dismissable) { %>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          <% } %>
+          <% alert.messages.forEach(function (message, i, array) { %>
+            <p <% if (i == array.length - 1) {%>class="mb-0"<% } %>><%- message %></p>
+          <% }) %>
+        </div>
+        <% } %>
+      </div>
+<% if (alert.announcement) { %>
+    </div>
+  </section>
+<% } %>
+<% } %>
+
+

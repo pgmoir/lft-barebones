@@ -1,0 +1,72 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "BT and Cable \u0026 Wireless fined £5,000 for breaking roadworks rules",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) has successfully prosecuted BT and Cable \u0026 Wireless for a spate of recent roadwork offences across London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Roadworks offences by any utility company cause significant disruption to all road users, as well as having a knock on effect to local businesses across London",
+     "The companies were fined over £5,000 for a number of infringements on the Transport for London Road Network (TLRN).",
+     "They included working without a permit, breach of permitting conditions and failure to correctly notify TfL promptly of works taking place.",
+     "BT pleaded guilty to six counts at Westminster Magistrate's Court on 18 January, while Cable \u0026 Wireless pleaded guilty to two offences.",
+     "{\"template\":\"bulletlist\",\"items\":[\"BT was prosecuted for infringements at various locations on TfL roads including: Stamford Hill, Marylebone Road, Blackwall Tunnel, Eastern Avenue and Gunnersbury Lane. They were fined a total of £3,765 and ordered to pay TfL's costs of £5,050\",\"Infringements by Cable \\u0026 Wireless occurred on Lambeth Palace Road and Great Eastern Street. They were fined a total of £1,000 and ordered to pay TfL costs of £2,815\"]}",
+     "The court action is the latest in a number of court cases where TfL has prosecuted utility companies for badly managed roadworks.",
+     "More than £20,000 has been won in the last 12 months against utility companies for eight separate offences, with TfL recovering around £12,100 in costs from these.",
+     "This included £2,000 from National Grid Gas, the highest fine for a utility company by TfL over the last twelve months.",
+     "Leon Daniels, Managing Director for Surface Transport said: 'Roadworks offences by any utility company cause significant disruption to all road users, as well as having a knock on effect to local businesses across London.",
+     "'Those companies should be aware that we will continue to prosecute where infringements occur; and we will continue to work to further reduce roadworks disruption across London, helping to make journeys for pedestrians, cyclists and road users smoother for all.'",
+     "{\"template\":\"bulletlist\",\"items\":[\"Under the New Roads and Streetworks Act 1991, the Traffic Management Act 2004 and the London Permit Scheme, utility companies and highways authorities are required to seek permits and provide notification for works that are carried out on the TLRN. These requirements are in place to assist TfL in co-ordinating road works and reducing traffic disruption across London, and were contravened by the activities of BT and Cable \\u0026 Wireless\",\"Londoners can report disruptive or badly managed roadworks by visiting \\u003ca href=\\\"http://www.tfl.gov.uk/roadworks\\\"\\u003etfl.gov.uk/roadworks\\u003c/a\\u003e , or by using a GPS enabled mobile device to tweet @report_it with the hashtag #roadworks. Enquiries will be sent directly to the highway authority responsible, ensuring that direct and swift action can be taken\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

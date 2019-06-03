@@ -1,0 +1,64 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Tower Bridge closure - Wednesday 23 March 2005: diversions into the congestion charging zone",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Tower Bridge was closed to traffic for a few hours today due to a technical problem, and some vehicles were therefore diverted into the congestion charging zone."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Vehicles following a diversion into the zone should leave by the nearest available route as soon as possible. If they do so, they should not receive a penalty charge notice (PCN) and there is no need for them to pay the £5 daily charge.",
+     "However, should drivers go further into the zone or stay in the zone for a prolonged period they will be expected to pay the charge.",
+     "Any driver wishing to contest a PCN should follow the representations process as outlined on the PCN.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

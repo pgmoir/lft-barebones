@@ -1,0 +1,87 @@
+{
+ "pageTitle": "Transport for London Easter services",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London Easter services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) today announced details of London travel arrangements over the Easter weekend, Good Friday 14 April to Easter Monday 17 April."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "London Underground (LU) will operate a Saturday service on Good Friday.",
+     "Normal services will then operate on Easter Saturday and Sunday. On Easter Monday a Saturday service will operate.",
+     "However due to planned engineering work the following services will be suspended over the Easter weekend. Passengers can use alternative Underground routes and local bus services.",
+     "\u003cstrong\u003eCentral line\u003c/strong\u003e \u003cbr /\u003eThere will be no service between Leytonstone and Newbury Park eastbound. Wanstead Station will be closed. Valid London Underground tickets will be accepted on route 66 between Leytonstone and Newbury Park, and extra buses will be running on this route.",
+     "\u003cstrong\u003eCircle line\u003c/strong\u003e \u003cbr /\u003eThere will be no service between Baker Street and Liverpool Street, due to redevelopment work at King's Cross, and a reduced service between Liverpool Street and Baker Street (via Victoria). A rail replacement bus service will operate between Baker Street and Liverpool Street during early morning and late night periods.",
+     "\u003cstrong\u003eDistrict line\u003c/strong\u003e \u003cbr /\u003eOn Easter Sunday due to Network Rail engineering work, buses will replace trains between Turnham Green and Richmond until 9am. LU tickets will be accepted on South West Trains services between Waterloo and Richmond.",
+     "\u003cstrong\u003eHammersmith \u0026 City line\u003c/strong\u003e \u003cbr /\u003eThere will be no service between Edgware Road and Barking, and a reduced service between Hammersmith and Edgware Road, due to redevelopment work at King's Cross.",
+     "\u003cstrong\u003eMetropolitan line\u003c/strong\u003e \u003cbr /\u003eThere will be no service between Baker Street and Aldgate due to redevelopment work at King's Cross.",
+     "\u003cstrong\u003eNorthern line\u003c/strong\u003e \u003cbr /\u003eBuses will replace trains between Golders Green and Edgware due to Tube Lines carrying out track replacement work.",
+     "\u003cstrong\u003eVictoria line\u003c/strong\u003e \u003cbr /\u003eBuses will replace trains between Stockwell and Brixton due to Metronet carrying out station modernisation work.",
+     "\u003cstrong\u003eWaterloo \u0026 City line\u003c/strong\u003e \u003cbr /\u003eThe line is closed until September 2006 for a line upgrade.",
+     "Stations closed, other than those where engineering work will be carried out, are Shoreditch Station, which will be closed on Good Friday and Easter Monday.",
+     "Cannon Street Station will be open from 07.30-19.30 on Good Friday and Easter Monday.",
+     "On London Buses, on Good Friday, routes 931, 953, 965 and 969 will operate a normal Friday service and route 477 will operate to a public holiday timetable.",
+     "All other buses will operate a Saturday service on Good Friday, except for 310 (no Saturday service within Greater London), 402, 409, 500, 514, and 515, which will not be running.",
+     "On Saturday 15 April, a normal Saturday service will operate on all routes.",
+     "On Easter Sunday 16 April, a normal Sunday service will operate on all day and night routes, except on Route N159 on the night Sunday 16/Monday 17 April.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Easter travel\"}",
+     "A special service incorporating three additional morning journeys from New Addington, Homestead Way to Thornton Heath Pond will be running to coincide with the later start of the Tramlink services.",
+     "On Easter Monday 17 April, a normal Sunday service will be provided on bus routes.",
+     "Routes 903, 917, 965 and 969, which normally run on Mondays, will not be running.",
+     "A Saturday service will operate on Good Friday and Easter Monday on the Docklands Light Railway and Croydon Tramlink.",
+     "Normal services will run on Easter Saturday and Sunday.",
+     "All River services will run a normal service throughout the weekend except for:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Thames Executive Charters running from Putney to Blackfriars which will not be operating on Good Friday or Easter Monday. (They do not operate at weekends)\",\"Thames Clippers, the Greenwich - Savoy route will operate on the Saturday/Sunday/Public Holiday timetable on Good Friday and Easter Monday. This means thereul\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

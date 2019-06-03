@@ -1,0 +1,30 @@
+<% if (o) { %>
+<div class="bd-example mb-3">
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+    <% o.carousel.forEach(function(image, ix) { %>
+      <li data-target="#carouselExampleCaptions" data-slide-to="ix" class="<% if (ix == 0) { %>active<% } %>"></li>
+    <% }) %>
+    </ol>
+    <div class="carousel-inner">
+      <% o.carousel.forEach(function(image, ix) { %>
+      <div class="carousel-item <% if (ix == 0) { %>active<% } %>">
+        <img src="<%= image.url %>" class="d-block w-100" alt="<%= image.url %>">
+        <div class="card">
+          <p class="card-body pb-0"><%= image.alt %></p>
+        </div>
+      </div>
+      <% }) %>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<% } %>
+

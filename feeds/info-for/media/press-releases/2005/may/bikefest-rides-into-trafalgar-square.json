@@ -1,0 +1,75 @@
+{
+ "pageTitle": "BikeFest rides into Trafalgar Square",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "BikeFest rides into Trafalgar Square",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London's annual cycle-themed extravaganza BikeFest in the Square will be held for the second time on Sunday 12 June."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "\u003cstrong\u003eEvent:\u003c/strong\u003e BikeFest in the Square\u003cbr /\u003e\u003cstrong\u003eDate:\u003c/strong\u003e Sunday 12 June\u003cbr /\u003e\u003cstrong\u003eTime:\u003c/strong\u003e Starts 1pm, ends 5pm\u003cbr /\u003e\u003cstrong\u003eLocation: \u003c/strong\u003e Trafalgar Square",
+     "BikeFest, hosted by Transport for London (TfL), kicks off this year's Bike Week.",
+     "The event will offer great entertainment for the whole family, including those who have never been near a saddle.",
+     "The event will have an array of bike themed activities including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"div\",\"div\",\"div\",\"div\",\"div\",\"div\",\"div\",\"div\",\"div\"]}",
+     "TfL's Bike Doctor clinic will be on hand to offer free health check for bikes.",
+     "A team of mechanics will advise on minor bike ailments, from checking the gears to tightening up the brakes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"'Explore the city'\"}",
+     "Free supervised cycle parking will also be available at the event and there will be a prize draw to win a brand new bike courtesy of TfL and Evans Cycles.",
+     "TfL's Managing Director of Surface Transport, Peter Hendy, said:\u003cbr /\u003e\"During the summer we want as many people as possible to hop on a bike to explore the city.",
+     "\"BikeFest in the Square will show people that cycling in London is fun, enjoyable and a great way to get around.",
+     "\"There will be some great family entertainment on offer, including bikes for hire and I hope people will take the chance to experience for themselves the buzz and benefits of cycling in London.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"For further information about cycling in London, visit TfL's \\u003ca href=\\\"http://www.tfl.gov.uk/cycles/\\\"\\u003ecycling site \\u003c/a\\u003e \",\"Bike Week and Bike2Work Week run from 11 June-19 June. For more information visit the \\u003ca href=\\\"http://www.bikeweek.org.uk\\\"\\u003eBike Week website \\u003c/a\\u003e \\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

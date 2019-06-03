@@ -1,0 +1,190 @@
+{
+ "pageTitle": "Retirement",
+ "keywords": "TfL",
+ "description": "TfL Pension Fund's retirement age is 65, but you can retire earlier or later.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Your pension",
+   "url": "/pensions/your-pension"
+  },
+  {
+   "title": "Retirement"
+  }
+ ],
+ "title": {
+  "title": "Retirement",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Fund's retirement age is 65, but you can retire earlier or later.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Retiring from age 60\"}",
+     "You can take your pension without any reduction if you retire at any time from age 60, providing you have more than three months pensionable service, otherwise you will only be entitled to a refund of your contributions.",
+     "Your pension is based on your pensionable service and pensionable salary. The annual amount of your pension payment is calculated as:",
+     "\u003cstrong\u003e1/60 x pensionable service x pensionable salary\u003c/strong\u003e ",
+     "For existing members there is a deduction of £10.10 a year for pensionable service from 1 October 1993.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Retiring before you are 60\"}",
+     "\u003cstrong\u003eYou can take your pension from age 50\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you joined the Fund on or before 5 April 2006\"]}",
+     "\u003cstrong\u003eYou can take your pension from age 55\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you joined the Fund on or after 6 April 2006\",\"If you have more than three months pensionable service, otherwise you will only be entitled to a refund of your contributions\"]}",
+     "\u003cstrong\u003ePension reduction if you retire before 60\u003c/strong\u003e ",
+     "Your pension would first be calculated as 1/60 x pensionable service x pensionable salary, then reduced because it would be paid earlier and for a longer time. The amount of the reduction will depend on how old you are when you take your pension, for example:",
+     "{\"template\":\"table\",\"titles\":[\"\",\"Pension reduction\"],\"rows\":[[],[\"58\",\"8%\"],[\"55\",\"18%\"],[\"50\",\"33%\"]]}",
+     "Different reductions apply to men who left before 17 May 1990. Further details are available from the \u003ca href=\"/pensions/contact\"\u003eFund office\u003c/a\u003e .",
+     "\u003cstrong\u003eIf your pension is less than Guaranteed Minimum Pension (GMP)\u003c/strong\u003e ",
+     "If your pension is less than the \u003ca href=\"/pensions/your-pension/contracting-out\"\u003eGuaranteed Minimum Pension\u003c/a\u003e , an amount determined by the government, you can not draw your pension until you are 60.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Still in service at 60\"}",
+     "If you are an existing member approaching age 60 and still in service you will be given the option to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Continue paying contributions and earning pension benefits in the normal way\",\"Stop paying contributions and earning pension benefits at age 60 and instead earn a bonus pension. In this case your pension will receive a bonus of 2/3 of 1% for each complete month (8% a year) that it remains deferred after the age of 60, provided that payment is deferred for at least six months\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Retiring after you are 65\"}",
+     "You will normally retire by the age of 65, but if your employer agrees you can remain in service beyond this age.",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can choose to continue paying contributions or to stop paying contributions\",\"If you choose to stop paying contributions and you joined the Fund from 1 June 1989, you will have to wait until you leave service to draw your pension. If you joined before this date you can draw your pension immediately\",\"If you choose to stop paying contributions and your pension is not paid from age 65 then it will be calculated as if you had retired at that age. It will then receive a bonus of 2/3 of 1% for each complete month (equivalent to 8% a year) that it remains deferred. This is provided that payment is deferred for at least six months\",\"You must take your pension no later than age 75, even if you are still in employment\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lump sum\"}",
+     "You may exchange part of your pension for a tax-free lump sum payment. The maximum lump sum that can be paid is 25% of the value of your pension at retirement.",
+     "You can take a smaller lump sum than the maximum.",
+     "Taking a lump sum will not reduce the amount of any adult dependant's and eligible children's pensions that might be payable on your death.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Variable pension\"}",
+     "A variable pension helps to balance your total income after you retire. It allows you to receive a higher pension until State Pension Age (SPA) and a reduced one from then on, regardless of whether or not you take a lump sum. If the Government changes SPA the variable pension will still stop when originally advised at retirement.",
+     "You can take a variable pension in addition to the lump sum, although there might be some restrictions. This is because the Fund must ensure your reduced pension after SPA is at least half of your original pension and at least equal to your \u003ca href=\"/pensions/your-pension/contracting-out\"\u003eGuaranteed Minimum Pension (GMP)\u003c/a\u003e .",
+     "The amount of pension paid is subject to a limit under the Rules.",
+     "Taking a variable pension will not reduce the amount of any adult dependant's and eligible children's pensions payable on your death."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Your contributions",
+      "url": "/pensions/your-pension/your-contributions",
+      "image": {}
+     },
+     {
+      "title": "Joining and leaving the fund",
+      "url": "/pensions/your-pension/joining-and-leaving-the-fund",
+      "image": {}
+     },
+     {
+      "title": "Retirement",
+      "url": "/pensions/your-pension/retirement",
+      "image": {}
+     },
+     {
+      "title": "Ill-health retirement",
+      "url": "/pensions/your-pension/ill-health-retirement",
+      "image": {}
+     },
+     {
+      "title": "Benefits on death",
+      "url": "/pensions/your-pension/benefits-on-death",
+      "image": {}
+     },
+     {
+      "title": "Contracting-out",
+      "url": "/pensions/your-pension/contracting-out",
+      "image": {}
+     },
+     {
+      "title": "Pension payments and deductions",
+      "url": "/pensions/your-pension/pension-payments-and-deductions",
+      "image": {}
+     },
+     {
+      "title": "Remarriage and divorce",
+      "url": "/pensions/your-pension/remarriage-and-divorce",
+      "image": {}
+     },
+     {
+      "title": "Member self-service",
+      "url": "/pensions/your-pension/member-self-service",
+      "image": {}
+     },
+     {
+      "title": "Staff travel",
+      "url": "/pensions/your-pension/staff-travel",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "pageTitle": "Charges for driving in London",
+ "keywords": "TfL,cost, driving",
+ "description": "How much it costs to bring your vehicle into central and Greater London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Charges for driving in London"
+  }
+ ],
+ "title": {
+  "title": "Charges for driving in London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"As well as the Congestion Charge, you may need to pay other charges to drive within London if your vehicle doesn't meet specific emissions standards.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You will need to meet the standards for the \u003ca href=\"/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e or \u003ca href=\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\"\u003eLow Emission Zone (LEZ\u003c/a\u003e ), or pay all of the charges mentioned in the relevant table. Discounts and exemptions may apply.",
+     "You can save on the Congestion Charge by registering for Auto Pay - a £10 annual registration charge applies for each vehicle registered.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cars and small vans\"}",
+     "Cars, and small vans (not exceeding 1,205kg unladen weight).",
+     "{\"template\":\"table\",\"titles\":[\"Congestion Charge\",\"Ultra Low Emission Zone\",\"Area\",\"Time\",\"Daily charges\"],\"rows\":[[\"\"],[\"Congestion Charge zone (central London)\",\"Congestion Charge zone (central London)\"],[\"Mon-Fri, 07:00-18:00\",\"At all times\"],[\"£11.50 (£10.50 Auto Pay)\",\"£12.50 if Euro 4 petrol or Euro 6 diesel standards not met\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Motorcycles\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eUltra Low Emission Zone\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eArea \\u003c/strong\\u003e \",\"Congestion Charge zone (central London)\"],[\"\\u003cstrong\\u003eTime\\u003c/strong\\u003e \",\"At all times\"],[\"\\u003cstrong\\u003eDaily charge\\u003c/strong\\u003e \",\"£12.50 if Euro 3 standard not met\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Motor tricycles and quadricycles\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCongestion Charge \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eUltra Low Emission Zone\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eArea\\u003c/strong\\u003e \",\"Congestion Charge zone (central London)\",\"Congestion Charge zone (central London)\"],[\"\\u003cstrong\\u003eTime\\u003c/strong\\u003e \",\"Mon-Fri, 07:00-18:00\",\"At all times\"],[\"\\u003cstrong\\u003eDaily charges\\u003c/strong\\u003e \",\"£11.50 (£10.50 Auto Pay)\",\"£12.50 if Euro 3 standard not met\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Larger vans, minibuses \\u0026 specialist vehicles\"}",
+     "Vans (exceeding 1,205kg unladen and not exceeding 3,500kg GVW) and Minibuses (passenger vehicles with more than eight seats, plus the driver's seat, not exceeding 5,000kg GVW).",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCongestion Charge\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eUltra Low Emission Zone\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eLow Emission Zone\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eArea\\u003c/strong\\u003e \",\"Congestion Charge zone (central London)\",\"Congestion Charge zone (central London)\",\"Low Emission Zone (most of Greater London)\"],[\"\\u003cstrong\\u003eTime\\u003c/strong\\u003e \",\"Mon-Fri, 07:00-18:00\",\"At all times\",\"At all times\"],[\"\\u003cstrong\\u003eDaily charges\\u003c/strong\\u003e \",\"£11.50 (£10.50 Auto Pay) if not registered for 100% discount for vehicles with 9+ seats\",\"£12.50 if Euro 4 petrol or Euro 6 diesel standard not met\",\"£100 if Euro 3 diesel standard not met\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses \\u0026 coaches\"}",
+     "Applies to passenger vehicles with more than eight seats, plus the driver's seat, exceeding 5,000 kg GVW.",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCongestion Charge\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eUltra Low Emission Zone\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eLow Emission Zone\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eArea\\u003c/strong\\u003e \",\"Congestion Charge zone (central London)\",\"Congestion Charge zone (central London)\",\"Low Emission Zone (most of Greater London)\"],[\"\\u003cstrong\\u003eTime\\u003c/strong\\u003e \",\"Mon-Fri, 07:00-18:00\",\"At all times\",\"At all times\"],[\"\\u003cstrong\\u003eDaily charges\\u003c/strong\\u003e \",\"£11.50 (£10.50 Auto Pay) if not exempt via tax class bus, reduced pollution bus, or registered for 100% discount for vehicles with 9+ seats\",\"£100 if Euro VI standard not met\",\"£200 if Euro IV diesel standard not met\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Heavy goods vehicles \\u0026 specialist heavy vehicles\"}",
+     "Applies to HGVs and specialist heavy vehicles over 3,500kg gross vehicle GVW, such as: lorries, motorised horse boxes, breakdown \u0026 recovery vehicles, snow ploughs, gritters, refuse collection vehicles, road sweepers, concrete mixers, fire engines, tippers and removals lorries.",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCongestion Charge\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eUltra Low Emission Zone\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eLow Emission Zone\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eArea\\u003c/strong\\u003e \",\"Congestion Charge zone (central London)\",\"Congestion Charge zone (central London)\",\"Low Emission Zone (most of Greater London)\"],[\"\\u003cstrong\\u003eTime\\u003c/strong\\u003e \",\"Mon-Fri, 07:00-18:00\",\"At all times\",\"At all times\"],[\"\\u003cstrong\\u003eDaily charges\\u003c/strong\\u003e \",\"£11.50 (£10.50 Auto Pay)\",\"£100 if Euro VI standard not met\",\"£200 if Euro IV diesel standard not met\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Air quality advice",
+      "url": "/corporate/about-tfl/air-quality-advice",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

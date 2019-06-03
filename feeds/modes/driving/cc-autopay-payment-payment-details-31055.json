@@ -1,0 +1,49 @@
+{
+ "pageTitle": "Manage Auto Pay",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Manage Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Manage Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Payment details\"}",
+     "Your monthly payments are being taken from the bank account or payment card shown below.  If you are paying using a card please check the expiry date.  If your card expires payments will fail, and you may be issued with Penalty Charge Notices."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

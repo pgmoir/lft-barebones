@@ -1,0 +1,222 @@
+{
+ "pageTitle": "Taxi \u0026 private hire",
+ "keywords": "TfL",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Taxi \u0026 private hire ",
+  "card": {
+   "texts": [
+    "Find out how to become a taxi or private hire licensee and find the latest notices for current drivers, plus advice and updates on legal requirements and consultations."
+   ],
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "title": "Licensing",
+    "texts": [
+     "Information for taxi and private hire licensees and new applicants"
+    ],
+    "link": {
+     "url": "/info-for/taxis-and-private-hire/licensing",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxis-landing-page_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Ranks, regulation \u0026 policy",
+    "texts": [
+     "General guidance and policy documents for the taxi and private hire trade"
+    ],
+    "link": {
+     "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tph-taxi-ranks_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Emission standards and rapid charging",
+    "links": [
+     {
+      "title": "Electric vehicles \u0026 rapid charging",
+      "url": "https://tfl.gov.uk/modes/driving/electric-vehicles-and-rapid-charging",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for taxis",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-taxis",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for PHVs",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-phvs",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Ultra Low Emission Zone",
+      "url": "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Enforcement \u0026 compliance",
+    "texts": [
+     "We're working alongside the police to target rogue drivers and operators"
+    ],
+    "link": {
+     "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/compliance-tph_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Passenger information",
+    "texts": [
+     "If you are a taxi or private hire passenger, go to our passenger information page"
+    ],
+    "link": {
+     "url": "/modes/taxis-and-minicabs/index",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cabwise-landinghero2_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Licence checker",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Report it",
+    "texts": [
+     "Report touting and illegal cab activity"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfLTPH",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

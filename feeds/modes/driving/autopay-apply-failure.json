@@ -1,0 +1,56 @@
+{
+ "pageTitle": "Something went wrong",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Something went wrong"
+  }
+ ],
+ "title": {
+  "title": "Something went wrong",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"strong\"}",
+     "None of your vehicles have been registered. If you travel within the Congestion Charge/ULEZ zone you will need to pay the charge(s) another way.",
+     " \u003ca href=\"/modes/driving/autopay-apply\"\u003eStart your Auto Pay application again.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your Auto Pay application has failed\"}",
+     " \u003ca href=\"/modes/driving/autopay-apply\"\u003eStart your Auto Pay application again.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

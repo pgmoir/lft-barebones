@@ -1,0 +1,178 @@
+{
+ "pageTitle": "How it works",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "How to hire, ride and return a Santander Cycle in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Santander Cycles",
+   "url": "/modes/cycling/santander-cycles"
+  },
+  {
+   "title": "How it works"
+  }
+ ],
+ "title": {
+  "title": "How it works",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Getting started is easy. Simply hire a bike, ride it where you like, then return it to any docking station.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"video\",\"style\":\"TQQIyskZAys\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Step 1 - Hire\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Go to the nearest docking station terminal with your debit or credit card and touch the screen to begin\",\"Choose 'Hire a cycle', follow the on-screen instructions and take the printed release code\",\"You can hire up to four bikes at the same time (you'll need a separate release code for each bike)\"]}",
+     "Tip: Santander Cycles is for short trips so, once you have paid the £2 bike access fee for 24 hours, you can make as many journeys as you like within that time and the first 30 minutes of each journey is included. Longer journeys cost £2 for each extra 30 minutes or less.",
+     "Tip: Each bike release code is valid for 10 minutes and only at that docking station. Bikes are valuable so don't let anyone see your code before you use it.",
+     " \u003ca href=\"/modes/cycling/santander-cycles/what-you-pay\"\u003eFind out what you pay to hire a bike\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/santander-hire.gif\",\"alt\":\"Select 'hire a cycle', insert bank card, take printed release code\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Step 2 - Ride\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Take a moment to read our tips for safer cycling at the terminal\",\"Choose your bike and check the tyres, brakes and bell\",\"Type your five-digit release code into the docking point's keypad and pull the bike out when the green light appears\",\"Adjust the saddle height and you're good to go!\"]}",
+     "Tip: The bikes have lights that come on automatically when you start pedalling.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/santander.ride.gif\",\"alt\":\"Adjust saddle and check tyres, brakes and bell. Type in release code.\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Step 3 - Return\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Push the bike firmly into any empty docking point\",\"You must wait for the green light, which will show that the bike is securely docked (otherwise we will continue to charge you for your journey). If you don't get a green light, call the Contact Centre immediately on 0343 222 6666 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\",\"If the docking station is full, choose 'No docking point free' at the terminal and follow the on-screen directions to get an extra 15 minutes included\",\"To find a nearby space if the docking station is full, choose 'Status of nearest docking station' at the terminal.\",\"Remember, if you're not using the bike, dock it back!\"]}",
+     "Tip: If the bike is unsafe to ride, please let us know it needs repairing by pressing the 'Fault' button on the docking point within 10 seconds of docking it. Turn the saddle backwards to show others that it needs repairing.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/santander-return.gif\",\"alt\":\"Push bike into docking point and wait for green light or follow screen instructions to get 15 minutes free if docking station full\"},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "How it works",
+      "url": "/modes/cycling/santander-cycles/how-it-works",
+      "image": {}
+     },
+     {
+      "title": "What you pay",
+      "url": "/modes/cycling/santander-cycles/what-you-pay",
+      "image": {}
+     },
+     {
+      "title": "Find a docking station",
+      "url": "/modes/cycling/santander-cycles/find-a-docking-station",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles membership",
+      "url": "/modes/cycling/santander-cycles/register-for-your-own-key",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/santander-cycles/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Lost, stolen or faulty",
+      "url": "/modes/cycling/santander-cycles/lost-stolen-or-faulty",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles app",
+      "url": "/modes/cycling/santander-cycles/community",
+      "image": {}
+     },
+     {
+      "title": "Suggestions \u0026 complaints",
+      "url": "/modes/cycling/santander-cycles/suggestions-and-complaints",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles business accounts",
+      "url": "/modes/cycling/santander-cycles/business-accounts",
+      "image": {}
+     },
+     {
+      "title": "Blaze Laserlights",
+      "url": "/modes/cycling/santander-cycles/blaze-laserlights",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/SantanderCycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

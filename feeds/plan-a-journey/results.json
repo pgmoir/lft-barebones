@@ -1,0 +1,35 @@
+{
+ "pageTitle": "Journey results",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Plan a journey",
+   "url": "/plan-a-journey/index"
+  },
+  {
+   "title": "Journey results"
+  }
+ ],
+ "title": {
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": null,
+  "cards": null
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

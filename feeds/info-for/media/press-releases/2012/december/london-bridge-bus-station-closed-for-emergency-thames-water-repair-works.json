@@ -1,0 +1,68 @@
+{
+ "pageTitle": "London Bridge bus station closed for emergency Thames Water repair works",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Bridge bus station closed for emergency Thames Water repair works",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Bridge bus station has been closed to allow Thames Water to make emergency repairs to a collapsed sewer that was discovered on London Bridge Street over the weekend."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The bus station is now closed and due to reopen on Monday 24 December.  During these emergency works London buses will call at nearby stops on London Bridge instead.",
+     "Bus routes affected are numbers 43, 48, 141, 149, 521, N21 and N343.",
+     "Revised stopping arrangements will be clearly displayed on posters around the bus station, in local bus stops and on the TfL website \u003ca href=\"http://www.tfl.gov.uk/livetravelnews\"\u003etfl.gov.uk/livetravelnews\u003c/a\u003e .",
+     "Passengers are advised to allow extra time to complete their journeys.",
+     "Taxis will also be unable to serve the rank at London Bridge bus station.",
+     "This unavoidable closure is necessary to ensure Thames Water can continuously work on these essential repairs to enable the bus station to reopen and resume a normal service as quickly as possible."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

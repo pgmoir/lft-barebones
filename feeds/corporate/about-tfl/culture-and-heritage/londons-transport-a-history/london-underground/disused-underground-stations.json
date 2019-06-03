@@ -1,0 +1,190 @@
+{
+ "pageTitle": "Disused underground stations",
+ "keywords": "Public,TfL",
+ "description": "They're not used for travel, but history is alive in London Underground's disused stations",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "London's transport - a history",
+   "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history"
+  },
+  {
+   "title": "London Underground",
+   "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground"
+  },
+  {
+   "title": "Disused underground stations"
+  }
+ ],
+ "title": {
+  "title": "Disused underground stations  ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about London's disused Underground stations.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are 270 functioning stations across our network, but at least 40 Overground and Underground stations still in existence are no longer used for travel.",
+     "Closed for a variety of reasons, from low passenger numbers to re-routing, these stations have had interesting histories. Some offered a vital refuge throughout the wars.",
+     "During World War Two, many stations were used as public shelters and underground offices for London Underground and government staff. Down Street station was transformed into an underground facility with phone lines, and even hosted a meeting of the War Cabinet. Another, Brompton Road, was sold to the War Office in 1938 and is still used by the Ministry of Defence today.",
+     "Stations have also played a part in Britain's cultural life. Aldwych station, for example, was used to house the National Gallery's collection during WWI and British Museum artefacts (including the Elgin Marbles), during WWII.",
+     "In more recent years, Aldwych has doubled up as a filming location for productions as diverse as The Prodigy's 'Firestarter' music video, and zombie movie, '28 Weeks Later.'",
+     "The following stations give some idea about disused stations and when they closed down. A complete list of stations, and additional research material, is available in our \u003ca href=\"/corporate/about-tfl/culture-and-heritage/corporate-archives/the-collections\"\u003eCorporate Archives\u003c/a\u003e section.",
+     "{\"template\":\"table\",\"titles\":[\"Name\",\"Line\",\"Closed\"],\"rows\":[[],[\"King William Street\",\"City \\u0026 South London Railway\",\"1900\"],[\"City Road\",\"City \\u0026 South London Railway\",\"1922\"],[\"Down Street\",\"Great Northern Piccadilly and Brompton Railway\",\"1932\"],[\"Brompton Road\",\"Great Northern Piccadilly and Brompton Railway\",\"1934\"],[\"Swiss Cottage\",\"Metropolitan and St John's Wood Railway\",\"1940\"],[\"Wood Lane\",\"Hammersmith and City\",\"1959\"],[\"Mark Lane and Tower Hill\",\"Circle\",\"1967\"],[\"Blake Hall\",\"Epping-Ongar and Central\",\"1981\"],[\"Aldwych\",\"Great Northern Piccadilly and Brompton Railway\",\"1994\"],[\"Charing Cross\",\"Jubilee\",\"1999\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "London's transport - a history",
+    "links": [
+     {
+      "title": "Women in transport",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/women-in-transport",
+      "image": {}
+     },
+     {
+      "title": "London buses",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-buses",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground",
+      "image": {}
+     },
+     {
+      "title": "Disused underground stations",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground/disused-underground-stations",
+      "image": {}
+     },
+     {
+      "title": "A brief history of the Underground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground/a-brief-history-of-the-underground",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-overground",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/coaches",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/river",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway (DLR)",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/dlr",
+      "image": {}
+     },
+     {
+      "title": "Trams",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "London's transport - a history",
+     "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "HMRS Online",
+      "url": "http://www.hmrs.org.uk/index.php",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "The National Archives",
+      "url": "http://www.nationalarchives.gov.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Metropolitan Archives",
+      "url": "http://www.cityoflondon.gov.uk/things-to-do/visiting-the-city/archives-and-city-history/london-metropolitan-archives/Pages/default.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "http://www.ltmuseum.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "National Railway Museum Archives",
+      "url": "http://www.nrm.org.uk/researchandarchive",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

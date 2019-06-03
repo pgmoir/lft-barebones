@@ -1,0 +1,9 @@
+<% if (typeof o !== 'undefined') { %>
+  <% for (let text of o.texts) { %>
+    <p class="lead"><%- text %></p>
+  <% } %>
+<% } else { %>
+  <% for (let text of card.texts) { %>
+    <p class="lead"><%- text %></p>
+  <% } %>
+<% } %>

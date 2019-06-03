@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Better bus information on the way",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Better bus information on the way",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) today announced that within the next two years, Londoners will be able to find out exactly when their next bus is due by using their mobile phone or the internet."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Londoners will be able to find out exactly when their bus is due to arrive at their stop before they have even stepped outside their front door",
+     "Brand new Countdown signs will also provide bus arrival time predictions at 2,500 key stops across the Capital.",
+     "The Mayor of London, Boris Johnson, said: 'This terrific technology means anyone with a mobile or internet connection will be able to get up to the minute information about London's buses as they work their way around the Capital.",
+     "'Londoners will be able to find out exactly when their bus is due to arrive at their stop before they have even stepped outside their front door.'",
+     "Three contracts to develop and deliver these improvements have been awarded to telent, ACIS and Trueform.",
+     "Mobile and web information should be available by the beginning of 2011, and the roll out of new Countdown signs will begin a few months later.",
+     "Clare Kavanagh, London Buses' Director of Performance, said: 'These improvements will mean you'll never have to run for a bus again - with accurate, reliable information on bus services at your fingertips, you'll be able to find out exactly when the next bus is due to arrive at your stop.",
+     "'This builds on the success of iBus, which already provides on board journey information on every bus in the fleet, and it demonstrates our commitment to using the latest technology to make the bus service even easier to use.'",
+     "{\"template\":\"bulletlist\",\"items\":[\"The contract to develop the software and deliver web and mobile content has been awarded to telent. Two contracts to supply, install and maintain bus stop signs have been awarded to ACIS and Trueform\",\"All three contracts will run for 12 years\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "pageTitle": "Victoria Park to Stokes Road",
+ "keywords": "TfL",
+ "description": "Section four of the Jubilee Greenway Walk includes both Victoria Park and the Olympic Park.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Jubilee Greenway",
+   "url": "/modes/walking/jubilee-greenway"
+  },
+  {
+   "title": "Victoria Park to Stokes Road"
+  }
+ ],
+ "title": {
+  "title": "Victoria Park to Stokes Road",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Section four of the Jubilee Greenway Walk includes both Victoria Park and the Olympic Park.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route information\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Section start: Victoria Park - Canal Gate\",\"Nearest public transport to the start: Cambridge Heath (Rail) or Bethnal Green (Tube)\",\"Section finish: Stokes Road, North Beckton\",\"Nearest public transport to the finish: Bus stops on Lonsdale Avenue and Boundary Lane to Upton Park (Tube)\",\"Section distance: 5 miles (8 km)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Victoria Park\",\"Abbey Mills Pumping Station\",\"The Olympic Park\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Map\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Jubilee Greenway Walk section 4\",\"url\":\"/cdn/static/cms/documents/jubilee-greenway-route-section-four-v2.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.80MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Buckingham Palace to Little Venice",
+      "url": "/modes/walking/buckingham-palace-to-little-venice",
+      "image": {}
+     },
+     {
+      "title": "Little Venice to Camden",
+      "url": "/modes/walking/little-venice-to-camden",
+      "image": {}
+     },
+     {
+      "title": "Camden Park to Victoria Park",
+      "url": "/modes/walking/camden-park-to-victoria-park",
+      "image": {}
+     },
+     {
+      "title": "Victoria Park to Stokes Road",
+      "url": "/modes/walking/victoria-park-to-stokes-road",
+      "image": {}
+     },
+     {
+      "title": "Victoria Park to Limehouse Basin",
+      "url": "/modes/walking/victoria-park-to-limehouse-basin",
+      "image": {}
+     },
+     {
+      "title": "Stokes Road to Woolwich Foot Tunnel",
+      "url": "/modes/walking/stokes-road-to-the-river-thames",
+      "image": {}
+     },
+     {
+      "title": "Woolwich Foot Tunnel to Greenwich",
+      "url": "/modes/walking/river-thames-to-greenwich",
+      "image": {}
+     },
+     {
+      "title": "Greenwich to Tower Bridge",
+      "url": "/modes/walking/greenwich-to-tower-bridge",
+      "image": {}
+     },
+     {
+      "title": "Tower Bridge to Westminster Bridge",
+      "url": "/modes/walking/tower-bridge-to-westminster-bridge",
+      "image": {}
+     },
+     {
+      "title": "Westminster Bridge to Buckingham Palace",
+      "url": "/modes/walking/westminster-bridge-to-buckingham-palace",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Jubilee Greenway closures",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "pageTitle": "Taxi \u0026 private hire",
+ "keywords": "Public,Taxi and private hire,P,T,Corporate information,Taxis and minicabs,TfL",
+ "description": "General information aimed at taxi and private hire drivers, owners and operators",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Taxi \u0026 private hire"
+  }
+ ],
+ "title": {
+  "title": "Taxi \u0026 private hire",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Policy, guidance, regulations and legislation for the London taxi and private hire industry.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Policy \\u0026 strategy\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cross border hiring: Proposals for legislative change\",\"url\":\"/cdn/static/cms/documents/cross-border-hiring-proposals.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.30MB\",\"image\":{}},{\"title\":\"Policy statement: Private hire services in London\",\"url\":\"/cdn/static/cms/documents/private-hire-policy-statement.pdf\",\"icon\":\"download\",\"size\":\"PDF 164KB\",\"image\":{}},{\"title\":\"Mayor of London: Taxi and private hire action plan 2016\",\"url\":\"/cdn/static/cms/documents/taxi-and-private-hire-action-plan-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 684KB\",\"image\":{}},{\"title\":\"Suburban action plan 2015\",\"url\":\"/cdn/static/cms/documents/tfl-suburban-action-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 555KB\",\"image\":{}},{\"title\":\"Ranks action plan 2015\",\"url\":\"/cdn/static/cms/documents/tfl-ranks-action-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.59MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"General information\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and minicab and chauffeur executive car driver diary surveys 2016 - 17\",\"url\":\"/cdn/static/cms/documents/driver-diaries.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.47MB\",\"image\":{}},{\"title\":\"Taxi and private hire ridesharing focus group - April 2017\",\"url\":\"/cdn/static/cms/documents/taxi-and-private-hire-ridesharing-focus-group-april-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 928KB\",\"image\":{}},{\"title\":\"Disabled taxi and private hire passenger focus group - Nov 2016\",\"url\":\"/cdn/static/cms/documents/disabled-taxi-and-private-hire-passenger-focus-group-nov-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.28MB\",\"image\":{}},{\"title\":\"Impact of taxi and private hire apps focus group - Nov 2016\",\"url\":\"/cdn/static/cms/documents/impact-of-taxi-and-private-hire-apps-focus-group-nov-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.24MB\",\"image\":{}},{\"title\":\"Taxi wait time surveys - Nov 2016\",\"url\":\"/cdn/static/cms/documents/taxi-wait-time-surveys-nov-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.93MB\",\"image\":{}},{\"title\":\"On-street passenger surveys - Nov 2016\",\"url\":\"/cdn/static/cms/documents/on-street-passenger-surveys-nov-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.30MB\",\"image\":{}},{\"title\":\"Mystery traveller surveys - Nov 2016\",\"url\":\"/cdn/static/cms/documents/mystery-traveller-surveys-nov-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 984KB\",\"image\":{}},{\"title\":\"App use surveys - April 2017\",\"url\":\"/cdn/static/cms/documents/app-use-surveys-april-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.23MB\",\"image\":{}},{\"title\":\"DBS Update Service information\",\"url\":\"/cdn/static/cms/documents/dbs-update-service-leaflet-and-information.pdf\",\"icon\":\"download\",\"size\":\"PDF 64KB\",\"image\":{}},{\"title\":\"Guidance for developers\",\"url\":\"/cdn/static/cms/documents/tph-guidance-for-developers.pdf\",\"icon\":\"download\",\"size\":\"PDF 85KB\",\"image\":{}},{\"title\":\"Safety advice for taxi and private hire drivers\",\"url\":\"/cdn/static/cms/documents/safety-advice-for-drivers.pdf\",\"icon\":\"download\",\"size\":\"PDF 88KB\",\"image\":{}},{\"title\":\"Smarter driving\",\"url\":\"/cdn/static/cms/documents/smarter-driving.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual.pdf\",\"icon\":\"download\",\"size\":\"PDF 320KB\",\"image\":{}},{\"title\":\"Taxi ranks booklet\",\"url\":\"/cdn/static/cms/documents/tfl-taxi-ranks-booklet.pdf\",\"icon\":\"download\",\"size\":\"PDF 929KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Advertising, signage and branding\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Branding standard for licensed private hire operators\",\"url\":\"/cdn/static/cms/documents/ltph-branding-standard-for-ph-operators-issue03.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.04MB\",\"image\":{}},{\"title\":\"Operator branding standard\",\"url\":\"/cdn/static/cms/documents/phv-operator-branding-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.60MB\",\"image\":{}},{\"title\":\"Taxi advertising and private hire vehicle signage guidelines\",\"url\":\"/cdn/static/cms/documents/taxi-advertising-guidelines.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Greener vehicles and cleaner air\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Alternative fuels for taxi and private hire vehicles - guidelines\",\"url\":\"/cdn/static/cms/documents/alternative-fuels-version-2.pdf\",\"icon\":\"download\",\"size\":\"PDF 255KB\",\"image\":{}},{\"title\":\"Mayor of London's air quality strategy (guidance)\",\"url\":\"/cdn/static/cms/documents/mayors-air-quality-strategy.pdf\",\"icon\":\"download\",\"size\":\"PDF 84KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicle modifications and approved devices - general\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Approval process for additional equipment and modifications in taxis and private hire vehicles\",\"url\":\"/cdn/static/cms/documents/additional-equipment-in-taxis-and-private-hire-vehicles-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 57KB\",\"image\":{}},{\"title\":\"CCTV and incident recording - approved devices\",\"url\":\"/cdn/static/cms/documents/approved-cctv-and-incident-recording-devices.pdf\",\"icon\":\"download\",\"size\":\"PDF 91KB\",\"image\":{}},{\"title\":\"CCTV guidelines for taxis and private hire vehicles\",\"url\":\"/cdn/static/cms/documents/guidelines-for-cctv-in-taxis-and-phvs.pdf\",\"icon\":\"download\",\"size\":\"PDF 253KB\",\"image\":{}},{\"title\":\"Electronic payment devices in taxis and private hire vehicles\",\"url\":\"/cdn/static/cms/documents/electronic-payment-devices-in-taxis-and-private-hire-vehicles.pdf\",\"icon\":\"download\",\"size\":\"PDF 181KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicle modifications and approved devices - taxis\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Displaying stickers and official signs in London taxis\",\"url\":\"/cdn/static/cms/documents/guidlines-for-displaying.pdf\",\"icon\":\"download\",\"size\":\"PDF 159KB\",\"image\":{}},{\"title\":\"Electrical equipment for use in London taxis\",\"url\":\"/cdn/static/cms/documents/electrical-equipment-for-use-in-licensed-london-taxis.pdf\",\"icon\":\"download\",\"size\":\"PDF 85KB\",\"image\":{}},{\"title\":\"Electronic display screens in taxis\",\"url\":\"/cdn/static/cms/documents/electronic-display-screens-in-licensed-london-taxis.pdf\",\"icon\":\"download\",\"size\":\"PDF 75KB\",\"image\":{}},{\"title\":\"Guidelines for change of chassis/body to TfL-approved London taxis\",\"url\":\"/cdn/static/cms/documents/guidelines-for-change-of-chassis-body-to-approved-london-taxis-v6.pdf\",\"icon\":\"download\",\"size\":\"PDF 67KB\",\"image\":{}},{\"title\":\"Guidelines for taximeter printer equipment in taxis\",\"url\":\"/cdn/static/cms/documents/taximeter-printer-equipment-in-taxis-september.pdf\",\"icon\":\"download\",\"size\":\"PDF 34KB\",\"image\":{}},{\"title\":\"Seating, carpeting and headlining in London taxis\",\"url\":\"/cdn/static/cms/documents/seating-carpeting-headlining-materials.pdf\",\"icon\":\"download\",\"size\":\"PDF 87KB\",\"image\":{}},{\"title\":\"Sound systems in taxis\",\"url\":\"/cdn/static/cms/documents/sound-systems-in-licensed-london-taxis.pdf\",\"icon\":\"download\",\"size\":\"PDF 91KB\",\"image\":{}},{\"title\":\"Taximeter installation service centres\",\"url\":\"/cdn/static/cms/documents/taximeter-installation-service-centres.pdf\",\"icon\":\"download\",\"size\":\"PDF 60KB\",\"image\":{}},{\"title\":\"Taximeters and receipt printers\",\"url\":\"/cdn/static/cms/documents/taxi-meters-and-receipt-printers.pdf\",\"icon\":\"download\",\"size\":\"PDF 59KB\",\"image\":{}},{\"title\":\"Taximeter specification\",\"url\":\"/cdn/static/cms/documents/taximeter-specification-1.pdf\",\"icon\":\"download\",\"size\":\"PDF 196KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicle modifications and approved devices - private hire vehicles\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Aftermarket electronic devices for private hire vehicles\",\"url\":\"/cdn/static/cms/documents/guidelines-for-aftermarket-electronic-devices-for-phv.pdf\",\"icon\":\"download\",\"size\":\"PDF 58KB\",\"image\":{}},{\"title\":\"Driver protection and safety shields in private hire vehicles\",\"url\":\"/cdn/static/cms/documents/driver-safety-partition-screens-in-private-hire-vehicles.pdf\",\"icon\":\"download\",\"size\":\"PDF 165KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Legislation and guidance - taxis\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Fixed fare shared taxi conversion table\",\"url\":\"/cdn/static/cms/documents/london-taxi-sharing-conversion-tables.pdf\",\"icon\":\"download\",\"size\":\"PDF 109KB\",\"image\":{}},{\"title\":\"Obtaining a taxi vehicle licence\",\"url\":\"/cdn/static/cms/documents/obtaining-a-taxi-vehicle-licence.pdf\",\"icon\":\"download\",\"size\":\"PDF 257KB\",\"image\":{}},{\"title\":\"Responsibilities of taxi vehicle licensees\",\"url\":\"/cdn/static/cms/documents/responsibilities-of-the-licensee.pdf\",\"icon\":\"download\",\"size\":\"PDF 251KB\",\"image\":{}},{\"title\":\"Taxi - conditions of fitness\",\"url\":\"/cdn/static/cms/documents/taxi-conditions-of-fitness-update.pdf\",\"icon\":\"download\",\"size\":\"PDF 109KB\",\"image\":{}},{\"title\":\"Taxi driver - abstract of laws\",\"url\":\"/cdn/static/cms/documents/taxi-drivers-abstract-of-laws.pdf\",\"icon\":\"download\",\"size\":\"PDF 299KB\",\"image\":{}},{\"title\":\"Taxi licensing inspection - what to do following an inspection failure\",\"url\":\"/cdn/static/cms/documents/what-to-do-following-an-inspection-failure.pdf\",\"icon\":\"download\",\"size\":\"PDF 278KB\",\"image\":{}},{\"title\":\"Taxi rank suspension policy\",\"url\":\"/cdn/static/cms/documents/taxi-rank-suspension-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 51KB\",\"image\":{}},{\"title\":\"The London Taxi Sharing Scheme (Amendment) Order 2018\",\"url\":\"/cdn/static/cms/documents/london-taxi-sharing-scheme-amendment-order-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.56MB\",\"image\":{}},{\"title\":\"London Taxi Sharing Scheme Order 2018\",\"url\":\"/cdn/static/cms/documents/london-taxi-sharing-scheme-order-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.46MB\",\"image\":{}},{\"title\":\"London Cab Order 1934 (consolidated in May 2019)\",\"url\":\"/cdn/static/cms/documents/london-cab-order-1934-consolidated-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 456KB\",\"image\":{}},{\"title\":\"Metropolitan Public Carriage Act 1869\",\"url\":\"/cdn/static/cms/documents/metropolitan-public-carriage-act-1869.pdf\",\"icon\":\"download\",\"size\":\"PDF 164KB\",\"image\":{}},{\"title\":\"London Hackney Carriages Act 1843\",\"url\":\"/cdn/static/cms/documents/london-hackney-carriages-act-1843.pdf\",\"icon\":\"download\",\"size\":\"PDF 371KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Legislation and guidance - private hire drivers\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Private hire drivers - abstract of laws\",\"url\":\"/cdn/static/cms/documents/phv-driver-abstract-of-laws.pdf\",\"icon\":\"download\",\"size\":\"PDF 200KB\",\"image\":{}},{\"title\":\"The Private Hire Vehicles (London PHV Driver's Licences) Regulations 2003 - (Conslidated May 2019)\",\"url\":\"/cdn/static/cms/documents/phv-london-drivers-licences-regulations-2003-consolidated-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 210KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Legislation and guidance - private hire vehicles\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Responsibilities of a private hire vehicle licensee\",\"url\":\"/cdn/static/cms/documents/responsibilities-of-a-phv-licensee.pdf\",\"icon\":\"download\",\"size\":\"PDF 151KB\",\"image\":{}},{\"title\":\"The Private Hire Vehicles (London PHV Licences) Regulations 2004 - (Consolidated May 2019)\",\"url\":\"/cdn/static/cms/documents/phv-london-phv-licences-regulations-2004-consolidated-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 191KB\",\"image\":{}},{\"title\":\"Private hire vehicles (London) Act 1998\",\"url\":\"/cdn/static/cms/documents/private-hire-vehicles-london-act-1998.pdf\",\"icon\":\"download\",\"size\":\"PDF 225KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Legislation and guidance - private hire operators\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Operator licensing guidance notes (PHV/102)\",\"url\":\"/cdn/static/cms/documents/phv-102.pdf\",\"icon\":\"download\",\"size\":\"PDF 497KB\",\"image\":{}},{\"title\":\"Privacy \\u0026 data protection guideline for private hire operators\",\"url\":\"/cdn/static/cms/documents/2019-05-ph-operator-pdp-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 285KB\",\"image\":{}},{\"title\":\"Private hire operators - abstract of laws\",\"url\":\"/cdn/static/cms/documents/private-hire-operators-abstract-of-laws.pdf\",\"icon\":\"download\",\"size\":\"PDF 202KB\",\"image\":{}},{\"title\":\"The Private Hire Vehicles (London) (Operators' Licences) Regulations 2000 (consolidated in May 2019)\",\"url\":\"/cdn/static/cms/documents/phv-london-operators-licences-regulations-2000-consolidated-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 263KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Taxi \u0026 private hire",
+      "url": "/info-for/taxis-and-private-hire/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 minicabs",
+      "url": "/modes/taxis-and-minicabs/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

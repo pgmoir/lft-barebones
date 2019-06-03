@@ -1,0 +1,240 @@
+{
+ "pageTitle": "Enforcement process",
+ "keywords": "TfL",
+ "description": "Information on the LEZ enforcement process and the notices you may receive.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Penalty charges for the LEZ",
+   "url": "/modes/driving/low-emission-zone/penalty-charges"
+  },
+  {
+   "title": "Enforcement process"
+  }
+ ],
+ "title": {
+  "title": "Enforcement process",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This guide explains the enforcement process for the Low Emission Zone (LEZ) and the notices you may receive.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Penalty Charge Notices (PCNs)\"}",
+     "If you have been served with a notice, you have 28 days to either:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca abp=\\\"188\\\"href=\\\"/modes/driving/pay-a-pcn\\\"\\u003ePay the PCN\\u003c/a\\u003e \",\" \\u003ca abp=\\\"190\\\"href=\\\"/modes/driving/low-emission-zone/penalty-charges/challenge-a-penalty-charge-notice\\\"\\u003eChallenge a PCN\\u003c/a\\u003e \"]}",
+     "If you pay within 14 days of service, the penalty charge will be discounted by 50%.",
+     "Please do not ignore a PCN.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What if I don't pay it?\"}",
+     "If you don't pay your PCN or make a representation within 28 calendar days, it will increase to £1,500 or £750 (depending on vehicle size).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charge certificate\"}",
+     "If you do not pay the PCN within 28 days of the date of service, the original penalty amount will increase by 50% and a charge certificate will be sent to the registered keeper of the vehicle.",
+     "You have 14 days from the date of service in which to pay this.",
+     "Once a charge certificate has been issued you can no longer challenge the notice by making a representation. If you did not receive the original PCN, or you have not yet received a reply to a representation, you can make a Statutory Declaration.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Order for recovery\"}",
+     "If the penalty charge is not paid within 14 days of a Charge Certificate being served then we may apply to register it as an unpaid debt at the Traffic Enforcement Centre which incurs a debt registration fee for each PCN.\u003cbr /\u003e\u003cbr /\u003eYou will then be sent an Order for Recovery. This is not a County Court Judgment and will not affect your credit rating. At this point the penalty charge due increases by the debt registration fee.\u003cbr /\u003e\u003cbr /\u003eYou have 21 days from the date of service in which to pay this.\u003cbr /\u003e\u003cbr /\u003eUnder the Interpretation Act 1978 s.7, unless the contrary is proved, service is deemed to have been effected at the time when the Order for Recovery would be delivered in the ordinary course of post.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Enforcement Agents (bailiffs)\"}",
+     "If a PCN has not been paid within 21 days of an order for recovery being served, then we will ask for a warrant of execution, which will be passed to an enforcement agent to recover monies owed.",
+     "You will not be sent a copy of the warrant, but you may request a copy directly from the enforcement agent.",
+     "Initially they will write to you. They are allowed to charge fees for every letter, visit and action taken. If you ignore these communications, fees may run into many hundreds of pounds.",
+     "If you believe a PCN was issued incorrectly, please show any evidence to the enforcement agent. They will advise you if there is anything you can do, but in most cases you must pay them.",
+     "Enforcement agents acting on our behalf are all County Court certified and operate in accordance with governing legislation and our contractual requirements.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contracted enforcement agents\"}",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"212\"href=\"mailto:info@equita.co.uk\"\u003einfo@equita.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 01604 628 360\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003e42-44 Henry Street\u003cbr /\u003eNorthampton NN1 4BZ",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"224\"href=\"mailto:customercare@jbw.co.uk\"\u003ecustomercare@jbwgroup.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 0330 1070 024\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003e9th Floor, Peninsular House, Monument Street\u003cbr /\u003eLondon EC3R 8LJ",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"236\"href=\"mailto:customercare@marstongroup.co.uk\"\u003ecustomercare@marstongroup.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 0845 074 3749\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003e148 Edmund St\u003cbr /\u003eBirmingham B3 2JR",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"248\"href=\"mailto:service@taskenforcement.co.uk\"\u003eservice@taskenforcement.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 0333 320 1100\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003ePO BOX 12019,\u003cbr /\u003eEpping CM16 9EB",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Non-UK registered vehicles\"}",
+     "Recovery of unpaid penalties to non-UK registered vehicles is undertaken by a dedicated European debt recovery agency and we have established links with many European vehicle licensing agencies. We will always issue and recover penalties against vehicles registered outside the United Kingdom wherever possible."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/low-emission-zone/penalty-charges/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/low-emission-zone/penalty-charges/challenge-a-penalty-charge-notice",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

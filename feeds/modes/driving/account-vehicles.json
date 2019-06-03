@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Choose vehicle",
+ "keywords": "TfL",
+ "description": "Enter the details of a new vehicle or select a vehicle on your account to pay for.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Choose vehicle"
+  }
+ ],
+ "title": {
+  "title": "Choose vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Enter the details of a new vehicle or select a vehicle on your account to pay for.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003eUK-registered:\u003c/strong\u003e If your vehicle’s make and model details have not been returned, make sure you entered the number plate (Vehicle Registration Mark) correctly before continuing.",
+     "\u003cstrong\u003eRegistered outside the United Kingdom:\u003c/strong\u003e We are unable to display the make, model and colour information. Confirm this is the correct vehicle to continue.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the Congestion Charge, the ULEZ and the LEZ. This may change - always check to see if you need to pay to drive within the zone(s)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

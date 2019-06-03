@@ -1,0 +1,66 @@
+{
+ "pageTitle": "View and manage vehicles",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "View and manage vehicles"
+  }
+ ],
+ "title": {
+  "title": "View and manage vehicles",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can view, add and/or remove vehicles from your Fleet Auto Pay service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "More information is in the Fleet Auto Pay user guide.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Fleet Auto Pay user guide\",\"url\":\"/ruc-cdn/static/cms/documents/fleet-autopay-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.32MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You can't add or remove vehicles until your service is reactivated",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle. This may change - always check to see if you need to pay to drive within the zone.",
+     "This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you travel within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you travel within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from this charge. This may change - always check to see if you need to pay to drive within the zone.",
+     "This vehicle meets the ULEZ emissions standards. You don't have to pay the charge.",
+     "You need to pay the Congestion Charge for this vehicle if you travel within the zone Monday to Friday 07:00-18:00 excluding bank holidays and the period between Christmas Day and New Year's Day.",
+     "There was a problem - we can't retrieve your vehicles.",
+     "A tag will help you identify your vehicle more easily.",
+     "Change your vehicle tag or remove it.",
+     "If you remove the vehicle from your Auto Pay service it will cost £10 to add it again.",
+     "You need a minimum of 6 vehicles on Fleet Auto Pay. Add another vehicle first."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "pageTitle": "Enforcement agent \u0026 bailiffs",
+ "keywords": "TfL",
+ "description": "A list of enforcement agencies we work with, and what your rights are",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Penalty Charge Notices",
+   "url": "/modes/driving/red-routes/penalty-charge-notices"
+  },
+  {
+   "title": "Enforcement agent \u0026 bailiffs"
+  }
+ ],
+ "title": {
+  "title": "Enforcement agent \u0026 bailiffs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If the penalty charge has not been paid within 21 days of the Order for Recovery being served then we will request a Warrant of Control. This will be passed to an enforcement agent to recover the outstanding debt.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You will not be sent a copy of the Warrant, but you may request a copy directly from the enforcement agent or their office.",
+     "Once a case has been passed to an enforcement agent, they will start commence enforcement activity - this is known as the compliance stage. At this point you will receive an Enforcement Notice detailing the name and address on the warrant and how much money you owe.",
+     "If you ignore this initial notice, an enforcement agent may visit your property to collect the outstanding debt, plus any enforcement fees.",
+     "If you need to know more about enforcement agents and your rights, see the document below - 'Enforcement agents and bailiffs - Know your rights'.",
+     "All enforcement agents acting on our behalf are certified in a County Court and operate in accordance with governing legislation and our contractual requirements.",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"212\"href=\"mailto:info@equita.co.uk\"\u003einfo@equita.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 01604 628 360\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003e42-44 Henry Street\u003cbr /\u003eNorthampton NN1 4BZ",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"224\"href=\"mailto:customercare@jbw.co.uk\"\u003ecustomercare@jbwgroup.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 0330 1070 024\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003e9th Floor, Peninsular House, Monument Street\u003cbr /\u003eLondon EC3R 8LJ",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"236\"href=\"mailto:customercare@marstongroup.co.uk\"\u003ecustomercare@marstongroup.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 0845 074 3749\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003e148 Edmund St\u003cbr /\u003eBirmingham B3 2JR",
+     "\u003cstrong\u003eEmail: \u003c/strong\u003e  \u003ca abp=\"248\"href=\"mailto:service@taskenforcement.co.uk\"\u003eservice@taskenforcement.co.uk\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone: \u003c/strong\u003e 0333 320 1100\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003ePO BOX 12019,\u003cbr /\u003eEpping CM16 9EB",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Enforcement agents and bailiffs - know your rights\",\"url\":\"/ruc-cdn/static/cms/documents/bailiffs-enforcement-agents-your-rights.pdf\",\"icon\":\"download\",\"size\":\"PDF 42KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Pay a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agent \u0026 bailiffs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-agent-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Local Authority PCNs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London River Services unveils spring/summer timetable",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "With the days getting longer and London gearing itself up for the warmer seasons, Transport for London's (TfL's) London River Services has produced a new guide to the services available on the River Thames in the coming months."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "River services also offer a quick, convenient and comfortable way to travel through central London",
+     "The new booklet contains the 2008 spring and summer schedule for river services.",
+     "A number of regular commuter services depart daily from the eight key piers London River Services manages along the Thames, including a frequent service from Embankment to Woolwich Arsenal.",
+     "As well as offering high-speed commuter journeys, the river also boasts a number of specialist trips, including jazz river trips, lunch and dinner cruises and a Tate-to-Tate service, providing an easy transport link between the world famous art galleries.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quick and convenient\"}",
+     "Andy Griffiths, Head of London River Services, said: \"London's river services give visitors and residents an opportunity to see many iconic London landmarks, including the Tower of London and the Houses of Parliament, from a fantastic vantage point.",
+     "\"River services also offer a quick, convenient and comfortable way to travel through central London.\"",
+     "Passengers with a valid Travelcard or an Oyster card, loaded with a valid Travelcard, can get a third off normal advertised adult and child fares on most river services.",
+     "For more information on \u003ca href=\"http://www.tfl.gov.uk/river\"\u003eLondon River Services\u003c/a\u003e is online. Alternatively pick up the new booklet from London River Services' piers, London Underground stations and TfL travel information kiosks.",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"London River Services is responsible for managing eight piers on the river: Westminster Millennium, Festival, Embankment, Millbank Millennium, Blackfriars Millennium, Bankside, Tower Millennium and Greenwich\",\"Fast river buses now operate all day, every day from Embankment Pier and Waterloo Pier to the O2 at North Greenwich, with some continuing to Woolwich Arsenal. The last boat back into central London from the O2 is at midnight (01:00 Saturday morning and Sunday morning)\",\"Passengers with a valid Travelcard will get a third off the price of their river bus ticket\",\"London River Services is keen to ensure the continued growth and development of river services and to see that all riverboat services are integrated, where practicable, with London's other public transport services\",\"London River Services has introduced real-time information on some services at piers and on the website to allow customers to better plan their journeys\",\"All London River Services' piers are accessible and step-free at all states of the tide, allowing easy access for mobility impaired passengers.  Many river boats are accessible - passengers should contact boat operators for comprehensive accessibility information when planning their journeys.  The relevant contact information is included in the new guide.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

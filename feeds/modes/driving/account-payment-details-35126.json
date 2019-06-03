@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Account settings",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Account settings"
+  }
+ ],
+ "title": {
+  "title": "Account settings",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Payment details\"}",
+     "Any card listed here is saved to your account. It will not be used for CC Auto Pay unless you have registered it separately for that.",
+     "You have registered a payment card against your Auto Pay service. This card will be charged each month for your total usage during the previous month.",
+     "Update or change your registered card before it is due to expire. Payments can no longer be taken once the card has expired. This could lead to the closure of your Auto Pay service."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

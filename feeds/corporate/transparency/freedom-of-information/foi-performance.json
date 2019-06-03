@@ -1,0 +1,117 @@
+{
+ "pageTitle": "FOI performance",
+ "keywords": "TfL",
+ "description": "Performance figures for FOI and EIR requests that TfL receive every year.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transparency",
+   "url": "/corporate/transparency/index"
+  },
+  {
+   "title": "Freedom of Information",
+   "url": "/corporate/transparency/freedom-of-information"
+  },
+  {
+   "title": "FOI performance"
+  }
+ ],
+ "title": {
+  "title": "FOI performance",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We receive around 3,000 Freedom of Information (FOI) and Environmental Information Regulations (EIR) requests every year.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We are committed to publishing more information to reduce the need for the public to make bespoke FOI requests. Here are the headline performance figures.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"FOI requests since 2010/11\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Freedom of Information requests since 2010/11\",\"url\":\"/cdn/static/cms/documents/foi-stats.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 40KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This spreadsheet provides a breakdown of the volume of information requests and the proportion answered within statutory deadlines.",
+     "The most common reason for refusing a request is that the information is already published, but requests may also be refused if the cost of responding is too high or the request is vexatious. Some information might be withheld from a response to protect personal data, commercial confidentiality, public safety or the environment.",
+     "{\"template\":\"table\",\"titles\":[\"Year\",\"Number of requests\",\"Percentage answered on time\"],\"rows\":[[],[\"2018/19\",\"3027\",\"95.7%\"],[\"2017/18\",\"3201\",\"91.3%\"],[\"2016/17\",\"2616\",\"80.7%\"],[\"2015/16\",\"2582\",\"85.4%\"],[\"2014/15\",\"2218\",\"87.0%\"],[\"2013/14\",\"2648\",\"87.3%\"],[\"2012/13\",\"2345\",\"85.5%\"],[\"2011/12\",\"2509\",\"85%\"],[\"2010/11\",\"2008\",\"77.8%\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Transparency",
+    "links": [
+     {
+      "title": "Audit of accounts",
+      "url": "/corporate/transparency/audit-of-accounts---notice-of-public-rights",
+      "image": {}
+     },
+     {
+      "title": "Freedom of Information",
+      "url": "/corporate/transparency/freedom-of-information",
+      "image": {}
+     },
+     {
+      "title": "Search",
+      "url": "/corporate/transparency/freedom-of-information/search",
+      "image": {}
+     },
+     {
+      "title": "Make a request",
+      "url": "/corporate/transparency/freedom-of-information/foi-make-request",
+      "image": {}
+     },
+     {
+      "title": "FOI exemptions \u0026 charges",
+      "url": "/corporate/transparency/freedom-of-information/foi-exemptions-and-charges",
+      "image": {}
+     },
+     {
+      "title": "Appealing about an FOI response",
+      "url": "/corporate/transparency/freedom-of-information/appealing-about-an-foi-response",
+      "image": {}
+     },
+     {
+      "title": "FOI performance",
+      "url": "/corporate/transparency/freedom-of-information/foi-performance",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Transparency",
+     "url": "/corporate/transparency/freedom-of-information/foi-performance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

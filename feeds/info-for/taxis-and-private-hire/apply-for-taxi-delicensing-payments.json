@@ -1,0 +1,125 @@
+{
+ "pageTitle": "Apply for taxi delicensing payments",
+ "keywords": "TfL",
+ "description": "If you would like to apply for the scheme, please fill in the form below.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Taxi delicensing",
+   "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme"
+  },
+  {
+   "title": "Apply for taxi delicensing payments"
+  }
+ ],
+ "title": {
+  "title": "Apply for taxi delicensing payments",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Application form\"}",
+     "Fill in the form below to apply for the scheme.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Before you start\"}",
+     "You will first need to:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/info-for/taxis-and-private-hire/taxi-delicensing-scheme\\\"\\u003eCheck your eligibility\\u003c/a\\u003e , if you haven't already done so\",\" \\u003ca href=\\\"/corporate/terms-and-conditions/taxi-delicensing\\\"\\u003eRead our terms and conditions\\u003c/a\\u003e \",\"Ensure that you are the registered keeper of the vehicle, as stated in the vehicle's V5 document (log book)\"]}",
+     "You must not attempt to sell your taxi after receiving a payment if there is any outstanding finance or other charges on the taxi.  TfL is not responsible or liable for any action taken by an applicant in relation to the sale, lease or future use of a delicensed taxi.",
+     "Thank you applying for the taxi delicensing scheme. We will contact you in due course on the outcome of your application.",
+     "There was an error. Please try again.",
+     "Transport for London (TfL) its subsidiaries and service providers will use your personal information for the purposes of assessing your eligibility for the Taxi Delicensing Scheme, and to contact you regarding your application. We will also use this information to check that your existing email address is up to date in our taxi licensing database.  Your personal information will be properly safeguarded and processed in accordance with the requirements of data protection legislation.  For further information, visit \u003ca href=\"http://www.tfl.gov.uk/privacy\"\u003ewww.tfl.gov.uk/privacy\u003c/a\u003e ",
+     "Please let us know the pier location or journey made."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     },
+     {
+      "title": "Apply for taxi delicensing payments",
+      "url": "/info-for/taxis-and-private-hire/apply-for-taxi-delicensing-payments",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/apply-for-taxi-delicensing-payments",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

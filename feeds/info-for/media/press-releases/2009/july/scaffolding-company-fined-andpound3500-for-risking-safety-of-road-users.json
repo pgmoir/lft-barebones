@@ -1,0 +1,77 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Scaffolding company fined £3,500 for risking safety of road users",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "First ever prosecution in England and Wales against unlawful tampering of road signs."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Workers on the site, pedestrians and drivers were all put at risk by this thoughtless action.",
+     "Transport for London (TfL) has successfully prosecuted Gama Scaffoldings Ltd at the City of Westminster Magistrates Court, for offences under the New Roads and Street Works Act 1991.",
+     "The offence took place on the 5 December last year when Gama Scaffoldings removed and tampered with essential temporary road safety signs, barriers and cones which had been placed on the street by Thames Water.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Unnecessary disruption\"}",
+     "Gama Scaffoldings was also found to have parked two of its own lorries in the path of traffic, causing unnecessary disruption and delays, and forcing drivers into the area reserved for Thames Water's workers.",
+     "Gama Scaffoldings staff had moved the safety cones and barriers placed by Thames Water and closed off the footpath. Pedestrians were also forced into the road as the footpath had been blocked.",
+     "TfL enforcement officers were called to the scene on the same day and made the site safe by re-positioning the cones and signs.",
+     "The officers also took photographs at the scene which were presented in court last week.",
+     "Gama Scaffoldings representatives failed to turn up to court and the matter was proved in their absence.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Concern for safety\"}",
+     "The court found Gama Scaffoldings guilty and fined them the sum of £3,500 and an additional £400 in costs to TfL.",
+     "Nick Morris, Director, Road Network Performance at TfL, said:  'The scene left by Gama Scaffoldings was one which could easily have caused an accident, and we are lucky that no one was hurt.",
+     "'Workers on the site, pedestrians and drivers were all put at risk by this thoughtless action.",
+     "'Gama Scaffoldings showed no concern for safety, and I hope this court action and the fine imposed will make its management take their responsibilities seriously and encourage workers to think twice before they wreak havoc with essential safety measures on a busy thoroughfare like St Thomas Street.'\u003cbr /\u003e",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"The illegal tampering of road traffic signs is an offence under the New Roads and Street Works Act 1991\",\"Gama Scaffoldings Ltd was charged with one count of tampering with road traffic signs put in place by a statutory undertaker without lawful authority or excuse\",\"The hearing at City of London Magistrates Court was held on 16 July 2009\",\"This offence can attract the highest penalty in a Magistrates court, £5000\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

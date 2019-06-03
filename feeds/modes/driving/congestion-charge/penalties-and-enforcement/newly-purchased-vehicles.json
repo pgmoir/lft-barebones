@@ -1,0 +1,146 @@
+{
+ "pageTitle": "Newly purchased vehicles",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "Avoiding PCNs for contraventions that occured before you bought the vehicle",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Congestion Charge",
+   "url": "/modes/driving/congestion-charge"
+  },
+  {
+   "title": "Penalties and enforcement",
+   "url": "/modes/driving/congestion-charge/penalties-and-enforcement"
+  },
+  {
+   "title": "Newly purchased vehicles"
+  }
+ ],
+ "title": {
+  "title": "Newly purchased vehicles",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You may receive a Penalty Charge Notice (PCN) for a contravention that occurred before you were the registered keeper of the vehicle, ie before you bought your car.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How this can happen\"}",
+     "If we cannot match the image of a vehicle registration to our database, we contact the \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency\"\u003eDVLA\u003c/a\u003e or \u003ca href=\"http://www.nidirect.gov.uk/motoring\"\u003e DVA\u003c/a\u003e and request details of the vehicle and the recorded registered keeper.",
+     "If the DVLA/DVA details have not been updated following the sale of a vehicle, the wrong person may receive a PCN. Whether buying or selling a vehicle it is your joint responsibility to ensure the DVLA/DVA records for the vehicle are updated.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What to do if it happens\"}",
+     "You can make a representation and transfer liability for the PCN to the appropriate person, normally the vehicle's previous owner. However, if they fail to pay a PCN for a vehicle you now possess, your vehicle may be immobilised or removed.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to prevent it happening\"}",
+     "If you are considering buying a vehicle, you can check whether it is subject to any outstanding PCNs by emailing the following information to \u003ca href=\"mailto:outstandingccpenaltycharges@tfl.gov.uk?Subject=Email%20from%20website\"\u003eoutstandingccpenaltycharges@tfl.gov.uk\u003c/a\u003e :",
+     "{\"template\":\"bulletlist\",\"items\":[\"Your full name and address for identification purposes\",\"An email address for the information to be sent to\",\"The complete vehicle registration number (only one per enquiry is permitted)\",\"Confirmation that you have obtained the explicit consent of the current registered keeper of the vehicle (or, if unregistered, the owner of the vehicle) for the information to be provided to you\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Communications\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"This email address is for the process outlined above only. If you have any other questions or want to update your account details, you can contact our call centre on 0343 222 2222 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e ). Alternatively you may prefer to write to us. Full TfL contact address details can be found on our \\u003ca href=\\\"/modes/driving/congestion-charge/contact-congestion-charge\\\"\\u003eContact Congestion Charge\\u003c/a\\u003e page\",\"\\u003cstrong\\u003eWe can only confirm if there are outstanding penalty charges. \\u003c/strong\\u003e An enquiry cannot be made to ascertain whether the vehicle has been captured within the zone and if you therefore need to pay the charge\",\"Further details of any outstanding penalty charges can only be provided to the person deemed liable for those penalties\",\"By making an enquiry via this process you are not informing us that you are now the keeper of a vehicle. Therefore any account that you may have with us will not be updated and any relevant PCNs will not be reissued. To do this you must contact us using the details above\",\"If you want to make a representation against any PCNs you have already received you should follow the instructions on the PCN\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Data Protection Act 1998\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"We will only process the personal information you provide for the purpose of the administration of the PCN Checker enquiry service. Your personal information will be properly safeguarded and processed in accordance with the requirements of the Data Protection Act 1998. It may be disclosed to or requested from the registered keeper of the vehicle in question. If, as a result of your enquiry, we have reason to believe that there has been an abuse of this service and/or an offence under the Data Protection Act 1998 may have been committed, your personal information may be disclosed to relevant third parties, including law enforcement agencies\",\"It is an offence under section 55 of the Data Protection Act 1998 to knowingly or recklessly, obtain, disclose, sell or advertise for sale, or bring about the disclosure of personal data, without the consent of the Data Controller (TfL)\",\"We specifically prohibit you from making any other commercial use of the information you receive or in any way selling, publishing or publicising it\",\"We will provide your name, address, and email address to the registered keeper of the vehicle that you have enquired about if requested to do so by that person. Your use of this service indicates your consent to the release this information\"]}",
+     "By using this service you are confirming your acceptance of these terms and conditions and your agreement that you will only use the information you receive for purposes relating to your possible purchase of the vehicle."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Congestion Charge zone",
+      "url": "/modes/driving/congestion-charge/congestion-charge-zone",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge payments",
+      "url": "/modes/driving/congestion-charge/paying-the-congestion-charge",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/congestion-charge/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Dart Charge",
+      "url": "/modes/driving/congestion-charge/dart-charge",
+      "image": {}
+     },
+     {
+      "title": "Unofficial selling websites",
+      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
+      "image": {}
+     },
+     {
+      "title": "Penalties and enforcement",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Challenge a penalty charge",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agents and bailiffs",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/enforcement-agents-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/congestion-charge/penalties-and-enforcement/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

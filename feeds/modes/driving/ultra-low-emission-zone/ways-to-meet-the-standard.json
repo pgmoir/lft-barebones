@@ -1,0 +1,156 @@
+{
+ "pageTitle": "ULEZ standards",
+ "keywords": "TfL",
+ "description": "Find out how to meet the emissions standards of ULEZ",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "ULEZ standards"
+  }
+ ],
+ "title": {
+  "title": "ULEZ standards",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Vehicles need to meet the different emission standards for the Ultra Low Emission Zone (ULEZ) based on their vehicle type, and the type of emission.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "To see if your vehicle meets the standard, \u003ca href=\"/modes/driving/check-your-vehicle-35896\"\u003euse our vehicle checker\u003c/a\u003e .",
+     "Or see which locations fall within the ULEZ zone with our postcode checker.",
+     "If you drive a vehicle that doesn't meet the ULEZ standards within the central London area and the daily charge is not paid, a Penalty Charge Notice (PCN) will be issued to the registered keeper. This penalty is in addition to any \u003ca href=\"/modes/driving/congestion-charge\"\u003eCongestion Charge\u003c/a\u003e or \u003ca href=\"/modes/driving/low-emission-zone\"\u003eLow Emission Zone\u003c/a\u003e penalties received.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What are the standards?\"}",
+     "\u003cstrong\u003eWe would prefer that you use a vehicle that meets the new emissions standards rather than pay a daily charge.\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/small-businessess-prepare-for-ulez\\\"\\u003eSee how some small businesses prepared for the ULEZ\\u003c/a\\u003e \"]}",
+     "Euro standards - which first appeared in 1992 - are a range of emissions controls that set limits for air polluting nitrogen oxides (NOx) and particulate matter (PM) from engines. New vehicles and road vehicle engines must show that they meet these limits to be approved for sale.",
+     "The ULEZ standards are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Euro 3 for motorcycles, mopeds, motorised tricycles and quadricycles (L category)\",\"Euro 4 (NOx) for petrol cars, vans, minibuses and other specialist vehicles\",\"Euro 6 (NOx and PM) for diesel cars, vans and minibuses and other specialist vehicles\",\"Euro VI (NOx and PM) for lorries, buses and coaches and other specialist heavy vehicles (NOx and PM)\"]}",
+     "Euro 3 became mandatory for all new motorcycles in 2007",
+     "Euro 4 became mandatory for all new cars in 2005 and light vans in 2006",
+     "Euro 6 became mandatory for all new heavy duty engines for goods vehicles and buses from January 2014, September 2015 for cars and light vans, and September 2016 for larger vans up to and including 3.5 tonnes gross vehicle weight.",
+     "Find out more about ULEZ\u003cstrong\u003eemission standards, daily charges and penalty charges, \u003c/strong\u003e plus\u003cstrong\u003e information on how to avoid having to pay the charge\u003c/strong\u003e for:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/cars\\\"\\u003eCars\\u003c/a\\u003e (petrol and diesel)\",\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more\\\"\\u003eVans, minibuses and lighter specialist vehicles\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more\\\"\\u003eMotorcycles, mopeds and more\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone/larger-vehicles\\\"\\u003eLorries and larger vehicles\\u003c/a\\u003e \"]}",
+     "Your vehicle registration document (also known as the V5C) will help identify your vehicle's Euro emission standard. For newer vehicles, the Euro emission standard may be listed on the V5C in section D.2.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Questions about ULEZ?\"}",
+     "If you need more advice about the ULEZ, you can \u003ca href=\"/modes/driving/ulez-make-an-enquiry-wizard\"\u003emake an enquiry\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Small businesses prepare for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/small-businessess-prepare-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

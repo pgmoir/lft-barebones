@@ -1,0 +1,104 @@
+/* colors */
+$white: #ffffff;
+
+$darkside: #000000;
+$lightside: #eff6fd;
+
+$gallery: #f0f0f0;
+$silver: #cccccc;
+$gray-300: #dee2e6;
+
+$selago: #eff6fd;
+$matisse: #2070b0;
+
+$razzmatazz: #dc006b;
+
+$woodsmoke: #121315;
+$shark: #202329;
+$charade: #2d3039;
+$montecarlo: #7bcbd1;
+
+$bus: #cc3333;
+$bus-dark: #ca2626;
+$bus-reverse: $white;
+
+$bakerloo: #894e24;
+$bakerloo-dark: #633717;
+$bakerloo-reverse: $white;
+
+$central: #dc241f;
+$central-dark: #a71F1b;
+$central-reverse: $white;
+
+$circle: #ffce00;
+$circle-dark: #b99709;
+$circle-reverse: $darkside;
+
+$district: #007229;
+$district-dark: #094920;
+$district-reverse: $white;
+
+$hammersmithcity: #d799af;
+$hammersmith-city: #d799af;
+$hammersmithcity-dark: #cb3a6d;
+$hammersmithcity-reverse: $darkside;
+
+$jubilee: #6a7278;
+$jubilee-dark: #383b3d;
+$jubilee-reverse: $white;
+
+$metropolitan: #751056;
+$metropolitan-dark: #3e092e;
+$metropolitan-reverse: $white;
+
+$northern: #000000;
+$northern-dark: #353635;
+$northern-reverse: $white;
+
+$piccadilly: #0019a8;
+$piccadilly-dark: #020931;
+$piccadilly-reverse: $white;
+
+$victoria: #00a0e2;
+$victoria-dark: #04435d;
+$victoria-reverse: $darkside;
+
+$waterloocity: #76d0bd;
+$waterloo-city: #76d0bd;
+$waterloocity-dark: #368776;
+$waterloocity-reverse: $darkside;
+
+$overground: #e86a10;
+$london-overground: #e86a10;
+$overground-dark: #9c480d;
+$overground-reverse: $darkside;
+
+$dlr: #00afad;
+$dlr-dark: #044e4d;
+$dlr-reverse: $darkside;
+
+$tram: #66cc00;
+$tram-dark: #2b5205;
+$tram-reverse: $white;
+
+$tflrail: #0019a8;
+$tfl-rail: #0019a8;
+$tflrail-dark: #020931;
+$tflrail-reverse: $white;
+
+.bg-bus { background-color: $bus; color: $bus-reverse; }
+.bg-bakerloo { background-color: $bakerloo; color: $bakerloo-reverse; }
+.bg-central { background-color: $central; color: $central-reverse; }
+.bg-circle { background-color: $circle; color: $circle-reverse; }
+.bg-district { background-color: $district; color: $district-reverse; }
+.bg-hammersmithcity, .bg-hammersmith-city { background-color: $hammersmithcity; color: $hammersmithcity-reverse; }
+.bg-jubilee { background-color: $jubilee; color: $jubilee-reverse; }
+.bg-metropolitan { background-color: $metropolitan; color: $metropolitan-reverse; }
+.bg-northern { background-color: $northern; color: $northern-reverse; }
+.bg-piccadilly { background-color: $piccadilly; color: $piccadilly-reverse; }
+.bg-victoria { background-color: $victoria; color: $victoria-reverse; }
+.bg-waterloocity, .bg-waterloo-city { background-color: $waterloocity; color: $waterloocity-reverse; }
+.bg-overground, .bg-london-overground { background-color: $overground; color: $overground-reverse; }
+.bg-dlr { background-color: $dlr; color: $dlr-reverse; }
+.bg-tram { background-color: $tram; color: $tram-reverse; }
+.bg-tflrail, .bg-tfl-rail { background-color: $tflrail; color: $tflrail-reverse; }

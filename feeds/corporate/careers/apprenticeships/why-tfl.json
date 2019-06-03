@@ -1,0 +1,280 @@
+{
+ "keywords": "TfL",
+ "description": "Information about TfL's apprenticeship roles",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Apprenticeships",
+   "url": "/corporate/careers/apprenticeships"
+  },
+  {
+   "title": "Why TfL?"
+  }
+ ],
+ "title": {
+  "title": "Why TfL?",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about our apprenticeship schemes.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Grow your future with TfL\"}",
+     "Our purpose is to keep London moving, working and growing and to make life in our city better. With a strong heritage and as a world recognised brand - we believe we're a great place for you to develop your career.",
+     "Start your journey as a TfL apprentice in an exciting, rewarding environment where you'll contribute to the millions of individual decisions needed to create a healthy and environmentally sustainable city.",
+     "Our apprenticeship opportunities require different skillsets and strengths. Some of the strengths may have been developed through your studies at school, others may come from work experience you've had previously and some you'll have developed instinctively. Whatever your background, there's an apprenticeship here for you.",
+     "We invest a lot in our apprentices because we want you to be the future of our business. In return, you can expect to gain valuable skills, recognised qualifications and great training.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reward and benefits\"}",
+     "Once you join, you'll be a valued member of the team doing a real job as part of a world-leading organisation. In return we'll pay you at least £18, 624 per year depending upon your scheme.",
+     "You'll get a paid job and the chance to gain industry recognised qualifications - with no student debt, plenty of professional support and the chance to get your career off to a flying start.",
+     "You'll work as a paid employee, with a dedicated mentor to support you. You'll have access to learning opportunities and use your apprenticeship to take you on to a new role, or to a university degree.",
+     "In addition, you'll benefit from a generous reward package including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Travel concessions - Oyster card covering zones 1-6 (covering London Underground, Docklands Light Railway, Tramlink and London's bus services displaying a red roundel)\",\"75% reimbursement of annual standard class season ticket loans if you use National Rail services to travel to and from work\",\"Cycle2work - tax efficient savings to reduce tax and National Insurance if you cycle to work\",\"Pension scheme\",\"Childcare payments - tax efficient savings to reduce tax and National Insurance\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Why TfL?",
+      "url": "/corporate/careers/apprenticeships/why-tfl",
+      "image": {}
+     },
+     {
+      "title": "Building Services Engineering",
+      "url": "/corporate/careers/apprenticeships/building-services-engineering",
+      "image": {}
+     },
+     {
+      "title": "Building Surveying",
+      "url": "/corporate/careers/apprenticeships/building-surveying",
+      "image": {}
+     },
+     {
+      "title": "Civil Engineering (Highways)",
+      "url": "/corporate/careers/apprenticeships/civil-engineering-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Commercial Procurement",
+      "url": "/corporate/careers/apprenticeships/commercial-procurement",
+      "image": {}
+     },
+     {
+      "title": "Crossrail Operations Engineering",
+      "url": "/corporate/careers/apprenticeships/crossrail",
+      "image": {}
+     },
+     {
+      "title": "Cyber Security",
+      "url": "/corporate/careers/apprenticeships/cyber-security",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 Development Engineering",
+      "url": "/corporate/careers/apprenticeships/design-development-engineering",
+      "image": {}
+     },
+     {
+      "title": "Electrical Power Delivery",
+      "url": "/corporate/careers/apprenticeships/electrical",
+      "image": {}
+     },
+     {
+      "title": "Engineering Design (CAD)",
+      "url": "/corporate/careers/apprenticeships/engineering-design",
+      "image": {}
+     },
+     {
+      "title": "Finance",
+      "url": "/corporate/careers/apprenticeships/finance-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "General Management",
+      "url": "/corporate/careers/apprenticeships/management",
+      "image": {}
+     },
+     {
+      "title": "Human Resource Management",
+      "url": "/corporate/careers/apprenticeships/human-resources",
+      "image": {}
+     },
+     {
+      "title": "Infrastructure Technology",
+      "url": "/corporate/careers/apprenticeships/infrastructure-technology",
+      "image": {}
+     },
+     {
+      "title": "Intelligent Transport Systems",
+      "url": "/corporate/careers/apprenticeships/intelligent-transport-systems",
+      "image": {}
+     },
+     {
+      "title": "London Underground Engineering",
+      "url": "/corporate/careers/apprenticeships/maintenance-engineering",
+      "image": {}
+     },
+     {
+      "title": "Project Management",
+      "url": "/corporate/careers/apprenticeships/project-management",
+      "image": {}
+     },
+     {
+      "title": "Project Planning",
+      "url": "/corporate/careers/apprenticeships/project-planner",
+      "image": {}
+     },
+     {
+      "title": "Quantity Surveying",
+      "url": "/corporate/careers/apprenticeships/quantity-surveying",
+      "image": {}
+     },
+     {
+      "title": "Rail Signalling Design Engineering",
+      "url": "/corporate/careers/apprenticeships/rail-signalling-design-engineering",
+      "image": {}
+     },
+     {
+      "title": "Rail Systems Performance Engineering",
+      "url": "/corporate/careers/apprenticeships/rail-systems-performance-engineering",
+      "image": {}
+     },
+     {
+      "title": "Software Development",
+      "url": "/corporate/careers/apprenticeships/software-developer",
+      "image": {}
+     },
+     {
+      "title": "Track Renewal",
+      "url": "/corporate/careers/apprenticeships/track-renewal",
+      "image": {}
+     },
+     {
+      "title": "Transport Planning",
+      "url": "/corporate/careers/apprenticeships/transport-planning",
+      "image": {}
+     },
+     {
+      "title": "How to apply",
+      "url": "/corporate/careers/apprenticeships/application-process",
+      "image": {}
+     },
+     {
+      "title": "Choosing your apprenticeship",
+      "url": "/corporate/careers/apprenticeships/choosing-your-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeship schemes",
+      "url": "/corporate/careers/apprenticeships/apprenticeship-schemes",
+      "image": {}
+     },
+     {
+      "title": "Degree apprenticeships",
+      "url": "/corporate/careers/apprenticeships/degree-apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Meet our current apprentices",
+      "url": "/corporate/careers/apprenticeships/what-s-it-really-li",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "30 million journeys...",
+    "texts": [
+     "Are made across our network every day - even in the middle of one of the world's largest programmes of transport capital investment."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2016",
+   "url": "/info-for/media/press-releases/2016"
+  },
+  {
+   "title": "August",
+   "url": "/info-for/media/press-releases/2016/august"
+  },
+  {
+   "title": "Update on bus routes affected by industrial action on Tower Transit services: Friday 26th August"
+  }
+ ],
+ "title": {
+  "title": "Update on bus routes affected by industrial action on Tower Transit services: Friday 26th August",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Tower Transit services from their Lea Interchange, Atlas Road, near Willesden Junction, and Westbourne Park garages - representing less than 5% of the bus network - are subject to moderate disruption"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "As 0700 hours today, TfL is advising that strike action by members of the Unite union, who work for Tower Transit, is causing moderate/extensive disruption to bus services in east and central London.",
+     "Overall, almost 32% of normal bus services are operating across the affected routes. Of the 20 affected day bus routes, a reduced service is operating on 17 routes - 23, 25, 28, 30, 58, 69, 70, 212, 236, 266, 308, 339, 425, 444,488, W14 and W15.",
+     "Some routes will run a shortened service, such as the 25 which will run from Aldgate to Stratford rather than from Ilford to Oxford Circus, due to the action and reduced operating capacity.",
+     "The strike action began at 00.01 this morning and will continue until 23.59 tonight - affecting night time bus services well into the early hours on Saturday (27th August) morning.",
+     "Day bus services on Saturday and Sunday will operate as normal, but another strike is currently scheduled for Monday affecting the same routes.",
+     "The strike is over a dispute between Unite and Tower Transit over bus driver employment conditions. TfL is calling for Unite and Tower Transit to swiftly resolve the dispute so that passengers are not disrupted.",
+     "Tower Transit operates less than 5% of London's bus services from the three garages affected. Services operated by other companies across the Capital are unaffected and will operate a normal service.",
+     "We would encourage bus passengers in east and central London to check before they travel at \u003ca href=\"https://tfl.gov.uk/\"\u003ewww.tfl.gov.uk\u003c/a\u003e . Passengers will also be kept informed of the status of their services in a range of ways, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Up-to-date information on bus services by route can be found at \\u003ca href=\\\"https://tfl.gov.uk/modes/buses/?cid=buses\\\"\\u003etfl.gov.uk/buses\\u003c/a\\u003e \",\"Passengers can also check for bus arrival times using the Countdown next bus arrival service online or via our SMS text service (texts cost 12p, plus standard network rate)\",\"A range of easily available Apps for handheld devices now use TfL's live bus information\",\"Travel alerts will be provided through Twitter on @TfL and @TfLBusAlerts - look out for #BusStrike\",\"TfL will also be providing information to radio and television broadcasts for use in news bulletins\"]}",
+     "Where services are disrupted TfL urges passengers to use other transport options, or to walk or cycle where possible. The average bus journey is around 2.2 miles so many of these journeys could be made in this way.",
+     "To help people get around TfL will be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Operating a good service across the Tube network\",\"Full services are also operating on the Docklands Light Railway, London Tramlink and London Overground networks\",\"TfL is also emailing registered bus users, who regularly travel on affected routes, advising them of the likely disruption and urging them to check before they travel\"]}",
+     "\u003cstrong\u003eNotes to Editors:\u003c/strong\u003e ",
+     "Routes that are likely to be affected by the strike action are",
+     "23 - Liverpool Street to Westbourne Park\u003cbr /\u003e25 - Ilford to Oxford Circus\u003cbr /\u003e28 - Kensal Rise to Wandsworth\u003cbr /\u003e30 - Hackney Wick to Marble Arch\u003cbr /\u003e31 - Camden Town to White City\u003cbr /\u003e58 - East Ham to Walthamstow Central\u003cbr /\u003e69 - Walthamstow Central to Canning Town\u003cbr /\u003e70 - Chiswick Business Park to South Kensington\u003cbr /\u003e212 - Walthamstow St James Street Station to Chingford\u003cbr /\u003e236 - Finsbury Park to Hackney Wick\u003cbr /\u003e266 - Brent Cross to Hammersmith\u003cbr /\u003e308 - Wanstead to Clapton Pond\u003cbr /\u003e328 - Golders Green to Chelsea\u003cbr /\u003e339 - Leytonstone to Shadwell\u003cbr /\u003e425 - Clapton to Stratford\u003cbr /\u003e444 - Turnpike Lane to Chingford\u003cbr /\u003e488 - Bromley-by-Bow to Dalston Junction\u003cbr /\u003eRV1 - Covent Garden to Tower Gateway\u003cbr /\u003eW14 - Leyton to Woodford Bridge\u003cbr /\u003eW15 - Cogan Avenue Estate to Hackney Town Hall\u003cbr /\u003eN28 - Camden Town to Wandsworth\u003cbr /\u003eN31 - Camden Town to Clapham Junction\u003cbr /\u003eN97 - Trafalgar Square to Hammersmith\u003cbr /\u003eN550 - Trafalgar Square to Canning Town\u003cbr /\u003eN551 - Trafalgar Square to Gallions Reac"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2016/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2016/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2016/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2016/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2016/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2016/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2016/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2016/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2016/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2016/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2016/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2016/december",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

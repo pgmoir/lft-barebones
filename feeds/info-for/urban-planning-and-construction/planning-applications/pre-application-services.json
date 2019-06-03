@@ -1,0 +1,223 @@
+{
+ "pageTitle": "Pre-application services",
+ "keywords": "Businesses,Planning and construction,TfL",
+ "description": "Pre-application advice can help make sure your application complies with the London Plan and the Mayor's transport strategy.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Pre-application services"
+  }
+ ],
+ "title": {
+  "title": "Pre-application services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our pre-application services help make sure your application fits in with the London Plan and the Mayor's Transport Strategy.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to apply\"}",
+     "We'll let you know if your application is suitable for one of our pre-application services. If you're accepted, you pay a fee. All the income we get goes into improving our services.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Initial screening meeting request form\",\"url\":\"/cdn/static/cms/documents/initial-screening-meeting.docx\",\"icon\":\"download\",\"size\":\"DOCX 967KB\",\"image\":{}},{\"title\":\"Referable pre-application meeting request form\",\"url\":\"/cdn/static/cms/documents/referable-pre-application-meeting.docx\",\"icon\":\"download\",\"size\":\"DOCX 970KB\",\"image\":{}},{\"title\":\"Non-referable or follow-up meeting request form\",\"url\":\"/cdn/static/cms/documents/non-referable-follow-up-meeting.docx\",\"icon\":\"download\",\"size\":\"DOCX 967KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Meetings\"}",
+     "Once your fees are paid, we'll organise a meeting with you. This should happen within 20 working days. Your case officer will normally chair the meeting.",
+     "Depending on your case and if it is referable to the Mayor, our colleagues with specialisms may come to the meeting. We encourage you to allow us to invite the relevant local planning authority and keep them involved in discussions.",
+     "There are two types of meeting to choose from: initial screening or pre-application.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Initial screening\"}",
+     "This meeting encourages early discussions with us about your site's local context and characteristics, and which transport impacts are most important for your development project.",
+     "The feedback we provide after the meeting helps you prioritise transport issues and plan detailed analysis likely to be needed later. For example, surveys, \u003ca href=\"/info-for/urban-planning-and-construction/planning-applications/modelling\"\u003emodelling\u003c/a\u003e and safety audits. It will be high level advice only, produced using basic information and generic assumptions.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Feedback example\",\"url\":\"/cdn/static/cms/documents/initial-screening-feedback-example.pdf\",\"icon\":\"download\",\"size\":\"PDF 824KB\",\"image\":{}},{\"title\":\"Feedback with local modelling example\",\"url\":\"/cdn/static/cms/documents/initial-screening-with-local-modelling-feedback-example.pdf\",\"icon\":\"download\",\"size\":\"PDF 933KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You should consider booking and attending just after transport experts have been appointed in your development project team.",
+     "This meeting covers:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Basic information about the planned development\",\" \\u003ca href=\\\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\\\"\\u003eHealthy Streets\\u003c/a\\u003e \",\" \\u003ca href=\\\"/corporate/safety-and-security/road-safety/vision-zero-for-london\\\"\\u003eVision Zero\\u003c/a\\u003e \",\"Parking\",\"Key local routes, journeys and destinations\",\"Key content and analysis for \\u003ca href=\\\"/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments\\\"\\u003eTransport Assessments\\u003c/a\\u003e \"]}",
+     "It doesn't replace or remove the need for a pre-application meeting with us to design and deliver a new development where transport issues are complex.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pre-application\"}",
+     "This meeting covers:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/campaign/active-travel\\\"\\u003eActive travel\\u003c/a\\u003e and public transport impacts\",\"Parking\",\"Traffic impacts\",\" \\u003ca href=\\\"/info-for/urban-planning-and-construction/planning-applications/design-and-heritage\\\"\\u003eUrban design\\u003c/a\\u003e \",\"Construction and servicing\",\" \\u003ca href=\\\"/info-for/urban-planning-and-construction/transport-assessment-guide/travel-plans\\\"\\u003eTravel plans\\u003c/a\\u003e \",\" \\u003ca href=\\\"/info-for/urban-planning-and-construction/transport-assessment-guide/planning-obligations\\\"\\u003ePlanning obligations/S106\\u003c/a\\u003e \"]}",
+     "You should consider booking and attending a pre-application meeting once you've made some early progress on a \u003ca href=\"/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments\"\u003eTransport Assessment\u003c/a\u003e for your planned development.",
+     "There will usually be a site visit before this meeting takes place. We'll also invite a council officer unless you ask us not to.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fees\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Initial screening\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"£500 (plus VAT)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pre-application\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"£5,000 (plus VAT) if an initial screening has taken place\",\"£5,500 (plus VAT) for one-off meetings\"]}",
+     "We offer these discounts to public bodies:",
+     "{\"template\":\"bulletlist\",\"items\":[\"£2,000 (plus VAT) if an initial screening has taken place\",\"£3,000 (plus VAT) for one-off meetings\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Non-referable applications/follow-up meetings\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"£2,000 (plus VAT). In cases where only written advice is necessary, this fee can be discounted by 50%\"]}",
+     "All fees are non-refundable.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our advice\"}",
+     "If we don't need to do any further research, we'll send you a detailed advice letter within 10 working days. This outlines any major transport issues and requirements we've agreed.",
+     "Your advice letter comes from the Director of Spatial Planning. It's never a response to any planning application.",
+     "Any views or opinions are given in good faith. They relate solely to transport issues.",
+     "The amount of detail in our letter will depend on the quality of information you give us initially."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Urban planning and construction",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "Planning with WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Urban planning and construction",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "The Mayor's transport strategy",
+      "url": "/corporate/about-tfl/the-mayors-transport-strategy",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "The London Plan",
+      "url": "http://www.london.gov.uk/priorities/planning/london-plan",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+/* import only the necessary Bootstrap files */
+@import "../../node_modules/bootstrap/scss/functions"; 
+@import "../../node_modules/bootstrap/scss/variables";
+
+/* -------begin customization-------- */
+$colors: (
+  "" + blue: #004C9E,
+  "" + green: #1D7631
+);
+
+/* 80 required to bring primary and secondary colors to AAA standards */
+$theme-colors: (
+  primary: #004C9E,
+  secondary: #535A56,
+  success: #1D7631,
+  info: #C8E2FC
+);
+
+/* 119 so that headers automatically grow smaller as screen size reduces */
+$enable-responsive-font-sizes: false;
+
+// Your variable overrides
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: ($spacer * .25),
+  2: ($spacer * .5),
+  3: $spacer,
+  4: ($spacer * 1.5),
+  5: ($spacer * 2),
+  6: ($spacer * 2.5),
+  7: ($spacer * 3),
+  8: ($spacer * 5),
+  9: ($spacer * 7.5),
+  10: ($spacer * 10)
+);
+
+/* 172 required to bring link color to AAA standards, but this fails to A link contrast */
+//$link-color: #004C9E;
+/* 172 required to bring link color to AA standards to contrast ratio with other text */
+$link-color: #006ADB;
+
+/* 313 */
+/* $headings-line-height: 1.5; */
+
+/* 320 required to bring muted color state to AAA standards */
+$text-muted: $gray-700;
+
+/* 714 the default .5 seemed to make some labels too small for accessibility size */
+$navbar-nav-link-padding-x: .75rem;
+
+/* 727,728 required to bring dark navbar to AAA standards */
+$navbar-dark-color: rgba(255, 255, 255, 0.8);
+$navbar-dark-hover-color: rgba(255, 255, 255, 0.9);
+
+/* 1046 the active breadcrumb is too lioght when on white background */
+$breadcrumb-active-color: #535A56;
+
+/* -------end customization-------- */
+
+/* finally, import Bootstrap to set the changes! */
+@import "../../node_modules/bootstrap/scss/bootstrap";

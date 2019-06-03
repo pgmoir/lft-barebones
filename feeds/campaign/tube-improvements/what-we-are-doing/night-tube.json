@@ -1,0 +1,195 @@
+{
+ "pageTitle": "The Night Tube",
+ "keywords": "TfL",
+ "description": "Fridays and Saturdays on five lines. Standard off-peak fares apply",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving the Tube",
+   "url": "/campaign/tube-improvements"
+  },
+  {
+   "title": "What we're doing",
+   "url": "/campaign/tube-improvements/what-we-are-doing"
+  },
+  {
+   "title": "The Night Tube"
+  }
+ ],
+ "title": {
+  "title": "The Night Tube",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Night Tube is running Fridays and Saturdays on the Victoria, Jubilee, and most of the Central, Northern and Piccadilly lines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/standard-night-tube-map_rdax_400x250.gif\",\"alt\":\"Night Tube map\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Service details\"}",
+     "\u003cstrong\u003eVictoria line\u003c/strong\u003e - trains run on average every 10 minutes across the entire line",
+     "\u003cstrong\u003eCentral line\u003c/strong\u003e - trains run approximately every 10 minutes between White City and Leytonstone and approximately every 20 minutes between Ealing Broadway to White City and Leytonstone to Loughton/ Hainault",
+     "No service between North Acton and West Ruislip, Loughton and Epping and Woodford and Hainault",
+     "\u003cstrong\u003eJubilee line\u003c/strong\u003e - trains run on average every 10 minutes across the entire line",
+     "\u003cstrong\u003eNorthern line\u003c/strong\u003e - trains run on average every 8 minutes between Morden and Camden Town and approximately every 15 minutes from Camden Town to High Barnet / Edgware.",
+     "No service on the Mill Hill East and Bank branches",
+     "\u003cstrong\u003ePiccadilly line\u003c/strong\u003e - trains run on average every 10 minutes between Cockfosters and Heathrow Terminal 5",
+     "No service on the Terminal 4 loop, or between Acton Town and Uxbridge",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fares\"}",
+     "Night Tube fares are off-peak. Day Travelcards are valid on the day of issue (using the date printed on the card), and for journeys starting before 04:30 the following day. For example, if you buy a Day Travelcard at 11:00 on Friday, you can use it until 04:29 on the following Saturday. Daily capping on \u003ca href=\"https://tfl.gov.uk/fares-and-payments/oyster/using-oyster/price-capping\"\u003eOyster cards\u003c/a\u003e and \u003ca href=\"https://tfl.gov.uk/fares-and-payments/contactless/what-is-capping\"\u003econtactless payment cards\u003c/a\u003e also applies.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessibility\"}",
+     "Step-free accessibility at the Night Tube stations is the same as during the day service.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Staffing policy\"}",
+     "All stations will continue to be staffed by London Underground employees while train services are running, just as we do in the day. Staff will be visible and available to help you with any queries.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safety\"}",
+     "All stations continue to be staffed by London Underground employees while train services are running, just as we do in the day.",
+     "We are also \u003ca href=\"https://www.youtube.com/watch?v=tcp2Xp-fn_c\"\u003eworking hard with our policing partners\u003c/a\u003e to ensure the Tube network remains a safe, low crime environment.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/night-tube-map-victoria-cen_rdax_400x250.gif\",\"alt\":\"Night Tube map showing Victoria, Central and Jubilee lines\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi ranks at Night Tube stations\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Noise and disturbance\"}",
+     "We are sensitive to the potential of additional noise and disturbance created by the Night Tube. Since 2014, we've been working hard to reduce noise from our tracks, and we will continue to work with residents to investigate any issues in this area. We will also ensure that any station announcements do not cause excessive noise levels.",
+     "We will continue to deliver upgrade and maintenance work, and when possible we plan to do this overnight between Sunday and Thursday on the Night Tube lines.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Night buses\"}",
+     "The following bus routes are now running 24 hours a day on Friday and Saturday: 34, 114, 123, 145, 158, 183, 296, 307, 319, E1, H32 (from 16 December), W3 and W7.",
+     "These services run twice an hour through the night, with W7 running three times an hour. We also already have an extensive network of night buses to and from Night Tube stations.",
+     " \u003ca href=\"https://tfl.gov.uk/maps_/bus-spider-maps\"\u003eNight bus maps are available\u003c/a\u003e for all routes - just enter the route or area you are interested in to see where night services are available.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why now?\"}",
+     "The new service has been made possible thanks to the continued modernisation of significant parts of the Underground network and improved levels of reliability. Independent research into the economic benefits of the Night Tube found that the new service will boost jobs and help maintain London's status as a vibrant and exciting place to live, work and visit.",
+     "The Night Tube will cut night-time journeys by an average of 20 minutes, with some cut by more than an hour. It will also play a vital role in opening up London's night-time economy, supporting almost 2,000 permanent jobs and boosting the economy by £360m.",
+     "Demand for a 24-hour Tube service is clear - late night Tube use has increased at double the rate of day-time trips and Night bus usage has risen by 173% since 2000. There are already over half a million users of the Tube after 22:00 on Fridays and Saturdays.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Full report - Impact of the Night Tube on London's night-time economy\",\"url\":\"/cdn/static/cms/documents/night-time-economy.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.38MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Wifi on the Underground\",\"texts\":[\"Available at over 250 stations. Find out more\"],\"link\":{\"url\":\"/campaign/station-wifi\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Tube Improvements\",\"texts\":[\"How the Tube is being updated to provide more capacity for a growing city\"],\"link\":{\"url\":\"/campaign/tube-improvements\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving the Tube",
+    "links": [
+     {
+      "title": "What we've done",
+      "url": "/campaign/tube-improvements/what-we-ve-done",
+      "image": {}
+     },
+     {
+      "title": "What we're doing",
+      "url": "/campaign/tube-improvements/what-we-are-doing",
+      "image": {}
+     },
+     {
+      "title": "Improving the trains",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-the-trains",
+      "image": {}
+     },
+     {
+      "title": "Improving customer service",
+      "url": "/campaign/tube-improvements/what-we-are-doing/improving-customer-service",
+      "image": {}
+     },
+     {
+      "title": "Minimising disruption",
+      "url": "/campaign/tube-improvements/what-we-are-doing/minimising-disruption",
+      "image": {}
+     },
+     {
+      "title": "The Night Tube",
+      "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
+      "image": {}
+     },
+     {
+      "title": "Behind the scenes",
+      "url": "/campaign/tube-improvements/behind-the-scenes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Improving the Tube",
+     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "London Overground Night Service",
+      "url": "/modes/london-overground/london-overground-night-service",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@https://www.twitter.com/tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@https://www.twitter.com/tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

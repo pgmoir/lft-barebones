@@ -1,0 +1,99 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { title: { title: 'Contact us about contactless' }, breadcrumbs: [] }) %>
+
+<section id="main" class="container-fluid">
+    <div class="container-lft">
+        <h2 class="sr-only">Links to articles related to topic</h2>
+        <div class="row pb-3">
+            <div class="col-12 col-lg-8">
+                <!-- main body section that normally sits at two cols wide -->
+                <p class="lead">This form is for general enquiries about travel using contactless. Do not give us your contactless payment card details here.</p>
+                <p>Send us your question or feedback by completing the form below. We aim to reply within 10 working days.</p>
+                <p>If you were delayed or want a refund on your contactless card, you can <a href="https://contactless.tfl.gov.uk/" class="external-link" target="_parent">sign in to your account</a>. If you don't have an account,&nbsp;you can&nbsp;<a href="https://contactless.tfl.gov.uk/UnregisteredCustomer/Captcha/" class="external-link" target="_parent">sign in as a guest</a>.</p>
+                <hr>
+                <p>Fields marked with an asterix <span aria-hidden="true" role="presentation">(*)</span> are required</p>
+                <form method="POST" action="/help-and-contact/contact-us-about-contactless" class="pb-3" role="form">
+                    <div class="form-group">
+                        <label for="commentType">Let us know what kind of comment you're leaving <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <small id="commentTypeHelp" class="form-text text-muted form-control-help">To help us process your feedback, let us know what kind of comment you're leaving.</small>
+                        <select class="form-control" id="commentType" name="commentType" required="required" aria-required="true">
+                            <option value="">Please select</option>
+                            <option value="Enquiry">Enquiry</option>
+                            <option value="Complaint">Complaint</option>
+                            <option value="Positive feedback">Positive feedback</option>
+                        </select>
+                    </div>
+                    <hr>
+                    <h3 class="h5">Your contact details</h3>
+                    <div class="form-group">
+                        <label for="contactTitle">Title <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <select class="form-control" id="contactTitle" name="contactTitle" required="required" aria-required="true">
+                            <option value="">Please select</option>
+                            <option value="Mr">Mr</option>
+                            <option value="Mrs">Mrs</option>
+                            <option value="Miss">Miss</option>
+                            <option value="Ms">Ms</option>
+                            <option value="Dr">Dr</option>
+                            <option value="Prof">Prof</option>
+                            <option value="Sir">Sir</option>
+                            <option value="Lady">Lady</option>
+                            <option value="Reverend">Reverend</option>
+                            <option value="Lord">Lord</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="firstName">First name <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <input type="text" class="form-control" id="firstName" name="firstName" aria-describedby="firstName" required="required" aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="lastName">Last name <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <input type="text" class="form-control" id="lastName" name="lastName" aria-describedby="lastName" required="required" aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="emailAddress">Email address <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <input type="email" class="form-control" id="emailAddress" name="emailAddress" aria-describedby="emailAddress" required="required" aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="confirmEmail">Confirm email <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <input type="email" class="form-control" id="confirmEmail" name="confirmEmail" aria-describedby="confirmEmail" required="required" aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="phoneNumber">Phone number</label>
+                        <small id="phoneHelp" class="form-text text-muted form-control-help">It may be quicker to resolve your enquiry by calling you back.</small>
+                        <input type="text" class="form-control" id="phoneNumber" name="phoneNumber" aria-describedby="phoneHelp">
+                    </div>
+                    <hr>
+                    <h3 class="h5">Your comments</h3>
+                    <div class="form-group">
+                        <label for="comments">Comments <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <small id="commentsHelp" class="form-text text-muted form-control-help">Please provide us with as much detail as you can. This will help us handle your enquiry more quickly.</small>
+                        <textarea class="form-control" id="comments" rows="3" name="comments" required="required" aria-required="true"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="documents">Supporting documents</label>
+                        <small id="documentsHelp" class="form-text text-muted form-control-help">You can upload up to three documents to help us answer your enquiry. The maximum size per file is
+                            32MB.</small>
+                        <input type="file" class="form-control-file" id="documents" aria-describedby="documentsHelp">
+                    </div>
+                    <hr>
+                    <h3 class="h5">Data Protection Statement</h3>
+                    <p>Transport for London (TfL), its subsidiaries and service providers will use your personal information for the purposes of processing your feedback, providing you with a
+                        response, or the information or services you have requested, and the provision of travel related information. Your personal information will be properly safeguarded and
+                        processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data, see our Privacy and cookies
+                        pages.</p>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <button class="btn btn-primary" type="submit">Submit form</button>
+                </form>
+            </div>
+            <div class="col-12 col-lg-4" role="complementary">
+                <h2 class="sr-only">Complementary features and navigation</h2>
+                <!-- right hand nav bit -->
+                <%- include('../includes/socialmediashare', { fullUrl: "/help-and-contact/contact-us-about-contactless" }) %>
+            </div>
+        </div>
+    </div>
+</section>
+
+<%- include('../includes/foot') %>

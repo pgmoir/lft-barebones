@@ -1,0 +1,96 @@
+{
+ "keywords": "T,W,Tube,TfL",
+ "description": "Working timetables are rail industry timetables. They show all movements on the Tube network including empty trains and those coming in and out of depots",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Working Timetables (WTT)"
+  }
+ ],
+ "title": {
+  "title": "Working Timetables (WTT)",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Working Timetables (WTT) are the rail industry version of public timetables. They show all movements on the Tube network including empty trains and train movements in and out of depots.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Working Timetables include identification codes for each train, times at locations other than stations (eg junctions) and do not necessarily show times for all stations where a train is scheduled to stop",
+     "Important: These timetables are made available for rail industry professionals and should not be confused with the passenger version which is available using \u003ca href=\"/plan-a-journey/index\"\u003eJourney Planner\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"WTT 43 Bakerloo- until 18 May 2019\",\"url\":\"/cdn/static/cms/documents/wtt-43-bakerloo-10-december-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.99MB\",\"image\":{}},{\"title\":\"WTT 44 Bakerloo- from 19 May 2019\",\"url\":\"/cdn/static/cms/documents/wtt-44-bakerloo-19-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.47MB\",\"image\":{}},{\"title\":\"WTT 69 Central\",\"url\":\"/cdn/static/cms/documents/wtt-69-central.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.99MB\",\"image\":{}},{\"title\":\"WTT 35 Circle and Hammersmith and City\",\"url\":\"/cdn/static/cms/documents/wtt-35-circle-and-hammersmith-and-city-21-may-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.06MB\",\"image\":{}},{\"title\":\"WTT 150 District\",\"url\":\"/cdn/static/cms/documents/wtt-150-district-20-may-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.84MB\",\"image\":{}},{\"title\":\"WTT 15 Jubilee\",\"url\":\"/cdn/static/cms/documents/wtt-15-jubilee-20-may-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.76MB\",\"image\":{}},{\"title\":\"WTT 341 Metropolitan\",\"url\":\"/cdn/static/cms/documents/wtt-341-metropolitan-30-december-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.43MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"WTT 57 Northern\",\"url\":\"/cdn/static/cms/documents/wtt-57-northern-29-jan-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.37MB\",\"image\":{}},{\"title\":\"WTT 58 Piccadilly\",\"url\":\"/cdn/static/cms/documents/wtt-58-piccadilly-21-may-2017-.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.03MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"WTT 41 Victoria\",\"url\":\"/cdn/static/cms/documents/wtt-41-victoria-21-may-2017-.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.31MB\",\"image\":{}},{\"title\":\"WTT 7 Waterloo \\u0026 City\",\"url\":\"/cdn/static/cms/documents/wtt-7-waterloo-and-city-9-october-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 328KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Transparency",
+      "url": "/corporate/transparency/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

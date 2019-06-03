@@ -1,0 +1,68 @@
+{
+ "description": "'We will never forget the events of 7th July 2005 and our thoughts are with the victims of the attacks, those injured and their families once again at this time. 'The actions of our staff and the emergency services that day were often nothing short of",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London's response to Coroner's recommendations following 7/7 Inquest",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A statement from London's Transport Commissioner Peter Hendy following the publication of the responses to the recommendations of the 7/7 Inquest today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "'We will never forget the events of 7th July 2005 and our thoughts are with the victims of the attacks, those injured and their families once again at this time.",
+     "'The actions of our staff and the emergency services that day were often nothing short of heroic - going above and beyond the call of duty to help and comfort those affected.",
+     "'A great deal has already been done since 7 July 2005 to improve our equipment, capabilities and preparedness for such major incidents.",
+     "'This includes the installation of new multi-million pound communications systems CONNECT and Airwave, which enable London Underground and emergency services radios to work on the deepest parts of the network.",
+     "'We have also established closer working with other agencies, enhanced staff training and increased medical supplies at stations.",
+     "'Transport for London (TfL) has accepted and responded to Lady Justice Hallett's recommendations, recognising that everything practicable should be done to ensure that TfL and its partner agencies are able to respond in the most effective way possible should similar events ever happen again.'"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

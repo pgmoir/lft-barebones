@@ -1,0 +1,15 @@
+<details class="lft-details">
+  <summary class="lft-details__summary">
+    <span class="lft-details__summary-text">
+      <%= field.title %>
+    </span>
+  </summary>
+  <div class="lft-details__text">
+    <% if (field.leadtexts) { field.leadtexts.forEach(function (leadtext, i) { %>
+      <p class="lead"><%- leadtext %></p>
+    <% })} %>
+    <% if (field.texts) { field.texts.forEach(function (text, i) { %>
+      <p class="lead"><%- text %></p>
+    <% })} %>
+  </div>
+</details>

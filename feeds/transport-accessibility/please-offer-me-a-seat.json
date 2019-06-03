@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Please offer me a seat",
+ "keywords": "TfL",
+ "description": "Please offer me a seat",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transport accessibility",
+   "url": "/transport-accessibility/index"
+  },
+  {
+   "title": "Please offer me a seat"
+  }
+ ],
+ "title": {
+  "title": "Please offer me a seat",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Badge and card application\"}",
+     "Many of our customers, particularly disabled people and those with invisible impairments, conditions or illnesses, find it difficult to get a seat. Our free 'Please offer me a seat' badge and card makes it easier to let other passengers know that you need a seat.",
+     "There was an error. Please try again.",
+     "Transport for London (TfL), its subsidiaries and service providers, will use your personal information for the purposes of administering your 'Please offer me a seat' badge and card order, keeping you informed about other TfL accessibility initiatives and associated customer research. Where you have agreed, we will also contact you for feedback about the Please Offer Me Seat scheme. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation.",
+     "Please let us know the pier location or journey made.",
+     " \u003ca href=\"/transport-accessibility/index\"\u003eTfL provides help, maps and guides\u003c/a\u003e to help you travel around London.",
+     "'Please offer me a seat' packs can be sent to any address in the Greater London area, and to South East England. You can order one by filling out the form below or calling TfL Customer Services on 0343 222 1234.",
+     "{\"template\":\"video\",\"style\":\"csj_58vIGk0\",\"title\":\"Priority seating video\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

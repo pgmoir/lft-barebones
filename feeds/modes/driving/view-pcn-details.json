@@ -1,0 +1,50 @@
+{
+ "pageTitle": "PCN details",
+ "keywords": "TfL",
+ "description": "PCN Details",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "View a PCN",
+   "url": "/modes/driving/view-a-pcn"
+  },
+  {
+   "title": "PCN details"
+  }
+ ],
+ "title": {
+  "title": "PCN details",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

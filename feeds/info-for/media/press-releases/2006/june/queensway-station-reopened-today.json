@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Queensway station reopened today",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Queensway station reopened today",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Queensway station reopened today (Wednesday 14 June) after being closed for over a year to allow Metronet Rail BCV to modernise the station, replace lifts and undertake congestion relief work."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Despite London Underground's (LU's) demands, Metronet did not complete the works by the original contract completion date of 9 May 2006 or a second deadline of Monday 12 June as promised.",
+     "Paul Kilius-Smith, LU Service Director, said: \"We are pleased that Queensway Station is now open. Passengers can now benefit from a modernised station and new lifts.",
+     "\"Transport for London is investing £10bn to improve London's transport now and for the future, with more than half of that in the Tube.",
+     "\"It is vital that passengers have the confidence that this work can be completed on time and on budget.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"Metronet BCV are responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines\",\"TfL is investing £10bn to improve and expand London's transport network, more than half of that in LU as we work to Transform the Tube\",\"Approximately 8,500 customers use Queensway station each weekday\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

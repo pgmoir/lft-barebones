@@ -1,0 +1,38 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+    title: { title: 'Login' }, 
+    breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Login' } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+    <div class="container-lft">
+    <p class="lead">If you don't have an account already, <a href="/signup">then sign up for an account</a>. Or for the forgetful, <a href="/reset">then reset your password</a>.</p>
+    <div class="row">
+            <div class="col-12 col-md-3"></div>
+            <div class="col-12 col-md-6 mb-3 d-flex justify-content-center">
+                <form class="w-100" action="/login" method="POST">
+                <% if (errors.length) { %><%- include('../includes/alert', { alert: { style: 'danger', messages: errors.map(e => e.msg) }}) %><% } %>
+                    <div class="form-group">
+                        <label for="email">Email <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <input type="email" class="form-control <%= errors.find(e => e.param === 'email') ? 'is-invalid' : '' %>" id="email" name="email" aria-describedby="email" autocomplete="username email" value="<%= email %>" required>
+                        <div class="invalid-feedback">Please enter a valid email</div>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password <span aria-hidden="true" role="presentation">(*)</span></label>
+                        <input type="password" class="form-control <%= errors.find(e => e.param === 'password') ? 'is-invalid' : '' %>" id="password" name="password" aria-describedby="password" autocomplete="current-password" required>
+                        <div class="invalid-feedback">Please enter a valid password</div>
+                    </div>
+                    <% if (returnUrl) { %>
+                    <input type="hidden" name="returnUrl" value="<%= returnUrl %>">
+                    <% } %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <button class="btn btn-primary" type="submit">Login</button>
+                </form>
+            </div>
+            <div class="col-12 col-md-3"></div>
+        </div>
+    </div>
+</section>
+
+<%- include('../includes/foot') %>

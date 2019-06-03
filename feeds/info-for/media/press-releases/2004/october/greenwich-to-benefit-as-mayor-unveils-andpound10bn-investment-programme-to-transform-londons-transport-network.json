@@ -1,0 +1,73 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Greenwich to benefit as Mayor unveils £10bn investment programme to transform London's transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Greenwich is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Greenwich and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Greenwich on the move.\"",
+     "The main benefits for Greenwich included in TfL's 5 Year Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the proposed Thames Gateway Bridge, connecting Beckton and Thamesmead - this will carry four lanes of traffic as well as separate lanes for public transport, pedestrians and cyclists;\",\"the introduction of longer DLR (3 car) trains between Bank and Lewisham to boost capacity by 30% by mid 2008;\",\"the extension of the DLR London City Airport line to Woolwich Arsenal will begin construction by mid 2005;\",\"the Greenwich Waterfront Transit, a high quality bus service which will serve areas between North Greenwich and Abbey Wood linking residential areas with new development zones and connect other transport services.\"]}",
+     "In addition, the following improvements to Jubilee line trains and stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Jubilee Line upgrade including new signalling systems by 2009 and bigger trains;\",\"north Greenwich station will be refurbished by 2010;\",\"congestion relief works (completing 2006) at North Greenwich station.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Greenwich's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Greenwich by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor, fully accessible buses on 22 routes, increased frequencies on 14 routes, the introduction of 2 new routes (453, 486) and 3 night bus routes (N108, N453 and N89);\",\"piloting of 'metro-style' rail services on four key south London routes, one of which is the London Bridge to Dartford route, via Greenwich;\",\"major refurbishment of the Southbound Blackwall Tunnel to extend the life of the tunnel for future years;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with Greenwich improvements to the bus interchange at Abbeywood and better waiting areas on Harrow Manorway."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

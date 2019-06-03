@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Lancaster Gate reopens",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Lancaster Gate reopens",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Lancaster Gate station on the Central line reopened on Monday 13 November, following essential refurbishment of the lifts and modernisation of the station."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The modernisation work on this Victorian station built in 1900, \nis part of Transport for London's £10bn Investment Programme to improve and \nexpand London's transport network, over half of that is being spent on the Tube.",
+     "The works have been undertaken by Metronet Rail BCV.",
+     "Tricia Madge, Performance Manager, Central line, said: \"The newly refurbished \nlifts will be more reliable, passengers should also notice a much cleaner, \nbrighter and safer station with new passenger Help Points added.\"",
+     "The 18-year-old lifts have been refurbished to improve reliability and \nperformance, essential for safety.",
+     "The lifts provide the main way of getting from street to platform level, a \ndescent of 12.5m (41ft).",
+     "There is also a spiral staircase with 104 steps for use in emergencies.",
+     "The works carried out at the station include: the refurbishment and renewal \nof the station control room and communications equipment, a new public address \nsystem and CCTV equipment has been fitted, eight extra seats were added to each \nplatform and all heritage features have been restored.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Heritage features\"}",
+     "There is also a new electronic sign in the ticket hall stating when the next \ntrains will arrive.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The station opened on 30 July 1900\",\"The lifts that have been refurbished were installed in 1988\",\"Approximately 38,500 journeys start and end at Lancaster Gate each week\",\"Metronet Rail BCV is responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

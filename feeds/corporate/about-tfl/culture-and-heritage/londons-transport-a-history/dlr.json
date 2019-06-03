@@ -1,0 +1,160 @@
+{
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Culture \u0026 heritage",
+   "url": "/corporate/about-tfl/culture-and-heritage"
+  },
+  {
+   "title": "London's transport - a history",
+   "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history"
+  },
+  {
+   "title": "Docklands Light Railway (DLR)"
+  }
+ ],
+ "title": {
+  "title": "Docklands Light Railway (DLR)",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The origins of the Docklands Light Railway (DLR) can be traced back to 1982 when the London Docklands Development Corporation (LDDC) was created to coordinate the redevelopment of the Docklands area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "It was clear that a new transport system was needed. Two bills passed in 1984 and 1985 authorised the DLR - construction began soon afterwards.",
+     "The railway opened in 1987 with 11 single-car trains and 15 stations. The original network comprised two routes - Tower Gateway to Island Gardens and Stratford to Island Gardens.",
+     "Even before opening day, planning was underway for the first extension, to Bank, which opened in 1991. A further five extensions have since been completed, keeping pace with the growth of Docklands as an international business and financial centre, and an increasingly popular place to live and visit.",
+     "The routes to Beckton (1994), Lewisham (1999), London City Airport (2005), Woolwich Arsenal (2009) and Stratford International (2011) mean that today, the DLR has 45 stations and 149 vehicles, many operating in 3-car formation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL takes charge\"}",
+     "DLR was originally a wholly owned subsidiary of one of TfL's\nprecursors, London Regional Transport. In 1992 it transferred to the\nLDDC, sponsored by the Department of Environment.",
+     "Since 1997 DLR has been operated under franchise by the private\nsector. The current franchise was awarded to KeolisAmey Docklands Ltd\n(KAD) in 2014. DLR has been the responsibility of TfL since we were\nestablished in 2000.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improvements ahead of the Games\"}",
+     "DLR was crucial to the success of the London 2012 Olympic and Paralympic Games. As well as the Olympic Park itself, the DLR also served competition venues in Greenwich and the Royal Docks, and some road events in central London.",
+     "Significant enhancements were made to the network in preparation for the Games, including the Stratford International extension, the upgrade to support 3-car train formation, a new signalling and control system, and improvements to key stations.",
+     "During the Games DLR carried double its normal number of passengers, which helped the network reach 100 million passenger journeys in the year 2012/13."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "London's transport - a history",
+    "links": [
+     {
+      "title": "Women in transport",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/women-in-transport",
+      "image": {}
+     },
+     {
+      "title": "London buses",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-buses",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-underground",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-overground",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/coaches",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/river",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway (DLR)",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/dlr",
+      "image": {}
+     },
+     {
+      "title": "Trams",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "London's transport - a history",
+     "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/trams",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "DLR",
+      "url": "/modes/dlr/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "History of DLR",
+      "url": "/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/dlr",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "We will send a confirmation when your discount has been approved for another year.",
+     "We aim to respond to you within the next 10 working days.",
+     "Sign up and save. It's the easiest way to pay the Congestion Charge and Ultra Low Emission Zone.",
+     "Add your vehicle to your Auto Pay service.",
+     "Auto Pay is the quickest and simplest way to pay the Congestion Charge and Ultra Low Emission Zone charge.",
+     "If your residents' discount vehicle is not on your Auto Pay you will need to pay the Congestion Charge every time you travel within the zone. Click 'Update my Auto Pay' to add your discount vehicle to your Auto Pay service.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Next steps\"}",
+     "We will consider your renewal once we have received all the documents to support it.",
+     "We will let you know the outcome by your preferred communication channel. If your discount is due to expire and has not been renewed by the expiry date, you will need to pay the charge from that date.",
+     "If your discount has already expired you will need to pay the charge until you receive confirmation that it has been successfully renewed."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

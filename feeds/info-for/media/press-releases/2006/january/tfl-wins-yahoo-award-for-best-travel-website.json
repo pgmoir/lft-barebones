@@ -1,0 +1,70 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL wins Yahoo! award for best travel website",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Transport for London website (www.tfl.gov.uk) has won the Travel category of the Yahoo! Finds of the Year 2005 awards, a celebration of what it describes as \"the most unusual, creative and inspirational websites on the internet\"."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Each year, the Yahoo! Search team scours the internet for the best sites, sifting through thousands of websites suggested by the public before a panel of independent internet experts decides on the winners of eight categories.",
+     "The TfL website, which receives more than three million visits a month, beat National Rail Enquiries, Traveline, and the Foreign and Commonwealth websites to win Best Travel Website.",
+     "Andy Williams, Yahoo! Search said: \"The TfL website is an essential service for Londoners and any visitor to the Capital.",
+     "\"With services like \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003eJourney Planner\u003c/a\u003e , online \u003ca href=\"https://sales.oystercard.com/oyster/lul/entry.do\"\u003eOyster card top-up \u003c/a\u003e and \u003ca href=\"http://www.tfl.gov.uk/tfl/realtime/\"\u003erealtime travel information\u003c/a\u003e , it makes moving around the city a lot easier. Free daily \u003ca href=\"http://www.tfl.gov.uk/tfl/livetravelnews/mobileservices/\"\u003eSMS updates\u003c/a\u003e are a particular favourite with the Yahoo! Search team!\"",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"World-class e-services\"}",
+     "Chris Townsend, TfL Director of Group Marketing, said: \"We are pleased to have our efforts recognised in producing an effective, innovative and informative website for both Londoners and visitors to the Capital.",
+     "\"The audience for the TfL website has continued to increase and we are now receiving around three million visits a month.",
+     "\"We aim to build on this success and continue to deliver world-class e-services to support London's transport network, making it easier to use for local, national and global customers.\"\u003cbr /\u003e\u003cbr /\u003eMembers of the public are now being invited to vote from among the winners for an overall People's Choice winner by visiting \u003ca href=\"http://www.yahoo.co.uk/2005finds\"\u003ewww.yahoo.co.uk/2005finds\u003c/a\u003e . Voting closes on 31 January, and the official People's Choice Finds of the Year 2005 award will be announced on 2 February.\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Office of the Deputy Prime Minister has also produced a report with the purpose of investigating how Local Authority websites are currently performing in light of the investment and drive to improve electronic service delivery. TfL's website was ranked first in the performance category. This relates to web page download speed and website availability\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

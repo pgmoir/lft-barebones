@@ -1,0 +1,76 @@
+{
+ "description": "We are working hard to restore services as quickly as possible. Services are currently operating as follows and include service suspensions that were already in effect following incidents on 7 July 2005.Bakerloo - suspended between Paddington to",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "16:55 hours - Incidents on London transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Incidents at Warren St, Oval and Shepherd's Bush (Hammersmith \u0026 City) stations this afternoon have resulted in service suspension and disruption to parts of the London Underground network. These three stations remain closed."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We are working hard to restore services as quickly as possible.",
+     "Services are currently operating as follows and include service suspensions that were already in effect following incidents on 7 July 2005.",
+     "\u003cstrong\u003eBakerloo\u003c/strong\u003e - suspended between Paddington to Piccadilly Circus",
+     "\u003cstrong\u003eCentral\u003c/strong\u003e - normal service",
+     "\u003cstrong\u003eCircle\u003c/strong\u003e - suspended",
+     "\u003cstrong\u003eDistrict\u003c/strong\u003e - suspended between Edgware Road and High Street Kensington",
+     "\u003cstrong\u003eEast London\u003c/strong\u003e - normal service",
+     "\u003cstrong\u003eHammersmith \u0026 City\u003c/strong\u003e - suspended",
+     "\u003cstrong\u003eJubilee\u003c/strong\u003e - normal service",
+     "\u003cstrong\u003eMetropolitan\u003c/strong\u003e - suspended between Baker Street to Aldgate",
+     "\u003cstrong\u003eNorthern \u003c/strong\u003e - operating between Morden to Stockwell and Kennington to Edgware via Bank only",
+     "\u003cstrong\u003ePiccadilly\u003c/strong\u003e - operating between Cockfosters and Arnos Grove only",
+     "\u003cstrong\u003eVictoria\u003c/strong\u003e - operating between Walthamstow to Highbury \u0026 Islington and between Victoria to Brixton",
+     "\u003cstrong\u003eWaterloo \u0026 City\u003c/strong\u003e - normal service\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

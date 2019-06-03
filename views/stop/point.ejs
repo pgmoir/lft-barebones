@@ -1,0 +1,42 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: pageTitle, icon: stoppoint.mode.toLowerCase(), zone: stoppoint.zone }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Stations, Stops & Piers', url: '/travel-information/stations-stops-and-piers/' }, { title: stoppoint.mode } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+  <div class="container-lft">
+    <div class="row">
+
+      <h2 class="sr-only">Key information relating to the displayed stop, station or pier</h2>
+      <div class="col-12 col-lg-8">
+        <div class="row">
+          <div class="col-12">
+            <%- include('../stop/info', { info: stoppoint.info }) %>
+            <%- include('../includes/status', { status: stoppoint.status })%>
+            <%- include('../stop/arrivals', { arrivals: stoppoint.arrivals })%>
+            <%- include('../stop/departures', { departures: stoppoint.departures })%>
+            <%- include('../stop/accessibility', { accessibility: stoppoint.accessibility })%>
+            <%- include('../stop/facilities', { facilities: stoppoint.facilities })%>
+            <%- include('../stop/transport', { transport: stoppoint.transport })%>
+            <%- include('../stop/crowding', { crowding: stoppoint.crowding })%>
+          </div>
+        </div>
+      </div>
+
+      <%- include('../includes/rhnav', { rhnav: { cards: [ 
+        { template: 'planajourneystop', stoppoint: stoppoint }, 
+        { template: 'searchfilter', title: 'Search for another station', 
+          texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+          link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+          datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+          modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' },
+        { template: 'advert' }
+        ]}, pageTitle: pageTitle, fullUrl: fullUrl }) %>
+
+    </div>
+  </div>
+</section>
+
+<%- include('../includes/foot') %>

@@ -1,0 +1,74 @@
+{
+ "pageTitle": "PCC election results 2018",
+ "keywords": "TfL",
+ "description": "Pcc election results 2018",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "News and publications",
+   "url": "/pensions/news-and-publications"
+  },
+  {
+   "title": "PCC election results 2018"
+  }
+ ],
+ "title": {
+  "title": "PCC election results 2018",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The longest serving quarter of the TfL Pension Consultative Council (PCC) retired from office on the 30 November 2018. The term of office for the new appointments commenced on the 1 December 2018 and will end on the 30 November 2022.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In Section One (representing pensioners and deferred pensioners) David Biggs and Beverley Milner-Simonds retired. This Section received nominations from Mr Biggs and Mr Stephen Spurgin who have both been duly elected. The PCC also ratified the appointment of returning Councillor Luke Howard to take up the casual vacancy left by Ms Arwood following her retirement in July.  Mr Biggs and Mr Howard have both served on the PCC since 2005 and 2008 respectively.",
+     "In Section Two (representing TfL and its subsidiaries or contractors, excluding London Underground Limited) Jamie Parry retired. This Section received two nominations and following a postal ballot Ms Parry was elected.  Ms Parry was appointed to the casual vacancy that had been made vacant earlier on this year.",
+     "In Section Three (representing London Underground Limited and its subsidiaries) Steve Connolly and Tony De Wet retired. Five nominations were received and following a postal ballot, Mr Hari Srikandarajah and Mr Peter Woods were both elected.",
+     "For more information about the PCC you can visit the TfL Pension Fund website at \u003ca href=\"/pensions/index\"\u003ewww.tfl.gov.uk/pensions\u003c/a\u003e or contact Julian Collins, PCC Secretary on 020 7918 3789 or email \u003ca href=\"mailto:juliancollins@tflpensionfund.co.uk\"\u003ejuliancollins@tflpensionfund.co.uk\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

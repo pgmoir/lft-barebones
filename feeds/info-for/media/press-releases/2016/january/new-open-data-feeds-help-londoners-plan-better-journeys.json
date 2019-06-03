@@ -1,0 +1,269 @@
+{
+ "pageTitle": "New open data feeds help Londoners plan better journeys",
+ "description": "TfL releases new open data feeds to help Londoners find station parking spaces and avoid congestion",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2016",
+   "url": "/info-for/media/press-releases/2016"
+  },
+  {
+   "title": "January",
+   "url": "/info-for/media/press-releases/2016/january"
+  },
+  {
+   "title": "New open data feeds help Londoners plan better journeys"
+  }
+ ],
+ "title": {
+  "title": "New open data feeds help Londoners plan better journeys",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Video 'jamcams' and live London Underground car park data added to TfL's ever-growing open data API"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Nearly 500 third party apps now powered by TfL's live open data, helping Londoners and visitors to plan their journeys\",\"Provision of free open data core to TfL's commitment to transparency and bringing better information products and services to customers quickly\"]}",
+     "Live information on the number of parking spaces available in London Underground car parks, as well as improved traffic camera information that will help drivers avoid disruption, are the latest open data feeds to be released by Transport for London (TfL) to help make journeys easier for customers.",
+     "The data, available free of charge at \u003ca href=\"http://tfl.gov.uk/developers\"\u003ehttp://tfl.gov.uk/developers\u003c/a\u003e , is being released as part of TfL's commitment to make the information it holds openly available to create better products and services that can be brought to customers quickly.",
+     "They join an extensive range of TfL data feeds already available, such as live travel information for all TfL services and details of planned roadworks and live road incidents, which help millions of people plan their journeys around London each day.",
+     "Almost 500 mobile phone and online apps are already powered by TfL's open data, providing up-to-the-minute information about the Capital's public transport and road networks.",
+     "The new data feeds will further help drivers better plan their journeys and contribute towards reduced congestion:",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Underground car park data: Information about all 61 London Underground station car parks is now available online, including location, cost and the number of spaces. For 23 of these, a dynamic feed is available to inform people how many spaces are currently being used. TfL is working with its contractors to investigate expanding the feed to cover all LU car parks in the future.\",\"Video Jam Cams: As well as static images from TfL's \\\"JamCams\\\", which provide regularly updated images of the TfL Road Network across London, developers can now also access five second looped videos - similar to a Vine - from available TfL cameras. This allows people to see how traffic is moving along particular roads to help better understand live traffic conditions. The videos have also been incorporated into TfL's live traffic website - \\u003ca href=\\\"http://www.tfl.gov.uk/trafficnews\\\"\\u003ewww.tfl.gov.uk/trafficnews\\u003c/a\\u003e \",\"Further improvements and data feeds are planned throughout this year: These include simpler access to the annual road safety data, improvement work on tunnels and further data on schemes which are modernising the road network. TfL is also investigating how to make complex fares information more accessible for developers.\"]}",
+     "Future plans also include using historic and real-time data to provide more information on the predicted status of the public transport and road networks to provide customers with alerts in advance.",
+     "The Mayor of London, Boris Johnson MP, said:",
+     "'Mobile devices and new sources of data are making it ever-easier to help people avoid delay and manage their journeys. We are absolutely committed to making sure that we help people have easier journeys through the Capital, and we are lucky enough to have a booming tech sector in London that is perfectly positioned to help us deliver on this commitment.'",
+     "Phil Young, Head of Online at TfL, said:",
+     "'Our free open data helps millions of people plan their journeys and avoid unnecessary delays. These new feeds will give people even more information that will help them avoid congestion on the roads.",
+     "'As people increasingly use mobile devices in every aspect of their day-to-day life, it's vital that we make our information as easy for customers to access as possible, both through our own services and those of third parties and partners. This helps people make more informed choices and stimulates new products and services from the Capital's world-leading tech sector.'",
+     "For more information about TfL's open data feeds, please visit \u003ca href=\"http://tfl.gov.uk/developers\"\u003ehttp://tfl.gov.uk/developers\u003c/a\u003e ",
+     "Notes to Editors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"For technical briefings about how TfL is using this data, please contact the TfL Press Office.\",\"A recent article on how the new Car Parks and 'JamCam' data can be used by developers is available to read on TfL's Digital blog - \\u003ca href=\\\"http://blog.tfl.gov.uk/2016/01/22/improved-roads-open-data-car-parks-jamcams/\\\"\\u003ehttp://blog.tfl.gov.uk/2016/01/22/improved-roads-open-data-car-parks-jamcams/\\u003c/a\\u003e \",\"In late 2015, TfL held a number of \\\"hackathons\\\" in partnership with a number of London Universities to see how its data can be harnessed to manage the road network more efficiently. Further Hackathons are planned throughout 2016, enabling us to drive insight and innovation from within the data science community while delivering benefits for London.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2016/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2016/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2016/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2016/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2016/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2016/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2016/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2016/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2016/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2016/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2016/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2016/december",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

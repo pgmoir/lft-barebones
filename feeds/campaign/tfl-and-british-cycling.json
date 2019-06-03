@@ -1,0 +1,245 @@
+{
+ "pageTitle": "TfL \u0026 British Cycling",
+ "keywords": "TfL",
+ "description": "We partner with British Cycling to promote cycling in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "TfL \u0026 British Cycling"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "TfL and British Cycling",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-british-cycling-header.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "TfL and British Cycling are working in partnership to deliver a shared vision that will inspire more people in London to cycle for recreation, transport and sport and promote enjoyable, safe and responsible cycling."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Commute Smart videos",
+    "texts": [
+     "Commute with confidence with British Cycling's tips for new and experienced commuters"
+    ],
+    "link": {
+     "url": "https://www.britishcycling.org.uk/commuting",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/commute-smart-teaser-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "HSBC UK Ride Social",
+    "texts": [
+     "Find informal bike rides near you and set up your own group rides"
+    ],
+    "link": {
+     "url": "https://www.letsride.co.uk/social",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/hsbc-uk-ride-social_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Become a British Cycling London member",
+    "texts": [
+     "Get 15 months for the price of 12, liability insurance and a range of other benefits"
+    ],
+    "link": {
+     "url": "https://www.britishcycling.org.uk/londonmembership",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-membership-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "HSBC UK Breeze Rides",
+    "texts": [
+     "Find a women-only guided ride near you. Open to all abilities"
+    ],
+    "link": {
+     "url": "https://www.letsride.co.uk/breeze",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/womens-breeze-ride-photo_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "HSBC UK Guided Rides",
+    "texts": [
+     "Find a guided ride near you. Open to all abilities"
+    ],
+    "link": {
+     "url": "https://www.letsride.co.uk/guided-rides",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/hsbc-uk-guided-rides-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Find a cycle club",
+    "texts": [
+     "Joining a club is a great way to get the most out of your cycling"
+    ],
+    "link": {
+     "url": "https://www.britishcycling.org.uk/clubfinder",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cyclist-commute-2_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Leisure routes in London",
+    "texts": [
+     "Search for local cycle routes to suit every kind of bike ride"
+    ],
+    "link": {
+     "url": "https://www.letsride.co.uk/routes",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/canal-boat-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Watch Asad's London cycling story",
+    "texts": [
+     "Get inspired to cycle by Asad's story"
+    ],
+    "link": {
+     "url": "https://www.youtube.com/watch?v=nChzI7BwC3o\u0026list=PL9Z-HNvxeY33GJumRyJ4pstiRJSSXzH4t\u0026index=13",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/asad-cycle-story-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Events calendar",
+    "texts": [
+     "Find every kind of cycling event with the British Cycling events calendar"
+    ],
+    "link": {
+     "url": "https://www.britishcycling.org.uk/events/home",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Cycling",
+      "url": "/modes/cycling/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Road safety advice",
+      "url": "/travel-information/safety/road-safety-advice",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycle Skills",
+      "url": "/modes/cycling/cycling-in-london/cycle-skills",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "British Cycling",
+      "url": "https://www.britishcycling.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Track Worlds",
+      "url": "https://www.britishcycling.org.uk/track/article/20150327-2016-UCI-Track-Cycling-World-Championships-ticket-prices-0",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

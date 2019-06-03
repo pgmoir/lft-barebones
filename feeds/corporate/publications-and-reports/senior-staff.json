@@ -1,0 +1,80 @@
+{
+ "pageTitle": "Senior staff",
+ "keywords": "Media,Public,S,Corporate information,Transparency data ,TfL",
+ "description": "We publish a brief job description and pay grade for senior staff at TfL and Crossrail",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Senior staff"
+  }
+ ],
+ "title": {
+  "title": "Senior staff ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Information on the job titles and responsibilities of senior staff at TfL and Crossrail. Part-time staff and those who joined or left service during the year are included.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL senior staff and responsibilities\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Job titles and responsibilities of senior staff 2018\",\"url\":\"/cdn/static/cms/documents/tfl-senior-employee-salaries-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.60MB\",\"image\":{}},{\"title\":\"Job titles and responsibilities of senior staff 2017\",\"url\":\"/cdn/static/cms/documents/tfl-senior-employee-salaries-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 10.16MB\",\"image\":{}},{\"title\":\"Job titles and responsibilities of senior staff 2016\",\"url\":\"/cdn/static/cms/documents/tfl-senior-employee-salaries-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.94MB\",\"image\":{}},{\"title\":\"Job titles and responsibilities of senior staff 2015\",\"url\":\"/cdn/static/cms/documents/tfl-senior-employee-salaries-2015.xls\",\"icon\":\"download\",\"size\":\"XLS 1.81MB\",\"image\":{}},{\"title\":\"Job titles and responsibilities of senior staff 2014\",\"url\":\"/cdn/static/cms/documents/senior-staff-1-2014.xls\",\"icon\":\"download\",\"size\":\"XLS 986KB\",\"image\":{}},{\"title\":\"Job titles and responsibilities of senior staff 2013\",\"url\":\"/cdn/static/cms/documents/tfl-senior-employee-salaries-sept-2013.xls\",\"icon\":\"download\",\"size\":\"XLS 919KB\",\"image\":{}},{\"title\":\"Job titles and responsibilities of senior staff 2012\",\"url\":\"/cdn/static/cms/documents/tfl-senior-employee-salaries-oct-2012.xls\",\"icon\":\"download\",\"size\":\"XLS 854KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Crossrail senior staff and responsibilities\"}",
+     "Visit the \u003ca href=\"http://www.crossrail.co.uk/\"\u003eCrossrail website\u003c/a\u003e for information relating to previous years",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Job titles and responsibilities of senior Crossrail staff 2018\",\"url\":\"/cdn/static/cms/documents/crossrail-senior-staff-responsibilities-salaries-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 406KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

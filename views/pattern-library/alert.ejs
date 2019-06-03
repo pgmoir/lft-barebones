@@ -1,0 +1,112 @@
+<%- include('../includes/head', ) %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Alerts' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Alerts' }]
+}) %>
+
+<%- include('../includes/alert', {
+  alert: { announcement: true, style: 'primary', messages: [ 'This is a primary alert message' ] }
+}) %>
+
+<%- include('../includes/alert', {
+  alert: { announcement: true, style: 'primary', title: 'Multi line alert', messages: [ 'This is a multi-line alert message', '<hr>', 'This is an alert message' ] }
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+
+      <div class="col-12 col-lg-6">
+        <%- include('../includes/alert', {
+          alert: { style: 'secondary', messages: [ 'This is a secondary alert message' ] }
+        }) %>
+      </div>
+      <div class="col-12 col-lg-6">
+        <%- include('../includes/alert', {
+          alert: { style: 'success', messages: [ 'This is a success alert message' ] }
+        }) %>
+      </div>
+      <div class="col-12 col-lg-6">
+        <%- include('../includes/alert', {
+          alert: { style: 'danger', messages: [ 'This is a danger alert message' ] }
+        }) %>
+      </div>
+      <div class="col-12 col-lg-6">
+        <%- include('../includes/alert', {
+          alert: { style: 'warning', messages: [ 'This is a warning alert message' ] }
+        }) %>
+      </div>
+
+      <div class="col-12 col-lg-6">
+        <div class="alert alert-info" role="alert">This is plain info html alert - can be used for simplicity</div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="alert alert-dark" role="alert">This is plain dark html alert - can be used for simplicity</div>
+      </div>
+
+      <div class="col-12">
+        <p class="alert alert-danger">Issue: Do NOT use 'light' style for alert template as this does not meet AA accessibility standards.</p>
+      </div>
+
+      <div class="col-12">
+        <%- include('../includes/alert', {
+          alert: { style: 'warning', messages: [ 'A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.' ] }
+        }) %>
+      </div>
+
+      <div class="col-12">
+        <%- include('../includes/alert', {
+          alert: { style: 'warning', dismissable: true, messages: [ '<strong>Holy guacamole!</strong> You should check in on some of those fields below.' ] }
+        }) %>
+      </div>
+
+      <div class="col-12">
+        <%- include('../includes/alert', {
+          alert: { style: 'success', dismissable: true, title: 'Well done! (template)', messages: [ 'Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.', '<hr>', 'Whenever you need to, be sure to use margin utilities to keep things nice and tidy.' ] }
+        }) %>
+      </div>
+
+      <div class="col-12">
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+          <div class="alert-heading h4">Well done! (html)</div>
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
+          <hr>
+          <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+        </div>
+      </div>
+
+      <div class="col-12">
+        <%- include('../includes/alert', {
+          alert: { style: 'success', dismissable: true, icon: 'bell', title: 'Well done! (icon-template)', messages: [ 'Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.', '<hr>', 'Whenever you need to, be sure to use margin utilities to keep things nice and tidy.' ] }
+        }) %>
+      </div>
+
+      <div class="col-12">
+        <div class="alert alert-success alert-dismissible fade show d-flex flex-row align-items-center" role="alert">
+          <div class="pr-4"><span class="fas fa-bell fa-2x"></span></div>
+          <div>
+            <div class="alert-heading h4">Well done! (html)</div>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
+            <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12">
+        <%- include('../includes/alert', {
+          alert: { style: 'callout', icon: 'blind', title: 'Acessibility', messages: [ 'This website is designed to meet double-A accessibility standards.', 'Let us know what you think.' ] }
+        }) %>
+      </div>
+
+    </div>
+  </div>
+</div>
+  
+<%- include('../includes/foot') %>

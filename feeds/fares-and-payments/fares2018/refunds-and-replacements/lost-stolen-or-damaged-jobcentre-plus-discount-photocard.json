@@ -1,0 +1,85 @@
+{
+ "pageTitle": "Lost, stolen or damaged Jobcentre Plus Discount photocard",
+ "keywords": "TfL",
+ "description": "What you should know if your Jobcentre Plus Discount photocard has been lost, stolen or is faulty.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares-and-payments/fares2018/refunds-and-replacements"
+  },
+  {
+   "title": "Lost, stolen or damaged Jobcentre Plus Discount photocard"
+  }
+ ],
+ "title": {
+  "title": "Lost, stolen or damaged Jobcentre Plus Discount photocard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Replace your card at a Jobcentre Plus office\"}",
+     "You need to apply for a replacement Jobcentre Plus Discount photocard at your local Jobcentre Plus office.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you should know\"}",
+     "You will need to get the Jobcentre Plus Discount re-set on your Oyster card once you've got your replacement photocard. You can do this at Tube stations, \u003ca href=\"https://tfl.gov.uk/maps/oyster-ticket-stops\"\u003eOyster Ticket Stops\u003c/a\u003e and \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-centres\"\u003eVisitor Centres\u003c/a\u003e .",
+     "If you've lost your Oyster card as well, you'll need to get a new one before you can re-set the discount.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares-and-payments/fares2018/refunds-and-replacements/lost-oyster-card\\\"\\u003eLost Oyster card\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/refunds-and-replacements/stolen-oyster-card\\\"\\u003eStolen Oyster card\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/refunds-and-replacements/faulty-oyster-card\\\"\\u003eFaulty Oyster card\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

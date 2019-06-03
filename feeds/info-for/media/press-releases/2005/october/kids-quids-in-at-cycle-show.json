@@ -1,0 +1,80 @@
+{
+ "pageTitle": "Kids quids in at Cycle Show",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Kids quids in at Cycle Show",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "This year's Cycle Show (14-16 October) is set to be a family affair, with entry for children just £1 when accompanied by an adult."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The Capital is the fastest-growing cycling city in Europe",
+     "The Kids for a Quid promotion is sponsored by Transport for London (TfL), which has a central presence at this year's show at the ExceL Centre.",
+     "Visitors will be able to ride around the Capital without leaving the ExceL Centre by having a go on TfL's City Test Track, which is the central feature of the show.",
+     "The track will give people the chance to try out the latest bikes and equipment.",
+     "TfL is also offering free cycle coaching and advice for children.",
+     "London's emergency services' cycling teams will be on hand to give demonstrations of how they use bicycles in their work.",
+     "On Thursday 13 October celebrity cyclist Jon Snow, from Channel 4, will present prizes to the winners of TfL's Cycle Safer Challenge - a competition for school children in London to design fresh and innovative safety equipment for cycling.",
+     "The competition was open to Year 5 pupils from across London to encourage them to think creatively about cycling safety.",
+     "TfL is involved in the Cycle Show as part of its ongoing work to promote cycling in the Capital.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"'Great showcase'\"}",
+     "Cycling has seen a surge in popularity in London during the past five years and TfL is investing record amounts (£20 million in 2005/06) in cycling infrastructure and training.",
+     "Peter Hendy, Managing Director Surface Transport at TfL, said: \"London is seeing a fantastic renaissance of cycling, and the Capital is the fastest-growing cycling city in Europe.",
+     "\"There is so much excitement around cycling at the moment, and the Cycle Show is a great showcase for all types of riding.",
+     "\"The weekend promises to offer great days out for both cycling enthusiasts and people who don't cycle but are tempted to give two wheels a try.\"\u003cbr /\u003e",
+     "TfL is committed to improving road safety and supports a number of schemes aimed at reducing deaths and injuries on London's roads: \u003ca href=\"http://www.tfl.gov.uk/roadsafety\"\u003ewww.tfl.gov.uk/roadsafety\u003c/a\u003e ",
+     "Cyclists can learn more about staying safe on London's roads with TfL's safety guidelines: \u003ca href=\"http://www.tfl.gov.uk/stayingsafe\"\u003ewww.tfl.gov.uk/stayingsafe\u003c/a\u003e \u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"For more information about cycling in London visit \\u003ca href=\\\"http://www.tfl.gov.uk/cycling\\\"\\u003ewww.tfl.gov.uk/cycling\\u003c/a\\u003e \",\"For more information about Cycle Show visit \\u003ca href=\\\"http://www.cycleshow.co.uk/\\\"\\u003ehttp://www.cycleshow.co.uk/\\u003c/a\\u003e \"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

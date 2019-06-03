@@ -1,0 +1,134 @@
+{
+ "pageTitle": "Facebook TravelBot",
+ "keywords": "TfL",
+ "description": "How to use Facebook TravelBot",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates",
+   "url": "/travel-information/social-media-and-email-updates/index"
+  },
+  {
+   "title": "Facebook TravelBot"
+  }
+ ],
+ "title": {
+  "title": "Facebook TravelBot",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out how to check the status of your Tube, rail or bus and check when your next bus will arrive using our automated service on Facebook.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the service\"}",
+     "We have created an \u003ca href=\"https://m.me/tfltravelbot\"\u003eautomated service on Facebook Messenger\u003c/a\u003e to help you check the status of your Tube, rail or bus route. The service is free and uses our latest data.",
+     "The status checker is available for all Tube lines, DLR, London Overground, TfL Rail, trams and all bus routes.\nTry out our Facebook Travelbot  on Messenger or read about what it can do here.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-travelbot_rdax_400x250.png\",\"alt\":\"TfL TravelBot image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to check your bus arrival times\"}",
+     "Check when your bus is due to arrive by sharing your location or providing the bus stop code.",
+     "To check, type something like:\n'When's the next bus' or 'next bus'. You will then be asked to share where you are using your phone's location, or you can provide the bus stop code if you know it.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to check your bus route status\"}",
+     "Find out if there are disruptions on your bus route.",
+     "To check, type something like: 'How's the 38 bus' or '38 bus'.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to find your nearest bus stop\"}",
+     "Find out which bus stop you need or where your nearest one is.",
+     "Type something like 'nearest bus' and you will be asked to send your location. You will be given a map and a list of the 5closest bus stops. Choose one to get the next buses from that stop.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to check your Tube or rail line status\"}",
+     "Find out if there are disruptions on any Tube line, London Overground, TfL Rail, trams or the DLR.",
+     "To check, type something like:\n'Is the Central line running OK' or 'central', and you will be given the latest status  along with details if there is a disruption. This also works with 'dlr', 'overground', 'tfl rail' or 'trams'.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to view Tube and rail maps\"}",
+     "View or download our Tube, rail and Night Tube maps.",
+     "To get the maps type something like:\n'Tube map' or 'rail map' or 'map'. You will be given the choice to view, download or send the map."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Social media \u0026 email updates",
+    "links": [
+     {
+      "title": "Travel alerts on Twitter",
+      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
+      "image": {}
+     },
+     {
+      "title": "Email updates",
+      "url": "/travel-information/social-media-and-email-updates/email-updates",
+      "image": {}
+     },
+     {
+      "title": "News updates",
+      "url": "/travel-information/social-media-and-email-updates/news-updates",
+      "image": {}
+     },
+     {
+      "title": "Careers updates",
+      "url": "/travel-information/social-media-and-email-updates/careers-updates",
+      "image": {}
+     },
+     {
+      "title": "Culture \u0026 heritage updates",
+      "url": "/travel-information/social-media-and-email-updates/culture-and-heritage-updates",
+      "image": {}
+     },
+     {
+      "title": "Journey alerts",
+      "url": "/travel-information/social-media-and-email-updates/journey-alerts",
+      "image": {}
+     },
+     {
+      "title": "Facebook TravelBot",
+      "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Social media \u0026 email updates",
+     "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

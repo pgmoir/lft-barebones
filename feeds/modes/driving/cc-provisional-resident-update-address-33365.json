@@ -1,0 +1,49 @@
+{
+ "pageTitle": "Residents' discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Residents' discount"
+  }
+ ],
+ "title": {
+  "title": "Residents' discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Update address\"}",
+     "To complete your discount application you need to update your address details first. Go to \u003ca href=\"/modes/driving/account-account-settings-29386\"\u003eAccount settings\u003c/a\u003e and edit your address then restart your residents' discount application from My discounts."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

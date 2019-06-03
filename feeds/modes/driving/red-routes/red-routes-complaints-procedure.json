@@ -1,0 +1,149 @@
+{
+ "pageTitle": "Red routes complaints procedure",
+ "keywords": "TfL",
+ "description": "How to make a complaint about parking and traffic regulations on red routes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Contact red routes",
+   "url": "/modes/driving/red-routes/contact-red-routes"
+  },
+  {
+   "title": "Red routes complaints procedure"
+  }
+ ],
+ "title": {
+  "title": "Red routes complaints procedure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This complaints procedure covers the enforcement of parking and traffic regulations on red routes only and does not apply to any other TfL service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003eIf your complaint is about any other aspect of our service, please see the \u003c/strong\u003e ",
+     "Do not use this procedure to challenge the validity of a Penalty Charge Notice (PCN). Disputes over penalty charges have their own statutory representations and appeals procedure. \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices/make-a-representation\"\u003eFind out about making a representation\u003c/a\u003e .",
+     "You can discuss the matter with staff in our customer service team before you write to us. They will try to resolve the problem for you. If you are still not satisfied, please follow the process below.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to make a complaint\"}",
+     "The formal procedure has three stages. Please provide any reference numbers that you may have for each one.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stage one\"}",
+     "Choose from one of the following options to lodge a formal complaint:",
+     "\u003cstrong\u003eOnline: \u003c/strong\u003e Use our form to make a complaint.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003ePhone:\u003c/strong\u003e 0343 222 3333 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )",
+     "Please make sure you have any details you think relevant to hand before calling.",
+     "\u003cstrong\u003ePost:\u003c/strong\u003e \u003cbr /\u003eCustomer Services Manager\u003cbr /\u003eTransport for London\u003cbr /\u003ePO Box 335\u003cbr /\u003eDarlington DL1 9PU",
+     "We will normally send written replies within 10 working days or let you know if there is going to be a delay.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stage two\"}",
+     "If you're not satisfied with our response, you can write to:",
+     "Customer Correspondence Manager\u003cbr /\u003eRoad User Charging\u003cbr /\u003eTransport for London\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eSouthwark\u003cbr /\u003eLondon SE1 8NW",
+     "We will respond within 10 working days. If a full investigation is needed it may take a little longer, but we'll let you know the reasons for the delay.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stage three\"}",
+     "If you are still unhappy after the second stage, you may ask us to conduct a final review by writing to:",
+     "General Manager\u003cbr /\u003eRoad User Charging\u003cbr /\u003eTransport for London\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eSouthwark\u003cbr /\u003eLondon SE1 8NW",
+     "The General Manager will conduct a full review, usually within 10 working days, and will respond with our final position.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local Government Ombudsman (LGO)\"}",
+     "The LGO is an independent national service that investigates complaints against local authorities, including Transport for London.",
+     "If you've been through our complaints procedure and are still dissatisfied, you may choose to escalate your complaint to the LGO at the address below.",
+     "You're entitled to contact the LGO without completing our complaints procedure, but in such cases the LGO may refer your complaint back to us, to allow us the opportunity to resolve your issue.",
+     "The Local Government Ombudsman\u003cbr /\u003ePO Box 4771\u003cbr /\u003eCoventry CV4 0EH",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.lgo.org.uk/contact-us\\\"\\u003eContact the LGO\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Red routes complaints procedure",
+      "url": "/modes/driving/red-routes/red-routes-complaints-procedure",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/red-routes-complaints-procedure",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

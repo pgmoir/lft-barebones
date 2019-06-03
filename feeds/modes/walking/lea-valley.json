@@ -1,0 +1,183 @@
+{
+ "pageTitle": "Lea Valley Walk",
+ "keywords": "TfL",
+ "description": "This Walk London route consists of six sections between Waltham Cross an East India Dock.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Lea Valley Walk"
+  }
+ ],
+ "title": {
+  "title": "Lea Valley Walk",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This Walk London route consists of six sections between Waltham Cross an East India Dock.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/lea-valley-february.jpg\",\"alt\":\"Lee Valley latest\"},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The Lea Valley Walk follows the route along the Lee Navigation towpath, from Waltham Abbey to the Thames at Limehouse Basin.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Waltham Abbey\",\"King George V Reservoir\",\"Springfield Park\",\"Bow Creek Ecology Park\",\"Canary Wharf\",\"Old Ford Lock\",\"Enfield Lock\",\"Tottenham Marshes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Signage\"}",
+     "Sections 1-4 are well marked by signs featuring a swan symbol. Sections beyond that are not marked but work on those signs are in progress.",
+     "Three Mills to Limehouse Basin, are part of \u003ca href=\"/info-for/boroughs/legible-london\"\u003eLegible London\u003c/a\u003e , but there is very little signage on the Meridian Alternative from Three Mills to East India Dock.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route sections\"}",
+     "This 15.6 mile (24.8km) walk is divided into six sections:",
+     "Section 1: \u003ca href=\"/modes/walking/waltham-abbey-to-ponders-end\"\u003eWaltham Abbey to Ponders End\u003c/a\u003e ",
+     "Section 2: \u003ca href=\"/modes/walking/ponders-end-to-tottenham-hale\"\u003ePonders End to Tottenham Hale\u003c/a\u003e ",
+     "Section 3: \u003ca href=\"/modes/walking/tottenham-hale-to-lea-bridge\"\u003eTottenham Hale to Lea Bridge\u003c/a\u003e ",
+     "Section 4: \u003ca href=\"/modes/walking/lea-bridge-to-three-mills\"\u003eLea Bridge to Three Mills\u003c/a\u003e ",
+     "Section 5: \u003ca href=\"/modes/walking/three-mills-to-limehouse-bas\"\u003eThree Mills to Limehouse Basin\u003c/a\u003e ",
+     "Section 6: \u003ca href=\"/modes/walking/three-mills-to-east-india-dock\"\u003eThree Mills to East India Dock\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Certificate\"}",
+     "Completed this walk? Why not download the certificate to celebrate.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lea Valley Walk certificate\",\"url\":\"/cdn/static/cms/documents/lea-valley-certificate.pdf\",\"icon\":\"download\",\"size\":\"PDF 224KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "Waltham Abbey to Ponders End",
+      "url": "/modes/walking/waltham-abbey-to-ponders-end",
+      "image": {}
+     },
+     {
+      "title": "Ponders End to Tottenham Hale",
+      "url": "/modes/walking/ponders-end-to-tottenham-hale",
+      "image": {}
+     },
+     {
+      "title": "Tottenham Hale to Lea Bridge",
+      "url": "/modes/walking/tottenham-hale-to-lea-bridge",
+      "image": {}
+     },
+     {
+      "title": "Lea Bridge to Three Mills",
+      "url": "/modes/walking/lea-bridge-to-three-mills",
+      "image": {}
+     },
+     {
+      "title": "Three Mills to Limehouse Basin",
+      "url": "/modes/walking/three-mills-to-limehouse-bas",
+      "image": {}
+     },
+     {
+      "title": "Three Mills to East India Dock",
+      "url": "/modes/walking/three-mills-to-east-india-dock",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Closure of a section of northbound A406 due to urgent repair works by Thames Water",
+ "description": "This is due to urgent works by Thames Water to repair a burst water main.The works will take place between Chiswick Roundabout and Gunnersbury Lane, with a complete closure of the northbound section.Diversions are in place and drivers are advised to find",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Closure of a section of northbound A406 due to urgent repair works by Thames Water",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is warning of traffic disruption along the A406 northbound, Gunnersbury Avenue, for the next three days."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This is due to urgent works by Thames Water to repair a burst water main.",
+     "The works will take place between Chiswick Roundabout and Gunnersbury Lane, with a complete closure of the northbound section.",
+     "Diversions are in place and drivers are advised to find alternative routes and allow extra time for their journey.",
+     "Thames Water has advised that they will do everything possible to clear the road of works by Saturday 7 June.",
+     "For more detail on the road closures, and for up to date information on traffic in London, call the TfL traffic line on 020 7222 1234, log on to \u003ca href=\"http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html\"\u003eTraffic News\u003c/a\u003e or tune into Traffic Radio on DAB digital radio."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

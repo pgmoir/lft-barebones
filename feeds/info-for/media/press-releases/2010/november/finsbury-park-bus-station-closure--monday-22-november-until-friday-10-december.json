@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Finsbury Park bus station closure - Monday 22 November until Friday 10 December",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Finsbury Park bus station closure - Monday 22 November until Friday 10 December",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From Monday 22 November, Finsbury Park bus station at Station Place will be closed for refurbishment works. The bus station will close at 07:00, reopening at 16:00 on Friday 10 December."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The following routes will be affected by the closure: 19, 106, 153, 236, and N19.",
+     "Routes 19, 106, 236, and N19 towards Finsbury Park will be diverted from St Thomas's Road via Seven Sisters Road and Isledon Road (passengers to alight at stop T).",
+     "Routes 19, 106, 236, and N19 from Finsbury Park will be diverted from the stand at Coleridge Road via Seven Sisters Road, Station Road and Blackstock Road.",
+     "The nearest bus stop for passengers is stop N in Blackstock Road.\u003cbr /\u003e\u003cbr /\u003eRoute 153 towards Finsbury Park will be diverted via Isledon Road to a temporary stop (passengers to alight at stop X).",
+     "Route 153 from Finsbury Park will be diverted from Isledon Road to its normal line of route.",
+     "The nearest bus stop for passengers is stop T on Isledon Road.",
+     "Details of diversions and stopping arrangements during this closure will be available at local bus stops, around the bus station and on \u003ca href=\"http://www.tfl.gov.uk\"\u003eTransport for London's website\u003c/a\u003e .",
+     "Bus station staff will also be available to advise passengers of where to catch their bus.",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

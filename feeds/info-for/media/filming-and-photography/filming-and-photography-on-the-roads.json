@@ -1,0 +1,138 @@
+{
+ "pageTitle": "Filming \u0026 photography on the roads",
+ "description": "You need to get permission for any filming that may disrupt traffice on TfL's road network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Filming \u0026 photography",
+   "url": "/info-for/media/filming-and-photography"
+  },
+  {
+   "title": "Filming \u0026 photography on the roads"
+  }
+ ],
+ "title": {
+  "title": "Filming \u0026 photography on the roads",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London's roads provide many popular locations for filming and photography."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We are the Highway Authority for \u003ca href=\"https://tfl.gov.uk/modes/driving/red-routes\"\u003eLondon's red routes\u003c/a\u003e . You need to get permission from us before you start to film or photograph on our network.",
+     "This is true for everyone, no matter what subject is being filmed, the equipment being used, or size of crew.",
+     "Use the map below to find out if we are the authority for the road you want to film or photograph on.",
+     "All red routes are marked on the map. All other roads are managed by the local borough - you need to contact them directly for the permission you need.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Check your location\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Search\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Application fees\"}",
+     "{\"template\":\"table\",\"titles\":[\"Name\",\"Shoot details\",\"Fees\"],\"rows\":[[],[\"Small\",\"Cast and crew of up to 5 people\\u003cbr /\\u003e\",\"£75\\u003cbr /\\u003e\"],[\"Medium\",\"Cast and crew of 6-25 people\\u003cbr /\\u003e\",\"£225\\u003cbr /\\u003e\"],[\"Large\\u003cbr /\\u003e\",\"Cast and crew of 26+\\u003cbr /\\u003e\",\"£450\\u003cbr /\\u003e\"],[\"Multi-location\\u003cbr /\\u003e\",\"3+ locations\\u003cbr /\\u003e\",\"£1350\\u003cbr /\\u003e(+£450 for every additional location)\\u003cbr /\\u003e\"],[\"Additional changes\\u003cbr /\\u003e\",\"Any changes to applications will incur a supplementary fee, for example for dates, equipment, location changes\\u003cbr /\\u003e\",\"£150\"],[\"Meeting(s)\\u003cbr /\\u003e\",\"With TfL representatives\\u003cbr /\\u003e\",\"£150 per meeting\\u003cbr /\\u003e\"]]}",
+     "TfL's terms and conditions and associated licence fees are detailed in the application form below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Apply to film on roads managed by TfL (red routes)\",\"url\":\"/cdn/static/cms/documents/applicaton-to-film-or-photograph-on-transport-for-londons-red-routes.pdf\",\"icon\":\"download\",\"size\":\"PDF 133KB\",\"image\":{}},{\"title\":\"Traffic order or loading/parking suspension request form\",\"url\":\"/cdn/static/cms/documents/traffic-order-parking-loading-suspension-request.doc\",\"icon\":\"download\",\"size\":\"DOC 121KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography on TfL",
+      "url": "/info-for/media/filming-and-photography/filming-and-photography-on-tfl",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography on buses",
+      "url": "/info-for/media/filming-and-photography/filming-and-photography-on-buses",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography on the roads",
+      "url": "/info-for/media/filming-and-photography/filming-and-photography-on-the-roads",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography/filming-and-photography-on-the-roads",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+<fieldset class="lft-fieldset">
+  <legend class="lft-fieldset__legend lft-fieldset__legend--xl">
+    <h3 class="lft-fieldset__heading">
+      What is your address?
+    </h3>
+  </legend>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="address-line-1">
+      Building and street
+      <span class="lft-visually-hidden">line 1 of 2</span>
+    </label>
+    <input class="lft-input" id="address-line-1" name="address-line-1" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="address-line-2">
+      <span class="lft-visually-hidden">Building and street line 2 of 2</span>
+    </label>
+    <input class="lft-input" id="address-line-2" name="address-line-2" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="address-town">
+      Town or city
+    </label>
+    <input class="lft-input lft-!-width-two-thirds" id="address-town" name="address-town" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="address-county">
+      County
+    </label>
+    <input class="lft-input lft-!-width-two-thirds" id="address-county" name="address-county" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="address-postcode">
+      Postcode
+    </label>
+    <input class="lft-input lft-input--width-10" id="address-postcode" name="address-postcode" type="text">
+  </div>
+
+</fieldset>
+
+<fieldset class="lft-fieldset">
+  <legend class="lft-fieldset__legend lft-fieldset__legend--xl">
+    <h3 class="lft-fieldset__heading">
+      What is your address?
+    </h3>
+  </legend>
+
+  <span id="eaddress-error" class="lft-error-message">
+    <span class="lft-visually-hidden">Error:</span> <%= field.error %>
+  </span>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="eaddress-line-1">
+      Building and street
+      <span class="lft-visually-hidden">line 1 of 2</span>
+    </label>
+    <input class="lft-input lft-input--error" id="eaddress-line-1" name="eaddress-line-1" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="eaddress-line-2">
+      <span class="lft-visually-hidden">Building and street line 2 of 2</span>
+    </label>
+    <input class="lft-input lft-input--error" id="eaddress-line-2" name="eaddress-line-2" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="eaddress-town">
+      Town or city
+    </label>
+    <input class="lft-input lft-!-width-two-thirds lft-input--error" id="eaddress-town" name="eaddress-town" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="eaddress-county">
+      County
+    </label>
+    <input class="lft-input lft-!-width-two-thirds lft-input--error" id="eaddress-county" name="eaddress-county" type="text">
+  </div>
+
+  <div class="lft-form-group">
+    <label class="lft-label" for="eaddress-postcode">
+      Postcode
+    </label>
+    <input class="lft-input lft-input--width-10 lft-input--error" id="eaddress-postcode" name="eaddress-postcode" type="text">
+  </div>
+
+</fieldset>

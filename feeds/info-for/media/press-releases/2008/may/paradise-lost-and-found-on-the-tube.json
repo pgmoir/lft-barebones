@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Paradise lost and found on the Tube",
+ "description": "London Underground is celebrating the 400th anniversary of the birth of poet John Milton by displaying his poems on trains across the network from 2 June. This is part of a year-long international celebration of his writings with exhibitions taking place",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Paradise lost and found on the Tube",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground celebrates 400 years of poet John Milton."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "London Underground is celebrating the 400th anniversary of the birth of poet John Milton by displaying his poems on trains across the network from 2 June.",
+     "This is part of a year-long international celebration of his writings with exhibitions taking place from Cambridge to New York.",
+     "The new series of Poems on the Underground features The Expulsion from Eden - the final lines from Paradise Lost, Book 12 by Milton, which is considered by many as one of the greatest poems written in the English language.",
+     "Works by other poets, both classical and contemporary, are also part of the series, and have been chosen to add a varied literary point of interest to passengers' journeys.",
+     "Verses by romantic poet William Wordsworth, author Elizabeth Smart, popular performance poet John Hegley, and Frances Leviston who offers a view of our post-Paradise world have been selected to offer commuters a few moments of contemplation away from their daily routine.",
+     "Tamsin Dillon, Head of Art on the Underground, said: 'This group of poems by John Milton and other more modern poets who have been inspired by him, shows how important and far reaching this great poet's influence remains.",
+     "'An advocate of free speech his words are just as relevant today as they ever were.'",
+     "Notes to editors:",
+     "{\"template\":\"bulletlist\"}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

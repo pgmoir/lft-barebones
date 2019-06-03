@@ -1,0 +1,90 @@
+{
+ "pageTitle": "Lambeth Bridge roundabouts",
+ "keywords": "L,Lambeth,Westminster,Roads,Driving,Walking,TfL",
+ "description": "We are working on long-term plans to transform the roundabouts at Lambeth Bridge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Lambeth Bridge roundabouts"
+  }
+ ],
+ "title": {
+  "title": "Lambeth Bridge roundabouts",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are working on long-term plans to transform the northern and southern roundabouts at Lambeth Bridge. If we decide to go ahead with our proposals, we could start construction in mid-2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We consulted on the plans between June and August 2017. The consultation report will be published on our \u003ca href=\"http://www.tfl.gov.uk/lambeth-bridge\"\u003eLambeth Bridge consultation page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improvements\"}",
+     "During spring 2017 we made changes to improve safety for vulnerable road users at the northern roundabout.",
+     "The changes were intended to improve safety quickly, while we investigated long-term plans to re-design the junction. This project is now complete.",
+     "We have:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Widened footways and extended traffic islands to reduce traffic speeds and provide more space for pedestrians\",\"Raised zebra crossings on all four sides of the junction to slow traffic on the approach to the roundabout\",\"Installed clearer lane markings at the roundabout\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lambeth Bridge northern roundabout\",\"url\":\"/cdn/static/cms/documents/lambeth-bridge-northern-roundabout.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.11MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/lambeth-bridge-northern-roundabout-thumb.jpg\",\"alt\":\"Detail of Lambeth Bridge northern roundabout map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

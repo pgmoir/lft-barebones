@@ -1,0 +1,101 @@
+<% if (title.complex || title.hero ) { %>
+  <section id="title" class="banner-content" aria-label="breadcrumb navigation and page title">
+    <span class="banner-background<% if (title.hero) { %> hero-background<% } %> d-none d-md-block" style="background-image: url(<%= title.background %>)"></span>
+    <div class="container-fluid">
+      <div class="container-lft">
+        <div class="d-block hgt-1"></div>
+        <%- include('breadcrumb', { breadcrumbs: breadcrumbs }) %>
+        <div class="d-none d-md-block hgt-3"></div>
+        <h1>
+          <span class="h-standard pb-2 d-block d-md-none"><%= title.title %></span>
+          <span class="h-highlight h-dark d-none d-md-inline-block"><%= title.title %></span>
+        </h1>
+        <% if (title.hero) { %>
+          <div class="row">
+            <div class="col-12 col-sm-6 col-lg-4">
+              <% for (let card of title.primarys) { %>
+                <% if (card.template === undefined || card.template === "") { %>
+                  <%- include('card', { card: card }) %>
+                <% } else { %>
+                  <%- include(card.template, { card: card }) %>
+                <% } %>
+              <% } %>
+            </div>
+            <div class="d-none d-lg-block col-lg-4">
+              <% for (let card of title.cards) { %>
+                <% if (card.template === undefined || card.template === "") { %>
+                  <%- include('card', { card: card }) %>
+                <% } else { %>
+                  <%- include(card.template, { card: card }) %>
+                <% } %>
+              <% } %>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <% for (let card of title.rhnav) { %>
+                <% if (card.template === undefined || card.template === "") { %>
+                  <%- include('card', { card: card }) %>
+                <% } else { %>
+                  <%- include(card.template, { card: card }) %>
+                <% } %>
+              <% } %>
+            </div>
+          </div>
+        <% } else { %>
+          <div class="d-none d-md-block hgt-10"></div>
+          <% if (title.card && title.card.texts) { %>
+            <div class="row">
+            <div class="col-12">
+              <div class="card <%= title.card.style %>">
+                <div class="card-body">
+                  <div class="row">
+                    <div class="col-12 <% if (title.card.link && title.card.link.button) { %>col-md-8 <% } %>pb-3">
+                      <h2 class="card-title h5"><%= title.card.title %></h2>
+                      <% if (title.card.texts) { %>
+                        <% for (let text of title.card.texts) { %>
+                          <p class="card-text"><%- text %></p>
+                        <% } %>
+                      <% } %>
+                    </div>
+                    <% if (title.card.link && title.card.link.button) { %>
+                    <div class="col-12 col-md-4">
+                      <% if (!title.card.link.title) { %>
+                        <a href="<%= title.card.link.url %>" class="btn btn-primary btn-textwrap w-100"><%= title.card.link.button %></a>
+                      <% } else { %>
+                        <div class="card">
+                          <div class="card-body bg-white">
+                            <h3 class="card-title h5"><%= title.card.link.title %></h5>
+                            <p class="card-text"><%- title.card.link.text %></p>
+                            <% if (title.card.link) { %>
+                              <a href="<%= title.card.link.url %>" class="btn btn-primary btn-textwrap w-100"><%= title.card.link.button %></a>
+                            <% } %>
+                          </div>
+                        </div>
+                      <% } %>
+                    </div>
+                    <% } %>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <% } %>
+        <% } %>
+      </div>
+    </div>
+  </section>
+<% } else { %>
+  <section id="title" class="container-fluid" aria-label="breadcrumb navigation and page title">
+    <div class="container-lft">
+      <div class="d-block hgt-1"></div>
+      <%- include('breadcrumb', { breadcrumbs: breadcrumbs }) %>
+        <% if (title.icon) { %>
+          <div class="d-flex align-items-end h-standard">
+            <h1 class="w-100 pr-8"><%= title.title %> <% if (title.zone) { %><span class="h4">(<%= title.zone %>)</span><% } %></h1>
+            <div class="svgtitle svgicon-<%= title.icon %> flex-shrink-1"></div>
+          </div>
+        <% } else { %>
+          <h1 class="h-standard pb-2"><%= title.title %> <% if (title.zone) { %><span class="h4">(<%= title.zone %>)</span><% } %></h1>
+        <% } %>
+    </div>
+  </section>
+<% } %>

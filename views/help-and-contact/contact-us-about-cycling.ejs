@@ -1,0 +1,322 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { title: { title: pageTitle }, breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Help & contacts', url: '/help-and-contact/index' }, { title: 'Contact us about cycling' }] }) %>
+
+<section id="main" class="container-fluid">
+    <div class="container-lft mt-4">
+        <h2 class="sr-only">Links to articles related to topic</h2>
+
+        <% if (form.phase == 'intro') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=intro" class="pb-3 pl-1" role="form">
+                    <p class="lead">If you have something to ask or tell us about our cycling services, whether it be good, bad, a suggestion or question, then this is the place to do it.</p>
+                    <p>If you want to contact us about anything other matter, then check the links on the right.</p>
+                    <p>We will only ask you a few simple questions to help understand the issue and we aim to respond to you within the next 3-4 weeks. If you're ready to proceed, just click the Start button below.</p>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <button class="btn btn-lg btn-success" type="submit">Start <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Want to contact us about something else?',
+                    leadtexts: [
+                        'We have other pages specifc to other areas of TfL.'
+                    ],
+                    texts: [
+                        '<ul><li><a href="/fares/refunds-and-replacements">Refunds and replacements</a></li><li><a href="/fares/refunds-and-replacements">Refunds and replacements</a></li></ul>',
+                        '<a href="/fares/refunds-and-replacements">Refunds and replacements</a>'
+                    ]
+                    }}) 
+                %>
+            </div>
+        </div>
+        
+        <% } else if (form.phase == 'reason') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=reason" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-radiobuttons', { field: { 
+                        name: 'reason', 
+                        question: 'What is the reason for contacting us?',
+                        hint: 'This will help up process your feedback more efficiently.',
+                        required: true,
+                        items: form.variables.reasons,
+                        formvalue: form.reason}}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=intro'
+                    }}) %>
+                    <button class="btn btn-lg btn-success" type="submit">Continue <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Purpose of form',
+                    leadtexts: [
+                        'This form is for general enquiries about travel using cycling. Do not give us your cycling payment card details here.'
+                    ],
+                    texts: [
+                        'Send us your question or feedback by completing the form below. We aim to reply within 10 working days.'
+                    ]
+                    }}) 
+                %>
+                <p>All fields are required, unless specified as optional.</p>
+            </div>
+        </div>
+        
+        <% } else if (form.phase == 'location') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=location" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-text', { field: { 
+                        name: 'location', 
+                        question: 'Where did the incident occur? (optional)',
+                        hint: 'If it does not refer to a specific location, please skip this question.',
+                        required: false,
+                        formvalue: form.location,
+                        error: errorMessage}}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=reason'
+                    }}) %>
+                    <button class="btn btn-lg btn-success" type="submit">Continue <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Purpose of form',
+                    leadtexts: [
+                        'This form is for general enquiries about travel using cycling. Do not give us your cycling payment card details here.'
+                    ],
+                    texts: [
+                        'Send us your question or feedback by completing the form below. We aim to reply within 10 working days.'
+                    ]
+                    }}) 
+                %>
+                <p>All fields are required, unless specified as optional.</p>
+            </div>
+        </div>
+
+        <% } else if (form.phase == 'when') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=when" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-date', { field: { 
+                        name: 'when', 
+                        question: 'When did the incident occur? (optional)',
+                        hint: 'If your enquiry does not relate to a specific date, please skip this question.<br /><br />For example, 12 11 2007.',
+                        required: false,
+                        formvalueday: form.whenday,
+                        formvaluemonth: form.whenmonth,
+                        formvalueyear: form.whenyear,
+                        error: errorMessage}}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=location'
+                    }}) %>
+                    <button class="btn btn-lg btn-success" type="submit">Continue <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Purpose of form',
+                    leadtexts: [
+                        'This form is for general enquiries about travel using cycling. Do not give us your cycling payment card details here.'
+                    ],
+                    texts: [
+                        'Send us your question or feedback by completing the form below. We aim to reply within 10 working days.'
+                    ]
+                    }}) 
+                %>
+                <p>All fields are required, unless specified as optional.</p>
+            </div>
+        </div>
+
+        <% } else if (form.phase == 'direction') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=direction" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-text', { field: { 
+                        name: 'direction', 
+                        question: 'In what direction where you travelling? (optional)',
+                        hint: 'For example: towards Richmond or traffic lights at A13 junction. If it does not refer to a specific direction, please skip this question.',
+                        required: false,
+                        formvalue: form.direction,
+                        error: errorMessage}}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=when'
+                    }}) %>
+                    <button class="btn btn-lg btn-success" type="submit">Continue <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Purpose of form',
+                    leadtexts: [
+                        'This form is for general enquiries about travel using cycling. Do not give us your cycling payment card details here.'
+                    ],
+                    texts: [
+                        'Send us your question or feedback by completing the form below. We aim to reply within 10 working days.'
+                    ]
+                    }}) 
+                %>
+                <p>All fields are required, unless specified as optional.</p>
+            </div>
+        </div>
+
+        <% } else if (form.phase == 'comments') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=comments" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-textarea', { field: { 
+                        name: 'comments', 
+                        question: 'What would you like to tell or ask us?',
+                        hint: 'If reporting an incident, please try to give us as much information as possible.',
+                        required: true,
+                        formvalue: form.comments,
+                        error: errorMessage}}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=direction'
+                    }}) %>
+                    <button class="btn btn-lg btn-success" type="submit">Continue <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'When not to use this form',
+                    texts: [
+                        'If you were delayed or want a refund on your cycling card, you can <a href="https://cycling.tfl.gov.uk/" class="external-link" target="_parent">sign in to your account</a>. If you don\'t have an account,&nbsp;you can&nbsp;<a href="https://cycling.tfl.gov.uk/UnregisteredCustomer/Captcha/" class="external-link" target="_parent">sign in as a guest</a>.'
+                    ]
+                    }}) 
+                %>
+            </div>
+        </div>
+
+        <% } else if (form.phase == 'documents') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=documents" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-fileupload', { field: { 
+                        name: 'docs', 
+                        question: 'Please attach any supporting document (optional)',
+                        hint: 'Only one document can be added at this time',
+                        required: false,
+                        error: 'Document is of a wrong format'
+                        }}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=comments'
+                    }}) %>
+                    <button class="btn btn-lg btn-success" type="submit">Continue <span class="fas fa-chevron-right"></span></button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+            </div>
+        </div>
+
+        <% } else if (form.phase == 'summary') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <form method="POST" action="/help-and-contact/contact-us-about-cycling?phase=summary" class="pb-3 pl-1" role="form">
+                    <%- include('../includes/input-summarylist', { field: { 
+                        name: 'summary', 
+                        title: 'Please review your answers',
+                        hint: 'To update any of your answers, click on the Change links.',
+                        items: [
+                            { name: 'Reason', value: form.variables.reasons.find(o => o.value === form.reason).title, linkto: '/help-and-contact/contact-us-about-cycling?phase=reason' },
+                            { name: 'Location', value: form.location, linkto: '/help-and-contact/contact-us-about-cycling?phase=location' },
+                            { name: 'When', value: form.whenday + "/" + form.whenmonth + "/" + form.whenyear, linkto: '/help-and-contact/contact-us-about-cycling?phase=when' },
+                            { name: 'Direction', value: form.direction, linkto: '/help-and-contact/contact-us-about-cycling?phase=direction' },
+                            { name: 'Comments', value: form.comments, linkto: '/help-and-contact/contact-us-about-cycling?phase=comments' },
+                            { name: 'Documents', value: form.documents, linkto: '/help-and-contact/contact-us-about-cycling?phase=documents' },
+                        ]
+                        }}) 
+                    %>
+                    <%- include('../includes/input-insettext', { field: { 
+                        text: 'It may take up to 4 weeks to process this request, however we will attempt to deal with it as efficiently as possible.'
+                        }}) 
+                    %>
+                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                    <%- include('../includes/input-backlink', { field: { 
+                        url: '/help-and-contact/contact-us-about-cycling?phase=documents'
+                    }}) %>
+                    <button class="btn btn-lg btn-primary" type="submit">Save and Send</button>
+                </form>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Data Protection Statement',
+                    texts: [
+                        'Transport for London (TfL), its subsidiaries and service providers will use your personal information for the purposes of processing your feedback, providing you with a response, or the information or services you have requested, and the provision of travel related information. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data, see our Privacy and cookies pages.'
+                    ]
+                    }}) 
+                %>
+            </div>
+        </div>
+
+        <% } else if (form.phase == 'complete') { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <%- include('../includes/input-panel', { 
+                    title: 'Your request has been submitted',
+                    description: 'Your reference number is',
+                    reference: reference
+                  }) %>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'What can I do next',
+                    texts: [
+                        'Explore this website.'
+                    ]
+                    }}) 
+                %>
+            </div>
+        </div>
+
+        <% } else { %>
+        <div class="row pb-3">
+            <div class="col-12 col-md-7 order-2 order-md-1">
+                <%- include('../includes/alert', { alert: { 
+                    announcement: true,
+                    icon: 'thumbs-down',
+                    style: 'danger',
+                    title: 'Phase does not exist',
+                    messages: [ 'An error has occured.' ]
+                  }}) %>
+            </div>
+            <div class="col-12 col-md-1 order-3 order-md-2"></div>
+            <div class="col-12 col-md-4 order-1 order-md-3" role="help">
+                <%- include('../includes/input-details', { field: { 
+                    title: 'Why did I see this error',
+                    texts: [
+                        'Transport for London (TfL), its subsidiaries and service providers will use your personal information for the purposes of processing your feedback, providing you with a response, or the information or services you have requested, and the provision of travel related information. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data, see our Privacy and cookies pages.'
+                    ]
+                    }}) 
+                %>
+            </div>
+        </div>
+        <% } %>
+
+    </div>
+</section>
+
+<%- include('../includes/foot') %>

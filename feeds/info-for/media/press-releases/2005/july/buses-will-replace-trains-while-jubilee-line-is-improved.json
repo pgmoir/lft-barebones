@@ -1,0 +1,66 @@
+{
+ "pageTitle": "Buses will replace trains while Jubilee line is improved",
+ "description": "On that weekend the Jubilee line will therefore be operating in two separate sections. A train service will run between Stanmore and Wembley Park and another train service will run between West Hampstead and Stratford.The Metropolitan line will also be",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Buses will replace trains while Jubilee line is improved",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "While track replacement work is being carried out to improve the Jubilee line, train services between West Hampstead and Wembley Park are being suspended on Saturday and Sunday 30 and 31 July."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "On that weekend the Jubilee line will therefore be operating in two separate sections. A train service will run between Stanmore and Wembley Park and another train service will run between West Hampstead and Stratford.\u003cbr /\u003e\u003cbr /\u003eThe\u003cstrong\u003eMetropolitan line\u003c/strong\u003e will also be suspended south of Wembley Park.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rail Replacement Bus Services\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is investing £10 billion over the next 5 years to improve and expand London's transport network, over half of that in the Tube\",\"Tube Lines are responsible for the maintenance and renewal of the Jubilee, Northern and Piccadilly lines.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

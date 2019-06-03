@@ -1,0 +1,102 @@
+{
+ "keywords": "B,M,Finance,TfL",
+ "description": "Our initial submission is fed into the Mayor's budget consultation process",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "The Mayor’s budget"
+  }
+ ],
+ "title": {
+  "title": "The Mayor’s budget",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Mayor's budget is published in March for the upcoming financial year. As one of the Greater London Authority (GLA) functional bodies, we provide an initial submission that is consolidated into the Mayor's consultation budget published in December.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The final submission is then made in February and forms part of the formal budget published by the GLA.",
+     "Find out more about the \u003ca href=\"https://www.london.gov.uk/about-us/governance-and-spending/spending-money-wisely/mayors-budget\"\u003eMayor's budget on the GLA website\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2018/19 Initial submission to Mayor's consultation budget\",\"url\":\"/cdn/static/cms/documents/transport-for-london-mayors-budget-2018-19-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 340KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Past submissions\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2017/18 Initial submission to Mayor's consultation budget\",\"url\":\"/cdn/static/cms/documents/tfl-mayors-budget-2017-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 468KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Annual Report",
+      "url": "/corporate/publications-and-reports/annual-report",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Budget and Business Plan",
+      "url": "/corporate/publications-and-reports/business-plan",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

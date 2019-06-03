@@ -1,0 +1,269 @@
+{
+ "pageTitle": "Access your data",
+ "keywords": "TfL",
+ "description": "How to find out what personal information TfL holds about you",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "Access your data"
+  }
+ ],
+ "title": {
+  "title": "Access your data",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Under data protection legislation you are entitled to ask to see any personal information that we hold about you. This page explains how to make a 'Subject Access request' to TfL and how we use your information when we process a request.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In order to help us identify and locate your personal data, when submitting a request please be as specific as possible when describing both the information you believe may exist and its possible sources.",
+     "Data protection legislation allows us to ask you for further clarification where appropriate; and we will normally be unable to begin processing your request until that clarification has been provided.",
+     "TfL, its subsidiaries and service providers will use the personal information you provide to enable us to reply to your request and any subsequent internal review, complaint or appeal about its handling in accordance with data protection legislation our information access policy, and our privacy and data protection handling procedure.",
+     "On some occasions, we may need to share your information with associated organisations, including the Information Commissioner's Office, the Information Rights Tribunal, and other legal representatives for these purposes. We will retain a record of your request for up to two years after it, or any review or appeal, is complete - for the purposes of managing any subsequent correspondence and establishing and defending legal rights.",
+     "Please select the relevant option from the list below.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster or contactless journey history\"}",
+     "If you are a registered Oyster or contactless payment card customer, you can access your journey/payment history and other personal information by signing into your online account.",
+     "Alternatively, to request access to your personal information, please write to:",
+     "First Contact Centre\u003cbr /\u003eTransport for London\u003cbr /\u003e14 Pier Walk\u003cbr /\u003eNorth Greenwich\u003cbr /\u003eLondon\u003cbr /\u003eSE10 0ES",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and Private Hire licensing\"}",
+     "You can submit a Subject Access request for your personal information held by Transport for London in connection with taxi and private hire licensing, using the form below.",
+     "However if you need a copy of a specific document, we may be able to provide this for free upon receipt of a written request, so we normally recommend that you email us first at: \u003ca href=\"mailto:tph.enquiries@tfl.gov.uk\"\u003etph.enquiries@tfl.gov.uk\u003c/a\u003e , or write to:",
+     "TPH Licensing Support\u003cbr /\u003eTransport for London\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eLondon\u003cbr /\u003eSE1 8NW",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and Private Hire Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/tph-subject-access-request-form.docx\",\"icon\":\"download\",\"size\":\"DOCX 40KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Congestion Charge and Low Emission Zones\"}",
+     "If you are a registered Congestion Charge or LEZ customer, you can see your journey and payment history and other information by signing into your online account. If you receive a Penalty Charge Notice (PCN), there will be two images of the vehicle on the PCN itself.",
+     "For access to other associated personal information held by TfL, please complete the Subject Access request form below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Road User Charging Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/road-user-charging-subject-access-request-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 204KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Traffic enforcement and monitoring cameras\"}",
+     "Please note that Transport for London (TfL) are only responsible for a limited number of cameras deployed across the TfL Road Network, which is made up of London's main trunk roads. \u003ca href=\"/cdn/static/cms/documents/tfl-base-map-master.pdf\"\u003eSee which roads TfL manages on our map\u003c/a\u003e .",
+     "Other on-street cameras in London are managed directly by other public authorities.",
+     "TfL's traffic monitoring cameras are not used to record images and our enforcement cameras are normally only used to record contraventions of traffic regulations as they are happening.",
+     "If you would like to request access to images of you or your vehicle that may have been captured by TfL's traffic enforcement and monitoring cameras please use the form below:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Traffic enforcement CCTV Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/traffic-monitoring-cctv-subject-access-request-form.docx\",\"icon\":\"download\",\"size\":\"DOCX 34KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Underground CCTV cameras\"}",
+     "Please note that images from London Underground's CCTV cameras are normally only retained for 14 days, however if you would like to request access to images of you that may have been captured by London Underground's CCTV cameras please use the form below:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LU CCTV Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/lu-cctv-subject-access-request-form2.docx\",\"icon\":\"download\",\"size\":\"DOCX 35KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL's Customer Contact Centre\"}",
+     "To obtain copies of correspondence or recordings of telephone calls you have made to our Customer Contact Centre regarding:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Oyster\",\"Contactless payment card\",\"London Underground\",\"Santander Cycles\",\"Docklands Light Railway\",\"TfL Rail\",\"London Overground\",\"London's bus services\",\"Street management\",\"Emirates Air Line\",\"Lost property\",\"Travel information\",\"Journey planning enquiries\",\"Visitor Centres\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Customer Services Subject Access Request Form\",\"url\":\"/cdn/static/cms/documents/tfl-customer-services-subject-access-request-form2.docx\",\"icon\":\"download\",\"size\":\"DOCX 41KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL job applications and staff records\"}",
+     "If you are a current/former employee of Transport for London (TfL) or one of its operating subsidiaries (including London Underground Limited, Victoria Coach Station Limited, Tube Lines Limited, etc), or you have previously applied for a job with one of those entities, please use the form below to request access to any associated personal information.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"HR Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/hr-subject-access-request-form2.docx\",\"icon\":\"download\",\"size\":\"DOCX 49KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Pension Fund\"}",
+     "If you are a current or former member of the Transport for London (TfL) Pension Fund, please use the form below to request access to any associated personal information.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Pension Fund Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/pension-fund-subject-access-request-form.docx\",\"icon\":\"download\",\"size\":\"DOCX 40KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "If you are a current or former member of Dial-a-Ride and would like access to your personal information, such as copies of correspondence, or telephone calls you have made, then please complete the form below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Dial-a-Ride Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/dar-subject-access-request-form2.docx\",\"icon\":\"download\",\"size\":\"DOCX 41KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus station CCTV\"}",
+     "Please note that CCTV images captured on TfL's bus stations are normally only retained for 30 days.  If you would like to request access to images that may have been captured by TfL bus station CCTV cameras please complete this form.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Bus station CCTV Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/bus-ops-cctv-subject-access-request-form.docx\",\"icon\":\"download\",\"size\":\"DOCX 35KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"CCTV on London's buses\"}",
+     "London's bus services are operated by individual bus companies on behalf of TfL. Any CCTV on London buses is the responsibility of the company that runs that particular service or route.",
+     "If you require access to images of yourself recorded by a CCTV camera inside a bus you should contact the company which operates that particular bus route. You can find this information on signs displayed inside each vehicle or on our \u003ca href=\"/modes/buses/who-runs-your-bus\"\u003eWho runs your bus\u003c/a\u003e page. As images are retained for only a limited time, please make a request within a week of the images being recorded.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Transport Museum\"}",
+     "If you are a customer of the museum and would like to request access to personal information that the museum may hold about you please complete this form.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London Transport Museum Subject Access Request form\",\"url\":\"/cdn/static/cms/documents/ltm-subject-access-request-form.docx\",\"icon\":\"download\",\"size\":\"DOCX 250KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Privacy \u0026 cookies",
+    "links": [
+     {
+      "title": "Access your data",
+      "url": "/corporate/privacy-and-cookies/access-your-data",
+      "image": {}
+     },
+     {
+      "title": "Bus data collection pilot",
+      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
+      "image": {}
+     },
+     {
+      "title": "Capital Call",
+      "url": "/corporate/privacy-and-cookies/capital-call",
+      "image": {}
+     },
+     {
+      "title": "CCTV \u0026 surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "image": {}
+     },
+     {
+      "title": "Compulsory purchase",
+      "url": "/corporate/privacy-and-cookies/compulsory-purchase",
+      "image": {}
+     },
+     {
+      "title": "Contactless payment",
+      "url": "/corporate/privacy-and-cookies/contactless-payment",
+      "image": {}
+     },
+     {
+      "title": "Cookies",
+      "url": "/corporate/privacy-and-cookies/cookies",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/corporate/privacy-and-cookies/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "Employment",
+      "url": "/corporate/privacy-and-cookies/employment",
+      "image": {}
+     },
+     {
+      "title": "Event data from mobile devices",
+      "url": "/corporate/privacy-and-cookies/event-data-from-mobile-devices",
+      "image": {}
+     },
+     {
+      "title": "External Recruitment",
+      "url": "/corporate/privacy-and-cookies/external-recruitment",
+      "image": {}
+     },
+     {
+      "title": "Oyster card",
+      "url": "/corporate/privacy-and-cookies/oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Privacy \u0026 data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "image": {}
+     },
+     {
+      "title": "Protect your data",
+      "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Road User Charging",
+      "url": "/corporate/privacy-and-cookies/road-user-charging",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/privacy-and-cookies/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/corporate/privacy-and-cookies/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Website privacy",
+      "url": "/corporate/privacy-and-cookies/website-privacy",
+      "image": {}
+     },
+     {
+      "title": "Wi-Fi data collection",
+      "url": "/corporate/privacy-and-cookies/wi-fi-data-collection",
+      "image": {}
+     },
+     {
+      "title": "Your information rights",
+      "url": "/corporate/privacy-and-cookies/your-information-rights",
+      "image": {}
+     },
+     {
+      "title": "Zip Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/18-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Privacy \u0026 cookies",
+     "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Information Commissioner's Office",
+      "url": "http://www.ico.org.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

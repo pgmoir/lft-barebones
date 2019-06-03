@@ -1,0 +1,153 @@
+{
+ "pageTitle": "Live bus arrivals",
+ "keywords": "TfL",
+ "description": "Get live bus arrivals for London on web, mobile, SMS and at your bus stop",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Buses",
+   "url": "/modes/buses/index"
+  },
+  {
+   "title": "Live bus arrivals"
+  }
+ ],
+ "title": {
+  "title": "Live bus arrivals",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out when your bus will arrive at your local stop. Check online on your PC, tablet or smartphone, use our automated Facebook Messenger TravelBot or text us and we'll reply with live bus arrival information for your stop.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Online and mobile\"}",
+     "You can \u003ca href=\"http://www.tfl.gov.uk/travel-information/stations-stops-and-piers/\"\u003echeck live bus arrival times\u003c/a\u003e - just search for your stop or choose your route number and we'll show you a list of bus arrival times.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Facebook TravelBot\"}",
+     "Use our \u003ca href=\"https://www.messenger.com/t/tfltravelbot\"\u003eautomated service on Facebook Messenger\u003c/a\u003e to find out when your next bus is due The service is free and uses our latest data.",
+     "To check, type something like: 'When's the next bus' or 'next bus'. You will then be asked to share your phone's location, or enter the bus stop code if you know it.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Text message\"}",
+     "Send a text to 87287 with your bus stop code and we'll send a reply with live bus arrival information for that stop. From overseas networks, usespan",
+     "Texts cost the standard network rate, plus a 12p charge to receive the response. Texts via overseas networks are charged at the network's standard roaming rate only, but are limited to five per day. See our \u003ca href=\"/corporate/terms-and-conditions/live-bus-departure-information\"\u003eterms and conditions\u003c/a\u003e for more details.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/next-bus-information.gif\",\"alt\":\"Bus stop code sign\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find the bus stop code\"}",
+     "The bus stop code is a black, five-digit number on a sign above the timetable.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Countdown signs\"}",
+     "Our Countdown Signs provide live bus arrival information at 2,500 stops in London. New technology means improved readability for all our passengers.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Temporary removal of signs\"}",
+     "We sometimes have to temporarily remove the Countdown Signs so that we can repair or upgrade shelters. View the list of affected bus stops:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Temporary Countdown sign removals\",\"url\":\"/cdn/static/cms/documents/temporary-countdown-sign-removals.pdf\",\"icon\":\"download\",\"size\":\"PDF 81KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Depending on the complexity of the work, it can take some time before we put the sign back. Until then, please use this site or text us to get live bus arrival information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Digital Signs\"}",
+     "If you're an organisation keen to offer employees and customers the benefits of live bus arrival information on your premises, the Digital Sign is the solution.",
+     "The Digital Sign can display up to four bus stops on your organisation's TV screens and PCs, and is ideal for venues like hospital receptions, town halls, schools, colleges and shopping centres.",
+     "Find out more about \u003ca href=\"/info-for/business-and-commercial/travel-for-business/digital-signs\"\u003eDigital Signs\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Buses",
+    "links": [
+     {
+      "title": "Changes to bus routes",
+      "url": "/modes/buses/bus-service-changes",
+      "image": {}
+     },
+     {
+      "title": "Live bus arrivals",
+      "url": "/modes/buses/live-bus-arrivals",
+      "image": {}
+     },
+     {
+      "title": "Improving buses",
+      "url": "/modes/buses/improving-buses",
+      "image": {}
+     },
+     {
+      "title": "Who runs your bus",
+      "url": "/modes/buses/who-runs-your-bus",
+      "image": {}
+     },
+     {
+      "title": "Cash free buses",
+      "url": "/modes/buses/cash-free-buses",
+      "image": {}
+     },
+     {
+      "title": "Demand responsive bus service",
+      "url": "/modes/buses/demand-responsive-bus-service",
+      "image": {}
+     },
+     {
+      "title": "Using buses in London",
+      "url": "/modes/buses/using-buses-in-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Buses",
+     "url": "/modes/buses/using-buses-in-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Terms \u0026 conditions",
+      "url": "/corporate/terms-and-conditions/live-bus-departure-information",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

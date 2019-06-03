@@ -1,0 +1,67 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Jubilee line raises land value by estimated £2.8billion at Canary Wharf and Southwark Tube stations",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A report published today by Transport for London (TfL) suggests that the uplift in land values attributed to the Jubilee Line Extension is in the region of £2.8billion in the proximity of Canary Wharf and Southwark Underground stations."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The pilot study, conducted by globally integrated real estate services and money management firm Jones Lang LaSalle*, found that there has been a positive impact on local property market values.",
+     "The conclusions of the report, 'Land \u0026 Property Value Study - Assessing the Change in Land \u0026 Property Values Attributable to the Jubilee Line Extension' are that the estimated uplift in land values is in a wide range, but in the order of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"£2billion around Canary Wharf Underground station;\",\"£800million around Southwark Underground station.\"]}",
+     "Jones Lang LaSalle were commissioned by TfL to undertake a pilot study and assess the impact of the Jubilee Line Extension (JLE) on land values at two stations, Southwark and Canary Wharf.",
+     "The methodology agreed at the outset with TfL involved using property market evidence to assess value, applying this value appropriately to the property stock in the defined study areas, and then estimating the effect of the JLE by comparison with controls not materially affected by it.",
+     "For media enquiries contact the TfL press office on 020 7941 4141/4881."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

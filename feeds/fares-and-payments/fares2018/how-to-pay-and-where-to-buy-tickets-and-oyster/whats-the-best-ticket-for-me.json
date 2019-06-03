@@ -1,0 +1,143 @@
+{
+ "keywords": "TfL,Oyster card, contactless, Travelcards, Point to point tickets, Bus \u0026 Tram Pass, free and discounted travel, tickets",
+ "description": "Information on the different ways to pay for travel in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "How to pay and where to buy tickets and Oyster",
+   "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster"
+  },
+  {
+   "title": "What's the best ticket for me?"
+  }
+ ],
+ "title": {
+  "title": "What's the best ticket for me?",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We'll help you choose the best way to pay for your travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/best-ticket-for-me-large.jpg\",\"alt\":\"Directional signpost with different ticket types\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay as you go\"}",
+     "You can use contactless (card or device) or an Oyster card to pay as you go on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line and River Bus services.",
+     "You can also travel on most National Rail services in London and some \u003ca href=\"/fares-and-payments/fares2018/find-fares/national-rail-fares-beyond-zone-9\"\u003eoutside London\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster card\"}",
+     "You can use an \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster card\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"You only pay for the journeys you make\",\"Travel all over the transport network at any time\",\"Your fares may be \\u003ca href=\\\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps\\\"\\u003ecapped\\u003c/a\\u003e so you don't pay more (cheaper than a Day Travelcard) if you make multiple journeys in one day\",\"Top up your card and check your journey history with a \\u003ca href=\\\"https://contactless.tfl.gov.uk/\\\"\\u003econtactless and Oyster account\\u003c/a\\u003e or our free \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\\\"\\u003eTfL Oyster and contactless app\\u003c/a\\u003e \",\"If you're visiting London, you can also buy a \\u003ca href=\\\"/travel-information/visiting-london/visitor-oyster-card\\\"\\u003eVisitor Oyster card\\u003c/a\\u003e and get special offers and discounts\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contactless\"}",
+     "You can use \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e (card or device).",
+     "{\"template\":\"bulletlist\",\"items\":[\"You only pay for the journeys you make\",\"Pay for your journeys as you travel with no need to top up\",\"Travel all over the transport network at any time\",\"Your fares may be \\u003ca href=\\\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps\\\"\\u003ecapped\\u003c/a\\u003e so you don't pay more if you make multiple journeys in one day or week (Monday to Sunday)\",\"Check your journey history with a \\u003ca href=\\\"https://contactless.tfl.gov.uk/\\\"\\u003econtactless and Oyster account\\u003c/a\\u003e or our free \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\\\"\\u003eTfL Oyster and contactless app\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelcards\"}",
+     "You can use a \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eTravelcard\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Benefits\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Make unlimited journeys in the zones covered by your Travelcard\",\"Travel on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line, River Bus and National Rail services in London\",\"7 Day, Monthly, odd period and Annual Travelcards are available to save you time and money\",\"Day Travelcards are available for Zones 1-9 (using pay as you go with daily \\u003ca href=\\\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps\\\"\\u003ecapping\\u003c/a\\u003e is cheaper)\",\"Group Day Travelcards are available for groups of ten or more\",\"If you're visiting London, you can also buy a 2 Day or 3 Day \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/best-ways-for-visitors-to-pay/visitor-pass\\\"\\u003eVisitor Pass\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Point to point tickets\"}",
+     "You can use \u003ca href=\"http://www.nationalrail.co.uk/times_fares/ticket_types.aspx\"\u003epoint to point tickets\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Benefits\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Get unlimited travel between any two National Rail stations which is cheaper than a Travelcard\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus \\u0026 Tram Pass\"}",
+     "You can use a \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\"\u003eBus \u0026 Tram Pass\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Benefits\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Unlimited journeys on all buses and trams across London\",\"7 Day, Monthly or Annual Bus \\u0026 Tram Passes are available to save you time and money\",\"One Day Bus \\u0026 Tram Pass is available (using pay as you go with daily \\u003ca href=\\\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps\\\"\\u003ecapping\\u003c/a\\u003e is cheaper)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Free and discounted travel\"}",
+     "You can get \u003ca href=\"/fares-and-payments/fares2018/free-and-discounted-travel\"\u003efree and discounted travel\u003c/a\u003e depending on your age or need:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/5-10-zip-oyster-photocard\\\"\\u003e5-10 Zip Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/11-15-zip-oyster-photocard\\\"\\u003e11-15 Zip Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/16-plus-zip-oyster-photocard\\\"\\u003e16+ Zip Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/18-plus-student-oyster-photocard\\\"\\u003e18+ Student Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/apprentice-oyster-photocard\\\"\\u003eApprentice Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/60-plus-oyster-photocard\\\"\\u003e60+ London Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/freedom-pass\\\"\\u003eFreedom Pass\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/veterans-oyster-photocard\\\"\\u003eVeterans Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/national-railcard-discount\\\"\\u003eNational Railcard discount\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/annual-gold-card-discount\\\"\\u003eAnnual Gold Card discount\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/bus-and-tram-discount\\\"\\u003eBus and Tram discount\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/jobcentre-plus-travel-discount\\\"\\u003eJobcentre Plus Travel Discount\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel/travel-for-schools\\\"\\u003eTravel for schools\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "How to pay and where to buy tickets and Oyster",
+    "links": [
+     {
+      "title": "What's the best ticket for me?",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/whats-the-best-ticket-for-me",
+      "image": {}
+     },
+     {
+      "title": "Buying tickets and Oyster",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/buying-tickets-and-oyster",
+      "image": {}
+     },
+     {
+      "title": "TfL Oyster and contactless app",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+      "image": {}
+     },
+     {
+      "title": "Pay as you go",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go",
+      "image": {}
+     },
+     {
+      "title": "Travelcards and group tickets",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets",
+      "image": {}
+     },
+     {
+      "title": "Single and return tickets",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets",
+      "image": {}
+     },
+     {
+      "title": "Bus \u0026 Tram Pass",
+      "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "How to pay and where to buy tickets and Oyster",
+     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

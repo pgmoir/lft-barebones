@@ -1,0 +1,193 @@
+{
+ "pageTitle": "Improving London's roads",
+ "keywords": "TfL",
+ "description": "At any one time we are running dozens of projects to improve bridges, tunnels and major roads in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Improving London's roads"
+  }
+ ],
+ "title": {
+  "title": "Improving London's roads",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "title": "At any one time we're running hundreds of projects designed to improve living and travelling conditions in London's public spaces.",
+    "texts": [
+     "This includes work to create safer, greener and more attractive streets and town centres, and safer conditions for cyclists and pedestrians - part of the Mayor of London's commitment to the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets approach\u003c/a\u003e .",
+     "Working with the boroughs, we also make large scale improvements to bridges, tunnels and major roads to allow people and vehicles to move more efficiently, safely and reliably around the network."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "How we manage London's roads",
+    "texts": [
+     "We manage key routes in London, and all of the Capital's traffic lights"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/what-we-do/roads",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/london-roads-skyline-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Traffic status updates",
+    "texts": [
+     "Check before you travel using live traffic information"
+    ],
+    "link": {
+     "url": "/traffic/status/",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/traffic-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Improvements and projects",
+    "texts": [
+     "What we're currently working on around London"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/index",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Major works and events",
+    "texts": [
+     "Upcoming works and events that could affect your journey, and advice to help you plan"
+    ],
+    "link": {
+     "url": "/status-updates/major-works-and-events",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Improving London's roads",
+    "link": {
+     "title": "Improving London's roads",
+     "url": "/campaign/our-plan-for-londons-roads",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "links": [
+     {
+      "title": "Ardleigh Green Bridge",
+      "url": "/travel-information/improvements-and-projects/a127-ardleigh-green-bridge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Power Road Bridge",
+      "url": "/travel-information/improvements-and-projects/power-road-bridge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Highbury Corner",
+      "url": "/travel-information/improvements-and-projects/highbury-and-islington",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "See all projects",
+      "url": "https://tfl.gov.uk/travel-information/improvements-and-projects/?Category=Roads",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Check before you travel",
+    "texts": [
+     "Sign up for our free weekly email to get advance warning of planned closures and major trouble spots."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLTrafficNews",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Find current consultations",
+      "url": "https://consultations.tfl.gov.uk/consultation_finder",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Streets toolkit",
+      "url": "/corporate/publications-and-reports/streets-toolkit",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

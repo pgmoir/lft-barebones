@@ -1,0 +1,246 @@
+{
+ "pageTitle": "Transport accessibility",
+ "keywords": "TfL",
+ "description": "TfL transport accessibility in London landing page",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transport accessibility"
+  }
+ ],
+ "title": {
+  "title": "Transport accessibility",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Stations, lifts and escalators",
+    "texts": [
+     "See which stations, lifts and escalators are out of service for planned works"
+    ],
+    "link": {
+     "url": "/status-updates/stations-lifts-and-escalators-works-and-closures",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/8370-sm.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Plan an accessible journey",
+    "texts": [
+     "How to use our accessibility services, maps and travel tools to plan your journey"
+    ],
+    "link": {
+     "url": "/transport-accessibility/plan-an-accessible-journey",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/journey-planner_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Step-free access",
+    "texts": [
+     "Advice on using the different kinds of transport across the TfL network"
+    ],
+    "link": {
+     "url": "/transport-accessibility/wheelchair-access-and-avoiding-stairs",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/wheelchair-friendly-london-bridge_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Help while travelling",
+    "links": [
+     {
+      "title": "Getting help from staff",
+      "url": "/transport-accessibility/help-from-staff",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Priority seating and other features",
+      "url": "/transport-accessibility/features-on-board",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Please offer me a seat badge",
+      "url": "/transport-accessibility/please-offer-me-a-seat",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Travelling with sight or hearing loss",
+      "url": "/transport-accessibility/people-with-sight-or-hearing-loss",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Public transport support and mentoring",
+      "url": "/transport-accessibility/learn-to-use-public-transport",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Travelling in London",
+    "links": [
+     {
+      "title": "Using the pavement",
+      "url": "/transport-accessibility/road-users-and-pedestrians",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Blue Badges and driving",
+      "url": "/transport-accessibility/blue-badges-and-driving",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Fares and tickets: discounted travel",
+      "url": "/transport-accessibility/fares-and-tickets",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Accessibility guides and maps",
+      "url": "/transport-accessibility/accessibility-guides-and-maps",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Travelling with an assistance dog",
+      "url": "/transport-accessibility/assistance-dogs",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Pregnant women and buggy users",
+    "texts": [
+     "Everything from ordering a Baby on Board badge to checking out buggies"
+    ],
+    "link": {
+     "url": "/transport-accessibility/pregnant-women-and-pushchairs",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/3349-sm_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Door-to-door transport services",
+    "texts": [
+     "Help if you need transport to your door or additional support to travel"
+    ],
+    "link": {
+     "url": "/transport-accessibility/door-to-door-transport-services",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxi-290-sm_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Policies and commitments",
+    "links": [
+     {
+      "title": "Equality and assistance policies",
+      "url": "/transport-accessibility/equality-policy-and-future-plans",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Website accessibility",
+      "url": "/corporate/website-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact us about accessibility",
+      "url": "/transport-accessibility/contact-us-about-accessibility",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Accessible travel in London",
+    "texts": [
+     "Download your guide to the help and support that's available"
+    ],
+    "links": [
+     {
+      "title": "Accessible travel in London",
+      "url": "/cdn/static/cms/documents/accessible-travel-web.pdf",
+      "icon": "download",
+      "size": "PDF 981KB",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

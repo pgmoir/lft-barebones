@@ -1,0 +1,265 @@
+{
+ "pageTitle": "Cookies",
+ "keywords": "TfL",
+ "description": "Information on what cookies may be set when you visit a TfL website and how to manage them",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "Cookies"
+  }
+ ],
+ "title": {
+  "title": "Cookies ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page is about the cookies and similar technologies that may be set on your device when you visit a TfL website, and how you can manage them.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This Cookies policy applies to the websites of TfL and its subsidiary companies, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Santander Cycles\",\"Congestion Charging\",\"Docklands Light Railway\",\"Journey Planner\",\"London Overground\",\"London Transport Museum\",\"London Underground\",\"Oyster\",\"Contactless payment\",\"Taxi and Private Hire\",\"TfL Shop\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What cookies are\"}",
+     "When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device (eg computer or mobile phone). These include small files known as cookies, and other technologies which conduct a very similar function of understanding people's behaviour while using websites and mobile applications. They can sometimes be used to provide information about your device or its approximate location through the unique IP address associated with it.",
+     "These pieces of information are used to improve services for you by, for example:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Enabling a service to recognise your device so you don't have to give the same information several times during one task\",\"Recognising that you may already have given a username and password so you don't need to do it for every web page requested\",\"Remembering your previously searched journeys on our journey planner so you can complete the same search quicker and easier\",\"Storing bus routes, roads and tube lines that you have chosen to add to your favourites on your device so the TfL website will be personalised on your device when you next return\",\"Measuring how many people are using our online services, so they can be made easier to use and there's enough capacity to ensure they are fast\",\"Analysing anonymised data to help us understand how people interact with our site so we can make it better\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changing your cookie settings\"}",
+     "We use cookies based on your 'implied consent'. This means that if you continue to use our website, we will assume you are happy for us to set cookies. If you aren't, then there are a number of things you can do. We currently have plans to update the way you give consent for us to use cookies - to make it easier and clearer.",
+     "You can set your web browser (eg Chrome, Firefox, Internet Explorer etc) to disable all cookies; allow only 'trusted' sites to set them; or to accept cookies from websites only for the duration of your visit. However, please be aware that if you choose to delete or restrict cookies, some features of our website may not work.",
+     "Find out how to manage cookies on popular browsers:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop\\u0026hl=en\\\"\\u003eGoogle Chrome\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy\\\"\\u003eMicrosoft Edge\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences\\\"\\u003eMozilla Firefox\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies\\\"\\u003eMicrosoft Internet Explorer\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.opera.com/help/tutorials/security/privacy/\\\"\\u003eOpera\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac\\\"\\u003eApple Safari\\u003c/a\\u003e \"]}",
+     "You can also visit the \u003ca href=\"http://www.aboutcookies.org/\"\u003eAboutCookies website\u003c/a\u003e , for more information about cookies and how to manage them.",
+     "We sometimes use external suppliers to deliver services on our behalf, which means these cookies may be set by a third party (third-party cookies). We do not control these cookies so if you would like more information about them or information on how to opt out, please see their individual privacy policies (listed below). You can also go to \u003ca href=\"http://www.youronlinechoices.com/uk/\"\u003eyouronlinechoices.com/UK/\u003c/a\u003e to find out more about third-party advertising cookies.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our cookies and what they do\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Strictly necessary cookies\"}",
+     "Without these essential cookies, our website won't work properly. They help you move around secure areas of the website and carry out specific tasks, like journey planning or making a payment.",
+     "{\"template\":\"bulletlist\",\"items\":[\"AMWEBJCT!%2Fb!JSESSIONID\",\"TfLAuth\",\"TfL_Session\",\"__RequestVerificationToken\",\"BIGipServerSSO_Account_Pool\",\"JSESSIONID\",\"__cfduid\",\"JSESSIONID\",\"ASP.NET_SessionId\",\".CSCAuth\",\"ARRAffinity\",\"Cust_Port\",\"Tfl.CycleHire.Authentication\",\".ASPXAUTH\",\"_forum_session\",\"_t\",\"isAuthorize\",\"FedAuth\",\"PD-S-SESSION-ID\",\"AMWEBJCT!%2Fb!LtpaToken2\",\"NSC_wtws-umkxt-80\",\"PD-ID\",\"AMWEBJCT!%2Fb!LtpaToken\",\"AMWEBJCT!%2Fb!CP\",\"JSESSIONID\",\"ASP.NET_SessionId\",\"Lchssession\",\"cy_track_user\",\"other\",\"trx_id\",\"Paymentnew_id\",\"TESTCOOKIE\",\"test4.sol\",\"settings.sol\"]}",
+     "Strictly necessary local storage",
+     "{\"template\":\"bulletlist\",\"items\":[\"BIGipServerSSO_Account_Pool\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Remember information you've entered in a form or details about a\\n    payment you want to make. Without them, this would be lost every time\\n    you moved to a new page\",\"If you're signed in to a secure area, like Oyster online, they\\n    recognise that you have already signed in. Without them, you'd need to\\n    sign in each time you moved to a new page\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Performance cookies\"}",
+     "These cookies collect anonymous information about how visitors use\nour website - for example, the most popular pages and any error pages you\nsee. We use this aggregated information to improve our website. We\ndon't collect any information that identifies you as an individual.",
+     "{\"template\":\"bulletlist\",\"items\":[\"__utma\",\"__utmb\",\"__utmc\",\"__utmt\",\"__utmz\",\"_ga\",\"_gid\",\"_gid\",\"ai_authUser\",\"ai_session\",\"ai_user\",\"CTG\",\"CTG\",\"extcamp\",\"MFADFlightViewTimes\",\"MFADUser\",\"s_cc\",\"s_evar1\",\"s_fid\",\"s_nr\",\"s_ppv\",\"s_sq\",\"s_vi\",\"s_vnum\",\"undefined_s\",\"utag_main\",\"WSS_GW\",\"WSS_GW\"]}",
+     "Performance local storage",
+     "{\"template\":\"bulletlist\",\"items\":[\"grouping_EU, location\",\"tealium_timing\"]}",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Give us an overall picture of how people use our website by telling\\n    us things like the number of visitors to each page and what people do on\\n    a page\",\"Allow us to test out ideas to find out what's working and what could\\n    be improved. We do this by seeing what people click on and how they\\n    move through the site\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Functionality cookies\"}",
+     "Functionality cookies record information about choices you've made\nand allow us to tailor the website to your needs. They may also take the\nform of Flash cookies, which are stored in your Adobe Flash Player\nrather than your browser, and control your preferences when watching\nonline videos or listening to recordings. The \u003ca href=\"http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html\"\u003eAdobe website\u003c/a\u003e has comprehensive information on how to delete or disable Flash cookies.",
+     "{\"template\":\"bulletlist\",\"items\":[\"cookiePolicyGdprNoticeHidden\",\"discourse_desktop_notifications_focus-tracker\",\"discourse_emojis_emojiUsage\",\"fsr.r\",\"fsr.s\",\"fsr.STORAGE\",\"hpp\",\"IFR_tfl.gov.uk_fsr.a\",\"oysterCookiePolicy\",\"PREF\",\"refreshFavourites\",\"safeLocalStorage\",\"settings.sol\",\"username\"]}",
+     "Functionality local storage",
+     "{\"template\":\"bulletlist\",\"items\":[\"__/cdn/static/feed/stations-list_typeahead\",\"favourites\",\"favouritesAuth\",\"has-personalisation-used\",\"recentMagicSearches\",\"seenOnboarding\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Remember any settings you've applied, such as layout, text size, preferences or colours\",\"Remember if we've already asked you if you want to complete a survey\",\"Show you when you're logged in to the website\",\"Enable us to share information with partners who provide a service\\n    on our site. This is only to provide the service, product or function,\\n    not for any other purpose\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Advertising cookies\"}",
+     "These cookies are used to show you adverts relevant to you and your\ninterests. They are also used to limit the number of times you see an\nadvert, as well as help measure the effectiveness of advertising\ncampaigns. They are usually placed by advertising networks, with our\npermission.",
+     "We also share information about your use of our site with our advertising and analytics partners. They may combine it with other information that you've provided to them or that they've collected from your use of their services. They remember that you have visited a website and this\ninformation is shared with other organisations, such as advertisers.",
+     "Please be aware that these cookies are not controlled by TfL. If you\nwould like more information about the cookies used by the companies or\nadvertising networks we use, as well as information on how to opt out,\nplease see their individual privacy policies (listed below).",
+     "Please note that while you can change your preferences regarding tailored marketing, the TfL website will still contain generic advertisements.",
+     "To opt out of being tracked by Google Analytics across all websites you view, you can \u003ca href=\"https://tools.google.com/dlpage/gaoptout\"\u003edownload and install a browser add-on\u003c/a\u003e created by Google Analytics for this purpose",
+     "{\"template\":\"bulletlist\",\"items\":[\"These cookies collect information about your browsing habits to make advertising content more relevant to you and your interests\"]}",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"__apcv\",\"__ascv\",\"__cpcv\",\"__cscv\",\"__gads\",\"__lpcv\",\"__lscv\",\"__mpcv\",\"__mscv\",\"__qca\",\"__spcv\",\"__upcv\",\"_cc_aud\",\"_cc_cc\",\"_cc_dc\",\"_cc_id\",\"1P_JAR\",\"ad-id\",\"ad-privacy\",\"bcookie\",\"CONSENT\",\"d\",\"DSID\",\"IDE\",\"lidc\",\"mc\",\"NID\"]}",
+     "Advertising local storage",
+     "{\"template\":\"bulletlist\",\"items\":[\"criteo_pt_cdb_metrics\"]}",
+     "This is specific to the display advertising on our sites. User data is anonymous.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Visit \\u003ca href=\\\"http://www.google.com/policies/technologies/ads/\\\"\\u003eGoogle's advertising privacy page\\u003c/a\\u003e \",\"Visit \\u003ca href=\\\"https://www.google.com/settings/u/0/ads?hl=en\\u0026sig=ACi0TCiUqNSZ1qqOSLEmJcN9VV39UIMIMRLag4U3mdgSlMU-WHNK6ECzQvgSVqvVKOxnE1t_GZc_x76c_kNVbT8TAHOdxkN2mJ7kBhDp2wOT206dGoTDnD7ekD-NBzCmksFJFkAXgLiO3G5QWwK6H305gP295q7VZ2JcgNdn0eB4cJCY8uqotlnBFi_tis5smllxi-tZLNCaDSbNHbXO6W7meVnNjqPPN9an20s3Ads9gm9JsRgmGgCaE-yxdBhKBf4hRfGe0zf1\\\"\\u003eGoogle's advertising preferences page\\u003c/a\\u003e \"]}",
+     "We use Lotame, a third-party data management company, to help deliver relevant advertising to you. Lotame links information about your browsing to your IP address and device to do so.",
+     "{\"template\":\"bulletlist\",\"items\":[\"View \\u003ca href=\\\"https://www.lotame.com/legal/\\\"\\u003eLotame's privacy policy\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.lotame.com/opt-out-preference-manager/\\\"\\u003eOpt out of Lotame's data collection\\u003c/a\\u003e \"]}",
+     "The Council Advertising Network is responsible for delivering advertising on the TfL website. Please read their privacy policy which includes cookie information and details on how to opt out.",
+     "{\"template\":\"bulletlist\",\"items\":[\"View \\u003ca href=\\\"http://www.counciladvertising.net/can-privacy-policy.html\\\"\\u003eCouncil Advertising Network's privacy policy\\u003c/a\\u003e \"]}",
+     "We'll always keep our cookies lists as up to date as possible.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Embedded content\"}",
+     "Sometimes, we embed images or videos from websites such as \u003ca href=\"http://www.youtube.com/\"\u003eYouTube\u003c/a\u003e .\nAs a result, when you visit a page featuring such content, you may be\npresented with cookies from these websites. We do not control these\ncookies and cannot prevent these sites or domains from collecting\ninformation on your use of this content.",
+     "You should check the relevant third-party website for more\ninformation about them and how to opt out. If you are not logged in to\ntheir services, they will not know who you are but may still gather\nanonymous usage information (eg number of views, plays, loads etc).",
+     "Read more about \u003ca href=\"https://support.google.com/youtube/answer/171780?hl=en-GB\"\u003eYouTube's privacy policy for embedded content\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Social networking and sharing tools\"}",
+     "On some pages, we also feature embedded 'Share' buttons or widgets\nthat enable you to share content with friends through a number of\npopular social networking sites (eg Google+1; Twitter; Facebook\n'Like' etc).",
+     "These sites may set cookies which can identify you as an individual\nwhen you are also logged in to their services. This means they may be\ncollecting information about what you are doing all around the internet,\nincluding on TfL sites. We do not control these cookies and you should\ncheck the relevant third-party website to see how your information is\nused and how to opt out.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What web beacons are\"}",
+     "Some of our pages contain electronic images known as web beacons (or\nclear gifs), which allow us to count the number of visitors to these\npages. Web beacons are usually only used to track the effectiveness of a\nparticular advertisement, link or campaign. Some of these web beacons\nmay be placed by third-party advertisers.\nYou can visit the \u003ca href=\"http://www.allaboutcookies.org/faqs/beacons.html\"\u003eAllAboutCookies website\u003c/a\u003e to find out more about web beacons.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Changes to this page\"}",
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions.  This page was last updated in May 2018."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Privacy \u0026 cookies",
+    "links": [
+     {
+      "title": "Access your data",
+      "url": "/corporate/privacy-and-cookies/access-your-data",
+      "image": {}
+     },
+     {
+      "title": "Bus data collection pilot",
+      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
+      "image": {}
+     },
+     {
+      "title": "Capital Call",
+      "url": "/corporate/privacy-and-cookies/capital-call",
+      "image": {}
+     },
+     {
+      "title": "CCTV \u0026 surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "image": {}
+     },
+     {
+      "title": "Compulsory purchase",
+      "url": "/corporate/privacy-and-cookies/compulsory-purchase",
+      "image": {}
+     },
+     {
+      "title": "Contactless payment",
+      "url": "/corporate/privacy-and-cookies/contactless-payment",
+      "image": {}
+     },
+     {
+      "title": "Cookies",
+      "url": "/corporate/privacy-and-cookies/cookies",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/corporate/privacy-and-cookies/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "Employment",
+      "url": "/corporate/privacy-and-cookies/employment",
+      "image": {}
+     },
+     {
+      "title": "Event data from mobile devices",
+      "url": "/corporate/privacy-and-cookies/event-data-from-mobile-devices",
+      "image": {}
+     },
+     {
+      "title": "External Recruitment",
+      "url": "/corporate/privacy-and-cookies/external-recruitment",
+      "image": {}
+     },
+     {
+      "title": "Oyster card",
+      "url": "/corporate/privacy-and-cookies/oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Privacy \u0026 data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "image": {}
+     },
+     {
+      "title": "Protect your data",
+      "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Road User Charging",
+      "url": "/corporate/privacy-and-cookies/road-user-charging",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/privacy-and-cookies/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/corporate/privacy-and-cookies/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Website privacy",
+      "url": "/corporate/privacy-and-cookies/website-privacy",
+      "image": {}
+     },
+     {
+      "title": "Wi-Fi data collection",
+      "url": "/corporate/privacy-and-cookies/wi-fi-data-collection",
+      "image": {}
+     },
+     {
+      "title": "Your information rights",
+      "url": "/corporate/privacy-and-cookies/your-information-rights",
+      "image": {}
+     },
+     {
+      "title": "Zip Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/18-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Privacy \u0026 cookies",
+     "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

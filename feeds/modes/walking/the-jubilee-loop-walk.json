@@ -1,0 +1,169 @@
+{
+ "pageTitle": "The Jubilee Loop",
+ "keywords": "TfL",
+ "description": "Section five of the Jubilee Walkway, called the Jubilee Loop Walk, offers a final trip around Buckingham Palace and other iconic buildings.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Jubilee Walkway",
+   "url": "/modes/walking/jubilee-walkway"
+  },
+  {
+   "title": "The Jubilee Loop"
+  }
+ ],
+ "title": {
+  "title": "The Jubilee Loop ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Section five of the Jubilee Walkway, called the Jubilee Loop Walk, offers a final trip around Buckingham Palace and other iconic buildings.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route information\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Section start and finish: The Jubilee Walkway panel on the southern side of Trafalgar Square\",\"Nearest public transport to the start: Charing Cross (Tube and Rail)\",\"Section distance: 2 miles (3 km)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Trafalgar Square\",\"Admiralty Arch\",\"The Mall\",\"St James's Park\",\"Buckingham Palace\",\"Parliament Square\",\"Westminster Abbey\",\"Houses of Parliament\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Map\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"The Jubilee Loop Walk section 5\",\"url\":\"/cdn/static/cms/documents/jubilee-walkway-route-section-five.pdf\",\"icon\":\"download\",\"size\":\"PDF 750KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "The Western Loop",
+      "url": "/modes/walking/western-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "The Eastern Loop",
+      "url": "/modes/walking/eastern-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "The City Loop",
+      "url": "/modes/walking/the-city-loop",
+      "image": {}
+     },
+     {
+      "title": "The Camden Loop",
+      "url": "/modes/walking/the-camden-loop",
+      "image": {}
+     },
+     {
+      "title": "The Jubilee Loop",
+      "url": "/modes/walking/the-jubilee-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "pageTitle": "New taxi fares announced by Transport for London",
+ "description": "The fare prices, approved by the TfL Board on 8 February following consultation with the taxi trade by the Public Carriage Office, take into account increases in taxi operating costs and increases in national average earnings including an 11 per cent",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "New taxi fares announced by Transport for London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Taxi fares are set to rise by 3.7 per cent in order to help drivers cover increased costs of running a cab, Transport for London (TfL) announced today. The new fares will begin on Saturday 1 April."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Cab drivers are self-employed, meaning they earn less if operating costs increase",
+     "The fare prices, approved by the TfL Board on 8 February following consultation with the taxi trade by the Public Carriage Office, take into account increases in taxi operating costs and increases in national average earnings including an 11 per cent increase in fuel costs.",
+     "They are designed to support the industry by maintaining income levels.",
+     "The new fares include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"An increase of 3.7 per cent in average fares across all times of the day to cover increases in operating costs\",\"An increase in the Christmas and New Year supplement, up from £3 to £4 (last increased in 1999) which is designed to encourage more drivers to work over this busy period\",\"An increase in the Heathrow supplement, up from £1 to £2 to cover some of the cost of an increased levy imposed by airport authorities on drivers\"]}",
+     "Mayor of London Ken Livingstone said: \"These new taxi fare levels take into account the growing the costs of running a black cab.",
+     "\"Cab drivers are self-employed, meaning they earn less if operating costs increase.",
+     "\"I believe the fare increases strike the right balance between maintaining income levels for drivers while ensuring passengers still get a fair deal for a high quality and unique service.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"The 3.7 per cent is in line with the increase in the cost index in use since \\n1981. The index, agreed with the taxi trade, combines changes in operating costs \\nwith national earnings to produce a change in average fares\",\"The Christmas and New Year supplement is payable between 8pm on 24 December \\nand 6am on 27 December and between 8pm on 31 December and 6am on 2 January\",\"The Heathrow supplement is a contribution from passengers towards the costs \\nincurred by drivers for serving the Heathrow taxi ranks and providing the \\ninformation and booking desks at the Heathrow terminals. The supplement will \\ncover half the costs incurred by the driver\",\"There is an environmental charge of 20p per journey introduced by the Mayor \\nin December 2004. This charge, over and above the usual cost of living rise, was \\nintroduced, subject to a review after three years, to meet the cost of \\nconverting taxis to reach new environmental standards as part of the Mayor's \\ncommitment to make London a Low Emission Zone. The 3.7 per cent increase \\nexcludes the 20p environmental supplement\",\"The Public Carriage Office, as part of TfL, is responsible for licensing and \\nregulating London's taxi and private hire services\"]}",
+     "\u003cstrong\u003estrong\u003c/strong\u003e ",
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCurrent average\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eNew average\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eIncrease (£)\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eIncrease (%)\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eTariff 1\\u003c/strong\\u003e \",\"£8.77\",\"£9.09\",\"£0.32\",\"3.7%\"],[\"\\u003cstrong\\u003eTariff 2\\u003c/strong\\u003e \",\"£10.17\",\"£10.55\",\"£0.38\",\"3.7%\"],[\"\\u003cstrong\\u003eTariff 3\\u003c/strong\\u003e \",\"£11.92\",\"£12.37\",\"£0.45\",\"3.7%\"],[\"\\u003cstrong\\u003eAll week\\u003c/strong\\u003e \",\"£9.69\",\"£10.05\",\"£0.36\",\"3.7%\"]]}",
+     "\u003cstrong\u003eAverage Fares (incl 20p environmental charge)\u003c/strong\u003e ",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eCurrent average\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eNew average\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eIncrease (£)\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eIncrease (%)\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003eTariff 1\\u003c/strong\\u003e \",\"£8.97\",\"£9.29\",\"£0.32\",\"3.6%\"],[\"\\u003cstrong\\u003eTariff 2\\u003c/strong\\u003e \",\"£10.37\",\"£10.75\",\"£0.38\",\"3.6%\"],[\"\\u003cstrong\\u003eTariff 3\\u003c/strong\\u003e \",\"£12.12\",\"£12.57\",\"£0.45\",\"3.7%\"],[\"\\u003cstrong\\u003eAll week\\u003c/strong\\u003e \",\"£9.89\",\"£10.25\",\"£0.36\",\"3.6%\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

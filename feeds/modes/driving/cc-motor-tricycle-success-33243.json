@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Your application can take up to 10 working days to process - we will contact you to let you know the outcome. In the meantime you need to pay the Congestion Charge if you drive within the zone.",
+     "The discount only applies to the Congestion Charge. If a vehicle does not meet the emission standards you will still need to pay the ULEZ charge.",
+     "You need to pay the Congestion Charge until your discount has been approved. Find out if you also need to pay the ULEZ charge by selecting 'Pay to drive in London'."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

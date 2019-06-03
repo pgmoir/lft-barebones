@@ -1,0 +1,268 @@
+{
+ "pageTitle": "Pay as you go fares information added to TfL's Journey Planner and open data feed",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2018",
+   "url": "/info-for/media/press-releases/2018"
+  },
+  {
+   "title": "July",
+   "url": "/info-for/media/press-releases/2018/july"
+  },
+  {
+   "title": "Pay as you go fares information added to TfL’s Journey Planner and open data feed"
+  }
+ ],
+ "title": {
+  "title": "Pay as you go fares information added to TfL’s Journey Planner and open data feed",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Latest improvements to TfL's online journey planning tool provides customers with adult 'pay as you go' fares for their trip"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Customers using TfL's Journey Planner can now see how much a planned journey on public transport in London will cost, following recent upgrades to help make planning journeys easier for customers.",
+     "More than 2.5 million people a month use this ( \u003ca href=\"https://tfl.gov.uk/plan-a-journey/\"\u003ehttps://tfl.gov.uk/plan-a-journey\u003c/a\u003e ) to plan their journeys on Tube, Bus and rail services in London.",
+     "The tool can calculate the quickest route from more than 225 million possible journey combinations on London's public transport, and automatically factors in any planned engineering works or disruption.",
+     "Results can also be filtered to only show step-free or accessible journeys or mode-specific journeys depending on customers' own preferences.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"More informed choices\"}",
+     "This latest update makes it easier for customers to see how much an adult 'pay as you go' fare is for any planned journey.",
+     "Customers can also view additional information to see how the fare is calculated, allowing them to make more informed choices about their journey.",
+     "Journey planner will also reflect the Mayor's Hopper fare, which offers unlimited bus and tram journeys within an hour for the price of one - helping to encourage more people to opt for buses to travel around the city.",
+     "Customers wishing to see fares information, including details of discounted fares and Travelcard options, can still do so using TfL's single fare finder at \u003ca href=\"http://www.tfl.gov.uk/fares\"\u003etfl.gov.uk/fares\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Extensive range of TfL data feeds\"}",
+     "As TfL's journey planning tool is powered directly from its open data API, the data will also be available to developers free of charge at \u003ca href=\"http://www.tfl.gov.uk/open-data\"\u003etfl.gov.uk/open-data\u003c/a\u003e and joins an extensive range of TfL data feeds already available.",
+     "These include live travel information for all TfL services, cycling data and details of planned roadworks and live road incidents.",
+     "More than 675 mobile phone and online apps are already powered by TfL's open data, providing up-to-the-minute information and helping millions of people plan their journeys around London each day.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improving walking options\"}",
+     "Throughout 2018, TfL will be making further improvements to its journey planner, as well as providing new data to its open data feeds.",
+     "These include improving walking options within Journey Planner to better highlight when it is the quickest option and better accessibility information across the TfL network.",
+     "Ben Gammon, Head of Digital at TfL, said: 'This latest update to our ever-growing journey planning tool makes it easier for customers to know the cost of a journey before they travel.",
+     "'By being open and transparent with our data, we can strengthen our relationship with our customers, encouraging more people to use public transport and other more sustainable forms of transport such as walking and cycling.'",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Innovative solutions\"}",
+     "As part of its wider work to encourage innovative solutions to London's pressing problems, TfL has recently launched two challenges for start-ups as part of the Mayor's Civic Innovation Challenge.",
+     "The challenges will look for tech start ups to help encourage all people to walk more instead of using polluting forms of transport as well as solutions which can help TfL deliver homes across London, in line with the London Plan.",
+     "This aligns with the Mayor's target of 80% of all Londoners' journeys to be on foot, by cycle or by public transport by 2041.",
+     "For more information about TfL's open data feeds, please visit \u003ca href=\"http://tfl.gov.uk/open-data\"\u003etfl.gov.uk/open-data\u003c/a\u003e ",
+     "\u003cstrong\u003eNotes to Editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"For technical briefings about how developers can utilise data from our open data API, please contact the TfL Press Office\",\"Customers are reminded that pay as you go fares are charged at the moment the smartcard is touched on the yellow reader and therefore may differ from the fares shown on Journey Planner. Fares may also be cheaper than the shown fare due to daily and weekly capping\",\"Should pay as you go with contactless and Oyster be extended to cover additional stations across the South East and surrounding counties, these fares would be added to the Journey Planner API\",\"According to the latest available data, the most popular journeys searched for using the TfL Journey Planner are:\"]}",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"\\u003cstrong\\u003eStart Point\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eEnd Point\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eFare (Adult pay as you go Peak / Off Peak)\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e1\\u003c/strong\\u003e \",\"Westminster Abbey\",\"Victoria\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e2\\u003c/strong\\u003e \",\"Kings Cross St. Pancras\",\"Chalfont \\u0026 Latimer\",\"\\u003cstrong\\u003e£6.90 Peak /  £4.00 Off Peak\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e3\\u003c/strong\\u003e \",\"Paddington\",\"Victoria\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e4\\u003c/strong\\u003e \",\"Paddington\",\"Kings Cross St. Pancras\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e5\\u003c/strong\\u003e \",\"Amersham\",\"Chalfont \\u0026 Latimer\",\"\\u003cstrong\\u003e£1.70 Peak / £1.50 Off Peak\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e6\\u003c/strong\\u003e \",\"Kings Cross St. Pancras\",\"Paddington\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e7\\u003c/strong\\u003e \",\"Railway St (Islington)\",\"South Kensington\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e8\\u003c/strong\\u003e \",\"Euston Station\",\"Watford Junction\",\"\\u003cstrong\\u003e£5.50 anytime\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e9\\u003c/strong\\u003e \",\"Liverpool Street Station\",\"Paddington\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"],[\"\\u003cstrong\\u003e10\\u003c/strong\\u003e \",\"Victoria\",\"Kings Cross St. Pancras\",\"\\u003cstrong\\u003e£2.40 anytime or £1.50 by bus only\\u003c/strong\\u003e \"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2018/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2018/february",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2018/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2018/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2018/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2018/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2018/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2018/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2018/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2018/december",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Your vehicle is now covered by the 100% recovery vehicle discount and you don't have to pay the charge from today. We will email a renewal reminder 25 days before your discount expires.",
+     "The discount only applies to the Congestion Charge. If a vehicle doesn't meet the emission standards you still need to pay the Ultra Low Emission Zone (ULEZ) charge.",
+     "We aim to process your application within 10 working days and will email you with the outcome. In the meantime you need to pay the Congestion Charge if you drive within the zone.",
+     "The discount only applies to the Congestion Charge. If a vehicle doesn't meet the emission standards you still need to pay the Ultra Low Emission Zone (ULEZ) charge.",
+     "You need to pay the Congestion Charge until your discount has been approved. Find out if you also need to pay the ULEZ charge by selecting 'Pay to drive in London'.",
+     "Set up Auto Pay to be billed automatically for the ULEZ. If your vehicle does not meet the emission standards you will need to \u003ca href=\"/modes/driving/pay-to-drive-in-london\"\u003epay the ULEZ charge\u003c/a\u003e when you drive in central London.",
+     "Set up Auto Pay to be billed automatically for the ULEZ. If your vehicle does not meet the emission standards you will need to \u003ca href=\"/modes/driving/pay-to-drive-in-london\"\u003epay the ULEZ charge\u003c/a\u003e when you drive in central London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

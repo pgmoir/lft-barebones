@@ -1,0 +1,20 @@
+<div class="lft-form-group">
+  <fieldset class="lft-fieldset" aria-describedby="<%= field.name %>-hint">
+    <legend class="lft-fieldset__legend lft-fieldset__legend--xl">
+      <label class="lft-fieldset__heading h3" for="<%= field.name %>">
+        <%= field.question %>
+      </label>
+    </legend>
+    <span id="<%= field.name %>-hint" class="lft-hint">
+      <%= field.hint %>
+    </span>
+    <% if (field.error) { %>
+    <span id="<%= field.name %>-error" class="lft-error-message">
+      <span class="lft-visually-hidden">Error:</span> <%= field.error %>
+    </span>
+    <% } %>
+    <div class="lft-text">
+      <input class="lft-input <% if (field.error) { %>lft-input--error<% } %>" id="<%= field.name %>"  name="<%= field.name %>" rows="5" aria-describedby="<%= field.name %>-hint" <% if (field.required) { %>required<% } %> type="text" value="<%= field.formvalue %>">
+    </div>
+  </fieldset>
+</div>

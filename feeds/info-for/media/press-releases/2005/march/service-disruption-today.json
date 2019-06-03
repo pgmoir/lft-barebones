@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Service disruption today",
+ "description": "Metronet is responsible for maintaining a large part of the Tube infrastructure - the track, trains, signals and stations.Services on the Victoria, Piccadilly and District lines were severely delayed and in some cases suspended, due to engineering work",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Service disruption today",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Tube chiefs today called an urgent meeting to demand an explanation from contractor Metronet as to why severe disruption hit services across the Underground network this morning."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Metronet is responsible for maintaining a large part of the Tube infrastructure - the track, trains, signals and stations.",
+     "Services on the Victoria, Piccadilly and District lines were severely delayed and in some cases suspended, due to engineering work running over schedule.p\u003e",
+     "The Hammersmith and City and Circle lines which are also maintained by Metronet were affected by signal failure. On the Jubilee line which is the responsibility of Tube Lines, defective doors on trains caused delays.",
+     "London Underground Managing Director Tim O'Toole said: \"My team and I are working with the maintenance companies to ensure they understand, and act on, the reasons behind these unacceptable delays.",
+     "The Underground is improving over the long term but I realise that this is of little comfort when your journey is delayed.\"\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

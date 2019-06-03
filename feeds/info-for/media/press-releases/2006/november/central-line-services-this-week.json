@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Central line services this week",
+ "description": "This was due to a failure in the signalling computer system on Monday when London Underground introduced a new timetable for the Central line. Minor delays occurred on subsequent days while the problems were resolved.Services have now been restored on the",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Central line services this week",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground apologises to passengers for the disruption to Central line services this week."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "This was due to a failure in the signalling computer system on Monday when London Underground introduced a new timetable for the Central line. Minor delays occurred on subsequent days while the problems were resolved.",
+     "Services have now been restored on the Central line, with the new timetable.",
+     "Separately, an act of vandalism at North Acton has today (Friday) caused the suspension of the Central line between North Acton and Ealing Broadway.",
+     "Engineers from Metronet who maintain the Central line are now working to repair the damage so that affected services can be restored as quickly as possible.",
+     "This weekend there is a partial closure between White City and West Ruislip / Ealing Broadway due to planned engineering works. Replacement buses will operate."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

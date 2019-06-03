@@ -1,0 +1,64 @@
+{
+ "pageTitle": "Account settings",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Account settings"
+  }
+ ],
+ "title": {
+  "title": "Account settings",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "The account holder is responsible for the account so the name usually can't be changed.",
+     "If you are the account holder and have changed your name by an official process, we will update our records when we receive documents to confirm this. Send documents to us on our \u003ca href=\"/modes/driving/cc-contact-us-make-an-enquiry-wizard-37743\"\u003eMake an enquiry form\u003c/a\u003e .",
+     "If you have a business account and the account holder is no longer with the company, you need to open a new account. Contact us if you have any other questions.",
+     "If you have a business account and the company name has changed, you should open a new account.",
+     "If you have more questions go to the \u003ca href=\"/modes/driving/cc-contact-us-make-an-enquiry-wizard-37743\"\u003eMake an enquiry form\u003c/a\u003e .",
+     "We will send receipts and correspondence by: {0}",
+     "Receipt timing: {1}",
+     "\u003cstrong\u003eText alerts \u003c/strong\u003e ",
+     "If you sign up for mobile phone alerts, we can text you important information about your account or service. For example, we can tell you if there is a problem taking your monthly Auto Pay payment. If you have an active discount, we will remind you when you need to renew it.",
+     "\u003cstrong\u003eReceipts\u003c/strong\u003e ",
+     "We will send your receipt number by text if you opt in for mobile phone receipts.",
+     "The overall cost of sending or receiving texts may vary depending on the contract you have with your mobile network operator. Check with your operator if you're unsure how much you are charged for sending and receiving texts.",
+     "You can add up to 5 account users to the account in addition to the account holder.",
+     "Account users have the same permissions as the account holder to make changes to the account, except that they can't remove the account holder, themselves or close the account.",
+     "Each account user will have their own sign in credentials.",
+     "By closing your London Road User Charging account you will also close services such as discounts or Auto Pay.",
+     "Only the account holder can close the account. Before closing your account all outstanding balances must be paid."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

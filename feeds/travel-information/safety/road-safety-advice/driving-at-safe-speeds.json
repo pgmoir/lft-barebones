@@ -1,0 +1,147 @@
+{
+ "pageTitle": "Driving at safe speeds",
+ "keywords": "TfL",
+ "description": "TfL explain inappropriate speeds and make the case for safer speeds",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety",
+   "url": "/travel-information/safety/index"
+  },
+  {
+   "title": "Road safety advice",
+   "url": "/travel-information/safety/road-safety-advice"
+  },
+  {
+   "title": "Driving at safe speeds"
+  }
+ ],
+ "title": {
+  "title": "Driving at safe speeds",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Every day, two people are killed or seriously injured on London's streets by vehicles travelling at inappropriate speeds. Whether you're pulling away too quickly, accelerating too hard or not giving yourself enough time to brake, the higher the speed, the higher the risk.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What is inappropriate speed?\"}",
+     "Inappropriate speed is a term used to describe a speed that either exceeds the limit or that is inappropriate for the conditions of the road, such as slippery road surfaces, poor visibility or high numbers of people walking or cycling.",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/rdr-shopping-square-gallery.jpg\",\"alt\":\"'Risk Up!' advertising campaign: Shopping\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/rdr-bike-gallery.jpg\",\"alt\":\"'Risk Up!' advertising campaign: Bike\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/rdr-pram-gallery.jpg\",\"alt\":\"'Risk Up!' advertising campaign: Pram\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The dangers of inappropriate speed\"}",
+     "In London, inappropriate speed is a factor in up to 37% of collisions resulting in death or serious injury. This is the case for all road users, regardless of how they are travelling.",
+     "The speed people drive or ride is the single most important factor which influences how likely a collision is to happen and how severe the outcome will be.",
+     "The impact of a collision increases dramatically as vehicle speed increases. If someone who is walking is hit by a vehicle at 20mph, they are four times less likely to be killed than if they were hit at 30mph.",
+     "Inappropriate speed also magnifies other driver errors, such as driving too close or driving when tired or distracted, multiplying the chances of causing a collision.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving at appropriate speeds\"}",
+     "The Highway Code states that driving at speeds too fast for the road and traffic conditions is dangerous. It is often not appropriate or safe to drive at the maximum speed limit and drivers should be prepared for unexpected or difficult situations.",
+     "The Highway Code recommends reducing speed when:",
+     "{\"template\":\"bulletlist\",\"items\":[\"sharing the road with other road users such as pedestrians, cyclists or motorcyclists\",\"driving near schools where there may be young cyclists and a risk of children stepping into the road unexpectedly\",\"the road layout or condition presents hazards, such as bends\",\"weather conditions make it safer to do so\",\"driving at night as it is more difficult to judge speed and see other road users\",\"driving in built up areas where there are traffic lights, potential road works or pedestrian crossings\"]}",
+     "The code also highlights other factors that increase the likelihood of speeding and speed-related collisions such as being in a hurry or driving too close to the car in front. It recommends allowing plenty of time for your journey and ensuring a stopping distance of 23 metres from the car in front when travelling at 30mph.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero for London\"}",
+     "Transport for London is committed to reducing road danger, by working in partnership with the police, London boroughs and stakeholders to achieve the Vision Zero ambition of creating a road network free from death and serious injury by 2041.",
+     "This includes the widespread introduction of new lower speed limits, investing in safer junctions, removing the most dangerous Heavy Goods Vehicles from London's roads and supporting boroughs to transform their roads with funding such as Transport for London's multi-million pound Liveable Neighbourhoods scheme. \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eRead more information on Vision Zero.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Safety",
+    "links": [
+     {
+      "title": "Staying safe",
+      "url": "/travel-information/safety/staying-safe",
+      "image": {}
+     },
+     {
+      "title": "Report a crime or incident",
+      "url": "/travel-information/safety/report-a-crime-or-incident",
+      "image": {}
+     },
+     {
+      "title": "Road safety advice",
+      "url": "/travel-information/safety/road-safety-advice",
+      "image": {}
+     },
+     {
+      "title": "Motorcycling in London",
+      "url": "/travel-information/safety/road-safety-advice/motorcycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Driving \u0026 cycling safety",
+      "url": "/travel-information/safety/road-safety-advice/driving-and-cycling-safety",
+      "image": {}
+     },
+     {
+      "title": "Driving at safe speeds",
+      "url": "/travel-information/safety/road-safety-advice/driving-at-safe-speeds",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Safety",
+     "url": "/travel-information/safety/road-safety-advice/driving-at-safe-speeds",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "RoSPA's Inappropriate Speed Factsheet",
+      "url": "https://www.rospa.com/rospaweb/docs/advice-services/road-safety/drivers/inappropriate-speed.pdf",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "pageTitle": "ULEZ vehicle checker",
+ "keywords": "TfL",
+ "description": "Vehicle registration mark checker for the Ultra Low Emission Zone",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "ULEZ vehicle checker"
+  }
+ ],
+ "title": {
+  "title": "ULEZ vehicle checker",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Use this tool to check if your vehicle is recognised as meeting the ULEZ standards.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Any vehicle that meets the ULEZ standard can be driven within the zone without paying the ULEZ charge.",
+     "On 25 October 2021 the ULEZ will be expanded to inner London (the area up to but not including the North and South Circular Roads). A map of the expanded zone is on the \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-where-and-when\"\u003eULEZ: Where and when page\u003c/a\u003e .",
+     "Enforcement of the ULEZ is based on the declared emissions of the vehicle rather than the age. Generally speaking, petrol cars that meet the emissions standards are those registered after 2005. However cars that meet the ULEZ standards have been available since 2000.",
+     "For diesel vans the Euro 6 standard was mandated for all new vehicles sold from September 2016..",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Congestion Charge\"}",
+     "Your vehicle may also be subject to the \u003ca href=\"/modes/driving/congestion-charge\"\u003eCongestion Charge\u003c/a\u003e . This is a daily charge for driving a vehicle within the charging zone 07:00 to 18:00, Monday to Friday (two-wheeled vehicles are not affected).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Low Emission Zone (LEZ) compliance\"}",
+     "Diesel lorries, buses, coaches, motor caravans, motorised horseboxes, larger vans, minibuses and other specialist vehicles must also comply with the emissions standards of the LEZ. You can check if your vehicle is affected by the LEZ with the LEZ vehicle checker.",
+     "This covers most of Greater London and is in operation 24 hours a day, every day of the year.",
+     "The LEZ has different emissions requirements to the ULEZ. If your vehicle meets the ULEZ emissions standards, it will also meet the LEZ emissions standards. However, the reverse may not be true.",
+     "If your vehicle meets the LEZ standards but doesn't meet the ULEZ standards, and you want to drive your vehicle within central London, you will need to pay the ULEZ daily charge."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

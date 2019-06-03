@@ -1,0 +1,67 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "08:00 - Transport for London Update",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "In addition to the services running yesterday we have the following services running this morning"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Metropolitan - services now running between Baker Street and Moorgate\",\"Hammersmith and City - Shuttle between Hammersmith and Paddington (Suburban)\"]}",
+     "We are also running a bus shuttle between Royal Oak on the H\u0026C and Baker Street",
+     "Please also note:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Waterloo and City is not running this morning due to scheduled maintenance work (it would normally run on Saturday)\"]}",
+     "\u003cstrong\u003eWe continue to encourage our passengers and staff to remain vigilant, to question who owns items that remain unattended and to report any unattended items or suspicious activity to transport staff or the Police. \u003c/strong\u003e ",
+     "\u003cstrong\u003eWe also asking people to please make sure they help keep transport running as smoothly as possible, both by keeping hold of their own bags and luggage at all times, and by taking litter home with them to avoid unnecessary security alerts.\u003c/strong\u003e \u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

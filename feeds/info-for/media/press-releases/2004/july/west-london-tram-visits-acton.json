@@ -1,0 +1,67 @@
+{
+ "pageTitle": "West London Tram visits Acton",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "West London Tram visits Acton",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Locals will be able to meet and talk to project managers for the proposed West London Tram at a public roadshow at St Mary's Church, Acton Town Square on Friday 9 and Saturday 10 July."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The roadshow will give more information on the details of the West London Tram proposal and specialists will be on hand to answer questions.",
+     "TfL's Head of Public Affairs, Bill Hamilton said:",
+     "\"We are providing a wide range of ways for people to have their say on the proposed West London Tram. People can give us their views, either on-line, at one of the public roadshows or by filling out the questionnaire sent to over 400,000 residences along the proposed route. People have three months to give their views until 8 October \"",
+     "{\"template\":\"bulletlist\",\"items\":[\"Friday 9 July 12noon - 8pm\",\"Saturday 10 July 11am - 5pm\"]}",
+     "\u003cstrong\u003eFor media enquiries contact the TfL press office on 020 7941 4141/4881.\u003c/strong\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

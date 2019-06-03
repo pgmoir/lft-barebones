@@ -1,0 +1,177 @@
+{
+ "pageTitle": "Yellow box junctions",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "How to use yellow box junctions on the Transport for London Road Network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Rules of red routes",
+   "url": "/modes/driving/red-routes/rules-of-red-routes"
+  },
+  {
+   "title": "Yellow box junctions"
+  }
+ ],
+ "title": {
+  "title": "Yellow box junctions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Yellow box junctions keep the junction clear for through-traffic to avoid traffic jams. They also keep a road space free to ensure fire engines always have a clear exit from fire stations.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Yellow box junctions, loading bays and red routes are in place to keep traffic on the roads flowing. Our priority is to keep London moving and reduce delays, not raising revenue through fines. We are trying to help people understand the rules of the road so that they avoid an unnecessary fine.",
+     "Yellow box junctions are indicated by criss-cross\nyellow lines painted on the road. They are usually found at the\njunction of two or more roads and occasionally at roundabouts or outside fire\nand ambulance        stations. A yellow box junction does\nnot require any other signage.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to use a yellow box junction\"}",
+     "You may\nenter a yellow box junction when your exit is clear and there is enough space\non the other side of the junction for your vehicle to clear the box completely without\nstopping.",
+     "You can stop in a yellow box junction when turning\nright if you are prevented from turning by oncoming traffic, or by other vehicles waiting to turn right.",
+     "Do not\nsimply follow the vehicle in front as it may stop and prevent your exit and\ndon't let other drivers pressure you to enter the box when a clear exit is not\navailable.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/yellow-box-junction.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"video\",\"style\":\"VNgDxKiEwpU\",\"title\":\"How yellow box junctions work\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Penalty Charge Notices (PCNs)\"}",
+     "We issue Penalty Charge Notices (PCN) to deter drivers from breaking the rules and causing a\n        traffic jam. We don't simply issue PCNs to raise revenue - we enforce the rules\n        to help keep the traffic moving.",
+     " \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices\"\u003eFind out about Penalty Charge Notices\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Loading for the public",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public",
+      "image": {}
+     },
+     {
+      "title": "Yellow box junctions",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/yellow-box-junctions",
+      "image": {}
+     },
+     {
+      "title": "Banned turns",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/banned-turns",
+      "image": {}
+     },
+     {
+      "title": "Bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/parking",
+      "image": {}
+     },
+     {
+      "title": "Blue Badge (disabled) parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking",
+      "image": {}
+     },
+     {
+      "title": "Red lines and no stopping",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/red-lines-and-no-stopping",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Road tips",
+      "url": "/campaign/road-tips",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "The Highway Code",
+      "url": "https://www.gov.uk/browse/driving/highway-code",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

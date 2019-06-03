@@ -1,0 +1,133 @@
+{
+ "pageTitle": "DLR Community Ambassadors",
+ "keywords": "TfL",
+ "description": "Our DLR community ambassadors are there to help anyone who uses the DLR.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "DLR",
+   "url": "/modes/dlr/index"
+  },
+  {
+   "title": "DLR Community Ambassadors"
+  }
+ ],
+ "title": {
+  "title": "DLR Community Ambassadors",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our DLR Community Ambassadors are there to help anyone who uses the DLR.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Initially introduced to encourage locals to explore their surroundings and beyond, the ambassadors were a big success. Not only did they meet the needs of the local community, they also inspired change in transport planning, local borough changes and further DLR growth.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The DLR community\"}",
+     "The DLR runs through five distinctly different communities: Greenwich, Tower Hamlets, Newham, Lewisham and the City of London. Part of our community ambassadors initiative was to bring communities together through transport. We do this by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Producing a community guide leaflet and dropping it through 250,000 homes on the network. The leaflet covers advice about employment, community centres and health \\u0026 wellbeing options in areas in reach of DLR stations\",\"Employing ambassadors who are fluent in a variety of languages, including Bengali, Yoruba, Urhobo, Hindi, Urdu, and Sylheti\",\"Providing primary schools in the DLR area with ambassadors to give safety talks and presentations\",\"Taking passengers out on a DLR accessibility trip to demonstrate how to use the railway - this is particularly useful for wheelchair and scooter users, as well as anyone with a walking stick or child buggy\",\"Hosting DLR drop-in sessions at local supermarkets, community centres and other locations, every two weeks. These sessions offer information and advice about travelling on the DLR, engineering works and accessibility trips. \\u003ca href=\\\"/modes/dlr/ambassador-open-days\\\"\\u003eFind out about Ambassador open days\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "DLR",
+    "links": [
+     {
+      "title": "DLR ambassadors",
+      "url": "/modes/dlr/dlr-ambassadors",
+      "image": {}
+     },
+     {
+      "title": "Community Ambassador open days",
+      "url": "/modes/dlr/ambassador-open-days",
+      "image": {}
+     },
+     {
+      "title": "Improving the DLR",
+      "url": "/modes/dlr/improving-the-dlr",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "DLR",
+     "url": "/modes/dlr/improving-the-dlr",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@LondonDLR",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

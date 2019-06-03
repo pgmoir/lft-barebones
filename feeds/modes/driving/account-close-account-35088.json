@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Account settings",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Account settings"
+  }
+ ],
+ "title": {
+  "title": "Account settings",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Close account\"}",
+     "By closing your London Road User Charging account you will also close services such as discounts or Auto Pay.",
+     "If you have a residents' discount and have paid future charges you will no longer be entitled to pay at the discounted rate and all discounted charges will be refunded.",
+     "To see active services go to \u003ca href=\"/modes/driving/account-personal-account-29357\"\u003eMy account\u003c/a\u003e .",
+     "\u003cstrong\u003eYou are about to close your London Road User Charging account and all related services.\u003c/strong\u003e ",
+     "Closing your account is permanent and can't be undone.",
+     "\u003cstrong\u003eThere is an outstanding balance of {0} on your Auto Pay.\u003c/strong\u003e You can't close your London Road User Charging account until this balance has been paid.",
+     " \u003ca href=\"/modes/driving/cc-autopay-manage-manage-29152\"\u003eView/pay your Auto Pay balance\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

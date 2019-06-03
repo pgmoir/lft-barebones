@@ -1,0 +1,65 @@
+{
+ "pageTitle": "Kings Cross Station-picking up of disabled persons by taxi",
+ "description": "The policy of the station is to allow disabled passengers requiring a taxi to go to the head of the queue of passengers and to be assisted by staff. Taxi drivers are asked to note this arrangement which is for the benefit of disabled passengers. The PCO",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Kings Cross Station-picking up of disabled persons by taxi",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "It has been brought to the attention of the Public Carriage Office by the Duty Station Manager at Kings Cross Station that on 17 March 2005 a licensed taxi driver refused to pick up a disabled passenger who had been prioritised to the front of the taxi passenger queue by station staff."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The policy of the station is to allow disabled passengers requiring a taxi to go to the head of the queue of passengers and to be assisted by staff.",
+     "Taxi drivers are asked to note this arrangement which is for the benefit of disabled passengers. The PCO fully supports initiatives of this nature and would encourage all taxi drivers to be accommodating of the needs of those with disabilities."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

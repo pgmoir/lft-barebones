@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Clements Road re-opens to buses",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Clements Road re-opens to buses",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Clements Road will re-open to buses from 10.00am on Friday 25 July."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The road has been closed since February 2008 whilst redevelopment works in Unity Square were undertaken by Redbridge Council.",
+     "A number of bus routes were diverted during the works and will now return to run along Clements Road.",
+     "These routes are: 25, 86, 123, 128, 145, 147, 150, 167, 169,  364, 366, 369, 462. 667, 679, 958, W19, and N86.",
+     "For a trial period, buses, taxis and bicycles will be the only vehicles allowed access to Clements Road. The success of this arrangement will be assessed over the next 12 months by the local council.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Notes to editors:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Redbridge Council are responsible for the management of Clements Road and the redevelopment of Unity Square.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

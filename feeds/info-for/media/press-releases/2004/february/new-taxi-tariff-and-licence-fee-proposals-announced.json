@@ -1,0 +1,71 @@
+{
+ "pageTitle": "New taxi tariff and licence fee proposals announced",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "New taxi tariff and licence fee proposals announced",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Mayor of London today revealed that from 3rd April black cab fares will rise broadly in line with UK average earnings. The new fare tariff, which will be considered by the TfL boards on 11th February, fare tariff, takes into account:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"increases in taxi operating costs;\",\"increases in national average earnings;\",\"compensation to drivers for consolidated charges for luggage and extra passengers introduced last year, and;\",\"part compensation (£1) for airport charges for journeys starting from Heathrow .\"]}",
+     "The proposed new fares ensure a fair and simple tariff for drivers and passengers. These include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"No change for the minimum fare of £2;\",\"The average Tariff 1 (weekdays 6am - 8pm) fare will increase by 2.8 per cent, in line with the cost index,\",\"Tariffs 2 and 3 (covering late evenings, nights and weekends) will increase by an average 2.8 per cent plus an additional 12p per journey, bringing the average increase at these times to about 4 per cent; and\",\"£1 additional charge for journeys within London starting at Heathrow Airport.\"]}",
+     "These changes will increase the average fare across the whole week by 3.4 per cent.",
+     "Mayor of London Ken Livingstone said:",
+     "\"These new fares ensure a fair and simple tariff for drivers and passengers. The revised structure of tariffs, introduced last year, has made it easier for passengers to understand what they are paying for.",
+     "\"For the first time London is getting a safer licensed minicab service and this is reflected in the increased cost of a licence for minicab drivers. Becoming a minicab driver is well on the way to becoming a serious profession which is reflected by the new fees.\"",
+     "The TfL Board will also consider revised licence fees for taxi and private hire vehicles. Designed to cover Public Carriage Office costs for enforcing safety standards across the two industries, they are mostly in line with inflation, and will meet the costs of introducing private hire driver licensing.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Taxi driver three year licence from £241 to £249 (3% increase).\",\"Taxi vehicle annual licence from £140 to £146 (4% increase)\",\"Taxi driver applicant one-off Knowledge fee remains at £100 (0% increase).\",\"PH operator licence application from £619 to £637 (3% increase).\",\"PH operator application to vary a licence remains at £25 (0% increase).\",\"PH operator five-year licence (standard) from £1,459 to £1,510 (3% increase).\",\"PH operator five-year licence (small) remains at £500 (0% increase).\",\"PH driver licence application from £131 to £157 (20% increase).\",\"PH driver three-year licence from £87 to £105 (21% increase).\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

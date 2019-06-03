@@ -1,0 +1,166 @@
+{
+ "pageTitle": "TPH journey-related enforcement",
+ "keywords": "Safety and security,Taxis and minicabs,TfL",
+ "description": "We're taking measures against illegal TPH drivers and operators.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety \u0026 security",
+   "url": "/corporate/safety-and-security/index"
+  },
+  {
+   "title": "Security on the network",
+   "url": "/corporate/safety-and-security/security-on-the-network"
+  },
+  {
+   "title": "TPH journey-related enforcement"
+  }
+ ],
+ "title": {
+  "title": "TPH journey-related enforcement",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're taking measures against illegal taxi and private hire (TPH) operators.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The dangers of unbooked minicabs\"}",
+     "While London is safe for most people travelling at night, we still have major concerns over the dangers of travelling in unbooked minicabs.",
+     " \u003ca href=\"/campaign/safer-travel\"\u003eFind out more about how to make sure your minicab is booked\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we're doing\"}",
+     "We work closely with the Taxi and Private Hire trade, the MPS and the City of London Police to ensure the safety of passengers using London's taxi and private hire services.",
+     "We directly fund 68 dedicated police cab enforcement officers, and are increasing the number of TfL TPH compliance officers.\u003cbr /\u003e\u003cbr /\u003eThese officers conduct targeted plain clothes and high visibility operations to detect, disrupt and deter illegal and non-compliant TPH activity.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reporting touting and illegal cab activity\"}",
+     "Licensed and law-abiding taxi and private hire drivers and other members of the public often have valuable information on touting and other cab-related offences across London.",
+     " \u003ca href=\"/help-and-contact/reporting-touting-and-illegal-cabs\"\u003eLet us know if you have information about touting or illegal cab activity\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxi driver identifiers\"}",
+     "All taxi drivers are required to display driver identifiers when plying for hire as a condition of licence.",
+     "If you witness a driver not displaying their identifiers, displaying the wrong identifiers or you suspect displaying fake identifiers, or who may be plying for hire outside of their licence area, you can report this to us."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Security on the network",
+    "links": [
+     {
+      "title": "Our safety priorities",
+      "url": "/corporate/safety-and-security/security-on-the-network/our-safety-priorities",
+      "image": {}
+     },
+     {
+      "title": "Transport policing",
+      "url": "/corporate/safety-and-security/security-on-the-network/transport-policing",
+      "image": {}
+     },
+     {
+      "title": "TPH journey-related enforcement",
+      "url": "/corporate/safety-and-security/security-on-the-network/cab-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Taxi and Private Hire journey-related sexual offences",
+      "url": "/corporate/safety-and-security/security-on-the-network/tph-related-sexual-offences",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Security on the network",
+     "url": "/corporate/safety-and-security/security-on-the-network/tph-related-sexual-offences",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Report illegal activity",
+      "url": "/help-and-contact/reporting-touting-and-illegal-cabs",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 minicabs",
+      "url": "/modes/taxis-and-minicabs/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Find a local minicab",
+      "url": "https://tfl.gov.uk/forms/12389.aspx",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Safer Transport Command",
+      "url": "http://content.met.police.uk/Site/safertransport",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Metropolitan Police Service",
+      "url": "http://content.met.police.uk/Home",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "City of London Police",
+      "url": "http://www.cityoflondon.police.uk/citypolice/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

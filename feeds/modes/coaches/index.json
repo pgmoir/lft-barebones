@@ -1,0 +1,166 @@
+{
+ "pageTitle": "Coaches",
+ "keywords": "Coaches ,TfL",
+ "description": "Landing page for Coaches section",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Coaches"
+  }
+ ],
+ "title": {
+  "title": "Coaches",
+  "icon": "coaches",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Victoria Coach Station",
+    "texts": [
+     "Find the best way to get there"
+    ],
+    "link": {
+     "url": "/modes/coaches/victoria-coach-station",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/victoria-coach-station-700x350px.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Victoria Coach Station facilities",
+    "texts": [
+     "Victoria Coach Station offers a range of station facilities. Find out more"
+    ],
+    "link": {
+     "url": "/modes/coaches/victoria-coach-station-facilities",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Coach companies",
+    "texts": [
+     "Coach companies in London serve destinations across the UK and abroad"
+    ],
+    "link": {
+     "url": "/modes/coaches/coach-companies",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Coach terminal user rights",
+      "url": "/corporate/terms-and-conditions/bus-and-coach-passenger-rights",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Mobility assistance",
+    "texts": [
+     "If you need mobility help at Victoria Coach Station, book assistance here."
+    ],
+    "link": {
+     "url": "/modes/coaches/mobility-assistance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Tube",
+      "url": "/modes/tube/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Buses",
+      "url": "/modes/buses/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Visiting London",
+      "url": "/travel-information/visiting-london/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

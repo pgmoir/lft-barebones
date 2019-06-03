@@ -1,0 +1,66 @@
+{
+ "pageTitle": "Woolwich Ferry service on Monday 15 August",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Woolwich Ferry service on Monday 15 August  ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Woolwich Ferry will be suspended on Monday 15 August as staff will be paying their respects at the funeral of their colleague and friend Ben Woollacott who tragically died on the service recently."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The Woolwich Ferry will resume at 06:10 on Tuesday 16 August with a normal two-boat service.",
+     "Thames River Services and Crown River Cruises, who offer sightseeing river tours, will also suspend their services on that day as a mark of respect.  All other services and operators are expected to operate normally.",
+     "\u003cbr /\u003eLondon River Services would like to thank passengers for their patience and understanding during this time.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Drivers wishing to cross the Thames on Monday 15 August should use an alternative route such as the Blackwall Tunnel, Rotherhithe Tunnel or Tower Bridge\",\"Live travel news is available at \\u003ca href=\\\"http://www.tfl.gov.uk/livetravelnews\\\"\\u003etfl.gov.uk/livetravelnews\\u003c/a\\u003e \\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

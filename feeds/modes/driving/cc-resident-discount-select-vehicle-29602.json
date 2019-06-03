@@ -1,0 +1,66 @@
+{
+ "pageTitle": "Add vehicle",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Add vehicle"
+  }
+ ],
+ "title": {
+  "title": "Add vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "If you are the registered keeper of the vehicle, it must be registered with the DVLA in your name and at the address you are using to apply for the residents' discount.",
+     "You can also add a UK-registered company car or lease vehicle as long as it is for your own use only.",
+     "You can only register 1 vehicle for this discount. If you want to change the vehicle details you entered, use the 'Back' button.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, your vehicle is registered for a 100% discount from the Congestion Charge. If you believe this is incorrect and you still want to pay the Congestion Charge, add this vehicle or apply for a discount, then you can continue.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the Congestion Charge. If you believe this is incorrect and you still want to pay the Congestion Charge, add this vehicle or apply for a discount, then you can continue with this process.",
+     "\u003cstrong\u003eThis is correct as of today’s date, but may change at any time - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "If the number plate (Vehicle Registration Mark) is correct but the description shown is wrong, you can still continue to register this vehicle.",
+     "Vehicle information is provided to TfL by the DVLA so you'll need to let the DVLA know if your details are wrong or need to be updated.",
+     "\u003cstrong\u003eWe do not hold any details for this vehicle\u003c/strong\u003e ",
+     "\u003cstrong\u003eUK-registered:\u003c/strong\u003e If your vehicle’s make and model details have not been returned, make sure you entered the Vehicle Registration Mark correctly before continuing.",
+     "\u003cstrong\u003eRegistered outside the United Kingdom:\u003c/strong\u003e We are unable to display the make, model and colour information. Confirm your details before continuing.",
+     "If your DVLA-registered vehicle’s make and model details have not been returned, make sure you entered the number plate (Vehicle Registration Mark) correctly before continuing.",
+     "\u003cstrong\u003eYou can't apply for the residents’ discount if your vehicle is not registered in the UK.\u003c/strong\u003e ",
+     "You already have 10 vehicles on your Quick Management list",
+     "You can continue with the discount application and add this vehicle to your Quick Management list later.",
+     "Once you have submitted the application, you will need to remove a vehicle before adding another.",
+     "You need to pay the \u003ca href=\"/modes/driving/emissions-surcharge\"target=\"_blank\"\u003eT-Charge\u003c/a\u003e to drive your vehicle within the Congestion Charge area if it does not meet the required emissions standard. If you qualify for the 90% residents' discount you also get a 90% discount from the T-Charge.",
+     "Your vehicle does not meet the required emissions standard. Although you are currently exempt from the Congestion Charge, if your application for the 9+ seater discount is successful you will still need to pay the T-Charge to drive in the Congestion Charge zone."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

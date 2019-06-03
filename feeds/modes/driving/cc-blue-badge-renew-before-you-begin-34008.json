@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Renew Blue Badge discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Renew Blue Badge discount"
+  }
+ ],
+ "title": {
+  "title": "Renew Blue Badge discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "Your Blue Badge discount is due to expire.",
+     "If you are still eligible for a Blue Badge you can renew the discount.",
+     "You need to upload images of both sides of your new Blue Badge and proof of identification.",
+     "You need to provide a copy of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Both sides of your Blue Badge\"]}",
+     "Plus a copy of 1 of the following proofs of identity:",
+     "{\"template\":\"bulletlist\",\"items\":[\"DSS benefit entitlement letter (no more than 7 months old)\",\"Current passport\",\"Current driver’s licence\",\"Pension book/entitlement letter (no more than 7 months old)\",\"Birth certificate (same first and last names as the Blue Badge. Not a Certificate of Registration of Birth)\",\"Marriage certificate (same first and last names as the Blue Badge)\",\"Current bank or credit card statement (no more than 3 months old)\",\"Deed Poll Certificate (same first and last names as the Blue Badge)\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,107 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Cards' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Cards' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+
+      <div class="col-12 col-lg-8">
+        <!-- main body section that normally sits at two cols wide -->
+        <div class="row">
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Just a title and no link' }
+            }) %>
+          </div>
+              
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Just a title and a link', link: { url: '/' } }
+            }) %>
+          </div>
+              
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Title, link and some style', style: 'card-dark', link: { url: '/' } }
+            }) %>
+          </div>
+
+          <div class="col-12">
+            <p class="alert alert-danger">Issue: Not sure if any other 'styles' beyond default should be needed.</p>
+          </div>
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Title and text', texts: [ 'Use a contactless card or device to travel on our transport' ] }
+            }) %>
+          </div>
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Title, link and text', texts: [ 'Use a contactless card or device to travel on our transport' ], link: { url: '/' } }
+            }) %>
+          </div>
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Title and many texts', texts: [ 'Use a contactless card or device to travel on our transport', 'For more information you will need to read some signs.', 'Information boards can be found in stations.' ] }
+            }) %>
+          </div>
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Title, link and many texts', texts: [ 'Use a contactless card or device to travel on our transport', 'For more information you will need to read some signs.', 'Information boards can be found in stations.' ], link: { url: '/' } }
+            }) %>
+          </div>
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Image, title and text', texts: [ 'Use a contactless card or device to travel on our transport' ], image: { url: '/css/images/oyster-fares_rdax_400x200.jpg' } }
+            }) %>
+          </div>
+
+          <div class="col-12 col-sm-6">
+            <%- include('../includes/card', { 
+              card: { title: 'Image, title, link and text', texts: [ 'Use a contactless card or device to travel on our transport' ], link: { url: '/' }, image: { url: '/css/images/oyster-fares_rdax_400x200.jpg' } }
+            }) %>
+          </div>
+              
+        </div>
+      </div>
+
+      <div class="col-12 col-lg-4">
+
+        <!-- right hand nav bit -->
+        <%- include('../includes/card', { 
+          card: { title: 'Also on this site', links: [ 
+          { url: '/internal', icon: 'internal', title: 'Internal link' },
+          { url: '/external', icon: 'external', title: 'External link' },
+          { url: '/download', icon: 'download', title: 'Download link' }
+          ] }
+        }) %>
+
+        <!-- right hand nav bit -->
+        <%- include('../includes/listgroup', { 
+          card: { title: 'Also on this site', links: [ 
+          { url: '/internal', icon: 'internal', title: 'Internal link' },
+          { url: '/external', icon: 'external', title: 'External link' },
+          { url: '/download', icon: 'download', title: 'Download link' }
+          ] }
+        }) %>
+
+        <p class="alert alert-info">Info: The two examples above show creating card with list group using both card and listgroup templates. They produce the same output.</p>
+        <p class="alert alert-info">Info: There are more pattern library pages with lists on them.</p>
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/foot') %>

@@ -1,0 +1,311 @@
+{
+ "pageTitle": "Low Emission Zone",
+ "keywords": "Bus operators,Businesses,Coach drivers,Drivers,Freight industry,Planning and construction,Public,Schools and young people,Suppliers,Buses,Coaches,Driving,LEZ,Low Emission Zone ,TfL",
+ "description": "Drivers of heavy diesel vehicles may have to pay to dirve within Greater London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Low Emission Zone",
+  "icon": "lez",
+  "card": {
+   "texts": [
+    "The Low Emission Zone (LEZ) operates to encourage the most polluting heavy diesel vehicles driving in London to become cleaner. The LEZ covers most of Greater London and is in operation 24 hours a day, every day of the year.",
+    "The LEZ is separate from the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e which is now in place in central London."
+   ],
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "cta",
+    "style": "outline-primary",
+    "link": {
+     "title": "Pay to drive in London",
+     "url": "/modes/driving/pay-to-drive-in-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "cta",
+    "style": "outline-primary",
+    "link": {
+     "title": "Pay a penalty",
+     "url": "/modes/driving/pay-a-pcn",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Check if your vehicle is affected",
+    "texts": [
+     "Find out which vehicles are affected and check yours"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/lez-is-your-vehicle-affected.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "What are my options?",
+    "texts": [
+     "If your vehicle doesn't meet the emissions standards, there are a number of things you can do"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Changing LEZ standards",
+    "texts": [
+     "In 2020 LEZ standards will be raised to equal ULEZ standards"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge",
+      "url": "/modes/driving/congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "LEZ: Where and when",
+    "texts": [
+     "Find out where, when and how the zone operates and changes for the future"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/about-the-lez",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/x001-00086-driving-lez-sign_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Do I need to register?",
+    "texts": [
+     "If your vehicle is registered outside the UK you may need tell us about it in advance"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Penalties and enforcement",
+    "texts": [
+     "If you have received a PCN you can either pay it or challenge it"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/penalty-charges",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ terms and conditions",
+      "url": "/corporate/terms-and-conditions/pay-to-drive-in-london",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

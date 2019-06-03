@@ -1,0 +1,77 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London River Services unveils autumn/winter River Guides",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "There may be a bit more of a nip in the air but autumn and winter is still a great time to get out on the Thames."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Whether you're looking for a leisurely sight-seeing tour or a quick commute on London's greatest highway; our new River Bus and River Tours Guides will help you on your way.",
+     "The updated River Bus Guide, prepared in collaboration with Thames Clippers, gives details of the scheduled services that depart from the eight key piers managed by London River Services along the Thames.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay as you go\"}",
+     "These include a frequent service from Embankment to Woolwich Arsenal. Using the River Bus has never been easier with Oyster pay as you go now available on Thames Clippers services.",
+     "As well as using the river to get from a to b, river tours are a great way to relax and see the city from another angle. The updated River Tour Guide gives details of fun events and tours on the river.",
+     "Snack while you sail with a lunch or dinner cruise or maybe a Sunday Lunch Jazz Cruise. Those who want something a bit different can enjoy a 'who dunnit' with the River Thames Murder Tour or dance the night away on one of the Riverboat Disco party boats.",
+     "Kulveer Ranger, the Mayor of London's transport advisor, said: 'Travelling by river is one of the joys of living in the Capital; and the Mayor's vision is for it to be an integral part of London's transport network.",
+     "'We are committed to making it easier for Londoners and visitors to make the most of the unique experience of travelling along the Thames and it is great to see passenger numbers increasing all the time.'",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"A third off fares\"}",
+     "Passengers with a valid Travelcard, or an Oyster card loaded with a valid Travelcard, can get a third off single fares on most river services.",
+     "On Thames Clippers the cost of the journey can be taken from any Oyster pay as you go balance. Passengers with Oyster pay as you go get 10 per cent off the normal Thames Clipper adult fare.",
+     "Andy Griffiths, Head of London River Services, said: 'The River Thames is fantastic throughout the year, giving visitors and residents an opportunity to see many iconic London landmarks, including the Tower of London and the Houses of Parliament, from a fantastic vantage point.",
+     "'With the introduction of improved signage, clearer 'Tube style' river maps and new branding along the river bank it's never been easier to enjoy the Thames.'",
+     "For more information on London's river services, visit \u003ca href=\"http://www.tfl.gov.uk/river\"\u003ehttp://www.tfl.gov.uk/river\u003c/a\u003e ",
+     "\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"London River Services is responsible for managing eight piers on the river: Westminster, Festival, Embankment, Millbank, Blackfriars, Bankside, Tower and Greenwich\",\"Fast river buses now operate all day every day from Embankment pier and London Eye pier to the O2 at North Greenwich, with some continuing to Woolwich Arsenal. The last boat back into central London from the O2 is at 20.25 daily. Later boats leave North Greenwich pier every 10 minutes after shows at the O2\",\"Passengers with a valid Travelcard will get a third off the price of their river bus ticket. Passengers with Oyster pay as you go will get a 10 per cent off the normal Thames Clipper adult fare, with the exception of journeys on the O2 Express service\",\"London River Services is keen to ensure the continued growth and development of river services and to see that all riverboat services are integrated, where practicable, with London's other public transport services\",\"London River Services has introduced real-time information on Thames Clipper services at piers and on the website to allow customers to better plan their journeys\",\"All London River Services' piers are accessible and step-free at all states of the tide, allowing easy access for mobility impaired passengers. Most river boats are accessible - passengers should contact boat operators for comprehensive accessibility information when planning their journeys. The relevant contact information is included in the new guide and is available at \\u003ca href=\\\"http://www.tfl.gov.uk/river\\\"\\u003ewww.tfl.gov.uk/river\\u003c/a\\u003e \\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

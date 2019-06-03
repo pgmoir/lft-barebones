@@ -1,0 +1,97 @@
+{
+ "pageTitle": "Find a taxi or minicab",
+ "keywords": "TfL",
+ "description": "Share your taxi with someone else in the queue",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxis \u0026 minicabs",
+   "url": "/modes/taxis-and-minicabs/index"
+  },
+  {
+   "title": "Find a taxi or minicab"
+  }
+ ],
+ "title": {
+  "title": "Find a taxi or minicab",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page explains some of the ways that you can find a taxi or minicab.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "London's famous taxis (black cabs) can be booked in advance, hailed on the street, or picked up from designated taxi ranks.",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eTaxi company\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eContact details\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eAreas served\\u003c/strong\\u003e \"],[\"One-Number Taxi\",\"0871 871 8710\",\"All London\"],[\" \\u003ca href=\\\"http://www.comcablondon.com/\\\"\\u003eComputer Cab\\u003c/a\\u003e \",\"0207 908 0207\\u003cbr /\\u003eCredit/debit card bookings: 0207 432 1432\\u003cbr /\\u003eCash bookings: 0207 908 0207\\u003cbr /\\u003e \\u003ca href=\\\"http://www.comcablondon.com/bookings\\\"\\u003eComcab bookings\\u003c/a\\u003e \",\"All London\"],[\" \\u003ca href=\\\"https://www.dialacab.co.uk/\\\"\\u003eDial-A-Cab\\u003c/a\\u003e \",\"020 7253 5000\",\"All London\"],[\" \\u003ca href=\\\"http://www.radiotaxis.co.uk/book-taxi/\\\"\\u003eRadio Taxis\\u003c/a\\u003e \",\"020 7272 0272\",\"All London\"],[\" \\u003ca href=\\\"http://www.sw4.swlondontaxiranks.com\\\"\\u003eClapham Common taxi rank (SW4)\\u003c/a\\u003e \\u003cbr /\\u003e\",\"0800 118 2494\\u003cbr /\\u003e \\u003ca href=\\\"http://Office@sw4.swlondontaxiranks.com \\\"\\u003eOffice@sw4.swlondontaxiranks.com\\u003c/a\\u003e \",\"Clapham Common and surrounding areas.\\u003cbr /\\u003e\"],[\"Southside Centre taxi rank (SW18)\",\"0800 211 8087\\u003cbr /\\u003e \\u003ca href=\\\"mailto:wandsworthtaxirank@gmail.com\\\"\\u003ewandsworthtaxirank@gmail.com\\u003c/a\\u003e \",\"Wandsworth Southside Centre and surrounding areas\"],[\"Sutton taxi rank (SM2)\\u003cbr /\\u003e\",\"0800 118 2192\\u003cbr /\\u003e \\u003ca href=\\\"mailto:suttontaxirank@gmail.com\\\"\\u003esuttontaxirank@gmail.com\\u003c/a\\u003e \\u003cbr /\\u003e\",\"Sutton and surrounding areas.\\u003cbr /\\u003e\"],[\"Taxi Call Wimbledon\",\"020 8099 7711\",\"Immediate hiring: Wimbledon and surrounding areas\"],[\"Centre Court Wimbledon Taxi Rank\\u003cbr /\\u003e\",\"0800 211 8914\\u003cbr /\\u003e \\u003ca href=\\\"mailto:wimbledoncentrecourttaxirank@gmail.com\\\"\\u003ewimbledoncentrecourttaxirank@gmail.com\\u003c/a\\u003e \",\"Wimbledon and surrounding areas\"]]}",
+     "\u003cstrong\u003eTerms and conditions \u003c/strong\u003e ",
+     "There is a charge when booking by phone, and other terms and conditions may vary, so please check when booking.",
+     "If you would like to comment or complain about taxi services in London please \u003ca href=\"/help-and-contact/taxi-and-private-hire-comments\"\u003econtact us online\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxis \u0026 minicabs",
+    "links": [
+     {
+      "title": "Find a taxi or minicab",
+      "url": "/modes/taxis-and-minicabs/book-a-taxi",
+      "image": {}
+     },
+     {
+      "title": "Taxi fares",
+      "url": "/modes/taxis-and-minicabs/taxi-fares",
+      "image": {}
+     },
+     {
+      "title": "Taxicard \u0026 Capital Call",
+      "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
+      "image": {}
+     },
+     {
+      "title": "Guide to taxis and private hire",
+      "url": "/modes/taxis-and-minicabs/what-to-expect-from-your-journey",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxis \u0026 minicabs",
+     "url": "/modes/taxis-and-minicabs/what-to-expect-from-your-journey",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

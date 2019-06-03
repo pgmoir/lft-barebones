@@ -1,0 +1,65 @@
+{
+ "pageTitle": "Delay to Dagenham Dock inquiry",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Delay to Dagenham Dock inquiry",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Docklands Light Railway (DLR) has asked the Department for Transport (DfT) to delay the start of the Public Inquiry into the proposed extension of its network to Dagenham Dock."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "DLR has asked for the delay - and the DfT has agreed - because it needs time to clarify the situation with the Government in relation to funding for the extension.",
+     "The Director of the DLR, Jonathan Fox, said: 'This means a slight delay to proceedings but it will leave us in a better position to clarify the funding of the project.'",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "pageTitle": "Encouraging cycling and walking",
+ "keywords": "TfL",
+ "description": "We have several schemes to promote cycling and walking in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Environment",
+   "url": "/corporate/about-tfl/environment"
+  },
+  {
+   "title": "Encouraging cycling and walking"
+  }
+ ],
+ "title": {
+  "title": "Encouraging cycling and walking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"As part of our effort to reduce emissions from motor vehicles - and to encourage Londoners to pursue healthy activities - we support several measures that make cycling and walking in the Capital easier.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "We have an ambitious target to increase the amount of cycling in London to 1.5 million cycle journeys per day by 2026. Strong progress has been made towards this target in recent years - cycling levels have more than doubled since 2001.",
+     "We are delivering a range of initiatives to encourage and enable more cycling in London, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"New \\u003ca href=\\\"/modes/cycling/routes-and-maps/cycle-superhighways\\\"\\u003eCycle Superhighways\\u003c/a\\u003e and \\u003ca href=\\\"/modes/cycling/routes-and-maps/quietways\\\"\\u003e Quietways\\u003c/a\\u003e \",\"Investment in local areas and town centres through the \\u003ca href=\\\"/modes/cycling/routes-and-maps/cycle-mini-hollands\\\"\\u003eMini-Hollands\\u003c/a\\u003e programme\",\"More improvements to \\u003ca href=\\\"/modes/cycling/santander-cycles\\\"\\u003eSantander Cycles\\u003c/a\\u003e \",\"Thousands of new \\u003ca href=\\\"/modes/cycling/cycling-in-london/cycle-parking\\\"\\u003ecycle parking spaces\\u003c/a\\u003e \",\"Support for behaviour change by offering free, tailored \\u003ca href=\\\"/modes/cycling/cycling-in-london/cycle-skills\\\"\\u003ecycle skills training\\u003c/a\\u003e \"]}",
+     "This is all part of our aim to make London a byword for cycling. Find out more about our range of \u003ca href=\"/modes/cycling/index\"\u003ecycling programmes\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "To encourage walking in the Capital we are investing in London's streets to make them more attractive places to walk.",
+     "We also promote walking through Legible London, the Walk London Network, and engagement with schools and businesses. Visit our \u003ca href=\"/modes/walking/index\"\u003eWalking page\u003c/a\u003e for more details."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Environment",
+    "links": [
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/cycling-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Our trackside neighbours",
+      "url": "/corporate/about-tfl/our-trackside-neighbours",
+      "image": {}
+     },
+     {
+      "title": "Sustainability",
+      "url": "/corporate/about-tfl/sustainability",
+      "image": {}
+     },
+     {
+      "title": "Natural environment",
+      "url": "/corporate/about-tfl/natural-environment",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Environment",
+     "url": "/corporate/about-tfl/natural-environment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

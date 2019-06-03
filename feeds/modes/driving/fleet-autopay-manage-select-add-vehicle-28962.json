@@ -1,0 +1,54 @@
+{
+ "pageTitle": "My Fleet vehicles",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "My Fleet vehicles"
+  }
+ ],
+ "title": {
+  "title": "My Fleet vehicles",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Add vehicle\"}",
+     "You can pay the daily Congestion Charge for a vehicle that is not on your Fleet Auto Pay service. You do not have to pay the annual registration charge for these vehicles, and the charge will be added to your next monthly statement.",
+     "You are allowed a number of ad hoc charges per month. This is based on the number of vehicles you had on your Fleet Auto Pay service when your last statement was issued."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

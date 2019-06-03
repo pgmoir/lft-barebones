@@ -1,0 +1,89 @@
+{
+ "pageTitle": "TfL makes data freely available for smart development",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL makes data freely available for smart development ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Restrictions on commercial data use lifted."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We want to harness the innovative ideas in the developer community to provide improved information which will benefit all transport users",
+     "A wealth of new information about London's Tubes, buses and river services is being made available online so that web developers can use it to create products such as apps (mobile phone applications) that help passengers.",
+     "From today developers can also use the data for commercial gain without the need to get permission from Transport for London (TfL).",
+     "By lifting previous restrictions, digital developers can now independently develop and sell products using TfL data.",
+     "Basic information will remain available free of charge to the public on the \u003ca href=\"http://www.tfl.gov.uk\"\u003eTfL website\u003c/a\u003e .",
+     "But TfL hope the move will encourage developers to put together a wider range of high quality services and applications.",
+     "By using TfL's Developers' Area web developers are now able to access a number of data sets and feeds to live London Underground/Tube travel news on London's Datastore.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Encouraging developers\"}",
+     "By the end of June developers will also be able to find information on bus routes and bus stops and data from London Underground's Rolling Origin and Destination Survey.",
+     "Data on bus timetables and schedules will follow.",
+     "Information currently in the Datastore includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Planned weekend Tube works\",\"Station locations (for the Tube, Docklands Light Railway and London Overground)\",\"River Thames pier locations\",\"Find-a-ride (licensed private hire operators)\",\"Oyster Ticket Stop locations\"]}",
+     "Developers visiting the London Datastore will be directed to a TfL Developers' Area to access the data, where a set of developer guidelines cover issues such as brand protection, accuracy and update frequency.",
+     "This will allow customers clarity about the services produced by TfL versus the wider developer community and encourage developers to ensure that their apps use the latest TfL data feeds.",
+     "More data feeds will be made available on the TfL Developers' Area shortly.",
+     "The changes to terms and conditions refer to information available in this area only.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefitting passeners\"}",
+     "Maps and other intellectual property such as the use of the roundel will still be subject to license.",
+     "Chris MacLeod, TfL's Director of Group Marketing, said: 'We want to harness the innovative ideas in the developer community to provide improved information which will benefit all transport users.",
+     "'Therefore it is vital that Transport for London provides transparent information to the public and allows developers to use data to create smart-technology solutions.",
+     "'TfL accepts the developers need to recover their costs and derive a return from their time in creating new applications.",
+     "'This move will ensure that developers will be able to produce products independently and provide customers with a wide range of up-to-date applications and services.'",
+     "TfL will release further information into the Datastore as it becomes available.",
+     " \u003ca href=\"http://www.tfl.gov.uk/termsandconditions/11402.aspx\"\u003eMore information\u003c/a\u003e .",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

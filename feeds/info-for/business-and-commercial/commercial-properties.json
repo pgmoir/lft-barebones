@@ -1,0 +1,137 @@
+{
+ "pageTitle": "Commercial properties",
+ "keywords": "TfL",
+ "description": "As one of London's largest landowners, we have a exciting spaces available for any business - from boutique start-ups to large multinationals",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Commercial properties",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/commercial-properties-section-header.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We are one of London's largest landowners and offer a wide range of opportunities for businesses across the city. Exciting spaces are available for organisations of any size, from pop ups and small businesses to global brands. Most of our sites are near transport hubs - with over 31 million passenger journeys a day, we put you close to your customers, in locations convenient to them.",
+     "Our unique position means we can use our assets to keep London moving, working and growing. We generate long-term, sustainable income from 1,000 retail units and 800 railway arches to reinvest in our transport network. Our work also helps to support the Mayor's priorities around sustainable transport, health, homes and jobs as laid out in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Connected Retail London",
+    "texts": [
+     "Does your concept push the boundaries of retail? Enter our competition"
+    ],
+    "link": {
+     "url": "https://madeby.tfl.gov.uk/2019/05/13/connected-retail-london/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/connected-retail-london_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Available properties",
+    "texts": [
+     "Search our database of current retail and business spaces"
+    ],
+    "link": {
+     "url": "https://tfl.completelygroup.com",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cp-south-kensington-restaurant-teaser.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Becoming a tenant",
+    "texts": [
+     "Find out how to apply for a tenancy and about rents and leases"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/becoming-a-tenant",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/comm-property-arches-image_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Managing my property",
+    "texts": [
+     "Guidance for your commercial or residential property"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/managing-my-property",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Our property portfolio",
+    "texts": [
+     "From pop ups to shops in arches and industrial spaces, see what we can offer"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/our-property-portfolio",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

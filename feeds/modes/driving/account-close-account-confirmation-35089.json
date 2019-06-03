@@ -1,0 +1,53 @@
+{
+ "pageTitle": "Account settings",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Account settings"
+  }
+ ],
+ "title": {
+  "title": "Account settings",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Confirmation\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your request to close your account has been submitted.\"}",
+     "We aim to respond to you within the next 10 working days.",
+     "Reference number: {0}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens next\"}",
+     "Once we have made the changes we will let you know by your preferred communication channel."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

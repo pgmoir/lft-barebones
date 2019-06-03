@@ -1,0 +1,163 @@
+{
+ "pageTitle": "Find a docking station",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Find a Santander Cycles docking station near you",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Santander Cycles",
+   "url": "/modes/cycling/santander-cycles"
+  },
+  {
+   "title": "Find a docking station"
+  }
+ ],
+ "title": {
+  "title": "Find a docking station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"There are more than 11,500 bikes at over 750 docking stations across London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Enter your location in the search box below to find a docking station near you.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Search\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Suspended docking stations\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Curzon Street, Mayfair - for telecom works (26 May)\",\"High Holborn, Holborn - for borough roadworks (29 August)\",\"Dock Street. Wapping - part-suspension for gas works (6 July)\",\"Copper Box Arena, QEOP - ahead of removal for development\",\"Stonecutter Street, Holborn - for public realm improvements (5 August)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Removed docking stations\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cardinal Place, Victoria - removed due to building works\",\"Rodney Street, Angel - due to H\\u0026S\",\"Portugal Street, Holborn - for building works\",\"Whiteley's, Bayswater - for building works\",\"Grant Road Central \\u0026 West, Clapham Junction - for development\"]}",
+     "Updated Thursday 23 May",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Get started with cycling",
+      "url": "/modes/cycling/new-to-cycling",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "How it works",
+      "url": "/modes/cycling/santander-cycles/how-it-works",
+      "image": {}
+     },
+     {
+      "title": "What you pay",
+      "url": "/modes/cycling/santander-cycles/what-you-pay",
+      "image": {}
+     },
+     {
+      "title": "Find a docking station",
+      "url": "/modes/cycling/santander-cycles/find-a-docking-station",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles membership",
+      "url": "/modes/cycling/santander-cycles/register-for-your-own-key",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/santander-cycles/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Lost, stolen or faulty",
+      "url": "/modes/cycling/santander-cycles/lost-stolen-or-faulty",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles app",
+      "url": "/modes/cycling/santander-cycles/community",
+      "image": {}
+     },
+     {
+      "title": "Suggestions \u0026 complaints",
+      "url": "/modes/cycling/santander-cycles/suggestions-and-complaints",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles business accounts",
+      "url": "/modes/cycling/santander-cycles/business-accounts",
+      "image": {}
+     },
+     {
+      "title": "Blaze Laserlights",
+      "url": "/modes/cycling/santander-cycles/blaze-laserlights",
+      "image": {}
+     },
+     {
+      "title": "Cycling in London",
+      "url": "/modes/cycling/cycling-in-london",
+      "image": {}
+     },
+     {
+      "title": "Routes \u0026 maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/routes-and-maps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

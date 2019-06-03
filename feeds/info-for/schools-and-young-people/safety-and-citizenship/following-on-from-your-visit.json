@@ -1,0 +1,174 @@
+{
+ "pageTitle": "Following on from your visit",
+ "keywords": "TfL",
+ "description": "Evaluation forms and follow up activity after a safety \u0026 citizenship presentation",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people",
+   "url": "/info-for/schools-and-young-people/index"
+  },
+  {
+   "title": "Safety \u0026 Citizenship",
+   "url": "/info-for/schools-and-young-people/safety-and-citizenship"
+  },
+  {
+   "title": "Following on from your visit"
+  }
+ ],
+ "title": {
+  "title": "Following on from your visit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "You can continue classroom learning about safer journeys using our \u003ca href=\"/info-for/schools-and-young-people/safety-and-citizenship/lesson-plans\"\u003elesson plans\u003c/a\u003e . There are a range of plans available on different aspects of making a journey.",
+     "After your presentation, you will have received an evaluation form. Please make sure you complete this and send it back to us, so that we can monitor and evaluate our service.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Evaluation forms\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Safety \\u0026 Citizenship Primary evaluation form\",\"url\":\"/cdn/static/cms/documents/safety-and-citizenship-primary-evaluation-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 87KB\",\"image\":{}},{\"title\":\"Safety \\u0026 Citizenship Secondary evaluation form\",\"url\":\"/cdn/static/cms/documents/safety-and-citizenship-secondary-evaluation-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 166KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Your Year 6 students will also be sent a follow up 'Z-Card' after the presentation. This is a fun, fold-out resource with activities linked to their TfL Safety and Citizenship presentation on one side and further advice and information on active travel choices on the other side.",
+     "Z-Cards are contained in a brightly coloured luggage tag which pupils can customise and keep with them. Please do encourage your class to complete the activities and read the extra information they contain."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Schools \u0026 young people",
+    "links": [
+     {
+      "title": "Inspire Engineering",
+      "url": "/info-for/schools-and-young-people/inspire-engineering",
+      "image": {}
+     },
+     {
+      "title": "Youth involvement",
+      "url": "/info-for/schools-and-young-people/youth-involvement",
+      "image": {}
+     },
+     {
+      "title": "Educational resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 Citizenship",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+      "image": {}
+     },
+     {
+      "title": "Primary (pre-transition)",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/primary-pre-transiti",
+      "image": {}
+     },
+     {
+      "title": "Secondary (post-transition)",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/secondary-post-transition",
+      "image": {}
+     },
+     {
+      "title": "Special Educational Needs and Disability",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/special-educational-needs",
+      "image": {}
+     },
+     {
+      "title": "Pupil Referral Units",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/pupil-referral-units",
+      "image": {}
+     },
+     {
+      "title": "Faith schools",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/faith-schools",
+      "image": {}
+     },
+     {
+      "title": "Home-schooled pupils",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/home-schooled-pupils",
+      "image": {}
+     },
+     {
+      "title": "Restorative justice",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/restorative-justice",
+      "image": {}
+     },
+     {
+      "title": "Community \u0026 museum events",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/community-and-museum-events",
+      "image": {}
+     },
+     {
+      "title": "Following on from your visit",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/following-on-from-your-visit",
+      "image": {}
+     },
+     {
+      "title": "Learning resources",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/lesson-plans",
+      "image": {}
+     },
+     {
+      "title": "Transport Youth Engagement Officers",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/transport-youth-engagement-officers",
+      "image": {}
+     },
+     {
+      "title": "Young car drivers",
+      "url": "/info-for/schools-and-young-people/young-car-drivers",
+      "image": {}
+     },
+     {
+      "title": "Innovate TfL",
+      "url": "/info-for/schools-and-young-people/innovate-tfl",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Schools \u0026 young people",
+     "url": "/info-for/schools-and-young-people/innovate-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

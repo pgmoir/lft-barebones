@@ -1,0 +1,102 @@
+{
+ "pageTitle": "Procurement information",
+ "keywords": "Businesses,Media,Online developers,Suppliers,P,Contract,Corporate information,Policy,,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Procurement information"
+  }
+ ],
+ "title": {
+  "title": "Procurement information",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find information about our procurement processes and related policies, and overall guidance about being one of our suppliers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL supplier guide\"}",
+     "This guide covers everything you need to know about working with us. It covers the tendering process, what our priorities are, and what we want from our suppliers.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A guide for our suppliers\",\"url\":\"/cdn/static/cms/documents/supplier-guide-pdf.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.54MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Invoice payment\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Help us pay your invoices on time\",\"url\":\"/cdn/static/cms/documents/help-us-pay-your-invoices-on-time.pdf\",\"icon\":\"download\",\"size\":\"PDF 828KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Terms and conditions\"}",
+     " \u003ca href=\"https://www.london.gov.uk/about-us/governance-and-spending/spending-money-wisely/contracts-and-grants\"\u003eRead the standard GLA Purchase Order Conditions of Contract on the GLA website\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LUL PO Conditions of Contract\",\"url\":\"/cdn/static/cms/documents/lul-po-conditions-of-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 559KB\",\"image\":{}},{\"title\":\"TfL Standard PO Terms \\u0026 Conditions\",\"url\":\"/cdn/static/cms/documents/tfl-standard-purchase-order-terms-and-conditions.pdf\",\"icon\":\"download\",\"size\":\"PDF 387KB\",\"image\":{}},{\"title\":\"TfL Standard Contract for Services\",\"url\":\"/cdn/static/cms/documents/contract-for-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 475KB\",\"image\":{}},{\"title\":\"Work Related Road Risk requirements\",\"url\":\"/cdn/static/cms/documents/work-related-road-risk-requirements.pdf\",\"icon\":\"download\",\"size\":\"PDF 157KB\",\"image\":{}},{\"title\":\"Template LUL Access Requirements (NEC contracts)\",\"url\":\"/cdn/static/cms/documents/nec-template-access-terms.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.03MB\",\"image\":{}},{\"title\":\"Template LUL Access Requirements (Non-NEC contracts)\",\"url\":\"/cdn/static/cms/documents/non-nec-template-access-terms.pdf\",\"icon\":\"download\",\"size\":\"PDF 874KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Responsible procurement\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Ethical sourcing policy\",\"url\":\"/cdn/static/cms/documents/tfl-ethical-sourcing-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 77KB\",\"image\":{}},{\"title\":\"Sustainable timber policy\",\"url\":\"/cdn/static/cms/documents/tfl-sustainable-timber-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 74KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Registering as a supplier\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Supplier registration guidance\",\"url\":\"/cdn/static/cms/documents/supplier-registration-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 584KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"eP2P on boarding pack\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"eP2P vendor handbook\",\"url\":\"/cdn/static/cms/documents/ep2p-vendor-handbook.pdf\",\"icon\":\"download\",\"size\":\"PDF 735KB\",\"image\":{}},{\"title\":\"eP2P supplier questionnaire\",\"url\":\"/cdn/static/cms/documents/ep2p-supplier-questionnaire.docx\",\"icon\":\"download\",\"size\":\"DOCX 202KB\",\"image\":{}},{\"title\":\"eBIS-XML invoice template\",\"url\":\"/cdn/static/cms/documents/inv-e-bis-sample.xml\",\"icon\":\"download\",\"size\":\"XML 7KB\",\"image\":{}},{\"title\":\"Excel invoice template\",\"url\":\"/cdn/static/cms/documents/tfl-etrading-excel-invoice-template.xls\",\"icon\":\"download\",\"size\":\"XLS 416KB\",\"image\":{}},{\"title\":\"Sample invoice response file (1)\",\"url\":\"/cdn/static/cms/documents/invres-18000064-20120221-112835-908.xml\",\"icon\":\"download\",\"size\":\"XML 2KB\",\"image\":{}},{\"title\":\"Sample invoice response (2)\",\"url\":\"/cdn/static/cms/documents/invres-18000077-20111102-085626-697.xml\",\"icon\":\"download\",\"size\":\"XML 1KB\",\"image\":{}},{\"title\":\"Sample invoice response (3)\",\"url\":\"/cdn/static/cms/documents/invres-18000077-20111102-113006-295.xml\",\"icon\":\"download\",\"size\":\"XML 1KB\",\"image\":{}},{\"title\":\"Sample invoice response (4)\",\"url\":\"/cdn/static/cms/documents/invres-18000077-20111104-091314-053.xml\",\"icon\":\"download\",\"size\":\"XML 1KB\",\"image\":{}},{\"title\":\"Sample file: purchase order\",\"url\":\"/cdn/static/cms/documents/e-orders-0010000722-20101108-105426-387.xml\",\"icon\":\"download\",\"size\":\"XML 3KB\",\"image\":{}},{\"title\":\"Reference document: OCI catalogue interface\",\"url\":\"/cdn/static/cms/documents/open-catalog-interface-business-to-business.pdf\",\"icon\":\"download\",\"size\":\"PDF 315KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contracts over £5,000",
+      "url": "/corporate/publications-and-reports/contracts-greater-than-5000",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contract opportunities",
+      "url": "/corporate/publications-and-reports/contract-opportunities",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

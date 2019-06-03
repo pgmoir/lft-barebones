@@ -1,0 +1,19 @@
+/* Scss Document */
+
+@charset "UTF-8";
+
+/* Imports */
+
+@import 'mixins-svg';
+@import 'barebones-core';
+@import 'barebones-font';
+
+.barebones {
+  @import 'barebones-colors';
+  @import 'barebones-svg';
+  @import 'barebones-structure';
+  @import 'barebones-headers';
+  @import 'barebones-lists';
+  @import 'barebones-input';
+  @import 'barebones-bootstrap';
+}

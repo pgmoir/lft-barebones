@@ -1,0 +1,83 @@
+{
+ "pageTitle": "Protecting London's bridges",
+ "keywords": "TfL",
+ "description": "We have plans for permanent anti-terrorist barriers on Westminster Bridge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety \u0026 security",
+   "url": "/corporate/safety-and-security/index"
+  },
+  {
+   "title": "Protecting London's bridges"
+  }
+ ],
+ "title": {
+  "title": "Protecting London's bridges",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are looking at permanent options to protect London's bridges from vehicle attacks by terrorists. We have identified a preferred plan for Westminster Bridge and want to work with boroughs and other groups to develop our proposals.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "After the terrorist attacks on Westminster Bridge and London Bridge in 2017, the Metropolitan Police Service installed temporary physical security barriers on eight central London bridges.",
+     "While developing our plans for permanent barriers we wanted to make sure that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The proposals meet the \\u003ca href=\\\"/corporate/about-tfl/the-mayors-transport-strategy\\\"\\u003eMayor's Transport Strategy\\u003c/a\\u003e and work for the different bridge users\",\"The proposed designs are proportionate to the level of risk\",\"The heritage of the bridge is respected\",\"Any solution is technically feasible\"]}",
+     "Our preferred plan for Westminster Bridge proposes using heritage-style bollards that create segregated space for cyclists across the bridge, and enough space for all other bridge users including buses and pedestrians.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/westminster-bridge-bollards.jpg\",\"alt\":\"CGI of Westminster Bridge with protecting bollards\"},\"wrapped\":false}",
+     "We manage 6 of the bridges:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Westminster Bridge\",\"London Bridge\",\"Tower Bridge\",\"Vauxhall Bridge\",\"Lambeth Bridge\",\"Blackfriars Bridge\"]}",
+     "The other 2 bridges are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Waterloo Bridge (Westminster City Council)\",\"Southwark Bridge (City of London)\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London's bridges - responsible authorities\",\"url\":\"/cdn/static/cms/documents/london-bridges-authority.pdf\",\"icon\":\"download\",\"size\":\"PDF 65KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Next steps\"}",
+     "We will meet with boroughs and groups, including cycling and community groups, and policing partners to develop our proposals.",
+     "We are already working with City of Westminster and Lambeth Council on our plans for Westminster Bridge. As the design develops we will review emerging technology and may adapt the proposals.",
+     "Once we have an agreed design we plan to hold a public consultation on the proposed changes in autumn 2019.",
+     "We have concentrated on Westminster Bridge before moving ahead with work on the other five bridges we manage. This is to make sure the approach is correct. Each bridge presents different challenges because of ownership, cultural significance and engineering.",
+     "The measures needed to create an effective and well-designed permanent barrier will likely be costly to implement. Along with the Mayor's Office for Policing and Crime (MOPAC) we are lobbying the Government and other partners for funding options.",
+     "Any proposals that go forward would get a public consultation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

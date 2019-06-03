@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Auto Pay for business users",
+ "keywords": "TfL",
+ "description": "We offer two automated payment services - Auto Pay and Fleet Auto Pay.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay for business users"
+  }
+ ],
+ "title": {
+  "title": "Auto Pay for business users ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We offer two automated payment services - Auto Pay and Fleet Auto Pay.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Which one you choose depends on the number of vehicles you or your business usually drive within the Congestion Charge zone and Ultra Low Emission Zone (ULEZ).",
+     "{\"template\":\"bulletlist\",\"items\":[\"Add up to 5 vehicles to your service\",\"Pay the daily charge by direct debit or monthly payments from a credit or debit card\",\"Include up to 5 account users to help you manage your Auto Pay service\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Add an unlimited number of vehicles to the service\",\"Pay the daily charge by direct debit\",\"Include up to 5 additional account users to help you manage your Auto Pay service\",\"Register vehicles in bulk or one by one\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

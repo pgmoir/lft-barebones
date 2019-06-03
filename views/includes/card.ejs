@@ -1,0 +1,40 @@
+<% if (card.template) { %>
+  <%- include(card.template, { o: card }) %>
+<% } else { %>
+  <% if (card.wrapped) { %>
+  <div class="col-12 col-sm-6">
+  <% } %>
+  <div class="card <%= card.link && card.link.url ? 'card-link' : '' %> <%= card.style ? card.style : '' %>">
+    <% if (card.link && card.link.url) { %>
+    <a href="<%= card.link.url %>">
+    <% } %>
+      <% if (card.image && card.image.url) { %>
+      <img class="card-img-top" src="<%= card.image.url %>" alt="" role="presentation">
+      <% } %>
+      <div class="card-body">
+        <% if (card.link && card.link.url) { %>
+        <div class="d-flex align-items-center">
+          <div class="w-100 pr-2">
+        <% } %>
+            <h3 class="card-title h5"><%= card.title %></h3>
+            <% if (card.texts) { %>
+            <% for (let text of card.texts) { %>
+              <p class="card-text"><%- text %></p>
+            <% } } %>
+            <% if (card.links) { %>
+              <%- include('listgroup', { card: { style: 'links', links: card.links }}) %>
+            <% } %>
+        <% if (card.link && card.link.url) { %>
+            </div>
+          <div class="flex-shrink-1 svgpost svgicon-<% if (card.link.icon) { %><%= card.link.icon %><% } else { %>internal<% } %>"></div>
+        </div>
+        <% } %>
+      </div>
+    <% if (card.link && card.link.url) { %>
+    </a>
+    <% } %>
+  </div>
+  <% if (card.wrapped) { %>
+  </div>
+  <% } %>
+<% } %>

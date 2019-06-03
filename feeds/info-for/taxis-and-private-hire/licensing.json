@@ -1,0 +1,331 @@
+{
+ "pageTitle": "Licensing",
+ "keywords": "Taxi and private hire,Taxis and minicabs,TfL",
+ "description": "Find out how to become licensed as a London taxi driver or proprietor",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Licensing"
+  }
+ ],
+ "title": {
+  "title": "Licensing",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We license London's taxi and private hire drivers to ensure a safe and reliable service for the public."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Apply for a taxi driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-driver-licence",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-vehicle-licence",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Information for fleet owners",
+      "url": "/info-for/taxis-and-private-hire/licensing/information-for-fleet-owners",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Find out about learning the Knowledge",
+      "url": "/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Existing licensees",
+    "links": [
+     {
+      "title": "Existing licensees",
+      "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Licensing information",
+      "url": "/info-for/taxis-and-private-hire/licensing/licensing-information",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Licence checker",
+      "url": "/info-for/taxis-and-private-hire/licensing/licence-checker",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Apply for a private hire driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-driver-licence",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire operator licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-operator-licence",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-vehicle-licence",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Topographical skills centres",
+    "link": {
+     "url": "/info-for/taxis-and-private-hire/licensing/topographical-assessment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Taxi top advertising",
+    "link": {
+     "url": "/info-for/taxis-and-private-hire/licensing/taxi-top-advertising",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Emission standards and rapid charging",
+    "links": [
+     {
+      "title": "Electric vehicles \u0026 rapid charging",
+      "url": "https://tfl.gov.uk/modes/driving/electric-vehicles-and-rapid-charging",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for taxis",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-taxis",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Emissions standards for PHVs",
+      "url": "/info-for/taxis-and-private-hire/emissions-standards-for-phvs",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Ultra Low Emission Zone",
+      "url": "https://tfl.gov.uk/modes/driving/ultra-low-emission-zone",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-driver-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-vehicle-licence",
+      "image": {}
+     },
+     {
+      "title": "Information for fleet owners",
+      "url": "/info-for/taxis-and-private-hire/licensing/information-for-fleet-owners",
+      "image": {}
+     },
+     {
+      "title": "Learn the Knowledge of London",
+      "url": "/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london",
+      "image": {}
+     },
+     {
+      "title": "Taxi top advertising",
+      "url": "/info-for/taxis-and-private-hire/licensing/taxi-top-advertising",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-driver-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-vehicle-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire operator licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-operator-licence",
+      "image": {}
+     },
+     {
+      "title": "Topographical assessment",
+      "url": "/info-for/taxis-and-private-hire/licensing/topographical-assessment",
+      "image": {}
+     },
+     {
+      "title": "Existing licensee",
+      "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Licensing information",
+      "url": "/info-for/taxis-and-private-hire/licensing/licensing-information",
+      "image": {}
+     },
+     {
+      "title": "Licence checker",
+      "url": "/info-for/taxis-and-private-hire/licensing/licence-checker",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Taxi \u0026 PH policies",
+      "url": "/corporate/publications-and-reports/taxi-and-private-hire",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfLTPH",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

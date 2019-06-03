@@ -1,0 +1,34 @@
+<div class="lft-form-group">
+  <fieldset class="lft-fieldset" aria-describedby="<%= field.name %>-hint">
+    <legend class="lft-fieldset__legend lft-fieldset__legend--xl">
+      <h3 class="lft-fieldset__heading">
+        <%= field.title %>
+      </h3>
+    </legend>
+    <span id="<%= field.name %>-hint" class="lft-hint">
+      <%= field.hint %>
+    </span>
+    <% if (field.error) { %>
+    <span id="<%= field.name %>-error" class="lft-error-message">
+      <span class="lft-visually-hidden">Error:</span> <%= field.error %>
+    </span>
+    <% } %>
+    <dl class="lft-summary-list">
+    <% field.items.forEach(function (item, i) { %>
+      <div class="lft-summary-list__row">
+        <dt class="lft-summary-list__key">
+          <%= item.name %>
+        </dt>
+        <dd class="lft-summary-list__value">
+          <%- item.value %>
+        </dd>
+        <dd class="lft-summary-list__actions">
+          <a class="lft-link" href="<%= item.linkto %>">
+            Change <span class="lft-visually-hidden"> <%= item.name %></span>
+          </a>
+        </dd>
+      </div>
+    <% }) %>
+    </dl>
+  </fieldset>
+</div>

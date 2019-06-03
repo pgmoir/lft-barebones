@@ -1,0 +1,58 @@
+{
+ "pageTitle": "Payment failure",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Pay a PCN",
+   "url": "/modes/driving/pay-a-pcn"
+  },
+  {
+   "title": "PCN details",
+   "url": "/modes/driving/pay-pcn-details"
+  },
+  {
+   "title": "Basket",
+   "url": "/modes/driving/basket"
+  },
+  {
+   "title": "Payment result",
+   "url": "/modes/driving/payment-result"
+  }
+ ],
+ "title": {
+  "title": "Payment failure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

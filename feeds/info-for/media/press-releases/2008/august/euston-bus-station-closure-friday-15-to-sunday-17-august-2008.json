@@ -1,0 +1,68 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Euston Bus Station closure: Friday 15 to Sunday 17 August 2008",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Euston Bus Station will be closed from 20:00 on Friday 15 to 18:00 Sunday 17 August."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The closures will allow Camden Council to carry out essential resurfacing works on Euston Grove between Eversholt Street and Euston Road.",
+     "Euston Grove will remain open to northbound traffic.",
+     "The following routes will be affected by the weekend closure: 10, 18, 30, 59, 68, 73, 91, 205, 253, 390, 476, N5, N20, N91 and N253.",
+     "Passengers will still be able to get their bus from nearby stops.",
+     "Details of diversions and stopping arrangements for the weekend will be available around the bus station, at local bus stops and on the TfL website under live travel news \u003ca href=\"http://www.tfl.gov.uk/buses\"\u003etfl.gov.uk/buses\u003c/a\u003e .",
+     "Bus station staff will also be available to advise passengers of where to catch their bus.",
+     "The bus station will also be closed from 20:00 Friday 29 August to 18:00 Sunday 31 August 2008 for the same reason.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "pageTitle": "We're doing maintenance for Oyster",
+ "keywords": "TfL",
+ "description": "We're doing maintenance for Oyster",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Help \u0026 contacts",
+   "url": "/help-and-contact/index"
+  },
+  {
+   "title": "We're doing maintenance for Oyster"
+  }
+ ],
+ "title": {
+  "title": "We're doing maintenance for Oyster",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Sorry for the disruption.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We're working to get our website back to normal but in the meantime here's some useful links:",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Help \\u0026 contacts\",\"texts\":[\"See answers to frequently asked questions, useful links and contacts\"],\"link\":{\"url\":\"/help-and-contact/index\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Contact us\",\"texts\":[\"Send us your questions or feedback about Oyster\"],\"link\":{\"url\":\"/help-and-contact/contact-us-about-oyster\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Oyster card\",\"texts\":[\"What is an Oyster card and how can I use it?\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Buying tickets and Oyster\",\"texts\":[\"Buy tickets and Oyster cards online and from places across London\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/buying-tickets-and-oyster\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Touching in and out\",\"texts\":[\"Always touch in and out on a yellow card reader to pay the right fare for your travel\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Card clash\",\"texts\":[\"Keep your contactless and Oyster cards separate when touching a yellow card reader\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/card-clash\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Maximum journey times\",\"texts\":[\"Keep within the maximum journey time when you're travelling so you don't pay more\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/keep-within-maximum-journey-times\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Touch a pink card reader\",\"texts\":[\"Pink card readers charge the right fare by showing us you didn't go through Zone 1\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touch-pink-card-reader-when-changing-trains\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"First-generation Oyster cards\",\"texts\":[\"Replace your first-generation Oyster card with a new one to use our free app\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app/first-generation-oyster-cards\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Free and discounted travel\",\"texts\":[\"Find out more about how you could get free and discounted travel\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/free-and-discounted-travel\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Pay as you go caps\",\"texts\":[\"Make as many pay as you go journeys as you like and we'll cap your fare\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Status updates\",\"texts\":[\"Check the status of the Tube, DLR and London Overground\"],\"link\":{\"url\":\"/status-updates/index\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Contactless\",\"texts\":[\"What is contactless and how to use it\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Contactless account\",\"texts\":[\"Sign in to your contactless account\"],\"link\":{\"url\":\"https://contactless.tfl.gov.uk/\",\"icon\":\"external\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

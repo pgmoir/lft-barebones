@@ -1,0 +1,70 @@
+{
+ "pageTitle": "Misleading e-mail",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Misleading e-mail",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A misleading spam e-mail has been widely circulated which claims that by dialling 112 you can get through to 999 even without having an available signal on your mobile phone - this is completely untrue."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Dialling 112 only works if you have a signal on your mobile phone",
+     "A London Underground spokesperson said: \"This e-mail is incorrect.",
+     "\"The 112 number does link people through to 999, but it only works if you have a signal on your mobile phone.font",
+     "fontIf you have no signal bars on your phone, it will not work.",
+     "\"It will not divert to a satellite signal.",
+     "\"Even with a satellite mobile phone (which very few people have), you would need to have a clear line-of-sight to the satellite.",
+     "\"You would have to be outside, not in a building or a Tube tunnel.",
+     "\"The 112 number is the European equivalent of 999.\""
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

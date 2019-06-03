@@ -1,0 +1,74 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Richmond to benefit as Mayor unveils £10bn investment programme to transform Londons transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Richmond is to benefit from better transport under a proposed £10 billion, five-year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Richmond and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Richmond on the move.\"",
+     "The main benefits for Richmond included in TfL's 5 Year Capital Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"a new package of improvements for Silverlink Metro services including station and security enhancements such as better CCTV and lighting, graffiti cleaning and the extension of station staffing hours providing a greater presence early in the morning and later at night.\"]}",
+     "In addition, the following improvements to the District lines stations are planned to be delivered under the PPP:",
+     "{\"template\":\"bulletlist\",\"items\":[\"all 75 District Line trains to be refurbished by 2009 including space for wheelchairs, audio \\u0026 video info systems and refurbished seats and interiors.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Richmond's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Richmond by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor, fully accessible buses on 23 routes, increased frequencies on 19 bus routes, the introduction of two new routes (419, 493) and three night bus routes (N22, N285, N65);\",\"funding for additional Metropolitan Police Officers and Transport Community Support Officers to reduce crime and fear of crime, improve enforcement (on route 267 in particular) and tackle taxi touting;\",\"new 'metro-style' rail services piloted on Waterloo to Teddington and Waterloo to Twickenham routes, providing a minimum 4 trains an hour, improved passenger information, station facilities and security;\",\"additional North London Line rail services between Richmond and North Woolwich in the peak (weekdays) and Saturdays;\",\"licensing private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with Richmond a range of local schemes have or will shortly be implemented including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"improved links between train and bus services at Teddington and Twickenham stations. This included the relocation of bus stops and new cycle racks;\",\"Orleans Park School, Clarendon School, Russell Primary School and St Mary's COE Primary School have benefited from a London-wide programme to provide cycle parking and lockers within schools.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

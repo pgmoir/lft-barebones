@@ -1,0 +1,84 @@
+{
+ "pageTitle": "Manage Fleet Auto Pay",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Manage Fleet Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Manage Fleet Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Service summary\"}",
+     "\u003cstrong\u003eIf your Auto Pay status is 'Active' and you have driven within the zone in the last few days, these charges may not be included in your balance.\u003c/strong\u003e ",
+     "You must have at least 6 vehicles to activate this service. You can use vehicles already on your account or add new ones. Add vehicles one by one or use the bulk upload facility.",
+     "Each vehicle costs £10 a year to use with Fleet Auto Pay.",
+     "Find details of all vehicles added to Fleet Auto Pay in the past 2 years (or since you registered for Fleet Auto Pay if this is less than 2 years), along with the dates the vehicles were active.",
+     "\u003cstrong\u003e‘Active’ \u003c/strong\u003e status means that your Auto Pay service is fully operational and no further action is required.",
+     "\u003cstrong\u003e‘Pending’\u003c/strong\u003e status means that your Auto Pay application has not yet been approved. Once approved we'll tell you that your Auto Pay is ready and you can add vehicles to activate it.",
+     "\u003cstrong\u003e'Ready’\u003c/strong\u003e status means that your Auto Pay is not yet active, but is now ready for you to add vehicles which will activate your service.",
+     "\u003cstrong\u003e‘Pending suspension’\u003c/strong\u003e status means that a scheduled payment has failed and you will now need to pay the outstanding balance. If you do not pay the amount outstanding, your Auto Pay will be suspended. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Suspended’\u003c/strong\u003e status means that a scheduled payment has failed and you must now pay the outstanding balance. If you drive any of your vehicles within the charging zone you will need to pay the charge in another way or you will receive a Penalty Charge Notice. If you do not clear your balance quickly, your Auto Pay service will be closed and you will need to pay vehicle registration charges to reactivate it.",
+     "\u003cstrong\u003e‘Closed’\u003c/strong\u003e status means that your Auto Pay service is no longer available. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Active’ \u003c/strong\u003e status means that your Auto Pay service is fully operational and no further action is required.",
+     "\u003cstrong\u003e‘Pending’\u003c/strong\u003e status means that your Auto Pay application has not yet been approved. Once approved we'll tell you that your Auto Pay is ready and you can add vehicles to activate it.",
+     "\u003cstrong\u003e'Ready’\u003c/strong\u003e status means that your Auto Pay is not yet active, but is now ready for you to add vehicles which will activate your service.",
+     "\u003cstrong\u003e‘Pending suspension’\u003c/strong\u003e status means that a scheduled payment has failed and you will now need to pay the outstanding balance. If you do not pay the amount outstanding, your Auto Pay will be suspended. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Suspended’\u003c/strong\u003e status means that a scheduled payment has failed and you must now pay the outstanding balance. If you drive any of your vehicles within the charging zone you will need to pay the charge in another way or you will receive a Penalty Charge Notice. If you do not clear your balance quickly, your Auto Pay service will be closed and you will need to pay vehicle registration charges to reactivate it.",
+     "\u003cstrong\u003e‘Closed’\u003c/strong\u003e status means that your Auto Pay service is no longer available. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Active’ \u003c/strong\u003e status means that your Auto Pay service is fully operational and no further action is required.",
+     "\u003cstrong\u003e‘Pending’\u003c/strong\u003e status means that your Auto Pay application has not yet been approved. Once approved we'll tell you that your Auto Pay is ready and you can add vehicles to activate it.",
+     "\u003cstrong\u003e'Ready’\u003c/strong\u003e status means that your Auto Pay is not yet active, but is now ready for you to add vehicles which will activate your service.",
+     "\u003cstrong\u003e‘Pending suspension’\u003c/strong\u003e status means that a scheduled payment has failed and you will now need to pay the outstanding balance. If you do not pay the amount outstanding, your Auto Pay will be suspended. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "\u003cstrong\u003e‘Suspended’\u003c/strong\u003e status means that a scheduled payment has failed and you must now pay the outstanding balance. If you drive any of your vehicles within the charging zone you will need to pay the charge in another way or you will receive a Penalty Charge Notice. If you do not clear your balance quickly, your Auto Pay service will be closed and you will need to pay vehicle registration charges to reactivate it.",
+     "\u003cstrong\u003e‘Closed’\u003c/strong\u003e status means that your Auto Pay service is no longer available. You will need to pay the charge in another way or you will receive a Penalty Charge Notice.",
+     "You need to add 6 or more vehicles to activate your Fleet Auto Pay service.",
+     "\u003cstrong\u003eYour scheduled payment of {0} failed. \u003c/strong\u003e If you don't reactivate your Fleet Auto Pay it will be suspended. Once suspended you will need to pay the charge another way or you will receive a Penalty Charge Notice.",
+     "To reactivate your Fleet Auto Pay you need to pay the current balance. This may include charges incurred since your last statement. The current balance payable is {1}.",
+     "\u003cstrong\u003eYour scheduled payment of {0} failed. \u003c/strong\u003e Your Fleet Auto Pay service is now closed. You will need to pay the charge another way or you will receive a Penalty Charge Notice.",
+     "Failure to pay the full outstanding balance of {1} may lead to recovery action.",
+     "\u003cstrong\u003eYour scheduled payment of {0} failed. \u003c/strong\u003e Your Fleet Auto Pay service is now suspended. If you do not reactivate your service you will need to pay the charge another way or you will receive a Penalty Charge Notice.",
+     "To reactivate your Fleet Auto Pay you will need to pay the current balance. This may include charges incurred since your last statement. The current balance payable is {1}.",
+     "\u003cstrong\u003eIf you do not pay the outstanding balance now your Fleet Auto Pay will be closed and you will need to pay additional vehicle registration charges to reactivate it.\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Current payment method\"}",
+     "View your direct debit information. Activate Auto Pay to make any changes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

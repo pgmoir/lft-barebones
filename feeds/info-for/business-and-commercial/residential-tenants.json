@@ -1,0 +1,151 @@
+{
+ "pageTitle": "Residential tenants",
+ "keywords": "TfL",
+ "description": "We take the happiness, safety and security of TfL's residential clients very seriously",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Managing my property",
+   "url": "/info-for/business-and-commercial/managing-my-property"
+  },
+  {
+   "title": "Residential tenants"
+  }
+ ],
+ "title": {
+  "title": "Residential tenants",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We want you to be able to enjoy your home. As one of our residential tenants, different guidelines and regulations apply than for our commercial tenants.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/residential-tenants_rdax_400x250.jpg\",\"alt\":\"residential buildings\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contacting us\"}",
+     "We understand how frustrating it can be if something is wrong with your home. So we have a dedicated helpdesk, available 24 hours a day.",
+     "Monday-Friday 09:00-17:00: 020 7027 5792 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003eOut of hours: \t020 3633 4224",
+     "Need a repair? \u003ca href=\"/info-for/business-and-commercial/residential-repairs\"\u003eFind out about residential repairs.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Paying your rent\"}",
+     "When you start with us your surveyor will explain what rent you need to pay us - this is invoiced monthly. Paying by direct debit means you pay on time and your bank charges may be reduced.",
+     "In most cases, you'll be responsible for paying council tax, electricity, gas, water and insurance directly to the supplier.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Your deposit\"}",
+     "The deposit we ask for will be safely secured with an authorised deposit protection scheme. We will return your deposit once you've left, providing you have kept to the terms of your agreement.",
+     "Any disputes about the refund of your deposit will be managed by the deposit protection service which acts as an independent body. The property manager will give you details of the scheme.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Health and safety\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Regular checks completed by us\"}",
+     "To make sure you and your property are safe, we do annual checks on your property. From time to time, we'll ask to view your property to ensure that it's in good condition. We'll give you at least 24-hours notice to get access to premises.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fire safety in your property\"}",
+     "You can help to ensure that you keep safe by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reviewing the escape routes from your property to make sure they are unobstructed and unlocked. If this includes a shared area, please check that all fire doors and/or security gates fitted are unlocked\",\"Checking that any materials, goods or other obstructions in exit routes that could slow up your escape are removed\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other support\"}",
+     "We're available to support you so don't hesitate to contact your property surveyor if you need any other information. Full details of the service we provide is in your welcome pack.",
+     "If you want professional advice about any aspect of your tenancy, please contact \u003ca href=\"https://www.citizensadvice.org.uk/\"\u003eCitizens Advice\u003c/a\u003e .",
+     "We also have useful guidance documents on repairs and Legionnaires' disease.",
+     "Your feedback helps us improve our performance. Find out how to \u003ca href=\"/info-for/business-and-commercial/send-us-feedback\"\u003esend your feedback\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Fault reporting\",\"url\":\"/cdn/static/cms/documents/fault-reporting.docx\",\"icon\":\"download\",\"size\":\"DOCX 83KB\",\"image\":{}},{\"title\":\"Protection from Legionnaires' disease\",\"url\":\"/cdn/static/cms/documents/legionnaires-disease-leaflet.pdf\",\"icon\":\"download\",\"size\":\"PDF 881KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial properties",
+    "links": [
+     {
+      "title": "Becoming a tenant",
+      "url": "/info-for/business-and-commercial/becoming-a-tenant",
+      "image": {}
+     },
+     {
+      "title": "Managing my property",
+      "url": "/info-for/business-and-commercial/managing-my-property",
+      "image": {}
+     },
+     {
+      "title": "Commercial tenants",
+      "url": "/info-for/business-and-commercial/commercial-tenants",
+      "image": {}
+     },
+     {
+      "title": "Guidance and policies",
+      "url": "/info-for/business-and-commercial/guidance-and-policies",
+      "image": {}
+     },
+     {
+      "title": "Residential tenants",
+      "url": "/info-for/business-and-commercial/residential-tenants",
+      "image": {}
+     },
+     {
+      "title": "Residential repairs",
+      "url": "/info-for/business-and-commercial/residential-repairs",
+      "image": {}
+     },
+     {
+      "title": "Our property portfolio",
+      "url": "/info-for/business-and-commercial/our-property-portfolio",
+      "image": {}
+     },
+     {
+      "title": "Send us feedback",
+      "url": "/info-for/business-and-commercial/send-us-feedback",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial properties",
+     "url": "/info-for/business-and-commercial/send-us-feedback",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

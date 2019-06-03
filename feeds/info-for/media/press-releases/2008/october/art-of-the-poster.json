@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Art of the poster",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Art of the poster",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "MORE than 60 original artworks, celebrating a century of outstanding poster design for the capital's transport network, go on display at the London Transport Museum tomorrow."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "'The Art of the Poster: a Century of Design' features leading artists of the day, and delves into how Transport for London became a pioneering patron of poster art - a legacy which continues today.",
+     "Exploring the relationship between fine artists, graphic designers and the commissioning process, the exhibition reveals the stories behind some of the artworks. Discover, for example, why the painting by world-renowned artist John Nash was never published as a poster, and find out why a controversial poster by Edward Wadsworth was withdrawn in the 1930s.",
+     "Poster artworks will form the bulk of the display, supported by photographs, letters, sketches and other artists' materials.",
+     "The exhibition - which runs until March 31 - will be accompanied by a lively talks and events programme, together with a new book 'London Transport Posters - a Century of Art and Design'.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Admission to the exhibition is included in the entry price to the Museum. For more information, go to \\u003ca class=\\\"external-site\\\"title=\\\" (Opens in new window)\\\"href=\\\"http://www.ltmuseum.com\\\"jquery1224061804471=\\\"6\\\"\\u003ewww.ltmuseum.com\\u003c/a\\u003e \"]}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Bus routes diverted due to carriageway resurfacing works on Dagenham Heathway",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Bus routes diverted due to carriageway resurfacing works on Dagenham Heathway",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From 26 January 2008, Dagenham Heathway will be closed at weekends between Reede Road and Church Elm Lane for carriage resurfacing works by Barking \u0026 Dagenham council."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "As a result, bus routes 173, 174 and 175 will be diverted for the next eight weekends.",
+     "This section of the road will be closed in both directions at weekends from 06:00 on Saturdays to 18:00 on Sundays, starting on 26 January (at 06:00).",
+     "The following diversions will take place for the first five weekends from 06:00 on Saturday until 18:00 on Sunday on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday 26 January - Sunday 27 January\",\"Saturday 2 February - Sunday 3 February\",\"Saturday 9 February - Sunday 10 February\",\"Saturday 16 February - Sunday 17 February\",\"Saturday 23 February - Sunday 24 February\"]}",
+     "Routes 173, 174 and 175 (northbound direction) will be diverted from Heathway via Church Elm Lane, Rainham Road South (routes will serve stop A at Dagenham East station), Reede Road and back on to Heathway.",
+     "Routes 173 and 175 (southbound direction) will be diverted from Heathway via Oxlow Lane, Rainham Road South (routes will serve stop B at Dagenham East station), Church Lane, Siviter Way, Church Elm Lane and back on to Heathway.",
+     "Route 174 (southbound direction) will be diverted from Dagenham Road via Rainham Road South (route will serve stop B at Dagenham East station), Church Lane, Siviter Way, Church Elm Lane and back on to Heathway.",
+     "Oxlow Lane will not be served.",
+     "Diversions for the final three weekends of road works are likely to differ.",
+     "Further information will be issued on these when details are confirmed.",
+     "The road works are due to finish on Sunday 16 March.",
+     "Full details of the diversions will be available online.",
+     "Notices advising passengers of the diversions and stopping arrangements will be placed at bus stops in the area.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The road works are part of Barking \\u0026 Dagenham council's plans to regenerate the borough\",\"As the road works progress, routes 145 and 364 will also be diverted over weekends in March. Full details will be issued nearer the time\",\"All London's buses have in-vehicle CCTV and all except the Heritage Routemasters are accessible to wheelchair users\",\"With over 8,000 buses on approximately 700 routes the London bus network has seen usage increase by 45 per cent since 1999/2000\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

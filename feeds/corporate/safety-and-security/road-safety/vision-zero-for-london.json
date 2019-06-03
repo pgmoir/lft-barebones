@@ -1,0 +1,144 @@
+{
+ "pageTitle": "Vision Zero for London",
+ "keywords": "TfL",
+ "description": "The Mayor's Transport Strategy sets out the goal that, by 2041, all deaths and serious injuries will be eliminated from London's transport network",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Safety \u0026 security",
+   "url": "/corporate/safety-and-security/index"
+  },
+  {
+   "title": "Reducing road danger",
+   "url": "/corporate/safety-and-security/road-safety"
+  },
+  {
+   "title": "Vision Zero for London"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Vision Zero for London",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/vision-zero-background-05.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "title": "Vision Zero for London",
+    "texts": [
+     "Together we can eradicate deaths and serious injuries from our roads and make London a safer, healthier and greener place."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "image",
+    "link": {
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/vision-zero-content-02_rdax_400x250.jpg",
+     "alt": "Intersection with pedestrians crossing safely in front of a heavy goods vehicle"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Reducing road danger",
+    "links": [
+     {
+      "title": "Vision Zero for London",
+      "url": "/corporate/safety-and-security/road-safety/vision-zero-for-london",
+      "image": {}
+     },
+     {
+      "title": "Safe speeds",
+      "url": "/corporate/safety-and-security/road-safety/safe-speeds",
+      "image": {}
+     },
+     {
+      "title": "London collision map",
+      "url": "/corporate/safety-and-security/road-safety/london-collision-map",
+      "image": {}
+     },
+     {
+      "title": "Safety enforcement cameras",
+      "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
+      "image": {}
+     },
+     {
+      "title": "Bus safety",
+      "url": "/corporate/safety-and-security/road-safety/bus-safety",
+      "image": {}
+     },
+     {
+      "title": "Cycle safety",
+      "url": "/corporate/safety-and-security/road-safety/cycle-safety",
+      "image": {}
+     },
+     {
+      "title": "Cycle security",
+      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
+      "image": {}
+     },
+     {
+      "title": "Driver safety",
+      "url": "/corporate/safety-and-security/road-safety/driver-safety",
+      "image": {}
+     },
+     {
+      "title": "Walking safety",
+      "url": "/corporate/safety-and-security/road-safety/walking-safety",
+      "image": {}
+     },
+     {
+      "title": "Community Roadwatch",
+      "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
+      "image": {}
+     },
+     {
+      "title": "Safe Streets for London",
+      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Reducing road danger",
+     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "pageTitle": "Underground Safety Certificate",
+ "keywords": "Public,S,U,Corporate information,Safety and security,Tube,TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Underground Safety Certificate"
+  }
+ ],
+ "title": {
+  "title": "Underground Safety Certificate",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Under the Railways and Other Guided Transport Systems (Safety) Regulations 2006, TfL must apply to the Office of Rail and Road (ORR) for certification and authorisation to operate trains, stations and infrastructure safely.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The ORR accepted our application for Safety Certification and Safety Authorisation in January 2017. The document is valid until January 2022.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safety Certificate\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Safety Certificate and Safety Authorisation document\",\"url\":\"/cdn/static/cms/documents/london-underground-safety-certificate-and-safety-authorisation.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.85MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You can also see our Safety Certificate and Authorisation on the \u003ca href=\"http://www.rail-reg.gov.uk/server/show/nav.2043\"\u003eORR's website\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

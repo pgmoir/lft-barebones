@@ -1,0 +1,161 @@
+{
+ "pageTitle": "Design \u0026 branding",
+ "keywords": "Online developers,TfL",
+ "description": "Branding guidelines for using TfL open data",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Open data users",
+   "url": "/info-for/open-data-users/index"
+  },
+  {
+   "title": "Design \u0026 branding"
+  }
+ ],
+ "title": {
+  "title": "Design \u0026 branding",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page covers guidelines for using TfL branding when developing third party apps and services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use our data - not our brand\"}",
+     "If people see our brand, such as an app in TfL font, something named 'official' or using our logo (the roundel), they'll think that we've produced or endorsed the app. This means that we get the credit for all your hard work - as well as the blame if something goes wrong.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/app-design-guidelines_rdax_400x250.jpg\",\"alt\":\"Examples of how NOT to use our branding\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Please don't\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Use our brands, including the TfL roundel\",\"Use our trademarks\",\"Use the Oyster logo or colour schema\",\"Use our maps without a licence\",\"Use New Johnston font without a license\",\"Edit or alter our logo or trademarks\",\"Use any terms that imply a commercial\\n    partnership with TfL (like  'official' or\\n    'in partnership')\",\"Remove or change any file paths to logos\\n    or the official colour scheme within feeds\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Please do:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Follow our design standards if using our logos in a map. \\u003ca href=\\\"/info-for/suppliers-and-contractors/design-standards\\\"\\u003eRead the design standards\\u003c/a\\u003e \",\"Use the words 'London Underground', 'Tube','London Buses', 'DLR', 'London Overground', 'London River Services' and 'Emirates Air Line'\",\"Call the cycle hire scheme 'Santander Cycles' - they're the sponsor, so it's part of the deal\",\"Include any branding supplied by feeds\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Service updates\"}",
+     "We have created a style guide to show you how we display live Tube travel information and provide guidance on how to reproduce this.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"User guide for the presentation of service updates\",\"url\":\"/cdn/static/cms/documents/tube-status-presentation-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 85KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Open data users",
+    "links": [
+     {
+      "title": "Open data policy",
+      "url": "/info-for/open-data-users/open-data-policy",
+      "image": {}
+     },
+     {
+      "title": "Unified API",
+      "url": "/info-for/open-data-users/unified-api",
+      "image": {}
+     },
+     {
+      "title": "Our open data",
+      "url": "/info-for/open-data-users/our-open-data",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 branding",
+      "url": "/info-for/open-data-users/design-and-branding",
+      "image": {}
+     },
+     {
+      "title": "Widgets",
+      "url": "/info-for/open-data-users/widgets",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Open data users",
+     "url": "/info-for/open-data-users/widgets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Design standards",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Terms \u0026 conditions",
+      "url": "/corporate/terms-and-conditions/transport-data-service",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Open Government Licence",
+      "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "pageTitle": "Work continues in London Bridge Station area",
+ "description": "Continuing works by Network Rail in the London Bridge area will mean that London Bridge bus station will be closed to all buses and taxis this weekend and for a further six weekends over the next two months. The work, part of the Thameslink Project, means",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Work continues in London Bridge Station area",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Weekend closure of London Bridge bus station and taxi rank to enable continuing Thameslink works."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Continuing works by Network Rail in the London Bridge area will mean that London Bridge bus station will be closed to all buses and taxis this weekend and for a further six weekends over the next two months.",
+     "The work, part of the Thameslink Project, means that London Bridge bus station will have to close this weekend between 00:01 Saturday 24 March until 23:59 on Sunday 25 March.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus routes affected\"}",
+     "Bus routes affected are numbers 17, 21, 35, 40, 43, 48, 133, 141, 149, 343, 381, RV1, N21, N343 and N381.",
+     "Revised stopping arrangements will be clearly displayed on posters around the bus station, in local bus stops and on the TfL website \u003ca href=\"http://www.tfl.gov.uk/livetravelnews\"\u003ewww.tfl.gov.uk/livetravelnews\u003c/a\u003e .",
+     "Passengers are advised to allow extra time to complete their journeys. The changes will be the same for every weekend the bus station is closed.",
+     "Taxis will also be unable to serve the rank at London Bridge bus station but passengers will be able to catch taxis from the ranks on Tooley Street located near the entrance to the London Dungeon attraction.",
+     "Taxi marshals will be available to assist with any onward journeys.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"More capacity, fewer delays\"}",
+     "Transport for London would like to apologise for any inconvenience these temporary changes may cause.",
+     "When the project is complete it will deliver improvements to the rail station, Underground station and bus station.",
+     "Borough Viaduct will double the number of tracks heading north from London Bridge, unlocking extra capacity at London Bridge and reducing delays for passengers coming into London from the South East. Full details are available online \u003ca href=\"http://www.thameslinkprogramme.co.uk\"\u003ewww.thameslinkprogramme.co.uk\u003c/a\u003e ",
+     "Dates of closure are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"31 March-1 April (48hrs)\",\"6-9 April (96hrs)\",\"14 April (24hrs)\",\"21-22 April (48hrs)\",\"28-29 April (48hrs)\",\"5-7 May (72hrs)\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

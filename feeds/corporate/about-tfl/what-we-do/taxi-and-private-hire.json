@@ -1,0 +1,203 @@
+{
+ "pageTitle": "Taxis \u0026 private hire",
+ "keywords": "Public,Taxi and private hire,Taxis and minicabs,TfL",
+ "description": "We are the licensing authority for London's taxi and private hire operations, including minicabs, executive cars and chauffeur-driven services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "What we do",
+   "url": "/corporate/about-tfl/what-we-do"
+  },
+  {
+   "title": "Taxis \u0026 private hire"
+  }
+ ],
+ "title": {
+  "title": "Taxis \u0026 private hire",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We have four key responsibilities for taxi and private hire services in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Find out about our related services for customers on the \u003ca href=\"/modes/taxis-and-minicabs/index\"\u003eTaxis \u0026 minicab page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Regulator\"}",
+     "We set regulations and policies for taxi (black cab) and private hire (minicab and chauffeur) services to protect customers, and ensure vehicles are safe, accessible and meet strict environmental standards.",
+     "For taxi services, we are also responsible for setting regulated taxi fares and we work with London boroughs to appoint taxi ranks across London.",
+     "Policy decisions are subject to public consultations, customer research, and/or engagement with interested parties, including the taxi and private hire industries.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Licensing Authority\"}",
+     "We are responsible for licensing all taxi drivers and vehicles, and private hire operators, drivers and vehicles in London. We also set the requirements for licensing to ensure that we maintain the highest standards possible in both industries.",
+     "All taxi and private hire driver applicants must meet strict criteria to ensure they are 'fit and proper' before becoming licensed. Many of these checks are completed again every three years as they renew their licence. Requirements include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Drivers must be of good character. To establish this, applicants and existing drivers must apply for \\u003ca href=\\\"https://www.gov.uk/government/organisations/disclosure-and-barring-service\\\"\\u003eHome Office 'enhanced' disclosure and barring service check\\u003c/a\\u003e (formerly known as a criminal records check)\",\"Drivers must be medically fit - this means meeting the DVLA Group 2 medical standards. When applying for a licence they must undergo a detailed medical examination with a registered practitioner who has access to their full medical history. Medical checks are repeated periodically depending on known medical conditions and the age of the driver\",\"Drivers must prove their navigational and route planning skills. The standard differs for taxi and private hire applicants\",\"Taxi drivers must study and pass the world-famous Knowledge of London\",\"Private hire drivers must undergo a topographical assessment designed to test navigational skills and route-planning ability as well as basic geographical awareness of London and its surrounds\",\"Private hire drivers must be able to communicate in English at an appropriate level\"]}",
+     "Taxis, private hire vehicles, and private hire operators must also meet a number of requirements in order to be licensed.",
+     "Full details of all the criteria required is available on \u003ca href=\"/info-for/taxis-and-private-hire/licensing\"\u003eour licensing pages\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Enforcement Authority\"}",
+     "We work closely with the taxi and private hire trade, the Metropolitan Police Service and the City of London Police to ensure the safety of passengers using London's taxi and private hire services. This includes tackling touting and unlawful plying for hire",
+     "More information is available on \u003ca href=\"/info-for/taxis-and-private-hire/compliance-and-enforcement\"\u003eour compliance and enforcement page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic Transport Authority\"}",
+     "We are responsible for implementing the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e and the \u003ca href=\"/corporate/publications-and-reports/taxi-and-private-hire\"\u003eTaxi and Private Hire Action Plan\u003c/a\u003e which sets out the transport vision for London and details how we will deliver the plan between now and 2031.",
+     "This includes plans to significantly reduce emissions in the Capital. As part of this, as of 1 January 2018 all newly licensed taxis are zero emission-capable."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "What we do",
+    "links": [
+     {
+      "title": "Buses",
+      "url": "/corporate/about-tfl/what-we-do/buses",
+      "image": {}
+     },
+     {
+      "title": "Coaches",
+      "url": "/corporate/about-tfl/what-we-do/coaches",
+      "image": {}
+     },
+     {
+      "title": "Cycling",
+      "url": "/corporate/about-tfl/what-we-do/cycling",
+      "image": {}
+     },
+     {
+      "title": "Docklands Light Railway",
+      "url": "/corporate/about-tfl/what-we-do/docklands-light-railway",
+      "image": {}
+     },
+     {
+      "title": "Emirates Air Line",
+      "url": "/corporate/about-tfl/what-we-do/emirates-air-line",
+      "image": {}
+     },
+     {
+      "title": "London Dial-a-Ride",
+      "url": "/corporate/about-tfl/what-we-do/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "London Overground",
+      "url": "/corporate/about-tfl/what-we-do/london-overground",
+      "image": {}
+     },
+     {
+      "title": "London Trams",
+      "url": "/corporate/about-tfl/what-we-do/london-trams",
+      "image": {}
+     },
+     {
+      "title": "London Transport Museum",
+      "url": "/corporate/about-tfl/what-we-do/london-transport-museum",
+      "image": {}
+     },
+     {
+      "title": "London Underground",
+      "url": "/corporate/about-tfl/what-we-do/london-underground",
+      "image": {}
+     },
+     {
+      "title": "River",
+      "url": "/corporate/about-tfl/what-we-do/river",
+      "image": {}
+     },
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 private hire",
+      "url": "/corporate/about-tfl/what-we-do/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "TfL Rail",
+      "url": "/corporate/about-tfl/what-we-do/tfl-rail",
+      "image": {}
+     },
+     {
+      "title": "Walking",
+      "url": "/corporate/about-tfl/what-we-do/walking",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "What we do",
+     "url": "/corporate/about-tfl/what-we-do/walking",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/info-for/taxis-and-private-hire/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cab enforcement",
+      "url": "/corporate/safety-and-security/security-on-the-network/cab-enforcement",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Environment",
+      "url": "/corporate/about-tfl/environment",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxis \u0026 minicabs",
+      "url": "/modes/taxis-and-minicabs/index",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

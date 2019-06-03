@@ -1,0 +1,63 @@
+{
+ "pageTitle": "Prudential RideLondon 2018",
+ "keywords": "TfL,RideLondon, Prudential RideLondon",
+ "description": "Travel advice and information for Prudential RideLondon, Saturday 28 and Sunday 29 July 2018",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Prudential RideLondon 2018"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "RideLondon",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/webpageheader1.png",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "The Prudential RideLondon cycling events return on Saturday 28 July on closed roads in central London and on Sunday 29 July on closed roads in east, central and south-west London, and in parts of Surrey."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Rush-hour DLR services to Bank reduced next week",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Rush-hour DLR services to Bank reduced next week",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Essential engineering work to escalators is required at Bank."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Docklands Light Railway (DLR) services from Woolwich Arsenal into Bank Station will terminate at Shadwell station between 7:30 and 9:30, and 17:00 and 19:00 from Monday 6 April untill Thursday 9 April.",
+     "Other DLR services will continue to Bank as usual.",
+     "This change is due to escalator works by London Underground at Bank which will require one of the escalators connecting the DLR platforms with the rest of the station to be shut down.",
+     "The number of DLR trains arriving at the station is therefore being reduced to minimise the risk of overcrowding on the platforms.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Alternative routes\"}",
+     "The work will take nine days to complete but by doing it over the Easter break, the inconvenience of the service reduction will be limited to just four normal working days before Easter.",
+     "The escalator work is due to be completed by Tuesday 14 April, when full DLR services will be restored to Bank.",
+     "During the work, services from Lewisham to Bank will operate as normal and passengers should try and use the Jubilee line at Canning Town or Canary Wharf stations for journeys into central London.",
+     "A Transport for London (TfL) spokesperson said: 'We're reducing the number of DLR services into Bank while we carry out these essential escalator repairs.",
+     "'We apologise for any inconvenience.'",
+     "{\"template\":\"bulletlist\"}",
+     "@this.ScriptBlock(\n        @script)"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

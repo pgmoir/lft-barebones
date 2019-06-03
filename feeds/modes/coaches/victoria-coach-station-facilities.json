@@ -1,0 +1,128 @@
+{
+ "pageTitle": "Victoria Coach Station facilities",
+ "keywords": "Public,Visitors,Buses,London Overground,Rail,Taxis and minicabs,Tube,TfL",
+ "description": "Most of Victoria Coach Station's amenities are located in the main Departures area. Open the panels below to find out more about shops, checking in, toilets and more.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Coaches",
+   "url": "/modes/coaches/index"
+  },
+  {
+   "title": "Victoria Coach Station facilities"
+  }
+ ],
+ "title": {
+  "title": "Victoria Coach Station facilities",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Most of Victoria Coach Station's amenities are in the main departures area. Open the panels below to find out about shops, checking in, toilets and more.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Opening hours\"}",
+     "The left luggage office is open daily between 08:30-22:00.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Security notice\"}",
+     "All items of left luggage will be examined using detection equipment, so you may be asked to open your bag for physical inspection. If you refuse, your luggage will not be accepted and the police will be notified.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Left luggage tariffs\"}",
+     "{\"template\":\"table\",\"titles\":[\"\",\"Weight\",\"Rate\",\"Surcharge rate\"],\"rows\":[[],[\"\\u003cstrong\\u003eUp to 2 hours\\u003c/strong\\u003e \",\"Below 20kg\",\"£3.50\",\"£2.50 (If the item is collected on the same day)\"],[\"\\u003cstrong\\u003eUp to 2 hours\\u003c/strong\\u003e \",\"Above 20kg\",\"£3.50\",\"£4.50 (If the item is collected on the same day)\"],[\"\\u003cstrong\\u003e 2-24 hours\\u003c/strong\\u003e \",\"Below 20kg\",\"£5.50\",\"£5.50 per 24 hours\"],[\"\\u003cstrong\\u003e2-24 hours\\u003c/strong\\u003e \",\"Above 20kg\",\"£5.50\",\"£7.50 per 24 hours\"]]}",
+     "Toilets can be found:",
+     "{\"template\":\"bulletlist\",\"items\":[\"By Gate 2 in Departures (via stairs to basement level)\",\"By Gate 12 in Departures (at ground level)\",\"In Arrivals (unisex toilets, at ground level)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessible toilets\"}",
+     "Easy-access toilets for people with impaired mobility can be found:",
+     "{\"template\":\"bulletlist\",\"items\":[\"In Arrivals\",\"Inside the Mobility Lounge, opposite Gate 0 in Departures\"]}",
+     "If you don't carry a Royal Association for Disability and Rehabilitation (Radar) key, please ask the attendant in Arrivals or inside the Mobility Lounge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Baby changing rooms\"}",
+     "Baby changing rooms, for both mums and dads, are located next to the toilets in Arrivals and next to the toilets by gates 2 and 12 in Departures.",
+     "Refreshment facilities are available throughout Departures and Arrivals terminals. Shops include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"City Kiosk - in Arrivals\",\"Il Corriere - in Arrivals\",\"Greggs - opposite Gate 1\",\"Pret A Manger - opposite Gates 3 and 4\",\"Treats - by Gate 12\",\"Whistlestop - main entrance and opposite Gate 13\",\"Treats Canteen - opposite Gate 17 (upstairs)\"]}",
+     "If you are arriving at Victoria Coach Station (VCS) by coach, porters will be available in Arrivals. Our porters can help you get to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Departures\",\"Victoria rail and Underground stations\",\"The Green Line coach terminal\"]}",
+     "If you are departing from VCS by coach and require the assistance of a porter, either speak to a uniformed member of staff or visit the Mobility Lounge by Gate 0 in Departures.",
+     "All licensed luggage porters at the station are self-employed and rely on your generosity for their income. A payment for their services will be expected.",
+     "There are a number public payphones located in Departures and Arrivals. There is also a MiniCom-enabled payphone next to the information desk in the main entrance of Departures.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bureaux de change\"}",
+     "Bureaux de change are located in Arrivals and inside the main entrance in Departures.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cash machines\"}",
+     "Cash machines are located inside the main entrance to Departures and in the Arrivals terminal.",
+     "Passengers travelling within the UK are advised to arrive at least 30 minutes before their bus is due to leave. This allows time to check the monitors for gate information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelling to the continent\"}",
+     "If you are travelling to Ireland or Continental Europe, please arrive one hour before you're due to leave, and check the monitors for gate information. You may be required to check in before departure."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Coaches",
+    "links": [
+     {
+      "title": "Victoria Coach Station",
+      "url": "/modes/coaches/victoria-coach-station",
+      "image": {}
+     },
+     {
+      "title": "Victoria Coach Station facilities",
+      "url": "/modes/coaches/victoria-coach-station-facilities",
+      "image": {}
+     },
+     {
+      "title": "Coach companies",
+      "url": "/modes/coaches/coach-companies",
+      "image": {}
+     },
+     {
+      "title": "Mobility assistance",
+      "url": "/modes/coaches/mobility-assistance",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Coaches",
+     "url": "/modes/coaches/mobility-assistance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

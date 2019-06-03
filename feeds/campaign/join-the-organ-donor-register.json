@@ -1,0 +1,86 @@
+{
+ "pageTitle": "Join the organ donor register",
+ "keywords": "TfL",
+ "description": "We've joined forces with NHS Blood and Transplant to encourage our customers to help save lives.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Join the organ donor register"
+  }
+ ],
+ "title": {
+  "title": "Join the organ donor register",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We've joined forces with NHS Blood and Transplant to encourage our customers to help save lives.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/organ-donation_rdax_400x250.jpg\",\"alt\":\"Caragh Rough, 16, had a liver transplant from an organ donor in 1999'\"},\"wrapped\":false}",
+     "Customers can now join the NHS Organ Donor Register when they sign in to their Oyster or contactless accounts.",
+     "See the 'Help save a life' button when you \u003ca href=\"https://oyster.tfl.gov.uk/oyster/entry.do\"\u003esign in to your Oyster account\u003c/a\u003e .",
+     "We hope this partnership will increase the number of people joining the NHS Organ Donor Register and sharing their donation decision with their family.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"You could save someone's life\"}",
+     "By donating your organs after you die, you could help save and transform the lives of desperately ill people.",
+     "Each donor is precious:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Around 7,000 people across the UK are waiting for an organ transplant\",\"On average three people die every day due to a shortage of donated organs\",\"Black and Asian communities are particularly underrepresented on the register\"]}",
+     "If you needed an organ transplant would you have one? If so please help others.",
+     "\u003cstrong\u003ea\u003c/strong\u003e ",
+     "To find out more about organ donation visit \u003ca href=\"https://www.organdonation.nhs.uk?campaign=2341\u0026utm_source=tfl\u0026utm_medium=referral\u0026utm_content=campaign_page_hp\u0026utm_campaign=partner\"\u003eorgandonation.nhs.uk\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

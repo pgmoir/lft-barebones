@@ -1,0 +1,74 @@
+{
+ "pageTitle": "TfL wants your views",
+ "description": "People living or working in Hillingdon, Harrow and Ealing are being encouraged to take part in the consultation.It is proposed that existing route 398 be split into two separate services.The revised route 398 would run from Ruislip to the Wood End Estate",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL wants your views",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "LONDON Buses is seeking the views of residents and bus users of north-west London on proposed bus route changes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "People living or working in Hillingdon, Harrow and Ealing are being encouraged to take part in the consultation.",
+     "It is proposed that existing route 398 be split into two separate services.",
+     "The revised route 398 would run from Ruislip to the Wood End Estate in Northolt, providing the estate with a bus service for the first time.",
+     "New route 395 would run from Harrow-on-the-Hill to Westway Cross Retail Park, providing more buses for passengers along the busiest stretch of existing route 398 between South Harrow and Westway Cross Retail Park.",
+     "The consultation opens today and closes on Friday, March 20.",
+     "Information leaflets on the proposals, including pre-paid reply slips, will be available in the Wood End Library and Community Centre and in other local libraries during the consultation period.",
+     "For more information and details of how to respond, go to tfl.gov.uk/busrouteconsultation or call 0845 300 7000",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New bus route for west London\"}",
+     "A BUS route is now running between Central Middlesex Hospital and Maida Hill.",
+     "Route 228 runs via Harlesden, Shepherd's Bush and Holland Park, improving access to the White City Estate, Central Middlesex Hospital and Park Royal industrial estate.",
+     "Buses run about every 12 minutes during the day and every 20 minutes during the evenings and on Sundays."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

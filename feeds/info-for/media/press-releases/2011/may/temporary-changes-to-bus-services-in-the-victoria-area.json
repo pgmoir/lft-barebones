@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Temporary changes to bus services in the Victoria area",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Temporary changes to bus services in the Victoria area",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From Tuesday 3 May the main construction works for the Victoria station upgrade will commence affecting several bus routes which serve the area."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The following routes will be affected during these works:",
+     "These routes will change stops within the bus station at Terminus Place.",
+     "Routes 38 and N38 will use bus stop D, with routes 73 and N73 using bus stop C.",
+     "Heading towards Westminster the routes will serve bus stop S in Buckingham Palace Road instead of bus stop E in Terminus Place.",
+     "These routes will also be diverted via Grosvenor Gardens, Lower Grosvenor Place and Bressenden Place to Victoria Street.",
+     "Heading towards Camberwell this route will not serve bus stop P in Buckingham Palace Road or stop E in Terminus Place.",
+     "The nearest stop will be bus stop N in Victoria Street.",
+     "Heading  towards Waterloo this route will not serve Victoria Street.",
+     "It will be diverted via Vauxhall Bridge Road and Rochester Row joining its normal line of route on Horseferry Road.",
+     "The project completion date is due in 2018 with bus services and routes subject to possible further changes.",
+     "Details of \u003ca href=\"http://www.tfl.gov.uk/vsu\"\u003ediversions and stopping arrangements \u003c/a\u003e during these works will be available at local bus stops, around the bus station and on the Transport for London website.",
+     "Bus station staff will also be available to help passengers with onwards connections."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

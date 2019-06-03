@@ -1,0 +1,103 @@
+{
+ "pageTitle": "Guidance for planning applicants",
+ "keywords": "TfL",
+ "description": "Find out how we can help you with your planning application",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Guidance for planning applicants"
+  }
+ ],
+ "title": {
+  "title": "Guidance for planning applicants",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out about our priorities and requirements for healthy and safe travel when you make a planning application in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our approaches\"}",
+     "All planning applications in London should use the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets Approach\u003c/a\u003e from the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e (MTS). We use this approach for all our \u003ca href=\"/travel-information/improvements-and-projects/index\"\u003eimprovements and projects\u003c/a\u003e .",
+     "The Strategy's goal is to create healthy streets where everyone feels safe walking, cycling and using public transport. We also use a \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eVision Zero Approach\u003c/a\u003e to public safety which aims to eliminate all deaths and serious injuries from London's transport network by 2041.",
+     "The Healthy Streets and Vision Zero approaches help new developments in London improve air quality, reduce congestion and make the city a greener, healthier and more attractive place to live, work, play and do business.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our guidance\"}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Our approach to assessment\",\"texts\":[\"Why and how we assess the transport impact of your planning application\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/transport-assessment-guide/our-approach-to-assessment\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Transport Assessments\",\"texts\":[\"How to create a Transport Assessment and templates to use\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/transport-assessment-guide/transport-assessments\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Trip generation\",\"texts\":[\"How to estimate the amount and type of new trips at new developments\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/transport-assessment-guide/trip-generation\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Planning obligations\",\"texts\":[\"Our involvement in transport related planning obligations\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/transport-assessment-guide/planning-obligations\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Highway works\",\"texts\":[\"All highway works on roads in London are made under Section 278 agreements\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/transport-assessment-guide/highway-works\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Freight\",\"texts\":[\"Use our plans in your application to minimise the impact of freight movements\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/transport-assessment-guide/freight\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Roadworks and street faults\",\"texts\":[\"See how we manage roadworks, street and traffic light faults in London\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/our-land-and-infrastructure/roadworks-and-street-faults\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "pageTitle": "Remarriage and divorce",
+ "keywords": "TfL",
+ "description": "How your TfL Pension Fund benefits can be treated if you get divorced or remarry.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Your pension",
+   "url": "/pensions/your-pension"
+  },
+  {
+   "title": "Remarriage and divorce"
+  }
+ ],
+ "title": {
+  "title": "Remarriage and divorce",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you get divorced, the court may take your pension benefits into account when reaching a settlement with your ex-spouse.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There are three different ways your pension benefits can be treated:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pension sharing. The value of your pension is split between you and your ex-spouse. Your own pension will reduce and your ex-spouse will become entitled to a 'pension credit' in his or her own right. The level of the split will be determined as part of the settlement\",\"Earmarking. A portion of your pension is 'earmarked' for payment to your ex-spouse\",\"As an alternative to pension sharing or earmarking, your pension will remain intact and you and your ex-spouse will divide other assets, taking account of the value of your pension when doing so\"]}",
+     "Your solicitor will be able to give you more guidance as to the different options available.",
+     "You may find \u003ca href=\"http://www.divorceaid.co.uk/\"\u003ehttp://www.divorceaid.co.uk\u003c/a\u003e useful.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens to my pension if I remarry?\"}",
+     "Your pension will continue to be paid as normal whether you are receiving a pension in respect of your own Fund membership or are receiving an adult dependant's pension."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Your contributions",
+      "url": "/pensions/your-pension/your-contributions",
+      "image": {}
+     },
+     {
+      "title": "Joining and leaving the fund",
+      "url": "/pensions/your-pension/joining-and-leaving-the-fund",
+      "image": {}
+     },
+     {
+      "title": "Retirement",
+      "url": "/pensions/your-pension/retirement",
+      "image": {}
+     },
+     {
+      "title": "Ill-health retirement",
+      "url": "/pensions/your-pension/ill-health-retirement",
+      "image": {}
+     },
+     {
+      "title": "Benefits on death",
+      "url": "/pensions/your-pension/benefits-on-death",
+      "image": {}
+     },
+     {
+      "title": "Contracting-out",
+      "url": "/pensions/your-pension/contracting-out",
+      "image": {}
+     },
+     {
+      "title": "Pension payments and deductions",
+      "url": "/pensions/your-pension/pension-payments-and-deductions",
+      "image": {}
+     },
+     {
+      "title": "Remarriage and divorce",
+      "url": "/pensions/your-pension/remarriage-and-divorce",
+      "image": {}
+     },
+     {
+      "title": "Member self-service",
+      "url": "/pensions/your-pension/member-self-service",
+      "image": {}
+     },
+     {
+      "title": "Staff travel",
+      "url": "/pensions/your-pension/staff-travel",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

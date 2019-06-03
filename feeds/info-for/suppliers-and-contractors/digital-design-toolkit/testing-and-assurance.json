@@ -1,0 +1,178 @@
+{
+ "pageTitle": "Testing \u0026 assurance",
+ "keywords": "TfL",
+ "description": "To ensure compliance, all work completed for us will be sent for testing to determine whether it meets our strict criteria. All our testing standards and acceptance criteria can be found on this page.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Digital toolkit",
+   "url": "/info-for/suppliers-and-contractors/digital-toolkit"
+  },
+  {
+   "title": "Testing \u0026 assurance"
+  }
+ ],
+ "title": {
+  "title": "Testing \u0026 assurance",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"To ensure compliance, all work completed for us will be sent for testing to determine whether it meets our strict criteria. All our testing standards and acceptance criteria can be found on this page.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Assurance\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Go live acceptance criteria\",\"url\":\"/cdn/static/cms/documents/onl-std-032-go-live-acceptance-criteria.pdf\",\"icon\":\"download\",\"size\":\"PDF 36KB\",\"image\":{}},{\"title\":\"Service acceptance criteria\",\"url\":\"/cdn/static/cms/documents/onl-gui-018-service-acceptance-criteria.pdf\",\"icon\":\"download\",\"size\":\"PDF 36KB\",\"image\":{}},{\"title\":\"UAT and sign off\",\"url\":\"/cdn/static/cms/documents/onl-std-026-user-acceptance-testing-and-sign-off.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Testing\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guide to testing requirements\",\"url\":\"/cdn/static/cms/documents/onl-gui-001-guide-to-testing-requirements.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Business scenario testing standard\",\"url\":\"/cdn/static/cms/documents/onl-std-003-business-scenario-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}},{\"title\":\"Compatibility testing standard\",\"url\":\"/cdn/static/cms/documents/onl-std-022-compatibility-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 33KB\",\"image\":{}},{\"title\":\"Development testing standard\",\"url\":\"/cdn/static/cms/documents/onl-std-004-development-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 33KB\",\"image\":{}},{\"title\":\"Functional testing standard\",\"url\":\"/cdn/static/cms/documents/plugin-onl-std-005-functional-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 31KB\",\"image\":{}},{\"title\":\"Integration testing standard\",\"url\":\"/cdn/static/cms/documents/onl-std-023-integration-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 38KB\",\"image\":{}},{\"title\":\"Operational acceptance testing\",\"url\":\"/cdn/static/cms/documents/onl-gui-019-operational-acceptance-testing.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}},{\"title\":\"Penetration testing standard\",\"url\":\"/cdn/static/cms/documents/onl-std-006-penetration-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 33KB\",\"image\":{}},{\"title\":\"Performance testing standard\",\"url\":\"/cdn/static/cms/documents/onl-std-007-performance-testing-standard.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Suppliers \u0026 contractors",
+    "links": [
+     {
+      "title": "Become a TfL supplier",
+      "url": "/info-for/suppliers-and-contractors/become-a-supplier",
+      "image": {}
+     },
+     {
+      "title": "Find contract opportunities",
+      "url": "/info-for/suppliers-and-contractors/opportunities",
+      "image": {}
+     },
+     {
+      "title": "Invoicing and getting paid",
+      "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+      "image": {}
+     },
+     {
+      "title": "What we buy",
+      "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Supplier relations",
+      "url": "/info-for/suppliers-and-contractors/supplier-relations",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "image": {}
+     },
+     {
+      "title": "How we work",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/how-we-work",
+      "image": {}
+     },
+     {
+      "title": "Understanding our users",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/understanding-our-users",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 content",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content",
+      "image": {}
+     },
+     {
+      "title": "Technical",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/technical",
+      "image": {}
+     },
+     {
+      "title": "Testing \u0026 assurance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance",
+      "image": {}
+     },
+     {
+      "title": "Digital accessibility testing standard",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-testing-standard",
+      "image": {}
+     },
+     {
+      "title": "Support \u0026 maintenance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/support-and-maintenance",
+      "image": {}
+     },
+     {
+      "title": "Health, safety \u0026 environment",
+      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
+      "image": {}
+     },
+     {
+      "title": "Design standards \u0026 licensing",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "image": {}
+     },
+     {
+      "title": "London Buses tenders",
+      "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+      "image": {}
+     },
+     {
+      "title": "London Service Permits",
+      "url": "/info-for/suppliers-and-contractors/london-service-permits",
+      "image": {}
+     },
+     {
+      "title": "TfL Supplier Awards",
+      "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Suppliers \u0026 contractors",
+     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

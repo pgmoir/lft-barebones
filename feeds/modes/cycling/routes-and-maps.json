@@ -1,0 +1,144 @@
+{
+ "pageTitle": "Routes \u0026 maps",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Discover London with our family-friendly cycle routes",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Routes \u0026 maps"
+  }
+ ],
+ "title": {
+  "title": "Routes \u0026 maps",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Cycle map",
+    "texts": [
+     "See cycle routes and Santander Cycle docking stations"
+    ],
+    "link": {
+     "url": "/maps/cycle?\u0026intcmp=58492",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/map-teaser.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Quietways",
+    "texts": [
+     "We're working to create Quietway cycling routes across London"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/quietways",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-quietway-two_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Cycle Superhighways",
+    "texts": [
+     "We're working to create Cycle Superhighways across London"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycle-superhighway-farringdon-road_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "New cycle routes",
+    "texts": [
+     "We're expanding the cycle network to connect people and places all over London"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/new-cycle-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Leisure routes",
+    "texts": [
+     "Discover London's hidden gems with a hire bike"
+    ],
+    "link": {
+     "url": "/modes/cycling/santander-cycles/leisure-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "TfL \u0026 British Cycling",
+    "texts": [
+     "Find guided rides and search leisure routes to suit all abilities"
+    ],
+    "link": {
+     "url": "/campaign/tfl-and-british-cycling",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Mini-Holland programme",
+      "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

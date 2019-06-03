@@ -1,0 +1,112 @@
+{
+ "pageTitle": "New trains",
+ "keywords": "TfL",
+ "description": "We have introduced new trains on the Liverpool Street to Shenfield route currently operating as TfL Rail",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Elizabeth line",
+   "url": "/travel-information/improvements-and-projects/elizabeth-line"
+  },
+  {
+   "title": "New trains"
+  }
+ ],
+ "title": {
+  "title": "New trains",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"New trains have been introduced on the Liverpool Street to Shenfield, and Paddington to Hayes \\u0026 Harlington routes which currently operate as TfL Rail.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/elizabeth-line-train-interior-seats.jpg\",\"alt\":\"Interior of Elizabeth line trains running on TfL Rail\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Features\"}",
+     "The new, high-capacity trains have:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Seven fully interconnected, walk-through carriages. These will be converted to nine carriages\",\"More standing room with a mixture of seating types\",\"Air-conditioning\",\"CCTV\",\"Information on next stops for customers\",\"Four dedicated wheelchair spaces as well as separate multi-use spaces which can also be used for buggies, luggage and bicycles\"]}",
+     "Three sets of double doors along each carriage make it quicker and easier for customers to get on and off the train. Intelligent lighting and temperature control on the driver-operated trains help to regenerate electricity back into the supply when braking and use up to 30% less energy.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Building the new trains\"}",
+     "The new trains are being built at Bombardier Transportation's UK site, helping to support 760 UK jobs and 80 apprenticeships in Derby.",
+     "{\"template\":\"video\",\"style\":\"5ezWVZ5UHdU\",\"title\":\"CGI of new Elizabeth line trains\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Elizabeth line",
+    "links": [
+     {
+      "title": "What we've done so far",
+      "url": "/travel-information/improvements-and-projects/what-we-ve-done-so-far",
+      "image": {}
+     },
+     {
+      "title": "New trains",
+      "url": "/travel-information/improvements-and-projects/new-trains",
+      "image": {}
+     },
+     {
+      "title": "Improving accessibility",
+      "url": "/travel-information/improvements-and-projects/improving-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Preparing for the Elizabeth line",
+      "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Elizabeth line",
+     "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

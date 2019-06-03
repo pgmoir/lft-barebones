@@ -1,0 +1,127 @@
+{
+ "pageTitle": "Terms and Conditions",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  }
+ ],
+ "title": {
+  "title": "Terms and Conditions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "This website is provided for members, prospective members and beneficiaries of the TfL Pension Fund (referred to as the Fund) by TfL and the Trustee of the Fund.",
+     "The Fund is governed by the Trust Deed and Rules of the Fund. A copy is available online or from:",
+     "TfL Pension Fund\u003cbr /\u003eWing Over Station\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon\u003cbr /\u003eSW1H 0BD",
+     "TfL and the Trustee of the Fund may at any time revise these Terms and Conditions without notice. It is up to the user to review regularly the Terms and Conditions in case there are any changes. Continued use of the TfL Pension Fund website after a change has been made is to be treated as acceptance of that change by the user.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Disclaimer\"}",
+     "While TfL and the Trustee of the Fund try hard to ensure that this website is functioning correctly and is as accurate as possible, this will not always be achievable and therefore the following disclaimer applies.",
+     "The website is provided 'as is' without any representation or endorsement made and without warranty of any kind whether express or implied, including but not limited to the implied warranties of satisfactory quality, fitness for a particular purpose, compatibility, non-infringement, accuracy and security. TfL and the Trustee of the Fund do not guarantee or represent that the content and/or facilities available or accessible via the website will always be accurate, complete or current, or that access to the website will be uninterrupted.",
+     "TfL and the Trustee of the Fund expressly disclaim all liability for any direct, indirect or consequential loss or damage occasioned from the use or inability to use the website, whether directly or indirectly resulting from inaccuracies, defects, viruses, errors - whether typographical or otherwise, omissions, out of date information or otherwise.",
+     "Accessing the website and downloading material from it is done entirely at the user's own risk. The user, and neither TfL nor the Trustee of the Fund, will be entirely responsible for any resulting damage to software or computer systems and/or any resulting loss of data even if TfL and the Trustee of the Fund have been advised of the possibility of such damage.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Website content\"}",
+     "Every effort has been made to keep this website up to date and correct, and to describe the provisions of the Fund accurately as they affect members and beneficiaries. However, if there are inconsistencies between the information on this website and the Trust Deed and Rules, the Trust Deed and Rules will prevail.",
+     "While we have provided links to other sites for your interest and convenience we have no responsibility for their content. Such links are supplied solely for the convenience of users. TfL and the Trustee of the Fund are not responsible for the contents or reliability of the linked websites and do not necessarily endorse the views expressed within them or the organisation or persons providing them in any way. TfL and the Trustee of the Fund do not guarantee that these links will work all of the time and we have no control over the availability of the linked pages.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Member Self Service\"}",
+     "If you are eligible and register to use the Member Self Service facility, you will be issued with a username and password solely for your own use of the service. TfL and the Trustee of the Fund shall be entitled to assume that any person using a password is the person to whom the password was issued.",
+     "At its sole discretion TfL and the Trustee of the Fund may bar the use of your password from time to time due to security or other concerns or for general administration purposes. TfL and the Trustee of the Fund will inform you as soon as reasonably possible of such action. You may then request a new password following the procedures advised by TfL and the Trustee of the Fund.",
+     "TfL and the Trustee of the Fund reserve the right to change your password at any time and without giving reasons. TfL and the Trustee of the Fund will inform you as soon as reasonably practicable of any such change.",
+     "You must keep your password confidential and shall not permit any other person to use your password. If you become aware or suspect that another person knows your password or is using your password you must change your password immediately and notify TfL and the Trustee of the Fund.",
+     "TfL and the Trustee of the Fund reserve the right to introduce other security measures without notice, to withdraw the availability of the service to any individual and do anything else that is necessary to preserve the security of the information.",
+     "If you copy or download any of the information, you will assume responsibility for the security of any personal data contained in it.",
+     "Your right to use the service will terminate automatically if you cease to hold benefits under the Fund."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Graduate scheme",
+      "url": "/corporate/careers/graduate-scheme",
+      "image": {}
+     },
+     {
+      "title": "Student placements",
+      "url": "/corporate/careers/student-placements",
+      "image": {}
+     },
+     {
+      "title": "Opportunities in TfL Online",
+      "url": "/corporate/careers/opportunities-in-online",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/rewarding-you",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

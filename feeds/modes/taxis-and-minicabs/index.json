@@ -1,0 +1,178 @@
+{
+ "pageTitle": "Taxis \u0026 minicabs",
+ "keywords": "Minicab ,Minicabs ,Private Hire ,Taxi,Taxi \u0026 Private Hire ,Taxis,Taxis \u0026 Minicabs ,TfL",
+ "description": "Information about taxis and minicabs in London.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxis \u0026 minicabs"
+  }
+ ],
+ "title": {
+  "title": "Taxis \u0026 minicabs",
+  "icon": "taxi",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Black taxis \u0026 private hire",
+    "texts": [
+     "Information about the safe, quick and hassle-free way to get around"
+    ],
+    "link": {
+     "url": "/modes/taxis-and-minicabs/what-to-expect-from-your-journey",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxi-minicabs-image.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Black taxi fares",
+    "texts": [
+     "How and what to pay for your taxi journey"
+    ],
+    "link": {
+     "url": "/modes/taxis-and-minicabs/taxi-fares",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxi-landing-10_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Black taxis \u0026 accessibility",
+    "texts": [
+     "Find out more about one of the most accessible ways to travel"
+    ],
+    "link": {
+     "url": "/transport-accessibility/index",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxi-accessibility_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Find a taxi or a minicab",
+    "texts": [
+     "Find out how to book a taxi or minicab near you"
+    ],
+    "link": {
+     "url": "/modes/taxis-and-minicabs/book-a-taxi",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxis3pic_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Safer travel",
+    "texts": [
+     "Stay safe - always book your minicab"
+    ],
+    "link": {
+     "url": "/campaign/safer-travel",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cabwise-landinghero2_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Taxicard \u0026 Capital Call",
+      "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "The Night Tube",
+      "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Our role",
+      "url": "/corporate/about-tfl/what-we-do/taxi-and-private-hire",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London TravelWatch",
+      "url": "http://www.londontravelwatch.org.uk/home/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Licence checker",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

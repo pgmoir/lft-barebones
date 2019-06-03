@@ -1,0 +1,173 @@
+{
+ "pageTitle": "Home-schooled pupils",
+ "keywords": "TfL",
+ "description": "Educational sessions at the London Transport Museum for home-schooled children",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Schools \u0026 young people",
+   "url": "/info-for/schools-and-young-people/index"
+  },
+  {
+   "title": "Safety \u0026 Citizenship",
+   "url": "/info-for/schools-and-young-people/safety-and-citizenship"
+  },
+  {
+   "title": "Home-schooled pupils"
+  }
+ ],
+ "title": {
+  "title": "Home-schooled pupils",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The TfL Safety and Citizenship team aim to see all pupils of Year 6 age across London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We arrange educational sessions at the London Transport Museum which home-schooled children can attend. These sessions will be run for groups of children periodically and will use the museum's galleries as an interactive learning experience.",
+     "Sessions will cover our key learning aims, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Getting help\",\"Showing respect for members of staff and other passengers\",\"What to do in an emergency\",\"Awareness of possible dangers and personal safety\",\"Journey planning\",\"Active travel choices\",\"Ticketing ( \\u003ca href=\\\"/fares-and-payments/fares2018/free-and-discounted-travel\\\"\\u003eZip Oyster photocards\\u003c/a\\u003e )\"]}",
+     "To register your interest, please email \u003ca href=\"mailto:tflsafetyandcitizenship@ltmuseum.co.uk\"\u003etflsafetyandcitizenship@ltmuseum.co.uk\u003c/a\u003e so that we can invite you to this event. Also, visit \u003ca href=\"http://www.ltmuseum.co.uk/\"\u003eLondon Transport Museum\u003c/a\u003e for more information about other educational opportunities."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Schools \u0026 young people",
+    "links": [
+     {
+      "title": "Inspire Engineering",
+      "url": "/info-for/schools-and-young-people/inspire-engineering",
+      "image": {}
+     },
+     {
+      "title": "Youth involvement",
+      "url": "/info-for/schools-and-young-people/youth-involvement",
+      "image": {}
+     },
+     {
+      "title": "Educational resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "image": {}
+     },
+     {
+      "title": "Safety \u0026 Citizenship",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship",
+      "image": {}
+     },
+     {
+      "title": "Primary (pre-transition)",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/primary-pre-transiti",
+      "image": {}
+     },
+     {
+      "title": "Secondary (post-transition)",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/secondary-post-transition",
+      "image": {}
+     },
+     {
+      "title": "Special Educational Needs and Disability",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/special-educational-needs",
+      "image": {}
+     },
+     {
+      "title": "Pupil Referral Units",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/pupil-referral-units",
+      "image": {}
+     },
+     {
+      "title": "Faith schools",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/faith-schools",
+      "image": {}
+     },
+     {
+      "title": "Home-schooled pupils",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/home-schooled-pupils",
+      "image": {}
+     },
+     {
+      "title": "Restorative justice",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/restorative-justice",
+      "image": {}
+     },
+     {
+      "title": "Community \u0026 museum events",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/community-and-museum-events",
+      "image": {}
+     },
+     {
+      "title": "Following on from your visit",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/following-on-from-your-visit",
+      "image": {}
+     },
+     {
+      "title": "Learning resources",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/lesson-plans",
+      "image": {}
+     },
+     {
+      "title": "Transport Youth Engagement Officers",
+      "url": "/info-for/schools-and-young-people/safety-and-citizenship/transport-youth-engagement-officers",
+      "image": {}
+     },
+     {
+      "title": "Young car drivers",
+      "url": "/info-for/schools-and-young-people/young-car-drivers",
+      "image": {}
+     },
+     {
+      "title": "Innovate TfL",
+      "url": "/info-for/schools-and-young-people/innovate-tfl",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Schools \u0026 young people",
+     "url": "/info-for/schools-and-young-people/innovate-tfl",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

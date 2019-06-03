@@ -1,0 +1,70 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London advice to road users: Emergency closure of A501 Marylebone Road eastbound",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Owing to emergency Thames Water works to repair a burst water main on the A501 Marylebone Road at its junction with Baker Street, Marylebone Road will be closed eastbound from 10:30 this morning."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A local diversion will be put in place around Regent's Park.",
+     "However, to disperse traffic across a wider area, TfL will also be closing the A40 eastbound from the northern roundabout and diverting all traffic south onto the West Cross route.",
+     "Local bus diversions will also be in place.",
+     "Transport for London (TfL) is therefore urging all road users to avoid the area if at all possible.",
+     "The water main  has split across the entire width of the eastbound carriageway, making a full closure the only practical option to repair it.",
+     "Thames Water's engineers are currently on site and will be working around the clock to fix the main as quickly as possible.",
+     "However, the closure is likely to be in place for at least 24 hours.",
+     "Garrett Emmerson, TfL's Chief Operating Officer for London Streets, said: 'We are advising motorists to avoid the A501 Marylebone Road eastbound, and the A40 as it approaches the Baker Street area.",
+     "'This is clearly a key section of London's road network and we are closely monitoring Thames Water's work to ensure they complete their repairs with the utmost urgency and are doing everything possible to minimise the amount of traffic disruption that this will inevitably cause.'"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

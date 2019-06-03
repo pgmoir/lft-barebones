@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Change to night bus services for south west London",
+ "description": "The night service on route 65 will be extended to Chessington World of Adventures along the same route used by daytime route 71.This will provide passengers with a direct night bus service between Kingston and Chessington for the first time. Buses on the",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Change to night bus services for south west London ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "On Saturday 4 July 2009, London Buses will be introducing changes to night bus services on routes 65 and 213."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The night service on route 65 will be extended to Chessington World of Adventures along the same route used by daytime route 71.",
+     "This will provide passengers with a direct night bus service between Kingston and Chessington for the first time.",
+     "Buses on the night service will operate between Ealing Broadway and Chessington every 30 minutes from approximately 00:40 to 04:40.",
+     "Day services on route 65 will remain unchanged, operating between Ealing Broadway and Kingston.",
+     "Passengers wishing to travel between Kingston and Chessington during the day can use route 71.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route review\"}",
+     "The night service on route N213 is also being changed from Saturday.",
+     "The current night bus service on route N213, operating between approximately 01:00 and 04:30, between Sutton and West Croydon bus station will no longer operate.",
+     "This follows a review of the route which found that this section of the route was very lightly used.",
+     "The 213 will continue to provide a night service between Kingston and Sutton.",
+     "The route will operate 24 hours a day, seven days a week between Fairfield bus station, Kingston and Bushey Road, Sutton.",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buses on route 65 will operate every 30 minutes between 00:40 and 04:40\",\"Route 65 is operated by Transdev\",\"Route 213 and N213 is operated by London General\",\"There will be no changes to the existing route 71\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

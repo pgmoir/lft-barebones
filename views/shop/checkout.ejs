@@ -1,0 +1,42 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Checkout' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Shop', url: '/shop/' }, { title: 'Checkout' } ]
+}) %>
+
+<section id="main" class="container-fluid" aria-label="main body of content plus related links and features">
+  <div class="container-lft">
+
+    <% products.forEach(p => { %>
+        <div class="row pb-3">
+            <div class="col-12 d-flex align-items-center">
+                <div class="w-100 pr-2 h5 mb-0"><%= p.productId.title %> @ £<%= Number(p.productId.price).toFixed(2) %> <span class="badge badge-success"><%= p.quantity %></span></div>
+            </div>
+        </div>
+    <% }) %>
+    <hr />
+    <h3>Total Price: £<%= Number(totalPrice).toFixed(2) %></h3>
+    <hr />
+    <div class="row pb-3">
+        <div class="col-12 d-flex justify-content-end">
+            <!--<a href="/shop/" class="btn btn-secondary mr-3">Cancel and Return to Shop</a>-->
+            <form action="/shop/create-order" method="POST">
+              <script
+                src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                data-key="pk_test_GrVrOqLyxwRIBFfaYw3oGQA4006DOxfIft"
+                data-amount="<%= totalPrice * 100 %>"
+                data-name="Moir Consultancy Limited"
+                data-description="Your order from The Shop"
+                data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+                data-locale="auto"
+                data-currency="gbp">
+              </script>
+            </form>
+        </div>
+    </div>
+    
+  </div>
+</section>
+
+<%- include('../includes/foot') %>

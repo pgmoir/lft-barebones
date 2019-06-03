@@ -1,0 +1,266 @@
+{
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2016",
+   "url": "/info-for/media/press-releases/2016"
+  },
+  {
+   "title": "September",
+   "url": "/info-for/media/press-releases/2016/september"
+  },
+  {
+   "title": "REMINDER: Closure of Gospel Oak to Barking railway line"
+  }
+ ],
+ "title": {
+  "title": "REMINDER: Closure of Gospel Oak to Barking railway line",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Customers are being reminded that a full line closure will commence on Saturday 24 September following first phase of work"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"From early 2018 passengers will benefit from four car trains that will provide double the space, reduce congestion and improve journeys\"]}",
+     "Customers and local residents are being reminded that the second phase of major upgrade work to the London Overground between Gospel Oak and Barking will result in the whole line being closed on weekdays and weekends from Saturday 24 September, as part of Network Rail's Railway Upgrade Plan.",
+     "Replacement bus services will be available for parts of the journey and customers are advised to plan their journeys in advance. Regular pay as you go users of the Gospel Oak to Barking line will be automatically refunded the additional cost of travel via Zone 1 by Tube or rail.",
+     "Network Rail is delivering the project, which is funded by the Department for Transport and Transport for London (TfL). The project will see TfL introduce new four car electric trains to replace the existing two car diesel trains from January 2018, helping to meet growing passenger demand. The trains are being built by Bombardier for TfL.",
+     "Network Rail is carrying out major work including lowering four major sections of track, installing structures to carry the overhead wires and rebuilding four bridges. The first phase of the work started in June with no service between South Tottenham and Barking during weekdays and a full line closure at weekends.spanto February 2017, a full closure in both directions from Gospel Oak to Barking is necessary to carry out the second phase of the work. TfL will be providing rail replacement buses, which will operate along the route.",
+     "A short summary video of the project can be watched here \u003ca href=\"http://networkrail.co.uk/gobe\"\u003enetworkrail.co.uk/gobe\u003c/a\u003e ",
+     "Mike Stubbs, TfL's Director of London Overground, said:",
+     "'We would like to thank our customers for their patience while this essential work takes place. The work being carried out by Network Rail will enable us to run new longer walk-through trains on the line from January 2018, which will double capacity on the route.'",
+     "Network Rail's route Managing Director, Richard Schofield, said:",
+     "'This upgrade will have huge benefits to passengers and neighbours. It will enable longer, quieter and cleaner trains to run. However, to achieve this we need more space under bridges to fit electrification equipment. In some locations this requires us to lower the track. The nature of this work is noisy and I would like to thank those living near the railway for their continued patience.'",
+     "Passengers should check before they travel and plan their journey in advance. From Saturday, 24 September the replacement bus services will operate as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Service T: Walthamstow Central - Leyton Midland Road - Leytonstone High Road - Wanstead Park - Woodgrange Park - East Ham- Barking. Buses every 15 minutes on weekdays and every 20 minutes on weekends.\",\"Service J: Gospel Oak - Upper Holloway - Crouch Hill - Finsbury Park - Harringay Green Lanes - Seven Sisters (for South Tottenham). Buses every 20 minutes on weekdays and every 30 minutes on weekends.\"]}",
+     "Customers travelling between South Tottenham and Walthamstow Queen's Road stations can use the Victoria line. Full details of the alternative travel and ticketing arrangements can be found at: \u003ca href=\"http://tfl.gov.uk/london-overground-closure\"\u003etfl.gov.uk/london-overground-closure\u003c/a\u003e .",
+     "Notes to Editors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"For more information on changes to journeys between Gospel Oak to Barking, including maps and travel advice, please visit \\u003ca href=\\\"http://tfl.gov.uk/london-overground-closure\\\"\\u003etfl.gov.uk/london-overground-closure\\u003c/a\\u003e \",\"For more information about refunds and ticket acceptance, visit \\u003ca href=\\\"http://tfl.gov.uk/london-overground-closure#on-this-page-4\\\"\\u003etfl.gov.uk/london-overground-closure#on-this-page-4\\u003c/a\\u003e \",\"Sign up for email updates at \\u003ca href=\\\"http://tfl.gov.uk/emailupdates\\\"\\u003etfl.gov.uk/emailupdates\\u003c/a\\u003e \",\"Railway neighbours who would like more information on how the work will impact their home can call Network Rail's helpline on 0345 711 4141 or visit \\u003ca href=\\\"http://networkrail.co.uk/contactus\\\"\\u003enetworkrail.co.uk/contactus\\u003c/a\\u003e \",\"More information on work carried out by Network Rail on this route can also be found at \\u003ca href=\\\"http://networkrail.co.uk/gobe\\\"\\u003enetworkrail.co.uk/gobe\\u003c/a\\u003e \",\"Follow Network Rail's progress on Twitter @NetworkRailGOBE\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2016/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2016/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2016/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2016/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2016/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2016/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2016/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2016/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2016/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2016/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2016/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2016/december",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

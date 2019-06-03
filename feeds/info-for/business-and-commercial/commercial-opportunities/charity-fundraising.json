@@ -1,0 +1,113 @@
+{
+ "pageTitle": "Charity fundraising",
+ "keywords": "TfL",
+ "description": "TfL physical and digital assets can supercharge your charity campaign",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial partnerships and experiential marketing",
+   "url": "/info-for/business-and-commercial/commercial-partnerships-and-experiential-marketing"
+  },
+  {
+   "title": "Charity fundraising"
+  }
+ ],
+ "title": {
+  "title": "Charity fundraising",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Charities and their corporate sponsors now have access to a substantial suite of physical and digital TfL assets to boost their fundraising.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We've long worked with charities to help them fundraise in our stations free of charge - many charities take advantage of this opportunity every year.",
+     "Now we're offering the chance to boost those campaigns. Depending on your brief and budget, our  commercial partners and the charities they support benefit from bespoke access to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"World-famous intellectual property\",\"An extensive network of experiential sites\",\"Press, social media and digital support\",\"Unique filming and photography locations\"]}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/poppy-day-train.jpg\",\"alt\":\"Wrapped underground carriage: Poppy Day\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/buxton-water-roundel.jpg\",\"alt\":\"London Marathon sponsor Buxton Water renamed Canada Water Underground Station 'Buxton Water' on Marathon Day\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/canary-wharf-poppies.jpg\",\"alt\":\"Canary Wharf Station entrance vinyl: Poppy Day\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/help-for-heroes.jpg\",\"alt\":\"Help for Heroes: Tottenham Court Road station\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/race-for-life-handouts.jpg\",\"alt\":\"Experiential site Waterloo station: Cancer Research UK\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/race-for-live-tube-train-wrap.jpg\",\"alt\":\"Wrapped underground carriage: Race for Life\"}],\"wrapped\":false}",
+     "We work with brands and agencies to tailor bespoke campaigns, large and small which attract our customers and make their journeys engaging and fun.",
+     "We also ensure that our customers' experience of every campaign meets each brand's specific business objectives.",
+     "Examples of successful and award winning TfL Commercial Partnerships are in Driving London's Happiness.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Driving London's happiness - our commercial partnership lookbook\",\"url\":\"/cdn/static/cms/documents/driving-londons-happiness.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.00MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/driving-londons-happiness-img.png\",\"alt\":\"Driving London happiness\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "To find out how we can help you supercharge your charity fundraising efforts, please email \u003ca href=\"mailto:commercialpartnerships@tfl.gov.uk\"\u003ecommercialpartnerships@tfl.gov.uk\u003c/a\u003e or call us on 020 3054 4570 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial partnerships and experiential marketing",
+    "links": [
+     {
+      "title": "How to work with us",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/commercial-partnerships",
+      "image": {}
+     },
+     {
+      "title": "Commercial partnership opportunities",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/commercial-partnership-opportunities",
+      "image": {}
+     },
+     {
+      "title": "Transparency policy on commercial partnerships",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/commercial-partnerships---transparency",
+      "image": {}
+     },
+     {
+      "title": "Charity fundraising",
+      "url": "/info-for/business-and-commercial/commercial-opportunities/charity-fundraising",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial partnerships and experiential marketing",
+     "url": "/info-for/business-and-commercial/commercial-opportunities/charity-fundraising",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

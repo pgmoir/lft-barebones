@@ -1,0 +1,65 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL Statement: Response to Evening Standard front page (13 April 2004)",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A TfL spokesman said:",
+     "\"Bob Kiley has not been offered any extension to his current contract."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "\"Bob Kiley's contract continues until January 2005. Any announcement regarding any potential extension can only be made after the Mayoral election later this year.",
+     "\"TfL publishes details of employees' remuneration in its Annual Report and to the London Assembly.",
+     "\"Today's Evening Standard is another case of disappointing fabrication, which does not bear any relation to reality.\""
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

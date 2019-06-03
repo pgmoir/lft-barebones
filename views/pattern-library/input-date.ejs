@@ -1,0 +1,28 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Input Checkboxes'}, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Input Checkboxes' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <form method="POST" action="/pattern-library/form-submission" class="pb-3 mx-3" role="form">
+          <%- include('../includes/input-date', { field: { 
+            name: 'passport-issued', 
+            question: 'When was your passport issued?',
+            hint: 'For example, 12 11 2007',
+            error: 'The date your passport was issued must be in the past'
+          }}) 
+          %>
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+          <button class="btn btn-primary btn-lg" type="submit">Submit form</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- include('../includes/foot') %>

@@ -1,0 +1,303 @@
+{
+ "pageTitle": "Walking",
+ "keywords": "Walking,Walking ,TfL",
+ "description": "Walking is a quick, reliable and healthy way to get around London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking"
+  }
+ ],
+ "title": {
+  "title": "Walking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Walk London",
+    "texts": [
+     "Some of our favourite walks around London"
+    ],
+    "link": {
+     "url": "/modes/walking/top-walking-routes",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/man-walking-park.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "From walking map to walking app",
+    "texts": [
+     "We've teamed up with Go Jauntly to bring walking maps to your phone. Find out more"
+    ],
+    "link": {
+     "url": "https://www.gojauntly.com/blog/2018/11/28/go-jauntly-version-2?\u0026intcmp=56822",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/walking-little-venice-towpath_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "See the sights",
+    "texts": [
+     "Sample some of London's most well known sights by foot."
+    ],
+    "link": {
+     "url": "/campaign/see-the-sights",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/walking-st-pauls-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Experience London blog",
+    "texts": [
+     "Read about the best things to do in London and find new walking routes"
+    ],
+    "link": {
+     "url": "https://londonblog.tfl.gov.uk/category/walking/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/london-skyline-dusk_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Find your way around",
+    "texts": [
+     "Would you walk more if you could find your way around London?"
+    ],
+    "link": {
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/walking-landing-page-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Walking in London",
+    "texts": [
+     "Read our walking action plan to see how London will be the world's most walkable city"
+    ],
+    "link": {
+     "url": "http://content.tfl.gov.uk/mts-walking-action-plan.pdf",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/walking_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Health and walking",
+    "texts": [
+     "Walking is a great way to get around London: it's free, healthy and green."
+    ],
+    "link": {
+     "url": "/modes/walking/health-and-walking",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "What we do",
+    "links": [
+     {
+      "title": "What we do - Walking",
+      "url": "/corporate/about-tfl/what-we-do/walking",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Street Design Toolkit",
+      "url": "/corporate/publications-and-reports/streets-toolkit",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Schools \u0026 young people",
+      "url": "/info-for/schools-and-young-people/teaching-resources/walk-about-talk-about",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "What we do",
+    "texts": [
+     "Watch our video on why every journey matters"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/what-we-do",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Walking steps and times between stations",
+    "texts": [
+     "View maps of station-to-station walking steps and times in central London"
+    ],
+    "links": [
+     {
+      "title": "Walking steps between Tube and rail stations (Zones 1-3)",
+      "url": "/cdn/static/cms/documents/steps-tube-map-zones-1-3.pdf",
+      "icon": "download",
+      "size": "PDF 328KB",
+      "image": {}
+     },
+     {
+      "title": "Walking times between Tube and rail stations (Zones 1-3)",
+      "url": "/cdn/static/cms/documents/walking-tube-map-zones-1-3.pdf",
+      "icon": "download",
+      "size": "PDF 322KB",
+      "image": {}
+     },
+     {
+      "title": "Walking steps between Tube and rail stations (Zones 1-2)",
+      "url": "/cdn/static/cms/documents/steps-tube-map.pdf",
+      "icon": "download",
+      "size": "PDF 620KB",
+      "image": {}
+     },
+     {
+      "title": "Walking times between stations (Zones 1-2)",
+      "url": "/cdn/static/cms/documents/walking-tube-map.pdf",
+      "icon": "download",
+      "size": "PDF 621KB",
+      "image": {}
+     },
+     {
+      "title": "Journeys that could be quicker to walk",
+      "url": "/cdn/static/cms/documents/walking-tube-map-journey-times.pdf",
+      "icon": "download",
+      "size": "PDF 586KB",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Healthy Streets",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Living Streets",
+      "url": "http://www.livingstreets.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Report street faults",
+      "url": "/help-and-contact/report-roadworks",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Ramblers",
+      "url": "http://www.ramblers.org.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

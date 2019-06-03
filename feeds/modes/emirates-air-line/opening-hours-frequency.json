@@ -1,0 +1,156 @@
+{
+ "pageTitle": "Location \u0026 opening hours",
+ "keywords": "TfL",
+ "description": "Emirates Air Line opening hours, journey times and frequency",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Emirates Air Line",
+   "url": "/modes/emirates-air-line/index"
+  },
+  {
+   "title": "Location \u0026 opening hours"
+  }
+ ],
+ "title": {
+  "title": "Location \u0026 opening hours",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Emirates Air Line runs between the Greenwich Peninsula (by the O2) and the Royal Docks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting there\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Emirates Greenwich Peninsula\"}",
+     "\u003cstrong\u003eAddress: \u003c/strong\u003e North Greenwich side Emirates Cable Car Terminal, Edmund Halley Way, London SE10 0FR",
+     "\u003cstrong\u003eTube:\u003c/strong\u003e North Greenwich (Jubilee line)",
+     "\u003cstrong\u003eDLR:\u003c/strong\u003e Royal Victoria",
+     "\u003cstrong\u003eRiver: \u003c/strong\u003e North Greenwich Pier",
+     "\u003cstrong\u003eBus: \u003c/strong\u003e North Greenwich Bus Station (take the 188 from Central London)",
+     "Car parking facilities are available, including at North Greenwich Tube station and the O2.",
+     " \u003ca href=\"http://www.tfl.gov.uk/cable-car/stop/940GZZALGWP/emirates-greenwich-peninsula?lineId=emirates-air-line\"\u003ePlan your journey to Emirates Greenwich Peninsula\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Emirates Royal Docks\"}",
+     "\u003cstrong\u003eAddress:\u003c/strong\u003e Royal Docks side 27 Western Gateway, London E16 1FA",
+     "\u003cstrong\u003eDLR:\u003c/strong\u003e Royal Victoria",
+     " \u003ca href=\"http://www.tfl.gov.uk/cable-car/stop/940GZZALRDK/emirates-royal-docks?lineId=emirates-air-line\"\u003ePlan your journey to Emirates Royal Docks\u003c/a\u003e .",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/emirates-map.jpg\",\"alt\":\"Emirates Air Line locations\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Opening hours\"}",
+     "{\"template\":\"table\",\"titles\":[\"Day\",\"Time\",\"Monday to Thursday\",\"Friday\",\"Saturday\",\"Sunday and Bank Holidays\"],\"rows\":[[],[\"07:00-21:00\"],[\"07:00-23:00\"],[\"08:00-23:00\"],[\"09:00-21:00\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Night flight experience hours\"}",
+     "After 19:00 each day, flight durations are extended to approximately 25 minutes (12-13 minutes each way), so you can enjoy an even more relaxing trip across the Thames.\nMusic and video will further enhance your in-flight experience at these times.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Closures\"}",
+     "Emirates Air Line is closed on Christmas Day and for regular maintenance. Details will be displayed on this page.",
+     "On Bank Holidays, we operate a Saturday timetable.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Frequency\"}",
+     "Cabins arrive every 30\nseconds.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Journey times\"}",
+     "\u003cstrong\u003eMonday to Friday:\u003c/strong\u003e between 07:00-09:00, approximately five minutes.\u003cbr /\u003e\u003cstrong\u003eAfter 19:00 every day:\u003c/strong\u003e 12-13 minutes (for night flight experience).\u003cbr /\u003e\u003cstrong\u003eAll other times:\u003c/strong\u003e approximately 10 minutes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Temporary disruption due to weather\"}",
+     "Emirates\nAir Line may temporarily close due to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Threat of lightning and\\n    thunder to the immediate area\",\"Very strong winds\"]}",
+     "Check \u003ca href=\"/status-updates/index\"\u003eStatus\nupdates\u003c/a\u003e or call our 24-hour travel information line on 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Group bookings\"}",
+     "For more information on group bookings contact us:",
+     "Telephone: 020 3282 1030\u003cbr /\u003eEmail: \u003ca href=\"mailto:ealgroups@macemacro.com\"\u003eealgroups@macemacro.com\u003c/a\u003e ",
+     "Coach parking facilities (The O2) are just a short walk away. Discounts are available for large group bookings.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bicycles\"}",
+     "Bicycles are accepted on the Emirates Air Line at all times.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessibility\"}",
+     "The Emirates Air Line has step-free access, and is accessible to most wheelchairs including motorised wheelchairs and mobility scooters.",
+     "The maximum weight is 300kg and the maximum size is 700mm by 1300mm. We may ask you to confirm dimensions of your scooter and we may check using a floor marking to make sure you can board safely.",
+     "Passengers get on and off through the same doors and there may not be enough space for you to turn round. This means you may have to reverse your wheelchair or scooter to get in or out of the cabin.",
+     "Both terminals are staffed and we can offer assistance getting in or out of cabins. The cabins can be slowed down to allow you plenty of time to board.",
+     "Electric wheelchairs and mobility scooters must be turned off inside the cabins.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fares\"}",
+     "You can travel on the Emirates Air Line with pay as you go using a contactless payment or Oyster card, or you can buy a Boarding Pass.  For more information, \u003ca href=\"/fares-and-payments/fares2018/find-fares/emirates-air-line-fares\"\u003ego to the Emirates Air Line fares page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Emirates Air Line",
+    "links": [
+     {
+      "title": "Location \u0026 opening hours",
+      "url": "/modes/emirates-air-line/opening-hours-frequency",
+      "image": {}
+     },
+     {
+      "title": "The Emirates Air Line experience",
+      "url": "/modes/emirates-air-line/the-emirates-air-line-experience",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Emirates Air Line",
+     "url": "/modes/emirates-air-line/the-emirates-air-line-experience",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Emirates Air Line",
+      "url": "http://www.emiratesairline.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Book tickets on the O2 website",
+      "url": "https://emiratesairline.theo2.co.uk/emirates-airline-tickets-html.html",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

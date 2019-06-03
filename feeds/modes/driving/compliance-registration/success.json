@@ -1,0 +1,57 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "description": "Compliance registration success",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Your registration has been submitted.",
+     "It can take up to 10 working days to process. We will contact you with the outcome.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelling in the next few days?\"}",
+     "You need to pay any ULEZ and/or LEZ charges your vehicle is liable for until your registration has been approved.",
+     "Take a note of your account number. You will need it to sign in to your account."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

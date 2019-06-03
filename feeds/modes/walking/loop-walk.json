@@ -1,0 +1,291 @@
+{
+ "pageTitle": "London LOOP",
+ "keywords": "TfL",
+ "description": "This circular Walk London route consists of 24 sections between Erith station and Purfleet.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "London LOOP"
+  }
+ ],
+ "title": {
+  "title": "London LOOP",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This circular Walk London route consists of 24 sections between Erith station and Purfleet.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/london-loop-february.jpg\",\"alt\":\"London Loop latest\"},\"wrapped\":false}",
+     "Taking the London LOOP is a great way to get to know London better. Made up of 24, mostly flat or gently sloping sections, its combination of beautiful open spaces like Hainault Forest Country Park and Bushy Park, historic buildings (Hall Place and Black Jack's Lock \u0026 Mill), makes this an enjoyable walk.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Hall Place\",\"Addington Hills\",\"Farthing Down\",\"Bushy Park\",\"Black Jack's Lock \\u0026 Mill\",\"The Shot Tower\",\"Bentley Priory\",\"Enfield Lock\",\"Hainault Forest Country Park\",\"Rainham Marshes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Signage\"}",
+     "The London LOOP is way-marked by different signs in different areas. Look out for:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A white disc displaying a directional arrow, a blue flying kestrel and green text - these are mounted on wooden posts in country areas*\",\"A larger, aluminium sign featuring a walking man symbol - these are strapped to lamp posts (and other street furniture) in urban areas\",\"The word link - this is incorporated into the large, aluminium signage on link routes to stations\",\"A tall, green and white signpost - these appear at major focal points and will tell you the distances to three points in either direction\"]}",
+     "*Please look carefully at the white disc logos. The direction might not be clear until you're close up.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route sections\"}",
+     "This 150 mile (242km) walk is divided into 24 sections:",
+     "Section 1: \u003ca href=\"/modes/walking/erith-riverside-to-old-bexley-village\"\u003eErith to Old Bexley\u003c/a\u003e ",
+     "Section 2: \u003ca href=\"/modes/walking/old-bexley-village-to-jubilee-country-park\"\u003eOld Bexley to Petts Wood\u003c/a\u003e ",
+     "Section 3: \u003ca href=\"/modes/walking/petts-wood-to-west-wickham-common\"\u003ePetts Wood to West Wickham Common\u003c/a\u003e ",
+     "Section 4: \u003ca href=\"/modes/walking/west-wickham-to-croydon\"\u003eWest Wickham Common to Hamsey Green\u003c/a\u003e ",
+     "Section 5: \u003ca href=\"/modes/walking/hamsey-green-to-croydon\"\u003eHamsey Green to Couldson South\u003c/a\u003e ",
+     "Section 6: \u003ca href=\"/modes/walking/couldson-to-banstead\"\u003eCouldson South to Banstead Downs\u003c/a\u003e ",
+     "Section 7: \u003ca href=\"/modes/walking/banstead-downs-to-ewell\"\u003eBanstead Downs to Ewell\u003c/a\u003e ",
+     "Section 8: \u003ca href=\"/modes/walking/ewell-to-kingston\"\u003eEwell to Kingston Bridge \u003c/a\u003e ",
+     "Section 9: \u003ca href=\"/modes/walking/kingston-upon-thames-to-hatton-cross\"\u003eKingston Bridge to Hatton Cross\u003c/a\u003e ",
+     "Section 10: \u003ca href=\"/modes/walking/hatton-cross-to-hayes-and-harlington\"\u003eHatton Cross to Hayes \u0026 Harlington\u003c/a\u003e ",
+     "Section 11: \u003ca href=\"/modes/walking/hayes-and-harlington-to-uxbridge\"\u003eHayes \u0026 Harlington to Uxbridge\u003c/a\u003e ",
+     "Section 12: \u003ca href=\"/modes/walking/uxbridge-to-harefield-west\"\u003eUxbridge to Harefield West\u003c/a\u003e ",
+     "Section 13: \u003ca href=\"/modes/walking/harefield-west-to-moor-park\"\u003eHarefield West to Moor Park\u003c/a\u003e ",
+     "Section 14: \u003ca href=\"/modes/walking/moor-park-to-hatch-end\"\u003eMoor Park to Hatch End\u003c/a\u003e ",
+     "Section 15: \u003ca href=\"/modes/walking/hatch-end-to-elstree\"\u003eHatch End to Elstree\u003c/a\u003e ",
+     "Section 16: \u003ca href=\"/modes/walking/elstree-to-cockfosters\"\u003eElstree to Cockfosters\u003c/a\u003e ",
+     "Section 17: \u003ca href=\"/modes/walking/cockfosters-to-enfield-lock\"\u003eCockfosters to Enfield Lock\u003c/a\u003e ",
+     "Section 18: \u003ca href=\"/modes/walking/enfield-lock-to-chingford\"\u003eEnfield Lock to Chingford\u003c/a\u003e ",
+     "Section 19: \u003ca href=\"/modes/walking/chingford-to-chigwell\"\u003eChingford to Chigwell\u003c/a\u003e ",
+     "Section 20: \u003ca href=\"/modes/walking/chigwell-to-havering-atte-bower\"\u003eChigwell to Havering-atte Bower\u003c/a\u003e ",
+     "Section 21: \u003ca href=\"/modes/walking/havering-atte-bower-to-harold-wood\"\u003eHavering-atte-Bower to Harold Wood\u003c/a\u003e ",
+     "Section 22: \u003ca href=\"/modes/walking/harold-wood-to-upminster-bridge\"\u003eHarold Wood to Upminster Bridge\u003c/a\u003e ",
+     "Section 23: \u003ca href=\"/modes/walking/upminster-bridge-to-rainham\"\u003eUpminster Bridge to Rainham\u003c/a\u003e ",
+     "Section 24: \u003ca href=\"/modes/walking/rainham-to-purfleet\"\u003eRainham to Purfleet\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Certificate\"}",
+     "Completed this walk? Why not download the certificate to celebrate.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London LOOP certificate\",\"url\":\"/cdn/static/cms/documents/london-loop-certificate.pdf\",\"icon\":\"download\",\"size\":\"PDF 238KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Erith Riverside to Old Bexley Village",
+      "url": "/modes/walking/erith-riverside-to-old-bexley-village",
+      "image": {}
+     },
+     {
+      "title": "Old Bexley Village to Petts Wood",
+      "url": "/modes/walking/old-bexley-village-to-jubilee-country-park",
+      "image": {}
+     },
+     {
+      "title": "Petts Wood to West Wickham Common",
+      "url": "/modes/walking/petts-wood-to-west-wickham-common",
+      "image": {}
+     },
+     {
+      "title": "West Wickham Common to Hamsey Green",
+      "url": "/modes/walking/west-wickham-to-croydon",
+      "image": {}
+     },
+     {
+      "title": "Hamsey Green to Coulsdon South",
+      "url": "/modes/walking/hamsey-green-to-croydon",
+      "image": {}
+     },
+     {
+      "title": "Coulsdon South  to Banstead Downs",
+      "url": "/modes/walking/couldson-to-banstead",
+      "image": {}
+     },
+     {
+      "title": "Banstead Downs to Ewell",
+      "url": "/modes/walking/banstead-downs-to-ewell",
+      "image": {}
+     },
+     {
+      "title": "Ewell to Kingston Bridge",
+      "url": "/modes/walking/ewell-to-kingston",
+      "image": {}
+     },
+     {
+      "title": "Kingston Bridge to Hatton Cross",
+      "url": "/modes/walking/kingston-upon-thames-to-hatton-cross",
+      "image": {}
+     },
+     {
+      "title": "Hatton Cross to Hayes \u0026 Harlington",
+      "url": "/modes/walking/hatton-cross-to-hayes-and-harlington",
+      "image": {}
+     },
+     {
+      "title": "Hayes \u0026 Harlington to Uxbridge",
+      "url": "/modes/walking/hayes-and-harlington-to-uxbridge",
+      "image": {}
+     },
+     {
+      "title": "Uxbridge to Harefield West",
+      "url": "/modes/walking/uxbridge-to-harefield-west",
+      "image": {}
+     },
+     {
+      "title": "Harefield West to Moor Park",
+      "url": "/modes/walking/harefield-west-to-moor-park",
+      "image": {}
+     },
+     {
+      "title": "Moor Park to Hatch End",
+      "url": "/modes/walking/moor-park-to-hatch-end",
+      "image": {}
+     },
+     {
+      "title": "Hatch End to Elstree",
+      "url": "/modes/walking/hatch-end-to-elstree",
+      "image": {}
+     },
+     {
+      "title": "Elstree to Cockfosters",
+      "url": "/modes/walking/elstree-to-cockfosters",
+      "image": {}
+     },
+     {
+      "title": "Cockfosters to Enfield Lock",
+      "url": "/modes/walking/cockfosters-to-enfield-lock",
+      "image": {}
+     },
+     {
+      "title": "Enfield Lock to Chingford",
+      "url": "/modes/walking/enfield-lock-to-chingford",
+      "image": {}
+     },
+     {
+      "title": "Chingford to Chigwell",
+      "url": "/modes/walking/chingford-to-chigwell",
+      "image": {}
+     },
+     {
+      "title": "Chigwell to Havering-atte-Bower",
+      "url": "/modes/walking/chigwell-to-havering-atte-bower",
+      "image": {}
+     },
+     {
+      "title": "Havering-atte-Bower to Harold Wood",
+      "url": "/modes/walking/havering-atte-bower-to-harold-wood",
+      "image": {}
+     },
+     {
+      "title": "Harold Wood to Upminster Bridge",
+      "url": "/modes/walking/harold-wood-to-upminster-bridge",
+      "image": {}
+     },
+     {
+      "title": "Upminster Bridge to Rainham",
+      "url": "/modes/walking/upminster-bridge-to-rainham",
+      "image": {}
+     },
+     {
+      "title": "Rainham to Purfleet",
+      "url": "/modes/walking/rainham-to-purfleet",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

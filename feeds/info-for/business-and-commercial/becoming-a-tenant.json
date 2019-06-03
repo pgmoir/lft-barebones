@@ -1,0 +1,124 @@
+{
+ "pageTitle": "Becoming a tenant",
+ "keywords": "TfL",
+ "description": "We want to help your business grow by providing excellent tenancy services",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Becoming a tenant"
+  }
+ ],
+ "title": {
+  "title": "Becoming a tenant",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We want you to join our estate and start or continue your business journey with us.",
+     "We provide high quality business space to allow you to grow and to support the growth of London. We aspire to excellent customer service and an estate that shapes London's future to the benefit of all Londoners."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Available properties",
+    "texts": [
+     "Search our database of current retail and business spaces"
+    ],
+    "link": {
+     "url": "https://tfl.completelygroup.com",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cp-south-kensington-restaurant-teaser.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Applying for a tenancy",
+    "texts": [
+     "How to apply for a property and how we will consider your application"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/applying-for-a-tenancy",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/embankment-teaser_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Guidance and policies",
+    "texts": [
+     "Our information will help keep your property safe and maintained"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/guidance-and-policies",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Our property portfolio",
+    "texts": [
+     "From pop ups to shops in arches and industrial spaces, see what we can offer"
+    ],
+    "link": {
+     "url": "/info-for/business-and-commercial/our-property-portfolio",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

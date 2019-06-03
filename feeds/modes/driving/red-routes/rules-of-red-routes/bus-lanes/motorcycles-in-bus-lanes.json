@@ -1,0 +1,149 @@
+{
+ "pageTitle": "Motorcycles in bus lanes",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "Motorcycles now have permanent access to bus lanes on the majority of London's red routes",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Rules of red routes",
+   "url": "/modes/driving/red-routes/rules-of-red-routes"
+  },
+  {
+   "title": "Bus lanes",
+   "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes"
+  },
+  {
+   "title": "Motorcycles in bus lanes"
+  }
+ ],
+ "title": {
+  "title": "Motorcycles in bus lanes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Motorcycles are allowed into bus lanes on most of the Capital's red routes.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Allowing motorcycles in red route bus lanes provides consistency for riders, avoiding confusion and unnecessary risk. It presents no significant safety issues for other vulnerable road users.",
+     "Other benefits include reduced motorcycle journey times and fewer carbon dioxide emissions. It also contributes to Vision Zero, working towards the elimination of road traffic deaths and serious injuries. Along with reducing vehicle emissions, this is a key policy in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Maps\"}",
+     "To check which bus lanes can be used by motorcycles, use the maps below and look out for road signs.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Motorcycle bus lanes (central)\",\"url\":\"/ruc-cdn/static/cms/documents/motorcycles-in-bus-lanes-central-.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.16MB\",\"image\":{}},{\"title\":\"Motorcycle bus lanes (northeast)\",\"url\":\"/ruc-cdn/static/cms/documents/motorcycles-in-bus-lanes-northeast-.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"Motorcycle bus lanes (northwest)\",\"url\":\"/ruc-cdn/static/cms/documents/motorcycles-in-bus-lanes-northwest-.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.13MB\",\"image\":{}},{\"title\":\"Motorcycle bus lanes (southeast)\",\"url\":\"/ruc-cdn/static/cms/documents/motorcycles-in-bus-lanes-southeast.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.32MB\",\"image\":{}},{\"title\":\"Motorcycle bus lanes (southwest)\",\"url\":\"/ruc-cdn/static/cms/documents/motorcycles-in-bus-lanes-southwest.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.47MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Loading for the public",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public",
+      "image": {}
+     },
+     {
+      "title": "Yellow box junctions",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/yellow-box-junctions",
+      "image": {}
+     },
+     {
+      "title": "Banned turns",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/banned-turns",
+      "image": {}
+     },
+     {
+      "title": "Bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles in bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes/motorcycles-in-bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/parking",
+      "image": {}
+     },
+     {
+      "title": "Blue Badge (disabled) parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking",
+      "image": {}
+     },
+     {
+      "title": "Red lines and no stopping",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/red-lines-and-no-stopping",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "pageTitle": "New bus shows Spirit of London",
+ "description": "It is one of the first of a new generation of British designed and built double-deckers.The new bus provides extra seats, increasing the number available on the lower deck to 30. There is also a wider entrance than usual and more space for passengers",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "New bus shows Spirit of London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "A new bus named Spirit of London starts work today from Stratford Garage."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The bus is one of the first of a new generation of British designed and built double-deckers",
+     "It is one of the first of a new generation of British designed and built double-deckers.",
+     "The new bus provides extra seats, increasing the number available on the lower deck to 30. There is also a wider entrance than usual and more space for passengers using wheelchairs or with pushchairs.",
+     "It is also fitted with all of the equipment now required as standard on all new London buses, including low-floor, step-free layout on the lower deck, on-board CCTV, tinted glass, automatic heating system, wheelchair ramp, front 'kneeling' system and Euro III engine.",
+     "This particular vehicle is also fitted, as a trial, with an advanced upper deck air-cooling system.",
+     "This new design of bus also operates on route 24, operated by Metroline.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Spirit of London is a Dennis Trident fitted with Alexander Dennis Limited's (ADL) new Enviro 400 bodywork\",\"London Buses' fleet comprises 5,000 double-decker, 2,700 single-deck and 300 articulated (bendy) buses. All London buses are fitted with wheelchair ramps and CCTV systems\",\"London's bus network is Europe's busiest public transport system, carrying around six million people every weekday using 7,000 vehicles on 700 routes\",\"The new vehicle will operate on a number of routes from Stagecoach in London's Stratford garage, including the Number 30 between Marble Arch and Hackney Wick\"]}",
+     "\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

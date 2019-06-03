@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Message of condolence and sympathy",
+ "description": "We would also like to thank members of the public for the many acts of courage and kindness they showed to each other, for the calm and responsible way our stations were evacuated, and for meeting disruptions to our services with patience and",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Message of condolence and sympathy",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) would like to extend a message of condolence and sympathy to all those affected by Thursday's tragic events."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We would also like to thank members of the public for the many acts of courage and kindness they showed to each other, for the calm and responsible way our stations were evacuated, and for meeting disruptions to our services with patience and understanding.",
+     "The swift and co-ordinated actions of the Metropolitan Police, ambulance, fire and related emergency services showed the exceptional skills of their employees and the meticulous planning and training that prepared them for such events.",
+     "TfL's employees worked tirelessly and courageously, ensuring that our passengers were removed to safety and that unhindered access was provided to the emergency services.",
+     "They are currently working hard to reinstate services and to return the capital's transport network to full operation.",
+     "There is little doubt that the combined efforts of London's public servants and Londoners themselves significantly reduced the impact of yesterday's events."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

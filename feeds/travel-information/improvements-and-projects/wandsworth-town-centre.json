@@ -1,0 +1,131 @@
+{
+ "pageTitle": "Wandsworth town centre",
+ "keywords": "Cyclists,Drivers,Pedestrians,W,Wandsworth,Environment,Roads,Buses,Coaches,Cycling,Deliveries,Driving,Motorcycle,Taxis and minicabs,Walking,TfL",
+ "description": "Plans are underway to regenerate Wandsworth town centre",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Wandsworth town centre"
+  }
+ ],
+ "title": {
+  "title": "Wandsworth town centre",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A scheme to improve traffic in Wandsworth High Street and rejuvenate the town centre is being developed. We currently expect to start the work in 2021.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The \u003ca href=\"http://www.ram-brewery.co.uk\"\u003eRam Brewery redevelopment\u003c/a\u003e , alongside Wandsworth Council's plans to regenerate the town centre, will transform the local area for residents and create new opportunities for businesses.",
+     "As part of these changes, we have a plan to decrease traffic dominance in Wandsworth High Street and help rejuvenate the area.",
+     "Our proposals include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reducing through traffic in the town centre, leaving it free for buses, cyclists and local access\",\"Widening footways\",\"Improving the local environment\"]}",
+     "A public consultation on the changes proposed for Wandsworth town centre ended in January 2016. The consultation report is on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/wandsworth-town-centre\"\u003eWandsworth town centre consultation page\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Proposed direction of traffic flow around Wandsworth town centre\",\"url\":\"/cdn/static/cms/documents/wandsworth-future-traffic-flow-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 262KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wtc-map-detail.jpg\",\"alt\":\"thumbnail of wandsworth town centre traffic map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The timeline for this scheme includes a compulsory purchase order (CPO) process to get the additional land we need - this can take 18-24 months.",
+     "We hope to begin construction in late 2021. In the meantime, we will be surveying around Wandsworth town centre.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Survey works from October 2018\"}",
+     "From October 2018, we will do CCTV surveys - using cameras in the drainage system - to check the condition of existing drainage around Wandsworth town centre. We will also be making trial holes in footways to check the location of utility services and ground conditions.",
+     "Traffic will still flow at all times, but short-term traffic management changes may be needed. Please allow more time for your journeys",
+     "Some short-term bus stop suspensions will be needed during the works. Notices will be put on any affected bus stops.",
+     "From 22-24 October 2018, loading and parking bay suspensions will be in place around Wandsworth gyratory between 09:30 and 16:30. Our contractors will be working for about one hour in each loading/parking bay before moving on to the next one to carry out trial holes. The temporary suspensions will be removed once work is finished in each loading/parking bay.",
+     "Footways and pedestrian crossings will stay open at all times, although footways will be narrower than usual. Access to properties will not be affected."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Roads",
+      "url": "/corporate/about-tfl/what-we-do/roads",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related website",
+    "links": [
+     {
+      "title": "The Ram Brewery",
+      "url": "http://www.ram-brewery.co.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

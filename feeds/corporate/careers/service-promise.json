@@ -1,0 +1,69 @@
+{
+ "pageTitle": "Service promise",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Service promise",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "We aim to provide you with a high level of support and to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reply to any queries you have within 12 working days\",\"Provide you with details of your retirement benefits within 8 working days of receiving official notification of your leaving service\",\"Provide you with details of your benefits within 12 working days of receiving official notification of your leaving service\",\"Provide you with details of your benefits at least 6 months before you reach the age of 65\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

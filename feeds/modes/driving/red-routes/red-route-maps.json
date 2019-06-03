@@ -1,0 +1,123 @@
+{
+ "pageTitle": "Red route maps",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "These maps show all the red routes in London. Use these maps to plan your journey and find out if it will take you on a red route and, therefore, where stopping restrictions are in place.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Red route maps"
+  }
+ ],
+ "title": {
+  "title": "Red route maps",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"These maps show all the red routes in London. Use these maps to plan your journey and find out if it will take you on a red route and, therefore, where stopping restrictions are in place.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You can identify the red routes by the red no-stopping lines and signs along the road.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Red routes map\",\"url\":\"/ruc-cdn/static/cms/documents/red-route-pan-london-lohac-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.74MB\",\"image\":{}},{\"title\":\"Red routes map - northeastern area\",\"url\":\"/ruc-cdn/static/cms/documents/red-route-north-east-area-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.74MB\",\"image\":{}},{\"title\":\"Red routes map - northwestern area\",\"url\":\"/ruc-cdn/static/cms/documents/red-route-north-west-area-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.71MB\",\"image\":{}},{\"title\":\"Red routes map - central area\",\"url\":\"/ruc-cdn/static/cms/documents/red-route-central-area-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.75MB\",\"image\":{}},{\"title\":\"Red routes map - southern area\",\"url\":\"/ruc-cdn/static/cms/documents/red-route-south-area-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.88MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "YourParkingSpace",
+      "url": "http://www.yourparkingspace.co.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

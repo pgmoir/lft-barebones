@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Impact on TfL services during threatened RMT and TSSA industrial action at Network Rail",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Impact on TfL services during threatened RMT and TSSA industrial action at Network Rail",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) today outlined how its services would be impacted and detailed advice for those planning to travel in London, should industrial action called by the RMT and TSSA unions at Network Rail go ahead between 6 and 9 April."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The vast majority of TfL services - London Underground, London Buses, Docklands Light Railway and Tramlink - will continue to operate as normal.",
+     "To help keep traffic flowing the Central London Congestion Charge will remain in operation.",
+     "TfL is also looking, where possible, to suspend road works on London's major road network and is currently liaising with utility companies and London's boroughs to encourage them to suspend non-urgent works on non-TfL roads.",
+     "TfL services will accept valid London Overground, National Rail-only season tickets and Travelcards by any reasonable route.",
+     "A service will operate on many rail routes into the Capital.",
+     "The train operating companies have published timetables available on the \u003ca title=\"National Rail\"href=\"http://www.nationalrail.co.uk.\"\u003eNational Rail website\u003c/a\u003e . TfL also advised Londoners and commuters to \u003ca title=\"Check before you travel\"href=\"http://www.tfl.gov.uk \"\u003echeck before you travel\u003c/a\u003e on the TfL website and via London media and travel bulletins. Passengers should plan ahead and allow more time to complete their journeys.",
+     "However, some services on London Underground and London Overground will be directly affected as they run on track and signals maintained and operated by Network Rail, as follows:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Underground\"}",
+     "We expect the following services to ONLY OPERATE between approximately 07:15 and 18:30 hours:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bakerloo line - a limited shuttle service between Queen's Park and Harrow \\u0026 Wealdstone (the rest of the line from Queen's Park to Elephant \\u0026 Castle will operate normally throughout the day)\",\"District line - Turnham Green to Richmond and Putney Bridge to Wimbledon, where it is anticipated that services will operate normally during these times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "The following London Overground services will NOT operate:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Clapham Junction to Willesden Junction\",\"Richmond to Gospel Oak\",\"Gospel Oak to Barking\"]}",
+     "London Overground services between London Euston and Watford Junction are expected to operate between approximately 07:15 and 18:15 hours.",
+     "It is anticipated that the advertised timetable will operate during these times:",
+     "{\"template\":\"bulletlist\",\"items\":[\"First trains: 07:17 from Euston; 07:20 from Watford Junction\",\"Last trains: 17:57 from Euston; 18:01 from Watford Junction\"]}",
+     "London Overground is currently suspended every day until 1 June between Gospel Oak and Stratford for major upgrade works.",
+     "Replacement buses will continue to operate between Hampstead Heath and Stratford calling at all affected stations except Caledonian Road \u0026 Barnsbury station.",
+     "Transport staff across the Capital will be doing their very best to keep London moving and passengers are asked to be patient where services are busier than normal or journeys take longer than expected."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

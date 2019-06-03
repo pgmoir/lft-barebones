@@ -1,0 +1,88 @@
+{
+ "description": "Additional TfL staff are on duty across the London Underground and London Buses networks providing passengers with the latest travel information. London Underground Passengers are advised to check the latest travel information for their routes by calling",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "10:00 hours - Todays transport services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Additional TfL staff are on duty across the London Underground and London Buses networks providing passengers with the latest travel information."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Additional TfL staff are on duty across the London Underground and London Buses networks providing passengers with the latest travel information.",
+     "\u003cstrong\u003eLondon Underground \u003c/strong\u003e ",
+     "Passengers are advised to check the latest travel information for their routes by calling TfL travel information on 020 7222 1234 or visiting \u003ca href=\"http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html\"\u003ehttp://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html\u003c/a\u003e ",
+     "\u003cstrong\u003eNear Normal service: \u003c/strong\u003e ",
+     "\u003cstrong\u003eBakerloo, Central, East London Line, Jubilee, Northern, Victoria and Waterloo \u0026 City \u003c/strong\u003e ",
+     "\u003cstrong\u003eRestricted service:\u003c/strong\u003e ",
+     "\u003cstrong\u003eDistrict\u003c/strong\u003e \u003cbr /\u003eNo service High St Kensington to Edgware Road.\u003cbr /\u003eNo service to Olympia.\u003cbr /\u003eReduced Wimbledon to High St Kensington service to operate.\u003cbr /\u003e",
+     "\u003cstrong\u003eMetropolitan\u003c/strong\u003e \u003cbr /\u003eNo service Baker Street to Aldgate.\u003cbr /\u003eNear normal service north of Baker Street.\u003cbr /\u003e",
+     "\u003cstrong\u003ePiccadilly \u003c/strong\u003e \u003cbr /\u003eServices will run:\u003cbr /\u003eHeathrow to Hyde Park Corner (every 5 mins)\u003cbr /\u003eActon Town to Rayners Lane shuttle (every 10 mins)\u003cbr /\u003eCockfosters to Arnos Grove (every 10 mins)\u003cbr /\u003eReplacement bus services will operate from Arnos Grove to Finchley Central for transfer to the Northern line.\u003cbr /\u003e",
+     "\u003cstrong\u003eNo service:\u003c/strong\u003e ",
+     "\u003cstrong\u003eCircle\u003c/strong\u003e ",
+     "\u003cstrong\u003eLondon Buses \u003c/strong\u003e ",
+     "London Buses are running a near-normal service, although this may be affected by temporary road closures. Routes which use the roads around Russell Square, Woburn Place and Aldgate High Street will be diverted. Regular security checks will continue to take place on each bus and at all bus stations and garages for the foreseeable future. Buses will accept London Underground tickets in Zone 1 and on routes from Hammersmith to Aldgate, from Hyde Park Corner to Cockfosters, and between Upminster and Whitechapel.",
+     "\u003cstrong\u003eRoads \u003c/strong\u003e ",
+     "Roads around Russell Square, Woburn Place and Aldgate High Street will be closed for up to the next 48 hours.",
+     "\u003cstrong\u003eCongestion charge \u003c/strong\u003e ",
+     "The congestion charge will not be in effect during Friday. Advice to drivers remains not to travel through central London during this period.",
+     "\u003cstrong\u003ea\u003c/strong\u003e ",
+     "\u003cstrong\u003eTUBE\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"This is the worst incident in the history of London underground\",\"The last serious incident was the Kings Cross fire in 1987 when 27 people died after a machine room under a wooden escalator caught fire. This led to a major overhaul of emergency procedures\",\"There was a derailment at White City on May 11, 2004 but there were no injuries or fatalities\",\"There was a derailment at Camden Town 19 October 2003 with 7 injuries and no fatalities\",\"There was a derailment at Chancery Lane 25 January 2003 with no injuries and no fatalities\",\"Each AM peak 370,000 use the tube.\"]}",
+     "\u003cstrong\u003eWell prepared\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Underground conducted a live emergency exercise at Tower Hill station two and a half weeks ago on 12 June which fully tested the combined emergency services response to an emergency\",\"Each year LU holds an emergency exercise to test procedures\",\"There was a multi national emergency desktop exercise, Atlantic Blue, earlier this year which focused on the response to a potential terrorist attack.\"]}",
+     "\u003cstrong\u003ePrecautions\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"There has recently been a renewed campaign in conjunction with the Met Police to report suspect bags and packages. These posters are highly visible in Tube stations and on buses\",\"A London resilience team has weekly meetings - London wide resilience plans have been fully tested.\"]}",
+     "\u003cstrong\u003eBUSES\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Approximately 325,000 people travel on buses during the morning peak\",\"CCTV pictures will be used to assist police.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

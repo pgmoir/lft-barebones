@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Something went wrong",
+ "keywords": "TfL",
+ "description": "Compliance registration failure",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "Something went wrong"
+  }
+ ],
+ "title": {
+  "title": "Something went wrong",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Please try again.",
+     "Your application may have timed out. Try adding a maximum of 15 vehicles in one application.",
+     "Take note of your account number. You will need it to sign in to your account."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "pageTitle": "Challenge a PCN",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Challenge a PCN"
+  }
+ ],
+ "title": {
+  "title": "Challenge a PCN",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Introduction text for informal challenge notice",
+     "Our response to your representation may be served using this email address. By challenging this PCN online, you are agreeing to this. Contact us if this email address changes and make sure our emails aren’t blocked.",
+     "Read the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging\"target=\"_blank\"\u003eLondon Road User Charging privacy notice\u003c/a\u003e .",
+     "You have not uploaded any evidence to support your representation. If you can't submit your evidence now, you can forward it to us by posting it to:"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Taxi Ranks",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Taxi Ranks",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Please note that taxi ranks have recently been appointed at the following locations"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Royal Albert Hall, SW7 for 5 cabs. This rank is available between mid-day and 3am.",
+     "Wells Terrace, Finsbury Park (north side of station) for 3 cabs. This is an 'island' rank and may be worked by Haringey sector drivers and All-London drivers.",
+     "Creek Road, Deptford for 2 cabs. This rank is available between 8pm and 5am.",
+     "Station Square, Petts Wood for 2 cabs. This rank is available between 4pm and 2am.",
+     "Centre Court, The Broadway, Wimbledon for 2 cabs. This rank has been relocated to the south of the bus stop area. It is not available Monday to Friday 7am to 10am or from 4pm to 7pm.",
+     "Drivers are invited to make every effort to work these ranks during the hours of operation."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

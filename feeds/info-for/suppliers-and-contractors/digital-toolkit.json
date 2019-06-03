@@ -1,0 +1,229 @@
+{
+ "pageTitle": "Digital toolkit",
+ "keywords": "TfL",
+ "description": "The digital toolkit consists of guides and resources to enable anyone to create services to run on the TfL site, whether you're working in user experience, design, technical development or content.",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Digital toolkit"
+  }
+ ],
+ "title": {
+  "title": "Digital toolkit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We've produced a range of standards and guidelines for use by staff and suppliers when working on digital services for TfL."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "How we work",
+    "texts": [
+     "About TfL Online, becoming a supplier, security and risk management..."
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/how-we-work",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Understanding our users",
+    "texts": [
+     "Personas, putting users first, benchmarking and analytics..."
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/understanding-our-users",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Design \u0026 content",
+    "texts": [
+     "IA principles, accessibility, design and editorial style guides, copy and content..."
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Technical",
+    "texts": [
+     "Technical architecture, coding, APIs, maps, privacy and data protection..."
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/technical",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Testing \u0026 assurance",
+    "texts": [
+     "Testing requirements, go live and service acceptance criteria..."
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Support \u0026 maintenance",
+    "texts": [
+     "Change management, release management, service models..."
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/support-and-maintenance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Suppliers \u0026 contractors",
+    "links": [
+     {
+      "title": "Become a TfL supplier",
+      "url": "/info-for/suppliers-and-contractors/become-a-supplier",
+      "image": {}
+     },
+     {
+      "title": "Find contract opportunities",
+      "url": "/info-for/suppliers-and-contractors/opportunities",
+      "image": {}
+     },
+     {
+      "title": "Invoicing and getting paid",
+      "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+      "image": {}
+     },
+     {
+      "title": "What we buy",
+      "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Supplier relations",
+      "url": "/info-for/suppliers-and-contractors/supplier-relations",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "image": {}
+     },
+     {
+      "title": "How we work",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/how-we-work",
+      "image": {}
+     },
+     {
+      "title": "Understanding our users",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/understanding-our-users",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 content",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content",
+      "image": {}
+     },
+     {
+      "title": "Technical",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/technical",
+      "image": {}
+     },
+     {
+      "title": "Testing \u0026 assurance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance",
+      "image": {}
+     },
+     {
+      "title": "Support \u0026 maintenance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/support-and-maintenance",
+      "image": {}
+     },
+     {
+      "title": "Health, safety \u0026 environment",
+      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
+      "image": {}
+     },
+     {
+      "title": "Design standards \u0026 licensing",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "image": {}
+     },
+     {
+      "title": "London Buses tenders",
+      "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+      "image": {}
+     },
+     {
+      "title": "London Service Permits",
+      "url": "/info-for/suppliers-and-contractors/london-service-permits",
+      "image": {}
+     },
+     {
+      "title": "TfL Supplier Awards",
+      "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Suppliers \u0026 contractors",
+     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

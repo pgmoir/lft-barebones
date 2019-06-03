@@ -1,0 +1,61 @@
+{
+ "pageTitle": "ULEZ and LEZ services",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "ULEZ and LEZ services"
+  }
+ ],
+ "title": {
+  "title": "ULEZ and LEZ services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Ultra Low Emission Zone (ULEZ) and Low Emission Zone (LEZ) operate 24 hours a day, every day of the year, including weekends and public and bank holidays.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Charging days run from midnight to midnight. So if you drive within the zones between 23:30 and 01:00 the next day, you need to pay for 2 days.",
+     "The ULEZ covers central London, in the same area as the Congestion Charge. The LEZ operates across most of Greater London.",
+     "The charges only need to be paid if you drive your vehicle within the zone. Parked vehicles are not subject to any charges.",
+     "As well as ULEZ and LEZ charges, you may also need to pay the Congestion Charge. The Congestion Charge applies from 07:00 to 18:00 Monday to Friday, excluding public and bank holidays. If you drive within the Congestion Charge zone during these times you need to pay the Congestion Charge, even if you meet the ULEZ and/or LEZ emissions standards or have paid those daily charges.",
+     "Use the links below to find out if your vehicle is affected by the ULEZ and/or LEZ and if your journey takes you into the zone.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/low-emission-zone/about-the-lez\\\"class=\\\"plain-button\\\"\\u003eFind out more about the LEZ\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/ultra-low-emission-zone\\\"class=\\\"plain-button\\\"\\u003eFind out more about the ULEZ\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\\\"class=\\\"plain-button\\\"\\u003eSee if your vehicle is affected\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/driving/check-your-vehicle-35896\\\"class=\\\"plain-button\\\"\\u003eULEZ/LEZ vehicle checker\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ and LEZ charges and discounts\"}",
+     "If your vehicle is affected by the ULEZ and you intend to use it in the zone, you need to pay the daily ULEZ charge of £100 for larger vehicles such as lorries, buses and coaches and £12.50 for smaller vehicles like cars, small vans and motorcycles.",
+     "There are also two LEZ charges, £200 for larger vehicles and £100 for smaller ones.",
+     "If you believe that the details we hold for your vehicle are incorrect or insufficient to calculate the correct charge you can register the vehicle with us.",
+     "To \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister a vehicle with us\u003c/a\u003e you will need to provide evidence that it meets the ULEZ and/or LEZ standards.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Showman's discount\"}",
+     "If you own a specially constructed or modified vehicle used for a travelling show, it may be eligible for a discount on daily ULEZ and LEZ charges. Find out more and set up a London Road User Charging account before \u003ca href=\"/modes/driving/lez-lez-showman-apply-anon-34303\"\u003eapplying for the Showman's discount\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

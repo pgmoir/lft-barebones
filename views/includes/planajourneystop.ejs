@@ -1,0 +1,24 @@
+<div class="card">
+  <div class="card-header bg-dark">
+    <a href="#" data-toggle="collapse" data-target="#collapse-pajhelp" aria-expanded="true" aria-controls="collapse-pajhelp" id="collapse-pajheading" class="d-flex align-items-center text-white">
+      <div class="w-100 pr-2">Plan a journey</div>
+      <div class="svgpost svgicon-question flex-shrink-1"></div>
+    </a>
+  </div>
+  <div class="card-body">
+    <p id="collapse-pajhelp" class="collapse" aria-labelledby="collapse-pajheading">To plan a journey to or from this stop, or from a nearby place, then select one of the buttons below.</p>
+    <div class="row mb-3">
+      <div class="col-6"><a href="https://tfl.gov.uk/plan-a-journey/?to=<%= stoppoint.name %>&toid=<%= stoppoint.id %>" class="btn btn-primary w-100">To here</a></div>
+      <div class="col-6"><a href="https://tfl.gov.uk/plan-a-journey/?from=<%= stoppoint.name %>&fromid=<%= stoppoint.id %>" class="btn btn-primary w-100">From here</a></div>
+    </div>
+    <ul class="list-group">
+      <li class="list-group-item ">
+        <a href="https://tfl.gov.uk/maps?Input=<%= stoppoint.name %>&InputGeolocation=<%= stoppoint.geo %>" class="d-flex align-items-center">
+          <div class="svgpre svgicon-radar flex-shrink-1 p-2 mr-2"></div>
+          <div class="w-100 pr-2">Find stop or routes nearby</div>
+          <div class="svgpost svgicon-internal flex-shrink-1"></div>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>

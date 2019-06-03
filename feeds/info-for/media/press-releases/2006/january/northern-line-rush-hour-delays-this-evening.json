@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Northern line rush hour delays this evening",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Northern line rush hour delays this evening",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) this evening advised passengers using the Northern line that the service is running with severe delays."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A special service is running on the Northern line this evening:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eMorden to High Barnet via Bank\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eKennington to Edgware via Charing Cross\\u003c/strong\\u003e \"]}",
+     "The delays are due to the earlier suspension of the northbound Charing Cross branch of the Northern line between Kennington and Camden Town because of four signal failures.",
+     "The signal failures occurred in the Leicester Square area at midday and engineers worked through the afternoon to fix the problems in a deep section of the tunnel.",
+     "The repair work is being undertaken by Tube Lines.",
+     "London Underground tickets are being accepted on London Buses and train operating companies.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Harrow to benefit as Mayor unveils £10bn investment programme to transform London's transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Harrow is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Harrow and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Harrow on the move.\"",
+     "The main benefit for Harrow included in TfL's 5 Year Investment Programme, subject to approval by the TfL Board, is:",
+     "{\"template\":\"bulletlist\",\"items\":[\"a new package of improvements for Silverlink Metro services including station and security enhancements such as better CCTV and lighting, graffiti cleaning and the extension of station staffing hours providing a greater presence early in the morning and later at night.\",\"In addition, the following improvements to Bakerloo, Jubilee, Metropolitan and Piccadilly Lines and stations are planned to be delivered under the PPP: station refurbishments to North Harrow and South Harrow (completion 2005); and Canons Park, Edgware Road, Harrow-on-the-Hill, Pinner, Queensbury, Rayners Lane, Stanmore and West Harrow (completion 2007-2010);\",\"Jubilee line to be improved with the addition of a seventh car to be added to trains and new signalling system with a total increase in capacity of 48 percent;\",\"The first new air-cooled trains to be introduced on the Metropolitan Line in 2009.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Harrow's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system or launching new projects.\"",
+     "Work undertaken to improve transport in Harrow by TfL over the past four years, benefiting all Londoners including those with disabilities and the socially excluded includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"new low floor fully accessible buses on 15 routes and increased frequencies on 14 routes;\",\"funding for additional Met police officers and police Community Support officers to reduce crime and the fear of crime, improve enforcement on and around bus routes and tackle taxi touting.\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\"]}",
+     "In partnership with the Borough, a range of local schemes have or will shortly be implemented including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"secure cycle parking at key locations along London Cycle Network routes;\",\"provision of cycle parking and lockers at Pinner Park Middle School, Welldon Park Middle School, Nower Hill High School and Earlsmead First and Middle School.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

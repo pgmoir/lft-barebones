@@ -1,0 +1,226 @@
+{
+ "pageTitle": "Website privacy",
+ "keywords": "TfL",
+ "description": "Information TfL and its subsidiaries collect about you and procedures we have to safeguard your privacy when using our web services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Privacy \u0026 cookies",
+   "url": "/corporate/privacy-and-cookies/index"
+  },
+  {
+   "title": "Website privacy"
+  }
+ ],
+ "title": {
+  "title": "Website privacy",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page explains how we protect your privacy when using our web services. It describes the information we collect and the procedures we have in place to safeguard your privacy.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This privacy statement applies to data collected by the websites of TfL and its subsidiary companies, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Docklands Light Railway\",\"London River Services\",\"London Transport Museum\",\"London Underground\",\"Rail for London\",\"Victoria Coach Station\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Personal information we collect about\\nyou\"}",
+     "You can browse our websites without disclosing any\ninformation about yourself.",
+     "By entering your details in any fields requested,\nsuch as your name, email address, postal address, telephone or mobile number, or\ndate of birth, you enable TfL and its subsidiaries to provide you with the\nservice(s) you select, the information that you have asked for, or to resolve a query or complaint you have made.",
+     "In all cases, we will only request information we\nneed to provide you with the service(s) you have requested.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we use your personal information\"}",
+     "When we collect information from you, we will tell\nyou if we would like to send you information about our products and services or\ntransport-related issues.",
+     "We will give you the opportunity to opt out.",
+     "If we wish to share your data with third parties\nfor marketing purposes, we will tell you about this and only do so if we get\nyour consent.",
+     "We will give you the opportunity to opt in.",
+     "We may disclose your personal data to our\nsubsidiaries, train operating companies which accept Oyster for travel on their\nservices and our service providers.",
+     "These service providers may include train companies\nproviding services on the DLR and London Overground, bus companies and those\nthat administer the Congestion Charge and provide ticketing and information\nservices.",
+     "TfL may also share your personal information with\nthe police and other law enforcement agencies for the purposes of crime\nprevention or detection.",
+     "If we disclose your information, we ask the\norganisation to demonstrate that the data will assist in the prevention or\ndetection of crime, or that TfL is legally obliged to disclose it.",
+     "This is done on a strictly case-by-case basis and\nthrough a tightly controlled process to ensure we comply with data\nprotection legislation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Protecting your information\"}",
+     "We use up-to-date industry procedures to protect\nyour personal information.\nWe also protect the security of your data using\nSecure Sockets Layer (SSL) encryption technology.\nWe have appropriate security measures in place to\nprotect against the loss, misuse or alteration of information that we have\ncollected from you via our websites.\nThe internet, however, is not generally a secure\nmedium of communication and we cannot guarantee the security of any information\nyou input on this website or send to us via the internet.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cookies\"}",
+     "A cookie is a piece of text that a website\ntransfers to your computer's hard disk so it can remember who you are. Cookies\nare generally used to monitor how a website is used and improve your online\nexperience. They do not give us access to the rest of your computer and are\nnot used to identify you personally.",
+     "View a list of the main \u003ca href=\"/corporate/privacy-and-cookies/cookies\"\u003ecookies\u003c/a\u003e we set, what they are\nused for and how to manage and delete them.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this privacy statement\"}",
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more.\nYour continued use of the site will mean that you accept those revisions."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Privacy \u0026 cookies",
+    "links": [
+     {
+      "title": "Access your data",
+      "url": "/corporate/privacy-and-cookies/access-your-data",
+      "image": {}
+     },
+     {
+      "title": "Bus data collection pilot",
+      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
+      "image": {}
+     },
+     {
+      "title": "Capital Call",
+      "url": "/corporate/privacy-and-cookies/capital-call",
+      "image": {}
+     },
+     {
+      "title": "CCTV \u0026 surveillance cameras",
+      "url": "/corporate/privacy-and-cookies/cctv",
+      "image": {}
+     },
+     {
+      "title": "Compulsory purchase",
+      "url": "/corporate/privacy-and-cookies/compulsory-purchase",
+      "image": {}
+     },
+     {
+      "title": "Contactless payment",
+      "url": "/corporate/privacy-and-cookies/contactless-payment",
+      "image": {}
+     },
+     {
+      "title": "Cookies",
+      "url": "/corporate/privacy-and-cookies/cookies",
+      "image": {}
+     },
+     {
+      "title": "Dial-a-Ride",
+      "url": "/corporate/privacy-and-cookies/dial-a-ride",
+      "image": {}
+     },
+     {
+      "title": "Employment",
+      "url": "/corporate/privacy-and-cookies/employment",
+      "image": {}
+     },
+     {
+      "title": "Event data from mobile devices",
+      "url": "/corporate/privacy-and-cookies/event-data-from-mobile-devices",
+      "image": {}
+     },
+     {
+      "title": "External Recruitment",
+      "url": "/corporate/privacy-and-cookies/external-recruitment",
+      "image": {}
+     },
+     {
+      "title": "Oyster card",
+      "url": "/corporate/privacy-and-cookies/oyster-card",
+      "image": {}
+     },
+     {
+      "title": "Privacy \u0026 data protection policy",
+      "url": "/corporate/privacy-and-cookies/privacy-and-data-protection-policy",
+      "image": {}
+     },
+     {
+      "title": "Protect your data",
+      "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Road User Charging",
+      "url": "/corporate/privacy-and-cookies/road-user-charging",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/corporate/privacy-and-cookies/santander-cycles",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire licensing",
+      "url": "/corporate/privacy-and-cookies/taxi-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Website privacy",
+      "url": "/corporate/privacy-and-cookies/website-privacy",
+      "image": {}
+     },
+     {
+      "title": "Wi-Fi data collection",
+      "url": "/corporate/privacy-and-cookies/wi-fi-data-collection",
+      "image": {}
+     },
+     {
+      "title": "Your information rights",
+      "url": "/corporate/privacy-and-cookies/your-information-rights",
+      "image": {}
+     },
+     {
+      "title": "Zip Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/18-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ Oyster photocard",
+      "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Privacy \u0026 cookies",
+     "url": "/corporate/privacy-and-cookies/60-oyster-photocard",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

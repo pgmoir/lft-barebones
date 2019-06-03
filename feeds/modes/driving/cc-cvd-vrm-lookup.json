@@ -1,0 +1,56 @@
+{
+ "pageTitle": "Vehicle details",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Vehicle details"
+  }
+ ],
+ "title": {
+  "title": "Vehicle details",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Be careful not to mix up the letters '\u003cstrong\u003eI\u003c/strong\u003e ' and '\u003cstrong\u003eO\u003c/strong\u003e ' with the numbers '\u003cstrong\u003e1\u003c/strong\u003e ' and '\u003cstrong\u003e0\u003c/strong\u003e '.",
+     "Choose the correct country of registration. You risk getting a penalty if you pick the wrong one.",
+     "This is based on the vehicle details entered and information held by the DVLA and TfL today.\u003cstrong\u003eThis may change without notice.\u003c/strong\u003e ",
+     "\u003cstrong\u003eWe do not hold details for this vehicle\u003c/strong\u003e ",
+     "\u003cstrong\u003eUK-registered:\u003c/strong\u003e If your vehicle's make and model details have not been returned, make sure you entered the number plate correctly before continuing.",
+     "\u003cstrong\u003eRegistered outside the UK:\u003c/strong\u003e We are unable to display the make, model and colour information. Confirm this is the correct vehicle to continue.",
+     "\u003cstrong\u003eWhat if my vehicle details are incorrect?\u003c/strong\u003e ",
+     "If the number plate is correct but the description is wrong, you can still continue.",
+     "Vehicle information is provided to TfL by the DVLA so you'll need to let the DVLA know if your details are wrong or need to be updated."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

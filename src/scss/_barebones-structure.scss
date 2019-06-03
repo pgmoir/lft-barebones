@@ -1,0 +1,141 @@
+/* when to include and not underline */
+p { a { text-decoration: underline; } }
+ul.std-list { a { text-decoration: underline; } }
+a.status { text-decoration: none; }
+a.sr-only { color: #004c9d; background-color: $white; }
+
+ol.breadcrumb {
+  padding: 0rem;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  .breadcrumb-item {
+    padding: 3px 5px;
+    background-color: #eeeeee;
+    border-bottom: 1px solid #d9d9d9;
+    a {
+      color: #004c9d;
+    }
+  }
+}
+
+.h-standard {
+  border-bottom: 1px solid rgba(0,0,0,.2);
+  // padding-top: 1rem; // removed after adding in the breadcrumb
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.h-highlight {
+  padding: 0.5rem 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: .25rem;
+  border-bottom: .25rem;
+  &.h-light {
+    border-bottom: .25rem solid $silver;
+    background-color: $gallery;
+    color: $charade;
+  }
+  &.h-dark {
+    border-bottom: .25rem solid $woodsmoke;
+    background-color: $charade;
+    color: $gallery;
+  }
+}
+
+.container-lft {
+  min-width: 300px;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.banner-background {
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  height: 400px;
+  margin-bottom: -400px;
+  top: 57px;
+  left: 0;
+  width: 100%;
+  &.hero-background {
+    height: 800px;
+    margin-bottom: -800px;
+  }
+}
+
+ul.links {
+  list-style-type: none;
+  padding: 0;
+  li {
+    padding-bottom: .35rem;
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+  }
+  &.inline li {
+    display: inline;
+    padding-right: 1rem;
+  }
+}
+
+ul.std-list {
+  li {
+    padding-bottom: 0.5rem;
+    &:last-child {
+      padding-bottom: 0rem;
+    }
+  }
+}
+
+.footer {
+  background-color: $shark;
+  color: $silver;
+  h6, .h6 {
+    color: $gallery;
+  }
+  hr {
+    background-color: $gallery;
+  }
+  &.footer-copyright {
+    background-color: $charade;
+    a {
+      color: $montecarlo;
+    }
+  }
+}
+
+.form-control-help {
+  margin-top: 0rem;
+  margin-bottom: .25rem;
+  line-height: 2;
+}
+
+// sizes
+.minw-12 { min-width: 12rem; }
+.width-1 {width: 1rem; }
+.width-2-5 {width: 2.5rem; min-width: 2.5rem;}
+.hgt-1 { height: 1rem; }
+.hgt-3 { height: 3rem; }
+.hgt-10 { height: 10rem; }
+
+// all button text to wrap, very useful when long button text and need to be responsive
+// normally used in conjunction with w-100
+.btn-textwrap {
+  white-space:normal !important;
+  word-wrap: break-word; 
+}
+
+.bg-basic {
+  background-color: $gallery; 
+  color: $darkside;
+}
+
+.dash-separator { 
+  display: block;
+  border-top: 1px dashed $gray-300;
+  margin-bottom: 1rem;
+}
+
+#mapid { height: 50rem; }
+

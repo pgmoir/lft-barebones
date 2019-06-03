@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "We aim to process your registration within 10 working days and will email you with the outcome.",
+     "The discount only applies to the Congestion Charge. If your vehicle doesn't meet the emissions standards you still need to pay the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone charge\u003c/a\u003e .",
+     "Auto Pay automatically records the number of charging days a vehicle travels within the Congestion Charge zone and, if it doesn't meet the emissions standards, the Ultra Low Emission Zone, and then bills users each month.",
+     "\u003cstrong\u003eBenefits of Auto Pay\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Never forget to pay the charge again\",\"A reduced daily charge\",\"Protection from receiving penalties (Penalty Charge Notices) as long as your vehicle is registered and your Auto Pay service is active\",\"Register up to\\u003cstrong\\u003e \\u003c/strong\\u003e 5 vehicles\"]}",
+     "If your residents' discount vehicle is not on your Auto Pay you will need to pay the Congestion Charge every time you travel within the zone. Click 'Update my Auto Pay' to add your discount vehicle to your Auto Pay service.",
+     "Sign up and save. It's the easiest way to pay the Congestion Charge and Ultra Low Emission Zone.",
+     "Add your vehicle to your Auto Pay service."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

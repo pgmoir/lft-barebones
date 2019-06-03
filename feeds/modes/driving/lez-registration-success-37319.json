@@ -1,0 +1,62 @@
+{
+ "pageTitle": "LEZ registration",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "LEZ registration"
+  }
+ ],
+ "title": {
+  "title": "LEZ registration",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Confirmation\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your LEZ registration is being processed\"}",
+     "We will let you know if your registration application has been approved once we have processed your documents. Until then you must pay the charge for journeys within the LEZ.",
+     "We aim to respond to you in the next 10 working days.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Posting your documents\"}",
+     "If you submit your documents and/or registration form by post, make sure you quote the above reference number on each piece of correspondence. This will speed up the application process.",
+     "Post your documents to:",
+     "Low Emission Zone\u003cbr /\u003ePO Box 343\u003cbr /\u003eDarlington\u003cbr /\u003eDL1 9QD",
+     "If you prefer to email images or copies of your documents, send them to:",
+     " \u003ca href=\"mailto:LEZLondon@TfL.gov.uk\"\u003eLEZLondon@TfL.gov.uk\u003c/a\u003e ",
+     "You need to submit your documents in the next 10 working days or your application will be cancelled. If your application is cancelled you will need to reapply.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Next steps\"}",
+     "We will consider your application once we have received all the documents to support it. We will let you know the outcome of your application by your preferred communication channel.",
+     "Until your vehicle has been successfully registered you need to pay the appropriate LEZ charge if you drive in the zone. You can do this by logging in to your account and paying online or contacting us on 0343 222 1111 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/account-account-landing-29377\\\"class=\\\"plain-button\\\"\\u003eGo to my account\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

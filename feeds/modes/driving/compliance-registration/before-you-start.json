@@ -1,0 +1,76 @@
+{
+ "pageTitle": "Register a vehicle for ULEZ and LEZ",
+ "keywords": "TfL",
+ "description": "Before you start check if you need to register your vehicle",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for ULEZ and LEZ"
+  }
+ ],
+ "title": {
+  "title": "Register a vehicle for ULEZ and LEZ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Register with us if we have said you need to pay ULEZ or LEZ charges for your vehicle, and you believe that's not the case.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "Before we can process your application, you need to have a London Road User Charging account. You will create one as part of this process.",
+     "To register you will need to upload documents proving that your vehicle meets the required emissions standards, should be exempt or is subject to the showman's 100% discount.",
+     "Find out about meeting \u003ca href=\"/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard\"\u003eULEZ emissions standards\u003c/a\u003e and \u003ca href=\"/modes/driving/low-emission-zone/find-out-if-you-need-to-register\"\u003eLEZ emissions standards\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Documents you need for proof\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A copy of the vehicle's V5C or non-UK equivalent\"]}",
+     "Plus",
+     "{\"template\":\"bulletlist\",\"items\":[\"A letter from the vehicle manufacturer's homologation department stating the vehicle's Euro standard or a conformity certificate\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Proof of abatement equipment fitted to the vehicle\"]}",
+     "To apply for the 100% showman's discount, or to prove a vehicle is exempt from either scheme, you will also need to provide four photographs of the vehicle (front, sides, rear and interior).",
+     "You will get more details of what is needed for proof during the application process.",
+     "You must notify the \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency\"\u003eDriver and Vehicle Standards Agency (DVSA)\u003c/a\u003e immediately when the number plate of your vehicle has changed if it has a Reduced Pollution or Low Emission Certificate.",
+     "For Heavy Goods Vehicles over 3.5 tonnes Gross Vehicle Weight you will need to submit a Notifiable Alteration Form, the appropriate fee along with the original Reduced Pollution or Low Emission Certificate. You can \u003ca href=\"https://www.gov.uk/government/publications/details-of-notifiable-alterations-or-application-for-a-change-of-plated-details-of-a-goods-motor-vehicle\"\u003edownload the notifiable alteration form and guidance notes on GOV.UK\u003c/a\u003e .",
+     "For Light Goods Vehicles 3.5 tonnes Gross Vehicle Weight and under, you will need to send a copy of the V5C vehicle registration certificate (logbook) displaying the new number plate along with the original Reduced Pollution or Low Emission Certificate to:",
+     "RPC Section\u003cbr /\u003eDVSA\u003cbr /\u003eEllipse\u003cbr /\u003ePadley Road\u003cbr /\u003eSwansea SA1 8AN",
+     "There is no fee for the issue of a new certificate.",
+     "For buses, coaches or minibuses, you need to submit a copy of the V5C vehicle registration certificate (logbook) displaying the new number plate along with the original Reduced Pollution or Low Emission Certificate and, if it applies, the original Certificate of Initial Fitness. All documents should be sent together to the address above.",
+     "There is no fee for the issue of new Reduced Pollution or Low Emission Certificates due to number plate change."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "pageTitle": "Vehicle change in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Vehicle change in progress"
+  }
+ ],
+ "title": {
+  "title": "Vehicle change in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "If you have paid any discounted charges for your previous vehicle, any remaining days will be refunded automatically back to the card used to make the original payment. (If you paid by cheque the refund will be made by cheque.)",
+     "You need to pay the discounted charge for your new vehicle from today's date.",
+     "Your vehicle has been added temporarily to your residents' discount for 40 days. We will review your documents and confirm if it can be added permanently.",
+     "You need to supply your document in the next 30 days if you have not done so already. If we don't receive suitable documents by then your newly added vehicle will be cancelled and no longer benefit from the discount.",
+     "When you have your documents, sign in to your account, go to Contact us and attach them as part of an enquiry.",
+     "You can now pay the Congestion Charge at the 90% discounted for your new vehicle.",
+     "Manage your Auto Pay account.",
+     "Sign up for Auto Pay and save up to £1 a day. It's the easiest way to pay the Congestion Charge.",
+     "Simply give us your credit/debit card number or set up a direct debit and the charge will be paid automatically whenever you drive within the zone.",
+     "If your previous vehicle is on your Auto Pay service, don't forget to replace it with your new one. To change vehicles on Auto Pay, click 'Manage my Auto Pay'.",
+     "Read more about Auto Pay",
+     "If this vehicle is not on your Auto Pay service, you need to pay the discounted Congestion Charge.",
+     "Sign up for Auto Pay and save up to £1 a day. It's the easiest way to pay the Congestion Charge.",
+     "Simply give us your credit/debit card number or set up a direct debit and the charge will be paid automatically whenever you drive within the zone."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

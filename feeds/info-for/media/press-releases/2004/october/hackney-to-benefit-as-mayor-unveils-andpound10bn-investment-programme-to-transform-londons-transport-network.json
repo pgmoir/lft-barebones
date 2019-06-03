@@ -1,0 +1,70 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Hackney to benefit as Mayor unveils £10bn investment programme to transform London's transport network",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Hackney is to benefit from better transport under a proposed £10 billion, five year investment programme to give London a 21st century transport system, unveiled by Mayor of London Ken Livingstone today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Speaking at City Hall, the Mayor said:",
+     "\"This is a once-in-a-lifetime opportunity to reverse decades of under-investment in Hackney and right across London. It marks an end to stop-start funding for London's transport. The programme will deliver real improvements in the services and capacity needed to keep passengers travelling in and through Hackney on the move.\"",
+     "The main benefits for Hackney included in TfL's 5 Year Capital Investment Programme, subject to approval by the TfL Board, are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"the extension of the East London Line Project north to Dalston and south to Crystal Palace and West Croydon;\",\"a new package of improvements for Silverlink Metro services including station and security enhancements such as better CCTV and lighting, graffiti cleaning and the extension of station staffing hours providing a greater presence early in the morning and later at night.\"]}",
+     "The Mayor added:",
+     "\"The last four years have seen huge improvements in Hackney's bus services. This investment programme will build on this and deliver improvements right across the transport network.",
+     "\"We have had to take hard choices. Even with the biggest transport investment programme London has seen since the Second World War, we cannot do everything we want to do this time round. But there have been no trade-offs between maintaining the existing system and launching new projects.\"",
+     "Work undertaken to improve transport in Hackney over the past four years, benefiting all Londoners including those with disabilities and the socially excluded, includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more reliable services and better information on all bus services;\",\"increased frequency on 36 bus routes with new low-floor accessible buses on 34 routes;\",\"the introduction of five new bus routes (254, 388, 393, 394, 476) and nine new night bus routes;\",\"improvements to services on the North London line including additional Saturday and evening peak services and work to install CCTV on all trains and;\",\"major works have been completed at Shoreditch Triangle to reduce congestion and improve pedestrian and cycling facilities;\",\"licensing of private hire vehicles to improve passenger safety;\",\"funding for improving conditions for walking, cycling and road safety;\",\"improvements in dial-a-ride and taxicard funding.\",\"In partnership with Hackney Borough, a range of schemes have been implemented including: improved cycle routes, for example the Pitfield Street contra-flow cycleway;\",\"the Safer Routes to Schools programme has led to traffic calming measures around Cazenove and Rendlesham Roads and;\",\"Shacklewell Primary School has benefited from new cycle parking and lockers.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

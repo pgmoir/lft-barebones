@@ -1,0 +1,196 @@
+{
+ "pageTitle": "Accounts",
+ "keywords": "TfL",
+ "description": "Total income and outgoings of the TfL Pension Fund, and how the fund is managed.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "Fund management",
+   "url": "/pensions/fund-management"
+  },
+  {
+   "title": "Accounts"
+  }
+ ],
+ "title": {
+  "title": "Accounts",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Money in and out\"}",
+     "The table below shows the money coming into and going out of the Fund during the year.",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\"],\"rows\":[[],[\"\\u003cstrong\\u003eTotal income\\u003c/strong\\u003e \",\"\\u003cstrong\\u003e£586.3m\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eTotal outgoings\\u003c/strong\\u003e \",\"\\u003cstrong\\u003e£402.5m\\u003c/strong\\u003e \"],[\"Employers' contribution\",\"£374.9m\",\"Pensions and other benefits paid\",\"£357.7m\"],[\"Investment income\",\"£127.3m\",\"Investment management\",\"£18.7m\"],[\"Members' contribution\",\"£64.1m\",\"Other payments\",\"£4.3m\"],[\"Transfers in from other pension schemes\",\"£20.0m\",\"Administration\",\"£4.2m\"],[\"\",\"\",\"Payments in respect of leavers\",\"£7.6m\"],[\"\",\"\",\"Pension levies\",\"£10.0m\"],[\"Change in value of investments\",\"£286.2m\",\"\",\"\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Administration expenses\"}",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\"],\"rows\":[[],[\"Staff costs\",\"£2.4m\"],[\"Fund office running costs\",\"£0.6m\"],[\"Professional fees\",\"£0.8m\"],[\"Communications and consumables\",\"£0.3m\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we invested\"}",
+     "The Fund is held in a range of different investments (assets) in the UK and overseas. The following tables show how the Fund was invested on 31 March 2018.",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\"],\"rows\":[[],[\"Blackrock Investment Management UK Limited (Index tracking and liability matching assets)\",\"38.9%\"],[\"h3\",\"\"],[\"Pzena (Global equities)\",\"6.4%\"],[\"Goldman Sachs (Global bonds)\",\"6.4%\"],[\"JO Hambro (Global equities)\",\"4.5%\"],[\"Veritas (Global equities)\",\"4.2%\"],[\"Nomura (PacificBasin equities)\",\"2.7%\"],[\"Ardevora (Global equities)\",\"2.4%\"],[\"Russell (Global Emerging Market equities)\",\"2.2%\"],[\"Burgundy (North American Small Cap equities)\",\"2.0%\"],[\"Oak Hill (Alternative credit)\",\"1.9%\"],[\"Coronation (Global Emerging Market equities)\",\"1.4%\"],[\"JO Hambro (Asia (ex Japan) equities)\",\"1.3%\"],[\"Paradice (Global Small Cap equities)\",\"1.2%\"],[\"JP Morgan (Emerging Market debt)\",\"1.0%\"],[\"Wellington (Alternative credit)\",\"0.8%\"],[\"Currency overlay\",\"0.4%\"],[\"h3\",\"\"],[\"Bridgewater (Global Macro Systematic Hedge Fund)\",\"2.9%\"],[\"Semperian (Infrastructure assets)\",\"2.5%\"],[\"CBRE (Real Estate (Fund of Funds exposure))\",\"2.4%\"],[\"Neuberger Berman (Global equity Fund of Funds)\",\"2.1%\"],[\"Credit Suisse (Reinsurance Hedge Fund)\",\"1.9%\"],[\"Partners Group (Private Equity Fund of Funds)\",\"1.3%\"],[\"Colonial First State (Infrastructure Assets)\",\"1.2%\"],[\"Goldman Sachs (Alternative Risk Premium Hedge Fund)\",\"1.0%\"],[\"AQR (Futures Hedge Fund)\",\"1.0%\"],[\"Anchorage (Multi-Strategy Credit Hedge Fund)\",\"1.0%\"],[\"Blackrock (UK renewables Private equity)\",\"1.0%\"],[\"Brevan Howard (Global Macro Discretionary Hedge Fund)\",\"1.0%\"],[\"Blue Mountain (Multi-Strategy Credit Hedge Fund)\",\"1.0%\"],[\"Industry Funds (Infrastructure debt)\",\"0.7%\"],[\"Siguler Guff (Distressed Debt Private Equity)\",\"0.6%\"],[\"GS Mezzanine (Private Mezzanine debt)\",\"0.4%\"],[\"IFC (Emerging Market Infrastructure Fund)\",\"0.3%\"]]}",
+     "The table above shows the actual allocations of the Fund's assets between investment managers as at 31 March 2018.",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\"],\"rows\":[[],[\"Overseas equities\",\"48.1%\"],[\"Index linked instruments\",\"11.6%\"],[\"Liquid alternatives\\u003cbr /\\u003e\",\"10.6%\"],[\"Global bonds\\u003cbr /\\u003e\",\"6.2%\"],[\"UK equities\\u003cbr /\\u003e\",\"5.2%\"],[\"Private equities\",\"4.2%\"],[\"Infrastructure\",\"3.9%\"],[\"Alternative credit\\u003cbr /\\u003e\",\"3.6%\"],[\"Real estate\",\"2.9%\"],[\"Cash \\u0026 other assets\\u003cbr /\\u003e\",\"2.9%\"],[\"Commodities\",\"0.5%\"],[\"Fixed interest gilts\\u003cbr /\\u003e\",\"0.3%\\u003cbr /\\u003e\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Top 25 shares\"}",
+     "The Fund has significant direct holdings in the shares (equities) of a number of major quoted companies. The twenty five largest direct holdings as at 1 December 2018 are shown in the table below:",
+     "{\"template\":\"table\",\"titles\":[\"Company\",\"Sector\",\"Value\"],\"rows\":[[],[\"Charter Communications\",\"Communication Services\",\"£33.0m\"],[\"Oracle\",\"Information Technology\",\"£31.4m\"],[\"Thermo Fisher Scientific\",\"Health Care\",\"£28.7m\"],[\"Unilever\",\"Consumer Staples\",\"£27.1m\"],[\"Cigna\",\"Health Care\",\"£26.8m\"],[\"Microsoft\",\"Information Technology\",\"£25.6m\"],[\"Alphabet Inc\",\"Communication Services\",\"£23.0m\"],[\"Roche\",\"Health Care\",\"£21.7m\"],[\"CVS Health\",\"Health Care\",\"£20.3m\"],[\"Reckitt Benckiser\",\"Consumer Staples\",\"£19.5m\"],[\"Comcast\",\"Communication Services\",\"£18.3m\"],[\"Honda\",\"Consumer Discretionary\",\"£17.9m\"],[\"Total SA\",\"Energy\",\"£17.5m\"],[\"Rolls-Royce\",\"Industrials\",\"£17.3m\"],[\"United Health\",\"Health Care\",\"£16.8m\"],[\"American Express\",\"Financials\",\"£16.5m\"],[\"Safran SA\",\"Industrials\",\"£16.4m\"],[\"Taiwan Semiconductor\",\"Information Technology\",\"£16.1m\"],[\"Philip Morris International\",\"Consumer Staples\",\"£15.8m\"],[\"Baxter International\",\"Health Care\",\"£15.6m\"],[\"General Electric\",\"Industrials\",\"£15.5m\"],[\"Allergan\",\"Health Care\",\"£15.2m\"],[\"Tencent Holdings\",\"Communication Services\",\"£15.2m\"],[\"Travis Perkins\",\"Industrials\",\"£15.1m\"],[\"Facebook\",\"Communication Services\",\"£15.0m\"],[\"\\u003cstrong\\u003eTotal \\u003c/strong\\u003e \",\"\",\"\\u003cstrong\\u003e£501.3m\\u003c/strong\\u003e \"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "TfL Pension Fund",
+    "links": [
+     {
+      "title": "Your pension",
+      "url": "/pensions/your-pension",
+      "image": {}
+     },
+     {
+      "title": "Fund management",
+      "url": "/pensions/fund-management",
+      "image": {}
+     },
+     {
+      "title": "Trustee board",
+      "url": "/pensions/fund-management/trustee-board",
+      "image": {}
+     },
+     {
+      "title": "Committees",
+      "url": "/pensions/fund-management/committees",
+      "image": {}
+     },
+     {
+      "title": "Pension Consultative Council",
+      "url": "/pensions/fund-management/pension-consultative-council",
+      "image": {}
+     },
+     {
+      "title": "Pensioners' Forum",
+      "url": "/pensions/fund-management/pensioners-forum",
+      "image": {}
+     },
+     {
+      "title": "Pensions working group",
+      "url": "/pensions/fund-management/pensions-working-group",
+      "image": {}
+     },
+     {
+      "title": "Annual members meeting",
+      "url": "/pensions/fund-management/annual-meeting",
+      "image": {}
+     },
+     {
+      "title": "Investment management and principles",
+      "url": "/pensions/fund-management/investment-management-and-principles",
+      "image": {}
+     },
+     {
+      "title": "Performance",
+      "url": "/pensions/fund-management/performance",
+      "image": {}
+     },
+     {
+      "title": "Accounts",
+      "url": "/pensions/fund-management/accounts",
+      "image": {}
+     },
+     {
+      "title": "Associations",
+      "url": "/pensions/fund-management/associations",
+      "image": {}
+     },
+     {
+      "title": "Transport Benevolent Fund",
+      "url": "/pensions/fund-management/transport-benevolent-fund",
+      "image": {}
+     },
+     {
+      "title": "Staff Welfare Fund",
+      "url": "/pensions/fund-management/staff-welfare-fund",
+      "image": {}
+     },
+     {
+      "title": "Documents",
+      "url": "/pensions/fund-management/documents",
+      "image": {}
+     },
+     {
+      "title": "Actuarial Valuation",
+      "url": "/pensions/fund-management/actuarial-valuation",
+      "image": {}
+     },
+     {
+      "title": "Archive",
+      "url": "/pensions/fund-management/archive",
+      "image": {}
+     },
+     {
+      "title": "Environmental, social and governance matters",
+      "url": "/pensions/environmental-social-and-governance-matters",
+      "image": {}
+     },
+     {
+      "title": "News and publications",
+      "url": "/pensions/news-and-publications",
+      "image": {}
+     },
+     {
+      "title": "Contact TfL Pension Fund",
+      "url": "/pensions/contact",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "TfL Pension Fund",
+     "url": "/pensions/contact",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

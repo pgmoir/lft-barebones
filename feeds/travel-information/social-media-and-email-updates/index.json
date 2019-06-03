@@ -1,0 +1,305 @@
+{
+ "pageTitle": "Social media \u0026 email updates",
+ "keywords": "TfL",
+ "description": "Get service updates, news and information on social media or email",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates"
+  }
+ ],
+ "title": {
+  "title": "Social media \u0026 email updates",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Get news and travel advice through social media or email. Sign up for updates on disruption to your service on Tube and rail. Use Facebook and Twitter to get help with journey planning, fares and customer service."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Facebook TravelBot",
+    "texts": [
+     "Check status of Tube, rail and bus or find a bus stop and when the next bus is due"
+    ],
+    "link": {
+     "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-fb-travelbot_rdax_400x200.png"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Email updates",
+    "texts": [
+     "Hop aboard the TfL email service for updates, personalised offers and promotions"
+    ],
+    "link": {
+     "url": "/travel-information/social-media-and-email-updates/email-updates",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/email-travel-alerts_rdax_400x200.png"
+    },
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLTravelAlerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "@bakerlooline",
+      "url": "http://www.twitter.com/bakerlooline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@centralline",
+      "url": "http://www.twitter.com/centralline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@circleline",
+      "url": "http://www.twitter.com/circleline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@districtline",
+      "url": "http://www.twitter.com/districtline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@hamandcityline",
+      "url": "http://www.twitter.com/hamandcityline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@jubileeline",
+      "url": "http://www.twitter.com/jubileeline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@metline",
+      "url": "http://www.twitter.com/metline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@northernline",
+      "url": "http://www.twitter.com/northernline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@piccadillyline",
+      "url": "http://www.twitter.com/piccadillyline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@victorialine",
+      "url": "http://www.twitter.com/victorialine",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@wlooandcityline",
+      "url": "http://www.twitter.com/wlooandcityline",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@LDNOverground",
+      "url": "http://www.twitter.com/ldnoverground",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@londondlr",
+      "url": "http://www.twitter.com/londondlr",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@tramslondon",
+      "url": "http://www.twitter.com/tramslondon",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "@tflrail",
+      "url": "http://www.twitter.com/tflrail",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLTrafficNews",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLBusAlerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/SantanderCycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/TfLRiver",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@http://www.twitter.com/EmiratesAirLDN",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@elizabethline",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Social media \u0026 email updates",
+    "links": [
+     {
+      "title": "Travel alerts on Twitter",
+      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
+      "image": {}
+     },
+     {
+      "title": "Email updates",
+      "url": "/travel-information/social-media-and-email-updates/email-updates",
+      "image": {}
+     },
+     {
+      "title": "News updates",
+      "url": "/travel-information/social-media-and-email-updates/news-updates",
+      "image": {}
+     },
+     {
+      "title": "Careers updates",
+      "url": "/travel-information/social-media-and-email-updates/careers-updates",
+      "image": {}
+     },
+     {
+      "title": "Culture \u0026 heritage updates",
+      "url": "/travel-information/social-media-and-email-updates/culture-and-heritage-updates",
+      "image": {}
+     },
+     {
+      "title": "Journey alerts",
+      "url": "/travel-information/social-media-and-email-updates/journey-alerts",
+      "image": {}
+     },
+     {
+      "title": "Facebook TravelBot",
+      "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Social media \u0026 email updates",
+     "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitter",
+    "title": "Tweets by TfL",
+    "link": {
+     "url": "https://twitter.com/TfL",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

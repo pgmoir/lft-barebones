@@ -1,0 +1,55 @@
+{
+ "keywords": "TfL",
+ "description": "Vehicle type",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "What is your vehicle type?"
+  }
+ ],
+ "title": {
+  "title": "What is your vehicle type?",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Includes vans (over 1.205 tonnes unladen weight but not exceeding 3.5 tonnes gross vehicle weight) or minibuses (not over 5 tonnes gross vehicle weight). Also included are motor caravans, motorised horse boxes, breakdown and recovery vehicles, private ambulances, motor hearses, dual-purpose vehicles and other specialist types fitting the weight criteria.",
+     "Includes HGVs (over 3.5 tonnes gross vehicle weight) or buses and coaches (over 5 tonnes gross vehicle weight). Also included are breakdown and recovery vehicles, refuse collection vehicles, road sweepers and any other specialist equipment built onto a heavy commercial chassis fitting the weight criteria.",
+     "Includes cars, motorcycles and small vans (under 1.205 tonnes unladen weight and not exceeding 3.5 tonnes gross vehicle weight).",
+     "Includes non-road going vehicles, military vehicles, agricultural vehicles and mobile cranes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

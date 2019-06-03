@@ -1,0 +1,71 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "TfL welcomes £1.34m transport boost for North Woolwich",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) today welcomed a £1.34m government grant to provide a new footbridge to the Pontoon Dock Docklands Light Railway station."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "New housing and local amenities for the Thames Gateway is dependant on quality transport links",
+     "TfL worked with Newham, the London Development Agency and other partners to co-ordinate and submit the bid for funding to the Department for Transport and Office of the Deputy Prime Minister's Community Infrastructure Fund.",
+     "This has secured £15m funding for five transport projects in the Capital, including the Newham project.",
+     "TfL Commissioner Peter Hendy said: \"New housing and local amenities for the Thames Gateway is dependant on quality transport links.",
+     "\"The new footbridge will make access safer for the new DLR station at Pontoon Dock and I look forward to working with Newham to deliver the project.\"",
+     "The new footbridge crossing the North Woolwich Road will provide safe access from the Silvertown Quays development to Pontoon Dock station.",
+     "The transport link will support new housing planned for Silvertown Quays and provide access to the Thames Barrier Park and River Thames to the south and the Docks and Excel Centre to the north.",
+     "Mayor of Newham Sir Robin Wales said:\"This is a great step forward in the continuing development of the borough and improvement in transport services.",
+     "\"Work to construct the footbridge is due to start later this year to complete in 2007/08.\"\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Successful bids for the Department for Transport and Office of the Deputy Prime Minister's Community Infrastructure Fund (CIF) was announced by the departments on 16 February\",\"A total of £60m was allocated to projects in London and the South East\",\"The CIF allocations are to meet a cross-government pledge to meet the country's housing needs in a sustainable way\",\"Growth Area Funding (GAF) has also been announced by the government and several London boroughs were successful in securing funding for transport projects\",\"Details are available from the Department for Transport press office on 020 7944 3066\",\"Successful bids for London that were co-ordinated by Transport for London are:ul\",\"The funding period runs from 1 April 2006 to 31 March 2008\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

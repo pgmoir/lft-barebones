@@ -1,0 +1,152 @@
+{
+ "pageTitle": "Tube and rail fares",
+ "keywords": "TfL,fares, tube, rail",
+ "description": "Fares set by TfL for the Tube, DLR, London Overground, TfL Rail and National Rail services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Find fares",
+   "url": "/fares-and-payments/fares2018/find-fares"
+  },
+  {
+   "title": "Tube and rail fares"
+  }
+ ],
+ "title": {
+  "title": "Tube and rail fares",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Prices for pay as you go, caps and Travelcards when you travel on the Tube, DLR, London Overground, TfL Rail and National Rail services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Single pay as you go journey\",\"texts\":[\"Find the cost of a journey between two stations with our single fare finder\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/single-fare-finder\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/single-fare-finder-fares_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Caps and Travelcard prices\",\"texts\":[\"Find the price of pay as you go caps and Travelcards for your journey\"],\"link\":{\"url\":\"/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/caps-and-travelcard-prices\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/pay-as-you-go-caps_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"11-15 Zip Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/11-15-zip-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"16+Zip Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/16-plus-zip-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"18+ Student Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/18-plus-student-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Apprentice Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/apprentice-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Adult caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/adult-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 76KB\",\"image\":{}},{\"title\":\"Jobcentre Plus Travel Discount caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/jobcentre-plus-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 75KB\",\"image\":{}},{\"title\":\"National Railcard Discount caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/railcard-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Disabled Persons Railcard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/disabled-persons-railcard-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Peak and off-peak times\"}",
+     "We charge higher fares at the busiest times of the day.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using pay as you go\"}",
+     "On Tube, DLR, London Overground, TfL Rail and National Rail services in London:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ePeak fares\\u003c/strong\\u003e - Monday to Friday (not on public holidays) between 06:30 and 09:30, and between 16:00 and 19:00\",\"\\u003cstrong\\u003eOff-peak fares\\u003c/strong\\u003e - at all other times and if you travel from a station outside Zone 1 to a station in Zone 1 between 16:00 and 19:00, Monday to Friday\"]}",
+     "If you're travelling on London Overground between Euston (National Rail station) and Watford Junction:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ePeak fares\\u003c/strong\\u003e - from Watford Junction towards Euston (Southbound), Monday to Friday between 06:30 and 09:30 (not on public holidays). From Euston towards Watford Junction (Northbound), peak fares apply Monday to Friday between 16:00 and 19:00 (not on public holidays)\",\"\\u003cstrong\\u003eOff-peak fares\\u003c/strong\\u003e - at all other times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using Day Travelcards\"}",
+     "Peak and off-peak times change for different \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eDay Travelcards\u003c/a\u003e :",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eAnytime Day Travelcards\\u003c/strong\\u003e - use for the whole day (for the date printed on your ticket) and for journeys starting before 04:30 the next day\",\"\\u003cstrong\\u003eOff-peak Day Travelcards\\u003c/strong\\u003e - use for the whole day from 09:30, Monday to Friday, or anytime on Saturdays, Sundays or public holidays (for the date printed on your ticket), and for journeys starting before 04:30 the next day\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using our night services\"}",
+     "Our \u003ca href=\"/campaign/tube-improvements/what-we-are-doing/night-tube\"\u003eNight Tube\u003c/a\u003e and \u003ca href=\"/modes/london-overground/london-overground-night-service\"\u003eLondon Overground Night Service\u003c/a\u003e fares are always off-peak.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelling in a group\"}",
+     "If you're travelling in a group of ten or more, you can buy paper \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eGroup Day Travelcards\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Group Day Travelcard prices\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eZone  \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eAdult \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eUnder 16s\\u003c/strong\\u003e \"],[\"1-6\",\"£8.60\",\"£4.30\"],[\"1-9\",\"£9.20\",\"£4.60\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003eOyster pay as you go\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003eContactless and mobile pay as you go\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster\\\"\\u003eHow to pay and where to buy tickets and Oyster\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Find fares",
+    "links": [
+     {
+      "title": "Tube and rail fares",
+      "url": "/fares-and-payments/fares2018/find-fares/tube-and-rail-fares",
+      "image": {}
+     },
+     {
+      "title": "Pay as you go caps",
+      "url": "/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/pay-as-you-go-caps",
+      "image": {}
+     },
+     {
+      "title": "Single fare finder",
+      "url": "/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/single-fare-finder",
+      "image": {}
+     },
+     {
+      "title": "Caps and Travelcard prices",
+      "url": "/fares-and-payments/fares2018/find-fares/tube-and-rail-fares/caps-and-travelcard-prices",
+      "image": {}
+     },
+     {
+      "title": "Bus and tram fares",
+      "url": "/fares-and-payments/fares2018/find-fares/bus-and-tram-fares",
+      "image": {}
+     },
+     {
+      "title": "Penalty fares and how to pay them",
+      "url": "/fares-and-payments/fares2018/find-fares/penalty-fares-and-how-to-pay-them",
+      "image": {}
+     },
+     {
+      "title": "River fares",
+      "url": "/fares-and-payments/fares2018/find-fares/river-fares",
+      "image": {}
+     },
+     {
+      "title": "Emirates Air Line fares",
+      "url": "/fares-and-payments/fares2018/find-fares/emirates-air-line-fares",
+      "image": {}
+     },
+     {
+      "title": "National Rail fares, caps and Travelcards beyond Zone 9",
+      "url": "/fares-and-payments/fares2018/find-fares/national-rail-fares-beyond-zone-9",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Find fares",
+     "url": "/fares-and-payments/fares2018/find-fares/national-rail-fares-beyond-zone-9",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

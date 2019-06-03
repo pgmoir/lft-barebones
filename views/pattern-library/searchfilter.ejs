@@ -1,0 +1,77 @@
+<%- include('../includes/head') %>
+
+<%- include('../includes/title', { 
+  title: { title: 'Pattern Library - Search Filter widget' }, 
+  breadcrumbs: [ { style: 'home', title: 'Home', url: '/' }, { title: 'Pattern Library - Search Filter widget' }]
+}) %>
+
+<div class="container-fluid">
+  <div class="container-lft">
+    <div class="row">
+      <div class="col-12">
+        <%- include('../includes/searchfilter', { card: { title: 'Search for another station', 
+        texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+        link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+        datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+        modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-9">
+        <%- include('../includes/searchfilter', { card: { title: 'Search for another station', 
+          texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+          link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+          datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+          modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' } }) %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <%- include('../includes/searchfilter', { card: { title: 'Search for another station', 
+          texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+          link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+          datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+          modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' } }) %>
+      </div>
+      <div class="col-12">
+        <p class="alert alert-danger">Issue: This doesn't really work on 3 columns when small. Needs to be fixed.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/searchfilter', { card: { title: 'Search for another station', 
+          texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+          link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+          datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+          modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' } }) %>
+      </div>
+      <div class="col-12 col-sm-6">
+        <%- include('../includes/searchfilter', { card: { title: 'Search for another station', 
+          texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+          link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+          datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+          modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' } }) %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2"></div>
+      <div class="col-12 col-sm-8">
+        <%- include('../includes/searchfilter', { card: { title: 'Search for another station', 
+          texts: [ 'For live arrivals, status information, route maps and timetables' ], 
+          link: { button: 'Go', url: 'https://tfl.gov.uk/disambiguation' }, placeholder: 'Station, bus route or stop name',
+          datasets: '[[\'stoppoints\',\'/{{mode}}/stop/{{naptanId}}/{{stopName}}/\'],[\'routes\',\'/{{mode}}/route/{{lineIds}}/\']]',
+          modes: 'tube,dlr,overground,tflrail,bus,river-bus,river-tour,tram,cable-car,national-rail' } }) %>
+      </div>
+      <div class="col-sm-2"></div>
+    </div>
+
+    <div class="row">
+      <div class="col-12">
+        <p class="alert alert-danger">Issue: This widget has not been completed.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+<%- include('../includes/foot') %>

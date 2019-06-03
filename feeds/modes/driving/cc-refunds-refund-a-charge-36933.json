@@ -1,0 +1,54 @@
+{
+ "pageTitle": "Refund a Congestion Charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Refund a Congestion Charge"
+  }
+ ],
+ "title": {
+  "title": "Refund a Congestion Charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Refunds are not available for single daily Congestion Charges or for dates in the past.",
+     "We calculate refunds by taking the number of whole charging days from and including the refund date, and multiplying that by the cost for each of those days less a £10 administration charge. The cost per day will be the value of the charge purchased divided by the number of charging days purchased.",
+     "For example, If you have an annual charge purchased at £2898 divided by 252 days = £11.50 per day. If the charge has 10 unexpired days you will receive a refund of £105 (ie £11.50 x 10 = £115 less £10 administration = £105).",
+     "If you are a resident and have 30 unexpired days on a resident's discounted Congestion Charge (at £1.15 per day), you will receive a refund of £24.50 (ie 30 days @ £1.15 = £34.50, less £10 administration = £24.50 refund).",
+     "If your original payment was by credit or debit card, your refund will be credited to the original card. If payment was made in by cheque, you will be refunded by cheque.",
+     "We will respond to your request within 10 working days. If your refund request is approved, the refund will be made to the card used to make the original payment. If the payment was made by cheque you will be refunded by cheque.",
+     "Read the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging#Keeping%20personal%20information%20secure\"target=\"_blank\"\u003eLondon Road User Charging privacy notice\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

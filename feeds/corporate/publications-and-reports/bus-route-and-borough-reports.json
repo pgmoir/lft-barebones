@@ -1,0 +1,128 @@
+{
+ "pageTitle": "Bus route \u0026 borough reports",
+ "keywords": "Boroughs,Bus operators,Bus passengers,Public,B,Performance,Buses,TfL",
+ "description": "Performance tables for all London's bus routes and quality of bus service reports for each borough",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Bus route \u0026 borough reports"
+  }
+ ],
+ "title": {
+  "title": "Bus route \u0026 borough reports",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find performance tables below for all of London's bus routes, based on route number and the boroughs they operate in. Bus route information is based on up to two years data.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Put a route number in the \u003ca href=\"http://www.tfl.gov.uk/tfl/businessandpartners/buses/boroughreports/\"\u003ePerformance reports search box\u003c/a\u003e to get individual route reports. You may find it useful to read the Common questions below first.",
+     "\u003cstrong\u003e[Performance reports search box goes here.]\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quality of service indicators (QSI)\"}",
+     "Use the map or list below to download the most recent reports for London boroughs in PDF format. You will also be able to see which routes operate in that borough, and download their individual performance reports. Alternatively, you can download the QSI results.",
+     "QSI results for all bus routes",
+     "PDF 536KB",
+     "Please read the Common Questions below before \u003ca href=\"http://www.tfl.gov.uk/tfl/businessandpartners/buses/boroughreports/\"\u003edownloading the reports\u003c/a\u003e .",
+     "\u003cstrong\u003e[Database goes here.]\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quality of Service Indicators (QSIs)\"}",
+     "Bus QSIs show how reliable the bus service is and how much extra time, compared to that scheduled, passengers have to wait because of irregularity.",
+     "QSIs are a valuable source of information. They identify poorly performing routes and allow improvements to be made where they're needed.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"High and low frequency routes\"}",
+     "A high frequency route has five or more buses an hour. It's a route where passengers tend not to look at the timetable before arriving at the stop.",
+     "For this reason we are more interested in how reliable and evenly spaced the service is. Scheduled arrival times are less important. We aim to ensure buses run at evenly spaced intervals and do not 'bunch'.",
+     "A low frequency bus route generally runs four or fewer buses an hour. A passenger using this service is more likely to use a timetable. This means it's more important that services run on schedule.",
+     "A more detailed explanation of reliability statistics can be found with each of the reports.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How information is collected\"}",
+     "iBus keeps track of where London's buses are, allowing controllers to regulate services and make them more reliable. For every trip, a record is kept of the time the bus arrived at and departed from each stop. The data is transferred daily from every bus to the central iBus system.",
+     "For high and low frequency routes, QSI statistics are calculated from iBus data for a representative sample of scheduled timing points (QSI points) in both directions. Monitoring takes place all day, every day. Results show performance of routes operating between the hours of 05:00 and 23:59. Reports for services operating at night between the hours of 00:00 and 04:59 are reported separately.",
+     "The data is compared against the timetable. We can then see how long a passenger actually waits, compared to the wait if the bus service ran exactly on time.",
+     "We measure bus service reliability from a passenger point of view. This may mean - for example - that a bus running late may be treated as the next bus running early, because that is how passengers would see it.",
+     "We monitor each bus route throughout the course of its journey, not just from where it started.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Understanding the reports\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"For high frequency (non-timetabled) services, the statistics reported are:\"}",
+     "{\"template\":\"table\",\"rows\":[[\"Average scheduled waiting time (SWT)\\u003cbr /\\u003e\",\"The average time passengers would wait if the service ran exactly as scheduled.\"],[\"Average excess waiting time (EWT)\",\"This is the difference between SWT (above) and AWT (below). It shows how\\n                    long passengers wait because of irregular buses or buses not running at\\n                    all.This excess waiting time is a key indicator of good performance.It\\n                    shows how much time passengers had to wait above the time we expected\\n                    them to wait.\"],[\"Average actual wait (AWT)\",\"\\u003cbr /\\u003eThe average time that passengers actually waited.\"],[\"Average wait divided by scheduled wait (AWT:SWT ratio)\",\"This indicates how much longer, on average, passengers are waiting than\\n                    intended. For example, 1.5 would mean passengers waited 50 percent\\n                    longer than intended.\"],[\"Percentage chance of waiting less than 10 minutes, 10-20 minutes, 20-30 minutes and more than 30 minutes\",\"This gives an indication of how individual waiting times vary.\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"For low frequency (timetabled) services, the statistics reported are:\"}",
+     "{\"template\":\"table\",\"rows\":[[\"Percentage chance of a bus departing on time\",\"The chance that a bus runs 1) at the advertised time or 2) between two minutes early and up to five minutes late.\"],[\"Percentage chance of a bus not running\",\"The chance that a bus does not run at all (see note on late running).\"],[\"Percentage chance of a bus running early\",\"The chance of a bus running more than 2.5 minutes before the advertised\\n                    time. This category may sometimes include late running buses, which\\n                    passengers would see as the next bus running early.\"],[\"\\u003cbr /\\u003ePercentage chance of a bus running late\",\"The chance of a bus running between 5 and 15 minutes late. This category\\n                    may sometimes include early running buses, which passengers would see\\n                    as the preceding bus running late. Buses running more than 15 minutes\\n                    late are classed as non-arrivals.\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Night bus services\"}",
+     "Results for night bus services are shown separately. Most night bus services are monitored. All night buses serving the West End are covered. Night bus services are treated as low frequency for monitoring purposes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why buses 'bunch'\"}",
+     "'Bunching' often happens as follows:",
+     "Bus 1 is delayed by an unexpected incident. Just behind is bus 2 - which also gets delayed. Behind them, bus 3 runs without delay. After a while, buses running on time start to catch up with the delayed buses. The buses closest to the incident get delayed as they're picking up more and more passengers. This means their journey takes longer. At the same time, the buses running behind have fewer passengers to pick up. The iBus system allows service controllers to identify this happening and take action.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How the data is published\"}",
+     "Reports are published quarterly to the London boroughs, Department for Transport and London Travelwatch. The data is also published on this website.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What the route graphs show\"}",
+     "The route graphs show up to two years of data providing information on service 'reliability' and 'kilometres operated'. Kilometres operated data is based on four-week periods.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to read the graphs\"}",
+     "The data table below the graph shows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Top line - data for this year\",\"Middle line - data for last year\",\"Bottom line - a minimum standard\"]}",
+     "The date range covers a year broken into four-weekly reporting periods. Period 1 starts on 1 April and period 13 ends on 31 March.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why the graphs show different measures\"}",
+     "There are different reliability measures for high and low frequency routes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Key route performance indicators\"}",
+     "Excess Waiting Time (EWT): this is the average time passengers wait over and above what would have been expected if the service was running exactly as scheduled.",
+     "Departing On Time is the percentage of buses running between two minutes earlier and up to five minutes later than the scheduled departure.",
+     "Kilometres operated performance information is available for all routes regardless of frequency. It is the amount of kilometres run in relation to a route's schedule. For example, a route that runs 98 miles out of a scheduled 100 miles has run 98 percent of its schedule.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Information missing for some routes\"}",
+     "Information may not be available for certain routes. These include mobility buses, school and some night buses. Performance data is shown for current routes and operators only.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Minimum standard or benchmark\"}",
+     "We measure the performance of each route against minimum standards. These vary between routes in order to reflect London's different operating environments.",
+     "Factors taken into account include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The number of major centres\",\"Congested corridors\",\"Other traffic hotspots\",\"The length of the route\"]}",
+     "We also take past performance into consideration when we advertise contracts for re-tender. If the performance lines are above the minimum standard line, then the route has achieved or exceeded its set target."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

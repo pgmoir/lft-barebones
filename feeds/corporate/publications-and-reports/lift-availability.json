@@ -1,0 +1,82 @@
+{
+ "pageTitle": "Lift availability",
+ "keywords": "Passengers with accessibility needs,Public,Rail passengers,Tube passengers,Visitors,A,L,Accessible travel,Tube improvement,Assisted travel,Rail,Tube,TfL",
+ "description": "Lift availability on the Rail and Underground network in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Lift availability"
+  }
+ ],
+ "title": {
+  "title": "Lift availability",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This page includes information on lift availability on the Rail and Underground network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Lift availability is based on the total hours lifts were working as a percentage of total scheduled service hours. Unavailable time includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Planned works\",\"Time out of service due to faults\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Latest lift availability figures\"}",
+     "Lift availability information for quarter 3 2018/19 (from 16 September 2018 to 5 January 2019) can be found below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lift unavailability for quarter 3 2018/19\",\"url\":\"/cdn/static/cms/documents/quarter-3-1819-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 106KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Previous lift availability reports\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Lift unavailability for quarter 2 2018/19\",\"url\":\"/cdn/static/cms/documents/quarter-2-1819-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 94KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 1 2018/19\",\"url\":\"/cdn/static/cms/documents/quarter-1-1819-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 114KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 4 2017/18\",\"url\":\"/cdn/static/cms/documents/quarter-4-1718-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 254KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 3 2017/18\",\"url\":\"/cdn/static/cms/documents/quarter-3-1718-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 164KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 2 2017/18\",\"url\":\"/cdn/static/cms/documents/quarter-2-1718-lift-unavailabilty.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 92KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 1 2017/18\",\"url\":\"/cdn/static/cms/documents/quarter-1-1718-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 118KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 4 2016/17\",\"url\":\"/cdn/static/cms/documents/quarter-4-1617-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 99KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 3 2016/17\",\"url\":\"/cdn/static/cms/documents/quarter-3-1617-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 176KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 2 2016/17\",\"url\":\"/cdn/static/cms/documents/quarter-2-1617-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 122KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 1 2016/17\",\"url\":\"/cdn/static/cms/documents/quarter-1-1617-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 99KB\",\"image\":{}},{\"title\":\"Lift unavailability for quarter 4 2015/16\",\"url\":\"/cdn/static/cms/documents/quarter-4-1516-lift-unavailability.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 127KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "pageTitle": "Taxi fare increases for 2007 announced by Transport for London",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Taxi fare increases for 2007 announced by Transport for London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "This year's annual taxi fare revision will be held down below the rate of inflation. The increase of just 3.1 per cent* will help drivers cover increased costs and maintain their earnings, Transport for London (TfL) announced today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Taxi drivers are self employed, meaning they earn less if operating costs increase",
+     "The new fares will come into effect on Saturday, 14 April 2007",
+     "The TfL Board approved the new taxi fares on 7 February, following consultation by the Public Carriage Office (PCO) with the taxi trade and others including London Travelwatch.",
+     "The rise, which is based on a cost index agreed with the taxi trade, takes into account increases in taxi operating costs and increases in national average earnings.",
+     "The Board also approved regulations that make it compulsory for a taxi driver to issue a receipt if the passenger requests one.",
+     "Ed Thompson, Director of Taxi and Private Hire at the PCO, said: \"These new taxi fare levels take into account the growing costs of running a black cab.",
+     "\"Taxi drivers are self employed, meaning they earn less if operating costs increase.",
+     "\"The fare increase will protect drivers' earnings while ensuring that London taxis continue to offer good value for money.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"*The Retail Price Inflation level is 4.2 per cent\",\"The 3.1 per cent increase is in line with the increase in the cost index in use since 1981. The index, agreed with the taxi trade, combines changes in operating costs with national earnings to produce a change in average fares\",\"There is an environmental charge of 20p per journey introduced by the Mayor in December 2004. This charge, over and above the usual cost of living rise, was introduced to meet the cost of converting taxis to reach new environmental standards as part of the Mayor's commitment to make London a Low Emission Zone. The environmental charge will be reviewed during 2007. The 3.1 per cent increase excludes the 20p environmental supplement\",\"The PCO, as part of TfL, is responsible for licensing and regulating London's taxi and private hire services\"]}",
+     "{\"template\":\"table\",\"rows\":[[\"Average fares (exc. 20p environmental charge)\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"Current average (£)\",\"New average (£)\",\"Increase (£)\",\"Increase (%)\"],[\"Tariff 1\",\"9.09\",\"9.39\",\"0.29\",\"3.2\"],[\"Tariff 2\",\"10.55\",\"10.88\",\"0.33\",\"3.2\"],[\"Tariff 3\",\"12.37\",\"12.77\",\"0.40\",\"3.2\"],[\"All week\",\"10.05\",\"10.37\",\"0.32\",\"3.2\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"Average fares (inc. 20p environmental charge)\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"\",\"Current average (£)\",\"New average (£)\",\"Increase (£)\",\"Increase (%)\"],[\"Tarrif 1\",\"9.29\",\"9.59\",\"0.29\",\"3.1\"],[\"Tarrif 2\",\"10.75\",\"11.08\",\"0.33\",\"3.1\"],[\"Tariff 3\",\"12.57\",\"12.97\",\"0.40\",\"3.2\"],[\"All week\",\"10.25\",\"10.57\",\"0.32\",\"3.1\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

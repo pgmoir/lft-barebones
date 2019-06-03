@@ -1,0 +1,169 @@
+{
+ "pageTitle": "Suburban Driver Forums",
+ "keywords": "TfL",
+ "description": "Suburban Driver Forums",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "News and updates",
+   "url": "/info-for/taxis-and-private-hire/driver-news-and-updates"
+  },
+  {
+   "title": "Meetings",
+   "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement-meetings"
+  },
+  {
+   "title": "Suburban Driver Forums"
+  }
+ ],
+ "title": {
+  "title": "Suburban Driver Forums",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"These meetings form part of our regular engagement with the taxi trade, and give drivers the chance to share their views and discuss topics such as compliance and taxi policies.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "At these meetings our policy, compliance and ranks teams provide an update on our work, and are available to answer your questions.",
+     "\u003cstrong\u003eNorth east sectors suburban forum\u003c/strong\u003e July 2018",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sector one (Enfield, Haringey and Waltham Forest); sector two (Barking and Dagenham, Havering, Newham and Redbridge)\"]}",
+     "\u003cstrong\u003eSouth east sectors suburban forum\u003c/strong\u003e August 2018",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sector three (Bexley, Greenwich and Lewisham); sector four (Bromley); sector five (Croydon)\"]}",
+     "\u003cstrong\u003eSouth west sectors suburban forum\u003c/strong\u003e September 2018",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sector six (Merton and Sutton); sector seven (Hounslow, Kingston and Richmond)\"]}",
+     "\u003cstrong\u003eNorth west sectors suburban forum\u003c/strong\u003e November 2018",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sector eight (Ealing and Hillingdon); sector nine (Brent, Barnet and Harrow)\"]}",
+     "All drivers licensed in the areas above are contacted by email inviting them to attend their respective event.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2018 suburban forums\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Suburban drivers' forum sectors one and two\",\"url\":\"/cdn/static/cms/documents/suburban-taxi-drivers-forum-sectors-1-and-2-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.93MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2017 suburban forums\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Suburban drivers' forum sectors eight and nine\",\"url\":\"/cdn/static/cms/documents/suburban-taxi-drivers-forum-sectors-eight-and-nine.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.56MB\",\"image\":{}},{\"title\":\"Suburban drivers' forum sectors six and seven\",\"url\":\"/cdn/static/cms/documents/suburban-taxi-drivers-forum-sectors-six-and-seven.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.43MB\",\"image\":{}},{\"title\":\"Suburban drivers' forum sectors three, four and five\",\"url\":\"/cdn/static/cms/documents/suburban-taxi-drivers-forum-sectors-three-four-and-five.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.03MB\",\"image\":{}},{\"title\":\"Suburban drivers' forum sectors one and two\",\"url\":\"/cdn/static/cms/documents/suburban-taxi-drivers-forum-sectors-one-and-two.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.57MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2016 suburban forums\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Suburban drivers combined presentation: July 2016 - February 2017\",\"url\":\"/cdn/static/cms/documents/suburb-drivers-combined-presentation-may-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.15MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Taxi \u0026 private hire news",
+      "url": "/info-for/taxis-and-private-hire/press-releases-and-news",
+      "image": {}
+     },
+     {
+      "title": "Meetings",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement-meetings",
+      "image": {}
+     },
+     {
+      "title": "Suburban Driver Forums",
+      "url": "/info-for/taxis-and-private-hire/suburban-driver-forums",
+      "image": {}
+     },
+     {
+      "title": "Taxi meetings",
+      "url": "/info-for/taxis-and-private-hire/taxi-meetings",
+      "image": {}
+     },
+     {
+      "title": "Private hire meetings",
+      "url": "/info-for/taxis-and-private-hire/private-hire-meetings",
+      "image": {}
+     },
+     {
+      "title": "Notices \u0026 consultations",
+      "url": "/info-for/taxis-and-private-hire/notices-and-consultations",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "pageTitle": "Witness statements",
+ "keywords": "TfL",
+ "description": "How to make a witness statement to request that the TEC revoke registration of a penalty charge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Penalty Charge Notices",
+   "url": "/modes/driving/red-routes/penalty-charge-notices"
+  },
+  {
+   "title": "Challenge a Penalty Charge Notice",
+   "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation"
+  },
+  {
+   "title": "Witness statements"
+  }
+ ],
+ "title": {
+  "title": "Witness statements",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A witness statement is not a representation or complaint. It is an application to the Traffic Enforcement Centre (TEC) to ask them to revoke the registration of the penalty charge (the Order for Recovery) on one of the grounds listed below.  It does not cancel the penalty charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "A witness statement can be made after we have issued you with an Order for Recovery.",
+     "You may only make a witness statement if one of the\nfollowing grounds applies to you:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eYou paid the penalty charge in full within 28 days\\u003c/strong\\u003e You must provide details of the date payment was made, the method of payment i.e. cash, cheque etc and who the payment was made to. Please note you may be asked to provide proof of payment upon receipt.\\u003cstrong\\u003e \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eYou did not receive the Notice to Owner or Penalty Charge Notice (PCN)\\u003c/strong\\u003e \\u003cbr /\\u003eThis does not apply if you just forgot to pay the penalty charge,\\n    mislaid it or forgot to make a representation. If you did not receive the\\n    original Notice to Owner or PCN because you moved address,\\n    ensure your witness statement includes details of your new address.\",\"\\u003cstrong\\u003eYou made a representation to us but did not receive a reply within 28\\n    days (rejection notice)\\u003c/strong\\u003e \\u003cbr /\\u003eThis only applies if you made a representation within the time limit to\\n    the correct address as provided on the PCN and did not receive a response from\\n    us. It does not apply if you received a reply you disagreed with or if we\\n    refused to consider your representation because it was late.\",\"\\u003cstrong\\u003eYou appealed to London Tribunals within 28\\n    days of our decision to reject your representation, but you had no response\\n    to your appeal\\n    \\u003c/strong\\u003e \\u003cbr /\\u003eAs above, this does not apply if you received a response but disagreed\\n    with it.\"]}",
+     "You must file the witness statement by the date\nshown on the Order for Recovery.",
+     "Remember the TEC may refuse your witness statement, if:",
+     "{\"template\":\"bulletlist\",\"items\":[\"It is not signed, or\",\"It is submitted outside the required timeframe, or\",\"It is not made on only one of the four grounds detailed above\"]}",
+     "Do not send your witness statement to us but\nto the TEC (they will only deal with witness statements and cannot advise you\non any other matters or take payment).",
+     "Remember, the witness statement is not a chance to\ncomplain or challenge the reason why the PCN was issued.",
+     "Proceedings for contempt of court may be brought\nagainst you if you make or cause to be made a false statement, verified by a\nstatement of truth, without an honest belief in its truth."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Pay a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "How to appeal",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/how-to-appeal",
+      "image": {}
+     },
+     {
+      "title": "Grounds for making a representation",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/grounds-for-making-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Statutory Declarations",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/statutory-declarations",
+      "image": {}
+     },
+     {
+      "title": "Witness statements",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/witness-statement",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agent \u0026 bailiffs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-agent-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Local Authority PCNs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Traffic Enforcement Centre",
+      "url": "https://courttribunalfinder.service.gov.uk/courts/traffic-enforcement-centre-tec",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

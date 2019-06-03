@@ -1,0 +1,71 @@
+{
+ "pageTitle": "London Underground advises customers to avoid changing at Bank",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "London Underground advises customers to avoid changing at Bank",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Due to ongoing escalator work at Bank Underground station, part of Transport for London's (TfL) investment programme, London Underground (LU) is advising customers to avoid changing at the station where possible."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We're asking customers where at all possible to avoid changing at Bank/Monument",
+     "Peter Tollington, Central line General Manager, said: \"There are a total of 15 escalators at Bank/Monument stations most of which are coming to the end of their working life.",
+     "\"Works are currently taking place to maintain and eventually replace them.",
+     "\"However this means that passenger journeys can take longer when changing trains at Bank/Monument due to congestion at the station, on some occasions the station has to be shut to prevent overcrowding.",
+     "\"We're asking customers where at all possible to avoid changing at Bank/Monument station and seek alternative interchange routes to avoid these delays.\"",
+     "Customers are advised to use the following alternative routes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Customers who travel to Bank to catch the Docklands Light Railway (DLR), please change at Tower Hill (for Tower Gateway DLR), Stratford, Canary Wharf, Canning Town or Bow Road (for Bow Church DLR)\",\"Customers who usually travel from Liverpool Street to Bank to change for the Northern line, please take the Circle, Hammersmith \\u0026 City or Metropolitan lines to Moorgate and change there instead\",\"Customers who travel from the southern end of the Northern line and change at Bank for the Central line, please take a Charing Cross branch train and change at Tottenham Court Road instead\"]}",
+     "Passengers may find it quicker to exit the Underground at nearby stations such as Cannon Street, Mansion House, St Paul's or London Bridge and continue your journey to the Bank/Monument area on foot.",
+     "These stations are only a short distance away and walking maps are available\u003cbr /\u003e\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Travel Advice for Wednesday 21 November: NUS march",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) is advising road users travelling in London on Wednesday 21 November to avoid areas likely to be affected by a march organised by the National Union of Students (NUS)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Several thousand people are expected to attend the march, which starts at Temple at 11:00, and the rally, which will be held in Kennington Park from 14:00.",
+     "There will be a series of road closures due to the event, with Bridge Street closed to traffic from 09:00 and Upper Thames Street, Victoria Embankment, Westminster Bridge, Westminster Bridge Road, Kennington Road and some surrounding roads will be closed to traffic from 11:00.",
+     "Traffic in the area around the march will be extremely congested and drivers should avoid the area. Buses in the area will be on diversion or running short or their usual destinations, and customers should plan their journeys and avoid the area if possible. Some Tube stations near the route - including Temple, Embankment and Kennington are also expected to be busy.",
+     "Bridges over the Thames, other than Westminster Bridge, will remain open throughout the event and the Congestion Charge remains in operation.  Roads will reopen as soon as it is safe to do so once the march has passed, and the rally is expected to conclude by early evening.",
+     "For up to the minute information on the traffic impact road users can visit the TfL website or follow @tfltrafficnews. For the latest on bus diversions road users can follow @tflbusalerts."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Upload proof",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Upload proof"
+  }
+ ],
+ "title": {
+  "title": "Upload proof",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "We need to see evidence about the vehicle and its emissions standard to process your application.",
+     "Upload an image of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"V5C (logbook) or foreign equivalent\"]}",
+     "The document must show that the vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Meets the Euro 5 emissions standards\",\"Emits less than or equal to 75g/km of CO2\"]}",
+     "OR",
+     "{\"template\":\"bulletlist\",\"items\":[\"Is registered as fuel type 'electric'\"]}",
+     "You can upload a maximum of 19 documents for this application."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

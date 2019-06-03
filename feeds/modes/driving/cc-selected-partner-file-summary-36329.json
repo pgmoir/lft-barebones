@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Selected partner discount",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Selected partner discount"
+  }
+ ],
+ "title": {
+  "title": "Selected partner discount",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"File summary\"}",
+     "ZEROVEHICLEWARNNIGTEXT",
+     "If the new total number of vehicles is not what you were expecting, go back, check your file and re-upload. You must include existing vehicles on your upload file to keep them on your discount.",
+     "Click 'Confirm' to upload this file and replace your current selected partner vehicle list."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

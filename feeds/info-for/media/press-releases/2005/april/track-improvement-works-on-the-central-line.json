@@ -1,0 +1,68 @@
+{
+ "pageTitle": "Track improvement works on the Central line",
+ "description": "A rail replacement bus service will operate between Woodford and Newbury Park calling at all intermediate stations. Customers travelling from Roding Valley, Chigwell or Grange Hill to Woodford or to central London are advised to travel via Woodford.",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Track improvement works on the Central line",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Due to track replacement works, being carried out by Metronet BCV, London Underground Central line services will be suspended between Newbury Park and Woodford from Saturday 30 April through to Bank holiday Monday, 2 May."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A rail replacement bus service will operate between Woodford and Newbury Park calling at all intermediate stations.",
+     "Customers travelling from Roding Valley, Chigwell or Grange Hill to Woodford or to central London are advised to travel via Woodford.",
+     "Customers travelling from Hainault, Fairlop or Barkingside to Newbury Park or to central London are advised to travel via Newbury Park.",
+     "Customers are advised to allow at least an extra 20 minutes to complete their journeys, especially those wishing to make last train connections.\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Metronet Rail BCV is responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines.\",\"TfL is investing £10 billion over the next 5 years to improve and expand London's transport network, over half of that in the Tube.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

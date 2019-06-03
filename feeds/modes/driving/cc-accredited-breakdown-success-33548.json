@@ -1,0 +1,55 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "We will send you a confirmation if your discount has been approved. Until then, you must pay the charge for journeys within the zone.",
+     "We aim to respond to you within the next 10 working days.",
+     "You need to pay the Congestion Charge until your discount has been approved. Find out if you also need to pay the ULEZ charge by selecting 'Pay to drive in London'.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Next steps\"}",
+     "We'll let you know if your application has been successful by your preferred communication channel.",
+     "Once your application has been approved you will be able to sign in to your account online and add vehicles to the discount.",
+     "You need to pay £10 to add each vehicle to the discount.",
+     "The discount needs to be renewed every year. You need to pay £10 for every vehicle active on the discount at the time you renew it."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "pageTitle": "Buses just the ticket for shopping",
+ "description": "The report by research agency Accent Marketing and Research, sought to find out how much and how bus passengers contribute to the economic health of town centres. Over 3000 town centre users were interviewed in 11 locations across the capital.The results",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Buses just the ticket for shopping",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Bus passengers are spending as much money in London's town centres as car drivers, an independent report commissioned by Transport for London reveals today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The report by research agency Accent Marketing and Research, sought to find out how much and how bus passengers contribute to the economic health of town centres. Over 3000 town centre users were interviewed in 11 locations across the capital.",
+     "The results of the report showed:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buses are the most popular form of transport into town centres- just over a third of visitors arrive by bus despite the fact half had access to a car;\",\"bus passengers spend matches the amount spent by car users;\",\"quality of townscape is as important as the diversity of retail outlets in attracting shoppers;\",\"people use buses because of the cost, the ease and convenience and the lack of alternatives;\",\"and visitors to town centres supported bus priority measures; four in five supported stricter enforcement of illegal parking in bus lanes.\"]}",
+     "Transport for London, Managing Director of Surface Transport, Peter Hendy said:",
+     "\"These are fantastic results, the research dispels the myth that bus passengers have lower incomes and are less able to contribute to towns' economic growth. This together with the fact that many new passengers to buses are from social demographic AB means the rejuvenation of the bus network is a success and town centres all over the capital are benefiting from this investment.\"",
+     "1. The Town Centre Study was conducted by Accent Marketing and Research Agency.",
+     "2. London Buses manages bus services in London for the Mayor's Transport\u003cbr /\u003efor London. It plans routes, specifies service levels and monitors service quality. It is also responsible for bus stations, bus stops, security initiatives and passenger information. The bus services are operated by private operators, which work under contract to London Buses.",
+     "3. The London bus network is one of the largest and most comprehensive urban systems in the world. Each weekday 7,000 London buses carry 6 million passengers on more than 700 different routes.",
+     "4. Key points about expanding the London bus network:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus use is up by 11 per cent over the past year (03/04) - an extra 168 million passenger trips;\",\"The number of passengers using buses is at its highest level since 1968;\",\"Patronage is rising at its fastest rate since the Second World War;\",\"Night bus use is up by 29 per cent over the past year; and\",\"London Buses is running the highest volume of service on London's roads than at any time since 1957.\"]}",
+     "5. For more information about London Bus Services check out \u003ca href=\"https://tfl.gov.uk/modes/buses/\"lid=\"https://tfl.gov.uk/modes/buses/\"el=\"https://tfl.gov.uk/modes/buses/\"\u003etfl.gov.uk/modes/buses/\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Congestion Charge reminder launched",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Congestion Charge reminder launched",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "An automatic Congestion Charge reminder which drivers can download to their computers is being launched today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "It puts the driver in control by giving a reminder at a time they choose",
+     "It is Transport for London's (TfL) latest move to help drivers avoid running up penalty charges by simply forgetting to pay.",
+     "Drivers can customise the message to pop up on computer screens at a specific time on the weekdays when they want it.",
+     "It says \"Remember to pay the Congestion Charge today\" and offers a direct link to the \u003ca href=\"http://www.cclondon.com\"target=\"_blank\"\u003ewww.cclondon.com\u003c/a\u003e website where the charge can be paid immediately.",
+     "Malcolm Murray-Clark, TfL Congestion Charging Director, said: \"We've progressively introduced changes to make the charge easier to pay, improve awareness of how the scheme operates and help drivers avoid running-up penalty charges by simply forgetting to pay.",
+     "\"This computer pop-up has been purpose built. It puts the driver in control by giving a reminder at a time they choose and offers a quick route to the website where they can pay.\"",
+     "TfL is also offering a free car tax disc holder to give drivers an in-car reminder. \u003ca href=\"https://ccreminder.tfl.gov.uk/templates/tfl/examples/default.aspx?src=2\"target=\"_blank\"\u003eDownload\u003c/a\u003e the desktop reminder or order a car tax-disk holder.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The pop-up reminder can be \\u003ca href=\\\"https://ccreminder.tfl.gov.uk/templates/tfl/examples/default.aspx?src=3\\\"target=\\\"_blank\\\"\\u003edownloaded directly\\u003c/a\\u003e from the Congestion Charge website \\u003ca href=\\\"http://www.cclondon.com\\\"\\u003ewww.cclondon.com\\u003c/a\\u003e or by visiting \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003ewww.tfl.gov.uk\\u003c/a\\u003e and clicking on Congestion \\nCharge.\",\"The Congestion Charge reminder car tax disc holder must be requested online.\",\"The Mayor recently approved 'pay next day' to help people who forget to pay \\non the day. This will begin in September 2006.\"]}",
+     "Changes already introduced to simplify the operation of the scheme and \nimprove understanding of how it works include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"an enhanced website\",\"frequently asked questions leaflet included with all penalty charge notices \\nto make understanding the process easier\",\"an information leaflet is being sent to 36 million households across the UK \\nwith DVLA road tax reminders.\",\"15 per cent discount for monthly and annual payments\",\"lowering the threshold of the congestion charging fleet scheme from 25 \\nvehicles to 10\",\"making the three charging days that fall between Christmas Day and New \\nYear's Day 'non-charging' days\",\"extending the SMS text messaging facility\",\"allowing payment by additional credit and debit card types\",\"removing the financial criteria for the National Health Service patients'\",\"making the 100 per cent discount scheme for registered holders of Blue \\nBadges and 90 per cent residents' discount scheme easier to use\",\"more petrol stations accepting payment\\u003cbr /\\u003ephotographs of vehicles included \\non penalty charge notices to make identification easier\",\"working with DVLA to identify and remove untaxed vehicles from London's \\nstreets\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

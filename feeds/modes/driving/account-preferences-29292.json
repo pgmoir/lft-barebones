@@ -1,0 +1,56 @@
+{
+ "keywords": "TfL",
+ "description": "We want to keep you updated on transport-related products and services,  including payments to drive in London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Get updates on products/services"
+  }
+ ],
+ "title": {
+  "title": "Get updates on products/services",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We want to keep you updated on transport-related products and services,  including payments to drive in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Updates may reflect TfL products and services you have used before, and may be sent by post, email, telephone or text message.",
+     "We will not disclose your details to third parties for marketing purposes.",
+     "If you sign up for mobile phone text alerts, we can send you important information about your account or service.",
+     "For example, if you have Auto Pay we will tell you if there is a problem taking your monthly payment. If you have an active discount we will remind you when it needs to be renewed.",
+     "If you opt in for mobile phone text receipts, we will send your receipt numbers by text message.",
+     "You can choose to receive a receipt by email for Congestion Charge, ULEZ charge and LEZ charge payments (not Auto Pay) every time you pay (\u003cstrong\u003e'Immediate'\u003c/strong\u003e ), or as a single consolidated receipt sent once a month (\u003cstrong\u003e'Monthly consolidated'\u003c/strong\u003e ).",
+     "I confirm that I have read, understood and accept the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"target=\"_blank\"\u003eLondon Road User Charging terms and conditions\u003c/a\u003e ",
+     "Read the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging\"target=\"_blank\"\u003eLondon Road User Charging privacy notice\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

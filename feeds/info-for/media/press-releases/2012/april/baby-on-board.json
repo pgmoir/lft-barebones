@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Baby on board",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Baby on board",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "MUMS-to-be travelling by Tube can get a baby on board badge so passengers know they may need to sit down."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "MUMS-to-be travelling by Tube can get a baby on board badge so passengers know they may need to sit down.",
+     "The badges, available from Transport for London (TfL), overcome the awkwardness often felt by pregnant women of having to ask someone to give up their seat.",
+     "It also means passengers in priority seats can see when they should give up their place.",
+     "Research undertaken before the scheme was launched showed that pregnant women often felt awkward or uncomfortable having to ask if they could sit\u003cbr /\u003edown.",
+     "And while some people said they were happy to offer their seats to expectant mums, they felt embarrassed if their offer was rejected."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

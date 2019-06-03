@@ -1,0 +1,121 @@
+{
+ "pageTitle": "Liveable Neighbourhoods",
+ "keywords": "TfL",
+ "description": "Find out about how to bid for funding for projects that encourage walking, cycling and the use of public transport",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Borough funding",
+   "url": "/info-for/boroughs/borough-funding"
+  },
+  {
+   "title": "Liveable Neighbourhoods"
+  }
+ ],
+ "title": {
+  "title": "Liveable Neighbourhoods ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our Liveable Neighbourhoods programme gives boroughs the opportunity to bid for funding for long-term schemes that encourage walking, cycling and the use of public transport.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The programme supports the aims of the Mayor's Transport Strategy by funding local schemes to reduce car trips and improve neighbourhoods for walking, cycling and public transport.",
+     "Grants of between £1m and £10m will be provided for a wide range of community-supported projects. These could include creating green spaces and cycling infrastructure and redesigning junctions. The programme can also fund the widening of walking routes to improve access to local shops, businesses and public transport.",
+     "The Liveable Neighbourhoods programme will continue until 2021/22 and boroughs can submit bids at any time. The winning bids for 2018/19 were announced in February 2019. The closing date for bids in the 2019/20 funding round will be announced later in 2019.",
+     "The \u003ca href=\"https://www.london.gov.uk/what-we-do/transport/our-vision-transport/mayors-transport-strategy-2018\"\u003eMayor's Transport Strategy\u003c/a\u003e sets out a long-term ambition to transform the Capital's transport network and provide a fairer, greener, healthier and more prosperous city for all Londoners.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Privacy notice\"}",
+     "Transport for London (TfL), its subsidiaries and service providers, will use your personal information for the purpose of administering your Liveable Neighbourhoods bid.  Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation.  To find out more about how TfL handles personal data, see our \u003ca href=\"/corporate/privacy-and-cookies/index\"\u003eprivacy and cookies pages\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Liveable Neighbourhoods guidance\",\"url\":\"/cdn/static/cms/documents/tfl-liveable-neighbourhood-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.96MB\",\"image\":{}},{\"title\":\"Liveable Neighbourhoods expression of interest\",\"url\":\"/cdn/static/cms/documents/liveable-neighbourhoods-expression-of-interest.pdf\",\"icon\":\"download\",\"size\":\"PDF 42KB\",\"image\":{}},{\"title\":\"Liveable Neighbourhoods pro forma\",\"url\":\"/cdn/static/cms/documents/liveable-neighbourhoods-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 87KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Local Implementation Plans",
+      "url": "/info-for/boroughs/local-implementation-plans",
+      "image": {}
+     },
+     {
+      "title": "Crossrail complementary measures",
+      "url": "/info-for/boroughs/crossrail-complementary-measures",
+      "image": {}
+     },
+     {
+      "title": "Liveable Neighbourhoods",
+      "url": "/info-for/boroughs/liveable-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

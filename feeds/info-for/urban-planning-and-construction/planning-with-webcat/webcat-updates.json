@@ -1,0 +1,175 @@
+{
+ "pageTitle": "WebCAT updates",
+ "keywords": "TfL",
+ "description": "Keep checking here for news about how we're updating WebCAT.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Urban planning and construction",
+   "url": "/info-for/urban-planning-and-construction/index"
+  },
+  {
+   "title": "Our role in planning",
+   "url": "/info-for/urban-planning-and-construction/our-role-in-planning"
+  },
+  {
+   "title": "Planning with WebCAT",
+   "url": "/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat"
+  },
+  {
+   "title": "WebCAT updates"
+  }
+ ],
+ "title": {
+  "title": "WebCAT updates",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Keep checking here for news about how we're updating WebCAT.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Latest additions to WebCAT\"}",
+     "New functionality includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Catchment bar charts - showing how many people/jobs/town centres/schools are within the time bands displayed on the map for the selected location\",\"Comparison travel time plots - users can compare one travel time variable against another for the chosen location and display the differences on the map\",\"Comparison travel time bar charts - showing how many people/jobs/town centres/schools are within the difference time bands displayed on the map\",\"User defined travel time bands - the default setting is 15 minutes but users can now change this to 5, 10, 15, 20, 30, or 45 minute intervals\"]}",
+     "New datasets include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycling travel times - included as an additional transport mode in addition to: All public transport, Bus only and Step-free\"]}",
+     "We will be updating our datasets as well in the near future with updated forecast data up to 2041.",
+     "More information about these tools is in our \u003ca href=\"/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat\"\u003eguide to connectivity assessment\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Planning with WebCAT",
+    "links": [
+     {
+      "title": "Our role in planning",
+      "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
+      "image": {}
+     },
+     {
+      "title": "Mayoral Community Infrastructure Levy",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy",
+      "image": {}
+     },
+     {
+      "title": "Policy influencing",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/policy-influencing",
+      "image": {}
+     },
+     {
+      "title": "Design and heritage",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
+      "image": {}
+     },
+     {
+      "title": "Growth areas",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/growth-areas",
+      "image": {}
+     },
+     {
+      "title": "WebCAT",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/webcat",
+      "image": {}
+     },
+     {
+      "title": "Glossary",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/glossary",
+      "image": {}
+     },
+     {
+      "title": "WebCAT updates",
+      "url": "/info-for/urban-planning-and-construction/planning-with-webcat/webcat-updates",
+      "image": {}
+     },
+     {
+      "title": "Pre-application services",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/pre-application-services",
+      "image": {}
+     },
+     {
+      "title": "Modelling",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/modelling",
+      "image": {}
+     },
+     {
+      "title": "Interchange",
+      "url": "/info-for/urban-planning-and-construction/planning-applications/interchange",
+      "image": {}
+     },
+     {
+      "title": "Guidance for planning applicants",
+      "url": "/info-for/urban-planning-and-construction/guidance-for-applicants",
+      "image": {}
+     },
+     {
+      "title": "Our land and infrastructure",
+      "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction contacts",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts",
+      "image": {}
+     },
+     {
+      "title": "Planning and construction resources",
+      "url": "/info-for/urban-planning-and-construction/urban-planning-and-construction-resources",
+      "image": {}
+     },
+     {
+      "title": "One Road Network",
+      "url": "/info-for/urban-planning-and-construction/one-road-network",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Planning with WebCAT",
+     "url": "/info-for/urban-planning-and-construction/one-road-network",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

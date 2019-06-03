@@ -1,0 +1,121 @@
+{
+ "pageTitle": "Sustainability",
+ "keywords": "TfL",
+ "description": "Sustainability is a top priority of our operations and procurement. This page looks at the ways we are trying to promote it",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Environment",
+   "url": "/corporate/about-tfl/environment"
+  },
+  {
+   "title": "Sustainability"
+  }
+ ],
+ "title": {
+  "title": "Sustainability",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Sustainability is central to the way we work. This means maximising the environmental, social and economic benefits of our operations and minimising the negative impacts.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e sets out six goals to deliver sustainable transport benefits. These are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Support economic development and population growth\",\"Enhance the quality of life for all Londoners\",\"Improve the safety and security of all Londoners\",\"Improve transport opportunities for all Londoners\",\"Reduce transport's contribution to climate change and improve its resilience\",\"Support delivery of the 2012 Olympic and Paralympic Games and its legacy\"]}",
+     "We are a founding contributor to the International Association of Public Transport's \u003ca href=\"http://www.uitp.org/\"\u003eCharter on Sustainable Development\u003c/a\u003e which means we are committed to incorporating sustainable development as an organisation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Developing responsible procurement\"}",
+     "Our responsible procurement policy promotes fair employment practices. We aim to purchase low-carbon, resource-efficient goods and services that are responsibly sourced.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improving transport accessibility\"}",
+     "We are working with local communities to make public transport, walking and cycling more accessible. These initiatives include our school travel plans scheme and the \u003ca href=\"/modes/dlr/dlr-ambassadors\"\u003eDocklands Light Railway (DLR) ambassadors programme\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Addressing climate change\"}",
+     "We are introducing a number of measures to help the Mayor achieve his target to reduce carbon dioxide emissions by 60% in 2025 (from 1990 levels).",
+     " \u003ca href=\"/corporate/about-tfl/improving-air-quality\"\u003eRead more about these climate change measures\u003c/a\u003e .",
+     "We are also working to ensure our services and buildings are adapted to the changing climate.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Promoting sustainable freight\"}",
+     "We are helping road freight operators to adopt safer, more efficient and more environmentally friendly practices through the Fleet Operator Recognition Scheme. This offers operators benefits to help them improve their performance.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL resilience to extreme weather and climate change - May 2015\",\"url\":\"/cdn/static/cms/documents/tfl-adaptation-report-may-2015.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.22MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Building a sustainable network\"}",
+     "We make sure new stations and refurbishments address sustainability, such as those undergoing Tube improvement, London Overground, DLR and Crossrail.",
+     "This includes planning for skills and regeneration, reusing and recycling construction waste, providing step-free access for disabled passengers and secure cycle storage."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Environment",
+    "links": [
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/cycling-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Our trackside neighbours",
+      "url": "/corporate/about-tfl/our-trackside-neighbours",
+      "image": {}
+     },
+     {
+      "title": "Sustainability",
+      "url": "/corporate/about-tfl/sustainability",
+      "image": {}
+     },
+     {
+      "title": "Natural environment",
+      "url": "/corporate/about-tfl/natural-environment",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Environment",
+     "url": "/corporate/about-tfl/natural-environment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

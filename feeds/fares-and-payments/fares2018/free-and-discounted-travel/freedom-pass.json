@@ -1,0 +1,180 @@
+{
+ "pageTitle": "Freedom Pass",
+ "keywords": "TfL,Freedom Pass, Older Persons Freedom Pass, Disabled Persons Freedom Pass",
+ "description": "If you live in London and meet the age criteria, or have an eligible disability, you may be able to get a Freedom Pass to travel for free on our transport in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares-and-payments/fares2018/index"
+  },
+  {
+   "title": "Free and discounted travel",
+   "url": "/fares-and-payments/fares2018/free-and-discounted-travel"
+  },
+  {
+   "title": "Freedom Pass"
+  }
+ ],
+ "title": {
+  "title": "Freedom Pass",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Travel for free or get discounts on our transport and most National Rail services with a Freedom Pass.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/freedom-pass-2021.jpg\",\"alt\":\"Freedom Pass image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
+     "You can travel for free or get discounts on a range of transport services across London.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Buses, trams and trains\"}",
+     "Travel free any time on bus, tram, Tube, DLR, London Overground and TfL Rail.",
+     "Travel free after 9:30 weekdays, and any time on weekends and public holidays on most National Rail Services in London.",
+     "See where you can travel on the \u003ca href=\"https://www.londoncouncils.gov.uk/services/freedom-pass/using-pass/freedom-pass-travel-map\"\u003eFreedom Pass map\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"River services\"}",
+     "Get a discount on your fare for some \u003ca href=\"/modes/river/index\"\u003eriver services\u003c/a\u003e by showing your Freedom Pass when you buy your ticket.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Emirates Air Line\"}",
+     "Get a discount on your fare for the \u003ca href=\"/modes/emirates-air-line/index\"\u003eEmirates Air Line\u003c/a\u003e by showing your Freedom Pass when you buy your ticket.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Can I get it?\"}",
+     "You can get an Older Person's Freedom Pass if you meet the age requirement and live in a London borough. \u003ca href=\"https://www.londoncouncils.gov.uk/services/freedom-pass/older-persons-freedom-pass/eligibility\"\u003eCheck if you're eligible for an Older Person's Freedom Pass\u003c/a\u003e .",
+     "You can get a Disabled Person's Freedom Pass, if you have an eligible disability and live in London. \u003ca href=\"https://www.londoncouncils.gov.uk/services/freedom-pass/disabled-persons-freedom-pass/eligibility\"\u003eCheck if you're eligible for a Disabled Person's Freedom Pass\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to apply\"}",
+     "Apply to London Councils for your Freedom Pass:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.londoncouncils.gov.uk/services/freedom-pass/older-persons-freedom-pass/apply\\\"\\u003eApply for an Older Person's Freedom Pass\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.londoncouncils.gov.uk/services/freedom-pass/disabled-persons-freedom-pass/apply\\\"\\u003eApply for a Disabled Person's Freedom Pass\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to use\"}",
+     "Make sure you \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\"\u003etouch in\u003c/a\u003e at the start of your journey and \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\"\u003etouch out\u003c/a\u003e at the end on yellow card readers. You only need to touch in on buses and trams.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using your Freedom Pass outside London\"}",
+     "The rose symbol on your Freedom Pass means you can travel free on local buses all over England.",
+     "Use your Freedom Pass between 9:30 and 23:00 on weekdays and anytime on weekends and public holidays.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using bus passes if you don't live in London\"}",
+     "If you've got an English National Concessionary Scheme bus pass, issued by an English council outside of London, you can travel on our buses. Just show your pass to the driver.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.londoncouncils.gov.uk/services/freedom-pass/lost-stolen-or-damaged-pass\\\"\\u003eChange of details, lost, stolen or damaged pass\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Free and discounted travel",
+    "links": [
+     {
+      "title": "5-10 Zip Oyster photocards",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/5-10-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "11-15 Zip Oyster photocards",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/11-15-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "16+ Zip Oyster photocard",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/16-plus-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Travel for schools",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/travel-for-schools",
+      "image": {}
+     },
+     {
+      "title": "Rules of travel for under 18s",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/rules-of-travel-for-under-18s",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/18-plus-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Apprentice Oyster photocard",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/apprentice-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ London Oyster photocard",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/60-plus-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Freedom Pass",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/freedom-pass",
+      "image": {}
+     },
+     {
+      "title": "Veterans Oyster photocard",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/veterans-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "National Railcard discounts",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/national-railcard-discount",
+      "image": {}
+     },
+     {
+      "title": "Annual Gold Card discount",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/annual-gold-card-discount",
+      "image": {}
+     },
+     {
+      "title": "Jobcentre Plus Travel Discount",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/jobcentre-plus-travel-discount",
+      "image": {}
+     },
+     {
+      "title": "Bus \u0026 Tram Discount photocard",
+      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/bus-and-tram-discount",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Free and discounted travel",
+     "url": "/fares-and-payments/fares2018/free-and-discounted-travel/bus-and-tram-discount",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

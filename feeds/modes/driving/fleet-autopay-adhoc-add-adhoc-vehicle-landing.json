@@ -1,0 +1,53 @@
+{
+ "pageTitle": "Ad hoc vehicle charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Ad hoc vehicle charge"
+  }
+ ],
+ "title": {
+  "title": "Ad hoc vehicle charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Pay a single day ULEZ and/or Congestion Charge for a vehicle that is not on Fleet Auto Pay.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There is no annual registration charge for these vehicles. The Congestion Charge and/or ULEZ charge will be added to your next monthly statement."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

@@ -1,0 +1,190 @@
+{
+ "pageTitle": "Bus lanes",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "Which vehicles can use a bus lane, and when",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Rules of red routes",
+   "url": "/modes/driving/red-routes/rules-of-red-routes"
+  },
+  {
+   "title": "Bus lanes"
+  }
+ ],
+ "title": {
+  "title": "Bus lanes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Bus lanes aren't always just for buses. Taxis, motorcyclists and cyclists can use many of them too. Anyone can use a bus lane outside the hours of operation.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Bus lanes are part of the road that is indicated on\nthe carriageway by a thick white line. They are reserved for certain vehicles, shown on the sign. They increase journey time reliability and\nsafety for certain vehicles and encourage the use of sustainable transport\nsuch as public transport and cycling.",
+     "The\nhours when you can or can't use bus lanes can differ due to the volume and\nfrequency of buses using the route.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"When you can enter a bus lane\"}",
+     "You can enter a bus lane when the bus lane is not operational (outside\nthe hours of operation) or when you are driving a certain type of vehicle. The times of operation\nand the type or types of permitted vehicle are indicated on a blue sign. The sign is located in\nadvance of the bus lane and repeated if the bus lane is long.",
+     "If you want to\nturn left across a bus lane, an arrow or a dotted white line on the carriageway will indicate if\nthis is permitted.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicles that can use a bus lane\"}",
+     "Read the bus lane signs to\nfind out who can use it and when. Some signs may display the word 'local' indicating that only local bus services can use the bus lane.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buses\\n    which have a minimum of 10 seats (including the driver)\",\"Licensed\\n    London Taxis\",\"Motorcycles\\n    (without side cars)\",\"Mopeds\",\"Scooters\",\"Tricycles\\n    (non-motorised, motorised under 450kg, not with side cars)\",\"Bicycles\"]}",
+     "For\nother road signs please \u003ca href=\"https://www.gov.uk/browse/driving/highway-code\"\u003evisit the Highway Code\nwebsite\u003c/a\u003e .",
+     "Look out\nfor the bus lane sign and thick white line on the carriageway. The sign will\ntell you which vehicles can use the bus lane and the hours of operation.",
+     "Anyone can use the bus lane\noutside the hours of operation but please do be aware that bus lane times can vary along a stretch of road.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/bus-lane-signage.jpg\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"When you can use the lane\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Monday to Sunday - 19:00 to 07:00 - any vehicle can use the lane\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"When you can't use the lane\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Monday to Sunday - 07:00 to 19:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Penalty Charge Notices (PCNs)\"}",
+     "Using a bus lane when you are not permitted\n        can delay buses and cause congestion. We may issue a PCN if you drive in a bus lane.",
+     " \u003ca href=\"/modes/driving/red-routes/penalty-charge-notices\"\u003eFind out more about penalty charges\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Loading for the public",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/loading-for-the-public",
+      "image": {}
+     },
+     {
+      "title": "Yellow box junctions",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/yellow-box-junctions",
+      "image": {}
+     },
+     {
+      "title": "Banned turns",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/banned-turns",
+      "image": {}
+     },
+     {
+      "title": "Bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles in bus lanes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/bus-lanes/motorcycles-in-bus-lanes",
+      "image": {}
+     },
+     {
+      "title": "Parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/parking",
+      "image": {}
+     },
+     {
+      "title": "Blue Badge (disabled) parking",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/blue-badge-disabled-parking",
+      "image": {}
+     },
+     {
+      "title": "Red lines and no stopping",
+      "url": "/modes/driving/red-routes/rules-of-red-routes/red-lines-and-no-stopping",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Road tips",
+      "url": "/campaign/road-tips",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "The Highway Code",
+      "url": "https://www.gov.uk/browse/driving/highway-code",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

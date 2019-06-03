@@ -1,0 +1,88 @@
+{
+ "pageTitle": "New projects",
+ "keywords": "TfL",
+ "description": "If you're a business looking for an exciting opportunity in a new and unique location, find out more.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "New projects"
+  }
+ ],
+ "title": {
+  "title": "New projects",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're a business looking for an exciting opportunity in a new and unique location, find out more.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our Commercial Development team are looking for third party partners to develop innovative commercial projects across Underground, Rail and Surface Transport assets.",
+     "We're keen to work with partners who can offer Londoners and visitors new products and services, generating revenues which can be re-invested into London's transport network.",
+     "Work on famous 'disused stations' is only the first initiative of what will be a series of exciting commercial opportunities to come to market.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New partnership opportunity - Down Street station\"}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/down-street-gallery-imge-1.jpg\",\"alt\":\"Down Street station tunnel - 1\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/down-street-gallery-imge-3.jpg\",\"alt\":\"Down Street station lift shaft\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/down-street-gallery-imge-2.jpg\",\"alt\":\"Down Street station tunnel - 2\"}],\"wrapped\":false}",
+     "During a recent review of all our disused assets, the Commercial Development team identified seven stations and one deep level shelter with great commercial potential.",
+     "The review also allowed us to establish that:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Few are complete stations and no site is disused or abandoned\",\"Most, directly lead to live operational railway and continue to perform important operational functions, e.g. maintenance and emergency access\",\"Each location presents a unique combination of commercial opportunity and operational constraint\"]}",
+     "We commissioned Carmody Groarke, a firm of architects with experience in this area, to conduct a commercial feasibility study at the disused Down Street station. This study aimed to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Identify potential secondary revenue opportunities\",\"Create a methodology, or assessment template, which could be adapted and applied to other sites in the future\"]}",
+     "The study concluded that the Down Street station site had many attributes which collectively outweighed its constraints. As a result, we're now seeking commercial proposals for this site.",
+     "Our digital brochure provides information about the Downs Street site and the tender process. Find out more:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Down Street station brochure\",\"url\":\"/cdn/static/cms/documents/digital-down-street-brochure.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.94MB\",\"image\":{}},{\"title\":\"disusedstations@tfl.gov.uk\",\"url\":\"mailto:disusedstations@tfl.gov.uk\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

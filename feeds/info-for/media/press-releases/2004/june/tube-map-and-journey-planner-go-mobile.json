@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Tube map and Journey Planner go mobile",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Tube map and Journey Planner go mobile",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Orange mobile phone users will be able to download fully interactive Tube maps, request travel alerts, plan journeys and check for the latest travel news as Transport for London (TfL) travel information goes live on Orange serviced mobile phones."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Chris Townsend, Director of Group Marketing at TfL, said: \"These new services make real time travel information even more accessible to Londoners while on the move.",
+     "\"People can make better informed travel decisions, using personalised information services which let the traveler know about delays or incidents affecting their usual route to work or home.\"",
+     "To download a completely free, interactive Tube map, simply text 'Tubemap' to 60835.",
+     "A full colour, fully navigable Tube map will arrive straight to the user's mobile.",
+     "The map lets the user find a station and even offers a Tube Journey Planner, which tells you how to get from any Tube station to another.",
+     "To find out how a particular Tube line is running simply text 'Tube' followed by a space and then the name of the Tube line (eg 'Jubilee') and send to 60835.",
+     "Orange mobile phone users will also be able to request travel alerts, plan journeys and check for the latest travel news all on their mobile.",
+     "A host of other information is available (cost of these services depends on the tariff, set by the mobile operator), including information on the congestion charge, Oyster, and how to phone for a licensed mini cab.",
+     "TfL hopes to extend these services to all major mobile phone service providers by the end of 2004.",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL and Orange signed a three-year, non exclusive agreement on 18 March 2004\",\"The agreement reflects TfL's desire to work closely with the mobile industry, recognising the opportunity to deliver timely and accurate travel information to the traveller in London.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

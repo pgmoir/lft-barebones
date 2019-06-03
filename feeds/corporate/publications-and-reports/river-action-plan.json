@@ -1,0 +1,99 @@
+{
+ "pageTitle": "River Action Plan",
+ "keywords": "Businesses,Freight industry,Planning and construction,River passengers,R,Deliveries,River,TfL",
+ "description": "The River Action Plan sets out the improvements that will be made to river services between now and 2020",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "River Action Plan"
+  }
+ ],
+ "title": {
+  "title": "River Action Plan",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The River Action Plan was published in 2013 and set the target of increasing passenger journeys on the Thames to 12 million by 2020. The Mayor, Sadiq Khan, has committed to encouraging greater use of the river to transport passengers and freight.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"River Action Plan\",\"url\":\"/cdn/static/cms/documents/river-action-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 7.35MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "River",
+      "url": "/modes/river/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Planning for the future",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

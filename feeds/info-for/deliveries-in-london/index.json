@@ -1,0 +1,208 @@
+{
+ "pageTitle": "Deliveries in London",
+ "keywords": "TfL",
+ "description": "Making and receiving deliveries in London in the most efficient, safe and legal way",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Deliveries in London"
+  }
+ ],
+ "title": {
+  "title": "Deliveries in London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We work with operators, boroughs and partners across the freight industry to ensure that goods and services get delivered in London on time, and in a safe, clean and efficient way.",
+     "On these pages you'll find advice on making and receiving deliveries, including parking and loading, delivering efficiently and driving near vulnerable road users."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Efficient deliveries and servicing",
+    "texts": [
+     "How to ensure deliveries and servicing are efficient through reducing and retiming"
+    ],
+    "link": {
+     "url": "/info-for/deliveries-in-london/delivering-efficiently",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/deliveriesinlondon3_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Construction Logistics and Community Safety",
+    "texts": [
+     "Work with partners in the construction logistics industry to manage road risk"
+    ],
+    "link": {
+     "url": "http://www.clocs.org.uk/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Fleet Operator Recognition Scheme (FORS)",
+    "texts": [
+     "Get accredited for safety, fuel efficiency, emissions and improved operations"
+    ],
+    "link": {
+     "url": "https://www.fors-online.org.uk/cms/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Publications and reports",
+    "texts": [
+     "Find data, case studies and documentation about the freight industry"
+    ],
+    "link": {
+     "url": "/corporate/publications-and-reports/freight",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Information for Commercial Drivers",
+    "links": [
+     {
+      "title": "CommercialDriversEmail@tfl.gov.uk",
+      "url": "mailto:CommercialDriversEmail@tfl.gov.uk",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Get involved",
+    "links": [
+     {
+      "title": "Training courses \u0026 events",
+      "url": "/info-for/deliveries-in-london/training-courses-and-events",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "More travel advice",
+    "links": [
+     {
+      "title": "Travel advice for road users",
+      "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Report roadworks",
+      "url": "https://tflportal.icasework.com/servlet/ep.app?type=Roadworks\u0026db=mIOLbzRl4sc%3D\u0026noAbout=Yes\u0026Login=false\u0026csrfhash=CfiLzGrkRrszao%2BxjgYAg19Ip%2B%2BKljzWaptcGARa9zGGvFzWiy1tZsON4niU78b8uW4oDlf4h7D%2FIbvq4GvOb4nzXI8ntP1a96Dy9LvCqq%2F8vsIgR5adunOL0%2Fp4nya6%C2%ABnATVz05hTRZls5A8qbEVnQ%3D%3D%7E%21",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Deliveries in London",
+    "links": [
+     {
+      "title": "Efficient deliveries",
+      "url": "/info-for/deliveries-in-london/delivering-efficiently",
+      "image": {}
+     },
+     {
+      "title": "Delivering safely",
+      "url": "/info-for/deliveries-in-london/delivering-safely",
+      "image": {}
+     },
+     {
+      "title": "Delivering legally",
+      "url": "/info-for/deliveries-in-london/delivering-legally",
+      "image": {}
+     },
+     {
+      "title": "Protecting the environment",
+      "url": "/info-for/deliveries-in-london/protecting-the-environment",
+      "image": {}
+     },
+     {
+      "title": "Delivering goods by water",
+      "url": "/info-for/deliveries-in-london/delivering-goods-by-water",
+      "image": {}
+     },
+     {
+      "title": "Training courses and events",
+      "url": "/info-for/deliveries-in-london/training-courses-and-events",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Deliveries in London",
+     "url": "/info-for/deliveries-in-london/training-courses-and-events",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

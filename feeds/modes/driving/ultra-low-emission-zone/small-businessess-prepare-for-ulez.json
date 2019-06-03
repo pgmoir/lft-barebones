@@ -1,0 +1,151 @@
+{
+ "pageTitle": "Small businesses prepare for ULEZ",
+ "keywords": "TfL",
+ "description": "Find out how small businesses are preparing for ULEZ standards in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Ultra Low Emission Zone",
+   "url": "/modes/driving/ultra-low-emission-zone"
+  },
+  {
+   "title": "ULEZ standards",
+   "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard"
+  },
+  {
+   "title": "Small businesses prepare for ULEZ"
+  }
+ ],
+ "title": {
+  "title": "Small businesses prepare for ULEZ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Small businesses across London share their stories of how they prepared for the launch of the Ultra Low Emission Zone (ULEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/first-mile-lorry_rdax_400x250.jpg\",\"alt\":\"First Mile lorry\"},\"wrapped\":false}",
+     " \u003ca href=\"https://www.thefirstmile.co.uk/services\"\u003eFirst Mile\u003c/a\u003e collects waste and recycling for over 22,000 businesses in London. With ULEZ on the horizon, they began deploying their air quality strategy in 2016. They operate 67 vehicles across London every day - 53 of them meet Euro 6 standards and the remaining 14, deployed outside of the ULEZ, will be replaced.",
+     "Through an innovative system that sorts waste before it's transported, a fleet of zero-emission cargo bikes and electric vans, and investment in clean HGVs, they calculate they would save £1000 a day per vehicle in ULEZ penalty charges.",
+     "Bruce Bratley, First Mile CEO, says 'London's poor air impacts all First Mile staff and customers. We need to balance frequent collections with minimal impact on our environment. It's critical that reliable waste collection and recycling isn't solving one environmental problem, like waste, while causing another - air pollution. Our customers care about this and rightly expect us to operate low impact collections.'",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/electric-van-london-calling-arts_rdax_400x250.jpg\",\"alt\":\"First Mile\"},\"wrapped\":false}",
+     " \u003ca href=\"https://www.culturecalling.co.uk/\"\u003eLondon Calling Arts\u003c/a\u003e transports printed marketing materials to 20,000 venue partners across the UK. Their warehouse now has five charging points and eight electric vans charged overnight on rotation.",
+     "The company says that the switch seemed daunting at the beginning - all the set-up administration and registering for funding - but that they were met by a lot of support from councils wanting to be involved.",
+     "Marc Randall, Head of Distribution, says 'Switching to an electric fleet makes sense from all angles. Our fuel costs have dropped dramatically. We no longer have to factor in the Congestion Charge, which is great for the business, and we know this change makes a positive environmental impact at such a critical moment in climate change history. Hopefully we encourage other businesses to follow suit. The benefits are huge when you get it right.'"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "ULEZ: Where and when",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-where-and-when",
+      "image": {}
+     },
+     {
+      "title": "Paying the ULEZ charge",
+      "url": "/modes/driving/ultra-low-emission-zone/ulez-payments",
+      "image": {}
+     },
+     {
+      "title": "Why we need the ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/why-we-need-ulez",
+      "image": {}
+     },
+     {
+      "title": "ULEZ standards",
+      "url": "/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard",
+      "image": {}
+     },
+     {
+      "title": "Small businesses prepare for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/small-businessess-prepare-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Discounts and exemptions",
+      "url": "/modes/driving/ultra-low-emission-zone/discounts-and-exemptions",
+      "image": {}
+     },
+     {
+      "title": "Cars",
+      "url": "/modes/driving/ultra-low-emission-zone/cars",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and more",
+      "url": "/modes/driving/ultra-low-emission-zone/vans-minibuses-and-more",
+      "image": {}
+     },
+     {
+      "title": "Motorcycles, mopeds and more",
+      "url": "/modes/driving/ultra-low-emission-zone/motorcycles-mopeds-and-more",
+      "image": {}
+     },
+     {
+      "title": "Lorries, coaches and larger vehicles",
+      "url": "/modes/driving/ultra-low-emission-zone/larger-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez",
+      "image": {}
+     },
+     {
+      "title": "Scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

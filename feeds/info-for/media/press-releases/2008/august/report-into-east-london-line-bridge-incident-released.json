@@ -1,0 +1,83 @@
+{
+ "pageTitle": "Report into East London Line bridge incident released",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Report into East London Line bridge incident released",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) has published a report into an incident on 28 May, 2008 involving a rail bridge being built outside Liverpool Street station as part of the East London Line Project."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "There is a collective responsibility for ourselves and our contractors to ensure these procedures work",
+     "The report found that at 19:15, the bridge dropped 200mm after sub-contractors, using temporary supports, made final adjustments before placing it on its permanent fixtures.",
+     "They wrongly positioned a Teflon plate between the base of the bridge and the temporary supports.",
+     "Their working methods were not cleared, either with the site Principal Contractor Balfour Beatty - Carillion Joint Venture (BB-CJV) or TfL project engineers.",
+     "It is believed a change in temperature as the bridge cooled resulted in it contracting two or three millimetres.",
+     "This led to a movement, which caused the temporary supports to be ejected from their position, resulting in the east end of the bridge dropping onto its permanent fixtures.",
+     "The incident caused five pieces of concrete decking to fall onto rail lines below, and services into Liverpool Street station were suspended overnight.",
+     "TfL has tightened up supervision over its contractors as a result of the incident.",
+     "TfL will make its findings available to the industry to prevent the incident from being repeated elsewhere.",
+     "TfL London Rail's Director of Safety, Martin Brown said: 'We have investigated this incident thoroughly, identified the causes and put in place procedures so that it cannot happen again.",
+     "'It was a unique event that we want to ensure cannot be repeated on any other bridge installation.",
+     "'The temporary work, which involved jacking the bridge horizontally about 38mm to a position over the permanent fitting, was undertaken without engineers from TfL or our main site contractor, BB-CJV, being made aware of what was happening.",
+     "'The positioning of the Teflon pad was a human error, but the procedures we have should have stopped this error occurring.",
+     "'There is a collective responsibility for ourselves and our contractors to ensure these procedures work.",
+     "'When planning the bridge installation it was not considered that this final repositioning work would be required.",
+     "'When it was found to be necessary, no method statement was prepared for checking. It should have been.",
+     "'Balfour Beatty-Carillion has upgraded its system of checking its sub-contractors and TfL has also stepped up its overall supervisory role.'",
+     "The bridge has now been bolted and welded into its permanent position without further problems.",
+     "Two other East London line bridges put in place around the same time have been checked, and no problems have been found with them.",
+     "The incident has not delayed the work on the East London line extension project, which is due to be completed in June 2010.",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

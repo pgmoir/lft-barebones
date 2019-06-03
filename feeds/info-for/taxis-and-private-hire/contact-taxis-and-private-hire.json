@@ -1,0 +1,146 @@
+{
+ "pageTitle": "Contact Taxi \u0026 Private Hire",
+ "keywords": "Taxi and private hire,Taxis and minicabs,TfL",
+ "description": "Contact details for use by taxi or private hire applicants or licensees",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Contact Taxi \u0026 Private Hire"
+  }
+ ],
+ "title": {
+  "title": "Contact Taxi \u0026 Private Hire",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"As a taxi or private hire customer, applicant or licensee there are several ways you can contact us.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Transport for London (TfL) license and regulate all of London's taxi and private hire drivers, vehicles and operators. We are also the enforcement authority and work closely with the Metropolitan and City of London Police services to ensure that drivers, operators and vehicles are compliant with taxi and private hire legislation, regulations and policy.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Customers\"}",
+     "To contact us about a licensed taxi or private hire driver or operator:",
+     "{\"template\":\"bulletlist\",\"items\":[\"online via our \\u003ca href=\\\"https://tfl.gov.uk/help-and-contact/contact-us-about-taxi-and-private-hire\\\"\\u003etaxi and private hire comment form\\u003c/a\\u003e \",\"call us on 0343 222 4000 (09:00 - 17:00, Monday to Friday excluding bank holidays)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Applicants or licensees\"}",
+     "To contact us about licensing or any other element of our service:",
+     "{\"template\":\"bulletlist\",\"items\":[\"email us at: \\u003ca href=\\\"mailto:tph.enquiries@tfl.gov.uk\\\"\\u003etph.enquiries@tfl.gov.uk\\u003c/a\\u003e \",\"Call us on 0343 222 4444\"]}",
+     "There is \u003ca href=\"https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/existing-licensee\"\u003einformation available about the types of licensing queries\u003c/a\u003e you can contact us about. If you are unhappy with the response you receive then you may follow our complaints procedure as outlined below.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Complaints procedure\"}",
+     "This procedure outlines how you can complain to us about the services we provide or the drivers and operators we license. To enable us to conduct a full investigation into your complaint you should include as much detail as possible.",
+     "This process should not be used by taxi or private hire licensees to appeal our decision to refuse, suspend or revoke a licence. If you wish to do this you should follow the appeals procedure as detailed in our decision letter.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stage One:\"}",
+     "Customer Correspondence Manager\u003cbr /\u003eTaxi and Private Hire\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eLondon\u003cbr /\u003eSE1 8NW",
+     "Email: \u003ca href=\"mailto:tph.enquiries@tfl.gov.uk\"\u003etph.enquiries@tfl.gov.uk\u003c/a\u003e ",
+     "We will respond to your complaint within 10 working days. If a full investigation is required then we may need a little longer but we will keep you informed of the progress of your complaint.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Stage two:\"}",
+     "If you are still unhappy you may ask for a final review by writing to:",
+     "General Manager\u003cbr /\u003eTaxi and Private Hire\u003cbr /\u003e1st Floor\u003cbr /\u003e230 Blackfriars Road\u003cbr /\u003eLondon\u003cbr /\u003eSE18NW",
+     "The General Manager will conduct a final review, usually within 10 working days, and a response will be issued outlining our final position.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local Government Ombudsman (LGO)\"}",
+     "The LGO is an independent national service that investigates complaints against local authorities, such as Transport for London.",
+     "If you've been through our complaints procedure and are still dissatisfied, you may choose to escalate your complaint to the LGO at the address shown.",
+     "The Local Government Ombudsman\u003cbr /\u003ePO Box 4771\u003cbr /\u003eCoventry CV4 0EH",
+     "Phone: 0300 061 0614 (08:30 - 17:00 Monday to Friday)",
+     "Website: \u003ca href=\"http://www.lgo.org.uk/make-a-complaint\"\u003ehttp://www.lgo.org.uk/make-a-complaint\u003c/a\u003e ",
+     "You're entitled to contact the LGO without completing our complaints procedure, but in such cases the LGO may refer your complaint back to us, to allow us the opportunity to resolve your issue.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Report illegal activity\"}",
+     "You can report touting or other illegal cab activity by \u003ca href=\"/help-and-contact/reporting-touting-and-illegal-cabs\"\u003esubmitting a form to us\u003c/a\u003e . Reports will be used to inform future deployments.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Twitter\"}",
+     "We now have our own dedicated Twitter account where we provide useful information to the Taxis and Private Hire trade, please \u003ca href=\"https://twitter.com/TfLTPH\"\u003efollow us at @tfltph\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfLTPH",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

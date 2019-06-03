@@ -1,0 +1,115 @@
+{
+ "pageTitle": "Car clubs",
+ "keywords": "TfL",
+ "description": "The convenience of owning a car without the hassle or costs of repairs, servicing or parking",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Car clubs"
+  }
+ ],
+ "title": {
+  "title": "Car clubs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Car clubs are short-term car rental services that allow members access to locally parked cars and pay by the minute, hour or day.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Car clubs offer an alternative model to private car ownership for individuals and businesses. Car clubs reduce the need for private parking and can help more Londoners give up their cars while allowing for occasional car travel within London.",
+     "London is full of car clubs, ranging from traditional 'back-to-base' returnable models to flexible one-way models, with dedicated parking bays and areas.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/car-clubs_rdax_400x250.jpg\",\"alt\":\"Car clubs\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What are the benefits?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eSustainable travel behaviour.\\u003c/strong\\u003e Car clubs have the potential to reduce car ownership, inspiring a shift away from private car use to walking, cycling and public transport instead.\",\"\\u003cstrong\\u003eBenefits for businesses.\\u003c/strong\\u003e Car clubs can help businesses and charities access the cleanest vans and cars, save money and reduce emissions.\",\"\\u003cstrong\\u003eTransition to electric vehicles.\\u003c/strong\\u003e Many car clubs now operate electric or hybrid vehicles capable of operating with zero emissions.\",\"\\u003cstrong\\u003eEnvironmental and safety benefits.\\u003c/strong\\u003e By encouraging people to transition to cleaner vehicles with the highest safety rating, car clubs can improve air quality and reduce CO2 emissions.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ultra Low Emission Zone (ULEZ)\"}",
+     "Some car clubs are running \u003ca href=\"/modes/driving/third-party-promotions\"\u003epromotions for ULEZ\u003c/a\u003e , involving vehicles that meet the ULEZ standards in order to support the Mayor's efforts to clean up London's toxic air. \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eFind out more about the ULEZ\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Car sharing representative groups\"}",
+     " \u003ca href=\"https://como.org.uk/\"target=\"_blank\"\u003eCoMoUK\u003c/a\u003e ",
+     " \u003ca href=\"http://bvrla.co.uk/\"target=\"_blank\"\u003eBVRLA\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Blue City",
+      "url": "https://www.blue-city.co.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Co-wheels",
+      "url": "http://www.co-wheels.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DriveNow",
+      "url": "https://www.drive-now.com/gb/en/london",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Enterprise",
+      "url": "https://www.enterprisecarclub.co.uk/gb/en/programs/regions/south-east-england/london.html",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Ubeeqo",
+      "url": "http://www.ubeeqo.com",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Zipcar",
+      "url": "http://www.zipcar.co.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

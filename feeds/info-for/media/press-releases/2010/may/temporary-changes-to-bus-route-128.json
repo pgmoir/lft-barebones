@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Temporary changes to bus route 128",
+ "description": "The first section of the route will run between Claybury and Ilford operating every 14 minutes during the day Mondays to Saturdays. The second section will run between Romford and Ilford operating every 12 minutes during the day Mondays to Saturdays.",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Temporary changes to bus route 128",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From Saturday 15 May bus route 128, which currently runs between Romford station and Claybury Broadway, will be split into two sections for three months while works are carried out on Gants Hill and Green Lane."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The first section of the route will run between Claybury and Ilford operating every 14 minutes during the day Mondays to Saturdays.",
+     "The second section will run between Romford and Ilford operating every 12 minutes during the day Mondays to Saturdays.",
+     "Passengers wishing to travel beyond Ilford from Romford will have to alight at bus stops W and Q, for an adjoining bus towards Claybury.",
+     "If passengers wish to travel beyond Ilford from Claybury they will need to alight at stops R or T, for an adjoining bus towards Romford.",
+     "Passengers will be able to transfer without charge between the different sections of the route within Ilford Town Centre.",
+     "Buses will run on both sections every 20 minutes on a Sunday during the day.",
+     "The night service on route 128 will not be affected by the works and will continue to operate directly between Romford station and Claybury Broadway every 30 minutes.",
+     "\u003cstrong\u003eNotes to editors\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Check the route on our \\u003ca href=\\\"http://www.tfl.gov.uk/tfl/gettingaround/maps/buses/\\\"\\u003ebus route finder\\u003c/a\\u003e \",\"The night service runs from Romford station from 00:20 until 05:20 and from Claybury Broadway from 00:40 until 04:42\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "pageTitle": "How we work",
+ "keywords": "Public,TfL",
+ "description": "How TfL is funded and organised, how we plan for the future and how we work with Boroughs",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "How we work"
+  }
+ ],
+ "title": {
+  "title": "How we work",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "We are the local government organisation responsible for most aspects of London's transport system. These pages detail how we are run, funded and governed, who we work with and our future plans."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "How we are governed",
+    "texts": [
+     "Take a look at how we are managed and monitored"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/how-we-are-governed",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x001-00090-bus-traffic-junction_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "How we are funded",
+    "texts": [
+     "We get money to run and improve London's transport system from different sources"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/how-we-are-funded",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/t001-04005-tube-mind-the-gap_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Planning for the future ",
+    "texts": [
+     "See the latest proposals to improve travel in the Capital"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Public affairs",
+    "texts": [
+     "We work with organisations and elected representatives that speak for our customers"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/public-affairs",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Working with boroughs",
+    "texts": [
+     "We work with the boroughs to improve the Capital's transport system"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/index",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "How we work",
+    "links": [
+     {
+      "title": "Our role",
+      "url": "/corporate/about-tfl/how-we-work/our-role",
+      "image": {}
+     },
+     {
+      "title": "How we are governed",
+      "url": "/corporate/about-tfl/how-we-work/how-we-are-governed",
+      "image": {}
+     },
+     {
+      "title": "How we are funded",
+      "url": "/corporate/about-tfl/how-we-work/how-we-are-funded",
+      "image": {}
+     },
+     {
+      "title": "Planning for the future",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future",
+      "image": {}
+     },
+     {
+      "title": "Public affairs",
+      "url": "/corporate/about-tfl/how-we-work/public-affairs",
+      "image": {}
+     },
+     {
+      "title": "Our customer commitments",
+      "url": "/corporate/about-tfl/how-we-work/our-customer-commitments",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "How we work",
+     "url": "/corporate/about-tfl/how-we-work/our-customer-commitments",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Committees \u0026 panels",
+    "links": [
+     {
+      "title": "Annual Report",
+      "url": "/corporate/publications-and-reports/annual-report",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Committee \u0026 panel meetings",
+      "url": "http://tfl.gov.uk/corporate/publications-and-reports/?Category=Committee%20and%20panel%20meetings",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

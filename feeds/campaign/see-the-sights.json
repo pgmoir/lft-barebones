@@ -1,0 +1,123 @@
+{
+ "pageTitle": "See the sights",
+ "keywords": "Visitors,TfL",
+ "description": "Iconic London sights information for tourists",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "See the sights"
+  }
+ ],
+ "title": {
+  "title": "See the sights",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Walking is a great way to see London's most famous landmarks and attractions.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Why not explore the sights of London by doing one of the self-guided walks below? Each of the walks is clearly marked and can be easily accessed by public transport. There are handy information packs available with maps, written directions and interesting facts about the sights you will see on the way.",
+     "These walks form part of the Walk London Network and cover many of London's most famous tourist attractions- from Buckingham Palace and the Houses of Parliament- to iconic landmarks such as Trafalgar Square and Tower Bridge.",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-southbank-image.jpg\",\"alt\":\"The London Eye\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-bankside-and-the-ci.jpg\",\"alt\":\"Tate Modern\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-the-city2-image.jpg\",\"alt\":\"The Gherkin and City skyscrapers\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-bloomsbury-and-holb.jpg\",\"alt\":\"The British Museum\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-palaces-and-little-.jpg\",\"alt\":\"Kensington Palace\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-little-venice-to-ca.jpg\",\"alt\":\"A canal boat near Regents Park\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-greenwich-to-tower-.jpg\",\"alt\":\"The National Maritime Museum\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-richmond-image.jpg\",\"alt\":\"Richmond\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/picture-9.jpg\",\"alt\":\"See the Houses of Parliament and Big Ben\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-thames2-image.jpg\",\"alt\":\"Boats moored in St Katherine Harbour, Docklands\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/walking-westminster-and-st-.jpg\",\"alt\":\"Buckingham Palace and Queen Victoria Monument\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Southbank and West End\"}",
+     "A circular walk through the heart of London with connections to many of the city's main tourist attractions.\u003cbr /\u003e\u003cbr /\u003eKey sights include: The Mall, Parliament Square, Westminster Abbey, Houses of Parliament, London Eye, Southbank and the Royal Festival Hall, Tate Modern, St Paul's Cathedral, The Royal Opera House, The National Portrait Gallery.\u003cbr /\u003e\u003cbr /\u003eThis is the \u003ca href=\"/modes/walking/western-loop-walk\"\u003eWestern Loop\u003c/a\u003e , part of the Jubilee Walkway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bankside and the City\"}",
+     "See some of London's most iconic buildings and sights.",
+     "Key sights include: HMS Belfast, Tower Bridge, Monument, Mansion House, Shakespeare's Globe, Tate Modern.",
+     "This is the \u003ca href=\"/modes/walking/eastern-loop-walk\"\u003eEastern Loop\u003c/a\u003e , part of the Jubilee Walkway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The City\"}",
+     "Get a real insight into city life.",
+     "Key sights include: St Paul's Cathedral, the Museum of London, the Barbican, Guildhall Art Gallery, Girdlers' Hall.",
+     "This is the \u003ca href=\"/modes/walking/the-city-loop\"\u003eCity Loop\u003c/a\u003e , part of the Jubilee Walkway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bloomsbury and Holborn\"}",
+     "This route passes through many beautiful terraces, squares and crescents built during the 18th century.",
+     "Key sights include: Bedford Row, the Brunswick Centre, the British Museum, Sicilian Avenue, Southampton Row, Sir John Soane's Museum, the British Library.",
+     "This is the \u003ca href=\"/modes/walking/the-camden-loop\"\u003eCamden Loop\u003c/a\u003e , part of the Jubilee Walkway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Westminster and St James'\"}",
+     "Monarchy and government are the main features of this route. See some of London's most iconic buildings.",
+     "Key sights include: Trafalgar Square, Admiralty Arch, The Mall, St James's Park, Buckingham Palace, Parliament Square, Westminster Abbey, Houses of Parliament.",
+     "This is the \u003ca href=\"/modes/walking/the-jubilee-loop-walk\"\u003eJubilee Loop\u003c/a\u003e , part of the Jubilee Walkway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The palaces and Little Venice\"}",
+     "A pleasant walk past famous palaces and through some of London's most beautiful parks.",
+     "Key sights include: Buckingham Palace, Kensington Palace, Leinster Gardens, Little Venice",
+     "This is \u003ca href=\"/modes/walking/buckingham-palace-to-little-venice\"\u003esection 1\u003c/a\u003e of the Jubilee Greenway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Little Venice to Camden Lock\"}",
+     "The smart residential area of Little Venice gives way to the exciting buzz of Camden Lock Market, via Regent's Park.\u003cbr /\u003e\u003cbr /\u003eKey sights include: Regent's Canal, Lord's Cricket Ground, Regent's Park, London Zoo, and Camden Lock",
+     "This \u003ca href=\"/modes/walking/little-venice-to-camden\"\u003esection 2\u003c/a\u003e of  the Jubilee Greenway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Greenwich to Tower Bridge\"}",
+     "Following the River Thames from the Old Royal Naval College to Tower Bridge, this route offers some of the best views the river has to offer.\u003cbr /\u003e\u003cbr /\u003eKey sights include: Old Royal Naval College, the Peter the Great statue, the Circumsphere sculpture, the Lavender Pumphouse, Tower Bridge and the Rotherhithe Tunnel.\u003cbr /\u003e\u003cbr /\u003eThis is \u003ca href=\"/modes/walking/greenwich-to-tower-bridge\"\u003esection 7\u003c/a\u003e of the Jubilee Greenway walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Wimbledon Park to Richmond Bridge\"}",
+     "This beautiful, green walk passes through one of London's largest nature reserves and scenes from the paintings of William Turner.\u003cbr /\u003e\u003cbr /\u003eKey sights include: Wimbledon Park, Wimbledon Windmill, Richmond Park and White Lodge, the Royal Ballet School's home, museum and location for the film, Billy Elliot film.",
+     "This is \u003ca href=\"/modes/walking/wimbledon-park-to-richmond\"\u003esection 6\u003c/a\u003e of the Capital Ring walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Thames Path north\"}",
+     "A spectacular section of the River Thames, featuring hidden haunts and famous landmarks.\u003cbr /\u003e\u003cbr /\u003eKey sights include: Tower of London, Houses of Parliament, St Paul's Cathedral, Tate Modern, Shakespeare's Globe theatre.\u003cbr /\u003e\u003cbr /\u003eThis is \u003ca href=\"/modes/walking/albert-bridge-to-tower-bridge-south\"\u003esection 4 \u003c/a\u003e of the Thames Path walk.\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Thames Path south\"}",
+     "This walk runs along the north bank of the Thames and follows a scenic eastward route which is rich in history.\u003cbr /\u003e\u003cbr /\u003eKey sights include: Canary Wharf, St Katherine Docks, Wapping Dock, Masthouse Terrace\u003cbr /\u003e\u003cbr /\u003eThis is \u003ca href=\"/modes/walking/tower-bridge-to-the-thames-barrier\"\u003esection 5\u003c/a\u003e of the Thames Path walk."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Looking for more walks?",
+    "texts": [
+     "London has a variety of walks to suit everyone. From short strolls around some of its best-loved parks to longer rambles through scenic stretches."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

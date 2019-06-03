@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Amend a LEZ charge",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Amend a LEZ charge"
+  }
+ ],
+ "title": {
+  "title": "Amend a LEZ charge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Change start date\"}",
+     "You cannot amend the charge to this date - it is more then 90 days in the future. Choose a different date or consider \u003ca href=\"/modes/driving/lez-refunds-find-a-charge-to-refund-36916\"target=\"_blank\"\u003eapplying for a refund\u003c/a\u003e .",
+     "You can't change the charge to this date - the start date is a non-charging day. Choose another date or consider \u003ca href=\"/modes/driving/cc-refunds-find-a-charge-to-refund-36931\"target=\"_blank\"\u003eapplying for a refund\u003c/a\u003e .",
+     "Read the \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging#Keeping%20personal%20information%20secure\"target=\"_blank\"\u003eLondon Road User Charging privacy notice\u003c/a\u003e .",
+     "You cannot change to this date - a charge either exists or has already been paid for that day. Please choose an alternative date or consider \u003ca href=\"/modes/driving/lez-refunds-find-a-charge-to-refund-36916\"target=\"_blank\"\u003eapplying for a refund\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

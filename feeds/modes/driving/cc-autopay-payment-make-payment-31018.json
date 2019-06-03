@@ -1,0 +1,50 @@
+{
+ "pageTitle": "Make a payment",
+ "keywords": "TfL",
+ "description": "The amount shown below is the total balance outstanding on your Auto Pay service.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Make a payment"
+  }
+ ],
+ "title": {
+  "title": "Make a payment",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The amount shown below is the total balance outstanding on your Auto Pay service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If your Auto Pay service is 'pending suspension' or 'suspended', we will automatically reactivate it after a successful payment. If it is 'closed', you will need to apply for Auto Pay again."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

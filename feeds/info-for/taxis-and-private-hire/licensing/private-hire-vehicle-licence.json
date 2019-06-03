@@ -1,0 +1,217 @@
+{
+ "pageTitle": "Apply for a private hire vehicle licence",
+ "keywords": "Taxi and private hire,Taxis and minicabs,TfL",
+ "description": "Learn how to license your auto as a private hire vehicle or minicab",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxi \u0026 private hire",
+   "url": "/info-for/taxis-and-private-hire/index"
+  },
+  {
+   "title": "Licensing",
+   "url": "/info-for/taxis-and-private-hire/licensing"
+  },
+  {
+   "title": "Apply for a private hire vehicle licence"
+  }
+ ],
+ "title": {
+  "title": "Apply for a private hire vehicle licence",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Any vehicle that seats up to eight passengers and is available for hire with a driver requires a private hire vehicle (PHV) licence. It is the responsibility of the vehicle owner to apply for a licence.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The private hire regulations \u003ca href=\"/info-for/taxis-and-private-hire/new-private-hire-regulations\"\u003ehave recently changed\u003c/a\u003e . You should familiarise yourself with the changes before submitting your application.",
+     "Please see our guidance for more information:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Does my vehicle need to be licensed?\",\"url\":\"/cdn/static/cms/documents/does-my-vehicle-need-to-be-licensed.pdf\",\"icon\":\"download\",\"size\":\"PDF 59KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In order to qualify for a PHV licence the vehicle must meet the following age criteria:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Vehicles already licensed by us must be no older than 10 years at time of licensing\",\"From\\u003cstrong\\u003e1 January 2018\\u003c/strong\\u003e all PHVs licensed for the first time must have a Euro 6 petrol or diesel engine, or a Euro 4 petrol-hybrid engine \\u003ca href=\\\"/info-for/taxis-and-private-hire/emissions-standards-for-phvs\\\"\\u003ein order to meet new emission requirements\\u003c/a\\u003e .\"]}",
+     "There are certain exemptions to this criteria.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Book a vehicle inspection\"}",
+     "You must make a booking to have your vehicle inspected. The method through which you book your vehicle inspection will depend on the licensing and ownership status of your vehicle.",
+     "New to licensing:",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you are the owner or registered keeper of a private hire vehicle that has never been licensed in London and wish to make a booking online, you will either need to \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/register.page?org.apache.shale.dialog.DIALOG_NAME=contactus\\u0026displayName=Multi\\u0026DocTypeCode=urn:www.civica.co.uk:doctypes:TFLREG\\u0026menuId=4\\\"\\u003ecreate an online account\\u003c/a\\u003e or use your \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/signin.page?org.apache.shale.dialog.DIALOG_NAME=tphlogindialog\\u0026menuId=3\\u0026ReturnUrl=home.page%3FmenuId%3D2\\\"\\u003eexisting account\\u003c/a\\u003e of you already have one.\",\"During the booking process, you will need to provide information about your vehicle. Please ensure you have your V5/log book readily available for this.\"]}",
+     "Renewals:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can book your inspection by calling 0343 222 5555 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges apply\\u003c/a\\u003e ) or if you are the owner or registered keeper of a single vehicle you can \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/signin.page?org.apache.shale.dialog.DIALOG_NAME=tphlogindialog\\u0026menuId=3\\u0026ReturnUrl=home.page%3FmenuId%3D2\\\"\\u003e book your inspection slot through your online account\\u003c/a\\u003e \",\"If you have applied or renewed your private hire driver licence online, you will have an online account\\u003cstrong\\u003e already \\u003c/strong\\u003e set up. Please log in to your account and your vehicle licence will already be listed under the vehicle or licences tab. You\\u003cstrong\\u003e do not \\u003c/strong\\u003e need to create another account.\",\"If you cannot see your vehicle licence through your online account please call 0343 222 5555.\",\"If you\\u003cstrong\\u003edo not already\\u003c/strong\\u003e have an existing online account you can create one by going to our \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003eaccount page\\u003c/a\\u003e . You will be required to provide unique information regarding your vehicle licence which can be found on your renewal letter or obtained by calling 0343 222 5555.\"]}",
+     "Retests and Refunds",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you would like to book a retest (within 28 days of the first inspection) you can do so by calling 0343 222 5555 or your online account.\",\"If you would like to request a partial refund you can call 0343 222 5555\"]}",
+     "You will need the following original documents as they need to be presented when you take your vehicle in for inspection:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Existing PHV vehicle licence (if applicable)\",\"V5c DVLA Vehicle Registration Certificate\",\"Hire and reward insurance documents\",\"MOT certificate issued within the last 14 days\",\"Vehicle modification documents\",\"Any other relevant documentation relating to the vehicle, where appropriate, such as Voluntary Individual Vehicle Approval (VIVA)\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual.pdf\",\"icon\":\"download\",\"size\":\"PDF 320KB\",\"image\":{}},{\"title\":\"How to obtain a PHV licence\",\"url\":\"/cdn/static/cms/documents/phv-how-to-obtain-a-licence.pdf\",\"icon\":\"download\",\"size\":\"PDF 271KB\",\"image\":{}},{\"title\":\"NSL inspection site addresses\",\"url\":\"/cdn/static/cms/documents/nsl-inspection-sites-address-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 540KB\",\"image\":{}},{\"title\":\"What to do following an inspection failure\",\"url\":\"/cdn/static/cms/documents/following-inspection-failure-phv.pdf\",\"icon\":\"download\",\"size\":\"PDF 353KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"table\",\"rows\":[[\"Application fee\",\"£84 (non-refundable)\"],[\"Grant of licence fee\\u003cbr /\\u003e\",\"£56\\u003cbr /\\u003e\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exemptions\"}",
+     "To comply with air quality standards, all taxis and PHVs must be within certain age limits to be licensed. However, a few exemptions mean some vehicles can be licensed for an additional period. Find out more about the exemptions:",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Alternative fuel conversion exemption form\",\"url\":\"/cdn/static/cms/documents/alternative-fuel-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 488KB\",\"image\":{}},{\"title\":\"Disabled driver adaptations exemption form\",\"url\":\"/cdn/static/cms/documents/driver-disability-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 435KB\",\"image\":{}},{\"title\":\"Specialist needs adaptations exemption form\",\"url\":\"/cdn/static/cms/documents/specialist-needs-transport-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 313KB\",\"image\":{}},{\"title\":\"Wheelchair-accessible vehicles exemption form\",\"url\":\"/cdn/static/cms/documents/wheelchair-accessible-vehicles-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 311KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other exemptions\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Displaying front and rear licence discs\"}",
+     "All PHVs must display their vehicle licence discs. An exemption from\ndisplaying the discs may be applied if we feel it is\nappropriate to do so. We will consider:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Any exceptional circumstances\",\"The nature of the work to be carried out\",\"The security of the passengers\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Displaying rear licence disc only\"}",
+     "Exemptions will only be granted if you can  prove that displaying the rear licence disc is not possible due to the design of the vehicle eg the vehicle has no rear window.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Exemptions from seatbelt/seating capacity requirements\"}",
+     "You must prove that\ndue to the age and/or the original vehicle manufacturer's construction,\nthe current vehicle licensing criteria related to seatbelt and seating\ncapacity requirements does not apply.",
+     "Passenger safety is our main\npriority so this type of exemption will only be granted in\nexceptional circumstances, and only if you can demonstrate the need to\noperate a specialist vehicle (eg vintage/historical vehicle) due to\nthe services you offer your customers.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Exemption from the right hand drive requirements\"}",
+     "All PHVs must be right-hand drive vehicles. An exemption from this\nrequirement can be applied if you can prove that the\nright-hand drive requirement is not possible due to the services and\ntype of vehicle being used.  The following will be considered:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Details of the vehicle and why you have chosen to licence it as a private hire vehicle\",\"Details of your business and the service offered\",\"Details as to why other vehicles with right-hand steering could not provide the same service\"]}",
+     "You can apply for any of the above exemptions by completing\nand sending us an application form and any supporting evidence as required.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Vehicle related exemption form\",\"url\":\"/cdn/static/cms/documents/vehicle-related-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 316KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"More information\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Electronic payment devices in taxis and private hire vehicles\",\"url\":\"/cdn/static/cms/documents/electronic-payment-devices-in-taxis-and-private-hire-vehicles.pdf\",\"icon\":\"download\",\"size\":\"PDF 181KB\",\"image\":{}},{\"title\":\"Responsibilities of a PHV licensee\",\"url\":\"/cdn/static/cms/documents/responsibilities-of-a-phv-licensee.pdf\",\"icon\":\"download\",\"size\":\"PDF 151KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxi \u0026 private hire",
+    "links": [
+     {
+      "title": "Licensing",
+      "url": "/info-for/taxis-and-private-hire/licensing",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-driver-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a taxi vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-vehicle-licence",
+      "image": {}
+     },
+     {
+      "title": "Information for fleet owners",
+      "url": "/info-for/taxis-and-private-hire/licensing/information-for-fleet-owners",
+      "image": {}
+     },
+     {
+      "title": "Learn the Knowledge of London",
+      "url": "/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london",
+      "image": {}
+     },
+     {
+      "title": "Taxi top advertising",
+      "url": "/info-for/taxis-and-private-hire/licensing/taxi-top-advertising",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire driver licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-driver-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire vehicle licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-vehicle-licence",
+      "image": {}
+     },
+     {
+      "title": "Apply for a private hire operator licence",
+      "url": "/info-for/taxis-and-private-hire/licensing/private-hire-operator-licence",
+      "image": {}
+     },
+     {
+      "title": "Topographical assessment",
+      "url": "/info-for/taxis-and-private-hire/licensing/topographical-assessment",
+      "image": {}
+     },
+     {
+      "title": "Existing licensee",
+      "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Licensing information",
+      "url": "/info-for/taxis-and-private-hire/licensing/licensing-information",
+      "image": {}
+     },
+     {
+      "title": "Licence checker",
+      "url": "/info-for/taxis-and-private-hire/licensing/licence-checker",
+      "image": {}
+     },
+     {
+      "title": "Compliance and enforcement",
+      "url": "/info-for/taxis-and-private-hire/compliance-and-enforcement",
+      "image": {}
+     },
+     {
+      "title": "Ranks, regulation and policy",
+      "url": "/info-for/taxis-and-private-hire/ranks-regulation-and-policy",
+      "image": {}
+     },
+     {
+      "title": "News and updates",
+      "url": "/info-for/taxis-and-private-hire/driver-news-and-updates",
+      "image": {}
+     },
+     {
+      "title": "Contact Taxi \u0026 Private Hire",
+      "url": "/info-for/taxis-and-private-hire/contact-taxis-and-private-hire",
+      "image": {}
+     },
+     {
+      "title": "Taxi and private hire comments",
+      "url": "/info-for/taxis-and-private-hire/taxi-and-private-hire-comments",
+      "image": {}
+     },
+     {
+      "title": "Taxi delicensing",
+      "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxi \u0026 private hire",
+     "url": "/info-for/taxis-and-private-hire/taxi-delicensing-scheme",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfLTPH",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

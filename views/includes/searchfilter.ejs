@@ -1,0 +1,21 @@
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title h5"><%= card.title %></h3>
+    <% if (card.texts) { %>
+      <% for (let text of card.texts) { %>
+        <p class="card-text"><%- text %></p>
+    <% } } %>
+    <form class="form-inline" action="<%= card.link.url %>" method="GET">
+      <input type="hidden" name="DataSetsJson" value="<%- card.datasets %>">
+      <input type="hidden" name="Modes" value="<%- card.modes %>">
+      <label for="searchPlace" class="sr-only"><%= card.placeholder %></label>
+      <div class="input-group w-100">
+        <input name="input" id="searchPlace" type="text" class="form-control" placeholder="<%= card.placeholder %>" aria-label="Search for another <%= card.placeholder %>">
+        <div class="input-group-append">
+          <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+          <button class="btn btn-primary" type="submit"><%= card.link.button %></button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,170 @@
+{
+ "pageTitle": "Meet our current apprentices",
+ "keywords": "TfL",
+ "description": "Meet the future stars of the TfL apprenticeship scheme",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Apprenticeships",
+   "url": "/corporate/careers/apprenticeships"
+  },
+  {
+   "title": "Meet our current apprentices"
+  }
+ ],
+ "title": {
+  "title": "Meet our current apprentices",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out more about what it's really like to be one of our apprentices.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bethany-case-study-apprenti_rdax_400x250.jpg\",\"alt\":\"Apprenticeship Bethany case study\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Crossrail Engineering apprentice\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bethany Clark\"}",
+     "\u003cstrong\u003e\"It ticked all the boxes for what I wanted to learn and achieve.\"\u003c/strong\u003e ",
+     "My goal is to be a fully qualified railway engineer and I'm on track to reach this through the Crossrail apprenticeship scheme.",
+     "Before joining TfL, I left school with nine GCSE's and went on to do an advanced technology BTEC in engineering at Procat College. I  joined the Crossrail scheme in September (2016) because it ticked all the boxes for what I wanted to learn and achieve.",
+     "Since starting the scheme I've had a mix of classroom-taught learning as well as the hands-on experience. You get so much support on the scheme and I am excited to start my first placement out in the business where I can start applying my new knowledge and really make a difference.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/josh-torlot-apprentices-cas_rdax_400x250.jpg\",\"alt\":\"Apprentices case study, Josh Torlot\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quantity Surveying apprentice\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Joshua Torlot\"}",
+     "\u003cstrong\u003e\"I can say I definitely made the right decision.\"\u003c/strong\u003e ",
+     "I joined TfL on the Quantity Surveying scheme after considering both university and an apprenticeship. I'm glad I chose to do an apprenticeship and would definitely recommend this scheme. Since joining I've developed lots of skills, from social and personal to professional skills.",
+     "The best thing about the scheme is that you're fully supported, and by the time I finish I'll  have just as good a qualification as someone who went to university.  I'll also have experience which puts me in a good position to continue developing my career and work towards chartership. I can say I've definitely made the right decision.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/apprentices-muhammad-case-s_rdax_400x250.jpg\",\"alt\":\"Apprentices case study, Muhammad Patel\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Engineering apprentice\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Muhammad Shiraj Patel\"}",
+     "\u003cstrong\u003e\"You get the chance to earn while you learn.\"\u003c/strong\u003e ",
+     "I always wanted to be proud of where I worked. I did have other options when I was leaving school but by the time I finished I knew that an apprenticeship was right for me. You get the chance to earn while you learn, working towards professional qualifications as part of your day job.",
+     "TfL's engineering apprenticeship opens up so many opportunities as it gives you experiences in a range of engineering placements.  Everyday our service is used and I love knowing that what I do makes a difference.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/apprentices-rebecca-case-st_rdax_400x250.jpg\",\"alt\":\"Apprentices case study, Rebecca\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Human Resources (HR)\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Rebecca Sabine-Simpson\"}",
+     "\u003cstrong\u003e\"Everyone is so friendly\"\u003c/strong\u003e ",
+     "I think a common misconception for people outside of the organisation is that if you work for TfL you're probably a train driver, but there are so many more roles and people working behind the scenes to help 'keep London moving.' It's really interesting to see how all these teams work cohesively to achieve this.",
+     "Everyone is so friendly, and as a young apprentice it was nice to come into an organisation that was so welcoming and knowing that people want you to do well.",
+     "So far on my scheme I've worked in a variety of HR teams, which have all performed very different functions, but now I'm in my year-long placement with the HR Business Partners. One exciting project I  recently worked on involved helping the Smart Sourcing team. We helped people who might not otherwise have been able to (because of things like gaps in their career), get back into the workplace. We worked with ex-military personnel, women and ex-offenders, and it was really interesting to hear their stories."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Why TfL?",
+      "url": "/corporate/careers/apprenticeships/why-tfl",
+      "image": {}
+     },
+     {
+      "title": "How to apply",
+      "url": "/corporate/careers/apprenticeships/application-process",
+      "image": {}
+     },
+     {
+      "title": "Choosing your apprenticeship",
+      "url": "/corporate/careers/apprenticeships/choosing-your-apprenticeship",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeship schemes",
+      "url": "/corporate/careers/apprenticeships/apprenticeship-schemes",
+      "image": {}
+     },
+     {
+      "title": "Degree apprenticeships",
+      "url": "/corporate/careers/apprenticeships/degree-apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Meet our current apprentices",
+      "url": "/corporate/careers/apprenticeships/what-s-it-really-li",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/employability-toolkit",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

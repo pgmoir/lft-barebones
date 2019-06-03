@@ -1,0 +1,62 @@
+{
+ "pageTitle": "Reason for registration",
+ "keywords": "TfL",
+ "description": "Registration reason",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Register a vehicle for LEZ and ULEZ",
+   "url": "/modes/driving/compliance-registration/before-you-start"
+  },
+  {
+   "title": "Reason for registration"
+  }
+ ],
+ "title": {
+  "title": "Reason for registration",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Register your vehicle if you believe it meets the ULEZ and/or the LEZ emissions standards, should be exempt or qualifies for a 100% showman's discount.",
+     "Register your vehicle if you believe it meets the ULEZ emissions standard and you shouldn't have to pay the charge.",
+     "Vehicles must meet emission standards for nitrogen oxides (NOx) to comply with the ULEZ - diesel vehicles must also meet particulate matter (PM) standards:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Euro 3 for motorcycles, mopeds, motorised tricycles and quadricycles (L category)\",\"Euro 4 for petrol cars, vans, minibuses and other specialist vehicles\",\"Euro 6 for diesel cars, vans and minibuses and other specialist vehicles\",\"Euro VI for lorries, buses and coaches and other specialist heavy vehicles\"]}",
+     "Vehicles must meet standards for particulate matter (PM) to comply with the LEZ:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Lorries, buses and coaches need to meet Euro IV emissions standards for particulate matter (PM)\",\"Larger vans, minbuses and other specialist vehicles need to meet Euro 3 emissions standards for particulate matter (PM)\"]}",
+     "Cars and motorcycles are not subject to the LEZ.",
+     "Vehicles must meet emission standards for nitrogen oxides (NOx) to comply with the ULEZ - diesel vehicles must also meet particulate matter (PM) standards.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Euro 3 for motorcycles, mopeds, motorised tricycles and quadricycles (L category)\",\"Euro 4 for petrol cars, vans, minibuses and other specialist vehicles\",\"Euro 6 for diesel cars, vans and minibuses and other specialist vehicles\",\"Euro VI for lorries, buses and coaches and other specialist heavy vehicles\"]}",
+     "Vehicles with retrofit technologies or built to a higher standard than mandatory at the time ('early adopters') may meet the emissions standards. Register with us if you believe that’s the case. Until then you need to pay to drive within the ULEZ. Some modified or specially constructed vehicles qualify for a 100% discount from ULEZ charges if registered to someone in the business of a travelling showman."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

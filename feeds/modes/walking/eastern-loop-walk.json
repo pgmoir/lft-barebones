@@ -1,0 +1,168 @@
+{
+ "pageTitle": "The Eastern Loop",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Walking",
+   "url": "/modes/walking/index"
+  },
+  {
+   "title": "Walk London",
+   "url": "/modes/walking/top-walking-routes"
+  },
+  {
+   "title": "Jubilee Walkway",
+   "url": "/modes/walking/jubilee-walkway"
+  },
+  {
+   "title": "The Eastern Loop"
+  }
+ ],
+ "title": {
+  "title": "The Eastern Loop ",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Section two of the Jubilee Walkway is the Eastern Loop Walk: a circular trip around some of London's most iconic buildings and sights.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Route information\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Section start and finish: Tate Modern\",\"Nearest public transport to the start: Blackfriars (Tube/Rail)\",\"Section distance: 3.4 miles (5.5 km)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Southwark Cathedral\",\"HMS Belfast\",\"Tower Bridge\",\"Monument\",\"Mansion House\",\"Shakespeare's Globe\",\"Tate Modern\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Map\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"The Eastern Loop section 2\",\"url\":\"/cdn/static/cms/documents/jubilee-walkway-route-section-two.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.18MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Walking",
+    "links": [
+     {
+      "title": "Walk London",
+      "url": "/modes/walking/top-walking-routes",
+      "image": {}
+     },
+     {
+      "title": "Capital Ring Walk",
+      "url": "/modes/walking/capital-ring",
+      "image": {}
+     },
+     {
+      "title": "Green Chain Walk",
+      "url": "/modes/walking/green-chain-walk",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Greenway",
+      "url": "/modes/walking/jubilee-greenway",
+      "image": {}
+     },
+     {
+      "title": "Jubilee Walkway",
+      "url": "/modes/walking/jubilee-walkway",
+      "image": {}
+     },
+     {
+      "title": "The Western Loop",
+      "url": "/modes/walking/western-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "The Eastern Loop",
+      "url": "/modes/walking/eastern-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "The City Loop",
+      "url": "/modes/walking/the-city-loop",
+      "image": {}
+     },
+     {
+      "title": "The Camden Loop",
+      "url": "/modes/walking/the-camden-loop",
+      "image": {}
+     },
+     {
+      "title": "The Jubilee Loop",
+      "url": "/modes/walking/the-jubilee-loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Lea Valley Walk",
+      "url": "/modes/walking/lea-valley",
+      "image": {}
+     },
+     {
+      "title": "London LOOP",
+      "url": "/modes/walking/loop-walk",
+      "image": {}
+     },
+     {
+      "title": "Thames Path",
+      "url": "/modes/walking/thames-path",
+      "image": {}
+     },
+     {
+      "title": "Health and walking",
+      "url": "/modes/walking/health-and-walking",
+      "image": {}
+     },
+     {
+      "title": "Find your way around",
+      "url": "/modes/walking/find-your-way-around",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Walking",
+     "url": "/modes/walking/find-your-way-around",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

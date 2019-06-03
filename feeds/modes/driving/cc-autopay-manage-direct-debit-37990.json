@@ -1,0 +1,60 @@
+{
+ "pageTitle": "Set up direct debit",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Set up direct debit"
+  }
+ ],
+ "title": {
+  "title": "Set up direct debit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "This is the address the bank/building society account is registered to. Correspondence from us will only be sent to this address if it is also the address saved in your London Road User Charging account.",
+     "298608",
+     "This Guarantee is offered by all banks and building societies that accept instructions to pay direct debits.",
+     "If there are any changes to the amount, date or frequency of your direct debit, Transport for London will notify you no more than 10 working days in advance of your account being debited. Notifications will be sent either by email or post depending on your account preferences you have set with us.",
+     "If you request that Transport for London collects a payment, confirmation of the amount and date will be given to you at the time of the request.",
+     "If an error is made in the payment of your direct debit by Transport for London or your bank or building society, you are entitled to a full and immediate refund of the amount paid from your bank or building society. If you receive a refund you are not entitled to, you must pay it back when Transport for London asks you to.",
+     "You can cancel a direct debit at any time by simply contacting your bank or building society - written confirmation may be required. Please also notify Transport for London.",
+     "Questions or further information about your direct debit can be directed to Transport for London:",
+     "\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca class=\"allow-exit\"href=\"mailto:CCLondon@CCLondon.com\"\u003eCCLondon@CCLondon.com\u003c/a\u003e \u003cbr /\u003e\u003cstrong\u003ePhone:\u003c/strong\u003e 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003e\u003cstrong\u003eAddress:\u003c/strong\u003e \u003cbr /\u003eCongestion Charging\u003cbr /\u003ePO Box 344\u003cbr /\u003eDarlington DL1 9QE"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

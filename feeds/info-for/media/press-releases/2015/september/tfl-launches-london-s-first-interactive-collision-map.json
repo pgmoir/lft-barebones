@@ -1,0 +1,272 @@
+{
+ "pageTitle": "TfL launches London's first interactive collision map",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2015",
+   "url": "/info-for/media/press-releases/2015"
+  },
+  {
+   "title": "September",
+   "url": "/info-for/media/press-releases/2015/september"
+  },
+  {
+   "title": "TfL launches London’s first interactive collision map"
+  }
+ ],
+ "title": {
+  "title": "TfL launches London’s first interactive collision map",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Digital map shows road collision history across London"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"bulletlist\",\"items\":[\"Part of work to halve the number of people killed and seriously injured (KSI) by 2020\",\"TfL publish annual road safety report highlighting fall in KSIs and outlining how they will meet the ambitious safety target\"]}",
+     "The Mayor of London and Transport for London (TfL) today launched the Capital's first interactive digital collision map, which is part of a continued drive to improve road safety awareness to reduce the number of casualties in the Capital.",
+     "The \u003ca href=\"https://tfl.gov.uk/corporate/safety-and-security/road-safety/london-collision\"\u003eLondon Collision Map\u003c/a\u003e uses extensive data, collected by the Police and held by TfL, to shine a light on road collisions in local areas. This creates a useful new way to inform road users about junctions with high collision histories and aiding improvement work in line with TfL's commitment to improve transparency for customers and stakeholders.",
+     "The map allows anyone to easily search for collisions anywhere within London, providing information about when, where and how severe incidents were, which date back to 2005. The aim is to help raise awareness of road conditions and encourage road users to take extra care at junctions.",
+     "It comes as the Mayor and TfL publish their Annual Road Safety report, which highlights the safety performance and improvements that have been made on the Capital's roads in the last 12 months. During 2014, the number of people killed or seriously injured (KSI) fell to its lowest level since records began.",
+     "The report also outlines the Mayor's new target, set earlier this year, to halve the number of KSIs by 2020 compared to the Government base line - meaning a reduction of more than 14,000 deaths or serious injuries over the life of London's road safety plan to 2020.",
+     "Isabel Dedring, Deputy Mayor for Transport, said:",
+     "'Safety continues to improve on London's roads, but we are not complacent. It is a top priority and that's why the Mayor set a new target to bring down the number of people killed or seriously injured even further. This map is part and parcel of our drive to improve road safety awareness and complements ongoing work to overhaul and improve London's key roads and junctions.'",
+     "Leon Daniels, Managing Director of Surface Transport at TfL, said:",
+     "'This mapping tool will enable us to work with our partners and local communities to make significant improvements in road safety. Alongside major modernisation work at junctions, effective enforcement by the Police and action to make lorries safer, this is one of many measures we are taking to further reduce the number of people killed or seriously injured on our roads.'",
+     "TfL already uses collision data to identify areas where additional road safety improvements are required and works closely with the Police to increase the amount of data it has access to. By combining it with traffic flow data, traffic counts and bus information, they are able to identify locations where more targeted enforcement and additional engagement with local communities can be made to improve safety.",
+     "The collision data is made available to the public with provisional collision data updated at regular intervals throughout the year. In the coming months, an API (Application Programme Interface) will be released to enable software developers to create applications that will help drive further improvements in road safety.",
+     "Academics, researchers and TfL will also be able to blend the data with other sources to look for wider, long-term trends across London and the South East. Further changes to the TfL webpage are also planned in the future to help all Londoners make the best use of this data.",
+     "As outlined in the Annual Road Safety report, TfL will continue to work with the boroughs, key stakeholders and all road users towards removing death and serious injury completely from the Capital's roads. A range of work is underway through the Safe Streets for London plan, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Major infrastructure improvements as part of the Mayor's £4bn Road Modernisation Plan, including safer junctions and extensive new segregated and partially-segregated cycle lanes;\",\"Road safety and cycle training across all 33 London boroughs alongside wide ranging information campaigns that target the main causes of death and serious injury on London's roads;\",\"Road safety operations with the Metropolitan Police Service Roads and Transport Policing Command, where hundreds of officers are deployed to junctions across London to advise road users and enforce the rules of the road;\",\"Improving freight safety with the design of safer urban construction vehicles, reducing blind-spots and improving drivers' direct vision to give maximum visibility of vulnerable road user;\",\"Trialling innovative technology such as Intelligent Speed Adaptation (ISA) on our buses to limit speeds.\"]}",
+     "For more information about the wider work TfL is carrying out with the boroughs to deliver road safety improvements across London, please visit \u003ca href=\"http://www.tfl.gov.uk/roadsafety\"\u003ewww.tfl.gov.uk/roadsafety\u003c/a\u003e ",
+     "Notes to Editors:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The 2014 Road Casualties and Collisions report can be downloaded from here: \\u003ca href=\\\"https://tfl.gov.uk/cdn/static/cms/documents/collisions-and-casualties-on-londons-roads-annual-report-2014.pdf\\\"\\u003ehttps://tfl.gov.uk/cdn/static/cms/documents/collisions-and-casualties-on-londons-roads-annual-report-2014.pdf\\u003c/a\\u003e \",\"This shows that compared to 2013:\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The number of people killed or seriously injured was down seven per cent, meaning that London has now met the Mayor's previous target of a 40 per cent reduction in casualties six years early;\",\"Pedestrians and car occupants killed or seriously injured fell by seven per cent and six per cent respectively to their lowest ever levels;\",\"The number of cyclists killed or seriously injured was down 12 per cent, despite huge increases in the number of people cycling;\",\"The number of children killed or seriously injured fell to the lowest level recorded, down 11 per cent.  This means that child road deaths have been reduced from 18 in 2000 to three in 2014.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"In 2014, the proportion of KSIs as a total of all casualties in Great Britain - excluding London - was 14 per cent, double that of London which saw only seven per cent of all casualties being KSIs. Between 2013 and 2014 both GB and London showed an increase in the total number of casualties - however, whilst London had a decrease in the total number of fatal or serious injuries, the rest of GB showed an increase of seven per cent. Specifically - London saw pedestrian KSIs fall seven per cent and cycling KSIs fall twelve per cent while the rest of the GB saw increases of four per cent and twelve per cent respectively.\",\"To further understand the increase in slight injuries to road users since 2007, TfL is carrying out intensive analysis to understand long term trends. This analysis includes examining whether the increases could be in part linked to London's continued population growth, with more journeys now being made every day on London's roads, particularly by bicycle.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2015/december",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2015/november",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2015/october",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2015/september",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2015/august",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2015/july",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2015/june",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2015/may",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2015/april",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2015/march",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2015/february",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2015/january",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

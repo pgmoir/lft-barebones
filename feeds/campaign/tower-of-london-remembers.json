@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Tower of London remembers",
+ "keywords": "TfL",
+ "description": "Page for travel demand management information around the Tower of London WW1 remembrance artwork",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "Tower of London remembers"
+  }
+ ],
+ "title": {
+  "title": "Tower of London remembers",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Large numbers of people are visiting the Tower of London's major art installation Beyond the Deepening Shadow, marking 100 years since the end of the First World War.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Beyond the Deepening Shadow: The Tower Remembers run for eight nights, from Sunday 4 November to Sunday 11 November 2018.",
+     " \u003ca href=\"https://www.hrp.org.uk/tower-of-london/explore/the-tower-remembers/\"\u003eRead more about Beyond the Deepening Shadow: The Tower Remembers\u003c/a\u003e ",
+     "If you are travelling to and from the Tower of London, please plan ahead and allow extra time for your journey.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube and rail travel advice\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tower Hill station is very busy every evening because of the event. The station may be exit-only due to large numbers of visitors\",\"If you are travelling to the Tower of London, please use Aldgate, Aldgate East, Tower Gateway, Monument and London Bridge stations, which are a short walk away\",\"To plan ahead on the day \\u003ca href=\\\"/plan-a-journey/index\\\"\\u003evisit Journey Planner\\u003c/a\\u003e \",\"Use \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"For information on Tube, DLR and London Overground services follow \\u003ca href=\\\"https://twitter.com/TfLTravelAlerts\\\"\\u003e@TfLTravelAlerts\\u003c/a\\u003e on Twitter\",\"Check our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \",\"Use the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking routes from stations\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Walking routes map\",\"url\":\"/cdn/static/cms/documents/tower-of-london-walking-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 537KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus travel advice\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can use bus routes 15, 42, 78, 100 and RV1 to reach the Tower of London.  These routes stop within 5 to 10 minutes' walking distance of the Tower of London.\",\"Bus routes to and from the Tower of London may be busier than usual\",\"To plan ahead on the day \\u003ca href=\\\"/plan-a-journey/index\\\"\\u003evisit Journey Planner\\u003c/a\\u003e \",\"For the latest information on bus services \\u003ca href=\\\"https://twitter.com/TfLBusAlerts\\\"\\u003efollow @TfLBusAlerts on Twitter\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River travel advice\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tower Millennium Pier is likely to be busier than usual. Allow extra time for journeys or take alternative routes if possible\",\"For the latest information on TfL's river services \\u003ca href=\\\"https://twitter.com/TfLriver\\\"\\u003efollow @TfLRiver on Twitter\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Road travel advice - drivers\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Please avoid driving to the area if possible. If driving is your only option, be aware that there is no parking at the Tower of London and roads will be busy\",\"Road closures and diversions will be in place due to the Lord Mayor's Show and Remembrance Day events especially around City of London and Westminster\",\" \\u003ca href=\\\"/roads/status/?disruptionIds=TIMS-65264\\\"\\u003eView current disruptions\\u003c/a\\u003e . For the latest information on how London roads are operating, check before you travel and \\u003ca href=\\\"https://twitter.com/TfLtrafficnews\\\"\\u003efollow @TfLTrafficNews on Twitter\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Road travel advice - cyclists\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can travel to Tower Hill by bike - Cycle Superhighway 3 will remain open throughout\",\"If you plan on taking your bike on public transport, remember that restrictions apply including on train operating companies outside London. Read \\u003ca href=\\\"/modes/cycling/cycling-in-london/bikes-on-public-transport\\\"\\u003eour guidance regarding bikes on public transport\\u003c/a\\u003e or your train operating company's website\",\"For Santandar Cycle Hire docking station availability use our \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003elive docking station map\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.twitter.com/SantanderCycles\\\"\\u003eFollow @SantanderCycles on Twitter\\u003c/a\\u003e for the latest updates\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "pageTitle": "FOI exemptions \u0026 charges",
+ "keywords": "TfL",
+ "description": "Exemptions and charges for Freedom of Information requests",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transparency",
+   "url": "/corporate/transparency/index"
+  },
+  {
+   "title": "Freedom of Information",
+   "url": "/corporate/transparency/freedom-of-information"
+  },
+  {
+   "title": "FOI exemptions \u0026 charges"
+  }
+ ],
+ "title": {
+  "title": "FOI exemptions \u0026 charges",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Freedom of Information (FOI) Act 2000 provides a right to request access to all types of recorded information held by public authorities. This includes Transport for London and its subsidiary companies (including Crossrail Ltd).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Although we answer the majority of requests in full, we do hold some information that we have a duty to protect. The law recognises this and some information is exempt from disclosure under the FOI Act. If disclosure would cause genuine harm then it is likely that an exemption will apply. We consider every request individually, but the main reasons for withholding information under an exemption fall into six broad categories:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Disclosure of personal information would affect someone's privacy\",\"Disclosure would be detrimental to justice or the environment\",\"Disclosure would breach confidentiality obligations or prejudice commercial interests\",\"Disclosure could put someone at risk of harm\",\"We intend to publish the information in the future\",\"The request is clearly unreasonable\"]}",
+     "If there is a reason why we can't provide all the information that you have requested, we will write to you and explain why. We will tell you how to appeal if you disagree with our decision, and we will provide advice and assistance should you want to resubmit your request.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cost limits\"}",
+     "We have a duty to use public funds effectively. One way that we do this is by making popular information available on our website.",
+     "Another way is by managing the cost of responding to individual FOI requests. We may refuse to answer an FOI request if the cost of determining whether we hold the information, and the cost of locating, retrieving and extracting the information would exceed £450. This cost limit is equivalent to 18 hours work calculated at a rate set by law at £25 per hour. We can combine requests made by one person, or made by a number of people who appear to be working together to obtain information on a similar theme.",
+     "If we can't give an answer within the cost limit, we will advise you on refining and resubmitting your request."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Transparency",
+    "links": [
+     {
+      "title": "Audit of accounts",
+      "url": "/corporate/transparency/audit-of-accounts---notice-of-public-rights",
+      "image": {}
+     },
+     {
+      "title": "Freedom of Information",
+      "url": "/corporate/transparency/freedom-of-information",
+      "image": {}
+     },
+     {
+      "title": "Search",
+      "url": "/corporate/transparency/freedom-of-information/search",
+      "image": {}
+     },
+     {
+      "title": "Make a request",
+      "url": "/corporate/transparency/freedom-of-information/foi-make-request",
+      "image": {}
+     },
+     {
+      "title": "FOI exemptions \u0026 charges",
+      "url": "/corporate/transparency/freedom-of-information/foi-exemptions-and-charges",
+      "image": {}
+     },
+     {
+      "title": "Appealing about an FOI response",
+      "url": "/corporate/transparency/freedom-of-information/appealing-about-an-foi-response",
+      "image": {}
+     },
+     {
+      "title": "FOI performance",
+      "url": "/corporate/transparency/freedom-of-information/foi-performance",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Transparency",
+     "url": "/corporate/transparency/freedom-of-information/foi-performance",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

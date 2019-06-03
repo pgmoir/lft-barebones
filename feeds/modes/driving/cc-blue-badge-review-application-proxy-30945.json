@@ -1,0 +1,51 @@
+{
+ "pageTitle": "Review application",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Review application"
+  }
+ ],
+ "title": {
+  "title": "Review application",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "I confirm that I have read, understood and accept the \u003ca href=\"/corporate/terms-and-conditions/pay-to-drive-in-london\"target=\"_blank\"\u003eBlue Badge discount terms and conditions\u003c/a\u003e ",
+     "You need to pay a £10 registration charge before the application can be considered.",
+     "You won't need to pay it again if the discount is renewed within 90 days after the discount expiry date.",
+     "The discount expiry will be aligned with the expiry date of the Blue Badge - unless the Blue Badge was issued outside of the United Kingdom in which case the discount will run for 1 year."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

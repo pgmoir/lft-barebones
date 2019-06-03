@@ -1,0 +1,56 @@
+{
+ "pageTitle": "Update payment details",
+ "keywords": "TfL",
+ "description": "Change the way you pay us and all future monthly payments will be taken using your new payment method.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Update payment details"
+  }
+ ],
+ "title": {
+  "title": "Update payment details",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Change the way you pay us and all future monthly payments will be taken using your new payment method.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you are not the bank/building society account holder, or more than one person is required to authorise debits from this account, you will not be able to authorise a Direct Debit mandate online.",
+     "All correspondence regarding this Direct Debit mandate will be sent using the preferred contact details on your London Road User Charging account.",
+     "I confirm that I am the bank/building society account holder, and/or I have the sole responsibility for authorising debits from this account."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

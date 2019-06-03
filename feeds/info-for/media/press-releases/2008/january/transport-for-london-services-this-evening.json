@@ -1,0 +1,73 @@
+{
+ "pageTitle": "Transport for London services this evening",
+ "description": "London Buses is also experiencing disruption with a number of routes on diversion or part-suspended.Throughout the day, fallen trees and other debris have caused disruption to most open sections of the Tube network.Speed restrictions have also been",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Transport for London services this evening",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) services are disrupted this evening due to strong winds with some London Underground (LU) lines part-suspended and others operating with severe delays."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "LU and London Buses are mutually accepting one another's tickets for travel via any reasonable route",
+     "London Buses is also experiencing disruption with a number of routes on diversion or part-suspended.",
+     "Throughout the day, fallen trees and other debris have caused disruption to most open sections of the Tube network.",
+     "Speed restrictions have also been introduced on some open sections of the Tube network for safety reasons.",
+     "LU is working with infrastructure companies Tube Lines and Metronet to remove debris from tracks as quickly as possible but inevitably this will result in disruption to services.",
+     "Disruption is also being experienced on the Docklands Light Railway, London River Services, Croydon Tramlink and National Rail services.",
+     "LU and London Buses are mutually accepting one another's tickets for travel via any reasonable route.",
+     "LU will also accept valid National Rail and Docklands Light Railways tickets via any reasonable route.",
+     "The advice to passengers is to check before you travel this evening via the following options and allow extra time for journeys:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The TfL website: \\u003ca href=\\\"http://www.tfl.gov.uk/realtime\\\"\\u003ewww.tfl.gov.uk/realtime\\u003c/a\\u003e \",\"The London Travel Information 24-hour telephone helpline: 020 7222 1234\",\"BBC Ceefax, page 436, or ITV's Teletext, page 164\",\"Information on 'Good Service' boards at Tube stations\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

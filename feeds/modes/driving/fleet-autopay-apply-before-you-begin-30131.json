@@ -1,0 +1,64 @@
+{
+ "pageTitle": "Set up Fleet Auto Pay",
+ "keywords": "TfL",
+ "description": "Fleet Auto Pay automatically records the number of charging days a vehicle travels within the Congestion Charge zone, and then bills users each month.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Set up Fleet Auto Pay"
+  }
+ ],
+ "title": {
+  "title": "Set up Fleet Auto Pay",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Fleet Auto Pay lets you pay the Congestion Charge and Ultra Low Emission Zone (ULEZ) charge automatically each month for 6 or more vehicles.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you start\"}",
+     "To set up Fleet Auto Pay you will need a business account. Already have an account? \u003ca href=\"/modes/driving/account-account-landing-29377\"\u003eSign in now\u003c/a\u003e .",
+     "You need to set up a direct debit and upload one of the following:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eRegistered companies\\u003c/strong\\u003e - headed paper with your company number OR a copy of your company's Certificate of Incorporation (issued by Companies House or the equivalent within an EEA state)\",\"\\u003cstrong\\u003ePublic organisations\\u003c/strong\\u003e - headed paper including organisation name (further proof may be needed for verification)\",\"\\u003cstrong\\u003eCharities\\u003c/strong\\u003e - headed paper including organisation name and registered charity number\"]}",
+     "Your application can take up to 10 working days to be approved. Once it is approved, you will be able to add vehicles (a minimum of 6 vehicles). There is a £10 annual registration charge for each vehicle you add.",
+     "Once your vehicles are added, Fleet Auto Pay will be active.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fewer than 6 vehicles?\"}",
+     "Use Auto Pay instead - there's no minimum number of vehicles, and a maximum of 5.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/auto-pay\\\"\\u003eSet up Auto Pay\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

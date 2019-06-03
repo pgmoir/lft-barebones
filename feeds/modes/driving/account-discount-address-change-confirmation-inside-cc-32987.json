@@ -1,0 +1,62 @@
+{
+ "pageTitle": "Application in progress",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Application in progress"
+  }
+ ],
+ "title": {
+  "title": "Application in progress",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your address change request has been submitted\"}",
+     "We aim to respond to you within the next 10 working days.",
+     "Reference number: {0}",
+     "We will review your application along with your supporting documents and let you know if your address change request has been successful.",
+     "If we do not have the correct supporting documents we will not be able to make the change to your address details, and your residents' discount may be cancelled.",
+     "If you are sending copies of your documents by post, please either:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Print this page and send it with your documents OR\",\"Quote your account number on each piece of correspondence\"]}",
+     "This will speed up the application process.",
+     "\u003cstrong\u003eAddress:\u003c/strong\u003e ",
+     "Congestion Charging\u003cbr /\u003ePO Box 344\u003cbr /\u003eDarlington\u003cbr /\u003eDL1 9QE",
+     "If you prefer to email images or copies of your documents, send them to:",
+     " \u003ca href=\"mailto:CCLondon@CCLondon.com\"\u003eCCLondon@CCLondon.com\u003c/a\u003e ",
+     "You will need to submit your documents within the next 10 working days or your request will be cancelled and you may become ineligible for the discount.",
+     "We will review your application along with your supporting documents and let you know if your address change request has been successful.",
+     "If we do not have the correct supporting documents we will not be able to make the change to your address details, and your residents' discount may be cancelled."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

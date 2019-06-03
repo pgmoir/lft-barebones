@@ -1,0 +1,147 @@
+{
+ "pageTitle": "Residential repairs",
+ "keywords": "TfL",
+ "description": "How to contact us for repairs on property you lease from us",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial properties",
+   "url": "/info-for/business-and-commercial/commercial-properties"
+  },
+  {
+   "title": "Managing my property",
+   "url": "/info-for/business-and-commercial/managing-my-property"
+  },
+  {
+   "title": "Residential tenants",
+   "url": "/info-for/business-and-commercial/residential-tenants"
+  },
+  {
+   "title": "Residential repairs"
+  }
+ ],
+ "title": {
+  "title": "Residential repairs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you need to report a building defect - emergency or otherwise - during normal working hours (Monday to Friday, 09:00-17:00), call our helpdesk on 020 7027 5792.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Outside of these hours,\u003cstrong\u003eemergencies only\u003c/strong\u003e should be reported to HA Marks on 020 3633 4224.",
+     "When you contact us, give us your name, the full address of the property and a contact telephone number.",
+     "If contractors are called to deal with something you, as the tenant, claimed was an emergency but was not, the costs of the call out will be recharged to you.",
+     "A maintenance surveyor might need to call at your property to inspect the repair before an order is raised to an external contractor. This may be to check if a special repair is needed or if something needs to be  replaced rather than repaired.",
+     "For general enquiries about the property you occupy, contact your property surveyor.",
+     "Under Sections 11 to 16 of the Landlord and Tenant Act 1985 (as superseded by the Housing Act 1988), we, as your landlord, are responsible for the repair of the structure and exterior of your premises and certain installations for the supply of gas, water and electricity and sanitation.",
+     "Please check these responsibilities before contacting us about a repair.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our responsibilities\"}",
+     "We are responsible for carrying out repairs to the structure and exterior of the building, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Drains, gutters and external pipes\",\"Roof, foundations, walls, doors and windows\",\"Any chimney and chimney stack, excluding sweeping\",\"Any paths, steps, entrances to the property and fences previously installed by London Underground\",\"Major plaster works\",\"Painting (exterior only)\",\"Installation for heating, hot water, sanitation, the supply of gas and electricity (from the meters)\",\"Basins, sinks, baths, toilets and cisterns\",\"Waste pipes, overflows and other plumbing\",\"Electrical fittings and wiring\",\"Plumbing (excluding appliances supplied by the tenant)\",\"Individual heaters, heating systems and hot water appliances previously installed by London Underground\",\"Communal areas to blocks of flats such as corridors, stairways and entrances\",\"Communal facilities like television aerials, door entry systems, rubbish chutes, lifts and stairway lighting\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your responsibilities\"}",
+     "As a tenant, you are responsible for the internal decoration of the property and any fittings that belong to you or have been installed by you, for example any cooker, washing machine, fridge freezer, curtain rails, additional kitchen fittings or shower fittings (if installed by you).",
+     "You must also make minor repairs internal to your property, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Letter boxes, flaps, door knockers and door bells, door locks, latches and bolts\",\"Kitchen cupboard door handles, catches and hinges\",\"Kitchen drawer handles\",\"Plugs and chains to sinks, wash-hand basins and baths\",\"Hat and coat rails and hooks\",\"Pull chain or cord to high level toilet flushing cistern\",\"Any fire grates, surrounds and bars\",\"Electric plugs (but excluding plug sockets)\",\"Replacement of any internal cracked or broken glass\",\"Draught-proofing of doors and windows\",\"Minor cracks to plasterwork\"]}",
+     "You must take reasonable care of the property and must report any repairs to us. You are responsible to us for any damage to your property caused by neglect or negligence on your or a visitor's part."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Commercial properties",
+    "links": [
+     {
+      "title": "Becoming a tenant",
+      "url": "/info-for/business-and-commercial/becoming-a-tenant",
+      "image": {}
+     },
+     {
+      "title": "Managing my property",
+      "url": "/info-for/business-and-commercial/managing-my-property",
+      "image": {}
+     },
+     {
+      "title": "Commercial tenants",
+      "url": "/info-for/business-and-commercial/commercial-tenants",
+      "image": {}
+     },
+     {
+      "title": "Guidance and policies",
+      "url": "/info-for/business-and-commercial/guidance-and-policies",
+      "image": {}
+     },
+     {
+      "title": "Residential tenants",
+      "url": "/info-for/business-and-commercial/residential-tenants",
+      "image": {}
+     },
+     {
+      "title": "Residential repairs",
+      "url": "/info-for/business-and-commercial/residential-repairs",
+      "image": {}
+     },
+     {
+      "title": "Our property portfolio",
+      "url": "/info-for/business-and-commercial/our-property-portfolio",
+      "image": {}
+     },
+     {
+      "title": "Send us feedback",
+      "url": "/info-for/business-and-commercial/send-us-feedback",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Commercial properties",
+     "url": "/info-for/business-and-commercial/send-us-feedback",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

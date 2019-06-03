@@ -1,0 +1,50 @@
+{
+ "pageTitle": "FOI request detail",
+ "keywords": "TfL",
+ "description": "FOI request detail",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transparency",
+   "url": "/corporate/transparency/index"
+  },
+  {
+   "title": "Freedom of Information",
+   "url": "/corporate/transparency/freedom-of-information"
+  },
+  {
+   "title": "FOI request detail"
+  }
+ ],
+ "title": {
+  "title": "FOI request detail",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

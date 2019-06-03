@@ -1,0 +1,173 @@
+{
+ "pageTitle": "Employability toolkit",
+ "keywords": "TfL",
+ "description": "Tools and guides to help you prepare for working",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Careers",
+   "url": "/corporate/careers/index"
+  },
+  {
+   "title": "Employability toolkit"
+  }
+ ],
+ "title": {
+  "title": "Employability toolkit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Finding a new job or returning to work after a break can seem a daunting task. We want to encourage a wide range of people with different backgrounds and experiences to work with us and we want to make it as easy as possible for you to get a job with us. Use the tools in this section to help you prepare."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "CVs and cover letters",
+    "texts": [
+     "Read our tips on creating a CV and writing a cover letter"
+    ],
+    "link": {
+     "url": "/corporate/careers/writing-a-cv-and-cover-letter",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/insight-day-control-room-2_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Are you untapped talent?",
+    "texts": [
+     "If you're changing your career or returning to work after a break, we can help"
+    ],
+    "link": {
+     "url": "/corporate/careers/are-you-untapped-tale",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/smart-sourcing-image2b_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Use the skills you already have",
+    "texts": [
+     "Everyone has skills \u0026 most of them are transferable"
+    ],
+    "link": {
+     "url": "/corporate/careers/skills-that-you-already-have",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/insight-day-control-room-5_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Get ready for interviews",
+    "texts": [
+     "Find out about competency based interviews and how to prepare"
+    ],
+    "link": {
+     "url": "/corporate/careers/get-ready-for-interviews",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/ex-army-insight-day-1_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Careers",
+    "links": [
+     {
+      "title": "Graduates",
+      "url": "/corporate/careers/graduates",
+      "image": {}
+     },
+     {
+      "title": "Apprenticeships",
+      "url": "/corporate/careers/apprenticeships",
+      "image": {}
+     },
+     {
+      "title": "Steps into work",
+      "url": "/corporate/careers/steps-into-work",
+      "image": {}
+     },
+     {
+      "title": "Smart Sourcing programme",
+      "url": "/corporate/careers/smart-sourcing-programme",
+      "image": {}
+     },
+     {
+      "title": "Rewarding you",
+      "url": "/corporate/careers/rewarding-you",
+      "image": {}
+     },
+     {
+      "title": "Employability toolkit",
+      "url": "/corporate/careers/employability-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Writing a CV and cover letter",
+      "url": "/corporate/careers/writing-a-cv-and-cover-letter",
+      "image": {}
+     },
+     {
+      "title": "Get ready for interviews",
+      "url": "/corporate/careers/get-ready-for-interviews",
+      "image": {}
+     },
+     {
+      "title": "Skills that you already have",
+      "url": "/corporate/careers/skills-that-you-already-have",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Careers",
+     "url": "/corporate/careers/skills-that-you-already-have",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

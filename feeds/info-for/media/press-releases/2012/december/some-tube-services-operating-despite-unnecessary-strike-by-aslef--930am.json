@@ -1,0 +1,75 @@
+{
+ "description": "Limited services are running on the Tube this morning with some service operating on all lines, despite the unnecessary strike on London Underground called by the leadership of the ASLEF union. The Bakerloo, Central and Victoria lines are running services",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Some Tube services operating despite unnecessary strike by ASLEF - 9:30am",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Bakerloo, Central and Victoria lines are serving key shopping districts"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Limited services are running on the Tube this morning with some service operating on all lines, despite the unnecessary strike on London Underground called by the leadership of the ASLEF union. The Bakerloo, Central and Victoria lines are running services through central London.",
+     "Services are currently operating as follows. Some stations will be closed",
+     "{\"template\":\"bulletlist\",\"items\":[\"Victoria line - operating between Seven Sisters and Victoria\",\"Central line - operating between West Ruislip and White City, Epping and Leytonstone, and Hainault and Liverpool Street\",\"Bakerloo line - operating between Harrow-on-the-Hill and Wealdstone\",\"District line - operating a limited shuttle services between High Street Kensington and Ealing Broadway\",\"Hammersmith \\u0026 City/Circle lines - operating a limited service between Hammersmith and King's Cross St Pancras\",\"Metropolitan line - operating a limited service between Baker Street and Harrow-on-the-Hill\",\"Northern line - operating a limited service between Morden and Stockwell\",\"Piccadilly line - operating a shuttle service between Heathrow 1,2,3 and 5 and Hammersmith, and Arnos Grove and Cockfosters\",\"Jubilee line - operating a limited service between Stanmore and Wembley Park only\"]}",
+     "Services may vary throughout the day depending on resources available.",
+     "Although there will be disruption throughout the day, passengers are urged to check before they travel to see how Tube services are operating and which alternative services are available via \u003ca href=\"http://www.tfl.gov.uk\"\u003ewww.tfl.gov.uk\u003c/a\u003e .",
+     "London's 700 bus routes are in operation throughout the day with extra buses for passengers heading to the West End or Westfield shopping centres in Stratford and White city.",
+     "In previous years buses would start at approximately 8am but this year will be the first year where a full Sunday service is in operation with majority of services have started  at around 6am this morning.",
+     "Howard Collins, LU's Chief Operating Officer, said: 'Services on the Bakerloo, Central and Victoria lines are running to central London this morning serving the West End and busy shopping areas in west and east London, with very limited services on all other lines.  The bus network is also in full operation serving all main shopping centres and sporting events.",
+     "'Tube services will be busy and we would urge customers to check on the TfL website and TV and radio bulletins before setting off.",
+     "'This strike action is completely unnecessary, train drivers are paid a salary that reflects some Bank holiday working, but the Aslef leadership is demanding to be paid twice for the same work and has rejected our attempts to resolve the matter. In doing so they have demonstrated a complete disregard for our customers and for the thousands of transport staff who WILL be working hard to get around the capital.'",
+     "Other services operating today include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The DLR will also be in operation, except between Canning Town and Beckton and between Shadwell and Bank due to essential Crossrail works;\",\"Customers will also be able to use the Barclays Cycle Hire scheme, which is available across central London;\",\"The Congestion Charge will not be in operation. There will also be no parking charges on roads in Westminster, which includes much of the West End;\",\"River services will also be operating between Greenwich and Westminster, stopping at Tower Pier, London Eye and Embankment.\"]}",
+     "Customers are advised to check \u003ca href=\"http://www.tfl.gov.uk\"\u003ewww.tfl.gov.uk\u003c/a\u003e for the latest information on which services will be running and for a range of travel tools to help plan an alternative route or method of transport.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

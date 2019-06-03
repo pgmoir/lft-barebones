@@ -1,0 +1,52 @@
+{
+ "pageTitle": "Select vehicle",
+ "keywords": "TfL",
+ "description": "You can select vehicles already on your account or add a new one.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Select vehicle"
+  }
+ ],
+ "title": {
+  "title": "Select vehicle",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can select vehicles already on your account or add a new one.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We do not hold details for this vehicle",
+     "No charges due - this vehicle is either exempt, discounted or not liable for all charges. You can still continue to pay.",
+     "This vehicle has already been added to this registration application. Select another vehicle."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

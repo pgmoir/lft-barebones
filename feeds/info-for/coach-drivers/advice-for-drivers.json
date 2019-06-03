@@ -1,0 +1,112 @@
+{
+ "pageTitle": "Advice for drivers",
+ "keywords": "Coach drivers,Coaches,TfL",
+ "description": "Tips to help coach drivers operate safely and efficiently in London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Coach drivers",
+   "url": "/info-for/coach-drivers/index"
+  },
+  {
+   "title": "Advice for drivers"
+  }
+ ],
+ "title": {
+  "title": "Advice for drivers",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coach parking in London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Plan your trip to London in advance, not on the day\",\"Do not disturb residents and switch off your engine when parked\",\"Do not obstruct other traffic with your coach\",\"Do not enter coach ban areas unless access is permitted and you need to serve a property in the area\",\"Do not park overnight on-street unless it is permitted\",\"Penalty Charge Notices (PCNs) should be paid or disputed according to the instructions on the back of the PCN\",\"Congestion Charge - Vehicles classed as a bus but not registered with the DVSA (including foreign and Northern Ireland vehicles) need to register with us for a 100% discount. See our page on \\u003ca href=\\\"/modes/driving/congestion-charge/discounts-and-exemptions\\\"\\u003ediscounts and exemptions\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Picking up and setting down\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"When picking up ensure your group is waiting for you\",\"No boarding or alighting activity means you are liable to a PCN\",\"Do not wait or park on clearways\",\"Do not arrive early to load or remain after unloading\",\"Do not park or wait at bus stops\",\"Stay in contact with your group to ensure they are ready to be picked up on time. Any instructions from guides, tour operators, etc to arrive early should be refused\",\"Stay with your vehicle at all times - it is not the driver's job to book passengers into hotels or to carry luggage\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Yellow routes\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Set down and pick up are permitted on double and single yellow lines - however, activity must be taking place. Some London boroughs allow an observation time - however, this does not apply when loading restrictions are in force\",\"Check signs before using bus stops to pick up and set down as most are restricted to 'local' or 'LT/TfL' buses. Parking and waiting is not permitted at any time\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Red routes\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Double red lines: no stopping at any time\",\"Single red lines: no stopping during restricted hours\",\"Vehicles registered as a bus can use red route bus stops, but must not park or wait, and activity must be taking place\",\"See our section on \\u003ca href=\\\"/modes/driving/red-routes\\\"\\u003ered routes\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Left-hand drive coaches and off-side parking\"}",
+     "Crews of left-hand drive coaches and right-hand coaches using offside bays should take every safety precaution available when passengers are unable to board from or alight directly to the kerbside. These precautions include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Ensuring that crews wear hi-visibility clothing\",\"Making sure that passengers board and alight the coach directly to or from the pavement in a controlled manner\",\"Briefing passengers of the situation before they board or alight from the coach\",\"Not allowing passengers to wait in traffic lanes, under any circumstances\",\"Any loading or unloading of luggage should be to the kerbside only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Off-peak coach parking\"}",
+     "Some coach parking locations in London are restricted to off-peak hours due to traffic conditions. Peak hours are usually 07:00-10:00 and 16:00-19:00 daily, although this is sometimes relaxed at weekends. Drivers should always check signs for restrictions.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coach parking map\"}",
+     " \u003ca href=\"https://tfl.gov.uk/info-for/coach-drivers/?cid=coachdrivers\"\u003eView the online coach parking map\u003c/a\u003e .",
+     "Read our Operating coaches in London leaflet, providing guidance for drivers, tour operators, tour guides, group organisers, tour managers and couriers (please check the online map for up to date contact information).",
+     "Operating coaches in London leaflet",
+     "PDF 2.00MB"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Coach drivers",
+    "links": [
+     {
+      "title": "Advice for drivers",
+      "url": "/info-for/coach-drivers/advice-for-drivers",
+      "image": {}
+     },
+     {
+      "title": "Special parking arrangements",
+      "url": "/info-for/coach-drivers/special-parking-arrangements",
+      "image": {}
+     },
+     {
+      "title": "Victoria Coach Station",
+      "url": "/info-for/coach-drivers/victoria-coach-station",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Coach drivers",
+     "url": "/info-for/coach-drivers/victoria-coach-station",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

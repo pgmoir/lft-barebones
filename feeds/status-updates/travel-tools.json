@@ -1,0 +1,207 @@
+{
+ "pageTitle": "Check your travel",
+ "keywords": "TfL,check your travel TfL travel tools",
+ "description": "Use TfL travel tools to check for planned works, events and expected disruptions that may affect travel in London",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Check your travel"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Travel tools",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/traveltools-header.jpg",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "title": "All the travel tools you'll need to check your travel",
+    "texts": [
+     "In a city as complex as London, it's best to check your journey in advance, and again on the day. We have a number of tools to help you however you travel around London."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Status updates",
+    "texts": [
+     "Check the status of our network and the roads now and in the future"
+    ],
+    "link": {
+     "url": "/status-updates/index",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/status-updates-tt_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Facebook TravelBot",
+    "texts": [
+     "Ask us about your bus, Tube and rail status on Facebook Messenger"
+    ],
+    "link": {
+     "url": "https://m.me/tfltravelbot",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/fb-travelbot_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Travel advice on Twitter",
+    "texts": [
+     "Subscribe to alerts and check travel news across London"
+    ],
+    "link": {
+     "url": "http://twitter.com/messages/compose?recipient_id=355994177",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/twitter-travel_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Email alerts",
+    "texts": [
+     "Sign up for email travel alerts about your journey"
+    ],
+    "link": {
+     "url": "/travel-information/social-media-and-email-updates/email-updates",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/email-alerts_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Busiest times",
+    "texts": [
+     "Find the busiest times at your Tube station for a more comfortable journey"
+    ],
+    "link": {
+     "url": "/status-updates/busiest-times-to-travel",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/busiest-times_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Major works \u0026 events",
+    "texts": [
+     "Upcoming works and events across London which may affect your journey"
+    ],
+    "link": {
+     "url": "/status-updates/major-works-and-events",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/major-work-events_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "planajourney",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Stations, stops \u0026 piers",
+      "url": "/travel-information/stations-stops-and-piers/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Social media \u0026 email updates",
+      "url": "/travel-information/social-media-and-email-updates/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Travel advice for road users",
+      "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycle Hire docking stations",
+      "url": "/modes/cycling/santander-cycles/find-a-docking-station",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Station WiFi",
+      "url": "/campaign/station-wifi",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Our open data",
+    "texts": [
+     "Our data powers over 600 travel apps in the UK. We've committed to making our open data freely available to developers to deliver new apps and services for you."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

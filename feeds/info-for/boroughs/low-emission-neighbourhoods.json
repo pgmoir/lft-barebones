@@ -1,0 +1,154 @@
+{
+ "pageTitle": "Low Emission Neighbourhoods",
+ "keywords": "TfL",
+ "description": "We're helping some London boroughs improve air quality by supporting their Low Emission Neighbourhoods",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Low Emission Neighbourhoods"
+  }
+ ],
+ "title": {
+  "title": "Low Emission Neighbourhoods",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A low emission neighbourhood (LEN) is a scheme aimed at improving air quality and promoting sustainable living in a particular area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/low-emission-neighbourhoods-page_rdax_400x250.jpg\",\"alt\":\"Low Emission Neighbourhoods logo\"},\"wrapped\":false}",
+     "We are working with the GLA and the London boroughs improve air quality through projects funded by the £20m \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-air-quality-fund\"\u003eMayor's Air Quality Fund (MAQF)\u003c/a\u003e .",
+     "As part of MAQF, we are supporting 5 LENs",
+     "Featured schemes in a LENs include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Car-free days\",\"Smaller green spaces such as pocket parks\",\"Green cover including vegetation on roofs\",\"Behaviour change initiatives\",\"No idling zones\",\"Coordinated deliveries\",\"Electric vehicles\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Upcoming LENs\"}",
+     "These LENs will be created by April 2019:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.cityoflondon.gov.uk/business/environmental-health/environmental-protection/air-quality/Pages/Low-Emission-Neighbourhood.aspx\\\"\\u003eBarbican\\u003c/a\\u003e (City of London)\",\" \\u003ca href=\\\"https://zeroemissionsnetwork.com/len\\\"\\u003eCity Fringe (Shoreditch)\\u003c/a\\u003e (Hackney, Islington and Tower Hamlets)\",\" \\u003ca href=\\\"http://royalgreenwich.gov.uk/lowemissionneighbourhood\\\"\\u003eGreenwich Town Centre\\u003c/a\\u003e (Greenwich)\",\"Ilford Garden Junction (Newham and Redbridge)\",\" \\u003ca href=\\\"http://marylebonelen.org/\\\"\\u003eMarylebone\\u003c/a\\u003e (Westminster)\"]}",
+     "The total LEN budget is £11m including £5m from the MAQF and the Ultra Low Emission Zone along with committed match funding from boroughs and private sector.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Download the Low Emissions Neighbourhoods poster\",\"url\":\"/cdn/static/cms/documents/low-emissions-neighbourhoods-poster.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs",
+    "links": [
+     {
+      "title": "Borough funding",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Sub-regional transport planning",
+      "url": "/info-for/boroughs/sub-regional-transport-planning",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Healthy Workplace Charter",
+      "url": "/info-for/boroughs/healthy-workplace-charter",
+      "image": {}
+     },
+     {
+      "title": "Cycling Toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Safety",
+      "url": "/info-for/boroughs/safety",
+      "image": {}
+     },
+     {
+      "title": "Street Types for London",
+      "url": "/info-for/boroughs/street-types",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Information by borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs",
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

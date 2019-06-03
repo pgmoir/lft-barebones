@@ -1,0 +1,107 @@
+{
+ "pageTitle": "Penalties \u0026 enforcement",
+ "keywords": "Businesses,Drivers,Public,Driving,TfL",
+ "description": "Find out what notices you will receive, how much money is owed and how long you have to respond",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Penalties \u0026 enforcement"
+  }
+ ],
+ "title": {
+  "title": "Penalties \u0026 enforcement",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The enforcement process is defined by law. Find out what notices you will receive, how much money is owed at each stage and how long you have to respond.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you get a Penalty Charge Notice (PCN), you can either pay it or challenge it. The sooner you pay, the cheaper it is.",
+     "This guide is for information only. You may wish to seek your own legal advice. A more detailed explanation can be found on the \u003ca href=\"/modes/driving/congestion-charge/penalties-and-enforcement/enforcement-process\"\u003eenforcement process page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"PCNs\"}",
+     "{\"template\":\"table\",\"titles\":[\"Penalty charge\",\"Discounted amount (if paid within 14 days)\",\"Charge Certificate\"],\"rows\":[[],[\"£160\",\"£180\",\"£240\"]]}",
+     "\u003cstrong\u003eTime to pay: 28 days\u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What is a PCN?\"}",
+     "If you haven't paid the Congestion Charge when you should have, we'll send you a formal notification - a PCN.",
+     "If we photograph your vehicle in the Congestion Charge zone and our records show that you've not paid the daily charge by midnight on the following charging day, we will issue a PCN to the registered keeper of the vehicle. This will outline the penalty charge that must be paid for the contravention date.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What do I do now that I've got a PCN?\"}",
+     "Don't ignore the PCN even if you believe you have paid the charge, are exempt or registered for a 100% discount.",
+     "You have 28 days from the date of service of your PCN to either:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/pay-a-pcn\\\"\\u003ePay the penalty\\u003c/a\\u003e or\",\" \\u003ca href=\\\"/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-a-representation\\\"\\u003eChallenge the PCN\\u003c/a\\u003e by making a representation online or in writing\"]}",
+     "If you pay within 14 days of the date of service you will receive a 50% discount, the amount that must be paid being the discounted amount for the contravention date.",
+     "Under the Interpretation Act 1978 s.7, unless the contrary is proved, service is deemed to have been effected at the time when the PCN would be delivered in the ordinary course of post.",
+     "If you wish to make a representation against the PCN you can do so for the reasons listed below. We will also consider representations made on any other grounds:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You were not the keeper at the time of the contravention\",\"You had paid the charge\",\"Your vehicle was exempt\",\"The vehicle was used or taken without your consent\",\"You had registered for a 100% discount\",\"The vehicle was on hire to someone else\"]}",
+     "You can \u003ca href=\"/modes/driving/view-a-pcn\"\u003eview more details of the PCN\u003c/a\u003e before paying it or making a representation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charge Certificate\"}",
+     "If the penalty charge is not fully paid within 28 days of the date of service, then the penalty charge you have to pay increases by 50% of the full penalty charge. A Charge Certificate is then sent to the registered keeper of the vehicle.",
+     "You have 14 days from the date of service in which to pay this increased amount.",
+     "Under the Interpretation Act 1978 s.7, unless the contrary is proved, service is deemed to have been effected at the time when the Charge Certificate would be delivered in the ordinary course of post.",
+     "Once a Charge Certificate is issued you can no longer make a representation. If you did not receive the original PCN, or if you have received no reply to a representation or an appeal, you can \u003ca href=\"/modes/driving/congestion-charge/penalties-and-enforcement/challenge-a-penalty-charge/make-a-statutory-declaration\"\u003emake a Statutory Declaration\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Order for Recovery\"}",
+     "If the penalty charge is not paid within 14 days of a Charge Certificate being served then we may apply to register it as an unpaid debt at the Traffic Enforcement Centre which incurs a debt registration fee for each PCN.",
+     "You will then be sent an Order for Recovery. This is not a County Court Judgment and will not affect your credit rating. At this point the penalty charge due increases by the debt registration fee.",
+     "You have 21 days from the date of service in which to pay this.",
+     "Under the Interpretation Act 1978 s.7, unless the contrary is proved, service is deemed to have been effected at the time when the Order for Recovery would be delivered in the ordinary course of post.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Enforcement agents and bailiffs\"}",
+     "If the penalty charge has not been paid within 21 days of the Order for Recovery being served, we will ask for a Warrant of Control which will be passed to an \u003ca href=\"/modes/driving/congestion-charge/penalties-and-enforcement/enforcement-agents-and-bailiffs\"\u003eenforcement agent\u003c/a\u003e to recover the outstanding debt. You will not be sent a copy of the Warrant, however, you may request a copy directly from the enforcement agent or their office.",
+     "Once a case has been passed to an enforcement agent, they will start enforcement activity; this is known as the compliance stage. At this point you will receive an Enforcement Notice which details the name and address on the warrant and how much money you owe. If you ignore this initial notice, an enforcement agent may visit your property to collect the outstanding debt, plus any enforcement fees.",
+     "All enforcement agents acting on our behalf are certificated in a County Court and operate in accordance with governing legislation and our contractual requirements.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Enforcement agents and bailiffs - know your rights\",\"url\":\"/ruc-cdn/static/cms/documents/bailiffs-enforcement-agents-your-rights.pdf\",\"icon\":\"download\",\"size\":\"PDF 42KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

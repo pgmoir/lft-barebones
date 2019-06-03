@@ -1,0 +1,75 @@
+{
+ "pageTitle": "Walk rings around the Capital",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Walk rings around the Capital",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Adventurous Londoners will have a new challenge from Wednesday 21 September, when the 78-mile Capital Ring walk is officially opened."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Walkers will be able to choose any one of six walks ranging from one to 19 miles",
+     "{\"template\":\"bulletlist\",\"items\":[\"Event: Launch of Capital Ring\",\"Place: Highgate Wood, Highgate\",\"Date: Wednesday September 21\",\"Time: 4pm\"]}",
+     "The Capital Ring, funded by Transport for London, is part of the London Strategic Walks Network, an initiative from the Mayor of London to make London a world class walking city.",
+     "The launch will be marked by six guided walks on various sections of the Capital Ring.",
+     "Walkers will be able to choose any one of six walks ranging from one to 19 miles.",
+     "The opening ceremony will take place at Highgate Wood and will be led by London Assembly member, Jenny Jones.",
+     "The six walks on September 21 are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Walk 1 (1 mile) from Highgate Station at 3.15pm\",\"Walk 2 (5 miles) from Hendon Central Station at 1.30pm\",\"Walk 3 (10 miles) from Hackney Wick Station at 10.45am\",\"Walk 4 (11 miles) from Northwick Park Station at 10.30am\",\"Walk 5 (18 miles) from Woolwich Arsenal Station at 8.30am\",\"Walk 6 (19 miles) from Hanwell Station at 8.15am\"]}",
+     "Peter Hendy, Managing Director Surface Transport, TfL, said: \"Completing the Capital Ring is a great step towards making London a world class walking city.",
+     "\"Walking is an enjoyable way to keep healthy and explore the city, whether that is the city streets or green spaces.",
+     "\"The Capital Ring offers both a challenge to committed walkers and many shorter walks for people looking for a good stroll.\"",
+     "For more information about walking in the capital please visit the \u003ca href=\"/gettingaround/walking/default.aspx\"\u003eTfL website\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"Highgate Wood, which is owned and managed by the Corporation of London, covers 70 acres and is an original part of the ancient forest of Middlesex\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

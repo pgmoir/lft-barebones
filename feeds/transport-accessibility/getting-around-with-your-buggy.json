@@ -1,0 +1,216 @@
+{
+ "pageTitle": "Getting around with your buggy",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Transport accessibility",
+   "url": "/transport-accessibility/index"
+  },
+  {
+   "title": "Pregnant women \u0026 buggy users",
+   "url": "/transport-accessibility/pregnant-women-and-pushchairs"
+  },
+  {
+   "title": "Getting around with your buggy"
+  }
+ ],
+ "title": {
+  "title": "Getting around with your buggy",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're travelling in London with a buggy, we want to make public transport easy for you to use. Find out what to expect when travelling.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "When using buggies on public transport, always make sure your child is securely fastened and your brake is on at all times when stationary. Never leave your buggy unattended.",
+     "If you are travelling by Tube:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Use the lift if one is available\",\"Take extra care on escalators\",\"Don't rush, particularly if the doors are already starting to close\",\"Be careful if there is a step up or down into the train\",\"Watch out for the thin grooves in the door runners on some trains especially if the wheels on your pushchair are thin\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/wheelchair-buggy-space-700px_rdax_400x250.jpg\",\"alt\":\"Wheelchair space on bus shared with buggy user\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On buses\"}",
+     "All London bus routes are served by low-floor, wheelchair-accessible buses.",
+     "This means you can board any bus, unless the driver thinks that it is too crowded for you to travel safely.",
+     "On buses, the driver can lower the bus for you, so it's level with the kerb. Drivers should make sure passengers have time to position their buggy safely, and hold on or sit down before moving away.",
+     "Fold the buggy up if it's too wide to fit through the doors and down the aisle.",
+     "If you're using a double buggy, feel free to get on the bus at the back exit doors, but remember to check with the driver first.",
+     "For safety reasons and general passenger comfort, move your buggy out of the middle aisle.",
+     "All buses have a wheelchair space available. By law, wheelchair users have priority over the space as it is the only place they can travel safely. When a wheelchair user is not using the space, you can use it on a first come first served basis.",
+     "If a wheelchair user wishes to board a bus, you should share the space, fold your buggy or move. You will not be asked to leave the bus, but you may choose to do so. If you wish to board the next bus instead, the driver will issue you a transfer ticket so you don't need to pay a double fare.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/help-point-700px_rdax_400x250.jpg\",\"alt\":\"Help point at Tube station\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On Tube and rail\"}",
+     "Most Tube trains have multipurpose areas suitable for buggies, except the Central, Waterloo \u0026 City and Bakerloo lines. Many also have wheelchair spaces - feel free to use them if they're available but please give them up if they're needed by a wheelchair user.",
+     "Many of our stations have \u003ca href=\"/transport-accessibility/wheelchair-access-and-avoiding-stairs\"\u003estep-free access\u003c/a\u003e . Always make use of lifts where available. Use our \u003ca href=\"/maps_/maps\"\u003eStep-free guide\u003c/a\u003e to see all stations where you can get between the platform and street step-free, or change between lines step-free.",
+     "At stations, some staff may be willing to help carrying buggies up and down stairs, although they are not always able to do so. They will ask you to carry your child and fold your buggy.",
+     "Use a help point to contact staff for information and assistance, or in an emergency.",
+     "For more information on travelling with a buggy on the Tube, read our \u003ca href=\"/corporate/terms-and-conditions/ticketing-and-travel-conditions-of-carriage\"\u003eConditions of Carriage\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"In taxis\"}",
+     "All taxis have an intermediate step and a ramp to make it easier for you to get in and out with a buggy. Please ask your driver if you need this.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On river services\"}",
+     "Buggies are welcome on board all MBNA Thames Clippers River Bus services.",
+     "Boats are boarded via a ramp and have space for both wheelchair users and buggies. The crew will help you find the safest place to park your buggy. You will only be asked to fold up the buggy if necessary.",
+     "Buggies are also welcome on board most River Tour boats. \u003ca href=\"/modes/river/index\"\u003ePlease check with the boat operator\u003c/a\u003e you intend to travel with for further details.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On the Emirates Air Line\"}",
+     "Folding buggies are permitted on the cable car as long as they are not put on the seats and do not cause a blockage to gangways, lifts or passages."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Transport accessibility",
+    "links": [
+     {
+      "title": "Plan an accessible journey",
+      "url": "/transport-accessibility/plan-an-accessible-journey",
+      "image": {}
+     },
+     {
+      "title": "Public transport support",
+      "url": "/transport-accessibility/learn-to-use-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Help from staff",
+      "url": "/transport-accessibility/help-from-staff",
+      "image": {}
+     },
+     {
+      "title": "Fares \u0026 tickets",
+      "url": "/transport-accessibility/fares-and-tickets",
+      "image": {}
+     },
+     {
+      "title": "Wheelchair access \u0026 avoiding stairs",
+      "url": "/transport-accessibility/wheelchair-access-and-avoiding-stairs",
+      "image": {}
+     },
+     {
+      "title": "Priority seating and other features on board",
+      "url": "/transport-accessibility/features-on-board",
+      "image": {}
+     },
+     {
+      "title": "People with sight or hearing loss",
+      "url": "/transport-accessibility/people-with-sight-or-hearing-loss",
+      "image": {}
+     },
+     {
+      "title": "Pregnant women \u0026 buggy users",
+      "url": "/transport-accessibility/pregnant-women-and-pushchairs",
+      "image": {}
+     },
+     {
+      "title": "Best buggies for public transport",
+      "url": "/transport-accessibility/best-buggies-for-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Getting around with your buggy",
+      "url": "/transport-accessibility/getting-around-with-your-buggy",
+      "image": {}
+     },
+     {
+      "title": "Planning a journey with your buggy",
+      "url": "/transport-accessibility/planning-a-journey-with-your-buggy",
+      "image": {}
+     },
+     {
+      "title": "Baby on Board",
+      "url": "/transport-accessibility/baby-on-board",
+      "image": {}
+     },
+     {
+      "title": "Using the pavement",
+      "url": "/transport-accessibility/road-users-and-pedestrians",
+      "image": {}
+     },
+     {
+      "title": "Door-to-door transport services",
+      "url": "/transport-accessibility/door-to-door-transport-services",
+      "image": {}
+     },
+     {
+      "title": "Accessibility guides \u0026 maps",
+      "url": "/transport-accessibility/accessibility-guides-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Equality and assistance policies, and future plans",
+      "url": "/transport-accessibility/equality-policy-and-future-plans",
+      "image": {}
+     },
+     {
+      "title": "Contact us about accessibility",
+      "url": "/transport-accessibility/contact-us-about-accessibility",
+      "image": {}
+     },
+     {
+      "title": "Assistance dogs",
+      "url": "/transport-accessibility/assistance-dogs",
+      "image": {}
+     },
+     {
+      "title": "Blue Badges and driving",
+      "url": "/transport-accessibility/blue-badges-and-driving",
+      "image": {}
+     },
+     {
+      "title": "Accessible travel stories",
+      "url": "/transport-accessibility/accessible-travel-stories",
+      "image": {}
+     },
+     {
+      "title": "Please offer me a seat",
+      "url": "/transport-accessibility/please-offer-me-a-seat",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Transport accessibility",
+     "url": "/transport-accessibility/please-offer-me-a-seat",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

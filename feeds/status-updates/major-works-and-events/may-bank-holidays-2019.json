@@ -1,0 +1,151 @@
+{
+ "pageTitle": "Spring Bank Holiday 2019",
+ "keywords": "TfL",
+ "description": "Travel changes for May Day and Witsun Bank Holidays 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Spring Bank Holiday 2019"
+  }
+ ],
+ "title": {
+  "title": "Spring Bank Holiday 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Spring Bank Holiday weekend most of our services will be open. There will be some changes and planned work on some parts of the public transport and road networks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Google Translate is available at the bottom of this page.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "A Saturday service will run on Bank Holiday Monday.",
+     "There will be changes to District and Piccadilly line services, including travel to and from Heathrow Airport  between Saturday 25 and Bank Holiday Monday 27 May while we renew track and drainage:",
+     "{\"template\":\"bulletlist\",\"items\":[\"No Piccadilly line trains between Hammersmith and Heathrow / Uxbridge from around midnight on Friday night / Saturday morning and all day Sunday and Bank Holiday Monday. A reduced service will run with trains about every 4 minutes on the rest of the line. Some trains will terminate at Green Park.\",\"No District line trains between Turnham Green and Ealing Broadway all day Saturday, Sunday and Bank Holiday Monday\",\"District line trains will call at Kensington (Olympia)ul\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Tube map showing closures and alternative transport options\",\"url\":\"/cdn/static/cms/documents/district-piccadilly-closure-map-25-27may.pdf\",\"icon\":\"download\",\"size\":\"PDF 291KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local journeys on the District and Piccadilly lines\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For stations between Acton Town and Heathrow: Use the Central line via Ealing Broadway or the District line via Gunnersbury and follow purple signs for replacement bus A\",\"Replacement bus A runs every 7-10 minutes between Gunnersbury and Heathrow Central bus station calling at: Gunnersbury - Acton Town - Ealing Common - Ealing Broadway (for the Central line) - South Ealing - Northfields - Boston Manor - Osterley - Hounslow East* - Hounslow Central (stop at Bell Corner) - Hounslow West* - Hatton Cross - Heathrow Central bus station (for Terminals 2 \\u0026 3)\",\"For Terminals 4 or 5, go to Terminals 2/3 and use free inter-terminal transfer services\",\"Bus A runs throughout the night and extends to Hammersmith and Heathrow Terminal 5 during Friday and Saturday Night Tube.\",\"For stations between Acton Town and Rayners Lane: Use the Central line via Hanger Lane, the District line via Gunnersbury or the Metropolitan line via Rayners Lane and follow blue signs for replacement bus E, which runs every 7-10 minutes\",\"replacement bus E calls at:span\",\"For stations between Rayners Lane and Uxbridge: use the Metropolitan line. For Chiswick Park: use local buses to or from Turnham Green or Gunnersbury\"]}",
+     "Gunnersbury station is not step-free. Speak to a member of staff before travelling.",
+     "Alternatively:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Acton Town - use nearby Acton Central station for step-free access to London Overground services. Or use local bus 266 to Hammersmith for step-free access to the Circle, District, Hammersmith \\u0026 City or Piccadilly lines.\",\"Hounslow East - use replacement bus A to Heathrow Central Bus station for step-free access to TfL Rail services. Or use local bus H37 to Richmond for step-free access to the District line and London Overground services.\",\"Hounslow West - use replacement bus A to Heathrow Central Bus station for step-free access to TfL Rail services. Or use local bus H91 to Hammersmith for step-free access to the Circle, District, Hammersmith \\u0026 City or Piccadilly lines.\",\"Sudbury Town - use local bus H17 to Wembley Central for step-free access to the Bakerloo line and National Rail services. Or use local bus 92 to Greenford for step-free access to the Central line and National Rail services.\\u003cbr /\\u003e\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelling to or from Heathrow Airport\"}",
+     "Allow extra time for your journey, especially if you are flying out of Heathrow Airport.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taking luggage or buggies to the airport\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Take the District, Piccadilly, Circle or Hammersmith \\u0026 City lines to Hammersmith\",\"Non-stop coaches are running between Hammersmith and Heathrow Airport via the motorway every 3-8 minutes. There are porters and lifts at Hammersmith and Heathrow and extra space for luggage and buggies:ul\",\"For Terminal 4: go to Terminals 2/3 and use the free train or bus transfer services\",\"Coaches are not wheelchair-accessible\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/heathrow-infographics-03-2b-small.jpg\",\"alt\":\"Heathrow infographic\"},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/heathrow-infographics-03-1b-small.jpg\",\"alt\":\"Heathrow infographic\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Accessible routes to the airport\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Take the Hammersmith \\u0026 City line to Paddington\",\"TfL Rail runs every 30 minutes to and from Terminals 2, 3 \\u0026 4.\",\"Speak to a member of staff for ramp access to TfL Rail trains\",\"For Terminal 5, go to Terminals 2/3 or 4 and use the free train or bus transfer servicesul\",\"Only during Night Tubeul\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Paying for your travel\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pay as you go with Oyster or contactless, or buy a paper Tube ticket\",\"Paper Tube tickets will be accepted on other services including TfL Rail betweeb Paddington and Heathrow and on South Western Railway trains between Waterloo and Feltham (via Hounslow)\",\"Paper Tube tickets will not be accepted on Heathrow Express trains between Paddington and Heathrow\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "Sunday service running on Bank Holiday Monday 27 May.",
+     "For the latest information on how buses are running, see our \u003ca href=\"https://tfl.gov.uk/bus/status\"\u003ebus status updates\u003c/a\u003e .",
+     "Follow \u003ca href=\"https://twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR\"}",
+     "We are running a Saturday service on Bank Holiday Monday (27 May)",
+     "See how the DLR is running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003estatus updates\u003c/a\u003e page.",
+     "Follow \u003ca href=\"https://twitter.com/LondonDLR\"\u003e @LondonDLR\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"All weekend\"}",
+     "Gunnersbury station is likely to be very busy due to the Piccadilly and District line closures.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Saturday 25 May\"}",
+     "Euston to Watford Junction - Saturday service",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday 26 May\"}",
+     "No service between Clapham Junction and Willesden Junction. Use local buses via any reasonable route",
+     "Euston to Watford Junction - Sunday service",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bank Holiday Monday 27 May\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"An amended weekday service will run between Highbury \\u0026 Islington and New Cross, Clapham Junction, Crystal Palace and West Croydon\",\"An amended Saturday service will run:ul\",\"A Saturday service will run between Romford and Upminster\"]}",
+     "See how London Overground is running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003estatus updates\u003c/a\u003e page.",
+     "Follow \u003ca href=\"http://twitter.com/LDNOverground\"\u003e@LDNOverground\u003c/a\u003e on Twitter for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Rail\"}",
+     "On Bank Holiday Monday 27 May, we are running a Saturday service between Liverpool Street and Shenfield. Trains between Paddington and Heathrow are likely to be very busy because of the Piccadilly and District line closure.",
+     "See how TfL Rail is running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003estatus updates\u003c/a\u003e page.",
+     "Follow \u003ca href=\"http://twitter.com/TfLRail\"\u003e@TfLRail\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Trams\"}",
+     "On Sunday 26 May there is no service between Sandilands and Elmers End / Birkbeck until 09:00.",
+     "See how trams are running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003e status updates\u003c/a\u003e page.",
+     "Follow \u003ca href=\"https://twitter.com/TramsLondon\"\u003e@TramsLondon\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Major roadworks\"}",
+     " \u003ca href=\"/status-updates/major-works-and-events/old-street-roundabout\"\u003eOld Street Roundabout\u003c/a\u003e will change to two-way traffic over the Bank Holiday weekend. City Road (south) and Old Street (west) will be temporarily closed over the weekend. Traffic and bus routes will be on diversion over the weekend. Access will be maintained on the Inner Ring Road.",
+     "If you are driving, walking or cycling in the area, take extra care especially when crossing the road.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "There is no \u003ca href=\"https://tfl.gov.uk/modes/driving/congestion-charge\"\u003eCongestion Charge (CC)\u003c/a\u003e on Monday 27 May. The Congestion Charge resumes as normal on Tuesday 28 May.",
+     "The \u003ca href=\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e remains in operation 24/7 throughout the bank holiday weekend.",
+     "For the latest information on London roads, see our \u003ca href=\"https://tfl.gov.uk/traffic/status\"\u003etraffic status updates map.\u003c/a\u003e ",
+     "For news about traffic in London, follow \u003ca href=\"https://twitter.com/TfLTrafficNews\"\u003e@TfLTrafficNews\u003c/a\u003e on Twitter.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "Services will run throughout the long weekend (for registered members only), but no regular bookings will operate on Bank Holiday Monday.",
+     "Please book in advance at the earliest opportunity.",
+     "For more details  of services, see our \u003ca href=\"/modes/dial-a-ride/index\"\u003eDial-a-Ride pages\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Emirates Air Line\"}",
+     "The cable car is running over the bank holiday weekend.",
+     "On Sunday, the cable car will open an hour later and run 09:00-23:00.",
+     "On Bank Holiday Monday 27 May, services run from 09:00 until 22:00",
+     "See how the cable car is running in our \u003ca href=\"https://tfl.gov.uk/cable-car/status\"\u003eStatus updates for Emirates Air Line.\u003c/a\u003e Follow \u003ca href=\"https://twitter.com/EmiratesAirLDN\"\u003e@EmiratesAirLine \u003c/a\u003e on Twitter for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bank Holiday Monday 27 May\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Thames Clippers will run a weekend service\",\"Woolwich Ferry will run a one ferry service\"]}",
+     "Follow \u003ca href=\"https://twitter.com/tflriver\"\u003e @TfLRiver\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "Old Street Roundabout will change to two-way traffic over the Bank Holiday weekend. City Road (south) and Old Street (west) will be temporarily closed over the weekend. Traffic and bus routes will be on diversion over the weekend. Access will be maintained on the Inner Ring Road.",
+     "If you are cycling in the area, take extra care especially when crossing the road.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "Old Street Roundabout will change to two-way traffic over the Bank Holiday weekend. City Road (south) and Old Street (west) will be temporarily closed over the weekend. Traffic and bus routes will be on diversion over the weekend. Access will be maintained on the Inner Ring Road.",
+     "If you are walking in the area, take extra care.",
+     "Closures are subject to change. For the latest information, see our six month look ahead for \u003ca href=\"https://tfl.gov.uk/cdn/static/cms/documents/track-closures.pdf\"\u003etrack \u003c/a\u003e and \u003ca href=\"https://tfl.gov.uk/cdn/static/cms/documents/station-closures.pdf\"\u003estations\u003c/a\u003e .",
+     "This page will be updated with more information as it becomes available.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Information\"}",
+     "Check before you travel and plan ahead using our travel tools. See:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The latest status updates for \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future%20date\\u0026direction=\\u0026startDate=2018-12-14T00%3A00%3A00\\u0026endDate=2018-12-14T23%3A59%3A59\\u0026disruptionIds=TIMS-202397\\u0026intcmp=56354\\\"\\u003eTube, rail, DLR and trams\\u003c/a\\u003e , \\u003ca href=\\\"http://tfl.gov.uk/bus/status/\\\"\\u003ebuses\\u003c/a\\u003e and \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/\\\"\\u003eroads\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\" \\u003ca href=\\\"http://twitter.com/tfltravelalerts\\\"\\u003e@TfLTravelalerts\\u003c/a\\u003e , \\u003ca href=\\\"http://twitter.com/tflbusalerts\\\"\\u003e@TfLBusAlerts\\u003c/a\\u003e and \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e as well as the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "pageTitle": "How to appeal",
+ "keywords": "Businesses,Drivers,Motorbikers,Public,Driving,Motorcycle,TfL",
+ "description": "If your representation against a PCN is rejected, you have the right to appeal to an Adjudicator at London Tribunals",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Red routes",
+   "url": "/modes/driving/red-routes"
+  },
+  {
+   "title": "Penalty Charge Notices",
+   "url": "/modes/driving/red-routes/penalty-charge-notices"
+  },
+  {
+   "title": "Challenge a Penalty Charge Notice",
+   "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation"
+  },
+  {
+   "title": "How to appeal"
+  }
+ ],
+ "title": {
+  "title": "How to appeal",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If your representation against a PCN is rejected, you have the right to appeal to London Tribunals.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"http://www.londontribunals.gov.uk/\"\u003eLondon Tribunals\u003c/a\u003e manages adjudication services. Their decisions are final and binding on both\nyou and us. We are independent from London Tribunals and cannot control their decisions.",
+     "To appeal you need to complete the form sent with the Notice of\nRejection. Do not send this to us, send it to the address shown\non the form. You may choose either a personal or postal hearing.",
+     "Please \u003ca href=\"http://www.londontribunals.gov.uk/about/contact-us-getting-here\"\u003econtact London Tribunals\ndirectly\u003c/a\u003e for further information and details about when your case will\nbe heard.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Appeal successful\"}",
+     "If your appeal is successful it is recorded as 'allowed'. This means\nthat either we have reconsidered the evidence and now decided not to\ncontest the appeal or that the adjudicator has considered the facts and\nfound in your favour. This will mean that you may no longer be liable\nfor the Penalty Charge Notice.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Appeal refused\"}",
+     "If your appeal is refused, this means that following consideration by\nthe adjudicator, the tribunal has found in our favour. The adjudicator will have listed the reasons why and given direction as to\nthe amount that is owed and how quickly this must be paid."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "Red route maps",
+      "url": "/modes/driving/red-routes/red-route-maps",
+      "image": {}
+     },
+     {
+      "title": "Rules of red routes",
+      "url": "/modes/driving/red-routes/rules-of-red-routes",
+      "image": {}
+     },
+     {
+      "title": "Penalty Charge Notices",
+      "url": "/modes/driving/red-routes/penalty-charge-notices",
+      "image": {}
+     },
+     {
+      "title": "Pay a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/pay-a-pcn",
+      "image": {}
+     },
+     {
+      "title": "Challenge a Penalty Charge Notice",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/make-a-representation",
+      "image": {}
+     },
+     {
+      "title": "How to appeal",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/how-to-appeal",
+      "image": {}
+     },
+     {
+      "title": "Grounds for making a representation",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/grounds-for-making-a-representation",
+      "image": {}
+     },
+     {
+      "title": "Statutory Declarations",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/statutory-declarations",
+      "image": {}
+     },
+     {
+      "title": "Witness statements",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/making-a-representation/witness-statement",
+      "image": {}
+     },
+     {
+      "title": "Enforcement process",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-process",
+      "image": {}
+     },
+     {
+      "title": "Enforcement agent \u0026 bailiffs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/enforcement-agent-and-bailiffs",
+      "image": {}
+     },
+     {
+      "title": "Newly purchased vehicles",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/newly-purchased-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Local Authority PCNs",
+      "url": "/modes/driving/red-routes/penalty-charge-notices/local-authority-pcns",
+      "image": {}
+     },
+     {
+      "title": "Red route dispensations",
+      "url": "/modes/driving/red-routes/dispensations",
+      "image": {}
+     },
+     {
+      "title": "Exemptions",
+      "url": "/modes/driving/red-routes/exemptions",
+      "image": {}
+     },
+     {
+      "title": "Contact red routes",
+      "url": "/modes/driving/red-routes/contact-red-routes",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/red-routes/contact-red-routes",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

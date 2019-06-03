@@ -1,0 +1,57 @@
+{
+ "pageTitle": "Choose vehicles",
+ "keywords": "TfL",
+ "description": "Select a vehicle from your account list or choose a new one.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Auto Pay",
+   "url": "/modes/driving/auto-pay"
+  },
+  {
+   "title": "Choose vehicles"
+  }
+ ],
+ "title": {
+  "title": "Choose vehicles",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Select a vehicle from your account list or choose a new one.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This vehicle is exempt.  Based on the vehicle details entered and information held by the DVLA and TfL this vehicle is exempt from London Road User Charging.",
+     "\u003cstrong\u003eThis may change without notice.  You can continue to apply for the Auto Pay service.\u003c/strong\u003e ",
+     "This vehicle is already on an Auto Pay service and can't be added again. If it is not on your service please call 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "You can't add this vehicle - please call us on 0343 222 2222 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

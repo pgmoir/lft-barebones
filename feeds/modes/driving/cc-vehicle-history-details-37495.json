@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Vehicle history details",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Vehicle history details"
+  }
+ ],
+ "title": {
+  "title": "Vehicle history details",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Find out which charges you need to pay to drive this vehicle in London.",
+     "You need to pay the Congestion Charge for this vehicle if you drive within the zone Monday to Friday, 07:00-18:00 excluding bank holidays and the period between Christmas Day and New Year's Day.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the Congestion Charge.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "This vehicle is currently registered for a 100% discount from the Congestion Charge. You can check when this discount expires in the 'Manage discounts' section of your account.",
+     "This vehicle is currently registered for a 90% Residents' discount. You can check when this discount expires in the 'Manage discounts' section of your account.",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the ULEZ.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle.",
+     "\u003cstrong\u003eThis may change - always check to see if you need to pay to drive within the zone.\u003c/strong\u003e ",
+     "This vehicle is currently registered for a 100% discount from the ULEZ.",
+     "This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can supply evidence that your vehicle does meet the ULEZ emissions standards, you will need to \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can supply evidence that your vehicle does meet the ULEZ emissions standards, you will need to \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle meets the ULEZ emissions standards. You don't have to pay the charge.",
+     "This vehicle does not meet the LEZ emissions standards. You need to pay the LEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can supply evidence that your vehicle does meet the LEZ emissions standards, you will need to \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e .",
+     "This vehicle does not meet the LEZ emissions standards. You need to pay the LEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.",
+     "If you believe this is incorrect, and you can supply evidence that your vehicle does meet the LEZ emissions standards, you will need to \u003ca href=\"/modes/driving/compliance-registration/before-you-start\"\u003eregister it with us\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

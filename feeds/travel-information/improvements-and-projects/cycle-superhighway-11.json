@@ -1,0 +1,119 @@
+{
+ "pageTitle": "Cycle Superhighway 11",
+ "keywords": "C,Cycle Superhighways,Roads,Cycling,TfL",
+ "description": "We are trying to re-work our plans to create a clearer, safer route for cyclists from Swiss Cottage to the West End",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Cycle Superhighway 11"
+  }
+ ],
+ "title": {
+  "title": "Cycle Superhighway 11",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Cycle Superhighway 11 (CS11) was designed to make Swiss Cottage an even better place to live and work while reducing road danger for people walking and cycling, and making it easier for them to get through the area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Court action by Westminster City Council in September 2018 has prevented us from starting work. The court ruled in Westminster's favour and we have not been granted an appeal hearing.",
+     "We will work with Camden Council to make the traffic-dominated Swiss Cottage area safer and less intimidating. We also want to work with the Crown Estate Paving Commission and The Royal Parks to address road danger in Regent's Park.",
+     "Find out more on the \u003ca href=\"https://consultations.tfl.gov.uk/cycling/cs-11/\"\u003eCycle Superhighway 11 consultation page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Scheme outline\"}",
+     "We had planned to make significant changes to existing road layouts and junctions along CS11 to make them clearer, safer and more convenient for cyclists and pedestrians.",
+     "Specifically the route would help separate cyclists from motor vehicles between Swiss Cottage and the West End.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycle Superhighway 11 - proposed final layout at Swiss Cottage\",\"url\":\"/cdn/static/cms/documents/cs11-swiss-cottage-final-layout.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.77MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cs11-swiss-cottage-layout-thumb.jpg\",\"alt\":\"Detail of final layout plan for CS11 at Swiss Cottage\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cs11-image-web.gif\",\"alt\":\"Artist's impression of Cycle Superhighway 11 looking north along Avenue Road, Swiss Cottage\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Change of name\"}",
+     "Later in 2019 we will change the name of routes on our cycle network, replacing 'Cycle Superhighway' and 'Quietway'.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consultation\"}",
+     "In early 2016 we consulted on detailed proposals for the CS 11 route from Swiss Cottage to the West End.",
+     "The consultation received 60% support from more than 6,000 respondents, but we needed to do more to address issues raised by the borough councils and local community. These included a concern among local residents that motor traffic would increase on some minor roads.",
+     "Based on feedback we proposed to let motor traffic make right turns from College Crescent into Finchley Road, and from Finchley Road southbound into Hilgrove Road. Traffic modelling indicates this would reduce the amount of traffic into nearby minor roads, and also improve access for local people who want to reach destinations to the west of Swiss Cottage.",
+     "Buses and cyclists would be allowed to turn left from Finchley Road into College Crescent. CS11 would then run along Avenue Road, the Outer Circle of The Regent's Park, Park Crescent and Portland Place."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Cycle Superhighway 4",
+      "url": "/travel-information/improvements-and-projects/cycle-superhighway-4",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycle Superhighway 9",
+      "url": "/travel-information/improvements-and-projects/cycle-superhighway-9",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycle Superhighways",
+      "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

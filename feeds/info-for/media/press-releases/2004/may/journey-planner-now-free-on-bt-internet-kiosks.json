@@ -1,0 +1,67 @@
+{
+ "pageTitle": "Journey Planner now free on BT Internet Kiosks",
+ "template": "page-content",
+ "breadcrumbs": null,
+ "title": {
+  "title": "Journey Planner now free on BT Internet Kiosks",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "TfL's Journey Planner, the on-line travel information service, is now available for free on BT Internet Kiosks."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Kiosks featuring Journey Planner can be found at 500 locations across London, on the street, London Underground and major rail stations.",
+     "The Kiosks already \"know\" where they are located in London, so all the user has to do is enter the address, bus / Tube stop, postcode or place of interest they are visiting and Journey Planner will work out how to get there by bus, Tube, tram, rail or even walking.",
+     "To find out how to travel to Tate Modern, for example, type 'Tate Modern' under place of interest, submit the inquiry and the Journey Planner will bring up a range of travel options, including the quickest route and how much it will cost to travel.",
+     "Ends",
+     "For more information please contact TfL Press Office on 020 7941 4141 or see \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"lid=\"http://www.tfl.gov.uk/journeyplanner\"\u003ewww.tfl.gov.uk/journeyplanner\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

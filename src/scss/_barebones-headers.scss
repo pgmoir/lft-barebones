@@ -1,0 +1,27 @@
+// allows simple placement of icon on h1 that will hold it's own ground responsively and when wrapped
+// parent needs to have position set to relative for icon absolute position to stay within its container
+// padding on h1 gives space when icon present otherwise h1 title should use full line width
+// TODO parameters should scale down on smaller devices
+// h1[class*="icon-"],
+// .h1[class*="icon-"] {
+//   padding-right: 5rem;
+//   position: relative;
+
+//   &:after{
+//     position: absolute;
+//     right: 1rem;
+//   }
+// }
+
+// // TODO these should be svg and should scale relative to parent
+// h1, .h1 {
+//   &.icon-buses:after{ content:url(images/icons/bus.png); }
+//   &.icon-cc:after{ content:url(images/icons/cc.png); }
+//   &.icon-dlr:after{ content:url(images/icons/dlr.png); }
+//   &.icon-lez:after{ content:url(images/icons/lez.png); }
+//   &.icon-tfl:after{ content:url(images/icons/tfl.png); }
+//   &.icon-tram:after{ content:url(images/icons/tram.png); }
+//   &.icon-tube:after{ content:url(images/icons/tube.png); }
+//   &.icon-eal:after{ content:url(images/icons/eal.png); }
+//   &.icon-overground:after{ content:url(images/icons/overground.png); }
+// }

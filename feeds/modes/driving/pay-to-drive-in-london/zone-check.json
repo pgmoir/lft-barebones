@@ -1,0 +1,61 @@
+{
+ "keywords": "TfL",
+ "description": "Pay to drive in london zone checker",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Pay to drive in London",
+   "url": "/modes/driving/pay-to-drive-in-london"
+  },
+  {
+   "title": "Where are you driving?"
+  }
+ ],
+ "title": {
+  "title": "Where are you driving?",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "The central London area is shown in red on this map. If you're not sure if your journey takes you through the central London area, enter a street name, postcode or landmark into the checker.",
+     "If you drive within the central London area you need to pay the LEZ and the ULEZ charges. If you travel Monday-Friday, 07:00-18:00 you also need to pay the Congestion Charge.",
+     "If you drive within the Greater London area, within the M25 but not within the central London area, you will only need to pay the LEZ charge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"p\"}",
+     "The central London area is shown in the smaller red area on this map. If you're not sure if your journey takes you through the central London area, enter a street name, postcode or landmark into the checker. The larger LEZ area is in green.",
+     "If you drive within the central London area you need to pay the LEZ and the ULEZ charges. If you travel Monday-Friday, 07:00-18:00 you also need to pay the Congestion Charge.",
+     "If you drive within the Greater London area, within the M25 but not within the central London area, you will only need to pay the LEZ charge.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Find your zone\"}",
+     "Our postcode checker can tell you which zone(s) an address is in. (These results will not show on the map above).",
+     "* required field"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

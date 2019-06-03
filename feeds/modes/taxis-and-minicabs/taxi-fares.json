@@ -1,0 +1,121 @@
+{
+ "pageTitle": "Taxi fares",
+ "keywords": "TfL",
+ "description": "Table showing  typical fares and journey times based on distance for three types of tariff.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Taxis \u0026 minicabs",
+   "url": "/modes/taxis-and-minicabs/index"
+  },
+  {
+   "title": "Taxi fares"
+  }
+ ],
+ "title": {
+  "title": "Taxi fares",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Taxi fares vary depending on when you travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Typical fares and journey times\"}",
+     "This table shows typical fares and journey times based on distance for \u003ca href=\"/modes/taxis-and-minicabs/taxi-fares/tariffs\"\u003ethe different tariffs.\u003c/a\u003e Fares and journey times may be higher if there are delays or heavy traffic.",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eDistance\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eApprox \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eMonday to Friday \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eMonday to Friday\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eEvery night\\u003c/strong\\u003e \"],[\"1 mile\",\"6 - 13 mins\",\"£6 - £9.40\",\"£6 - £9.60\",\"£7 - £9.60\"],[\"2 miles\\u003cbr /\\u003e\",\"10 - 20 mins\",\"£9.20 - £14.60\",\"£9.60 - £14.80\",\"£10.60 - £15\"],[\"4 miles\\u003cbr /\\u003e\",\"16 - 30 mins\",\"£16 - £23\",\"£17 - £24\",\"£18 - £28\"],[\"6 miles\\u003cbr /\\u003e\",\"28 - 40 mins\",\"£24 - £31\",\"£30 - £33\",\"£30 - £34\"],[\"Between Heathrow and\\u003cbr /\\u003eCentral London\",\"30 - 60 mins\",\"£48 - £90\",\"£48 - £90\",\"£48 - £90\"]]}",
+     "There is a minimum fare of £3.00 at all times.",
+     "The passenger will be expected to pay the full fare displayed on the meter at the end of the journey unless the driver and passenger agree on the final fare to be charged before the start of the journey.",
+     "Once a taxi journey reaches approximately six miles, the rate at which the taxi fare increases changes. During Tariff 1 and 2, the rate increases and during Tariff 3, the rate decreases.",
+     "Fares for destinations outside Greater London may be negotiated between\nthe passenger and driver before the journey. If no fare is agreed before\nthe start of the journey then the maximum fare will be that shown on\nthe meter at the end of the journey.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you can expect from the driver\"}",
+     "Unless they have a good reason not to, drivers must:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Accept any hiring up to 12 miles or up to one hour duration, if the destination is in Greater London\",\"Accept any hiring up to 20 miles if starting at Heathrow Airport\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Extra charges\"}",
+     "Extra charges must be added on the meter at the start of the journey. There are no extra charges for luggage, additional passengers or carrying of assistance dogs.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Telephone and online bookings\"}",
+     "There is an extra charge of up to £2 if the taxi is booked by phone or online. When booking a taxi, other charges may also apply and terms and conditions may vary so please check when you book.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Heathrow Airport\"}",
+     "There is an extra charge of £2.80 for journeys that start from Heathrow Airport taxi ranks.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Christmas and New Year\"}",
+     "There is an extra charge of £4 for journeys made between 20:00 on 24 December and 06:00 on 27 December and between 20:00 on 31 December and 06:00 on 2 January.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bank cards\"}",
+     "There is no extra charge when paying by credit or debit card. \u003ca href=\"https://tfl.gov.uk/info-for/taxis-and-private-hire/accepting-card-payments\"\u003eAll taxis must have a working fixed card payment device in the passenger compartment and accept payment by contactless card.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Soiling\"}",
+     "The driver may charge the passenger up to £60 for soiling if it requires the taxi to be taken out of service for cleaning.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi Fare Update October 2018\",\"url\":\"/cdn/static/cms/documents/taxi-and-private-hire-fare.pdf\",\"icon\":\"download\",\"size\":\"PDF 153KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The information on this page is effective from Saturday 6 October 2018."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Taxis \u0026 minicabs",
+    "links": [
+     {
+      "title": "Find a taxi or minicab",
+      "url": "/modes/taxis-and-minicabs/book-a-taxi",
+      "image": {}
+     },
+     {
+      "title": "Taxi fares",
+      "url": "/modes/taxis-and-minicabs/taxi-fares",
+      "image": {}
+     },
+     {
+      "title": "Tariffs",
+      "url": "/modes/taxis-and-minicabs/taxi-fares/tariffs",
+      "image": {}
+     },
+     {
+      "title": "Taxicard \u0026 Capital Call",
+      "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
+      "image": {}
+     },
+     {
+      "title": "Guide to taxis and private hire",
+      "url": "/modes/taxis-and-minicabs/what-to-expect-from-your-journey",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Taxis \u0026 minicabs",
+     "url": "/modes/taxis-and-minicabs/what-to-expect-from-your-journey",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

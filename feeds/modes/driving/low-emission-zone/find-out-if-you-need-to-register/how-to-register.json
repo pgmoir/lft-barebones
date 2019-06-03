@@ -1,0 +1,214 @@
+{
+ "pageTitle": "How to register",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "Find out if you need to register",
+   "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register"
+  },
+  {
+   "title": "How to register"
+  }
+ ],
+ "title": {
+  "title": "How to register",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Registering your vehicle is simple and completely free. It takes up to 10 working days, so be sure to allow enough time before driving within the Low Emission Zone (LEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"50+ vehicles\"}",
+     "If you have 50 or more vehicles that you want to register, please call us first so we can discuss the best way to manage this process and how long it will take to complete the registration process.",
+     "Call us on 0343 222 1111 or +44 (0)343 222 1111 from outside the United Kingdom. ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Registering for the LEZ\"}",
+     "\u003cstrong\u003eUK-registered vehicle:\u003c/strong\u003e If you're unsure how your vehicle is affected by the LEZ scheme, first \u003ca href=\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\"\u003echeck if your vehicle is affected\u003c/a\u003e . If you need to register, use the button below.",
+     "\u003cstrong\u003eNon-UK registered vehicle:\u003c/strong\u003e If you haven't already registered it with us, use the button below.",
+     "To complete the registration process you will first need to set up a London Road User Charging account. If you have already done this please 'sign in'.",
+     "You will then need to complete the LEZ vehicle registration form and provide additional documentary or photographic evidence. This is outlined in the guidance notes for your application type.",
+     "You can upload documents during the online process or you can choose to send them in by post after you have completed the initial registration.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"After completing your registration\"}",
+     "You'll receive an email or letter from us confirming if your application has been successful. Until you receive this you should continue to pay the daily charge if you're driving within the LEZ. Otherwise you may be liable for a penalty charge.",
+     "We classify vehicles based on their body type, gross vehicle weight, unladen weight, number of seats and fuel type. Please check your vehicle registration document (V5C) to make sure these details are correct. If any information is incorrect, you need to contact the DVLA to get the details amended.",
+     "Some data, like unladen weight, are set by the vehicle manufacturer when the vehicle was originally designed and certified, and can't be changed.",
+     "When you receive a revised V5C from the DVLA, please complete an online check to confirm your vehicle's classification."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "How to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register/how-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}
