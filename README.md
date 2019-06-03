@@ -28,8 +28,6 @@ NB You may need to run this, to download the additional package
 go get golang.org/x/net/html
 ```
 
-Still outstanding
+## Still outstanding
 
-/campaign/tube-improvements/behind-the-scenes/escalator-refurbishment has image scroller
-/campaign/tube-improvements/behind-the-scenes/signalling tube facts / use 
 /vision-zero-for-london /badly formed html with missing sectional classes
