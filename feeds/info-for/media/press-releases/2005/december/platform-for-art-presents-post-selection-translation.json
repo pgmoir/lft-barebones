@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Platform for Art presents Post Selection Translation",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Platform for Art presents Post Selection Translation",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,55 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Platform for Art, London Underground's (LU) public art programme, is pleased to present a new installation by artist Matt Collier, Post Selection Translation, on display at South Wimbledon Tube station until 31 March 2006."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Post Selection Translation is on display until 31 March 2006",
+     "Post Selection Translation is the continuation of a partnership project between Wimbledon School of Art and \u003ca href=\"/corporate/projectsandschemes/2425.aspx\"\u003ePlatform for Art's\u003c/a\u003e Creative Communities programme (which aims to reach London's diverse communities through art displays at underground stations).",
+     "Post Selection Translation, the third in a series of artworks based on the theme of motion to be created by Wimbledon School of Art, decorates the windows of a redundant retail unit at South Wimbledon station.",
+     "Post Selection Translation features anatomic forms drawing parallels between the human body's internal scaffolding and the station's architecture.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Matt Collier was born in 1977 and graduated with a degree in Fine Art from Wimbledon School of Art in July 2004\",\"He now lives and works in Streatham\",\"Previous artworks by the Wimbledon School of Art to have been on display at South Wimbledon Underground station include Holiday by Ed Everett \\u0026 Julia Parry and Untitled by Martin Barron\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

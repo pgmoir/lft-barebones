@@ -38,12 +38,12 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We monitor the locations, dimensions, operational hours and other characteristics of bus lanes in London. This information is available to relevant public bodies including London boroughs.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "The database cannot be accessed directly by the general public.",
+     "\u003cstrong\u003eThe database can't be accessed directly by the general public.\u003c/strong\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Borough access to the database\"}",
-     "Borough officers can access the database through the T-Snap/Citrix remote access server. Any officers who do not have access to this already and want to use the database can email \u003ca href=\"mailto:BusLaneDatabase@tfl.gov.uk\"\u003eBusLaneDatabase@tfl.gov.uk\u003c/a\u003e .",
+     "Borough officers can access the database through the T-Snap/Citrix remote access server. Any officers who do not have access to this already can get in touch with their engagement officer in our Local Community and Partnerships team.",
      "The database will be updated regularly to capture any changes such as population/bus passenger increases. We welcome any information from Boroughs that could help us keep the database up to date.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Information for the public\"}",
-     "Members of the public who need information either from the bus lane database or about individual Traffic Regulation Orders for bus lanes on TfL-managed roads can \u003ca href=\"/help-and-contact/index\"\u003euse our contact form on Help \u0026 contact\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Information for the public\"}",
+     "Members of the public who need information either from the bus lane database or about individual Traffic Regulation Orders for bus lanes on TfL-managed roads can \u003ca href=\"/help-and-contact/index\"\u003euse our contact form on Help \u0026 contacts\u003c/a\u003e .",
      "Information about these roads is on the \u003ca href=\"/modes/driving/red-routes\"\u003eRed routes pages\u003c/a\u003e . All other roads are the responsibility of the relevant highway authority, usually the local borough.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the database\"}",
      "The bus lane database is used for reporting purposes and includes information on:",
@@ -99,18 +99,8 @@
       "image": {}
      },
      {
-      "title": "Healthy Workplace Charter",
-      "url": "/info-for/boroughs/healthy-workplace-charter",
-      "image": {}
-     },
-     {
-      "title": "Cycling Toolkit",
+      "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Safety",
-      "url": "/info-for/boroughs/safety",
       "image": {}
      },
      {

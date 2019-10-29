@@ -14,10 +14,6 @@
    "url": "/modes/buses/index"
   },
   {
-   "title": "Changes to bus routes",
-   "url": "/modes/buses/bus-service-changes"
-  },
-  {
    "title": "Temporary bus changes"
   }
  ],
@@ -94,18 +90,13 @@
     "title": "Buses",
     "links": [
      {
-      "title": "Changes to bus routes",
-      "url": "/modes/buses/bus-service-changes",
+      "title": "Temporary bus changes",
+      "url": "/modes/buses/temporary-bus-changes",
       "image": {}
      },
      {
       "title": "Permanent bus changes",
       "url": "/modes/buses/permanent-bus-changes",
-      "image": {}
-     },
-     {
-      "title": "Temporary bus changes",
-      "url": "/modes/buses/temporary-bus-changes",
       "image": {}
      },
      {

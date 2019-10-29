@@ -71,6 +71,15 @@
   ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

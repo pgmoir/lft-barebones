@@ -46,7 +46,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Working with the Rail Delivery Group, we run an ongoing survey on Travelcards to help us understand how they are used and to raise money for charity.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We distribute thousands of Travelcard surveys every year for customers to record their journeys on public transport. We cannot get this data from Oyster records alone because customers using Travelcards on Oyster do not necessarily need to touch in and out when travelling within their ticket's zones.",
+     "We distribute thousands of Travelcard surveys every year for customers to record their journeys on public transport. We can't get this data from Oyster records alone because customers using Travelcards on Oyster don't necessarily need to touch in and out when travelling within their ticket's zones.",
      "For each diary completed and returned to us, we donate £2 split equally between our four nominated registered charities:",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.asthma.org.uk/\\\"\\u003eAsthma UK\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.rspb.org.uk\\\"\\u003eThe Royal Society for the Protection of Birds\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.mariecurie.org.uk/\\\"\\u003eMarie Curie\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.citizensadvice.org.uk/\\\"\\u003eCitizens Advice Bureau\\u003c/a\\u003e \"]}",
      "Customers have helped us raise more than £489,775 as of May 2019. Our latest donation shared £1,854 among our nominated charities.",
@@ -132,11 +132,6 @@
      {
       "title": "Healthy Streets",
       "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets",
-      "image": {}
-     },
-     {
-      "title": "Improving station information",
-      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/improving-station-information",
       "image": {}
      },
      {

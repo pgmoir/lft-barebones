@@ -49,12 +49,12 @@
      "Our Countdown Signs provide live bus arrival information at 2,500 stops in London. New technology means improved readability for all our passengers.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Temporary removal of signs\"}",
      "We sometimes have to temporarily remove the Countdown Signs so that we can repair or upgrade shelters. View the list of affected bus stops:",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Temporary Countdown sign removals\",\"url\":\"/cdn/static/cms/documents/temporary-countdown-sign-removals.pdf\",\"icon\":\"download\",\"size\":\"PDF 81KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Temporary Countdown sign removals\",\"url\":\"/cdn/static/cms/documents/temporary-countdown-sign-removals.pdf\",\"icon\":\"download\",\"size\":\"PDF 84KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Depending on the complexity of the work, it can take some time before we put the sign back. Until then, please use this site or text us to get live bus arrival information.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Digital Signs\"}",
      "If you're an organisation keen to offer employees and customers the benefits of live bus arrival information on your premises, the Digital Sign is the solution.",
      "The Digital Sign can display up to four bus stops on your organisation's TV screens and PCs, and is ideal for venues like hospital receptions, town halls, schools, colleges and shopping centres.",
-     "Find out more about \u003ca href=\"/info-for/business-and-commercial/travel-for-business/digital-signs\"\u003eDigital Signs\u003c/a\u003e ."
+     "Find out more about \u003ca href=\"/info-for/business-and-commercial/digital-signs\"\u003eDigital Signs\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -80,8 +80,13 @@
     "title": "Buses",
     "links": [
      {
-      "title": "Changes to bus routes",
-      "url": "/modes/buses/bus-service-changes",
+      "title": "Temporary bus changes",
+      "url": "/modes/buses/temporary-bus-changes",
+      "image": {}
+     },
+     {
+      "title": "Permanent bus changes",
+      "url": "/modes/buses/permanent-bus-changes",
       "image": {}
      },
      {

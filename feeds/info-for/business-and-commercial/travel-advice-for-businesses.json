@@ -1,0 +1,89 @@
+{
+ "pageTitle": "Travel advice for business",
+ "keywords": "TfL",
+ "description": "General travel information aimed at businesses and their employees",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Travel advice for business"
+  }
+ ],
+ "title": {
+  "title": "Travel advice for business",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find tools and travel advice to help you, your employees and visitors get the most from the transport network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfb-advice-page-image_rdax_400x250.jpg\",\"alt\":\"A stylised London cityscape\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Flexible working\"}",
+     "Changing your staff's start and end times by even 15 minutes can give them a quicker, more pleasant commute. This will increase staff productivity, motivation and engagement helping your business to minimise cost and attract and retain high quality talent.",
+     "\u003cstrong\u003eResources\u003c/strong\u003e : Search your local \u003ca href=\"/travel-information/stations-stops-and-piers/index\"\u003eTube stations\u003c/a\u003e and our \u003ca href=\"/plan-a-journey/index\"\u003ejourney planner\u003c/a\u003e crowding information to identify relevant information about the busiest times and places.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking and cycling\"}",
+     "Find out about \u003ca href=\"/modes/cycling/santander-cycles/business-accounts\"\u003eSantander cycles business accounts\u003c/a\u003e . Our bike-sharing scheme is a great way for you and your staff to get around. You can use the bikes for business travel or commuting,",
+     "You can offer salary sacrifice tax breaks as a standard benefit to help employees with affordable cycling equipment. The Department for Transport has guidance on setting up a \u003ca href=\"https://web.archive.org/web/20190408021151/https://www.gov.uk/government/publications/cycle-to-work-scheme-implementation-guidance\"\u003eCycle to Work salary sacrifice scheme\u003c/a\u003e .",
+     "\u003cstrong\u003eResources\u003c/strong\u003e : Our Walking Tube map shows walking time between stations. The steps map shows the number of steps required for these journeys. \u003ca href=\"https://tfl.gov.uk/maps/track/tube\"\u003eView our Tube maps\u003c/a\u003e ",
+     "Our \u003ca href=\"/modes/cycling/index\"\u003ecycling pages\u003c/a\u003e contain information on our \u003ca href=\"/modes/cycling/santander-cycles\"\u003eSantander Cycles\u003c/a\u003e hire scheme and \u003ca href=\"/modes/cycling/cycling-in-london/cycle-skills\"\u003ecycle skills courses\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other tools\"}",
+     "We provide a number of information sources to keep you informed:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Access \\u003ca href=\\\"/info-for/open-data-users/index\\\"\\u003edata feeds and download widgets\\u003c/a\\u003e to help your company plan around forthcoming events and works\",\"Check \\u003ca href=\\\"/status-updates/index\\\"\\u003etraffic status updates\\u003c/a\\u003e and bus status updates for \\u003ca href=\\\"/modes/buses/live-bus-arrivals\\\"\\u003elive bus arrivals\\u003c/a\\u003e \",\"Follow \\u003ca href=\\\"https://twitter.com/TfLTrafficNews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e and \\u003ca href=\\\"https://twitter.com/TfLBusAlerts\\\"\\u003e@TfLBusAlerts\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Digital bus and river signs\"}",
+     "Order your free bespoke live bus arrivals or river departures digital signs and start displaying live information on your display equipment for customers and other visitors. Find out more about \u003ca href=\"/info-for/business-and-commercial/digital-signs\"\u003edigital signs\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

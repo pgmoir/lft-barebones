@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Continuing the chain reaction, cycling in London in 2005",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Continuing the chain reaction, cycling in London in 2005",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,65 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "With the number of cyclists in London soaring, Transport for London (TfL) will increase its investment in cycling by 40% in 2005/6 to improve the safety and convenience of cycling in the Capital. TfL has also commissioned a report from the Transport Research Laboratory to investigate the effectiveness of investment in cycling infrastructure."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "TfL has been working in partnership with the Boroughs and cycling groups to successfully promote cycling in the capital, achieving a 23% increase in the levels of cycling on the Transport for London Road Network over the summer of 2004 compared with the previous year. In sharp contrast with the decline in cycling across the UK over the last 25 years, over 330,000 journeys are now made by bicycle in the capital every day.",
+     "Peter Hendy, TfL's Managing Director of Surface Transport, said",
+     "\"Getting London moving safely is TfL's main priority. Cycling numbers have soared and helped improve the health of London and Londoners. Whilst good work has been done in recent years, much more needs to be done. One fatality on London's roads is one too many, and we will therefore continue to make improvements to make London a safe and attractive city to cycle in.\"",
+     "TfL has made vast improvements to the cycling infrastructure in London, with measures including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"more cycling parking facilities - TfL is providing an additional 5,000 spaces in London schools alone by the end of March 2005.\",\"cycle training by experienced instructors so that those new to cycling need not be intimidated by cycling in the city\",\"award winning safe and secure cycling facilities at train stations, including the Surbiton station development\",\"expanding the cycle network by 58km to 350km in the past year\",\"introducing the London-wide cycle action plan (LCAP) to ensure quality targets are met\"]}",
+     "Over the last year TfL has undertaken a number of pioneering studies to find out the impact of a selection of recent cycling schemes. The results show a range of benefits",
+     "{\"template\":\"bulletlist\",\"items\":[\"More reliable, and quicker journey times - e.g. 30 seconds per km off journey times\",\"Casualty savings - e.g. 50% reduction in cycle accidents within 20mph zones\",\"A more pleasant travel experience\",\"Increased levels of regular cycling\",\"Improved health/fitness - valued at £500 per regular cyclist per annum\",\"Fewer car journeys therefore decreased congestion and lower emissions\"]}",
+     "TfL also commissioned the Transport Research Laboratory Limited to review the procedures associated with the development and delivery of measures designed to improve safety and convenience for cyclists in London.",
+     "The report concluded that TfL has been effective in supporting increases in cycle use, and that the organisation has the ability and willingness to meet the challenges of getting London moving. However, the report emphasises the need for \"consistent standards and processes embedded within the design, development and implementation phases of schemes designed specifically for cyclists and those designed for other road users which impact on cyclists.\"",
+     "In response to the report, TfL is committed to a range of improvements including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"improving the project and programme management practice, skills and governance within TfL Surface Transport, establishing best practice and a consistent framework of process and procedure\",\"continue with, and further develop, a work programme of 'impact studies' and market research in order to continue to expand the understanding of benefits and issues with regards to cycle schemes and priorities\",\"further improve its consultation processes\",\"give careful consideration to the introduction of 20mph speed limits and other measures to safeguard cycling on Thames bridges, including a new cycle scheme for Blackfriars Bridge\"]}",
+     "A detailed action plan will be prepared in February 2005 and TfL will periodically report its progress against this plan.",
+     "A full copy of the TRL report can be found at \u003ca href=\"/businessandpartners/publications/1421.aspx\"\u003eCycling publications page\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Regular cycling improves strength, stamina and posture.\",\"On an average journey of four miles in Central London, cycling is the fastest mode of transport.\",\"You can park your bike almost anywhere.\",\"It takes eight bicycles to occupy the space taken by just one car.\",\"The more people cycle, the more aware drivers become and the safer the roads are for cyclists.\",\"And more people cycling means fewer cars on the road, making it safer for cyclists.\",\"Six out of ten men and seven out of ten women are not physically active enough to benefit their health.\",\"Cycling increases calorie consumption and raises the metabolic rate, which can help weight loss.\",\"In addition to infrastructure improvements, TfL's Cycling Centre of Excellence provides\",\"high quality information including free cycle maps showing quiet routes and bikeshops,\",\"support for bike tryout , maintenance and other local initiatives\",\"High profile campaigns and promotional activity\"]}",
+     "\u003cbr /\u003e£8.6 million is being invested in engineering measures specifically to improve the safety and convenience of cycling in the Capital, with a further £3.5 million being invested in cyclist education and training and for cycle parking facilities. Investment will increase by 40% in 2005/6 to a total of £17million, in line with TfL's investment programme."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

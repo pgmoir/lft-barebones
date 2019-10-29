@@ -1,5 +1,37 @@
 ﻿
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@section adverts {
+    <div class="top-banner-advert" aria-hidden="true">
+        <div class="large" data-advert="/76889402/driving/payment" data-advert-sizes="970, 90|970, 250"></div>
+        <div class="medium" data-advert="/76889402/driving/payment" data-advert-sizes="728, 90"></div>
+        <div class="small" data-advert="/76889402/driving/payment" data-advert-sizes="300, 50|320, 50"></div>
+    </div>
+}
+
+
+ 
   
 
 
@@ -182,12 +214,54 @@
  
     
     
-    <div></div>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="advert-tile unsponsored-style google-ads" aria-hidden="true">
+  <div class="advert-link">
+    <div class="advert-content">
+        <div class="medium-large" data-advert="/76889402/driving/payment" data-advert-sizes="300, 250"></div>
+        <div class="small" data-advert="/76889402/driving/payment" data-advert-sizes="300, 250"></div>
+    </div>
+  </div>
+</div>
+@{
+    ViewBag.AmazonSlot = "'amznslots'";
+    ViewBag.AmazonAds = "'3199'"; // to add another value, this needs to be ViewBag.AmazonAds = "'3199','xx'";
+}
+      
+
+ </div>
     
     <div data-set="sidenav-container" class="small-medium"></div>
   </div>
 </div>
- 
+
+     @section scripts {
+<div class="bottom-advert ">
+    <div class="close-ad-button visually-hidden"><span class="close-icon-circle"></span></div>
+    <div data-advert="/76889402/driving/" data-advert-sizes="320, 50"></div>
+</div>
+}
+
  
         
         

@@ -1,7 +1,9 @@
 {
+ "pageTitle": "DLR celebrates 25th birthday by fulfilling Olympian task",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "DLR celebrates 25th birthday by fulfilling Olympian task",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,71 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Capital's first fully accessible railway is providing key links for the Paralympic Games."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The DLR is a crucial part of the Games-time transport network and is helping get millions of people to and from their events on time",
+     "{\"template\":\"bulletlist\",\"items\":[\"A total of 7.2 million passengers were carried during the London 2012 Olympic Games - up 100 per cent on normal levels\",\"The Games legacy ensures Docklands Light Railway's (DLR's) role as the 'regeneration railway' for local communities for years to come\"]}",
+     "In only 25 years, the (DLR) has grown from just two routes and 11 trains to become a key part of the world's largest and most prestigious sporting event, as well as serving a rapidly expanding local community.",
+     "And as London's first fully accessible railway celebrates its 25th birthday, the DLR is set to repeat its successful role at the heart of the London 2012 Olympic Games at the Paralympic Games in under a week's time.",
+     "The DLR was opened by the Queen in August 1987, with 11 trains serving 15 stations and in its first year of operation it carried 6.7 million people.",
+     "Today the railway - which is entirely step-free - has 45 stations, 46 km of track, 149 carriages, and carries 86 million passengers each year.",
+     "The network was one of Britain's first light rail systems, and it has one of the safest and most advanced automatic train control systems in the world.",
+     "Since opening, it has been extended to Bank, Beckton, Lewisham and Woolwich Arsenal.",
+     "Most recently, TfL has delivered an Olympic Delivery Authority-funded extension that has seen the network extended and four new stations created at Star Lane, Abbey Road, Stratford High Street and Stratford International.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Breaking records\"}",
+     "During the Paralympic Games the DLR will again connect a range of venues including the Olympic Park, Excel, the Royal Artillery Barracks at Woolwich Arsenal and Greenwich Park.",
+     "DLR Director Jonathan Fox said: 'We are proud to have been at the heart of communities in east and south east London for the last 25 years, and to have played our part in supporting Team GB and serving the international sporting community during the Games.",
+     "'In doing so, the DLR broke all previous records for passenger numbers thanks to dedicated staff and many years of preparation beforehand which included adding extra carriages and installing signalling upgrades.",
+     "'When the Games are over, this Olympic legacy will ensure that team DLR will be well placed to continue its daily role serving commuters as well as being part of the foundations for regenerating this vibrant and developing part of the Capital.'",
+     "David Stretch, Managing Director of Serco Docklands Ltd, which has operated the railway on behalf of Transport for London (TfL) and DLR since 1997, said: 'We are proud to have worked in partnership with DLR for 15 years, where we have improved reliability and delivered an excellent service, to help make London's regeneration railway such a success.'",
+     "Hugh Sumner, Director of Transport for the ODA, said: 'The DLR is a crucial part of the Games-time transport network and is helping get millions of people to and from their events on time.",
+     "'The investment that has been made to enhance and extend the service - including new rolling stock and stations - will benefit Londoners for years to come.'",
+     "During the Olympics 7.2 million passengers were carried on the DLR - up 100 per cent on normal levels.",
+     "On 3 August 2012, day seven of the Olympics, the DLR carried more than 500,000 passengers - its busiest day ever.",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Extensions to the DLR were completed to Lewisham in 1999 and to King George V via London City Airport in 2005. The Stratford International Extension from Canning Town to Stratford International with four new stations was completed in August 2011\",\"In May 2011 DLR completed the three-car project which involved increasing the length of trains from two to three carriages. These longer trains allow 50 per cent more people to travel. The entire DLR network is now capable of running these longer trains which provide more comfortable journeys and more space on platforms\",\"The London 2012 Games has the most accessible public transport system of any Olympic or Paralympic Games in history\",\"TfL has invested hundreds of millions of pounds in making the transport network more accessible in the last few years, with improvements such as new lifts, trains, platform humps to give level access for wheelchair users when boarding and alighting Tube trains, wide-aisle gates, tactile paving and audio-visual displays\",\"A total of 66 Tube stations are step-free, all Tube stations have staff trained to assist passengers, and every station on the DLR is step-free. There will also be manually-operated ramps at further 16 Tube stations\",\"London Overground's new fleet of state-of-the-art trains  are all fully accessible, and of its 38 accessible stations some are fully step-free from street to train with all others equipped with manual boarding ramps\",\"All of London's 8,500 buses which cover around 700 routes are low floor and fitted with wheelchair ramps, (with the exception of a handful of Routemasters operating on heritage routes 9 and 15)\",\"All 22,000 taxis are fitted with wheelchair ramps, and all piers and most boats in London are accessible\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

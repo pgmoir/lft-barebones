@@ -38,10 +38,10 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We're working with the police to make London's transport system even safer.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We fund more than 2,500 officers across the Metropolitan Police\nService (MPS), British Transport Police (BTP) and the City of London\nPolice (CoLP). They police London's transport network to tackle crime\nand antisocial behaviour, and make you feel safer when travelling in\nLondon.",
+     "We fund more than 2,500 officers across the Metropolitan Police Service (MPS), British Transport Police (BTP) and the City of London Police (CoLP). They police London's transport network to tackle crime and antisocial behaviour, and make you feel safer when travelling in London.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Metropolitan Police Service\"}",
-     "We significantly fund a dedicated unit with the MPS called the \u003ca href=\"http://content.met.police.uk/Site/roadsandtransport\"\u003eMPS Roads and Transport Policing Command\u003c/a\u003e (RTPC).  The RTPC is currently the largest police command in the UK; made up of over 2,300 officers who work to ensure all journeys across the road and surface transport network are safe, secure and reliable. Specifically, the RTPC:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Keep crime low and reduce fear of crime on the surface transport network\",\"Reduce road collisions by targeting dangerous road users and managing traffic flow around incidents on the London road network\",\"Investigate the most serious KSI (Killed or Seriously Injured) collisions with their specialist investigation skills\",\"Carry out cycle safety events, particularly through the \\u003ca href=\\\"http://content.met.police.uk/Article/Exchanging-Places-Events/1400007586440/1400007586440\\\"\\u003eExchanging Places\\u003c/a\\u003e events; respond to collisions and breakdowns whenever they happen at East London tunnels, including Blackwall Tunnel\",\"Target the operators and rivers of tippers, skips, construction and waste vehicles who create danger to cyclists, pedestrians and P2W (Powered 2 Wheelers) on London's roads.\"]}",
+     "We significantly fund a dedicated unit with the MPS called the \u003ca href=\"http://content.met.police.uk/Site/roadsandtransport\"\u003eMPS Roads and Transport Policing Command\u003c/a\u003e (RTPC). The RTPC is currently the largest police command in the UK; made up of over 2,300 officers who work to ensure all journeys across the road and surface transport network are safe, secure and reliable. Specifically, the RTPC:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Keep crime low and reduce fear of crime on the surface transport network\",\"Reduce road collisions by targeting dangerous road users and managing traffic flow around incidents on the London road network\",\"Investigate the most serious KSI (Killed or Seriously Injured) collisions with their specialist investigation skills\",\"Carry out cycle safety events\",\"Respond to collisions and breakdowns whenever they happen at East London tunnels, including Blackwall Tunnel\",\"Target the operators and rivers of tippers, skips, construction and waste vehicles who create danger to cyclists, pedestrians and P2W (Powered 2 Wheelers) on London's roads.\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"British Transport Police\"}",
      "The \u003ca href=\"http://www.btp.police.uk/\"\u003eBTP\u003c/a\u003e is the national police force for the railways in the UK. It is responsible for policing the Tube, DLR, Trams, London Overground, Emirates Air Line and the rail network in London.\u003cbr /\u003e\u003cbr /\u003eLondon, the South and East of England is served by BTP's B Division, which is divided into three sub-divisions:",
      "{\"template\":\"bulletlist\",\"items\":[\"TfL sub-division is dedicated to the Tube and DLR\",\"East sub-division covers rail stations in north London and beyond (as far as East Anglia)\",\"South sub-division covers rail stations in south London, Trams and the south east of England\"]}",
@@ -53,8 +53,7 @@
      "There are local transport policing teams in every London borough covering the public transport system.",
      "MPS Safer Transport Teams focus primarily on the bus and road networks, while BTP Neighbourhood Policing Teams work on the rail, Tube and DLR networks.",
      "The local transport policing teams provide a visible and familiar presence on the network. They engage with the public, staff and local communities to identify local concerns and take effective and appropriate action to deal with issues affecting the transport system.",
-     "Find your local \u003ca href=\"http://www.met.police.uk/transport/the_teams.html\"\u003eMPS Safer Transport Team\u003c/a\u003e and BTP \u003ca href=\"http://www.btp.police.uk/local_btp_teams.aspx\"\u003eNeighbourhood Policing Team\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\"}"
+     "Find your local \u003ca href=\"https://www.met.police.uk/a/your-area/safer-transport-teams2/\"\u003eMPS Safer Transport Team\u003c/a\u003e and BTP \u003ca href=\"http://www.btp.police.uk/local_btp_teams.aspx\"\u003eNeighbourhood Policing Team\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -180,8 +179,8 @@
       "image": {}
      },
      {
-      "title": "Metropolitan Police crime statistics",
-      "url": "http://maps.met.police.uk/tables.htm",
+      "title": "Metropolitan Police crime statisticsh",
+      "url": "https://maps.met.police.uk/sd/stats-and-data/met/year-end-crime-statistics/",
       "icon": "external",
       "image": {}
      }

@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Record spending for local communities in London",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Record spending for local communities in London",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,63 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "\u003cstrong\u003eThis press release was originally issued by the Mayor of London's press office at the \u003c/strong\u003e ",
+     "Boroughs across London are benefiting from record levels of funding from TfL",
+     "Ken Livingstone, Mayor of London, today announced a record £159m of funding for London boroughs to spend on local transport improvements during the next financial year, 2006/07.",
+     "The spending in London's boroughs will improve transport and make neighbourhoods across London safer and more pleasant.",
+     "The investment will pay for a range of initiatives in every London borough including safer routes to school, improvements to local town centres, road maintenance, road safety schemes, and other schemes that support walking and cycling.",
+     "The funding is part of the record-breaking five-year £758m programme for local transport schemes announced last year as part of Transport for London's £10bn 5-Year Investment Programme.",
+     "Mayor of London Ken Livingstone said: \"Boroughs across London, outer and inner, are benefiting from the record levels of funding from Transport for London, providing real local travel improvements.",
+     "\"This spending will help strengthen London's local communities, making them safer and more pleasant, with better transport links, safer routes to school and improvements to town centres.",
+     "\"By working closely with boroughs we have cut road deaths and serious injuries, doubled cycling in five years and delivered more than five hundred travel plans to get children to and from school safely.",
+     "\"The increased investment for the next financial year will benefit everyone who travels in London - whether you are in a car, on foot, on a bus or on a bike.'\u003cbr /\u003e\u003cbr /\u003e",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Spending plan highlights\"}",
+     "Highlights of the 2006/2007 Borough Spending Plan include:\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Schemes to improve the quality, safety and accessibility of local streets and town centres\",\"These include the Acton Town Square project which will improve the quality of the existing public space and the Plaistow Town Centre scheme, which will continue to support the Government's regeneration goals for the area through the New Deal for Communities\",\"Reducing road casualties - London met national road safety targets in 2005, almost five years early\",\"Investment continues, at £29.4m, to reach more ambitious targets\",\"Cycling investment increased from £12m to £15m, including a 28 per cent increase in funding for the London Cycle Network\"]}",
+     "Bob Kiley, London's Transport Commissioner, said: \"Every borough will benefit from the £159m the Mayor has announced for next year.",
+     "\"This funding will help make the millions of short journeys that take place every day seamless and safe.",
+     "\"Any trip within London's communities will continue to benefit from improvements such as better cycle parking, accessible walking routes, 20mph zones and controlled parking.\"",
+     "Sir Robin Wales, Chair of the Association of London Government, said: \"This bigger-than-expected funding boost is very welcome. It will help to ensure that the vast numbers of people that use London's congested roads each day are able to do so as smoothly and safely as possible.",
+     "\"The extra money will help boroughs build on their good work to enhance the capital's cycling initiatives, road safety schemes and generally maintain the roads and footpaths across the capital.",
+     "\"The early announcement of the funding will enable boroughs to plan ahead more effectively. We look forward to continue working with the Mayor and Transport for London to improve to the capital's roads and transport system for the benefit of everyone who lives, works and visit London.\"",
+     "Richard Rogers, Chief Advisor to the Mayor of London on Architecture and Urbanism said: \"As London plans to accommodate more people and improve the quality of life of its citizens, the public realm is becoming more significant to everyday lives.",
+     "\"Transport for London's commitment to improving the quality of design of public spaces and places is critical to London's performance as a s",
+     "{\"template\":\"bulletlist\",\"items\":[\"While Transport for London awards funding for individual schemes, project delivery is the responsibility of the boroughs.\",\"\\u003cstrong\\u003eTotal funding for each transport topic for 2006/7:\\u003c/strong\\u003e div\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"This press release was originally issued by the Mayor of London's press office at the \\u003ca href=\\\"http://www.london.gov.uk/\\\"\\u003eGreater London Authority\\u003c/a\\u003e . For media enquiries please call Hilary Merrett on 020 7983 4753. For out of hours media enquiries please call 020 7983 4000. For non-media enquiries please call the Public Liaison Unit on 020 7983 4100.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

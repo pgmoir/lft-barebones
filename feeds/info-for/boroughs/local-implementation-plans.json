@@ -36,8 +36,8 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Each London borough is required to develop a Local Implementation Plan (LIP). The LIP sets out how the borough will deliver the Mayor's Transport Strategy (MTS) at local level.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "LIP funding is the process through which TfL provides financial support to boroughs for schemes to improve their transport networks in line with MTS objectives.",
+     "{\"template\":\"intro\",\"texts\":[\"Each London borough is required to develop a Local Implementation Plan (LIP). The LIP sets out how the borough will deliver the Mayor's Transport Strategy at local level.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "LIP funding is the process through which TfL provides financial support to boroughs for schemes to improve their transport networks in line with Mayor's Transport Strategy objectives.",
      "The latest LIP delivery plan is on the \u003ca href=\"/corporate/publications-and-reports/local-implementation-plans\"\u003eLIPs page in Publications \u0026 reports\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LIP Funding\"}",
      "We provide boroughs with financial support for schemes to improve their transport networks.",
@@ -110,11 +110,6 @@
      {
       "title": "Older LIPs guidance",
       "url": "/info-for/boroughs/older-lips-guidance",
-      "image": {}
-     },
-     {
-      "title": "Crossrail complementary measures",
-      "url": "/info-for/boroughs/crossrail-complementary-measures",
       "image": {}
      },
      {

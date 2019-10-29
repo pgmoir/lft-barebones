@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Call to disabled Londoners to get on buses and use their travel rights",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Call to disabled Londoners to get on buses and use their travel rights",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,64 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "As Transport for London (TfL) launches its \"accessible buses\" advertising campaign this month, Bryan Heiser, TfL Board's advisor on disability, calls for fellow disabled Londoners to get onto public transport whenever they can and make use of their right to travel around London like anyone else."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Public transport in London is so much more accessible than it used to be",
+     "Mr Heiser said:\"Public transport in London is so much more accessible than it used to be, and measures are in place to make the service even better.",
+     "\"But the next step is for as many disabled Londoners as possible to try these new measures and help us make sure they work.",
+     "\"If I have one message to people who have felt that public transport hasn't been an option for them before, it would be simply 'have a go', and show everyone that we have a right to travel too.",
+     "\"We need disabled Londoners to use the services so TfL, bus operators and the general public know how to make things better.\"",
+     "The advertising campaign will highlight that nine out of 10 buses are now wheelchair accessible, and will run in targeted press and on bus shelters throughout London in July and August.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting feedback\"}",
+     "Representatives from disability groups such as Glad (Greater London Action on Disability), Radar (Royal Association for Disability and Rehabilitation) and Transport for All will be invited to an Accessibility Summit on 27th June, to try out existing and prototype accessible vehicles and put their questions and concerns to bus operators and TfL bosses.",
+     "Help for disabled passengers wanting to travel for the first time, or for the first time in a while:",
+     "{\"template\":\"bulletlist\",\"items\":[\"More information on what to expect will be at \\u003ca href=\\\"http://www.tfl.gov.uk/getonboard\\\"\\u003ewww.tfl.gov.uk/getonboard\\u003c/a\\u003e , or ring 020 7222 1234 to request a copy in the best format for you\",\"Get help with planning your journey by ringing 020 7241 7457 or trying the online \\u003ca href=\\\"http://www.tfl.gov.uk/journeyplanner\\\"\\u003ejourney planner\\u003c/a\\u003e \",\"Try travelling with a travel buddy - ring 020 7241 7457 or email \\u003ca href=\\\"mailto:enquire@tfl.gov.uk\\\"\\u003eenquire@tfl.gov.uk\\u003c/a\\u003e with the subject line \\\"Travel Assistance Scheme\\\"\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Making travel accessible\"}",
+     "How travel in London is becoming more accessible:",
+     "{\"template\":\"bulletlist\",\"items\":[\"All buses will be wheelchair accessible by the end of the year, making it the largest wheelchair accessible network in the world\",\"All 22,500 London bus drivers will have had BTEC level disability equality training by the end of the year\",\"Investment in Dial-a-Ride, Taxi Card, and other door-to-door services for those unable to use other forms of transport\",\"A travel assistance scheme is being developed to give disabled passengers confidence to get back onto public transport with the help of a 'buddy' on their first few trips\",\"Leaflets are being produced to give passengers advice on what to expect, and drivers advice on meeting the needs of disabled customers\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Accessibility Summit is at East Winter Gardens, Canary Wharf on Monday 27th June from 2-5pm\",\"A limited number of press places are available\",\"There are also opportunities to:ul\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

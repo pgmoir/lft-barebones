@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Bright first year for London's Fuel Cell buses",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Bright first year for London's Fuel Cell buses",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,67 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London today announced that initial tests of zero emission buses have been a success."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Three hydrogen fuel cell buses are being trialled by London Buses on route RV1 (Covent Garden - Tower Gateway), in a bid to find a cleaner fuel for future buses and reduce pollution in the Capital. From January 2004 to the end of December 2004 the fuel cell buses had:",
+     "{\"template\":\"bulletlist\",\"items\":[\"travelled over 23,000 miles;\",\"been in operation for nearly 3,400 hours and;\",\"had excelled in reliability.\"]}",
+     "The London Fuel Cell bus project is part of a wider European trial where zero emission hydrogen fuel cell vehicles are being trialled over two years in ten capital cities.",
+     "Read more about the \u003ca \u003efuel cell bus trial\u003c/a\u003e .",
+     "London Buses Director of Operations Mike Weston said:",
+     "\" London Buses regards the first year of the two year fuel cell bus project a great success. The buses have excelled in reliability and have been very popular with passengers who have appreciated the amazing environmental benefits of fuel cell technology and the quiet, smooth ride the buses offer. \"",
+     "\" These trials are a positive indication that hydrogen fuel cells could offer an alternative to diesel in the future. The high cost of the vehicles is the major barrier at the moment but providing the Government continues to provide support for this promising technology, it could be a viable option for the future. \"",
+     "First Group's fuel cell bus driver Sultan Dar said:",
+     "\" Passengers are always asking questions about the benefits of the fuel cell bus and when I tell them they are always really supportive of the trial. I am very proud to be an essential part of this trial as this technology will benefit our environment substantially - its something I'll tell the grandkids about! \"",
+     "Richard Tarboton, Head of Business Unit Transport Energy, part of the Energy Saving Trust said:",
+     "\" The success of this trial to date demonstrates the real opportunity offered by hydrogen fuel cell technology. It is also an important step towards the Government's Powering Future Vehicles Strategy that calls for 600 low carbon buses on the road each year by 2012. \"",
+     "\" EST is delighted to support such an important technological advance. Using renewable hydrogen in the future these buses will offer significantly lower CO2 emissions, one of the green house gases attributed to climate change, as well as improve air quality with a reduction in oxides of Nitrogen (NOx) and particulate matter (PM), emissions closely associated with respiratory problems. \"",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Bus Services Ltd (LBSL) - Responsible for management of the project and owner of the vehicles\",\"FirstGroup - Operate the buses on behalf of LBSL and currently operate one sixth of the London bus network\",\"BP - Provide the hydrogen refuelling infrastructure for the three buses\",\"Energy Saving Trust - Support the project with grant funding from the New Vehicle Technology Fund\",\"Daimler Chrysler - supplies and provides support for the three Citaro buses in each city\",\"Ballard - provide the fuel cell systems used on the buses\",\"The project is also partly funded by the European Commission\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Gain experience and understanding of operating the buses in a wide range of different inner city conditions such as ambient temperature, topography and congestion levels\",\"Design and construct the necessary refuelling infrastructure for hydrogen production\",\"Undertake life cycle analysis of all stages of the project to assess the potential reduction in CO2 the project could deliver and the potential contribution fuel cell technology could make to helping achieve targets in the Kyoto protocol\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus use is up by 11 per cent over the past year (03/04) - an extra 168 million passenger trips;\",\"The number of passengers using buses is at its highest level since 1968;\",\"Patronage is rising at its fastest rate since the Second World War;\",\"Night bus use is up by 29 per cent over the past year; and\",\"London Buses is running the highest volume of service on London's roads than at any time since 1957.\"]}",
+     "{\"template\":\"bulletlist\"}",
+     "For more information contact the TfL press office on 020 7941 4881 or 7941 4141 (and for out of hours).\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

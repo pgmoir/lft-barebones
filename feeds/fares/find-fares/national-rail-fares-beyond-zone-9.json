@@ -1,0 +1,153 @@
+{
+ "pageTitle": "National Rail fares, caps and Travelcards beyond Zone 9",
+ "keywords": "TfL,National Rail services fares, national rail fares, outside Zone 9 fares",
+ "description": "Fares for National Rail services beyond Zone 9 in London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Find fares",
+   "url": "/fares/find-fares"
+  },
+  {
+   "title": "National Rail fares, caps and Travelcards beyond Zone 9"
+  }
+ ],
+ "title": {
+  "title": "National Rail fares, caps and Travelcards beyond Zone 9",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"How to pay and prices for travel on National Rail services beyond Zone 9.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to pay\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Single journeys\"}",
+     "Find the price for a single \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go\"\u003epay as you go\u003c/a\u003e journey between any two stations on our \u003ca href=\"/fares/find-fares/tube-and-rail-fares/single-fare-finder\"\u003esingle fare finder\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pay as you go\"}",
+     "You can use \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e (card or device) or an \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster card\u003c/a\u003e to pay as you go for travel beyond Zone 9, to and from:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Broxbourne, Rye House, St. Margarets, Ware and Hertford East\",\"Gatwick Airport\",\"Merstham, Redhill, Earlswood, Salfords and Horley\",\"Ockendon, Chafford Hundred, Purfleet and Grays\",\"Epsom\",\"Cuffley, Bayford and Hertford North\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"National Rail season tickets\"}",
+     "Find the price for \u003ca href=\"http://ojp.nationalrail.co.uk/service/seasonticket/search\"\u003eNational Rail season tickets\u003c/a\u003e between two stations.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Travelcards\"}",
+     "You can buy a \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eDay Travelcard\u003c/a\u003e (paper ticket), paper point to point season ticket, or add a Travelcard season ticket to your Oyster card for travel beyond Zone 9, to and from:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Broxbourne, Rye House, St. Margarets, Ware and Hertford East\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much does it cost?\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Adult\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Adult National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-adult-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 26KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Jobcentre Plus\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Jobcentre Plus National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-jobcentre-plus-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 21KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Railcard\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Railcard holder National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-railcard-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Apprentice\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Apprentice National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-apprentice-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 25KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"18+\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"18+ Student Oyster photocard National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-18-plus-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 25KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"16+\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"16+ Zip Oyster photocard National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-16-plus-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 26KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"11-15\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"11-15 Zip Oyster photocard National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-11-15-zip-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 26KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"5-10\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"5-10 Zip Oyster photocard National Rail caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/national-rail-5-10-zip-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 25KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Children with a \u003ca href=\"/fares/free-and-discounted-travel/5-10-zip-oyster-photocard\"\u003e5-10 Zip Oyster photocard\u003c/a\u003e can travel free on journeys to and from:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Watford Junction\",\"Broxbourne, Hertford East, Ware, St Margarets and Rye House\",\"Ockendon, Chafford Hundred, Purfleet and Grays\"]}",
+     "Without a photocard, up to four under 11s can travel free on journeys to and from Watford Junction, if travelling with an adult using either:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pay as you go using \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003econtactless\\u003c/a\\u003e (card or device) or an \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003eOyster card\\u003c/a\\u003e \",\"A valid ticket\",\" \\u003ca href=\\\"/fares/free-and-discounted-travel/freedom-pass\\\"\\u003eFreedom Pass\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/free-and-discounted-travel/60-plus-oyster-photocard\\\"\\u003e60+ London Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/free-and-discounted-travel/veterans-oyster-photocard\\\"\\u003eVeterans Oyster photocard\\u003c/a\\u003e \"]}",
+     "Check the 5-10 PDF for caps and Travelcard prices to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Gatwick Airport\",\"Merstham, Redhill, Earlswood, Salfords and Horley\",\"Epsom\",\"Cuffley, Bayford and Hertford North\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Under 5s\"}",
+     "Children under 5 travel free if travelling with an adult using either:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pay as you go using \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003econtactless\\u003c/a\\u003e (card or device) or an \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003eOyster card\\u003c/a\\u003e \",\"A valid ticket\",\" \\u003ca href=\\\"/fares/free-and-discounted-travel/freedom-pass\\\"\\u003eFreedom Pass\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/free-and-discounted-travel/60-plus-oyster-photocard\\\"\\u003e60+ London Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/free-and-discounted-travel/veterans-oyster-photocard\\\"\\u003eVeterans Oyster photocard\\u003c/a\\u003e \"]}",
+     "They can travel free on journeys to and from:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Watford Junction\",\"Broxbourne, Hertford East, Ware, St Margarets and Rye House\",\"Ockendon, Chafford Hundred, Purfleet and Grays\",\"Gatwick Airport\",\"Merstham, Redhill, Earlswood, Salfords and Horley\",\"Epsom\",\"Cuffley, Bayford and Hertford North\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Find fares",
+    "links": [
+     {
+      "title": "Tube and rail fares",
+      "url": "/fares/find-fares/tube-and-rail-fares",
+      "image": {}
+     },
+     {
+      "title": "Bus and tram fares",
+      "url": "/fares/find-fares/bus-and-tram-fares",
+      "image": {}
+     },
+     {
+      "title": "Penalty fares and how to pay them",
+      "url": "/fares/find-fares/penalty-fares-and-how-to-pay-them",
+      "image": {}
+     },
+     {
+      "title": "River fares",
+      "url": "/fares/find-fares/river-fares",
+      "image": {}
+     },
+     {
+      "title": "Emirates Air Line fares",
+      "url": "/fares/find-fares/emirates-air-line-fares",
+      "image": {}
+     },
+     {
+      "title": "National Rail fares, caps and Travelcards beyond Zone 9",
+      "url": "/fares/find-fares/national-rail-fares-beyond-zone-9",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Find fares",
+     "url": "/fares/find-fares/national-rail-fares-beyond-zone-9",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

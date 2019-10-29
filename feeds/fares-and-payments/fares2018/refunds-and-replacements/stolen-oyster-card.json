@@ -37,22 +37,23 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"You can transfer pay as you go credit, Travelcards and/or Bus \\u0026 Tram Passes to a new Oyster card if your registered Oyster card was stolen.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You can't get a refund or replacement if your card wasn't registered.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you replace your card\"}",
-     "You must have pay as you go credit, or at least 5 days travel remaining on a Travelcard or Bus \u0026 Tram Pass, for us to transfer it to a new Oyster card.",
+     "You must have pay as you go credit, or at least five days travel remaining on a Travelcard or Bus \u0026 Tram Pass, for us to transfer it to a new Oyster card.",
      "Your stolen card must have been registered.",
-     "Be ready to provide a copy of the crime reference report.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Replace your card by phone\"}",
-     "Call:\u003cbr /\u003e \u003ca href=\"tel:0343 222 1234\"\u003e0343 222 1234\u003c/a\u003e ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eCharges may apply\u003c/a\u003e )",
-     "It will take us up to 5 working days after you've reported your Oyster card as stolen to send you a replacement.",
-     "Once we have confirmed you're the registered Oyster card owner, we will calculate the pay as you go balance, or Travelcard/Bus \u0026 Tram Pass value, from the day you reported it as stolen and transfer to your replacement card.",
+     "Call:\u003cbr /\u003e \u003ca href=\"tel:0343 222 1234\"\u003e0343 222 1234\u003c/a\u003e ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eCharges may apply\u003c/a\u003e )",
+     "It will take us up to 5 working days after you've reported your Oyster card as stolen to send you a replacement.",
+     "Once we have confirmed you're the registered Oyster card owner, we will calculate the pay as you go balance, or Travelcard/Bus \u0026 Tram Pass value, from the day you reported it as stolen and transfer to your replacement card.",
      "We don't refund your travel costs whilst you're waiting for your new card to arrive.",
-     "If it takes us longer than 5 working days to replace your card, we might refund any travel made from the sixth day. You would need to provide receipts or tickets.",
+     "If it takes us longer than five working days to replace your card, we might refund any travel made from the sixth day. You need to provide receipts or tickets.",
      "Once you've reported your card as stolen, the card will be cancelled.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"After you get your new card\"}",
-     "Your new Oyster card will have the same Travelcard, Bus \u0026 Tram Pass and/or pay as you go credit that was on it before.",
-     "Before adding your new card to your contactless and Oyster account, you need to make at least one journey with it and then wait 24 hours.",
-     "If you have an Annual Travelcard, we'll send you a new Gold Record Card.",
-     "If you get discounted travel, you'll need to get the discount reset on your replacement card at a station.  You'll need to take your discount photocard with you."
+     "Your new Oyster card will have the same Travelcard, Bus \u0026 Tram Pass and/or pay as you go credit that was on it before.",
+     "Before adding your new card to your contactless and Oyster account, you need to make at least one journey with it and then wait 24 hours.",
+     "If you get discounted travel, you'll need to have the discount added to your replacement card:",
+     "Carry your photocard and Oyster card with you at all times and don't let anyone else use your cards.",
+     "If you have an Annual Travelcard, we'll send you a new Gold Record Card."
     ],
     "link": {
      "image": {}

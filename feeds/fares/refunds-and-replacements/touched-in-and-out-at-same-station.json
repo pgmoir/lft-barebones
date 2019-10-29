@@ -1,0 +1,91 @@
+{
+ "pageTitle": "Touched in and out at the same station",
+ "keywords": "TfL",
+ "description": "How to get a refund if you have been charged for touching in and out at the same station.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Touched in and out at the same station"
+  }
+ ],
+ "title": {
+  "title": "Touched in and out at the same station",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can get a refund if you have been charged for touching in and out at the same station without making a journey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "We aim to automatically refund you for a same station exit if you have not had one in the last 7 days.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contactless (card or device)\"}",
+     "If you haven't received an automatic refund after 48 hours, you can submit a claim for a refund on your contactless and Oyster account:",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Or \u003ca href=\"https://contactless.tfl.gov.uk/\"\u003ecreate an account\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster card\"}",
+     "You can \u003ca href=\"/help-and-contact/contact-us-about-oyster\"\u003esubmit a claim for a refund\u003c/a\u003e , or call us on \u003ca href=\"tel:03432221234\"\u003e0343 222 1234\u003c/a\u003e ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003echarges may apply\u003c/a\u003e ) - open 08:00 - 20:00, 7 days a week",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\\\"\\u003eCharges for touching in and out at the same station\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

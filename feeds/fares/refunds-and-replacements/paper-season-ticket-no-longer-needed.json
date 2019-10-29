@@ -1,0 +1,89 @@
+{
+ "pageTitle": "Paper season ticket no longer needed",
+ "keywords": "TfL",
+ "description": "Information on if and how you can get a refund if you no longer need your Travelcard.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Paper season ticket no longer needed"
+  }
+ ],
+ "title": {
+  "title": "Paper season ticket no longer needed",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You may be able to get a refund if you no longer need your paper Travelcard.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "We charge a £5 admin fee to process this refund.",
+     "You can get a refund if you have stopped using the ticket, and there is at least:",
+     "{\"template\":\"bulletlist\",\"items\":[\"6 weeks remaining on an Annual ticket\",\"7 days remaining on a Monthly ticket\",\"3 days remaining on a 7 Day ticket - in some cases if you have used your 7 Day ticket for just 3 days, there may be no refund due\"]}",
+     "You can only claim a refund if you bought your ticket at a London Overground or TfL Rail station. If not, you'll need to contact the company you bought your ticket from.",
+     "If you bought your ticket using a travel warrant, any refund will be paid to the warrant issuer.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim at a TfL Rail or Overground station\"}",
+     "You should go to an Overground or TfL Rail station - if possible the same one where you bought your ticket.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/refunds-and-replacements/unused-one-day-single-or-return-paper-ticket\\\"\\u003eUnused single, return or day paper ticket\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

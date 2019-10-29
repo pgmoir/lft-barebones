@@ -50,7 +50,7 @@
      "We also produce detailed maps for step-free journeys and avoiding stairs.",
      "We know some customers find being underground difficult, so we have a map which shows where the tunnels are across our network.",
      " \u003ca href=\"/transport-accessibility/accessibility-guides-and-maps\"\u003eFind accessibility guides and maps\u003c/a\u003e .",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Standard Tube map\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.69MB\",\"image\":{}},{\"title\":\"Step-free Tube guide\",\"url\":\"/cdn/static/cms/documents/step-free-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 418KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 509KB\",\"image\":{}},{\"title\":\"Tube map with tunnels\",\"url\":\"/cdn/static/cms/documents/tube-map-with-tunnels.pdf\",\"icon\":\"download\",\"size\":\"PDF 237KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Standard Tube map\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{}},{\"title\":\"Step-free Tube guide\",\"url\":\"/cdn/static/cms/documents/step-free-tube-guide-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 669KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 466KB\",\"image\":{}},{\"title\":\"Tube map with tunnels\",\"url\":\"/cdn/static/cms/documents/tube-map-with-tunnels.pdf\",\"icon\":\"download\",\"size\":\"PDF 237KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Level access at platforms\"}",
      "An increasing number of our platforms give step-free access onto trains.",
      "This is provided in three ways:",
@@ -172,13 +172,13 @@
       "image": {}
      },
      {
-      "title": "Blue Badges and driving",
-      "url": "/transport-accessibility/blue-badges-and-driving",
+      "title": "Accessible travel stories",
+      "url": "/transport-accessibility/accessible-travel-stories",
       "image": {}
      },
      {
-      "title": "Accessible travel stories",
-      "url": "/transport-accessibility/accessible-travel-stories",
+      "title": "Blue Badges and driving",
+      "url": "/transport-accessibility/blue-badges-and-driving",
       "image": {}
      },
      {
@@ -209,7 +209,7 @@
     "links": [
      {
       "title": "Travelling with children: fares \u0026 tickets",
-      "url": "/fares-and-payments/fares2018/free-and-discounted-travel",
+      "url": "/fares/free-and-discounted-travel",
       "icon": "internal",
       "image": {}
      }

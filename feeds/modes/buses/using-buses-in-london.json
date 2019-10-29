@@ -39,7 +39,7 @@
      "Our \u003ca href=\"/plan-a-journey/index\"\u003ejourney planner\u003c/a\u003e allows you to plan journeys by public transport across London. If you want to know about bus routes in your area, search our wide range of \u003ca href=\"/maps_/bus-spider-maps\"\u003elocal area maps\u003c/a\u003e . Check for disruptions to your journey on our \u003ca href=\"https://tfl.gov.uk/bus/status/\"\u003ebus status updates\u003c/a\u003e page or follow \u003ca href=\"http://www.twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts on Twitter\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-tap-on-bus_rdax_400x250.jpg\",\"alt\":\"Oyster tap on bus\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Paying for your journey\"}",
-     "To make journeys quicker and travelling simpler, all buses in London are now \u003ca href=\"/modes/buses/cash-free-buses\"\u003ecash-free\u003c/a\u003e . This means you will need to have an \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster \u003c/a\u003e card, \u003ca href=\"/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless payment\u003c/a\u003e , a bus and tram pass, a paper Travelcard or Freedom Pass to travel on a London Bus.",
+     "To make journeys quicker and travelling simpler, all buses in London are now \u003ca href=\"/modes/buses/cash-free-buses\"\u003ecash-free\u003c/a\u003e . This means you will need to have an \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster \u003c/a\u003e card, \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless payment\u003c/a\u003e , a bus and tram pass, a paper Travelcard or Freedom Pass to travel on a London Bus.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/hailing-a-bus_rdax_400x250.jpg\",\"alt\":\"hailing a bus\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Getting on our bus services\"}",
      "At all our stops in London there is a sign showing the stop name, which routes stop there and in what direction they are heading. Many of our stops also have an information panel showing information about other bus routes in the surrounding area.",
@@ -79,8 +79,13 @@
     "title": "Buses",
     "links": [
      {
-      "title": "Changes to bus routes",
-      "url": "/modes/buses/bus-service-changes",
+      "title": "Temporary bus changes",
+      "url": "/modes/buses/temporary-bus-changes",
+      "image": {}
+     },
+     {
+      "title": "Permanent bus changes",
+      "url": "/modes/buses/permanent-bus-changes",
       "image": {}
      },
      {

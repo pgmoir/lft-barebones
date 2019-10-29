@@ -37,10 +37,12 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We're looking at how we can better manage roadworks, improve signage and information, and reduce inactive roadworks on London's roads.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"We're improving roadworks by making them safer and more convenient for all of our customers, especially those that are particularly vulnerable such as those  walking or cycling.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Report roadworks\"}",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/help-and-contact/report-roadworks\\\"\\u003eReport a problem with a roadworks site\\u003c/a\\u003e so we can take action or send your report to the relevant Highway Authority\",\" \\u003ca href=\\\"/help-and-contact/contact-us-about-streets-and-other-road-issues\\\"\\u003eReport street faults \\u003c/a\\u003e (including traffic light faults)\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roadworks on LondonWorks\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping people safe at roadworks\"}",
+     "We have produced a \u003ca href=\"https://tfl.gov.uk/info-for/suppliers-and-contractors/health-safety-and-environment/traffic-management\"\u003etemporary traffic management handbook\u003c/a\u003e that sets out good practice for those involved with carrying out roadworks and other construction related activities on TfL's road network (TLRN)",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find out about roadworks\"}",
      " \u003ca href=\"http://public.londonworks.gov.uk/\"\u003eLondonWorks\u003c/a\u003e has information on current and planned roadworks taking place.",
      "Find out:",
      "LondonWorks is run by us in partnership with boroughs and utility companies.",

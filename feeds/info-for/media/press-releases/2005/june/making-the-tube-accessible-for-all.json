@@ -1,7 +1,10 @@
 {
+ "pageTitle": "Making the Tube accessible for all",
+ "description": "Many stations do not currently meet the needs of customers with physical, hearing or visual impairments. LU faces challenges making the Tube accessible due to the age of the network, the costs of making improvements and a requirement to keep stations",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Making the Tube accessible for all",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +14,81 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "As Transport for London (TfL) today announced that nine out of 10 buses are now accessible, London Underground (LU) also announced it is investing more than ever before to make the Tube as accessible as possible, as quickly as possible, for all customers."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "By 2010, we want to make 25 per cent of Tube stations step-free, and aim to increase that to 50 per cent by 2015",
+     "Many stations do not currently meet the needs of customers with physical, hearing or visual impairments.",
+     "LU faces challenges making the Tube accessible due to the age of the network, the costs of making improvements and a requirement to keep stations operational during improvement works.",
+     "LU's Strategy and Service Development Director, Richard Parry, said: \"By 2010, we want to make 25 per cent of Tube stations step-free, and aim to increase that to 50 per cent by 2015.",
+     "\"All 253 LU-owned stations are due to be refurbished and modernised over the next six years, and accessibility features will be added to each station.",
+     "\"Accessibility is about more than simply step-free access, and features such as induction loops, tactile paving and additional and more visible Help and Information points will be added to stations as modernisations and refurbishments are completed.",
+     "\"We are also replacing and refurbishing our train fleet. This will start with the refurbishment of the entire District line fleet and will include the provision of multi-purpose areas capable of accommodating wheelchair users and onboard dot matrix indicators.",
+     "\"The sub-surface lines will be getting brand new trains from 2009 onwards and accessibility will be a key feature.\"",
+     "Currently, 44 stations out of 275 are step-free.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Key interchanges\"}",
+     "TfL's £10bn five-year Investment Programme will make a further 27 stations accessible with step-free access from street to platform.",
+     "By 2010, it is planned to make 25 per cent of Tube stations step-free, rising to 50 per cent by 2015.",
+     "Prioritisation of which stations to make accessible is focused on the Circle line and key interchanges, the origins and destinations that customers want and need, and the achievement of a good geographical spread across London.",
+     "King's Cross St Pancras is the Tube's busiest station, with 84 million passengers each year, and the government is funding the development of a new Underground station.",
+     "Phase I opening in 2006 will make the Metropolitan and Circle line platforms accessible.",
+     "The completion of Phase II by 2010 means all 10 platforms serving the Circle, Hammersmith \u0026 City, Metropolitan, Northern, Piccadilly and Victoria lines will be fully accessible.",
+     "Step-free access to the platform does not mean a station is fully accessible.",
+     "The step and gap between the train and the platform can present a further physical barrier.",
+     "As a short-term interim measure, platform humps can make the transfer from platform to train easier, and are presently being evaluated on a station-by-station basis.",
+     "Full-length platform raising or track and train lowering is not always feasible due to cost and the effect on other structures.",
+     "Accessibility is about more than simply step-free access.",
+     "It includes more and more visible Help and Information points, all with induction loops.",
+     "Station announcements made more clearly audible in ticket halls, passageways and platforms, tactile paving at stations to indicate steps and platforms and improved handrail designs.",
+     "New and refurbished trains are an important element in increasing accessibility.",
+     "The entire District line fleet will be refurbished by 2009 and the first refurbished trains have now entered service.",
+     "To improve accessibility, every train car will have an area fitted with tip-up seats to accommodate wheelchairs, buggies and luggage.",
+     "Destination information will be in both audible and visual format and audible and visual warnings will be given to indicate closing doors.",
+     "Contrasting colours will assist colour differentiation between the floor, doors, grabpoles and seats.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dignity and fairness\"}",
+     "The first new trains for the sub-surface (Metropolitan, Hammersmith \u0026 City, Circle, District) and Victoria lines will start",
+     "{\"template\":\"bulletlist\",\"items\":[\"Transport for London (TfL) is investing £10 billion over the next five years to improve and expand London's transport network, more than half of that in the Tube.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

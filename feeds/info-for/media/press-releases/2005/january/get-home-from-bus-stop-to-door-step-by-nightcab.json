@@ -1,7 +1,10 @@
 {
+ "pageTitle": "Get home from bus stop to door step by NightCab",
+ "description": "The six month trial, marshalled and operated by taxi firm Computer Cab plc, will provide shared licensed taxis for passengers on their final stretch home. A service controller will meet passengers and allocate taxis. Women only taxis will be available if",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Get home from bus stop to door step by NightCab",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +14,58 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "From 14th January NightCab, a late night marshalled taxi service, will offer a safe environment and transportation for people travelling from Edgware Bus Station to surrounding areas, Transport for London announced today."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "The six month trial, marshalled and operated by taxi firm Computer Cab plc, will provide shared licensed taxis for passengers on their final stretch home. A service controller will meet passengers and allocate taxis. Women only taxis will be available if required and CCTV is in operation in the waiting area. The cost to a passenger is a standard £5.00 and the service is available to addresses within postal areas NW7, HA7 and HA8.",
+     "NightCab follows the success of the Marshalled rank pilot scheme in Cranbourn Street in WC2. During a weekend up to 400 taxi journeys are co-ordinated via the marshals on the rank. The rank has become a safe haven at night in the Capital.",
+     "Ken Livingstone, Mayor of London, said:",
+     "\"I am fully supportive of NightCab as the safety of people travelling late at night in London is a major part of my transport strategy. It is reassuring for passengers travelling through Edgware, particularly women, to know that there is a marshalled rank offering them a convenient and safe route home.\"",
+     "Transport for London's, Director of Taxi and Private Hire, Ed Thompson said:",
+     "\"Transport for London is fully supportive of NightCab. The final stretch of a journey late at night is often the most dangerous as women are frequently travelling alone in quiet streets. This new scheme offers a secure environment outside of the West End where people can get a cab safely and quickly.\"",
+     "Computer Cab, Managing irector, Mike Galvin said:",
+     "\"Taxis are ideally place to provide the final link of passengers' journeys home at night. The Nightcab service aims to ensure a seemless, safe transition from nightbus to licensed taxis, with minimal waiting at low cost. Computer Cab, London's largest taxi company are an enthusiastic supporter of the major's Safer Travel at Night campaign and see this as another valuable step forward.\""
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

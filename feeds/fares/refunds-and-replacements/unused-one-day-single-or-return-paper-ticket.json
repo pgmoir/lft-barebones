@@ -1,0 +1,89 @@
+{
+ "pageTitle": "Unused single, return or day paper ticket",
+ "keywords": "TfL",
+ "description": "How to get a refund if you haven't used your single, return or day paper ticket from TfL.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Unused single, return or day paper ticket"
+  }
+ ],
+ "title": {
+  "title": "Unused single, return or day paper ticket",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can get a refund.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "You can get a refund if you haven't used your ticket and you send it to us before the start date.",
+     "We do not give a refund for used or partly used One Day Bus \u0026 Tram Passes, Day Travelcards or single or return paper tickets.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund by post\"}",
+     "Send your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Contact details (name, email, phone number and address)\",\"Ticket\",\"An explanation of why you no longer need the ticket\"]}",
+     "To:\u003cbr /\u003eTfL Customer Services\u003cbr /\u003e4th Floor\u003cbr /\u003e14 Pier Walk\u003cbr /\u003eLondon\u003cbr /\u003eSE10 0ES",
+     "We will then contact you to process the refund.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/refunds-and-replacements/paper-season-ticket-no-longer-needed\\\"\\u003ePaper season ticket no longer needed\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

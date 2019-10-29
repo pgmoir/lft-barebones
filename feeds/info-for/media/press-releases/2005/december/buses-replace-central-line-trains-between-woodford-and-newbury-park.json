@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Buses replace Central line trains between Woodford and Newbury Park",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Buses replace Central line trains between Woodford and Newbury Park",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,61 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Buses will replace Central line trains between Woodford and Newbury Park on the weekend of 7-8 January 2006 due to track replacement and improvement works between Grange Hill and Hainault."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A rail replacement bus service will operate between Woodford and Newbury Park",
+     "The works are part of TfL £10bn 5-year Investment Programme and will be undertaken by Metronet Rail BCV.",
+     "The number of trains running between North Acton and Newbury Park (on both days) as well as between North Acton and West Ruislip/Ealing Broadway (on Saturday) will be reduced.",
+     "A rail replacement bus service will operate between Woodford and Newbury Park.",
+     "Passengers travelling from Roding Valley, Chigwell or Grange Hill to Woodford or Central London are advised to travel via Woodford.",
+     "Passengers travelling from Hainault, Fairlop or Barkingside to Newbury Park or Central London are advised to travel via Newbury Park.",
+     "It is recommended that LU customers allow at least an extra 20 minutes to complete their journeys, especially those wishing to make last train connections.",
+     "For 24-hour information on public transport in London, please call: 020 7222 1234.\u003cbr /\u003e\u003cbr /\u003eTfL's Realtime pages display live travel information on London's public transport network: \u003ca href=\"http://www.tfl.gov.uk/realtime\"\u003ewww.tfl.gov.uk/realtime\u003c/a\u003e ",
+     "Journey Planner checks the transport network's status before providing results. The best available route is shown automatically: \u003ca href=\"http://www.tfl.gov.uk/journeyplanner\"\u003ewww.tfl.gov.uk/journeyplanner\u003c/a\u003e ",
+     "Travel alerts via SMS and email can be set up at: \u003ca href=\"http://www.tfl.gov.uk/alerts\"\u003ewww.tfl.gov.uk/alerts\u003c/a\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Metronet Rail BCV is responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines\",\"TfL is investing £10bn over the next five years to improve and expand London's transport network, more than half of that in the Tube\",\"The Central line opened on the 30 July 1900 from Bank to Shepherd's Bush\",\"The Central line is the longest line with 74km (46 miles) serving 49 stations\",\"The longest journey without change on the London Underground can be made on the Central line between West Ruislip and Epping (54.9 km, 34.1 miles)\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

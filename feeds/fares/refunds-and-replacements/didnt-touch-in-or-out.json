@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Didn't touch in or out",
+ "keywords": "TfL",
+ "description": "How to get a refund if you didn't touch in or out on a TfL card reader and were charged a maximum fare.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Didn't touch in or out"
+  }
+ ],
+ "title": {
+  "title": "Didn't touch in or out",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can get a refund if you were charged a maximum fare.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "Please wait at least 48 hours as you might receive an automatic refund:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eOyster\\u003c/strong\\u003e - we'll automatically add it to your card the next time you touch in or out of a rail journey\",\"\\u003cstrong\\u003eContactless\\u003c/strong\\u003e - the refund will show on your next card statement, or we will adjust the fares charged when you next travel\"]}",
+     "If you do not get an automatic refund, you have up to 8 weeks from your journey to claim.",
+     "We will not give a refund if you have already claimed 3 maximum fare refunds in the same calendar month.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund online\"}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Or \u003ca href=\"https://contactless.tfl.gov.uk/\"\u003ecreate an account\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\\\"\\u003eTouching in and out\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

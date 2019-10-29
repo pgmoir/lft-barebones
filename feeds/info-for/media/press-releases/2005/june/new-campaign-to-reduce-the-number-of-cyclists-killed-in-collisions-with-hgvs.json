@@ -1,7 +1,9 @@
 {
+ "pageTitle": "New campaign to reduce the number of cyclists killed in collisions with HGVs",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "New campaign to reduce the number of cyclists killed in collisions with HGVs",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,59 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "More than half of all cyclists killed on the roads in London are involved in collisions with goods vehicles."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "We are making great progress in cutting the number of cyclists hurt on London's roads",
+     "To tackle the problem Transport for London, in partnership with Sainsbury's, has today launched signs and posters to warn cyclists of the dangers.",
+     "Cyclists face danger from heavy goods vehicles (HGVs) turning left as situations can arise where HGV drivers are not able to see cyclists between their vehicle and the kerb.",
+     "As many as 49 cyclists were killed in collisions involving goods vehicles between January 1999 and May 2004.",
+     "The highly visible signs will be fixed to the back of 300 Sainsbury's HGV trailers which operate in London and the posters will go up across the Capital.",
+     "Chris Lines, Head of Road Safety, TfL, said: \"We are making great progress in cutting the number of cyclists hurt on London's roads, but the percentage of cyclists injured and killed in crashes with good vehicles is staggering.",
+     "\"By working in partnership with Sainsbury's, I hope we can get the message out to cyclists to be careful when riding near HGVs and also to help educate drivers to watch out for cyclists.",
+     "\"We will be encouraging other companies to take Sainsbury's lead and display the signs on their vehicles.\"",
+     "{\"template\":\"bulletlist\",\"items\":[\"Photos are available on request\",\"Image of sign is available on request\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

@@ -2,6 +2,7 @@
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "TfL Advisory: Alterations to Olympic Route Network",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +12,61 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "In line with its commitment to keeping disruption to Londoners to an absolute minimum, Transport for London (TfL) has today outlined several alterations to the Olympic Route Network that will relax restrictions at certain locations."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Throughout the Games TfL is monitoring the Olympic Route Network (ORN) and as planned we are making adjustments based on changing traffic flows and the requirements of the venues.",
+     "The Games Lanes are being operated flexibly and we are keeping them open to general traffic wherever and whenever we can.",
+     "Over the course of the Olympics so far, typically less than 40 per cent of the Games Lanes have been in operation.",
+     "Some venues, such as Wimbledon, cease operation altogether shortly, and the local road network will have restrictions lifted.",
+     "A number of other changes are already taking place, including the reintroduction of pedestrian crossings at Lower Thames Street/Southwark Bridge (west side) and at Old Billingsgate Market.",
+     "From tomorrow morning, the following alterations will be in effect:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Taxis will now be able to turn left and right onto Westminster bridge from Waterloo\",\"The left turn for general traffic from Marble Arch to Great Cumberland Place will be reintroduced\",\"The left turn from Vernon Place onto A4200 Southampton Row  will be reintroduced\",\"The Zebra crossing on Seymour Street will be introduced\"]}",
+     "Leon Daniels, TfL's Managing Director Surface Transport, said: 'We remain committed to keeping disruption to an absolute minimum and we continue to review and amend traffic restrictions whenever possible - to reduce the impact on road users.",
+     "'More alterations will follow as venues cease operation, and we'll continue to keep Londoners and businesses, including freight, taxi and private hire drivers informed.'",
+     "\u003cstrong\u003eNotes to editor:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Games Lanes are of vital importance to get all athletes, officials and the world's media to their events on time. We are using the lanes flexibly and keeping them open to general traffic wherever and whenever we can. We are using a network of over 150 variable message signs along the route of the Games Lanes to make sure that drivers know whether or not the lanes are open to them.\\u003cbr /\\u003e\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

@@ -1,5 +1,41 @@
 ﻿
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@section adverts {
+    <div class="top-banner-advert" aria-hidden="true">
+        <div class="large" data-advert="/76889402/driving/checker" data-advert-sizes="970, 90|970, 250"></div>
+        <div class="medium" data-advert="/76889402/driving/checker" data-advert-sizes="728, 90"></div>
+        <div class="small" data-advert="/76889402/driving/checker" data-advert-sizes="300, 50|320, 50"></div>
+    </div>
+}
+
+
+ 
   
 
 
@@ -100,9 +136,9 @@
             content.LezCompliantTitle = "No LEZ charge due for this vehicle";
             content.LezCompliantText = "<p><strong>The LEZ is different from the ULEZ - it doesn't apply to cars and motorbikes.</strong> This vehicle either meets the required emission standards, is exempt from or not affected by the scheme, or is subject to a 100% discount.</p>";
             content.UlezLowChargesTitle = "ULEZ charge applies to this vehicle";
-            content.UlezLowChargesText = "<p><strong>Daily charge:</strong> £12.50</p><p><strong>Why:</strong> This could be because the vehicle’s details as registered with us show it doesn’t meet the required ULEZ standards OR it's registered outside the UK and we don't hold any details for it.</p><p>If you believe your vehicle meets the standards:</p><ul>	<li><a href='https://www.epcplc.com/ulez/login'>Register a non-UK vehicle</a></li>	<li><a href='/modes/driving/compliance-registration/before-you-start'>Register a UK vehicle</a></li></ul><p>Until we confirm that your vehicle meets the emissions standards, you need to pay the daily ULEZ charge whenever you drive within the zone.</p><p>The checker ONLY checks the emissions standard of the vehicle. To check if a discount or exemption applies to your vehicle - and whether you need to pay the charge - go to <a href='/modes/driving/pay-to-drive-in-london'>Pay to drive in London</a>.</p>";
+            content.UlezLowChargesText = "<p><strong>Daily charge:</strong> £12.50</p><p><strong>Why:</strong> This could be because the vehicle’s details as registered with us show it doesn’t meet the required ULEZ standards OR it's registered outside the UK and we don't hold any details for it.</p><p>If you believe your vehicle meets the standards, you will need to register it with us.</p><p>How you register your vehicle will depend on its country of registration:</p><ul>	<li><a href='https://www.epcplc.com/ulez/login'>Non-UK registered vehicles must be registered through our partner, EPCplc.</a>&nbsp;You will be taken to their website</li>	<li><a href='/modes/driving/compliance-registration/before-you-start'>UK-registered vehicles can be registered directly with us</a></li></ul><p>Until we confirm that your vehicle meets the emissions standards, you need to pay the daily ULEZ charge whenever you drive within the zone.</p><p>The checker ONLY checks the emissions standard of the vehicle. To check if a discount or exemption applies to your vehicle - and whether you need to pay the charge - go to <a href='/modes/driving/pay-to-drive-in-london'>Pay to drive in London</a>.</p>";
             content.UlezHighChargesTitle = "ULEZ charge applies to this vehicle";
-            content.UlezHighChargesText = "<p><strong>Daily charge:</strong> £100</p><p><strong>Why:</strong> The vehicle's details as registered with us show it doesn't meet the required ULEZ standards.</p><p>If you believe your vehicle meets the standards:</p><ul>	<li><a href='https://www.epcplc.com/ulez/login'>Register a non-UK vehicle</a></li>	<li><a href='/modes/driving/compliance-registration/before-you-start'>Register a UK vehicle</a></li></ul><p>Until we confirm that your vehicle meets the emissions standards, you need to pay the daily ULEZ charge whenever you drive within the zone.</p><p>The checker ONLY checks the emissions standard of the vehicle. To check if a discount or exemption applies to your vehicle - and whether you need to pay the charge - go to <a href='/modes/driving/pay-to-drive-in-london'>Pay to drive in London</a>.</p>";
+            content.UlezHighChargesText = "<p><strong>Daily charge:</strong> £100</p><p><strong>Why:</strong> The vehicle's details as registered with us show it doesn't meet the required ULEZ standards.</p><p>If you believe your vehicle meets the standards, you will need to register it with us.</p><p>How you register your vehicle will depend on its country of registration:</p><ul>	<li><a href='https://www.epcplc.com/ulez/login'>Non-UK registered vehicles must be registered through our partner, EPCplc.</a>&nbsp;You will be taken to their website</li>	<li><a href='/modes/driving/compliance-registration/before-you-start'>UK-registered vehicles can be registered directly with us</a></li></ul><p>Until we confirm that your vehicle meets the emissions standards, you need to pay the daily ULEZ charge whenever you drive within the zone.</p><p>The checker ONLY checks the emissions standard of the vehicle. To check if a discount or exemption applies to your vehicle - and whether you need to pay the charge - go to <a href='/modes/driving/pay-to-drive-in-london'>Pay to drive in London</a>.</p>";
             content.UlezCompliantTitle = "No ULEZ charge due for this vehicle";
             content.UlezCompliantText = "<p>This vehicle meets the emission standards for ULEZ so you don't have to pay this charge when driving within the zone.</p>";
             content.UlezExemptTitle = "No ULEZ charge due for this vehicle";
@@ -183,8 +219,8 @@
 <div class="advert-tile unsponsored-style google-ads" aria-hidden="true">
   <div class="advert-link">
     <div class="advert-content">
-        <div class="medium-large" data-advert="/76889402/driving" data-advert-sizes="300, 250"></div>
-        <div class="small" data-advert="/76889402/driving" data-advert-sizes="300, 250|300, 600"></div>
+        <div class="medium-large" data-advert="/76889402/driving/checker" data-advert-sizes="300, 250"></div>
+        <div class="small" data-advert="/76889402/driving/checker" data-advert-sizes="300, 250"></div>
     </div>
   </div>
 </div>
@@ -225,7 +261,14 @@
     <div data-set="sidenav-container" class="small-medium"></div>
   </div>
 </div>
- 
+
+     @section scripts {
+<div class="bottom-advert ">
+    <div class="close-ad-button visually-hidden"><span class="close-icon-circle"></span></div>
+    <div data-advert="/76889402/driving/" data-advert-sizes="320, 50"></div>
+</div>
+}
+
  
         
         

@@ -37,23 +37,24 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"You can transfer pay as you go credit, Travelcards and/or Bus \\u0026 Tram Passes to a new Oyster card if you lose your registered Oyster card.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If you lose an unregistered card, you can't get a refund or replacement.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you replace your card\"}",
-     "You must have pay as you go credit, or at least 5 days travel remaining on your Travelcard or Bus \u0026 Tram Pass, for us to transfer it to a new Oyster card.",
-     "Your lost card must have been registered.",
-     "Once you've reported your card as lost, the card will be cancelled.",
+     "You must have pay as you go credit, or at least five days travel remaining on your Travelcard or Bus \u0026 Tram Pass, for us to transfer it to a new Oyster card.",
+     "Once you've reported your card as lost, the card will be cancelled.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transfer your credit or ticket to a new card\"}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Or \u003ca href=\"http://contactless.tfl.gov.uk\"\u003ecreate an account\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"After you get your new card\"}",
-     "Your new Oyster card will have the same Travelcard, Bus \u0026 Tram Pass and/or pay as you go credit that was on it before.",
+     "Your new Oyster card will have the same Travelcard, Bus \u0026 Tram Pass and/or pay as you go credit that was on it before.",
+     "If you get discounted travel, you'll need to have the discount added to your replacement card:",
+     "Carry your photocard and Oyster card with you at all times and don't let anyone else use your cards.",
      "If you have an Annual Travelcard, we'll send you a new Gold Record Card.",
-     "If you get discounted travel, you'll need to have the discount reset on your replacement card at a station. You'll need to take your discount photocard with you.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other options\"}",
      "In some cases, we will send you a replacement card.",
-     "It will take us up to 5 working days after you've reported your Oyster card as lost to send your replacement.",
+     "It will take us up to five working days after you've reported your Oyster card as lost to send your replacement.",
      "Once we have confirmed you're the registered Oyster card owner, we will calculate the pay as you go balance to transfer to your replacement card.",
-     "We don't refund your travel costs whilst you're waiting for your new card to arrive. If it takes us longer than 5 workings days to replace your card, we might refund any travel made from the sixth day. You would need to provide receipts or tickets."
+     "We don't refund your travel costs whilst you're waiting for your new card to arrive. If it takes us longer than five workings days to replace your card, we might refund any travel made from the sixth day. You would need to provide receipts or tickets."
     ],
     "link": {
      "image": {}

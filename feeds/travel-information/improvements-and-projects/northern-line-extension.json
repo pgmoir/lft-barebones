@@ -33,17 +33,18 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Our plans to extend the Northern line to Battersea will help regenerate the Vauxhall, Nine Elms and Battersea areas, supporting 25,000 new jobs and more than 20,000 new homes. Two new stations are being built at Nine Elms and Battersea Power Station.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Our plans to extend the Northern line to Battersea will help regenerate the Vauxhall, Nine Elms and Battersea areas by supporting new jobs and homes. The extension is scheduled to be completed in autumn 2021.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Two new stations are being built at Nine Elms and Battersea Power Station.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where we are working\"}",
      "The main work sites are at:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Battersea Power Station\",\"Kennington Green\",\"Kennington Park\",\"Kennington Tube station\",\"Nine Elms adjacent to Wandsworth Road and Pascal Street\"]}",
-     "In November 2017, \u003ca href=\"https://tfl.gov.uk/info-for/media/press-releases/2017/november/breakthrough-for-northern-line-extension-tunnelling-machin\"\u003emain tunnelling finished\u003c/a\u003e after the creation of two tunnels between Battersea and new shafts at Kennington Green and Kennington Park.",
-     "Preparation works started at these sites in spring 2015. The joint venture Ferrovial Agroman Laing O'Rouke is designing and building the NLE.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Battersea Power Station\",\"Kennington Green\",\"Kennington Park\",\"Kennington Tube station\",\"Nine Elms next to Wandsworth Road and Pascal Street\"]}",
+     "The joint venture Ferrovial Agroman Laing O'Rouke is designing and building the Northern line extension (NLE).",
+     " \u003ca href=\"https://tfl.gov.uk/info-for/media/press-releases/2017/november/breakthrough-for-northern-line-extension-tunnelling-machin\"\u003eMain tunnelling finished\u003c/a\u003e in November 2017 after two tunnels were created between Battersea and new shafts at Kennington Green and Kennington Park.",
      "Documents related to the project, including those in support of our Transport \u0026 Works Act Order (TWAO) application, noise monitoring reports and all but the most recent community communications, are on the \u003ca href=\"/corporate/publications-and-reports/northern-line-extension\"\u003eNorthern line extension page in Publications \u0026 reports\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube map of proposed extension\"}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/nle-map-october-2015.gif\",\"alt\":\"Northern line extension tube map\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits of the NLE\"}",
-     "The Northern line extension (NLE) will improve transport links and public spaces in the area and is essential to support the transformation of Vauxhall, Nine Elms and Battersea, a designated regeneration area on the South Bank.",
+     "The NLE will improve transport links and public spaces in the Vauxhall, Nine Elms and Battersea area, a designated regeneration area on the South Bank.",
      "Up to 25,000 jobs and 20,000 new homes could be created. Journey times from Nine Elms or Battersea to the West End or the City will, in some cases, be less than 15 minutes.",
      "An independent report on the economic impact of the NLE has shown it could generate substantial benefits to the area.",
      "The extension is supported by the Mayor of London and Wandsworth, Lambeth and Southwark councils.",
@@ -141,6 +142,23 @@
    },
    {
     "template": "emailupdates",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Nine Elms",
+      "url": "/travel-information/improvements-and-projects/nine-elms",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

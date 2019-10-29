@@ -1,0 +1,78 @@
+{
+ "pageTitle": "West London Orbital",
+ "keywords": "Boroughs,London Overground passengers,Planning and construction,W,Rail improvements,London Overground,TfL",
+ "description": "We're developing a proposal to create a new rail service in west London as part of the London Overground network",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "West London Orbital"
+  }
+ ],
+ "title": {
+  "title": "West London Orbital",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are considering a new rail service on existing, underused rail lines in west London as part of the London Overground network. The West London Orbital rail line would run from Hounslow and Kew Bridge towards Hendon and West Hampstead in the north.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This aim of this work is set out in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Proposed scheme\"}",
+     "The service would connect the Opportunity Areas of:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Brent Cross\",\"Wembley\",\"Old Oak Common\",\"Great West Corridor\"]}",
+     "In the north, it's proposed that the service would run along the Dudding Hill line - this is currently used for freight services only.",
+     "The new service aims to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Enable the creation of at least 8,800 new homes and 23,000 new jobs\",\"Reduce journey times for public transport journeys across west and northwest London\",\"Alleviate crowding on congested rail and Tube lines\",\"Offer much-needed transport alternatives to encourage people to shift to sustainable transport and improve air quality\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic outline business case\"}",
+     "We have worked closely with the West London Alliance, Network Rail and our West London borough partners to develop a strategic outline business case for the proposal.",
+     "The case shows that the West London Orbital scheme could address critical strategic issues facing west and northwest London.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"West London Orbital strategic outline business case\",\"url\":\"/cdn/static/cms/documents/west-london-orbital-strategic-outline-business-case.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We're now considering the next steps for developing the scheme and how such a scheme could be funded."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

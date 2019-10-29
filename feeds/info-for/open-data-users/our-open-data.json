@@ -240,11 +240,10 @@
      "\u003cstrong\u003eContent provider\u003c/strong\u003e \u003cbr /\u003eTfL Taxis and Private Hire",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
      "These London-wide maps are available on our \u003ca href=\"http://planning.data.tfl.gov.uk/\"\u003eopen data page \u003c/a\u003e and make the \u003ca href=\"http://content.tfl.gov.uk/strategic-cycling-analysis.pdf\"\u003eStrategic Cycling Analysis\u003c/a\u003e more accessible:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Current and Future cycle network\",\"Access to Public Transport by bike\",\"Permeable Neighbourhoods\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Current and Future cycle network\",\"Permeable Neighbourhoods\"]}",
      "The maps split London into a grid made up of 8km squares, so there are 36 versions of each map above. These files show the grid frame:",
      "{\"template\":\"bulletlist\",\"items\":[\"London 8km cycling quadrants Frame (pdf)\",\"London 8km cycling quadrants Frame (kmz, Google Maps)\"]}",
      "NB: If you are using this information for London planning applications, please use these maps instead of the old-style London Cycle Network maps which do not match the ambitions of the \u003ca href=\"https://tfl.gov.uk/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e and \u003ca href=\"http://content.tfl.gov.uk/cycling-action-plan.pdf\"\u003eCycling Action Plan\u003c/a\u003e .",
-     "Also see under \u003ca href=\"https://tfl.gov.uk/info-for/open-data-users/our-open-data?intcmp=3671?1=1#on-this-page-10\"\u003ePlanning\u003c/a\u003e for Active Travel GIS Layers",
      "Monthly statistics on the number of cyclists on Superhighways CS3 and CS6 from the counters at Blackfriars Bridge and Victoria Embankment is available at \u003ca href=\"http://roads.data.tfl.gov.uk\"\u003ehttp://roads.data.tfl.gov.uk\u003c/a\u003e ",
      "The latest data for cycle routes in London is available \u003ca href=\"http://cycling.data.tfl.gov.uk\"\u003ehere\u003c/a\u003e under the \"CycleRoutes/\" folder. This dataset includes all open, in-progress and future (post-consultation) cycle routes in London and is available in JSON and KML format. The cycle routes data contains the following meta-data: route names, labels, status and programme. It is updated regularly to reflect the developing cycling network.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"/BikePoint\"}",
@@ -307,7 +306,7 @@
      "The data can be imported into any standard GIS package using the X and Y coordinates.",
      "The Rolling O\u0026D survey is an ongoing programme to capture information about journeys on the Tube network.",
      "The tables are reconciled to the annual counts as well as summary statistics from the Underground Users Survey. The RODS data is also reconciled to Oyster Origin and Destination flows for stations that have sufficient information.",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://crowding.data.tfl.gov.uk\\\"\\u003eAccess RODS\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://crowding.data.tfl.gov.uk\\\"\\u003eAccess RODS\\u003c/a\\u003e \"]}",
      "Please note the data reflects November counts and represents the number of people travelling on a typical (or average) weekday. Therefore, year-on-year RODS fluctuations do not necessarily reflect whole-year annual demand changes. The data is adjusted to remove any abnormal circumstances that may affect demand such as industrial action or long-term closures.",
      "\u003cstrong\u003eHow often we publish a fresh copy of the feed\u003c/strong\u003e \u003cbr /\u003eAnnually",
      "\u003cstrong\u003eMaximum time allowed between capturing and displaying the feed\u003c/strong\u003e \u003cbr /\u003e9 months",
@@ -361,7 +360,7 @@
      "The \u003ca href=\"http://planning.data.tfl.gov.uk/\"\u003ePedestrian Comfort Level calculator\u003c/a\u003e accompanies our \u003ca href=\"http://content.tfl.gov.uk/pedestrian-comfort-guidance-technical-guide.pdfhttp:/content.tfl.gov.uk/pedestrian-comfort-guidance-technical-guide.pdf\"\u003ePedestrian Comfort Guidance\u003c/a\u003e and instructions for using this spreadsheet are in that document.",
      "Users should retain the example in the spreadsheet, as deleting it de-activates the system's calculator.",
      "The \u003ca href=\"http://planning.data.tfl.gov.uk/\"\u003eActive Travel Zone GIS layers\u003c/a\u003e can be used in \u003ca href=\"/cdn/static/cms/documents/healthy-streets-ta-format.pdf\"\u003eHealthy Streets Transport Assessments\u003c/a\u003e especially the step by step \u003ca href=\"/cdn/static/cms/documents/atz-assessment-instructions.pdf\"\u003eActive Travel Zone assessment\u003c/a\u003e :",
-     "{\"template\":\"bulletlist\",\"items\":[\"Town Centres\\u003cbr /\\u003eNOTE: GLA Town Centre Classifications 2015.\",\"TfL Step-Free Access current programme\\u003cbr /\\u003eNOTE: Does not include accessibility improvements linked to other major schemes, e.g. Crossrail. Subject to change based on feasibility and consultation.\",\"Strategic Cycle Network\\u003cbr /\\u003eNOTE: Planned and existing routes. All planned routes subject to further feasibility and consultation.\",\"Permeable Neighbourhoods\\u003cbr /\\u003eNOTE: Created during preparation of our \\u003ca href=\\\"http://content.tfl.gov.uk/strategic-cycling-analysis.pdf\\\"\\u003eStrategic Cycling Analysis\\u003c/a\\u003e . Includes \\u003ca href=\\\"https://tfl.gov.uk/info-for/boroughs/street-types\\\"\\u003eStreet Types \\u003c/a\\u003e scores from our \\u003ca href=\\\"https://tfl.gov.uk/corporate/publications-and-reports/roads-task-force\\\"\\u003e2012 Roads Task Force\\u003c/a\\u003e for some of London's major routes.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Town Centres\\u003cbr /\\u003eNOTE: GLA Town Centre Classifications 2015.\",\"TfL Step-Free Access current programme\\u003cbr /\\u003eNOTE: Does not include accessibility improvements linked to other major schemes, e.g. Crossrail. Subject to change based on feasibility and consultation.\",\"Strategic Cycle Network\\u003cbr /\\u003eNOTE: Planned and existing routes. All planned routes subject to further feasibility and consultation.\",\"Permeable Neighbourhoods\\u003cbr /\\u003eNOTE: Created during preparation of our \\u003ca href=\\\"http://content.tfl.gov.uk/strategic-cycling-analysis.pdf\\\"\\u003eStrategic Cycling Analysis\\u003c/a\\u003e . Includes \\u003ca href=\\\"https://tfl.gov.uk/info-for/boroughs/street-types\\\"\\u003eStreet Types \\u003c/a\\u003e scores from our \\u003ca href=\\\"https://tfl.gov.uk/corporate/publications-and-reports/roads-task-force\\\"\\u003e2012 Roads Task Force\\u003c/a\\u003e for some of London's major routes.\",\"Cycle Parking demand at stations\\u003cbr /\\u003eNOTE: Uploaded Feb 2019. Based on TfL Strategic Analysis data. Remember all stations in London experience some cycle parking demand.\",\" \\u003ca href=\\\"/campaign/our-plan-for-londons-roads\\\"\\u003eTfL Safer Junctions\\u003c/a\\u003e \\u003cbr /\\u003eNOTE: Uploaded March 2019. Subject to feasibility, consultation, and further design work.\",\"TfL Safer Speed programme\\u003cbr /\\u003eNOTE: Uploaded March 2019. Subject to feasibility, consultation, and further design work.\",\"Healthy Streets in progress Local Schemes\\u003cbr /\\u003eNOTE: Uploaded March 2019. Subject to feasibility, consultation, and further design work. 'Built' or 'On Site' status subject to change. Please consider extending 'Built' schemes outwards onto surrounding highway using Healthy Streets principles.\"]}",
      "Other useful open data for the mapping in ATZ assessments includes:",
      "{\"template\":\"bulletlist\",\"items\":[\"Ordnance Survey\\u003cbr /\\u003efor Green Spaces, Medical, Educational, and Worship land uses\\u003cbr /\\u003e\\u003cbr /\\u003eThe Medical/Educational/Worship data is in the OS VectorMap® District data Functional Sites shape file (e.g. TQ_FunctionalSite.shp). You will need to download both the TQ and TL tiles.\\u003cbr /\\u003e\",\"Space Syntax\\u003cbr /\\u003efor a range of spatial data including permeable street networks\"]}"
     ],
@@ -407,16 +406,11 @@
       "title": "Design \u0026 branding",
       "url": "/info-for/open-data-users/design-and-branding",
       "image": {}
-     },
-     {
-      "title": "Widgets",
-      "url": "/info-for/open-data-users/widgets",
-      "image": {}
      }
     ],
     "link": {
      "title": "Open data users",
-     "url": "/info-for/open-data-users/widgets",
+     "url": "/info-for/open-data-users/design-and-branding",
      "image": {}
     },
     "image": {},

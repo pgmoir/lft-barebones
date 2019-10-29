@@ -1,7 +1,35 @@
 {
+ "pageTitle": "Tram track upgrade work to take place in February",
+ "description": "Press releases and news articles from Transport for London",
  "template": "page-content",
- "breadcrumbs": null,
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2017",
+   "url": "/info-for/media/press-releases/2017"
+  },
+  {
+   "title": "January",
+   "url": "/info-for/media/press-releases/2017/january"
+  },
+  {
+   "title": "Tram track upgrade work to take place in February"
+  }
+ ],
  "title": {
+  "title": "Tram track upgrade work to take place in February",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +39,211 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London is advising customers that, due to track replacement work, Tram services between Wimbledon and Mitcham will not operate from 11 February through to 20 February.",
+     "The work, which is part of the Tram network's regular maintenance programme, will involve replacing 750 metres of track between Morden Road and Merton Park, as well as replacing both track and signals in the Dundonald Road crossing area, which will also involve the closure of the road. During this time a road diversion route will be in operation.",
+     "Rory O'Neill, TfL's Director of Trams, said: `Replacing the track and signals will reduce the need for further maintenance at these locations for many years to come and minimise future disruption for customers and local residents.",
+     "`In order to carry out our work safely and to keep the overall period of disruption to an absolute minimum, we need to close the Tram service between Wimbledon and Mitcham for the duration of the works. A bus replacement service will be in operation.'",
+     "Customers are advised to use the replacement bus service, which will call at Wimbledon, Morden Road and Mitcham Tram stops only, or use alternative local transport options to complete their journeys. TfL staff will be on hand to help at Wimbledon, Morden Road and Mitcham Tram.",
+     "\u003cstrong\u003eEnds\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL have organised a drop-in session for residents and customers at Merton Park Primary School, Church Lane, Wimbledon SW19 3HQ on Tuesday 24 January 2017 between 5pm and 8pm.\",\"London Tramlink has 28km of track, 30 trams in the fleet with four more on order and 39 stops.\",\"It serves seven National Rail stations and more than 50 bus routes.\",\"TfL took over ownership of Tramlink in June 2008.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2017/january",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2017/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2017/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2017/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2017/may",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2017/june",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2017/july",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2017/august",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2017/september",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2017/october",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2017/november",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2017/december",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

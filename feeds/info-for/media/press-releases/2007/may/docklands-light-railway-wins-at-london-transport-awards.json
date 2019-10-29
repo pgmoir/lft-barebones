@@ -1,9 +1,7 @@
 {
- "pageTitle": "Docklands Light Railway wins at London Transport Awards",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Docklands Light Railway wins at London Transport Awards",
   "card": {
    "link": {
     "image": {}
@@ -13,46 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "content",
-    "texts": [
-     "Docklands Light Railway (DLR) and its operator Serco Docklands have scooped Transport Team of the Year at the London Transport Awards.",
-     "The DLR was also runner-up in the Rail Station of the Year for London City Airport station.",
-     "Jonathan Fox, Director DLR, said: \"Our teamwork award is testimony to the genuine team effort that has gone into making the DLR what it is today. I would like to thank Serco and all our partners for their commitment, enthusiasm and support.",
-     "\"As DLR continues to develop and expand through projects such as the Woolwich Arsenal extension, Stratford International extension and upgrade from two to three-car, we look forward to further strengthening our key relationships and continuing to offer an unrivalled service.\"",
-     "Tony Thomas, Managing Director Serco Docklands, said: \"I am delighted that the genuine teamwork and spirit of partnership that exists between Serco and DLR has been recognised by this award that reflects the excellent standard of performance and service provided to our customers.\"",
-     "\u003cstrong\u003e\n\u003c/strong\u003e ",
-     "{\"template\":\"bulletlist\",\"items\":[\"Docklands Light Railway is part of Transport for London\",\"The London Transport Awards are organised by the Transport Times. The awards aim to reward London boroughs and  organisations that have made a real difference to the Capital\",\"The awards were presented on Wednesday 25 April at the London Hilton\",\"The DLR London City Airport extension was opened ahead of schedule and on budget in December 2005\",\"London City Airport station won the Community Rail Award for best 'Local Transport Integration Project' in October 2006\",\"DLR is the most reliable railway in mainland UK, with punctuality levels at 98 per cent\",\"Its passenger numbers of 60 million per year are set to increase to 80 million by 2009\",\"DLR has customer satisfaction of 96 per cent\"]}"
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

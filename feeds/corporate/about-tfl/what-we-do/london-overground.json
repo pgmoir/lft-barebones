@@ -36,28 +36,13 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We are responsible for London Overground - a group of routes serving many areas of the Capital.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We have overall responsibility for delivering a seamless service to our customers - we set the specifications for train frequency, station facilities and overall performance, and are responsible for fares and revenue.",
-     "We work together with other organisations to manage the London Overground network:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Arriva Rail London (ARL) began to manage the network's stations and trains on a day-to-day basis in 2016, taking over from London Overground Rail Operations Ltd\",\"London Overground is part of the National Rail network so Network Rail manages and maintains most of the track and signals\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The London Overground network\"}",
-     "Six routes form the London Overground network:",
+     "{\"template\":\"intro\",\"texts\":[\"We are responsible for London Overground - a group of six routes serving many areas of the Capital.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground network\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Richmond and Clapham Junction to Stratford\",\"Watford Junction to Euston\",\"Gospel Oak to Barking\",\"Highbury \\u0026 Islington to New Cross, Clapham Junction, Crystal Palace and West Croydon\",\"Liverpool Street to Enfield Town, Cheshunt (via Seven Sisters) and Chingford\",\"Romford to Upminster\"]}",
      "Around a third of all Londoners are within walking distance of a London Overground station.",
-     "London Overground was launched in 2007 when we took over Silverlink Metro services. It has grown from there:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Silverlink Metro services (2007)\",\"East London line (2010)\",\"South London line (2012)\",\"West Anglia Inners and Romford to Upminster routes (2015)\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improving London Overground\"}",
-     "We have invested in trains and stations since the service began.",
-     "We have:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Improved the frequency and reliability of trains\",\"Opened three line extensions and 6 new stations\",\"Refurbished every station we manage and improved accessibility - more than half are now step-free from street to platform\",\"Introduced 65 new trains and added a fifth car to 57 of the class 378 trains\",\"Added WiFi at most stations\"]}",
-     "London Overground is now one of the most reliable train operators in the country and is rated one of the best by customers.",
-     "Find out more about how \u003ca href=\"/modes/london-overground/improving-london-overground\"\u003ewe're improving the London Overground network\u003c/a\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Planned closures\"}",
-     "Most London Overground services run on tracks owned by Network Rail and shared with other train operating companies. This means track, signalling and infrastructure such as bridges are in almost constant use. Network Rail schedules regular and comprehensive maintenance to ensure everything is in good order.",
-     "The network sometimes has to close because Network Rail is doing maintenance or because we are. Wherever possible we schedule our work to take place at the same time as Network Rail.",
-     "Find out more about how we're \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network\"\u003edeveloping rail services in London\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quick facts\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"London Overground serves 112 stations\",\"It travels through 23 London boroughs, as well as southern Hertfordshire\",\"More than 190 million people used the Overground in 2017/18, compared to 33 million in 2008/09\",\"The London Overground tracks at Whitechapel actually run beneath the District and Hammersmith \\u0026 City Tube lines. They also run beneath Tube tracks between Kenton and South Kenton, and between Northwick Park and Preston Road\"]}"
+     "We have overall responsibility for giving our customers a seamless service - we set the specifications for train frequency, station facilities and overall performance, and are responsible for fares and revenue.",
+     "We work together with other organisations to manage the London Overground network:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Arriva Rail London manages the network's stations and trains day-to-day\",\"Network Rail manages and maintains most of the track and signals - London Overground is part of the National Rail network\"]}"
     ],
     "link": {
      "image": {}

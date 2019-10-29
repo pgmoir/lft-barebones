@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Forgot your season ticket",
+ "keywords": "TfL",
+ "description": "How to get a refund if you forgot your Travelcard or Bus \u0026 Tram Pass when travelling.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Forgot your season ticket"
+  }
+ ],
+ "title": {
+  "title": "Forgot your season ticket",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can get a refund if you forgot your Travelcard or Bus \\u0026 Tram Pass.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you claim\"}",
+     "You must claim within 28 days.",
+     "We will give you a refund if you used an alternative method of payment (e.g. contactless, another Oyster card or a paper ticket) on the day you are claiming for.",
+     "You cannot request this type of refund more than twice in 12 months.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund by phone\"}",
+     "Call:\u003cbr /\u003e \u003ca href=\"tel:0343 222 1234\"\u003e0343 222 1234\u003c/a\u003e ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eCharges may apply\u003c/a\u003e )",
+     "You will need to prove that you used an alternative method to pay for your travel on the day your are claiming for.",
+     "You will need to provide your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Forgotten season ticket details\",\"Alternative payment method details (Oyster or contactless card number, or paper ticket details)\",\"Bank details (sort code and account number)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/refunds-and-replacements/forgot-your-oyster-photocard\\\"\\u003eForgot your Oyster photocard\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

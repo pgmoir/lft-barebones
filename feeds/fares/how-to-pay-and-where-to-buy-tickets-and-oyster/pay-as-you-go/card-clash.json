@@ -1,0 +1,165 @@
+{
+ "pageTitle": "Card clash",
+ "keywords": "TfL,Card clash, yellow card reader clash",
+ "description": "Keep your contqactless and Oyster cards separate when touching on a yellow card reader to pay the right fare",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "How to pay and where to buy tickets and Oyster",
+   "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster"
+  },
+  {
+   "title": "Pay as you go",
+   "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go"
+  },
+  {
+   "title": "Card clash"
+  }
+ ],
+ "title": {
+  "title": "Card clash",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Keep your contactless and Oyster cards away from each other when touching a yellow card reader to pay the right fare.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What is card clash?\"}",
+     "Card clash happens when you accidently touch more than one card on a yellow card reader at the same time.",
+     "Make sure you keep your contactless and Oyster cards separate and not in the same purse, wallet or phone case when touching in or out.",
+     "If the yellow card reader detects more than one card:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You could be charged two maximum fares for your journey. The reader may charge one card when you touch in and another card when you touch out\",\"It could take payment from the wrong card\",\"It may not take payment and you won't have paid for your journey, so you could be liable for a \\u003ca href=\\\"/fares/find-fares/penalty-fares-and-how-to-pay-them\\\"\\u003epenalty fare\\u003c/a\\u003e \",\"If you're at a ticket gate, it may not open\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay the right fare\"}",
+     "You'll pay the right fare if you touch in and out with the same card.",
+     "Always use the same device, contactless or Oyster card to touch in and out. For example, if you touch in with an iPhone and touch out with an Apple Watch or contactless card, you'll be charged for two incomplete journeys.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Check for card clash\"}",
+     "Check your journey history on your \u003ca href=\"/fares/contactless-and-oyster-account\"\u003econtactless and Oyster account\u003c/a\u003e to see if you've paid your fare with the right card.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Apply for a refund\"}",
+     "If you've been charged a maximum fare on two different cards for the same journey, you can \u003ca href=\"/fares/refunds-and-replacements/wrong-card-charged\"\u003eapply for a refund\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "How to pay and where to buy tickets and Oyster",
+    "links": [
+     {
+      "title": "What's the best ticket for me?",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/whats-the-best-ticket-for-me",
+      "image": {}
+     },
+     {
+      "title": "Buying tickets and Oyster",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/buying-tickets-and-oyster",
+      "image": {}
+     },
+     {
+      "title": "TfL Oyster and contactless app",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+      "image": {}
+     },
+     {
+      "title": "Pay as you go",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go",
+      "image": {}
+     },
+     {
+      "title": "Oyster pay as you go",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go",
+      "image": {}
+     },
+     {
+      "title": "Contactless and mobile pay as you go",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go",
+      "image": {}
+     },
+     {
+      "title": "Keep within maximum journey times",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/keep-within-maximum-journey-times",
+      "image": {}
+     },
+     {
+      "title": "Touch a pink card reader when changing trains",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touch-pink-card-reader-when-changing-trains",
+      "image": {}
+     },
+     {
+      "title": "Touching in and out",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out",
+      "image": {}
+     },
+     {
+      "title": "Card clash",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/card-clash",
+      "image": {}
+     },
+     {
+      "title": "Travelcards and group tickets",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets",
+      "image": {}
+     },
+     {
+      "title": "Single and return tickets",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets",
+      "image": {}
+     },
+     {
+      "title": "Bus \u0026 Tram Pass",
+      "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "How to pay and where to buy tickets and Oyster",
+     "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

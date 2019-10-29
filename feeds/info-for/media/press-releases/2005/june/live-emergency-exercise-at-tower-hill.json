@@ -1,7 +1,10 @@
 {
+ "pageTitle": "Live emergency exercise at Tower Hill",
+ "description": "Each year London Underground is legally required to hold an emergency exercise on the network. A different line takes turns in hosting the event. Last year it took place at Lambeth North station on the Bakerloo line, this year it is the turn of the",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Live emergency exercise at Tower Hill",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +14,60 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "London Underground (LU) will hold its annual live emergency exercise at Tower Hill station on Sunday 12 June."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Each year London Underground is legally required to hold an emergency exercise on the network. A different line takes turns in hosting the event.",
+     "Last year it took place at Lambeth North station on the Bakerloo line, this year it is the turn of the District line.",
+     "Roland Murphy, Exercise Director, London Underground said: \"The live exercises are made as authentic as possible.",
+     "\"All participants including all the emergency services are unaware of the 'disaster' until the exercise starts, so that they treat it as real as possible.",
+     "\"LU has very good safety procedures in place but we can always build and improve upon them through exercises such as this.",
+     "\"Due to major track replacement work services on the District line are suspended this weekend between Whitechapel and Earl's Court.",
+     "\"The date for the exercise was chosen carefully to coincide with the works, so that it would have minimum impact on customers.\"",
+     "A police cordon will be erected around Tower Hill station, which will result in the following roads being closed from 0500 on Sunday 12 June: Trinity Square, Savage Gardens, Wakefield Gardens and Coopers Row.",
+     "The cordon will remain until the end of the exercise.\u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"Due to the location of the exercise, we will be unable to provide media access however a video news release will be available shortly after exercise. Please contact Tracey O'Brien on 020 7941 4141 if you require further information\",\"British Transport Police, Metropolitan Police, City of London Police, London Ambulance Service, London Fire Brigade, HMRI and the London Borough of Tower Hamlets are all involved in the event.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

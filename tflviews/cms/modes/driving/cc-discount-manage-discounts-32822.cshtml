@@ -74,7 +74,7 @@
             content.MotorTricyclesDiscountText = "Manage my motor tricycle discount";
             content.RoadsideRecoveryVehicleDiscountText = "Manage my recovery vehicle discount";
             content.UltraLowEmissionsDiscountDiscountText = "Manage my cleaner vehicle discount";
-            content.HasNoDiscountsText = "<p><strong>You do not have any active discounts.</strong></p>";
+            content.HasNoDiscountsText = "<p><strong>You do not have any active discounts..</strong></p>";
 
             Html.RenderAction("GetDiscounts", "DiscountManage", new
                 {
@@ -101,20 +101,20 @@
 
         <ul class="vertical-button-container stacked-cta-list">
             @ModulesHelpers.BoxedLinkListItem(
-                href: "/modes/driving/cc-select-discount-29641",
-                id: "discount-apply",
+                "/modes/driving/cc-select-discount-29641",
+                System.Guid.NewGuid().ToString(),
                 text: "Apply for a discount"
             )
 
             @ModulesHelpers.BoxedLinkListItem(
-                href: "/modes/driving/cc-autopay-manage-view-vehicle-history-30894",
-                id: "discount-vehicle-history",
+                "/modes/driving/cc-autopay-manage-view-vehicle-history-30894",
+                System.Guid.NewGuid().ToString(),
                 text: "Discount vehicle history"
             )
             
             @ModulesHelpers.BoxedLinkListItem(
-                href: "/modes/driving/account-active-vehicles-37471",
-                id: "discount-vehicle-history",
+                "/modes/driving/account-active-vehicles-37471",
+                System.Guid.NewGuid().ToString(),
                 text: "View all vehicles with a discount"
             )
         </ul>
@@ -185,7 +185,7 @@
     <div data-set="sidenav-container" class="small-medium"></div>
   </div>
 </div>
- 
+
  
         
         

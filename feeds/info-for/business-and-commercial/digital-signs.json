@@ -1,0 +1,94 @@
+{
+ "pageTitle": "Digital Signs",
+ "keywords": "TfL",
+ "description": "If you're an organisation keen to offer employees and customers the benefits of live bus arrival information, Digital Sign is the solution.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Digital Signs"
+  }
+ ],
+ "title": {
+  "title": "Digital Signs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're an organisation keen to offer employees and customers the benefits of live bus arrival information, Digital Sign is the solution.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our award-winning Digital Sign service is a unique and innovative way to provide your customers or employees with live bus arrival information. And now, it's easier than ever to make it a part of your organisation.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/signs1_rdax_400x250.jpg\",\"alt\":\"Digital Signs image\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the Digital Sign\"}",
+     "The Digital Sign is a packaged service which uses our live bus arrival data to display up to four bus stops and a map of your local area which pinpoints the displayed stops. Each bus stop on the map has its own arrival board showing predictions for bus arrivals.",
+     "We provide the Digital Sign as a web link (URL) so it can easily be configured to automatically display in a web browser on your own TV screen or a PC. This means you can get your Digital Sign working quickly and at minimal cost.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Suitable locations\"}",
+     "Digital Signs work best indoors, so they can easily be set up in places like hospital receptions, town halls and libraries, as well as commercially-owned premises like shopping centres, supermarkets and entertainment venues.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits for you and your customers\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can display the Digital Sign on your own equipment, which makes it quick and easy to set up\",\"Having the Digital Sign on your premises is an economical and low-cost way to provide useful travel information for customers and employees, especially those who are vulnerable or unfamiliar with the area and might benefit from planning their journey in advance\",\"Whether it's other transport mode information, weather updates, local news, or your own advertising, the Digital Sign can be used at the same time\",\"Your Digital Sign displays the same information as all our other Live Bus Arrivals services, so if service disruptions affect local routes, messages are displayed prominently on the sign to make sure your customers are kept well informed\",\"Instead of dedicating staff and other resources to creating and maintaining your own live bus arrival information service using the API, we can:\",\"Create a sign for you - just let us know which stops you want to display or we can even pick the stops for you\",\"Make changes to the order of the stops displayed, etc, or make a quick change at your request\",\"Offer expertise if you need help to decide which stops to display for your customers\",\"Displaying up to four stops on one sign means that customers can make more informed decisions quickly and at a glance\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River bus arrival times on the Digital Sign\"}",
+     "Pier stops can be displayed on the Digital Sign which means you can display live river bus arrival information alongside bus arrival information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Further developments to the Digital Sign\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bus station Digital Signs\"}",
+     "Digital Sign technology has been enhanced to improve its use in more complex environments, like interchanges and bus stations. For example, bus stations often have more than four bus stops and require a way to help passengers locate the stops on the bus station.",
+     "We have also worked with our suppliers to develop a sign that's robust, secure, weatherproof and fit for purpose in exposed environments. A trial is currently underway with Digital Signs now installed at Harrow, Vauxhall, East Croydon, North Greenwich and Walthamstow bus stations. Further installations are planned for later this year.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Interested in a Digital Sign?\"}",
+     "For more information about the Digital Sign, or to request a welcome pack, contact \u003ca href=\"mailto:Digisign.countdown@tfl.gov.uk\"\u003eDigisign.countdown@tfl.gov.uk\u003c/a\u003e .",
+     "Once we receive your completed application form we'll review it and check the location and stops to be included as well as the technical capabilities. Once agreed by both parties, we'll then set up the service and provide an exclusive web link (URL) which contains your unique Digital Sign.",
+     "\u003cstrong\u003e*Digital Signs are not for individuals but for organisations wishing to display bus arrival information. If an individual wishes to access this information \u003c/strong\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

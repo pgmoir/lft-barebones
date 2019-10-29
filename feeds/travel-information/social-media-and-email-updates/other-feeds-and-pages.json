@@ -1,0 +1,115 @@
+{
+ "pageTitle": "Other social media feeds and pages",
+ "keywords": "Public,TfL",
+ "description": "Latest news plus travel advice, trivia and competitions on social media",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Social media \u0026 email updates",
+   "url": "/travel-information/social-media-and-email-updates/index"
+  },
+  {
+   "title": "Other social media feeds and pages"
+  }
+ ],
+ "title": {
+  "title": "Other social media feeds and pages",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Travel updates on Tube, rail, buses and roads.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLTravelAlerts\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"@bakerlooline\",\"url\":\"http://www.twitter.com/bakerlooline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@centralline\",\"url\":\"http://www.twitter.com/centralline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@circleline\",\"url\":\"http://www.twitter.com/circleline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@districtline\",\"url\":\"http://www.twitter.com/districtline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@hamandcityline\",\"url\":\"http://www.twitter.com/hamandcityline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@jubileeline\",\"url\":\"http://www.twitter.com/jubileeline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@metline\",\"url\":\"http://www.twitter.com/metline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@northernline\",\"url\":\"http://www.twitter.com/northernline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@piccadillyline\",\"url\":\"http://www.twitter.com/piccadillyline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@victorialine\",\"url\":\"http://www.twitter.com/victorialine\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@wlooandcityline\",\"url\":\"http://www.twitter.com/wlooandcityline\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@LDNOverground\",\"url\":\"http://www.twitter.com/ldnoverground\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@londondlr\",\"url\":\"http://www.twitter.com/londondlr\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@tramslondon\",\"url\":\"http://www.twitter.com/tramslondon\",\"icon\":\"external\",\"image\":{}},{\"title\":\"@tflrail\",\"url\":\"http://www.twitter.com/tflrail\",\"icon\":\"external\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLTrafficNews\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLBusAlerts\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/SantanderCycles\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLRiver\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/EmiratesAirLDN\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@elizabethline\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Social media \u0026 email updates",
+    "links": [
+     {
+      "title": "Facebook TravelBot",
+      "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
+      "image": {}
+     },
+     {
+      "title": "Travel alerts on Twitter",
+      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
+      "image": {}
+     },
+     {
+      "title": "Email updates",
+      "url": "/travel-information/social-media-and-email-updates/email-updates",
+      "image": {}
+     },
+     {
+      "title": "Other social media feeds and pages",
+      "url": "/travel-information/social-media-and-email-updates/other-feeds-and-pages",
+      "image": {}
+     },
+     {
+      "title": "Journey alerts",
+      "url": "/travel-information/social-media-and-email-updates/journey-alerts",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Social media \u0026 email updates",
+     "url": "/travel-information/social-media-and-email-updates/journey-alerts",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

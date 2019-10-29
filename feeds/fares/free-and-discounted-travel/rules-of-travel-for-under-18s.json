@@ -1,0 +1,175 @@
+{
+ "pageTitle": "Rules of travel for under 18s",
+ "keywords": "TfL,Rules, travel rules, under 18s",
+ "description": "Young Person's Behaviour Code for travel on all TfL services",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Free and discounted travel",
+   "url": "/fares/free-and-discounted-travel"
+  },
+  {
+   "title": "Rules of travel for under 18s"
+  }
+ ],
+ "title": {
+  "title": "Rules of travel for under 18s",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our Young Person's Behaviour Code exists to ensure you travel safely and show respect for others.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You must follow it or you risk losing your concession or your Zip Oyster photocard.",
+     "The Young Person's Behaviour Code helps you travel safely and be respectful of travellers, staff and property. Expected behaviours include, but are not limited to:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Act in a considerate and responsible manner\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Act safely\",\"Cooperate with our staff and treat them and other passengers with respect\",\"Use language that does not cause offence to others\",\"Ensure you are the only person that can hear your music\",\"Ensure you pick up all your litter\",\"Keep your feet off the seats\",\"Give up your seat for others\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Look after your Oyster photocard\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Ensure it's not used by another person\",\"Ensure your photo is clearly recognisable and the card is in good condition\",\"If it is \\u003ca href=\\\"/fares/refunds-and-replacements/lost-stolen-or-damaged-oyster-photocard\\\"\\u003elost, stolen or damaged\\u003c/a\\u003e , report it to TfL immediately, even if you do not plan to get a replacement straight away\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use your Oyster photocard correctly\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Always \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\\\"\\u003etouch in\\u003c/a\\u003e on the yellow reader on buses and trams\",\"Always \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\\\"\\u003etouch in\\u003c/a\\u003e at the start of your journey and \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\\\"\\u003etouch out\\u003c/a\\u003e at the end on the Tube, DLR, London Overground, TfL Rail and National Rail services\",\"Pay the right fare if you do not have your valid photocard with you, or it is damaged\",\"Pay any \\u003ca href=\\\"/fares/find-fares/penalty-fares-and-how-to-pay-them\\\"\\u003epenalty fare\\u003c/a\\u003e that has been issued to you\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"You must not:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Smoke, take drugs or drink alcohol on our vehicles and/or premises\",\"Behave in a way that we consider to be antisocial\",\"Commit any crime that affects our services, passengers, staff or property\",\"Breach the Conditions of Carriage Public Service Vehicles Regulations (1990) or any TfL Byelaw\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If you don't follow the code\"}",
+     "If you fail to follow the Young Person's Behaviour Code, commit a crime on London's public transport network or premises or if we believe that you have behaved in an antisocial way, then:",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you're using a \\u003ca href=\\\"/fares/free-and-discounted-travel/5-10-zip-oyster-photocard\\\"\\u003e5-10 Zip Oyster photocard\\u003c/a\\u003e or \\u003ca href=\\\"/fares/free-and-discounted-travel/11-15-zip-oyster-photocard\\\"\\u003e11-15 Zip Oyster photocard\\u003c/a\\u003e , your concession may be withdrawn\",\"If you're using a \\u003ca href=\\\"/fares/free-and-discounted-travel/16-plus-zip-oyster-photocard\\\"\\u003e16+ Zip Oyster photocard\\u003c/a\\u003e , your Oyster photocard and your concession may be withdrawn\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Earn your travel back\"}",
+     "If your Zip Oyster photocard was withdrawn for breaching the Young Person's Behaviour Code, you can earn it back by volunteering in your local community.",
+     "We'll let your parent or guardian know that your concession has been withdrawn and give them details about how you can earn your travel back.",
+     "You can't take part if:",
+     "{\"template\":\"bulletlist\",\"items\":[\"You had your concession withdrawn because of criminal behaviour\",\"You've taken part in the Earn Your Travel Back scheme before for a previous withdrawal\"]}",
+     "If you have any questions, contact \u003ca href=\"mailto:iap@tfl.gov.uk\"\u003eiap@tfl.gov.uk\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/find-fares/penalty-fares-and-how-to-pay-them\\\"\\u003ePenalty fares and how to pay them\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Free and discounted travel",
+    "links": [
+     {
+      "title": "5-10 Zip Oyster photocards",
+      "url": "/fares/free-and-discounted-travel/5-10-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "11-15 Zip Oyster photocards",
+      "url": "/fares/free-and-discounted-travel/11-15-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "16+ Zip Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/16-plus-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Travel for schools",
+      "url": "/fares/free-and-discounted-travel/travel-for-schools",
+      "image": {}
+     },
+     {
+      "title": "Rules of travel for under 18s",
+      "url": "/fares/free-and-discounted-travel/rules-of-travel-for-under-18s",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/18-plus-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Apprentice Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/apprentice-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ London Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/60-plus-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Freedom Pass",
+      "url": "/fares/free-and-discounted-travel/freedom-pass",
+      "image": {}
+     },
+     {
+      "title": "Veterans Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/veterans-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "National Railcard discounts",
+      "url": "/fares/free-and-discounted-travel/national-railcard-discount",
+      "image": {}
+     },
+     {
+      "title": "Annual Gold Card discount",
+      "url": "/fares/free-and-discounted-travel/annual-gold-card-discount",
+      "image": {}
+     },
+     {
+      "title": "Jobcentre Plus Travel Discount",
+      "url": "/fares/free-and-discounted-travel/jobcentre-plus-travel-discount",
+      "image": {}
+     },
+     {
+      "title": "Bus \u0026 Tram Discount photocard",
+      "url": "/fares/free-and-discounted-travel/bus-and-tram-discount",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Free and discounted travel",
+     "url": "/fares/free-and-discounted-travel/bus-and-tram-discount",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

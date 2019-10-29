@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Greenwich Waterfront Transit public consultation results released",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Greenwich Waterfront Transit public consultation results released",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,50 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London (TfL) has released the results of the public consultation for phase one of the \u003ca \u003eGreenwich Waterfront Transit\u003c/a\u003e , the section between Woolwich town centre and Thamesmead.",
+     "A total of 787 responses were received, with the majority coming from residents and businesses in Gallions Hill (60 per cent).",
+     "The consultation responses showed strong support for Greenwich Waterfront Transit to run along a route including Tom Cribb Road and Western Way.",
+     "Head of Major Projects at TfL David Howarth said: \"This was a robust consultation and we are extremely pleased with the high level of response.",
+     "\"We now have an understanding of the preferences, issues and concerns of local residents and business owners and will take these into account as we continue our development of this essential transit route.\"",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Thames Gateway improvements\"}",
+     "The Greenwich Waterfront Transit aims to increase access to employment, education and services in the Thames Gateway.",
+     "The scheme is planned to link with the proposed East London Transit via the Thames Gateway Bridge, forming part of the package of transport improvements planned for the Thames Gateway.",
+     "A number of issues raised by respondents to the consultation included the impacts upon local ecology, road safety and the effect on residential areas.",
+     "TfL is now considering and analysing all route options, taking into account the results of the consultation, and will recommend a preferred route to the London Borough of Greenwich later in the year.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The full report is available on \\u003ca href=\\\"http://www.tfl.gov.uk/assets/downloads/FINAL-REPORT-271005.pdf\\\"\\u003eTfL's website\\u003c/a\\u003e .\",\"The consultation was undertaken jointly by Transport for London (TfL) and the London Borough of Greenwich, between 19 November 2004 and 21 January 2005\",\"Next steps:\\u003cbr /\\u003eul\",\"The GWT project is being developed in three phases:\\u003cbr /\\u003eul\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

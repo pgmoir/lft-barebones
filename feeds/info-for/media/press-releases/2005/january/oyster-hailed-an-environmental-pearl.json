@@ -1,7 +1,10 @@
 {
+ "pageTitle": "Oyster hailed an environmental pearl",
+ "description": "A paper ticket is 8.5cm in length, so laid end to end, this results in an annual saving of 2,720km of paper - more than six and a half times the distance covered by the entire Tube network. Transport for London projects more than 3 million people will be",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Oyster hailed an environmental pearl",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +14,58 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London (TfL) and Friends of the Earth are hailing Oyster an environmental asset, with 100,000 fewer paper tickets being sold every day - a saving of 32 million paper tickets a year - since the Smartcard was introduced."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "A paper ticket is 8.5cm in length, so laid end to end, this results in an annual saving of 2,720km of paper - more than six and a half times the distance covered by the entire Tube network.",
+     "Transport for London projects more than 3 million people will be using Oyster by mid-2005.",
+     "Comments Jay Walder, Managing Director of Finance and Planning at TfL:",
+     "\"TfL's Oyster card system has been a huge success. Nearly 3 million journeys are made every weekday with Oyster, making it a world leader in Smartcard ticketing. The phased introduction of Oyster has ensured success from the outset, bringing greater security and convenience for passengers.",
+     "\"This significant reduction in paper waste is just one more example of the wider benefits Oyster is bringing to London.\"",
+     "Friends of the Earth recycling campaigner, Claire Wilton, said:",
+     "\"London's waste has grown by more than ten per cent in the last five years, so efforts to reduce it are very welcome. Avoiding the use of paper in tickets means that fewer trees will be felled, helping to preserve wildlife habitats across the world.\"",
+     "For further information, please contact Amanda Brooks, TfL Press Office 020 7941 4141."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

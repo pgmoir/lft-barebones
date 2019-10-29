@@ -49,7 +49,7 @@
      " \u003ca href=\"http://www.tfl.gov.uk/cable-car/stop/940GZZALRDK/emirates-royal-docks?lineId=emirates-air-line\"\u003ePlan your journey to Emirates Royal Docks\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/emirates-map.jpg\",\"alt\":\"Emirates Air Line locations\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Opening hours\"}",
-     "{\"template\":\"table\",\"titles\":[\"Day\",\"Time\",\"Monday to Thursday\",\"Friday\",\"Saturday\",\"Sunday and Bank Holidays\"],\"rows\":[[],[\"07:00-21:00\"],[\"07:00-23:00\"],[\"08:00-23:00\"],[\"09:00-21:00\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Day\",\"Time\",\"Monday to Thursday\",\"Friday\",\"Saturday\",\"Sunday and Bank Holidays\"],\"rows\":[[],[\"07:00-22:30\"],[\"07:00-23:00\"],[\"08:00-23:00\"],[\"09:00-22:30\"]]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Night flight experience hours\"}",
      "After 19:00 each day, flight durations are extended to approximately 25 minutes (12-13 minutes each way), so you can enjoy an even more relaxing trip across the Thames.\nMusic and video will further enhance your in-flight experience at these times.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Closures\"}",
@@ -139,8 +139,8 @@
       "image": {}
      },
      {
-      "title": "Book tickets on the O2 website",
-      "url": "https://emiratesairline.theo2.co.uk/emirates-airline-tickets-html.html",
+      "title": "Book tickets",
+      "url": "http://emiratesairline.gttix.com/",
       "icon": "external",
       "image": {}
      }

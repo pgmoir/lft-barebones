@@ -1,0 +1,92 @@
+{
+ "pageTitle": "Add or reduce zones on your Travelcard",
+ "keywords": "TfL",
+ "description": "Information on how to reduce or add zones on your Travelcard for TfL travel.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Add or reduce zones on your Travelcard"
+  }
+ ],
+ "title": {
+  "title": "Add or reduce zones on your Travelcard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can add or reduce the zones on your Travelcard.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you add or reduce zones\"}",
+     "There must be at least 1 month and 1 day remaining on your Travelcard at the date of change, not the date of your request.",
+     "You cannot change:",
+     "{\"template\":\"bulletlist\",\"items\":[\"7 Day or monthly Travelcards\",\"Your Travelcard if you bought it from National Rail, Abellio or Trainline\",\"Your Travelcard if you paid for it using a warrant\",\"Your Travelcard if you previously reduced the zones on it\\u003cbr /\\u003e\"]}",
+     "It will take up to 5 working days to process and issue you with a replacement card.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your Travelcard is on an Oyster card\"}",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Or \u003ca href=\"http://contactless.tfl.gov.uk\"\u003ecreate an account\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"If your Travelcard is a paper ticket\"}",
+     "Post your:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Ticket\",\"Contact details (name, address and phone number)\",\"Which zones you want to change it to\"]}",
+     "To:\u003cbr /\u003eTfL Customer Services\u003cbr /\u003e4th Floor\u003cbr /\u003e14 Pier Walk\u003cbr /\u003eLondon\u003cbr /\u003eSE10 0ES"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

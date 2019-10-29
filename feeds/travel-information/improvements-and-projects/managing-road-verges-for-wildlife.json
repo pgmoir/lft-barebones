@@ -1,0 +1,85 @@
+{
+ "pageTitle": "Managing road verges for wildlife",
+ "keywords": "M,Hillingdon,Redbridge,Environment,Roads,Streetscape,TfL",
+ "description": "We're running a trial along to encourage wildflower growth and biodiversity on our grass verges",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Managing road verges for wildlife"
+  }
+ ],
+ "title": {
+  "title": "Managing road verges for wildlife",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're running a trial along two red routes - parts of the A40 and A406 - to increase biodiversity by encouraging wildflower growth.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/muscari-armeniacum-in-grass_rdax_400x250.jpg\",\"alt\":\"wildflower in grass verge - muscari armeniacum\"},\"wrapped\":false}",
+     "Increasing biodiversity is a goal of the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e . We want to help existing wildflowers in our grass verges to grow and produce new flowers - this will supply nectar and other food resources, plus shelter for wildlife including bees, butterflies, birds and small mammals.",
+     "Over time the variety of plant life will increase, helping to support even more wildlife species.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we're doing\"}",
+     "To allow the wildflowers to grow we will change the number of times we cut the grass. In the trial areas we will cut the verges twice a year, in April and September.",
+     "At the same time we will remove grass cuttings from the full width of the verge. Removing the grass clippings helps the wildflowers by gradually reducing soil nutrient levels, giving them a chance to outcompete the grasses that normally dominate when soil nutrient levels are higher.",
+     "To keep everything looking neat and tidy we will also cut the first metre of verge back from the carriageway more regularly. This will keep long grass from encroaching on roads or pavements.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where this is happening\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A406 Redbridge roundabout to the M11 in Redbridge\",\"A40 from Target roundabout westwards to the London boundary in Hillingdon\"]}",
+     "If the trial is successful, we hope to expand to other suitable verges along red routes in 2020 and beyond. With 165 hectares of grassed verge on our road network, we could potentially increase biodiversity levels across London.",
+     "Find out more about the importance of roadside verges for wildlife on the \u003ca href=\"http://plantlife.love-wildflowers.org.uk/roadvergecampaign\"\u003ePlantlife website\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -33,7 +33,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Walk, cycle and discover London this winter.\",\"Why not improve your health, save money, and experience London in a different way? Leave your car at home and walk or cycle instead.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Walk, cycle and discover London this summer.\",\"Why not improve your health, save money, and experience London in a different way? Leave your car at home and walk or cycle instead.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"video\",\"style\":\"oscipmO41J4\",\"title\":\"Try a new route, find a new London\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
      "Research by Public Health England shows that leaving your car at home and walking briskly for just ten minutes, twice a day, improves your health.",
@@ -51,7 +51,6 @@
      "{\"title\":\"Discover cycling\",\"texts\":[\"Find cycle routes, maps and scenic rides, and read about cycling in London\"],\"link\":{\"url\":\"/modes/cycling/index\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/active-travel-cycling_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"New to cycling?\",\"texts\":[\"Read our cycling tips and guides, and see stories of fellow cyclists\"],\"link\":{\"url\":\"/modes/cycling/new-to-cycling\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-people-street2_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Ride Santander Cycles\",\"texts\":[\"Hire a Santander Cycle from any terminal across London from as little as £2\"],\"link\":{\"url\":\"/modes/cycling/santander-cycles\",\"image\":{}},\"image\":{},\"wrapped\":true}",
-     "{\"title\":\"Returning to cycling?\",\"texts\":[\"Read Amy's story about getting back on her bicycle after a free Cycle Skills session\"],\"link\":{\"url\":\"https://londonblog.tfl.gov.uk/2017/09/11/bike-to-basics/\",\"icon\":\"external\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"listgroup\",\"title\":\"Experience London blog\",\"links\":[{\"title\":\"Read our blog\",\"url\":\"https://londonblog.tfl.gov.uk/\",\"icon\":\"external\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],

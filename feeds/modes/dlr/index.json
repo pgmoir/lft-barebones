@@ -96,13 +96,13 @@
     "links": [
      {
       "title": "Fares",
-      "url": "/fares-and-payments/fares2018/index",
+      "url": "/fares/index",
       "icon": "internal",
       "image": {}
      },
      {
       "title": "Refunds",
-      "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+      "url": "/fares/refunds-and-replacements",
       "icon": "internal",
       "image": {}
      },
@@ -128,7 +128,7 @@
    {
     "title": "Service changes",
     "texts": [
-     "Check for planned line closures and service changes"
+     "Check for planned line closures and service changes on all modes"
     ],
     "link": {
      "url": "/status-updates/planned-track-closures",

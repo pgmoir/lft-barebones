@@ -38,15 +38,18 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"A low emission neighbourhood (LEN) is a scheme aimed at improving air quality and promoting sustainable living in a particular area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Measures in a LEN can range from building up the infrastructure for ultra low emission vehicles to projects that make it easier for people to move around by bike or on foot.",
+     "They can also help to improve the health and wellbeing of local communities by reducing noise and social isolation and bringing communities back together when they have been divided by features such as busy roads.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/low-emission-neighbourhoods-page_rdax_400x250.jpg\",\"alt\":\"Low Emission Neighbourhoods logo\"},\"wrapped\":false}",
-     "We are working with the GLA and the London boroughs improve air quality through projects funded by the £20m \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-air-quality-fund\"\u003eMayor's Air Quality Fund (MAQF)\u003c/a\u003e .",
-     "As part of MAQF, we are supporting 5 LENs",
-     "Featured schemes in a LENs include:",
+     "We are working with the GLA and the London boroughs to improve air quality through projects funded by the £20m \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-air-quality-fund\"\u003eMayor's Air Quality Fund (MAQF)\u003c/a\u003e .",
+     "As part of MAQF, we are supporting 4 LENs in line with the Healthy Streets Approach in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e :",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.cityoflondon.gov.uk/business/environmental-health/environmental-protection/air-quality/Pages/Low-Emission-Neighbourhood.aspx\\\"\\u003eBarbican\\u003c/a\\u003e (City of London)\",\" \\u003ca href=\\\"https://zeroemissionsnetwork.com/len\\\"\\u003eCity Fringe (Shoreditch)\\u003c/a\\u003e (Hackney, Islington and Tower Hamlets)\",\" \\u003ca href=\\\"http://royalgreenwich.gov.uk/lowemissionneighbourhood\\\"\\u003eGreenwich Town Centre\\u003c/a\\u003e (Greenwich)\",\" \\u003ca href=\\\"http://marylebonelen.org/\\\"\\u003eMarylebone\\u003c/a\\u003e (Westminster)\"]}",
+     "Featured schemes in a LENs can include:",
      "{\"template\":\"bulletlist\",\"items\":[\"Car-free days\",\"Smaller green spaces such as pocket parks\",\"Green cover including vegetation on roofs\",\"Behaviour change initiatives\",\"No idling zones\",\"Coordinated deliveries\",\"Electric vehicles\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Upcoming LENs\"}",
-     "These LENs will be created by April 2019:",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.cityoflondon.gov.uk/business/environmental-health/environmental-protection/air-quality/Pages/Low-Emission-Neighbourhood.aspx\\\"\\u003eBarbican\\u003c/a\\u003e (City of London)\",\" \\u003ca href=\\\"https://zeroemissionsnetwork.com/len\\\"\\u003eCity Fringe (Shoreditch)\\u003c/a\\u003e (Hackney, Islington and Tower Hamlets)\",\" \\u003ca href=\\\"http://royalgreenwich.gov.uk/lowemissionneighbourhood\\\"\\u003eGreenwich Town Centre\\u003c/a\\u003e (Greenwich)\",\"Ilford Garden Junction (Newham and Redbridge)\",\" \\u003ca href=\\\"http://marylebonelen.org/\\\"\\u003eMarylebone\\u003c/a\\u003e (Westminster)\"]}",
-     "The total LEN budget is £11m including £5m from the MAQF and the Ultra Low Emission Zone along with committed match funding from boroughs and private sector.",
+     "New LENs have been awarded funds:",
+     "{\"template\":\"bulletlist\",\"items\":[\"LEN16, centred around Stoke Newington Church Street (Hackney)\",\"Low Emission Camden Town (Camden)\",\"'Greening the Fiddlers': Becontree Heath LEN (Barking and Dagenham)\",\"Walworth Low Emission Neighbourhood (LEN) (Southwark)\",\"Ilford Garden Junction (Newham and Redbridge)\"]}",
+     "The total LEN budget is £13m including £7m from the MAQF and the Ultra Low Emission Zone along with committed match funding from boroughs and private sector.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Download the Low Emissions Neighbourhoods poster\",\"url\":\"/cdn/static/cms/documents/low-emissions-neighbourhoods-poster.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
@@ -98,18 +101,8 @@
       "image": {}
      },
      {
-      "title": "Healthy Workplace Charter",
-      "url": "/info-for/boroughs/healthy-workplace-charter",
-      "image": {}
-     },
-     {
-      "title": "Cycling Toolkit",
+      "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Safety",
-      "url": "/info-for/boroughs/safety",
       "image": {}
      },
      {

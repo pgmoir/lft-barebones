@@ -32,11 +32,10 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We have conducted research that will shape our strategy for providing new electric vehicle (EV) charging infrastructure in London. These reports on specific issues should be read as part of the wider suite of research rather than in isolation.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "The main research findings are summarised in our document 'Electric vehicle charging infrastructure: location guidance for London'.",
-     "This evidence-based guidance will help to identify where best to create charging infrastructure to meet the current and future needs of EV users. The document brings together the findings from independent technical studies done for us by consultants with input from stakeholders.",
-     "This document can be used as an introduction to the more detailed studies.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Electric vehicle charging infrastructure: location guidance for London\",\"url\":\"/cdn/static/cms/documents/electric-vehicle-charging-infrastructure-location-guidance-for-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"We did research to shape our strategy for providing new electric vehicle (EV) charging infrastructure in London. These reports on specific issues should be read as part of the wider suite of research rather than in isolation.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The Electric vehicle (EV) infrastructure delivery plan launched in June 2019 is on the \u003ca href=\"https://tfl.gov.uk/modes/driving/electric-vehicles-and-rapid-charging\"\u003eElectric vehicles and rapid charging page\u003c/a\u003e .",
+     "An earlier document 'Electric vehicle charging infrastructure: location guidance for London' summarised the main findings.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Electric vehicle charging infrastructure: location guidance for London (2017)\",\"url\":\"/cdn/static/cms/documents/electric-vehicle-charging-infrastructure-location-guidance-for-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Customer research\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Understanding electric vehicles\",\"url\":\"/cdn/static/cms/documents/understanding--electric-vehicles-research-findings.pdf\",\"icon\":\"download\",\"size\":\"PDF 833KB\",\"image\":{}},{\"title\":\"Private hire vehicle drivers and operators\",\"url\":\"/cdn/static/cms/documents/phv-driver-and-operator-survey-.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.08MB\",\"image\":{}},{\"title\":\"Gauging interest for electric vehicles among disabled and older drivers\",\"url\":\"/cdn/static/cms/documents/gauging-interest-for-evs-among-disabled-and-elderly-drivers.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.39MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rapid charging\"}",
@@ -75,6 +74,23 @@
    },
    {
     "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Electric vehicles and rapid charging",
+      "url": "/modes/driving/electric-vehicles-and-rapid-charging",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

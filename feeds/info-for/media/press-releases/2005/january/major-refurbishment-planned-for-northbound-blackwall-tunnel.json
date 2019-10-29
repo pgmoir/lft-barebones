@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Major refurbishment planned for Northbound Blackwall Tunnel",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Major refurbishment planned for Northbound Blackwall Tunnel",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,42 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London Street Management has awarded a £2.1 m contract for the design and supervision of a major refurbishment of the Northbound Blackwall Tunnel to Mott MacDonald consultants.",
+     "The project will significantly improve the tunnel infrastructure, upgrading the fire and life safety systems and enhancing the communications and lighting systems. Both civil and M\u0026E components of the tunnel will be upgraded.",
+     "Design works will commence in January 2005 with construction expected to begin early in 2006.\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

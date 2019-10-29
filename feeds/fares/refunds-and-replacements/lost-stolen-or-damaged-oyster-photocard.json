@@ -1,0 +1,94 @@
+{
+ "pageTitle": "Lost, stolen or damaged Oyster photocard",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Refunds and replacements",
+   "url": "/fares/refunds-and-replacements"
+  },
+  {
+   "title": "Lost, stolen or damaged Oyster photocard"
+  }
+ ],
+ "title": {
+  "title": "Lost, stolen or damaged Oyster photocard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"You can replace your 5-10, 11-15, 16+, 18+ Student, Apprentice, 60+ or Veterans Oyster photocard for £10 if it's lost, stolen or damaged.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Before you replace your card\"}",
+     "A damaged card could be cracked, scratched or bent.",
+     "We will transfer any pay as you go credit or ticket to your replacement photocard. If we can't transfer your credit or ticket, we might refund you instead.",
+     "While you are waiting for the replacement card to arrive, you will need to pay for your travel. You can't get free or discounted travel, or a refund of fares paid, while waiting for your new card.",
+     "You need to pay a £10 admin fee to get your old photocard cancelled and a new one sent to you.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Replace your card online\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/refunds-and-replacements/faulty-oyster-photocard\\\"\\u003eFaulty Oyster photocard\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

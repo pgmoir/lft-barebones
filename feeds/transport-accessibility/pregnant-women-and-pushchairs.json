@@ -37,11 +37,11 @@
      "{\"template\":\"video\",\"style\":\"I7pm2FdkFPY\",\"title\":\"Top tips for baby \\u0026 toddler travel\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"title\":\"Baby on Board order form\",\"texts\":[\"Get your free badge. In association with official partners Mothercare and BABYZEN\"],\"link\":{\"url\":\"/transport-accessibility/baby-on-board\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/mothercare-babyzen-logos-and-badge-700x350_rdax_400x200.jpg\"},\"wrapped\":true}",
-     "{\"title\":\"Getting around with your buggy\",\"texts\":[\"Find out about the services and assistance available to help you travel\"],\"link\":{\"url\":\"/transport-accessibility/getting-around-with-your-buggy\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/help-point-700x350px_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Getting around with your buggy\",\"texts\":[\"Find out about the services and assistance available to help you travel\"],\"link\":{\"url\":\"/transport-accessibility/getting-around-with-your-buggy\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/new-buggy-700x350b_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Best buggies for public transport\",\"texts\":[\"Find out what to look for if you're going to use your buggy on public transport\"],\"link\":{\"url\":\"/transport-accessibility/best-buggies-for-public-transport\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Planning a journey with your buggy\",\"texts\":[\"Find out about the travel tools and information to help you plan and make journeys\"],\"link\":{\"url\":\"/transport-accessibility/planning-a-journey-with-your-buggy\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Toilet facilities map\",\"url\":\"/cdn/static/cms/documents/toilets-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 367KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 509KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Toilet facilities map\",\"url\":\"/cdn/static/cms/documents/toilets-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 329KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 466KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -157,13 +157,13 @@
       "image": {}
      },
      {
-      "title": "Blue Badges and driving",
-      "url": "/transport-accessibility/blue-badges-and-driving",
+      "title": "Accessible travel stories",
+      "url": "/transport-accessibility/accessible-travel-stories",
       "image": {}
      },
      {
-      "title": "Accessible travel stories",
-      "url": "/transport-accessibility/accessible-travel-stories",
+      "title": "Blue Badges and driving",
+      "url": "/transport-accessibility/blue-badges-and-driving",
       "image": {}
      },
      {
@@ -202,7 +202,7 @@
     "links": [
      {
       "title": "Travelling with children: fares \u0026 tickets",
-      "url": "/fares-and-payments/fares2018/free-and-discounted-travel",
+      "url": "/fares/free-and-discounted-travel",
       "icon": "internal",
       "image": {}
      }

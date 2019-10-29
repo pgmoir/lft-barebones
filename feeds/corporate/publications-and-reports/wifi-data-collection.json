@@ -1,7 +1,7 @@
 {
- "pageTitle": "WiFi data collection",
+ "pageTitle": "2016 pilot of Wi-Fi data collection",
  "keywords": "W,Research,TfL",
- "description": "A review of the TfL WifI pilot data coillection study that ran from November to December 2016",
+ "description": "2016 pilot of Wi-Fi data collection - a review of the TfL WiFi pilot data collection study that ran from November to December 2016",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -14,11 +14,11 @@
    "url": "/corporate/publications-and-reports/index"
   },
   {
-   "title": "WiFi data collection"
+   "title": "2016 pilot of Wi-Fi data collection"
   }
  ],
  "title": {
-  "title": "WiFi data collection",
+  "title": "2016 pilot of Wi-Fi data collection",
   "card": {
    "link": {
     "image": {}
@@ -33,7 +33,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We ran a four-week pilot between November and December 2016 to study how depersonalised WiFi connection data from customers' mobile devices could be used to better understand how people navigate the London Underground network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"We ran a four-week pilot between November and December 2016 to study how depersonalised Wi-Fi connection data from customers' mobile devices could be used to better understand how people navigate the London Underground network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Read our findings in this review of the pilot:",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Review of the TfL WiFi pilot - our findings\",\"url\":\"/cdn/static/cms/documents/review-tfl-wifi-pilot.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.28MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/review-tfl-wifi-pilot-cover.gif\",\"alt\":\"Review of the TfL WiFi pilot - cover page image\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Find out \u003ca href=\"/corporate/privacy-and-cookies/wi-fi-data-collection\"\u003ehow and why we are using Wi-Fi connection data\u003c/a\u003e (from 8 July 2019)."

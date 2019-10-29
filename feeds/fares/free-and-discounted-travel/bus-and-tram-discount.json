@@ -1,0 +1,178 @@
+{
+ "pageTitle": "Bus \u0026 Tram Discount photocard",
+ "keywords": "TfL,Bus \u0026 Tram Discount",
+ "description": "If you're claiming certain benefits, you may get discounted travel on our buses and trams.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Free and discounted travel",
+   "url": "/fares/free-and-discounted-travel"
+  },
+  {
+   "title": "Bus \u0026 Tram Discount photocard"
+  }
+ ],
+ "title": {
+  "title": "Bus \u0026 Tram Discount photocard",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you're claiming certain benefits, you may get discounted travel on our buses and trams.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bus-tram-discount-photocard-june.jpg\",\"alt\":\"Bus \\u0026 Tram Discount photocard example\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
+     "You get 50% off:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Adult pay as you go bus and tram fares\",\"Adult 7 Day or monthly (up to six months) \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Passes\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Can I get it?\"}",
+     "You must be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Living in a \\u003ca href=\\\"https://directory.londoncouncils.gov.uk/\\\"\\u003eLondon borough\\u003c/a\\u003e \",\"Aged between 18 and 60\",\"Getting no other free or discounted travel\"]}",
+     "And, claiming\u003cstrong\u003eone\u003c/strong\u003e of these benefits:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Income Support or Employment and Support Allowance\",\"Jobseekers Allowance for at least 13 weeks\",\"Universal Credit for at least 13 weeks, and not earning more than the threshold defined by the Department for Work and Pensions\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to apply\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Bus \\u0026 Tram discount photocard scheme application form\",\"url\":\"/cdn/static/cms/documents/bus-and-tram-discount-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.38MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "2. On the form, read the Terms and Conditions and Privacy Notice",
+     "3. Complete and sign the form",
+     "4. If you claim Jobseeker's Allowance or Universal Credit, you need to get your form validated by your Jobcentre Plus adviser",
+     "5. Take your completed form and proof to a participating Post Office in London",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Participating Post Offices in London\",\"url\":\"/cdn/static/cms/documents/post-offices-accepting-bus-and-tram-discount-application-forms.pdf\",\"icon\":\"download\",\"size\":\"PDF 181KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "6.  Staff at the Post Office will check your documents and photographs and issue you with a Bus \u0026 Tram Discount photocard",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Proof to take with you:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Two \\u003ca href=\\\"https://www.passport.service.gov.uk/help/photo-rules\\\"\\u003epassport-type photographs\\u003c/a\\u003e - must be a true likeness of you, with your full name written in capitals on the back\",\"Proof of identify - one of the following showing your current name:ul\",\"If you claim Income Support or Employment and Support Allowance, you also need:ul\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Start using your card\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Expiry\"}",
+     "Your photocard is valid for six months. When it expires, you can re-apply if you still meet the eligibility criteria.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/refunds-and-replacements/lost-stolen-or-damaged-bus-and-tram-discount-photocard\\\"\\u003eLost, stolen or damaged Bus \\u0026 Tram Discount photocard\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Free and discounted travel",
+    "links": [
+     {
+      "title": "5-10 Zip Oyster photocards",
+      "url": "/fares/free-and-discounted-travel/5-10-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "11-15 Zip Oyster photocards",
+      "url": "/fares/free-and-discounted-travel/11-15-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "16+ Zip Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/16-plus-zip-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Travel for schools",
+      "url": "/fares/free-and-discounted-travel/travel-for-schools",
+      "image": {}
+     },
+     {
+      "title": "Rules of travel for under 18s",
+      "url": "/fares/free-and-discounted-travel/rules-of-travel-for-under-18s",
+      "image": {}
+     },
+     {
+      "title": "18+ Student Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/18-plus-student-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Apprentice Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/apprentice-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "60+ London Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/60-plus-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "Freedom Pass",
+      "url": "/fares/free-and-discounted-travel/freedom-pass",
+      "image": {}
+     },
+     {
+      "title": "Veterans Oyster photocard",
+      "url": "/fares/free-and-discounted-travel/veterans-oyster-photocard",
+      "image": {}
+     },
+     {
+      "title": "National Railcard discounts",
+      "url": "/fares/free-and-discounted-travel/national-railcard-discount",
+      "image": {}
+     },
+     {
+      "title": "Annual Gold Card discount",
+      "url": "/fares/free-and-discounted-travel/annual-gold-card-discount",
+      "image": {}
+     },
+     {
+      "title": "Jobcentre Plus Travel Discount",
+      "url": "/fares/free-and-discounted-travel/jobcentre-plus-travel-discount",
+      "image": {}
+     },
+     {
+      "title": "Bus \u0026 Tram Discount photocard",
+      "url": "/fares/free-and-discounted-travel/bus-and-tram-discount",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Free and discounted travel",
+     "url": "/fares/free-and-discounted-travel/bus-and-tram-discount",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -1,7 +1,9 @@
 {
+ "description": "However, the report by leading freight terminal consultants Intermodality, points out that a number of major issues will need to be resolved before progress can be made - not least, the provision of suitable terminal facilities. Only two sites in the",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Channel Tunnel Rail Link: A Unique Opportunity for Freight",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,59 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "The Channel Tunnel Rail Link (CTRL) will provide a unique opportunity to operate high gauge Continental freight trains between mainland Europe and London, according to a report commissioned by TfL London Rail."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "However, the report by leading freight terminal consultants Intermodality, points out that a number of major issues will need to be resolved before progress can be made - not least, the provision of suitable terminal facilities. Only two sites in the Barking area (at Ripple Lane and Ford Dagenham) offer significant opportunities within the M25, but there are major planning hurdles to overcome before a terminal can be built.",
+     "To ensure progress, TfL London Rail will be taking a partnership approach, involving major stakeholders including the GLA, local authorities, London Development Agency (LDA) and Network Rail.",
+     "TfL London Rail is also pressing ahead with a joint study with the LDA of rail freight terminal provision in the Thames Gateway area. This will help to develop a strategy to ensure that opportunities for rail freight in the area are exploited for the benefit of London as a whole and that the necessary steps are taken to minimise the effects of terminals on the local environment.",
+     "Ian Brown, Managing Director of TfL London Rail said:",
+     "\"TfL London Rail is taking a strong lead to facilitate major growth in rail's share of freight markets. There are opportunities for utilising the CTRL for freight when Phase 2 is completed in 2007. This will require the development of suitable terminal facilities on the route in London. TfL London Rail is taking a leading role in planning for this so that the full benefits of the new route for London can be realised.\"",
+     "The Mayor's London Plan aims to foster a progressive shift from road freight to more sustainable modes including rail. 123 million tonnes of freight travelled on London's roads in 2002 - 450,000 freight vehicle movements crossing the GLA boundary every day.",
+     "For further information, please contact Hazel Peacock at TfL London Rail on 020 7941 7681 or the TfL Press Office on 020 7941 4141",
+     "An executive summary of the Intermodality study report can be obtained from Ian Birch Tel: 020 7941 7733 or from the TfL website \u003ca href=\"http://www.tfl.gov.uk/rail\"\u003ewww.tfl.gov.uk/rail\u003c/a\u003e ",
+     "In June 2004 TfL London Rail published a leaflet \"Freight on Rail in London; London's Need - Britain's Benefit\" - this is also available from the above contacts."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

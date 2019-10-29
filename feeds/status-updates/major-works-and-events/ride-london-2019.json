@@ -37,15 +37,81 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Prudential RideLondon returns on Saturday 3 and Sunday 4 August 2019. The cycling festival takes place over two days in London and Surrey.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "More information on how London's transport network will operate during Prudential RideLondon London will be available soon.",
-     "For details of the event and how you can be involved, visit the \u003ca href=\"https://www.prudentialridelondon.co.uk/\"\u003ePrudential RideLondon website\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel during the event\"}",
-     "Prudential RideLondon events will be held on fully closed roads across large parts of London. Some bus routes will be diverted or terminate early. Further information including the routes, road closure and changes to bus services will be available closer to the time.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use our travel tools\"}",
-     "All the information you will need to plan your travel during the Prudential RideLondon weekend will be on this webpage soon.",
-     "Our travel tools will help you keep up-to-date with the latest service information.",
-     "{\"template\":\"bulletlist\",\"items\":[\"For news about travel in London, follow \\u003ca href=\\\"https://twitter.com/TfLTravelAlerts\\\"\\u003e@TfLTravelAlerts\\u003c/a\\u003e , \\u003ca href=\\\"http://www.twitter.com/piccadillyline\\\"\\u003e@TfLBusAlerts\\u003c/a\\u003e and \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e \",\"Use the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL TravelBot\\u003c/a\\u003e on Facebook Messenger\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e can help you plan your route by public transport, cycling or walking\",\"Check our latest status updates for \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/\\\"\\u003etraffic\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/\\\"\\u003ebuses\\u003c/a\\u003e , and \\u003ca href=\\\"https://tfl.gov.uk/tube-dlr-overground/status/\\\"\\u003eTube and rail services\\u003c/a\\u003e .\",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"Sign up for our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
+     "{\"template\":\"intro\",\"texts\":[\"Prudential RideLondon cycling events return on Saturday 3 and Sunday 4 August 2019 in London and Surrey. This page is about how London's transport network will operate during the events and how to plan your travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Prudential RideLondon events will take place on closed roads on:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Friday 2 August to Monday 5 August around St James' Park and Green Park in Westminster\",\"Saturday 3 August between 05:00 and 19:30 across central London\",\"Sunday 4 August between 04:00 to 20:00 across east, central and south west London and in some parts of Surrey\"]}",
+     "For information about the event, including route maps, see the \u003ca href=\"https://www.prudentialridelondon.co.uk/\"\u003ePrudential RideLondon website\u003c/a\u003e .",
+     "See TfL's detailed list of \u003ca href=\"/status-updates/major-works-and-events/road-closures-for-prudential-ridelondon-2019\"\u003eroad and bridge closures for the event\u003c/a\u003e .",
+     "Vehicles (including buses) will not be able to cross the routes. Road travel in central london will be heavily restricted, and a wide area around the routes will be affected. Avoid driving near the event unless absolutely necessary.",
+     "Tube and rail will be the best ways of getting around London on both days.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Traffic impact maps for Saturday and Sunday\"}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-saturday-700x438.jpg\"}],\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday1-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday2-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday3-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday4-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday5-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday6-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday7-700x438.jpg\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "See a detailed list of \u003ca href=\"/status-updates/major-works-and-events/road-closures-for-prudential-ridelondon-2019\"\u003eroad and bridge closures for the event\u003c/a\u003e .",
+     "For the latest information on how London roads are operating, see our \u003ca href=\"https://tfl.gov.uk/traffic/status\"\u003etraffic status updates map.\u003c/a\u003e ",
+     "For news about traffic in London, follow \u003ca href=\"https://twitter.com/TfLTrafficNews\"\u003e@TfLTrafficNews\u003c/a\u003e on Twitter.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Saturday 3 August\"}",
+     "Prudential RideLondon FreeCycle follows an 8 mile circuit of closed roads in Westminster, the City of London and Camden. Expect delays anywhere near the route.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday 4 August\"}",
+     "There will be road closures across east, central and south west London and some parts of Surrey. Avoid areas near and around the event routes unless absolutely necessary.",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you are driving in central London, your journey will take longer, and routes through the area will be heavily restricted\",\"Avoid driving unless absolutely necessary. If you have to drive, plan ahead, consider re-timing your journey during times outside the road closures and allow plenty of time to complete your journey\",\"To get around more quickly, use . Consider walking for shorter journeys\"]}",
+     "Cyclists will leave Queen Elizabeth Olympic Park in Stratford between 05:45 and 09:45.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Roads on the route in east London will be closed until after 11:00\",\"Rotherhithe Tunnel will be closed to drivers between 04:00 and 08:00 (it will remain open to cyclists)\",\"If you are driving in east London, considering starting your journey after 11:00, when major roads will reopen. Allow more time for your journey, especially between 17:00 and 19:00 on the A13 Newham Way\"]}",
+     "Cyclists will pass through west London on the outbound route (from Hyde Park Corner to Chiswick Bridge) and again on the return journey (crossing Putney Bridge and travelling along the Chelsea Embankment).",
+     "{\"template\":\"bulletlist\",\"items\":[\"The A4 eastbound between Hogarth Roundabout and Warwick Road at Earl's Court is open throughout the day\",\"Roads adjoining the event routes will have local access only for residents and businesses, with usual Sunday parking restrictions unless otherwise stated\"]}",
+     "Cyclists will pass through Richmond on the outbound route and through Kingston on the return journey towards the finish. Retime your journey if possible.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Richmond Park will be closed to vehicles all day\",\"The A3 will be open, although the exit slips at Esher Common, Coombe Lane and Tibbet's Corner will be closed\"]}",
+     "Cyclists in the Prudential RideLondon-Surrey 100, 46 and Classic events will pass through Kingston, Merton and Wandsworth on the return journey towards the finish.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The A3 will be open, although the exit slips at Esher Common, Coombe Lane and Tibbet's Corner will be closed\",\"Roads in Kingston will be significantly busier than a typical Sunday, especially the A308 Kingston Road where there will be significant delays\",\"Battersea Park Road will be extremely busy and journeys may take more than twice as long as usual throughout the day\",\"If you must drive, consider driving after 19:00\"]}",
+     "On Sunday 4 August there will be an impact on traffic across Surrey.",
+     "Visit the \u003ca href=\"https://www.surreycc.gov.uk/roads-and-transport/traffic-and-travel-information/sporting-events-affecting-surreys-roads/prudential-ridelondon\"\u003eSurrey County Council website\u003c/a\u003e for more information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "Many central London bus routes will not serve their usual stops. Some bus stops will be temporarily relocated or suspended.",
+     "Many bus routes will be diverted or will stop short of their normal destination because of road closures. These routes are affected:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Saturday 3 August\"}",
+     "1, 3, 4, 6, 8, 9, 11, 12, 13, 15, 17, 21, 23, 24, 25, 26, 29, 40, 43, 46, 56, 59, 63, 68, 76, 87, 88, 91, 100, 133, 139, 141, 159, 168, 172, 176, 188, 243, 341, 453, N8, N11, N15, N26, N133, N551.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday 4 August\"}",
+     "2, 3, 6, 8, 9, 11, 12, 13, 14, 15, 16, 19, 22, 23, 24, 28, 29, 33, 36, 37, 38, 39, 42, 44, 49, 52, 57, 65, 66, 70, 71, 73, 74, 78, 82, 85, 87, 88, 91, 93, 97, 100, 108, 111, 115, 131, 137, 139, 145, 148, 159, 163, 164, 170, 176, 185, 190, 200, 211, 213, 216, 219, 220, 265, 270, 281, 285, 295, 309, 319, 328, 337, 339, 344, 345, 360, 371, 381, 388, 390, 391, 406, 411, 414, 418, 419, 430, 452, 453, 461, 465, 481, 488, 493, 507, C1, C2, C3, C10, D3, D8, E3, K1, K2, K3, N3, N5, N8, N9, N11, N15, N16, N18, N19, N20, N21, N26, N28, N29, N31, N41, N44, N74, N87, N89, N91, N97, N109, N113, N136, N137, N155, N199, N279, N343, N381, N550, N551, R68, X26.",
+     "For the latest information on how buses are running, see our \u003ca href=\"https://tfl.gov.uk/bus/status\"\u003ebus status updates\u003c/a\u003e .",
+     "Follow \u003ca href=\"https://twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts\u003c/a\u003e for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "You will not be allowed to cycle on closed roads unless you are taking part in Prudential RideLondon.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Many roads will be closed, and some cycle toutes will be affected by road closures\",\"On Sunday 4 August, Cycle Superhighway 3 will be closed east-west from Tower Hill to Bridge Street (Westminster Bridge)\",\"You can walk your bike across most of the stewarded pedestrian crossings\",\"You can ride across stewarded vehicle crossing points\",\"See our \\u003ca href=\\\"/status-updates/major-works-and-events/road-closures-for-prudential-ridelondon-2019\\\"\\u003edetailed page of road and bridge closures\\u003c/a\\u003e for the event\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taking bicycles on public transport\"}",
+     "span",
+     "span",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Santander Cycles\"}",
+     "There will be no suspensions of Santander Cycles docking stations in and around the route area over the weekend. Busy roads may make it difficult for us to collect and replace bicycles.",
+     "On Saturday 3 August, extra Santander Cycles will be available near the FreeCycle route. There will be extra bikes to hire and staff on hand at:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Craven Street near Trafalgar Square\",\"Wellington Arch near Hyde Park\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "Pavements and paths along the routes will remain open so that people can enjoy the event, and get to buildings on foot.",
+     "There will be crowd and safety barriers along some sections of the routes. There will be marshalled crossing points in these areas to help people cross the route safely.",
+     "Walking is often the quickest option during big events in London.",
+     "See our map showing \u003ca href=\"/cdn/static/cms/documents/walking-tube-map.pdf\"\u003ewalking times between stations\u003c/a\u003e on the same Tube line.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "There are planned engineering works on the Tube network over the event weekend Saturday 3 and Sunday 4 August:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Central line - no service between North Acton and Ealing Broadway. If you are travelling to the event via Ealing Broadway, use the District Line\",\"Bakerloo line - no service on Sunday 4 August between Queen's Park and Harrow \\u0026 Wealdstone\"]}",
+     "See how the Tube is running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003estatus updates\u003c/a\u003e page.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Liverpool Street and Chingford / Enfield / Cheshunt (via Seven Sisters) on Saturday 3 or Sunday 4 August.\",\"No service between London Euston and Watford Junction on Sunday 4 August. Rail replacement buses will be in place. Cycles will not be permitted.\"]}",
+     "See how London Overground is running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003estatus updates\u003c/a\u003e page.",
+     "Follow \u003ca href=\"http://twitter.com/LDNOverground\"\u003e@LDNOverground\u003c/a\u003e on Twitter for news and service information.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Network Rail\"}",
+     "There are planned engineering works on services into central London over the event weekend.",
+     " \u003ca href=\"https://www.nationalrail.co.uk/service_disruptions/currentAndFuture.aspx\"\u003eCheck the National Rail website\u003c/a\u003e for details.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coaches\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Saturday 3 August\"}",
+     "span",
+     "span",
+     "{\"template\":\"bulletlist\",\"items\":[\"span\",\"span\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Sunday 4 August\"}",
+     "span",
+     "span",
+     "{\"template\":\"bulletlist\",\"items\":[\"span\",\"spanspan\",\"span\",\"span\",\"span\"]}",
+     "span",
+     "span"
     ],
     "link": {
      "image": {}
@@ -60,6 +126,120 @@
    {
     "template": "socialmediashare",
     "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Major works \u0026 events",
+    "links": [
+     {
+      "title": "August Bank Holiday \u0026 Notting Hill Carnival",
+      "url": "/status-updates/major-works-and-events/august-bank-holiday-and-notting-hill-carnival",
+      "image": {}
+     },
+     {
+      "title": "Baker Street roadworks",
+      "url": "/status-updates/major-works-and-events/baker-street-roadworks",
+      "image": {}
+     },
+     {
+      "title": "Christmas travel",
+      "url": "/status-updates/major-works-and-events/christmas-travel",
+      "image": {}
+     },
+     {
+      "title": "Cycle Superhighway 11",
+      "url": "/status-updates/major-works-and-events/cycle-superhighway-11",
+      "image": {}
+     },
+     {
+      "title": "Easter travel 2018",
+      "url": "/status-updates/major-works-and-events/easter-travel-2018",
+      "image": {}
+     },
+     {
+      "title": "Easter travel 2019",
+      "url": "/status-updates/major-works-and-events/easter-travel-2019",
+      "image": {}
+     },
+     {
+      "title": "Hammersmith Bridge closure",
+      "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
+      "image": {}
+     },
+     {
+      "title": "Highbury Corner roundabout",
+      "url": "/status-updates/major-works-and-events/highbury-corner-roundabout",
+      "image": {}
+     },
+     {
+      "title": "Improvements between Acton and Wood Lane",
+      "url": "/status-updates/major-works-and-events/improvements-between-acton-and-wood-lane",
+      "image": {}
+     },
+     {
+      "title": "Spring Bank Holiday 2019",
+      "url": "/status-updates/major-works-and-events/may-bank-holidays-2019",
+      "image": {}
+     },
+     {
+      "title": "Old Street roundabout",
+      "url": "/status-updates/major-works-and-events/old-street-roundabout",
+      "image": {}
+     },
+     {
+      "title": "Prudential RideLondon 2019",
+      "url": "/status-updates/major-works-and-events/ride-london-2019",
+      "image": {}
+     },
+     {
+      "title": "Road closures for Prudential RideLondon 2019",
+      "url": "/status-updates/major-works-and-events/road-closures-for-prudential-ridelondon-2019",
+      "image": {}
+     },
+     {
+      "title": "RideLondon",
+      "url": "/status-updates/major-works-and-events/ridelondon",
+      "image": {}
+     },
+     {
+      "title": "Road changes at Victoria Embankment",
+      "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
+      "image": {}
+     },
+     {
+      "title": "Tour of Britain 2018",
+      "url": "/status-updates/major-works-and-events/tour-of-britain-2018",
+      "image": {}
+     },
+     {
+      "title": "Travel advice for road users",
+      "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
+      "image": {}
+     },
+     {
+      "title": "Victoria Embankment",
+      "url": "/status-updates/major-works-and-events/victoria-embankment",
+      "image": {}
+     },
+     {
+      "title": "West End Project",
+      "url": "/status-updates/major-works-and-events/west-end-project",
+      "image": {}
+     },
+     {
+      "title": "Cycleway 4",
+      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Major works \u0026 events",
+     "url": "/status-updates/major-works-and-events/cycleway-4",
      "image": {}
     },
     "image": {},

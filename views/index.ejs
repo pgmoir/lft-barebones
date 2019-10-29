@@ -60,6 +60,16 @@
           </div>
         </div>
         <div class="col-12 col-md-6">
+          <h2>Intro</h2>
+          <p>This site was built as a prototype for a NodeJs backend and simple Bootstrap based SASS style scheme to mimic the existing functionality 
+            of the TfL Online website at http://tfl.gov.uk. It was written in less than 50 hours of personal time and includes a GO language CMS page 
+            processor that converts the Reddot generated razor (cshtml) pages into JSON objects that are then parsed using ejs templates. The site also
+            demonstrates forms built along the gov.uk design guidelines (https://design-system.service.gov.uk/) to meet accessibility AA/AAA standards. 
+            The site (when last updated) included about 3000 CMS pages which were 95% like for like.</p>
+          <p>It does not include conversion of the main customised
+            'functional' pages, such as Journey Planner, but does include some replicated design versions for key pages.</p>
+          <p>It also includes ZERO custom javascript, and very little custom CSS/SASS. I was trying to prove that a siginficant protion of the 
+            current codebase was unnecessary.</p>
           <div class="card">
             <div class="card-body">
               <h2 class="card-title h5">Page examples</h2>
@@ -77,20 +87,6 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-12">
-          <h2>Notes</h2>
-          <p>Majority of implementation should be based on card format. This keep simplicity and structure. Easiest to
-            change.</p>
-          <p>Some predefined cards should exist, such as the "Plan a journey", "Contact Us" options.</p>
-          <p>Cards should have unique name indexes, so that if there is a Contact Us card, another one cannot be
-            created.</p>
-          <p>Other cards will use a template and a content key (number or name)</p>
-          <p>Pages should have template, and these should be limited</p>
-          <p>Everything should be built and tested in isolation</p>
-          <p>images should be delivered on completely independent cdn, NOT sub folder</p>
-          <h2>Advice</h2>
-          <p>The top levels menus are too small (acc-AA), and therefore to ease space, Help was removed. It already exists as first item in lower navigation options</p>
         </div>
       </div>
     </div>

@@ -30,14 +30,14 @@
     "style": "card-top ",
     "title": "Gospel Oak to Barking trains",
     "texts": [
-     "We're working to minimise disruption as we introduce new state-of-the-art trains"
+     "More new state-of-the-art trains are now running on this route"
     ],
     "link": {
      "url": "/modes/london-overground/gospel-oak-to-barking-improvements",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/train-378.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/class-710-small-crop.jpg"
     },
     "wrapped": false
    },
@@ -58,9 +58,24 @@
   ],
   "cards": [
    {
+    "title": "Facebook TravelBot",
+    "texts": [
+     "Ask us how Overground is running and get an instant response while you're on the move"
+    ],
+    "link": {
+     "url": "https://m.me/tfltravelbot",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-fb-travelbot_rdax_400x200.png"
+    },
+    "wrapped": false
+   },
+   {
     "title": "Service changes",
     "texts": [
-     "Check for planned line closures and service changes"
+     "Check for planned line closures and service changes on all modes"
     ],
     "link": {
      "url": "/status-updates/planned-track-closures",
@@ -98,7 +113,7 @@
       "image": {}
      },
      {
-      "title": "Station WiFi",
+      "title": "Station Wi-Fi",
       "url": "/campaign/station-wifi",
       "icon": "internal",
       "image": {}
@@ -114,19 +129,15 @@
       "url": "/modes/london-overground/improving-london-overground",
       "icon": "internal",
       "image": {}
+     },
+     {
+      "title": "History of London Overground",
+      "url": "https://tfl.gov.uk/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/london-overground",
+      "icon": "external",
+      "image": {}
      }
     ],
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitter",
-    "title": "Tweets by ldnoverground",
-    "link": {
-     "url": "https://twitter.com/ldnoverground",
      "image": {}
     },
     "image": {},

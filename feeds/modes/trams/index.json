@@ -28,37 +28,55 @@
   "primarys": [
    {
     "style": "card-top ",
-    "title": "Cashless trams",
+    "title": "Check out Croydon by tram",
     "texts": [
-     "Find out how to pay for your journey."
+     "Discover what's on, where to go and offers and discounts"
     ],
     "link": {
-     "url": "/modes/trams/cashless-trams",
+     "url": "http://www.checkoutcroydon.com/",
+     "icon": "external",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cashless-tram3.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/croydon.jpg"
     },
     "wrapped": false
    }
   ],
   "cards": [
    {
+    "title": "Facebook TravelBot",
+    "texts": [
+     "Ask us how the tram's running and get an instant response when you're on the move"
+    ],
+    "link": {
+     "url": "https:\\\\m.me/tfltravelbot",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-fb-travelbot_rdax_400x200.png"
+    },
+    "wrapped": false
+   },
+   {
     "title": "Planned trams line closures",
     "texts": [
-     "There will be some temporary service changes for trams throughout 2019"
+     "Temporary service changes for trams during 2019"
     ],
     "link": {
      "url": "/modes/trams/planned-trams-line-closures",
      "image": {}
     },
-    "image": {},
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tram-works_rdax_400x200.jpg"
+    },
     "wrapped": false
    },
    {
     "title": "Service changes",
     "texts": [
-     "Check for planned line closures and service changes"
+     "Check for planned line closures and service changes on all modes"
     ],
     "link": {
      "url": "/status-updates/planned-track-closures",
@@ -76,7 +94,9 @@
      "url": "/corporate/about-tfl/what-we-do/london-trams",
      "image": {}
     },
-    "image": {},
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tram-sign_rdax_400x200.jpg"
+    },
     "wrapped": false
    },
    {
@@ -97,25 +117,25 @@
     "links": [
      {
       "title": "Fares",
-      "url": "/fares-and-payments/fares2018/find-fares/bus-and-tram-fares",
+      "url": "/fares/find-fares/bus-and-tram-fares",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Trams are cashless",
+      "url": "/modes/trams/cashless-trams",
       "icon": "internal",
       "image": {}
      },
      {
       "title": "Refunds",
-      "url": "/fares-and-payments/fares2018/refunds-and-replacements",
+      "url": "/fares/refunds-and-replacements",
       "icon": "internal",
       "image": {}
      },
      {
       "title": "Bus \u0026 Tram discount scheme",
-      "url": "/fares-and-payments/fares2018/free-and-discounted-travel/bus-and-tram-discount",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Croydon tram derailment",
-      "url": "/modes/trams/croydon-tram-derailment",
+      "url": "/fares/free-and-discounted-travel/bus-and-tram-discount",
       "icon": "internal",
       "image": {}
      }

@@ -51,7 +51,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Key progress milestones\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"More than 1000m of new tunnels have been built. The new escalator barrels are next\",\"Waterproofing of the new tunnels has started, including the new Central line moving walkway link\",\"The top down excavation of the Whole Block site, where the new entrance on Cannon Street will be, is finished\",\"The construction of a new lift shaft to provide direct, step-free access from street to both Northern line and DLR platforms has started\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transport and Works Act Order\"}",
-     "We were granted a Transport and Works Act Order (TWAO) by the Secretary of State for Transport that came into force in January 2016. The TWAO authorises us to construct the works and operate the new section of railway.",
+     "We were granted a \u003ca href=\"/corporate/publications-and-reports/bank-station-capacity-upgrade\"\u003eTransport and Works Act Order (TWAO)\u003c/a\u003e by the Secretary of State for Transport that came into force in January 2016. The TWAO authorises us to construct the works and operate the new section of railway.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Northern line Bank branch in 2021\"}",
      "We will need to close part of the Northern line Bank branch in spring/summer 2021, between Kennington and Moorgate, to connect new and existing sections of tunnel safely. Trains will run less frequently on those sections of the Bank branch that are still open. Check back here for details.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Alternative services\"}",
@@ -114,6 +114,12 @@
     "template": "listgroup",
     "title": "Also on this site",
     "links": [
+     {
+      "title": "Bank station documents",
+      "url": "/corporate/publications-and-reports/bank-station-capacity-upgrade",
+      "icon": "internal",
+      "image": {}
+     },
      {
       "title": "Tube improvements",
       "url": "/campaign/tube-improvements",

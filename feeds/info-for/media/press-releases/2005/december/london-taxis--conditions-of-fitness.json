@@ -1,7 +1,9 @@
 {
+ "pageTitle": "London Taxis - Conditions of Fitness",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "London Taxis - Conditions of Fitness",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,65 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "Transport for London's Public Carriage Office today issued the results of the Conditions of Fitness review for London's taxi industry."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Approximately 50m U-turns are performed by London taxis each year",
+     "The Conditions of Fitness are intended to ensure that all taxis operating in London are safe and fit for purpose.",
+     "In 2002, the Public Carriage Office (PCO) undertook a full review of the Conditions of Fitness which was completed in June 2003.",
+     "Some changes were made while other conditions remained the same.",
+     "However, three aspects were challenged by Allied Vehicles Limited, and they are as follows:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The turning-circle requirement\",\"The requirement that sliding doors are power assisted\",\"The requirement for a one-piece rear window\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Extensive research\"}",
+     "Following extensive research it has been decided to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Retain the turning-circle requirement\",\"Not require sliding doors, if fitted, to be power-assisted\",\"Introduce a new condition to address the issue of visibility into and out of taxis for the benefit of passengers and drivers\"]}",
+     "Roy Ellis, Head of the PCO, said: \"After a comprehensive review, it was found that the tight turning-circle produced tangible significant benefits to the travelling public, and that these outweighed the advantages of removing it.",
+     "\"Allied Vehicles alleged that the retention of the turning-circle requirement led to fewer taxis, higher fares, less suitable taxis for the needs of the disabled and the unavailability of safer and more comfortable taxis, to the disadvantage in general of passengers and drivers alike.",
+     "The facts of these alleged disbenefits were not borne out by the research undertaken.",
+     "\"Approximately 50m U-turns and over 90m other tight turns are performed by London taxis each year.",
+     "\"If these U-turns were replaced by multi-point turns and other alternative complex manoeuvres, this could cause delay and impede other road users.",
+     "\"Overall, during this review, both passengers and drivers preferred the existing London Taxi.\"\u003cbr /\u003e"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

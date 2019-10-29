@@ -1,0 +1,205 @@
+{
+ "pageTitle": "Find fares",
+ "keywords": "TfL,fares, tube fares, dlr fares, london overground fares, tfl rail fares, national rail fares",
+ "description": "Find fares for Tube, DLR, London Overground, TfL Rail and most National Rail services",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Find fares"
+  }
+ ],
+ "title": {
+  "title": "Find fares",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "texts": [
+     "Check the cost of your travel"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Single fare finder",
+    "texts": [
+     "Find the cost of a single journey between two stations"
+    ],
+    "link": {
+     "url": "/fares/find-fares/tube-and-rail-fares/single-fare-finder",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/single-fare-finder-fares_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Caps and Travelcard prices",
+    "texts": [
+     "Compare caps and Travelcard prices for your travel"
+    ],
+    "link": {
+     "url": "/fares/find-fares/tube-and-rail-fares/caps-and-travelcard-prices",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/pay-as-you-go-caps.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Tube and rail fares",
+    "texts": [
+     "Prices for pay as you go, caps and Travelcards when you travel on Tube and rail"
+    ],
+    "link": {
+     "url": "/fares/find-fares/tube-and-rail-fares",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "River fares",
+    "texts": [
+     "Prices for pay as you go and tickets when you travel on River services"
+    ],
+    "link": {
+     "url": "/fares/find-fares/river-fares",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Bus and tram fares",
+    "texts": [
+     "Prices for pay as you go, Travelcards and Bus \u0026 Tram Passes"
+    ],
+    "link": {
+     "url": "/fares/find-fares/bus-and-tram-fares",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Emirates Air Line fares",
+    "texts": [
+     "Prices for pay as you go and Boarding Passes on the Emirates Air Line"
+    ],
+    "link": {
+     "url": "/fares/find-fares/emirates-air-line-fares",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Fares from 2 January 2019",
+    "texts": [
+     "Many fares are frozen until 2020 but some will change in 2019"
+    ],
+    "link": {
+     "url": "/campaign/new-fares",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Pay as you go caps",
+    "texts": [
+     "Make as many pay as you go journeys as you like in one day and we'll cap your fare"
+    ],
+    "link": {
+     "url": "/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Fares beyond Zone 9",
+    "texts": [
+     "Prices of pay as you go caps and Travelcards on National Rail beyond Zone 9"
+    ],
+    "link": {
+     "url": "/fares/find-fares/national-rail-fares-beyond-zone-9",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Penalty fares and how to pay them",
+    "texts": [
+     "We may charge a penalty fare if you don't touch in and out or have a valid ticket"
+    ],
+    "link": {
+     "url": "/fares/find-fares/penalty-fares-and-how-to-pay-them",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Taxi fares",
+      "url": "/modes/taxis-and-minicabs/taxi-fares",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycle fares",
+      "url": "/modes/cycling/santander-cycles/what-you-pay",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

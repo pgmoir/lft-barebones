@@ -32,7 +32,7 @@
      "Top up anytime, anywhere. Find out more"
     ],
     "link": {
-     "url": "/fares-and-payments/fares2018/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+     "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
      "image": {}
     },
     "image": {
@@ -71,74 +71,6 @@
     "wrapped": false
    },
    {
-    "style": "card-tube",
-    "title": "Night Overground",
-    "texts": [
-     "London Overground Night Service now runs to Highbury \u0026 Islington"
-    ],
-    "link": {
-     "url": "/modes/london-overground/london-overground-night-service",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/overground-night_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Service changes",
-    "texts": [
-     "Check for planned line closures and service changes"
-    ],
-    "link": {
-     "url": "/status-updates/planned-track-closures",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "nocard",
-    "links": [
-     {
-      "title": "Fares",
-      "url": "/fares-and-payments/fares2018/index",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Transport accessibility",
-      "url": "/transport-accessibility/index",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Station WiFi",
-      "url": "/campaign/station-wifi",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Tube station car parks",
-      "url": "https://tfl.gov.uk/modes/driving/tube-station-car-parks",
-      "icon": "external",
-      "image": {}
-     },
-     {
-      "title": "Bikes on public transport",
-      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "title": "Walking between stations",
     "texts": [
      "Sometimes it's quicker to walk. See our maps and guide for Zones 1-2."
@@ -153,6 +85,18 @@
      }
     ],
     "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Service changes",
+    "texts": [
+     "Check for planned line closures and service changes"
+    ],
+    "link": {
+     "url": "/status-updates/planned-track-closures",
      "image": {}
     },
     "image": {},
@@ -183,6 +127,47 @@
      {
       "title": "Poems on the Underground",
       "url": "/corporate/about-tfl/culture-and-heritage/poems-on-the-underground",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "nocard",
+    "links": [
+     {
+      "title": "Fares",
+      "url": "/fares/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Station WiFi",
+      "url": "/campaign/station-wifi",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Tube station car parks",
+      "url": "https://tfl.gov.uk/modes/driving/tube-station-car-parks",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Bikes on public transport",
+      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
       "icon": "internal",
       "image": {}
      }

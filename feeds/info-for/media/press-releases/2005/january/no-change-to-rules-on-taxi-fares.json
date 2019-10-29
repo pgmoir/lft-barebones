@@ -1,7 +1,10 @@
 {
+ "pageTitle": "No change to rules on taxi fares",
+ "description": "Following last year's Office of Fair Trading nationwide report on taxi and private hire regulation, it was recommended that all UK local authorities should set fare tariffs which represent the maximum that can be charged, and not fixed or minimum fares.",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "No change to rules on taxi fares",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +14,52 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "intro",
+    "texts": [
+     "There are no plans to encourage Londoners to haggle with taxi drivers over fares."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "content",
+    "texts": [
+     "Following last year's Office of Fair Trading nationwide report on taxi and private hire regulation, it was recommended that all UK local authorities should set fare tariffs which represent the maximum that can be charged, and not fixed or minimum fares. In London this was in fact already the case.",
+     " \u003ca href=\"/gettingaround/taxisandminicabs/taxis/1140.aspx\"\u003eFurther details\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

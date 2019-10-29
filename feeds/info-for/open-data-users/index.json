@@ -46,20 +46,6 @@
     "wrapped": false
    },
    {
-    "title": "Widgets",
-    "texts": [
-     "Stay updated with our services for your website, blog or desktop"
-    ],
-    "link": {
-     "url": "/info-for/open-data-users/widgets",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x001-00099-woman-mobile-phone-app_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
     "title": "TfL Digital Blog",
     "texts": [
      "Get all the latest news on our open data and join the conversation with our experts"
@@ -127,16 +113,11 @@
       "title": "Design \u0026 branding",
       "url": "/info-for/open-data-users/design-and-branding",
       "image": {}
-     },
-     {
-      "title": "Widgets",
-      "url": "/info-for/open-data-users/widgets",
-      "image": {}
      }
     ],
     "link": {
      "title": "Open data users",
-     "url": "/info-for/open-data-users/widgets",
+     "url": "/info-for/open-data-users/design-and-branding",
      "image": {}
     },
     "image": {},

@@ -1,7 +1,35 @@
 {
+ "pageTitle": "Using  plain English",
+ "keywords": "TfL",
  "template": "page-content",
- "breadcrumbs": null,
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Digital toolkit",
+   "url": "/info-for/suppliers-and-contractors/digital-toolkit"
+  },
+  {
+   "title": "Design \u0026 content",
+   "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content"
+  },
+  {
+   "title": "Editorial style guide",
+   "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/editorial-style-guide"
+  },
+  {
+   "title": "Using  plain English"
+  }
+ ],
  "title": {
+  "title": "Using  plain English",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +39,172 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Writing in plain English doesn't mean over-simplifying your message or patronising your readers. It means using everyday words in place of jargon or official sounding terms to help readers understand your message quickly and more easily.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Everything we produce should be written in plain English as described in the \u003ca href=\"https://www.gov.uk/design-principles/style-guide#writing-plain-english\"\u003eGOV.UK plain English guidelines\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Principles\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Write short sentences that are no longer than 20-25 words\",\"Include only one main idea in each paragraph\",\"Establish a conversational tone by imagining you are speaking to someone\",\"Avoid jargon, acronyms and impersonal corporate language\",\"Use simple words rather than their longer equivalent: 'If' not 'in the event that'\",\"Don't try to include every single detail - only write what readers need to know\",\"Write in the active, not passive voice. A hit B is more direct than B was hit by A\",\"Ask yourself: Will your audience understand your message or can it be simplified further?\",\"Don't be afraid to give clear instructions: 'Please send it to us' is more direct than 'I would be grateful if you would please send it to us'\",\"Use bullets and vertical lists to break up text and make information more accessible\",\"Use sub-headings to present information in a logical manner\",\"When including hyperlinks in electronic documents, don't mention that you are providing a link (ie 'click here). Instead, describe the information you are linking to or just include the link address: more information can be found at tfl.gov.uk/news\",\"Include images to illustrate ideas and make content more reader-friendly\",\"Keep your readers in mind. Remember, if you're bored or confused by what you've written, they probably will be too\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Writing for online\"}",
+     "People visit our website to get something done or to answer a question. They are impatient and will leave a page quickly if they can't see at a glance what they are looking for or don't understand it.",
+     "Don't waste time with long introductions. Be direct and specific in what you need to tell people. Use short paragraphs, clear headlines and sub heads, bulleted lists and words and phrases people are likely to search for.",
+     "Put the most important information first and only include information that is essential.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Mobile first\"}",
+     "We've designed our website to work on most devices, whatever their size, because an increasing number of people use our site on mobile. Our aim is to make the most important information visible on the first screen.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Jargon and legalese\"}",
+     "Simplicity is the key to understanding. Short words in short sentences get your message across more quickly, more easily and in a friendlier way.",
+     "\u003cstrong\u003eNote:\u003c/strong\u003e Some legal terms have specific legal meanings or implications that may be lost if replaced with plain English alternatives. If you have any questions about the use of legal terms, please contact TfL Legal",
+     "{\"template\":\"table\",\"rows\":[[\"accede\",\"agree, allow\"],[\"accordingly\",\"so\"],[\"accustomed to\",\"used to\"],[\"ad hoc\",\"informal, unplanned\"],[\"additional\",\"more, extra\"],[\"approximately\",\"about\"],[\"ascertain\",\"learn, discover\"],[\"assist, assistance\",\"help\"],[\"attain\",\"reach\"],[\"attempt\",\"try\"],[\"bona fide\",\"good faith, genuine, honest\"],[\"cease\",\"stop, end\"],[\"commence\",\"start, begin\"],[\"component\",\"part\"],[\"concerning\",\"about\"],[\"consequently\",\"so\"],[\"constitute\",\"make up, form\"],[\"defer\",\"postpone\"],[\"determine\",\"decide\"],[\"discontinue\",\"stop\"],[\"enable\",\"allow, permit\"],[\"endeavour\",\"try\"],[\"establish\",\"set up, create, find out\"],[\"et al\",\"and the others, the rest\"],[\"ex gratia\",\"without obligation\"],[\"expire/expiration\",\"end\"],[\"forthwith\",\"immediately, now (state a time limit)\"],[\"forward\",\"send, give\"],[\"further and better particulars\",\"requests for information\"],[\"generate\",\"make\"],[\"grant\",\"give\"],[\"henceforth\",\"from now on\"],[\"in camera\",\"in private\"],[\"initially\",\"at first\"],[\"institute\",\"begin, start\"],[\"inter alia\",\"among other things\"],[\"manufacture\",\"make\"],[\"minor/infant\",\"child\"],[\"modify\",\"change\"],[\"notify\",\"tell\"],[\"numerous\",\"many\"],[\"obtain\",\"get, receive\"],[\"per annum\",\"a year\"],[\"possesses\",\"has, owns\"],[\"purchase\",\"buy\"],[\"regarding\",\"about, on\"],[\"request\",\"ask\"],[\"subsequently\",\"later\"],[\"terminate\",\"end, stop\"],[\"utilise\",\"use\"],[\"verify\",\"check, prove\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Superfluous words and phrases\"}",
+     "Another way to save time and avoid confusion is to get rid of unnecessary words. Information can often be made simpler - and less corporate - if words that either add nothing or mean the same thing are replaced with simpler alternatives.",
+     "{\"template\":\"table\",\"rows\":[[\"a large proportion of\",\"many\"],[\"appropriate measures\",\"measures, steps\"],[\"at this moment in time\",\"now\"],[\"by virtue of the fact that\",\"because\"],[\"close scrutiny\",\"scrutiny\"],[\"consensus of opinion\",\"consensus\"],[\"despite the fact that\",\"although, despite\"],[\"due to the fact that\",\"as, because\"],[\"for the duration of\",\"during, while\"],[\"for the purpose of\",\"to\"],[\"future plans\",\"plans\"],[\"in accordance with\",\"as, in line with\"],[\"in conjunction with\",\"and, with\"],[\"in the absence of\",\"without\"],[\"in the event that\",\"if\"],[\"in order to\",\"to\"],[\"in the majority of\",\"most, usually\"],[\"leaves much to be desired\",\"poor\"],[\"on account of the fact that\",\"because\"],[\"on behalf of\",\"for\"],[\"revert back\",\"revert\"],[\"rolled out\",\"introduced\"],[\"the fact that\",\"that\"],[\"was of the opinion that\",\"thought\"],[\"with the exception of\",\"except\"],[\"with reference/regard/respect to\",\"about, concerning\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Frequently misused words\"}",
+     "Words that sound very similar can mean very different things. Here is a list of frequently misused words. If you are not confident about their meaning, look them up or use an alternative.",
+     "{\"template\":\"table\",\"rows\":[[\"affect\",\"effect\"],[\"alternate\",\"alternative\"],[\"appraise\",\"apprise\"],[\"biannual\",\"biennial\"],[\"complementary\",\"complimentary\"],[\"continual\",\"continuous\"],[\"dependent\",\"dependant\"],[\"discreet\",\"discrete\"],[\"disinterested\",\"uninterested\"],[\"distinctive\",\"distinguished\"],[\"enquiry\",\"inquiry\"],[\"explicit\",\"implicit\"],[\"flounder\",\"founder\"],[\"flout\",\"flaunt\"],[\"fortuitous\",\"fortunate\"],[\"inflammable\",\"inflammatory\"],[\"licence\",\"license\"],[\"loathe\",\"loath\"],[\"luxuriant\",\"luxurious\"],[\"meter\",\"metre\"],[\"peddle\",\"pedal\"],[\"practice\",\"practise\"],[\"practical\",\"practicable\"],[\"principle\",\"principal\"],[\"refute\",\"rebut\"],[\"regretful\",\"regrettable\"],[\"resistant\",\"resilient\"],[\"stationary\",\"stationery\"],[\"systematic\",\"systemic\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessibility for print\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eType size\\u003c/strong\\u003e \\u003cbr /\\u003eUse a minimum of 12pt for all printed documents. Where possible, use 14pt as this increases the accessibility documents to visually impaired readers\",\"\\u003cstrong\\u003eType styles\\u003c/strong\\u003e \\u003cbr /\\u003eAvoid using italics or all capital letters as these make it more difficult for visually impaired readers to recognise word shapes. Underlining should also be avoided to prevent confusion with hyperlinks\",\"\\u003cstrong\\u003eReverse type\\u003c/strong\\u003e \\u003cbr /\\u003eIf using white or coloured type, make sure the background colour is dark enough to provide good contrast\",\"\\u003cstrong\\u003eText alignment\\u003c/strong\\u003e \\u003cbr /\\u003eText should be left aligned. Avoid justifying text as irregular word spacing can make it more difficult to read. Variable spacing can also make text appear distorted\",\"\\u003cstrong\\u003eSentence spacing\\u003c/strong\\u003e \\u003cbr /\\u003eUse a single space at the beginning of sentences as double spaces make text more difficult to read. Variable spacing can also make text appear distorted\",\"\\u003cstrong\\u003eLine length\\u003c/strong\\u003e \\u003cbr /\\u003eThe ideal line length is between 60-70 characters (except when using columns) as very long or very short lines tire the eyes and make reading more difficult\",\"\\u003cstrong\\u003eHyphens and split words\\u003c/strong\\u003e \\u003cbr /\\u003eDon't split words over lines because it disrupts the reading flow and can also be confusing\",\"\\u003cstrong\\u003eNavigational aids\\u003c/strong\\u003e \\u003cbr /\\u003eLeave a space between paragraphs and sections as dividing the text up gives the eye a break and makes reading easier\",\"\\u003cstrong\\u003eContrast\\u003c/strong\\u003e \\u003cbr /\\u003eThe better the contrast between the background and the text, the more legible the text will be. Black text on a white background provides the best contrast\",\"\\u003cstrong\\u003eImages\\u003c/strong\\u003e \\u003cbr /\\u003eDon't place text over images as it can be both easy to miss and difficult to read\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Useful books and websites\"}",
+     "There are lots of books and websites on using English. This list includes some of the most helpful. It also includes useful reference guides, including dictionaries, encyclopaedias, maps and conversion calculators.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.askoxford.com\\\"\\u003eAskOxford\\u003c/a\\u003e : Compact Oxford English Dictionary and online guide to better writing\",\" \\u003ca href=\\\"http://dictionary.cambridge.org\\\"\\u003eCambridge Dictionaries Online\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.britannica.com\\\"\\u003eEncyclopaedia Britannica \\u003c/a\\u003e \",\" \\u003ca href=\\\"http://oxforddictionaries.com/words/jargon-buster\\\"\\u003eJargon Buster\\u003c/a\\u003e : Definitions for grammar and literary terms by Oxford Dictionaries\",\"Maps and directions\\u003cbr /\\u003e \\u003ca href=\\\"http://maps.google.co.uk\\\"\\u003eGoogle maps\\u003c/a\\u003e \\u003cbr /\\u003e \\u003ca href=\\\"http://www.streetmap.co.uk\\\"\\u003eStreetmap\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.metric-conversions.org/conversion-calculators.htm\\\"\\u003eMetric conversion calculator\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.onelook.com\\\"\\u003eOneLook Dictionaries\\u003c/a\\u003e : Provides online access to several hundred dictionaries\",\" \\u003ca href=\\\"http://www.xe.com/ucc\\\"\\u003eOnline currency converter\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.plainenglish.co.uk\\\"\\u003ePlain English Campaign\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://thesaurus.reference.com\\\"\\u003eRoget's Thesaurus\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://ukshop.economist.com/products/the-economist-style-guide-12th-edition?gclid=Cj0KCQjwu_jYBRD8ARIsAC3EGCLyEkNZhkIyuZJVlbIE0WHRf12IlnFl0dC6jEmQVmmW7gQseYnT4LIaAtw5EALw_wcB\\\"\\u003eThe Economist Style Guide \\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.guardian.co.uk/styleguide\\\"\\u003eThe Guardian stylebook\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.bartleby.com/116/\\\"\\u003eThe New Fowler's Modern English Usage\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.buzzfeed.com/emmyf/buzzfeed-style-guide#.plO5VVG008\\\"\\u003eBuzzfeed Style Guide\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://en.wikipedia.org/wiki/Main_Page \\\"\\u003eWikipedia: online encyclopaedia \\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Suppliers \u0026 contractors",
+    "links": [
+     {
+      "title": "Become a TfL supplier",
+      "url": "/info-for/suppliers-and-contractors/become-a-supplier",
+      "image": {}
+     },
+     {
+      "title": "Find contract opportunities",
+      "url": "/info-for/suppliers-and-contractors/opportunities",
+      "image": {}
+     },
+     {
+      "title": "Invoicing and getting paid",
+      "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+      "image": {}
+     },
+     {
+      "title": "What we buy",
+      "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Supplier relations",
+      "url": "/info-for/suppliers-and-contractors/supplier-relations",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "image": {}
+     },
+     {
+      "title": "How we work",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/how-we-work",
+      "image": {}
+     },
+     {
+      "title": "Understanding our users",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/understanding-our-users",
+      "image": {}
+     },
+     {
+      "title": "Design \u0026 content",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/design-and-content",
+      "image": {}
+     },
+     {
+      "title": "Digital accessibility standard",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-standard",
+      "image": {}
+     },
+     {
+      "title": "Editorial style guide",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/editorial-style-guide",
+      "image": {}
+     },
+     {
+      "title": "Technical",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/technical",
+      "image": {}
+     },
+     {
+      "title": "Testing \u0026 assurance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/testing-and-assurance",
+      "image": {}
+     },
+     {
+      "title": "Support \u0026 maintenance",
+      "url": "/info-for/suppliers-and-contractors/digital-design-toolkit/support-and-maintenance",
+      "image": {}
+     },
+     {
+      "title": "Health, safety \u0026 environment",
+      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
+      "image": {}
+     },
+     {
+      "title": "Design standards \u0026 licensing",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "image": {}
+     },
+     {
+      "title": "London Buses tenders",
+      "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+      "image": {}
+     },
+     {
+      "title": "London Service Permits",
+      "url": "/info-for/suppliers-and-contractors/london-service-permits",
+      "image": {}
+     },
+     {
+      "title": "TfL Supplier Awards",
+      "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Suppliers \u0026 contractors",
+     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

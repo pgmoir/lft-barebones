@@ -1,0 +1,128 @@
+{
+ "pageTitle": "Road closures for Prudential RideLondon 2019",
+ "keywords": "TfL",
+ "description": "Road closures for Prudential RideLondon 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Prudential RideLondon 2019",
+   "url": "/status-updates/major-works-and-events/ride-london-2019"
+  },
+  {
+   "title": "Road closures for Prudential RideLondon 2019"
+  }
+ ],
+ "title": {
+  "title": "Road closures for Prudential RideLondon 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Details of road and bridge closures for Prudential RideLondon 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This pages lists the roads and bridges that are closed for Prudential RideLondon 2019.",
+     "See our \u003ca href=\"/status-updates/major-works-and-events/ride-london-2019\"\u003eadvice on getting around London\u003c/a\u003e over the weekend of the events.",
+     "Check out \u003ca href=\"https://www.prudentialridelondon.co.uk/info-hub/routes/\"\u003eroutes (with maps) on the Prudential RideLondon website\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Traffic impact maps for Saturday and Sunday\"}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-saturday-700x438.jpg\"}],\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday1-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday2-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday3-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday4-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday5-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday6-700x438.jpg\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/prl-sunday7-700x438.jpg\"}],\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roads closed from Friday to Monday morning\"}",
+     "These roads are closed from Friday 2 August until 06:00 on Monday 5 August:",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From 05:00 on Friday 2 August\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Horse Guards Road\",\"The Mall (between Horse Guards Road and Queens Gardens)\",\"Marlborough Road\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From 12:30 on Friday 2 August\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Birdcage Walk\",\"Constitution Hill\",\"Spur Road\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Road closed both Saturday and Sunday\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"From 07:30 on Saturday 3 August until 20:00 on Sunday 4 August\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Great George Street\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roads closed Saturday 3 August only\"}",
+     "These roads are closed all day on Saturday 3 August. They all re-open at 18:00.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Roads closed from 05:00\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"St Paul's Churchyard\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Roads closed from 06:00\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Aldwych\",\"Angel Street\",\"Bartholomew Lane\",\"Cannon Street\",\"Cheapside to the west of King Street\",\"Cornhill\",\"Fenchurch Street - west of Rood Lane\",\"Friday Street\",\"Gresham Street - east of Wood Street\",\"Holborn\",\"High Holborn\",\"Holborn Viaduct\",\"King Edward Street\",\"King Street\",\"King William Street\",\"Kingsway\",\"Leadenhall Street - west of St Mary Axe\",\"Lime Street\",\"Lincolns Inn Fields\",\"Lombard Street\",\"Lothbury\",\"New Change\",\"Newgate Street\",\"Newman's Row\",\"Princes Street\",\"Puddle Dock\",\"Queen Victoria Street\",\"Remnant Street\",\"Sardinia Street\",\"St Martin's Le Grand- south of Gresham Street\",\"Threadneedle Street - west of Bartholomew Lane\",\"White Lion Hill\",\"Upper Thames Street\",\"Victoria Embankment\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Roads closed from 07:00\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Aldwych - eastern arm\",\"Kingsway - southbound\",\"Waterloo Bridge\",\"The Strand\",\"Hourse Guards Avenue\",\"Whitehall\",\"Parliament Street\",\"Parliament Square (north side)\",\"Trafalgar Square\",\"Cockspur Street\",\"Northumberland Avenue\",\"Duncannon Street\",\"Pall Mall East\",\"Waterloo Place\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roads closed Sunday 4 August only\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Central London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The Mall\",\"Horse Guards Road\",\"Birdcage Walk\",\"Spur Road\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tower Hill\",\"Lower Thames Street\",\"Upper Thames Street\",\"Blackfriars Underpass\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Victoria Embankment\",\"Waterloo Place\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Northumberland Avenue\",\"Trafalgar Square\",\"Cockspur Street\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pall Mall\",\"St James's Street\",\"Piccadilly\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Hyde Park Corner Underpass\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Millbank\",\"Parliament Street\",\"Whitehall\",\"Grosvenor Road\"]}",
+     "Chelsea Bridge",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"East London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Queen Elizabeth Park - Watergen Road\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Rotherhithe Tunnel\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A12 southbound between Redbridge Road and East India Dock Road\",\"A13 (incl. Blackwall Tunnel northern approach)\",\"East India Dock Road A13\",\"East India Dock Tunnel\",\"Aspen Way\",\"Limehouse Link Tunnel\",\"The Highway\",\"East Smithfield\",\"Minories\",\"Tower Hill\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"West London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Knightsbridge\",\"Brompton Road\",\"Cromwell Road\",\"Talgarth Road\",\"Hammersmith Flyover\",\"Great West Road\",\"Hogarth Roundabout\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Burlington Lane / Great Chertsey Road\",\"Chiswick Bridge\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Chelsea Embankment\",\"Cheyne Walk\",\"Kings Road\",\"New Kings Road\",\"Putney High Street\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Millbank\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Richmond and Kingston\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Chiswick Bridge\",\"Clifford Avenue\",\"Upper Richmond Road\",\"Sheen Lane\",\"Queens Road\",\"Kingston Hill (eastbound)\",\"Cromwell Road (eastbound)\",\"Hampton Court Road\",\"Horse Fair (eastbound)\",\"Kingston Bridge (eastbound)\",\"London Road (eastbound)\",\"Queen Elizabeth Road (eastbound)\",\"Sopwith Way (eastbound)\",\"Wood Street (eastbound)\",\"Kingston Bridge (westbound)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Fairfield North (westbound)\",\"High Street (westbound)\",\"Horse Fair (westbound)\",\"London Road (westbound)\",\"Wood Street (westbound)\",\"Clarence Street (westbound)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Coombe Lane\",\"West Coombe Road\",\"Portsmouth Road\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Embercourt / Hampton Court Way\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Kingston, Merton and Wandsworth\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Queens Road (eastbound)\",\"Kingston Hill (eastbound)\",\"London Road (eastbound)\",\"Cromwell Road (eastbound)\",\"Queen Elizabeth Road (eastbound)\",\"Sopwith Way (eastbound)\",\"Wood Street (eastbound)\",\"Horse Fair (eastbound)\",\"Kingston Bridge (eastbound)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Kingston Bridge (westbound)\",\"Clarence Street (westbound)\",\"Horse Fair (westbound)\",\"Wood Street (westbound)\",\"Fairfield North (westbound)\",\"London Road (westbound)\"]}",
+     "High Street Kingston (westbound)",
+     "{\"template\":\"bulletlist\",\"items\":[\"Portsmouth Road\",\"Coombe Lane\",\"Coombe Lane West\",\"Coombe Road\",\"High Street Wimbledon\",\"Parkside\",\"Putney Bridge\",\"Putney High Street\",\"Putney Hill\",\"Tibbet's Corner\",\"Tibbet's Ride\",\"Wimbledon Hill Road\",\"Wimbledon Parkside\",\"Worple Road\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River crossings\"}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eCrossing\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eClosure times\\u003c/strong\\u003e \"],[\"Hampton Court Bridge (no access to A3 until 19:00)\",\"05:45-13:00\"],[\"Kingston Bridge (westbound)\",\"05:00-20:00\"],[\"Kingston Bridge (eastbound)\",\"05:00-12:30\"],[\"Chiswick Bridge\",\"05:00-12:30\"],[\"Hammersmith Bridge\",\"Closed\"],[\"Putney Bridge (northbound) - access from Lower Richmond Road only\",\"07:30-19:30\"],[\"Putney Bridge (southbound)\",\"07:30-19:30\"],[\"Wandsworth Bridge (local access only, no access to New Kings Road)\",\"07:30-18:45\"],[\"Battersea Bridge\",\"09:00-18:45\"],[\"Albert Bridge\",\"07:30-19:30\"],[\"Chelsea Bridge\",\"09:00-18:45\"],[\"Vauxhall Bridge\",\"09:00-18:45\"],[\"Lambeth Bridge\",\"09:00-18:45\"],[\"Westminster Bridge (restricted access, no through route)\",\"07:30-19:00\"],[\"Southwark Bridge\",\"04:00-11:15\"],[\"Tower Bridge\",\"05:30-10:45\"],[\"Rotherhithe Tunnel\",\"04:00-08:00\"]]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "socialmediashare",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}
