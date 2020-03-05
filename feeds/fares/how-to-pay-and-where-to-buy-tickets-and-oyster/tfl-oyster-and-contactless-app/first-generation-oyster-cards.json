@@ -44,10 +44,11 @@
      "{\"template\":\"intro\",\"texts\":[\"If you travel using a first-generation Oyster card, replace it with a new one to use our TfL Oyster and contactless app and manage your card on the go.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Check your card\"}",
      "Look on the back of your Oyster card. If it doesn't have a 'D' in the bottom left hand corner, it's a first-generation Oyster card.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/first-generation-oyster-cards.jpg\",\"alt\":\"Two first generation Oyster cards showing one with a D in the left corner and one without.\"},\"wrapped\":false}",
      "If you have a \u003ca href=\"/fares/contactless-and-oyster-account\"\u003econtactless and Oyster account\u003c/a\u003e and you've added your Oyster card to it, you'll see a message confirming you have a first-generation Oyster card when you sign in.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Get a new Oyster card\"}",
      "You can get a new Oyster card online and at many locations across London.",
-     "You need to pay a £5 deposit and add a minimum amount of pay as you go credit, or a season ticket to your new card to use it straight away.",
+     "You need to pay £5 and add a minimum amount of pay as you go credit, or a season ticket to your new card to use it straight away.",
      "{\"template\":\"table\",\"titles\":[\"Where to get an Oyster card\",\"Minimum pay as you go credit\"],\"rows\":[[],[\"Online\",\"£5\"],[\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e \",\"£5\"],[\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \",\"£1.50\"],[\"All Tube, London Overground and TfL Rail stations\",\"£5\"],[\"Some DLR and National Rail stations\",\"£5\"],[\"The Tramlink Shop, Croydon\",\"£1.50\"]]}",
      "Once you've got your new Oyster card, you can use our \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\"\u003eTfL Oyster and contactless app\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What to do with your first-generation Oyster card\"}",
@@ -57,9 +58,9 @@
      "Your first-generation Oyster card will then be stopped so no one can use it.",
      "If you paid a deposit for your first-generation Oyster card, it will be refunded to your contactless and Oyster account.",
      "If you set up Auto top-up on your first-generation Oyster card, it will be set up automatically on your new card.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get a refund for your old card\"}",
-     "You can get a refund for your pay as you go credit and deposit at Tube, London Overground and TfL Rail ticket machines or offices.",
-     "You can get a refund for your pay as you go credit, Travelcard, Bus \u0026 Tram Pass and deposit on your \u003ca href=\"https://contactless.tfl.gov.uk/\"\u003econtactless and Oyster account\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get a refund for your first-generation Oyster card\"}",
+     "You can get a refund for your pay as you go credit and any deposit at Tube, London Overground and TfL Rail ticket machines or offices.",
+     "You can get a refund for your pay as you go credit, Travelcard, Bus \u0026 Tram Pass and any deposit on your \u003ca href=\"https://contactless.tfl.gov.uk/\"\u003econtactless and Oyster account\u003c/a\u003e .",
      "You'll receive your credit refund in two days. Travelcard refunds are calculated on a pro-rata basis so you can keep using your Travelcard, on your first-generation Oyster card, until it expires and then swap to your new card.",
      "Once you've received your refund, your first-generation Oyster card will be stopped so no one can use it.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Discounted season tickets\"}",
@@ -76,14 +77,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -38,7 +38,7 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"To minimise the impact of freight movements on the transport network, we've created Delivery and Servicing Plans (DSPs), and Construction Logistics Plans (CLPs). You can submit these with your planning application.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "In addition to guidance on preparing and implementingDSPs (Delivery Service Plans) and CLPs (Construction Logistics Plans):",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Delivery and servicing plans (DSPs)\",\"url\":\"/cdn/static/cms/documents/delivery-and-servicing-plans.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.81MB\",\"image\":{}},{\"title\":\"Construction logistics plans (CLPs) guidance\",\"url\":\"/cdn/static/cms/documents/construction-logistics-plan-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 10.69MB\",\"image\":{}},{\"title\":\"Construction logistics plan: Appendix A\",\"url\":\"/cdn/static/cms/documents/appendix-a-clp-template.pdf\",\"icon\":\"download\",\"size\":\"PDF 482KB\",\"image\":{}},{\"title\":\"Construction logistics plan: Appendix B (example outline)\",\"url\":\"/cdn/static/cms/documents/clp-appendix-b.pdf\",\"icon\":\"download\",\"size\":\"PDF 24.89MB\",\"image\":{}},{\"title\":\"Construction logistics plan tool\",\"url\":\"/cdn/static/cms/documents/clp-tool3.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 940KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Delivery and servicing plans (DSPs)\",\"url\":\"/cdn/static/cms/documents/delivery-and-servicing-plans.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.81MB\",\"image\":{}},{\"title\":\"Construction logistics plans (CLPs) guidance\",\"url\":\"/cdn/static/cms/documents/construction-logistics-plan-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.21MB\",\"image\":{}},{\"title\":\"Construction logistics plan: Appendix A\",\"url\":\"/shared/DocumentComingSoon\",\"icon\":\"download\",\"image\":{}},{\"title\":\"Construction logistics plan: Appendix B (example outline)\",\"url\":\"/cdn/static/cms/documents/clp-appendix-b.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.78MB\",\"image\":{}},{\"title\":\"Construction logistics plan tool\",\"url\":\"/cdn/static/cms/documents/clp-tool3.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 940KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why plan?\"}",
      "In line with \u003ca href=\"https://www.london.gov.uk/what-we-do/planning/london-plan\"\u003eLondon Plan\u003c/a\u003e policies 6.3 and 6.14, TfL is concerned with assessing the most appropriate methods of freight movement in London and ensuring a distribution network which minimises congestion, ensures the safe passage of goods and mitigates its environmental impact.",
      "Development proposals should aim to reduce levels of road freight, particularly during peak periods and make use of sustainable modes where possible - rail and water for larger consignments and cycling and walking for local activity.",
@@ -71,14 +71,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

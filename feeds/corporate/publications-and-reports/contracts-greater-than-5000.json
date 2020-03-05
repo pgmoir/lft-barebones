@@ -36,9 +36,9 @@
      "Copies of contracts are published on the \u003ca href=\"https://www.gov.uk/contracts-finder\"\u003eContracts finder website\u003c/a\u003e or on our \u003ca href=\"/corporate/publications-and-reports/contracts\"\u003eContracts page\u003c/a\u003e .",
      "You can also view \u003ca href=\"/corporate/publications-and-reports/contracts-released-under-foi\"\u003econtracts released in response to Freedom of Information requests\u003c/a\u003e . Contracts provided in response to FOI requests made since 1 January 2017 are published in our \u003ca href=\"/corporate/transparency/freedom-of-information\"\u003eFreedom of Information pages\u003c/a\u003e .",
      "Older contracts will be published on request and any contract announced in a press release will also be published.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL contracts greater than £5,000\",\"url\":\"/shared/DocumentComingSoon\",\"icon\":\"download\",\"size\":\"PDF 652KB\",\"image\":{}},{\"title\":\"TfL contracts greater than £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-contracts-greater-than-5k.csv\",\"icon\":\"download\",\"size\":\"CSV 467KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL contracts greater than £5,000\",\"url\":\"/cdn/static/cms/documents/contracts-awarded-tfl.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.67MB\",\"image\":{}},{\"title\":\"TfL contracts greater than £5,000\",\"url\":\"/cdn/static/cms/documents/contracts-awarded-tfl.csv\",\"icon\":\"download\",\"size\":\"CSV 666KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Greater London Authority (GLA) contracts\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"GLA contracts\",\"url\":\"/cdn/static/cms/documents/gla-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 124KB\",\"image\":{}},{\"title\":\"GLA contracts\",\"url\":\"/cdn/static/cms/documents/gla-contract.csv\",\"icon\":\"download\",\"size\":\"CSV 72KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"GLA contracts\",\"url\":\"/cdn/static/cms/documents/contracts-awarded-gla.pdf\",\"icon\":\"download\",\"size\":\"PDF 408KB\",\"image\":{}},{\"title\":\"GLA contracts\",\"url\":\"/cdn/static/cms/documents/contracts-awarded-gla.csv\",\"icon\":\"download\",\"size\":\"CSV 681KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -50,14 +50,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

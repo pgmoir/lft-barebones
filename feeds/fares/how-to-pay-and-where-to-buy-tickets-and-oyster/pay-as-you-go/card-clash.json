@@ -45,8 +45,9 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What is card clash?\"}",
      "Card clash happens when you accidently touch more than one card on a yellow card reader at the same time.",
      "Make sure you keep your contactless and Oyster cards separate and not in the same purse, wallet or phone case when touching in or out.",
-     "If the yellow card reader detects more than one card:",
-     "{\"template\":\"bulletlist\",\"items\":[\"You could be charged two maximum fares for your journey. The reader may charge one card when you touch in and another card when you touch out\",\"It could take payment from the wrong card\",\"It may not take payment and you won't have paid for your journey, so you could be liable for a \\u003ca href=\\\"/fares/find-fares/penalty-fares-and-how-to-pay-them\\\"\\u003epenalty fare\\u003c/a\\u003e \",\"If you're at a ticket gate, it may not open\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/card-clash.jpg\",\"alt\":\"Oyster and contactless cards in the same wallet over a yellow card reader showing a clash\"},\"wrapped\":false}",
+     "If you don't, the yellow card reader may:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Not read any card and the ticket gate won't open\",\"Not take payment for your journey (at a freestanding yellow card reader) so you could be charged a \\u003ca href=\\\"/fares/find-fares/penalty-fares-and-how-to-pay-them\\\"\\u003epenalty fare\\u003c/a\\u003e \",\"Read one card when you touch in and another card when you touch out, charging two maximum fares for your journey\",\"Take payment from the wrong card\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay the right fare\"}",
      "You'll pay the right fare if you touch in and out with the same card.",
      "Always use the same device, contactless or Oyster card to touch in and out. For example, if you touch in with an iPhone and touch out with an Apple Watch or contactless card, you'll be charged for two incomplete journeys.",
@@ -65,14 +66,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

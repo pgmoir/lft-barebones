@@ -42,23 +42,30 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Mayor Sadiq Khan believes that London's airports bring economic and social benefits to the Capital and help to support its global status. But he's also concerned about the environmental harm caused by aviation and the impact on Londoners.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "The Government announced in October 2016 that it would support a \u003ca href=\"https://www.gov.uk/government/collections/heathrow-airport-expansion\"\u003ethird runway at Heathrow Airport\u003c/a\u003e . Between February and May 2017 the Government held a public consultation on the draft National Policy Statement (NPS) that would allow for a third runway to be built.",
-     "A second consultation on the NPS then followed in the autumn, incorporating significant new evidence. The Secretary of State for Transport laid the final NPS before Parliament on 5 June 2018.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Response to the Heathrow NPS\"}",
+     "Every London airport is taking forward growth plans to take advantage of suppressed aviation demand. It is imperative that the airports demonstrate that any plans can be taken forward without significant adverse environmental impacts. The Mayor has also made clear that the airports cannot rely on improvements unrelated to airport growth and seize the environmental and other benefits that would otherwise accrue to Londoners. The Mayor and TfL are in regular contact with London's airports and are keeping abreast of their plans.",
+     "The Government announced in October 2016 that it would support a \u003ca href=\"https://www.gov.uk/government/collections/heathrow-airport-expansion\"\u003ethird runway at Heathrow Airport\u003c/a\u003e . Between February and May 2017 the Government held a public consultation on the draft Airports National Policy Statement (NPS) that would allow for a third runway to be built.",
+     "A second consultation on the NPS then followed in the autumn, incorporating significant new evidence.",
+     "In April 2018, the Government published \"Beyond the horizon\" which supported other UK airports making best use of their existing capacity.",
+     "The Secretary of State for Transport laid the final NPS before Parliament on 5 June 2018. A majority in Parliament voted in favour of the NPS and the Secretary of State formally designated the NPS on 26 June 2018. This prompted the Mayor to launch a legal challenge of the NPS together with a number of local authorities and this process is ongoing.",
+     "Nevertheless, Heathrow has decided to proceed with its expansion plans, in preparation for submission of a Development Consent Order (DCO) application. It published an initial consultation in January 2018, followed by a consultation in January 2019 on airspace and runway operations. In June 2019, it published its statutory DCO consultation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Response to the Heathrow NPS and DCO\"}",
      "The Mayor has made submissions to both of the Department for Transport's (DfT's) consultations on the draft NPS. In his responses, the Mayor set out his serious concerns about the impact of a third runway at Heathrow on road and rail networks, air quality and noise.",
-     "He has also responded to calls for evidence on the NPS by  the House of Commons Transport Select Committee in April 2017 and again in December 2017. A further submission was provided to clarify points raised by the DfT and Heathrow Airport Limited (HAL) during the Transport Select Committee hearings.",
+     "He has also responded to calls for evidence on the NPS by the House of Commons Transport Select Committee in April 2017 and again in December 2017. A further submission was provided to clarify points raised by the DfT and Heathrow Airport Limited (HAL) during the Transport Select Committee hearings.",
+     "Submissions have also been made by the Mayor and his team to the Heathrow DCO consultations to date.",
      "The Mayor's NPS responses and a review of the final NPS - along with other submissions to Government and HAL consultations - are on the \u003ca href=\"/corporate/publications-and-reports/aviation\"\u003eAviation page in Publications \u0026 reports\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Heathrow expansion effects\"}",
-     "As part of our NPS response we did detailed analysis and modelling to understand how the expansion of Heathrow would affect road and rail access, air quality and noise.",
+     "As part of our NPS response we did detailed analysis and modelling to understand how the expansion of Heathrow would affect road and rail access, air quality and noise. The serious issues raised as part of the NPS response have not been addressed by Heathrow in its DCO process.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Road and rail access\"}",
      "An expanded Heathrow Airport would mean an additional 170,000 trips by passengers and staff each day. The Government has suggested that Heathrow can expand without resulting in any extra road trips to and from the airport. For this to happen with a third runway, the percentage of people using public transport to get there would need to increase from 39% to 65%.",
-     "Our analysis indicates that this cannot happen without extra capacity on the rail networks serving the airport. The Government's proposals do not currently guarantee the significant investment needed to create this.",
+     "Our analysis indicates that this cannot happen without extra connectivity and capacity on the rail networks serving the airport. The Government's proposals do not currently guarantee the significant investment needed to create this, nor does Heathrow accept the need.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Air quality\"}",
      "Heathrow is one of the worst air pollution hotspots in London and legal limits for air quality are already exceeded in the surrounding area. Even without expansion bringing more flights and more journeys to and from the airport, there is a huge challenge to clean up the air.",
-     "Our analysis indicates that a bigger airport will make air pollution worse and that the Government's proposals do not show how legal limits for clean air can be met once a third runway is operating.",
+     "Our analysis indicates that a bigger airport will make air pollution worse and neither the Government nor Heathrow have been able to show how legal limits for clean air can be met once a third runway is operating.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Noise\"}",
      "Unacceptable noise from the airport already affects far too many people - not just those in the immediate vicinity but also those who live under the flight paths across London and in neighbouring areas.",
-     "Our analysis indicates that at least 200,000 more people will be exposed to unacceptable levels of noise."
+     "Our analysis indicates that at least 200,000 more people will be exposed to unacceptable levels of noise.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Carbon\"}",
+     "Neither Government nor Heathrow has shown how a third runway can operate without a material impact on the ability of the UK to stay within its carbon targets and budgets."
     ],
     "link": {
      "image": {}
@@ -70,14 +77,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -116,6 +115,11 @@
      {
       "title": "Developing the rail network",
       "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network",
+      "image": {}
+     },
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking",
       "image": {}
      },
      {

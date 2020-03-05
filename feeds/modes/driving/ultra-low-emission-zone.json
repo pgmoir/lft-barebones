@@ -21,7 +21,7 @@
   "title": "Ultra Low Emission Zone",
   "card": {
    "texts": [
-    "To help improve air quality, an Ultra Low Emission Zone (ULEZ)\u003cstrong\u003enow operates 24 hours a day, 7 days a week, every day of the year \u003c/strong\u003e within the same area of central London as the Congestion Charge. Most vehicles, including cars and vans, need to meet the ULEZ emissions standards or their drivers must pay a daily charge to drive within the zone."
+    "To help improve air quality, an Ultra Low Emission Zone (ULEZ)\u003cstrong\u003eoperates 24 hours a day, 7 days a week, every day of the year\u003c/strong\u003e ,\u003cstrong\u003e \u003c/strong\u003e except Christmas Day, within the same area of central London as the Congestion Charge. Most vehicles, including cars and vans, need to meet the ULEZ emissions standards or their drivers must pay a daily charge to drive within the zone."
    ],
    "link": {
     "image": {}
@@ -262,6 +262,12 @@
       "url": "/info-for/taxis-and-private-hire/emissions-standards-for-phvs",
       "icon": "internal",
       "image": {}
+     },
+     {
+      "title": "Avoid payment fraud",
+      "url": "/modes/driving/unofficial-selling-websites",
+      "icon": "internal",
+      "image": {}
      }
     ],
     "link": {
@@ -329,8 +335,18 @@
       "image": {}
      },
      {
-      "title": "Scrappage scheme",
+      "title": "Scrappage scheme for vans and minibuses",
       "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/car-and-motorcycle-scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Organisations supporting ULEZ scrappage schemes",
+      "url": "/modes/driving/ultra-low-emission-zone/organisations-supporting-ulez-scrappage-schemes",
       "image": {}
      },
      {
@@ -368,16 +384,6 @@
    {
     "template": "emailupdates",
     "link": {
-     "title": "@http://www.twitter.com/TfLTrafficNews",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "emailupdates",
-    "link": {
-     "title": "@http://www.twitter.com/TfLTrafficNews",
      "image": {}
     },
     "image": {},

@@ -84,14 +84,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Terms \u0026 conditions",
@@ -157,11 +149,6 @@
       "image": {}
      },
      {
-      "title": "Technology Innovation Portal",
-      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
-      "image": {}
-     },
-     {
       "title": "TfL call charges",
       "url": "/corporate/terms-and-conditions/tfl-call-charges",
       "image": {}
@@ -200,11 +187,21 @@
       "title": "DLR Discovery",
       "url": "/corporate/terms-and-conditions/dlr-discovery",
       "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "url": "/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
+      "image": {}
      }
     ],
     "link": {
      "title": "Terms \u0026 conditions",
-     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
      "image": {}
     },
     "image": {},

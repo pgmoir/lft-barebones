@@ -65,7 +65,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who receives the lump sum\"}",
      "The Trustees have absolute discretion to pay the lump sum to one person or more and in such shares as they decide.",
      "The Trustees will take your wishes into consideration when making their decision. You should advise us of who you would wish to receive this payment by completing an expression of wish form:",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Expression of wish form\",\"url\":\"/cdn/static/cms/documents/expression-of-wish.pdf\",\"icon\":\"download\",\"size\":\"PDF 152KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Expression of wish form\",\"url\":\"/cdn/static/cms/documents/expression-of-wish-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 124KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "It is important that you complete a new form if your circumstances change.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens to your pension when you die\"}",
      "If you are already receiving your pension when you die, it will stop at the end of the four-week pay period in which you die.",
@@ -86,14 +86,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

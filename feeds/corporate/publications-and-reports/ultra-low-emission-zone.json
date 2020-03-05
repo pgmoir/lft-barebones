@@ -58,9 +58,12 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ consultation on taxis and PHVs - July 2015\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Memo to MD Surface\",\"Report to Mayor October 2015\",\"Supplementary Information\",\"IIA Health Impact Assessment\",\"IIA Appendix\"]}",
      " \u003ca href=\"http://consultations.tfl.gov.uk/environment/ulez-2\"\u003eVisit the ULEZ taxi and private hire consultation page\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ Consultation - October 2014\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ consultation - October 2014\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Instrument of Confirmation\",\"Mayoral Decision Form\",\"Report to Mayor - March 2015\",\"Report to the Mayor Appendices\",\"Supplementary Information\",\"Integrated Impact Assessment (IIA) Summary Report\",\"IIA Health Impact Assessment\",\"IIA Environmental Impact Assessment\",\"IIA Equalities Impact Assessment\",\"IIA Economics Impact Assessment\"]}",
-     " \u003ca href=\"https://consultations.tfl.gov.uk/environment/ultra-low-emission-zone\"\u003eVisit the ULEZ consultation - October 2014 page\u003c/a\u003e ."
+     " \u003ca href=\"https://consultations.tfl.gov.uk/environment/ultra-low-emission-zone\"\u003eVisit the ULEZ consultation - October 2014 page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Agreements with London's emergency services\"}",
+     "We've signed Memoranda of Understanding (MoUs) with emergency services who are working to replace their vehicle fleets to meet ULEZ emissions standards.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-barts.pdf\\\"\\u003eMemorandum of Understanding between TfL and Barts Health NHS Foundation Trust\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-btp.pdf\\\"\\u003eMemorandum of Understanding between Transport for London and the British Transport Police\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-col.pdf\\\"\\u003eMemorandum of Understanding between Transport for London and the City of London Police\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-las.pdf\\\"\\u003eMemorandum of Understanding between TfL and The London Ambulance Service\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-lfepa.pdf\\\"\\u003eMemorandum of Understanding between Transport for London and the London Fire and Emergency Planning Authority\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-met.pdf\\\"\\u003eMemorandum of Understanding between Transport for London and the Metropolitan Police Service\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-nhsbt.pdf\\\"\\u003eMemorandum of Understanding between TfL and The NHS Blood and Transplant\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-slam.pdf\\\"\\u003eMemorandum of Understanding between TfL and The South London and Maudsley NHS Foundation Trust\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/ulez-mou-wmas.pdf\\\"\\u003eMemorandum of Understanding between TfL and West Midlands Ambulance Service\\u003c/a\\u003e \"]}"
     ],
     "link": {
      "image": {}
@@ -72,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -95,7 +95,7 @@
      "High Street Kingston (westbound)",
      "{\"template\":\"bulletlist\",\"items\":[\"Portsmouth Road\",\"Coombe Lane\",\"Coombe Lane West\",\"Coombe Road\",\"High Street Wimbledon\",\"Parkside\",\"Putney Bridge\",\"Putney High Street\",\"Putney Hill\",\"Tibbet's Corner\",\"Tibbet's Ride\",\"Wimbledon Hill Road\",\"Wimbledon Parkside\",\"Worple Road\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River crossings\"}",
-     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eCrossing\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eClosure times\\u003c/strong\\u003e \"],[\"Hampton Court Bridge (no access to A3 until 19:00)\",\"05:45-13:00\"],[\"Kingston Bridge (westbound)\",\"05:00-20:00\"],[\"Kingston Bridge (eastbound)\",\"05:00-12:30\"],[\"Chiswick Bridge\",\"05:00-12:30\"],[\"Hammersmith Bridge\",\"Closed\"],[\"Putney Bridge (northbound) - access from Lower Richmond Road only\",\"07:30-19:30\"],[\"Putney Bridge (southbound)\",\"07:30-19:30\"],[\"Wandsworth Bridge (local access only, no access to New Kings Road)\",\"07:30-18:45\"],[\"Battersea Bridge\",\"09:00-18:45\"],[\"Albert Bridge\",\"07:30-19:30\"],[\"Chelsea Bridge\",\"09:00-18:45\"],[\"Vauxhall Bridge\",\"09:00-18:45\"],[\"Lambeth Bridge\",\"09:00-18:45\"],[\"Westminster Bridge (restricted access, no through route)\",\"07:30-19:00\"],[\"Southwark Bridge\",\"04:00-11:15\"],[\"Tower Bridge\",\"05:30-10:45\"],[\"Rotherhithe Tunnel\",\"04:00-08:00\"]]}"
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eCrossing\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eClosure times\\u003c/strong\\u003e \"],[\"Hampton Court Bridge (no access to A3 until 19:00)\",\"05:45-13:00\"],[\"Kingston Bridge (westbound)\",\"05:00-20:00\"],[\"Kingston Bridge (eastbound)\",\"05:00-12:30\"],[\"Chiswick Bridge\",\"05:00-12:30\"],[\"Hammersmith Bridge\",\"Closed\"],[\"Putney Bridge (northbound) - access from Lower Richmond Road only\",\"07:30-19:30\"],[\"Putney Bridge (southbound)\",\"07:30-19:30\"],[\"Wandsworth Bridge (local access only, no access to New Kings Road)\",\"07:30-18:45\"],[\"Battersea Bridge\",\"09:00-18:45\"],[\"Albert Bridge\",\"07:30-19:30\"],[\"Chelsea Bridge\",\"09:00-18:45\"],[\"Vauxhall Bridge\",\"09:00-18:45\"],[\"Lambeth Bridge\",\"09:00-18:45\"],[\"Westminster Bridge (restricted access, no through route)\",\"07:30-19:00\"],[\"Southwark Bridge\",\"04:00-11:15\"],[\"Tower Bridge\",\"05:30-10:45\"],[\"Rotherhithe Tunnel\",\"04:00-08:00\"],[\"Woolwich Ferry\",\"Closed\"]]}"
     ],
     "link": {
      "image": {}
@@ -107,14 +107,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

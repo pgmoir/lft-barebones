@@ -1,0 +1,184 @@
+{
+ "pageTitle": "Saturday markets",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Explore some of London's  best Saturday markets by bike",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Routes and maps",
+   "url": "/modes/cycling/routes-and-maps"
+  },
+  {
+   "title": "Leisure routes",
+   "url": "/modes/cycling/routes-and-maps/leisure-routes"
+  },
+  {
+   "title": "Saturday markets"
+  }
+ ],
+ "title": {
+  "title": "Saturday markets",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Explore some of London's best Saturday markets and see sights along the way.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/portobello-road-sc.jpg\",\"alt\":\"Portobello Road street sign on a wall\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hire a Santander Cycle\"}",
+     "You can use your own cycle or \u003ca href=\"/modes/cycling/santander-cycles/how-it-works\"\u003ehire a Santander Cycle\u003c/a\u003e for this route using our app or \u003ca href=\"/modes/cycling/santander-cycles/find-a-docking-station\"\u003edocking stations\u003c/a\u003e on the way. Drop off your cycle, enjoy the sights and then pick up another cycle.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Start the route\"}",
+     "The route is split into four parts. You can also \u003ca href=\"https://www.google.com/maps/d/viewer?mid=1LMwjwT_avFOK2RSMscR-gAbc-Sk\u0026ll=51.50720688953817%2C-0.1471245000000181\u0026z=13\"\u003esee the route on a map\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Borough Market to Covent Garden\"}",
+     "Start your day by browsing through \u003ca href=\"http://boroughmarket.org.uk/\"\u003eBorough Market\u003c/a\u003e - London's oldest fruit and vegetable market.",
+     "You can then hire a Santander Cycle from the docking station on Park Street.",
+     "1. Follow the street round to the left and at the end, turn right onto Sumner Street",
+     "2. Turn right onto Holland Street and then turn left onto Hopton Street",
+     "3. Turn right when you reach Southwark Street and turn right again after the railway bridge onto Blackfriars Road",
+     "4. Turn left when you reach Upper Ground and follow the road until you go under Waterloo Bridge",
+     "5. Take the first left and follow the cycle path to cross over the bridge",
+     "6. Continue to Wellington Street and turn left onto Tavistock Street",
+     "7. Turn right towards Covent Garden",
+     "Browse the boutique stalls, shops and even take a detour to the \u003ca href=\"https://www.ltmuseum.co.uk/\"\u003eLondon Transport Museum\u003c/a\u003e at historic \u003ca href=\"https://www.coventgarden.london/\"\u003eCovent Garden\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Covent Garden to Trafalgar Square\"}",
+     "1. After the market, follow Henrietta Street. At the end, turn left onto Bedford Street",
+     "2. At the end, turn right onto the Strand and follow to the roundabout. You can also get off your cycle and use the pedestrian crossings",
+     "3. Take the third exit on the roundabout and then go under Admiralty Arch. You can also get off your cycle and use the pedestrian crossings",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Trafalgar Square to Hyde Park\"}",
+     "1. At the end of The Mall, turn right onto Constitution Hill to go past Buckingham Palace",
+     "2. Follow the road to the end and then at the roundabout, use the cycle path to go under Wellington Arch and into Hyde Park",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hyde Park to Portobello Road\"}",
+     "1. In Hyde Park, follow the cycle path next to the horse track and go straight over West Carriage Drive",
+     "2. Once you pass the Round Pond, turn right onto Broad Walk",
+     "3. Follow the walk to the end and then turn left onto Bayswater Road",
+     "4. At the end of the road, go straight onto Notting Hill Gate",
+     "5. When you reach Notting Hill Gate Tube Station, turn right onto Pembridge Road. You can also get off your cycle and use the pedestrian crossing",
+     "6. Take the second exit on the roundabout to continue on Pembridge Road",
+     "7. Turn left onto Portobello Road and dock your cycle at Chepstow Villas",
+     "Stroll through \u003ca href=\"http://www.portobelloroad.co.uk/\"\u003ePortobello Market \u003c/a\u003e - the world's largest antiques market with over 1,000 dealers.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/santander-cycles/community\\\"\\u003eDownload the Santander Cycles app\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes\\\"\\u003eLeisure routes\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Saturday markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/saturday-markets",
+      "image": {}
+     },
+     {
+      "title": "Independent shops and markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/independent-shops-and-markets",
+      "image": {}
+     },
+     {
+      "title": "London's secret gardens",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/londons-secret-gardens",
+      "image": {}
+     },
+     {
+      "title": "Quirky London",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/quirky-london",
+      "image": {}
+     },
+     {
+      "title": "Sporting sights",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/sporting-sights",
+      "image": {}
+     },
+     {
+      "title": "Routes for Explore London tickets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+      "image": {}
+     },
+     {
+      "title": "Cycleways",
+      "url": "/modes/cycling/routes-and-maps/cycleways",
+      "image": {}
+     },
+     {
+      "title": "Mini-Hollands",
+      "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/santander-cycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

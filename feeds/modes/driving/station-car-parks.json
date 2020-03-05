@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Station car parks",
+ "keywords": "Drivers,Motorbikers,Public,Tube passengers,Driving,Motorcycle,TfL",
+ "description": "Benefits and prices for our Tube station car parks",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Station car parks"
+  }
+ ],
+ "title": {
+  "title": "Station car parks",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Our car parks are located next to the station, which is ideal if you need to get to and from your car quickly.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We offer all day parking at our station car parks, as well as free blue badge parking. The majority of locations have CCTV and all have a variety of payment options.",
+     "Our car parks are managed by National Car Parks (NCP). \u003ca href=\"https://www.ncp.co.uk/parking-solutions/transport-for-london-car-parks/\"\u003eSee a full list of the car parks, including where they are, on the NCP website.\u003c/a\u003e ",
+     "We offer a number of easy ways to pay for parking. For a full list of payment options, including season tickets and registering for an account, please \u003ca href=\"http://paybyphone.co.uk/tfl\"\u003evisit PayByPhone\u003c/a\u003e or download the app.",
+     " \u003ca href=\"https://www.paybyphone.com/?shortlink=3dcf2d5c\u0026pid=PBP%20Landing%20Page\u0026c=Ealing%20Launch_Web_Install\u0026af_adset=Web_Install_Ealing%20Launch_English_Ealing\u0026af_ad=Ealing%20Launch_StaticHeader_7sections_NoForm_AppStoreButton_PlayStoreButtonhttps://www.paybyphone.com/?shortlink=3dcf2d5c\u0026pid=PBP%20Landing%20Page\u0026c=Ealing%20Launch_Web_Install\u0026af_adset=Web_Install_Ealing%20Launch_English_Ealing\u0026af_ad=Ealing%20Launch_StaticHeader_7sections_NoForm_AppStoreButton_PlayStoreButton\"\u003eimg\u003c/a\u003e  \u003ca href=\"https://www.paybyphone.com/?shortlink=3dcf2d5c\u0026pid=PBP%20Landing%20Page\u0026c=Ealing%20Launch_Web_Install\u0026af_adset=Web_Install_Ealing%20Launch_English_Ealing\u0026af_ad=Ealing%20Launch_StaticHeader_7sections_NoForm_AppStoreButton_PlayStoreButton\"\u003eimg\u003c/a\u003e ",
+     "All our car parks meet the \u003ca href=\"http://parkmark.co.uk\"\u003ePark Mark standard.\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

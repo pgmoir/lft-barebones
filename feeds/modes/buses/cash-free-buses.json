@@ -44,12 +44,8 @@
      "If you don't have enough credit on your Oyster card to pay the £1.50 fare or your Bus \u0026 Tram Pass or Travelcard has just expired, you can make one more journey on a bus. You must then \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/sso/0001.do\"\u003etop up your pay as you go credit\u003c/a\u003e to clear the negative balance before you can use your Oyster card again or before you can renew a Travelcard or Bus \u0026 Tram Pass.",
      "Where to get or top up your Oyster card",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://account.tfl.gov.uk/oyster?App=8ead5cf4-4624-4389-b90c-b1fd1937bf1f\\u0026returnURL=https://oyster.tfl.gov.uk/oyster/security_check\\\"\\u003eOyster online\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\\\"\\u003eOyster app\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \",\"Tube, London Overground and TfL Rail stations\",\"DLR stations (top up only at most stations)\",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e \",\"Some National Rail stations in London\",\"TfL Customer Services on 0343 222 1234*\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Auto top-up on Oyster\"}",
-     "Auto top-up makes sure you never run out of pay as you go credit by automatically topping up your Oyster card with money from your credit or debit card, whenever your pay as you go balance falls below £10.",
-     "Your Oyster card is automatically topped up when you touch it on a yellow card reader at the start of a journey on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line, Thames Clipper River Bus or National Rail services in London.",
-     " \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/sso/0002.do\"\u003eSet up Auto top-up\u003c/a\u003e on an existing Oyster card, or \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/0005.do\"\u003eorder a new Oyster card online\u003c/a\u003e with pay as you go credit included and choose to add Auto top-up.",
-     "If you set up Auto top-up on an existing card, you must activate it by making a journey from a station, tram stop, Emirates Air Line terminal or River pier. You will not be able to activate Auto top-up by making a journey on a bus.",
-     "Don't forget you can also top up your Oyster card at Oyster Ticket Stops in participating newsagents and shops, or at stations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Auto top-up\"}",
+     "Using \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/sso/0002.do\"\u003eAuto top-up\u003c/a\u003e means you'll never run out of pay as you go credit. When your balance goes below £20, we'll automatically top up your Oyster card with either £20 or £40 from your bank account.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Watch out for card clash\"}",
      "Card clash happens when a yellow card reader detects two or more Oyster, contactless payment or other smartcards at the same time.",
      "If a card reader detects more than one card:",
@@ -68,26 +64,13 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Buses",
     "links": [
      {
-      "title": "Temporary bus changes",
-      "url": "/modes/buses/temporary-bus-changes",
-      "image": {}
-     },
-     {
-      "title": "Permanent bus changes",
-      "url": "/modes/buses/permanent-bus-changes",
+      "title": "Bus changes",
+      "url": "/modes/buses/bus-changes",
       "image": {}
      },
      {

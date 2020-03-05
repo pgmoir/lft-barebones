@@ -76,25 +76,12 @@
    },
    {
     "style": "card-bus",
-    "title": "Temporary bus changes",
+    "title": "Bus changes",
     "texts": [
-     "Find details of significant temporary bus changes including major planned diversions"
+     "Find details of significant bus changes including major planned diversions"
     ],
     "link": {
-     "url": "/modes/buses/temporary-bus-changes",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "style": "card-bus",
-    "title": "Permanent bus changes",
-    "texts": [
-     "Find details of permanent bus changes and improvements"
-    ],
-    "link": {
-     "url": "/modes/buses/permanent-bus-changes",
+     "url": "/modes/buses/bus-changes",
      "image": {}
     },
     "image": {},
@@ -193,7 +180,7 @@
     "links": [
      {
       "title": "Buses: what we do",
-      "url": "/corporate/about-tfl/what-we-do/buses",
+      "url": "/corporate/about-tfl/what-we-do",
       "icon": "internal",
       "image": {}
      },

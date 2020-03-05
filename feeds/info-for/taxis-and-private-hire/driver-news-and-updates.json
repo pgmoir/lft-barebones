@@ -34,9 +34,9 @@
     "template": "content",
     "texts": [
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"OnRoute magazine\",\"texts\":[\"OnRoute, our magazine for taxi and private hire drivers, is now available. If you have feedback, letters or content suggestions, email \\u003ca href=\\\"mailto:OnRoute@tfl.gov.uk\\\"\\u003eOnRoute@tfl.gov.uk\\u003c/a\\u003e \",\"Read \\u003ca href=\\\"/corporate/publications-and-reports/onroute-back-issues\\\"\\u003eprevious issues of OnRoute\\u003c/a\\u003e .\"],\"links\":[{\"title\":\"Issue 21\",\"url\":\"/cdn/static/cms/documents/onroute-issue-21.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.08MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/on-route-issue-21.jpg\",\"alt\":\"cover-21\"}},{\"title\":\"Issue 20\",\"url\":\"/cdn/static/cms/documents/onroute-issue-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.97MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/onroute20.jpg\",\"alt\":\"OnRoute Issue 20 cover image\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"OnRoute magazine\",\"texts\":[\"OnRoute, our magazine for taxi and private hire drivers, is now available. If you have feedback, letters or content suggestions, email \\u003ca href=\\\"mailto:OnRoute@tfl.gov.uk\\\"\\u003eOnRoute@tfl.gov.uk\\u003c/a\\u003e \",\"Read \\u003ca href=\\\"/corporate/publications-and-reports/onroute-back-issues\\\"\\u003eprevious issues of OnRoute\\u003c/a\\u003e .\"],\"links\":[{\"title\":\"Issue 23\",\"url\":\"/cdn/static/cms/documents/onroute-issue-23.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.71MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/onroute-issue23.jpg\",\"alt\":\"OnRoute Issue 23\"}},{\"title\":\"Issue 22\",\"url\":\"/cdn/static/cms/documents/onroute-issue-22.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.09MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"TPH news and press releases\",\"texts\":[\"Catch up on taxi and private hire-related news\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/press-releases-and-news\",\"image\":{}},\"image\":{},\"wrapped\":true}",
-     "{\"title\":\"Bulletins\",\"texts\":[\"Our weekly bulletins keep you up-to-date with important licensing information, and events that could affect your journeys.\"],\"links\":[{\"title\":\"27 June 2019\",\"url\":\"/cdn/static/cms/documents/tph-driver-bulletin-28-june-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 134KB\",\"image\":{}},{\"title\":\"20 June 2019\",\"url\":\"/cdn/static/cms/documents/tph-driver-bulletin-20-june-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 121KB\",\"image\":{}},{\"title\":\"25 April 2019\",\"url\":\"/cdn/static/cms/documents/tph-driver-bulletin-25-april-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 129KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Bulletins\",\"texts\":[\"Our weekly bulletins keep you up-to-date with important licensing information, and events that could affect your journeys.\"],\"links\":[{\"title\":\"27 February 2020\",\"url\":\"/cdn/static/cms/documents/tph-driver-bulletin-27-february-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 136KB\",\"image\":{}},{\"title\":\"20 February 2020\",\"url\":\"/cdn/static/cms/documents/tph-driver-bulletin-20-february-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 134KB\",\"image\":{}},{\"title\":\"13 February 2020\",\"url\":\"/cdn/static/cms/documents/tph-driver-bulletin-13-february-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 115KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Notices and consultations\",\"texts\":[\"Get more information about our notices and consultations\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/notices-and-consultations\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Meetings\",\"texts\":[\"Private hire and taxi licensing compliance and enforcement meeting action tracker\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/compliance-and-enforcement-meetings\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
@@ -51,14 +51,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

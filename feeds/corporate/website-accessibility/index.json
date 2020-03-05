@@ -50,8 +50,8 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Digital accessibility standards\"}",
      "All digital content and services created for TfL must meet our accessibility standards.",
      "These standards apply to desktop, tablet, mobile website, web app and native app experiences",
-     "Digital accessibility standard",
-     "Digital accessibility testing standard"
+     " \u003ca href=\"/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-standard\"\u003eDigital accessibility standard\u003c/a\u003e ",
+     " \u003ca href=\"/info-for/suppliers-and-contractors/digital-design-toolkit/digital-accessibility-testing-standard\"\u003eDigital accessibility testing standard\u003c/a\u003e "
     ],
     "link": {
      "image": {}
@@ -63,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

@@ -5,7 +5,7 @@
 
 
 @{ViewBag.Title = "Old Street roundabout";}
-@{ViewBag.Keywords = "Cyclists,Drivers,Pedestrians,O,Hackney,Islington,Roads,Cycling,Driving,Walking,TfL";}
+@{ViewBag.Keywords = "Cyclists,Drivers,Pedestrians,O,Hackney,Islington,Consultation,Roads,Cycling,Driving,Walking,TfL";}
 @{ViewBag.Url = "/travel-information/improvements-and-projects/old-street-roundabout";}
 @{ViewBag.Language = "en";}
         <!-- empty placeholder -->
@@ -67,7 +67,7 @@
 
 <h3>Final road layout</h3>
 
-<p>Although traffic will flow in two directions after this switchover, the final road layout at Old Street will only be in place when we close off the northwestern arm of the roundabout later in 2019. We'll update this page with details closer to the time.</p>
+<p>Although traffic will flow in two directions after this switchover, the final road layout at Old Street will only be in place when we close off the northwestern arm of the roundabout in spring 2020. We'll update this page with details closer to the time.</p>
       
            
       
@@ -105,6 +105,57 @@
 </div>
 
 </div>
+ 
+
+ @this.ScriptBlock(
+     @<script>
+          queue.push(
+            "@Html.ScriptPath("plugins/gallery-media.min.js")", null,
+            function() {
+                var galleryLite = $(".gallery-lite");
+
+                if (galleryLite.length) {
+                    galleryLite.gallery();
+                }
+            }
+        );
+     </script>
+ )
+      
+<div class="gallery-lite-wrap">
+    <ul class="gallery-lite no-borders">
+    
+    
+      <!--  -->
+      
+      
+      
+        <li class="gallery-item">
+            <figure>
+                <img src="/cdn/static/cms/images/old-street-main-entrance-day.jpg" alt="Old Street" />
+                <figcaption>
+<span class="figure-title">Old Street</span>
+<span class="figure-description">Main entrance view - day time</span>
+                </figcaption>
+            </figure>
+        </li>
+    
+      <!--  -->
+      
+      
+      
+        <li class="gallery-item">
+            <figure>
+                <img src="/cdn/static/cms/images/old-street-main-entrance-night.jpg" alt="Old Street" />
+                <figcaption>
+<span class="figure-title">Old Street</span>
+<span class="figure-description">Main entrance view - night time</span>
+                </figcaption>
+            </figure>
+        </li>
+    
+  </ul>
+</div>
  <div>
 
 <h2>What we're doing</h2>
@@ -114,9 +165,9 @@
 <ul>
 	<li>Remove the existing roundabout and close the northwest arm to create a new public space</li>
 	<li>Switch road traffic movements to two-way</li>
-	<li>Remodel the entrances to the Tube station by closing three of the four existing subway entrances and building a new main entrance which will be accessible from the new public space and from Cowper Street - this will replace existing subway entrances</li>
+	<li>Remodel the entrances to the Tube station by closing three of the four existing subway entrances. These will be replaced by two new station entrances,&nbsp;one accessible from Cowper Street and a main station entrance with a green roof to complement the public space and environment</li>
 	<li>Improve facilities for pedestrians and cyclists travelling through the junction with segregated cycle lanes and signal-controlled pedestrian crossings</li>
-	<li>Build a lift connecting the public space to the subway retail concourse, replacing the subway ramps</li>
+	<li>Build two new lifts to the St Agnes Well mall retail concourse.&nbsp;One will be a designated public lift and the other a service lift for the retail business and Tube station</li>
 </ul>
 
 <h2>The works</h2>
@@ -127,7 +178,7 @@
 
 <ul>
 	<li>Completed trial hole investigations on the pedestrianised area of Cowper Street</li>
-	<li>Closed the end of Cowper Street nearest to the roundabout for pedestrians until <strong>November 2019</strong>. This lets us finish these works and build the new Cowper Street station entrance. Diversion signs show how to get into&nbsp;Cowper Street</li>
+	<li>Closed the end of Cowper Street nearest to the roundabout for pedestrians until early 2020. This lets us finish these works and build the new Cowper Street station entrance</li>
 </ul>
 
 <h3>Phase B - advanced highway works</h3>
@@ -141,51 +192,52 @@
 
 <h3>Phase C &#45; main works</h3>
 
-<h4>Since&nbsp;May 2019 we have:</h4>
+<h4>Since May 2019 we have:</h4>
 
 <ul>
 	<li>Closed the southeastern arm of the roundabout to traffic. Two-way traffic is now running around the junction</li>
 	<li>Created dedicated cycle and pedestrian routes through the works site</li>
+	<li>Installed&nbsp;a temporary service lift</li>
+	<li>Completed diversion of a 24-inch Thames Water main</li>
 </ul>
 
 <p>Other works in this phase include:</p>
 
 <ul>
-	<li>Diversion of&nbsp;a 24-inch Thames Water main‎&nbsp;</li>
-	<li>Building&nbsp;the new entrance at Cowper Street and subway works</li>
-	<li>Installation of&nbsp;a temporary service lift</li>
+	<li>Building the new entrance at Cowper Street and subway works</li>
 	<li>Structural works to prepare for construction of new main entrance</li>
+	<li>Highways and drainage works on the southeastern arm</li>
 </ul>
 
 <h3>Phase D - main works</h3>
 
-<h4>November 2019 - October 2020</h4>
+<h4>Spring 2020 - October 2020</h4>
 
 <p>Main works will include:</p>
 
 <ul>
 	<li>Closing the northwestern arm of the roundabout to traffic</li>
 	<li>Building a new main station entrance</li>
-	<li>Building a new lift into St Agnes Well mall</li>
+	<li>Building two new lifts into St Agnes Well mall</li>
 	<li>Transforming the roundabout into a new public space</li>
 	<li>Permanently closing Subways 1 and 3</li>
 </ul>
 
-<p>These works will be&nbsp;done Monday-Saturday, 07:00-19:00 with&nbsp;some night works between 20:30-05:30&nbsp;because of&nbsp;Tube operations.</p>
+<p>These works will be done Monday-Saturday, 07:00-19:00 with some night works between 20:30-05:30 because of Tube operations.</p>
 
 <h2>Public drop-in sessions</h2>
 
-<p>We&nbsp;hold weekly public drop-in sessions to share more about the Old Street roundabout improvement works.</p>
+<p>We hold weekly public drop-in sessions to share more about the Old Street roundabout improvement works.</p>
 
 <p>When:</p>
 
 <ul>
 	<li>Every Monday, 11:00-13:00</li>
 	<li>Every Tuesday, 11:00-13:00</li>
-	<li>Every Wednesday, 16:00-18:00</li>
+	<li>Second and fourth Wednesday of every month, 17:00-19:00</li>
 </ul>
 
-<p>Where: At the retail unit opposite the Old Street Tube station&nbsp;ticket hall, in the subway area (this is known as St Agnes Well)</p>
+<p>Where: Serata Hall, a bar and restaurant at 207 Old Street, London EC1V 9NR (exit the Tube station from Subway 4)</p>
 
 <p>These sessions are run in collaboration with Islington Council.</p>
 
@@ -227,11 +279,7 @@
     </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-      <div class="share-widget-wrapper"></div>
-    
-    
+
    
     
     
@@ -241,9 +289,6 @@
         
 <div id="right-hand-nav" class="expandable-list moving-source-order" role="navigation" aria-labelledby="sub-menu-heading">
         
- 
- 
- 
  
  
  
@@ -432,7 +477,6 @@
 <div class="vertical-button-container">
 
 <a href="/campaign/tube-improvements" class="plain-button">Tube improvement</a>
-<a href="/corporate/about-tfl/what-we-do/roads" class="plain-button">Roads</a>
     </div>
 </div>
  

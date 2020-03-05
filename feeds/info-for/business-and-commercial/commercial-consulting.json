@@ -58,6 +58,24 @@
  "rhnav": {
   "cards": [
    {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
     "template": "advert",
     "link": {
      "image": {}
@@ -67,6 +85,23 @@
    },
    {
     "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "International visits",
+      "url": "/info-for/business-and-commercial/international-visits",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

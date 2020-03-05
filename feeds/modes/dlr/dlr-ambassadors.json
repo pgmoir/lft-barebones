@@ -33,11 +33,56 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Our DLR Community Ambassadors are there to help anyone who uses the DLR.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Initially introduced to encourage locals to explore their surroundings and beyond, the ambassadors were a big success. Not only did they meet the needs of the local community, they also inspired change in transport planning, local borough changes and further DLR growth.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The DLR community\"}",
-     "The DLR runs through five distinctly different communities: Greenwich, Tower Hamlets, Newham, Lewisham and the City of London. Part of our community ambassadors initiative was to bring communities together through transport. We do this by:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Producing a community guide leaflet and dropping it through 250,000 homes on the network. The leaflet covers advice about employment, community centres and health \\u0026 wellbeing options in areas in reach of DLR stations\",\"Employing ambassadors who are fluent in a variety of languages, including Bengali, Yoruba, Urhobo, Hindi, Urdu, and Sylheti\",\"Providing primary schools in the DLR area with ambassadors to give safety talks and presentations\",\"Taking passengers out on a DLR accessibility trip to demonstrate how to use the railway - this is particularly useful for wheelchair and scooter users, as well as anyone with a walking stick or child buggy\",\"Hosting DLR drop-in sessions at local supermarkets, community centres and other locations, every two weeks. These sessions offer information and advice about travelling on the DLR, engineering works and accessibility trips. \\u003ca href=\\\"/modes/dlr/ambassador-open-days\\\"\\u003eFind out about Ambassador open days\\u003c/a\\u003e \"]}"
+     "{\"template\":\"intro\",\"texts\":[\"Our community ambassadors are here to help anyone who uses the DLR. They are fluent in a variety of languages, including Bengali, Yoruba, Urhobo, Hindi, Urdu, and Sylheti.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How community ambassadors can help\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Give safety talks and presentations to primary schools in the DLR area\",\"Take passengers out on a DLR accessibility trip to demonstrate how to use the railway - this is particularly useful for wheelchair and scooter users, as well as anyone with a walking stick or child buggy\",\"Host drop-in sessions at local supermarkets, community centres and other locations, every two weeks. These sessions offer information and advice about travelling on the DLR, engineering works and accessibility trips\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Drop-in sessions\"}",
+     "Our ambassadors can offer information and advice about travelling on the DLR, engineering works and accessibility trips.",
+     "Email \u003ca href=\"mailto:ambassadors@keolisameydlr.co.uk\"\u003eambassadors@keolisameydlr.co.uk\u003c/a\u003e for dates and times of open days at the following locations.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lucy Sabia\"}",
+     "Barking Road, Canning Town E16 4HB",
+     "Nearest DLR: Beckton",
+     "1 Kingsford Way, Beckton E6 5JQ",
+     "Nearest DLR: Beckton",
+     "14 East Ham Manor Way, Beckton E6 5NG",
+     "Nearest DLR: Beckton and Cyprus",
+     "218 Tollgate Road, Beckton  E6 5YA",
+     "Nearest DLR: Beckton",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lorna Samuel\"}",
+     "45 Woolwich New Road, Woolwich SE18 6EU",
+     "Nearest DLR: Woolwich Arsenal",
+     "35 Wellington Street, Woolwich SE18 6HQ",
+     "Nearest DLR: Woolwich Arsenal",
+     "209 Lewisham Road, Lewisham SE13 7PY",
+     "Nearest DLR: Lewisham",
+     "9 Giffin Street, Deptford SE8 4RH",
+     "Nearest DLR: Deptford Bridge",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Mohammed A. Salam\"}",
+     "260 Commercial Road, Shadwell E1 2FB",
+     "Nearest DLR: Shadwell",
+     "Mile End Road, Limehouse E1 4NS",
+     "Nearest DLR: Limehouse",
+     "192-196 Hanbury Street, Shadwell E1 5HU",
+     "Nearest DLR: Shadwell",
+     "3 The Grove, Stratford E15 1EL",
+     "Nearest DLR: Stratford",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Charlene Marks\"}",
+     "2 Cutty Sark Gardens, Greenwich SE10 9LW",
+     "Nearest DLR: Cutty Sark",
+     "10 Stockwell Street, Greenwich SE10 9BD",
+     "Nearest DLR: Cutty Sark",
+     "52 Strattondale Street, Isle of Dogs E14 3HG",
+     "Nearest DLR: Crossharbour",
+     "Westfield Stratford City, 9 Montfichet Road",
+     "Stratford E20 1EE",
+     "Nearest DLR: Stratford",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lynsey Peat\"}",
+     "Churchill Place, Canary Wharf E14 5RB",
+     "Nearest DLR: Heron Quays",
+     "185 E India Dock Road, Poplar E14 6BT",
+     "Nearest DLR: All Saints",
+     "10a Chestnut Plaza, Stratford E20 1GL",
+     "Nearest DLR: Stratford"
     ],
     "link": {
      "image": {}
@@ -50,14 +95,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "DLR",
@@ -65,11 +102,6 @@
      {
       "title": "DLR ambassadors",
       "url": "/modes/dlr/dlr-ambassadors",
-      "image": {}
-     },
-     {
-      "title": "Community Ambassador open days",
-      "url": "/modes/dlr/ambassador-open-days",
       "image": {}
      },
      {
@@ -97,15 +129,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@LondonDLR",
      "image": {}
     },
     "image": {},

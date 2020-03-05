@@ -91,23 +91,10 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Improving the Tube",
     "links": [
-     {
-      "title": "What we've done",
-      "url": "/campaign/tube-improvements/what-we-ve-done",
-      "image": {}
-     },
      {
       "title": "What we're doing",
       "url": "/campaign/tube-improvements/what-we-are-doing",

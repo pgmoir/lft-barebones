@@ -37,18 +37,18 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Analysis of Oyster pay as you go journeys\"}",
      "We publish statistics relating to pay as you go journeys made using Oyster cards. The information is presented by four-weekly accounting periods starting in April 2014 and includes:",
      "{\"template\":\"bulletlist\",\"items\":[\"Numbers of bus and tram journeys; LU/DLR journeys; National Rail journeys\",\"The revenue associated with these journeys\",\"The number of incomplete rail journeys (ie journeys where a customer has only touched in or touched out) and associated revenue, for which a maximum fare is typically charged\",\"Details relating to the various means by which incomplete journeys are corrected and/or refunded when a customer has been charged a maximum fare. This includes:\\u003cstrong\\u003eautomatic completion\\u003c/strong\\u003e , whereby the TfL automatically corrects and/or refunds a maximum fare in certain circumstances,\\u003cstrong\\u003eself-serve refunds\\u003c/strong\\u003e , where customers have applied for a refund through their TfL online account or via the TfL Customer Services helpline and\\u003cstrong\\u003eat stations\\u003c/strong\\u003e , where staff can assist a customer to obtain an Oyster refund\",\"Further information on incomplete journeys and maximum fares is included within the spreadsheet\"]}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Analysis of Oyster pay as you go journeys\",\"url\":\"/cdn/static/cms/documents/analysis-of-oyster-pay-as-you-go-journeys.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 52KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Analysis of Oyster pay as you go journeys\",\"url\":\"/cdn/static/cms/documents/analysis-of-oyster-pay-as-you-go-journeys.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 56KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster card balances \\u0026 refunds\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Oyster card balances and deposits up to March 2019\",\"url\":\"/cdn/static/cms/documents/card-balances-and-deposits-up-to-mar-2019.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 22KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Oyster card balances and deposits up to December 2019\",\"url\":\"/cdn/static/cms/documents/card-balances-and-deposits-up-to-dec-2019.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 24KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Daily breakdown of Oyster card usage\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Daily breakdown of Oyster card usage up to March 2019\",\"url\":\"/cdn/static/cms/documents/daily-breakdown-of-oyster-card-usage-data.pdf\",\"icon\":\"download\",\"size\":\"PDF 755KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Daily breakdown of Oyster card usage up to December 2019\",\"url\":\"/cdn/static/cms/documents/daily-breakdown-of-oyster-card-usage-data.pdf\",\"icon\":\"download\",\"size\":\"PDF 825KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster card sales by outlet\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Oyster card sales by outlet\",\"url\":\"/cdn/static/cms/documents/oyster-card-sales.pdf\",\"icon\":\"download\",\"size\":\"PDF 182KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Oyster card sales by outlet\",\"url\":\"/cdn/static/cms/documents/oyster-card-sales.pdf\",\"icon\":\"download\",\"size\":\"PDF 106KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Incomplete pay as you go with Oyster\"}",
      "We publish the number of journeys made where customers have forgotten to touch in or out (called 'incomplete journeys') and the refunds we have automatically made.",
      "If a customer has not touched out at the end of their journey and been charged a maximum fare, and the journey history of the card suggests an occasional failure to touch out, we try to use the card history to work out their likely destination.",
      "If they are due a refund, it is loaded back onto their Oyster card the next time they touch in or out at the station they use most often. We publish the number of these refunds.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Incomplete pay as you go journeys by station\",\"url\":\"/cdn/static/cms/documents/oyster-incomplete-pay-as-you-go-journeys-by-station.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 176KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Incomplete pay as you go journeys by station\",\"url\":\"/cdn/static/cms/documents/oyster-incomplete-pay-as-you-go-journeys-by-station.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 165KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Photocard schemes\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Photocard schemes usage for the financial year 2018/19\",\"url\":\"/cdn/static/cms/documents/photocard-data.pdf\",\"icon\":\"download\",\"size\":\"PDF 221KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
@@ -62,14 +62,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

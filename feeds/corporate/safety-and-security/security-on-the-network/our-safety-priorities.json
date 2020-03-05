@@ -43,7 +43,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Community Safety Partnership\"}",
      "Our Directorate of Enforcement and On-Street Operations (EOS) is responsible for community safety, enforcement and policing across London's transport system. This means it coordinates a range of schemes that aim to improve safety and security when travelling in London.",
      "EOS works with partners to \u003ca href=\"http://www.atoc.org/\"\u003eRail Delivery Group\u003c/a\u003e .",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.btp.police.uk/\\\"\\u003eBritish Transport Police\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.cityoflondon.police.uk/citypolice/\\\"\\u003eCity of London Police\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.london.gov.uk/\\\"\\u003eGreater London Authority\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.londoncjp.gov.uk/\\\"\\u003eLondon Criminal Justice Partnership\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.londoncouncils.gov.uk/\\\"\\u003eLondon Councils\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.londontravelwatch.org.uk/home/\\\"\\u003eLondon TravelWatch\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://content.met.police.uk/Home\\\"\\u003eMetropolitan Police Service\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.london.gov.uk/what-we-do/mayors-office-policing-and-crime-mopac\\\"\\u003eMayor's Office for Policing and Crime\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.networkrail.co.uk/\\\"\\u003eNetwork Rail\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.tfl.gov.uk\\\"\\u003eTransport for London\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.btp.police.uk/\\\"\\u003eBritish Transport Police\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.cityoflondon.police.uk/citypolice/\\\"\\u003eCity of London Police\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.london.gov.uk/\\\"\\u003eGreater London Authority\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.londoncouncils.gov.uk/\\\"\\u003eLondon Councils\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.londontravelwatch.org.uk/home/\\\"\\u003eLondon TravelWatch\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://content.met.police.uk/Home\\\"\\u003eMetropolitan Police Service\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.london.gov.uk/what-we-do/mayors-office-policing-and-crime-mopac\\\"\\u003eMayor's Office for Policing and Crime\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.networkrail.co.uk/\\\"\\u003eNetwork Rail\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Working with our partners\"}",
      "Our Directorate of Enforcement and On-Street Operations (EOS) is responsible for community safety, enforcement and policing across London's transport system. This means it coordinates a range of schemes that aim to improve safety and security when travelling in London.",
      "EOS works with partners to:",
@@ -62,14 +62,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -117,8 +109,8 @@
     "title": "Related websites",
     "links": [
      {
-      "title": "Safer Transport Command",
-      "url": "http://content.met.police.uk/Site/safertransport",
+      "title": "British Transport Police",
+      "url": "http://www.btp.police.uk/",
       "icon": "external",
       "image": {}
      },

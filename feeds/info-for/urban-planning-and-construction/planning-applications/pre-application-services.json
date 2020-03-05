@@ -42,7 +42,7 @@
      "We'll let you know if your application is suitable for one of our pre-application services. If you're accepted, you pay a fee. All the income we get goes into improving our services.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Initial screening meeting request form\",\"url\":\"/cdn/static/cms/documents/initial-screening-meeting.docx\",\"icon\":\"download\",\"size\":\"DOCX 967KB\",\"image\":{}},{\"title\":\"Referable pre-application meeting request form\",\"url\":\"/cdn/static/cms/documents/referable-pre-application-meeting.docx\",\"icon\":\"download\",\"size\":\"DOCX 970KB\",\"image\":{}},{\"title\":\"Non-referable or follow-up meeting request form\",\"url\":\"/cdn/static/cms/documents/non-referable-follow-up-meeting.docx\",\"icon\":\"download\",\"size\":\"DOCX 967KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Meetings\"}",
-     "Once your fees are paid, we'll organise a meeting with you. This should happen within 20 working days. Your case officer will normally chair the meeting.",
+     "We will issue an invoice for our fees and you will have 28 days to pay. Until we receive your payment, the meeting cannot be organised. Once we receive your payment, we can usually organise the meeting within 20 days. Your case officer will normally chair it and we are happy to discuss the agenda with you.",
      "Depending on your case and if it is referable to the Mayor, our colleagues with specialisms may come to the meeting. We encourage you to allow us to invite the relevant local planning authority and keep them involved in discussions.",
      "There are two types of meeting to choose from: initial screening or pre-application.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Initial screening\"}",
@@ -84,14 +84,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -37,23 +37,26 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"If your vehicle doesn't meet the emissions standards, there are a number of things you can do. Some options can take up to three months to complete.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Please note: Converting to gas or installing a filter does not guarantee your vehicle will \u003ca href=\"/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard\"\u003emeet the ULEZ standards\u003c/a\u003e or the revised LEZ standards effective from 25 October 2020 for \u003ca href=\"https://tfl.gov.uk/modes/driving/low-emission-zone/changes-to-the-lez\"\u003evehicles over 3.5 tonnes\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Convert to gas\"}",
-     "You can choose to convert your vehicle to run on pure gas with a spark ignition, using an approved conversion.",
-     "If your vehicle is registered in Great Britain, you'll need to register the conversion with the DVLA and obtain a certificate from the \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency\"\u003eDriver and Vehicle Standards Agency (DVSA)\u003c/a\u003e , formerly VOSA. Please be aware that vehicles converted to run on bio-diesel don't meet the required emissions standards.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fit emissions reduction technology\"}",
-     "The ULEZ and LEZ schemes allow for some vehicles to retrofit emissions reduction technology to meet the standards.",
-     "Retrofit technologies need to be certified by the government's \u003ca href=\"https://www.energysavingtrust.org.uk/transport/clean-vehicle-retrofit-accreditation-scheme-cvras\"\u003eClean Vehicle Retrofit Accreditation Scheme (CVRAS)\u003c/a\u003e . The CVRAS currently has emissions reduction technologies certified for buses, coaches and refuse vehicles. We expect retrofit technologies to be developed for other specialist heavy vehicles where replacing the vehicle would be very expensive.",
-     "Any HGV, bus, coach or refuse vehicle with emissions reduction technology fitted must have this certified by the CVRAS. Once certified, the owner should notify TfL directly.",
-     "More details on the retrofit accreditation process and suppliers are available on the CVRAS website.",
+     "{\"template\":\"intro\",\"texts\":[\"If your vehicle doesn't meet the Low Emission Zone (LEZ) emissions standards, there are things you may be able to do. Tougher LEZ standards come into force on 26 October 2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Retrofit your vehicle\"}",
+     "You may be able to retrofit your vehicle with emissions reduction technology to meet the current LEZ emissions standards and the tougher LEZ emissions standards from 26 October 2020.",
+     "Use our new checker to see if your vehicle will be affected by \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003echanges to LEZ standards\u003c/a\u003e .",
+     "However, installing a filter does\u003cstrong\u003enot \u003c/strong\u003e guarantee your vehicle will meet these LEZ standards or the \u003ca href=\"/modes/driving/ultra-low-emission-zone/ways-to-meet-the-standard\"\u003eULEZ standards\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Emissions reduction technology\"}",
+     "Emissions reduction technologies include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Selective catalytic reduction, which reduces NOx emissions\",\"Replacement Euro VI engines\",\"Converting a vehicle to electric power\"]}",
+     "Retrofit technologies need to be approved by the Clean Vehicle Retrofit Accreditation Scheme (CVRAS). This government scheme, funded by Defra, establishes common standards for all Clean Air Zone cities.",
+     "CVRAS has certified emissions reduction technologies for many buses, coaches, HGVs, refuse vehicles and most recently, a medium-duty HGV. Retrofits for certain HGV models and for vans over 3.5 tonnes are being developed.",
+     "As retrofits need to be calibrated to specific vehicle models, not all vehicles can be covered. We expect more conversions to be available in the future.",
+     "Information about the retrofit process and a list of suppliers is on \u003ca href=\"https://www.energysavingtrust.org.uk/transport/freight-and-retrofit/clean-vehicle-retrofit-accreditation-scheme-cvras\"\u003ethe CVRAS website\u003c/a\u003e .",
+     "Vehicle operators who have a CVRAS-approved retrofit carried out on their vehicle will need to register with us before driving within the LEZ.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Replace your vehicle\"}",
-     "You could \u003ca href=\"/modes/driving/low-emission-zone/ways-to-meet-the-standards/replace-a-vehicle\"\u003eupgrade to a newer vehicle\u003c/a\u003e that meets the standards or an electric vehicle, or you could convert to gas using an approved conversion.",
+     "You could upgrade to a newer vehicle that meets the standards or an electric vehicle, Find out more about \u003ca href=\"/modes/driving/low-emission-zone/ways-to-meet-the-standards/replace-a-vehicle\"\u003ereplacing your vehicle\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reorganise your fleet\"}",
-     "If you operate a fleet of vehicles, you could reorganise it so that only vehicles meeting the emissions standards are driven within the zone.",
+     "If you operate a fleet of vehicles, you could reorganise it so that only vehicles meeting the emissions standards are driven within the LEZ.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay the daily charge\"}",
-     "We would prefer that your vehicle meets LEZ standards. However, if you're not able to take the measures needed, then you can pay the daily charge to drive within the zone.",
-     " \u003ca href=\"/modes/driving/low-emission-zone/make-a-payment\"\u003eFind out how to pay a LEZ charge.\u003c/a\u003e "
+     "We would prefer that your vehicle meets the LEZ emissions standards. However, if you're not able to take the measures needed, then you can pay the daily charge to drive within the zone.",
+     "Find out how to \u003ca href=\"https://tfl.gov.uk/modes/driving/pay-to-drive-in-london\"\u003epay a LEZ charge\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -97,6 +100,16 @@
      {
       "title": "Check if your vehicle is affected",
       "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+      "url": "/modes/driving/low-emission-zone/lorries-vans-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and specialist diesel vehicles",
+      "url": "/modes/driving/low-emission-zone/vans-minibuses-and-specialist-diesel-vehicles",
       "image": {}
      },
      {
@@ -200,15 +213,6 @@
      }
     ],
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@",
      "image": {}
     },
     "image": {},

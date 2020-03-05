@@ -58,14 +58,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Suppliers \u0026 contractors",
@@ -91,6 +83,11 @@
       "image": {}
      },
      {
+      "title": "Engineering Standards Challenge",
+      "url": "/info-for/suppliers-and-contractors/engineering-standards-challenge",
+      "image": {}
+     },
+     {
       "title": "Supplier relations",
       "url": "/info-for/suppliers-and-contractors/supplier-relations",
       "image": {}
@@ -98,11 +95,6 @@
      {
       "title": "Digital toolkit",
       "url": "/info-for/suppliers-and-contractors/digital-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Health, safety \u0026 environment",
-      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
       "image": {}
      },
      {
@@ -151,14 +143,29 @@
       "image": {}
      },
      {
+      "title": "LU Supplier Handbook",
+      "url": "/info-for/suppliers-and-contractors/supplier-handbook",
+      "image": {}
+     },
+     {
+      "title": "Traffic management",
+      "url": "/info-for/suppliers-and-contractors/traffic-management",
+      "image": {}
+     },
+     {
       "title": "TfL Supplier Awards",
       "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     },
+     {
+      "title": "Zero Harm Forum",
+      "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
       "image": {}
      }
     ],
     "link": {
      "title": "Suppliers \u0026 contractors",
-     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
      "image": {}
     },
     "image": {},

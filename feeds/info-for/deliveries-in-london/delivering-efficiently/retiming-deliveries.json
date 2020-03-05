@@ -85,14 +85,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Efficient deliveries",
@@ -120,11 +112,6 @@
      {
       "title": "Delivering legally",
       "url": "/info-for/deliveries-in-london/delivering-legally",
-      "image": {}
-     },
-     {
-      "title": "Protecting the environment",
-      "url": "/info-for/deliveries-in-london/protecting-the-environment",
       "image": {}
      },
      {

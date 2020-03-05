@@ -46,23 +46,10 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Help \u0026 contacts",
     "links": [
-     {
-      "title": "Maintenance",
-      "url": "/help-and-contact/maintenance",
-      "image": {}
-     },
      {
       "title": "Technical problems",
       "url": "/help-and-contact/technical-problems",
@@ -227,11 +214,16 @@
       "title": "We're doing maintenance for Santander Cycles",
       "url": "/help-and-contact/maintenance-for-santander-cycles",
       "image": {}
+     },
+     {
+      "title": "Reset your password",
+      "url": "/help-and-contact/reset-your-password",
+      "image": {}
      }
     ],
     "link": {
      "title": "Help \u0026 contacts",
-     "url": "/help-and-contact/maintenance-for-santander-cycles",
+     "url": "/help-and-contact/reset-your-password",
      "image": {}
     },
     "image": {},

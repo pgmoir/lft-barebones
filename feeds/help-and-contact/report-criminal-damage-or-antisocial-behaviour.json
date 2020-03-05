@@ -35,6 +35,8 @@
     "texts": [
      "{\"template\":\"bulletlist\",\"items\":[\"Badge number of driver\",\"Registration number of taxi or minicab\",\"Plate number of private hire vehicle\",\"Contact details of police or witnesses\",\"Details of operator through which your minicab was booked\"]}",
      "Send us your enquiry or feedback by completing the form below. We aim to respond to you within 10 working days.",
+     "If you see a problem with graffiti or flyposting on bus stops and shelters, traffic lights and other street equipment, the quickest way to let us know is to \u003ca href=\"https://streetcare.tfl.gov.uk/\"\u003ereport a problem with our street care reporting tool.\u003c/a\u003e ",
+     "For graffiti or flyposting on Underground, TfL Rail, Tram and London Overground services, please use the form below.",
      "Transport for London (TfL), its subsidiaries and service providers will use the personal information you provide on this form to process your feedback, to investigate the incident you have reported and provide you with a response. We may contact you to ask for further information where we need it to fully investigate your complaint. Some of the details about incidents reported on this form may be made publicly available to avoid duplicate reports being made by other users. Your contact details will not be published and will be available only to the officer dealing with the case. Please note that you do not need to provide any personal data and you may submit a complaint anonymously if you wish. However, if you do this, it will limit the extent to which TfL, or its partners, can reply or keep you informed about the progress of your complaint. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data please visit www.tfl.gov.uk/privacy",
      "Thank you for submitting this form. We will get back to you within 10 working days."
     ],
@@ -48,14 +50,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

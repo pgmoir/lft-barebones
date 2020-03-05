@@ -33,13 +33,13 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Our latest Business Plan was approved by the Finance Committee on Thursday 13 December 2018. It covers our plans for the transport network over the five years to 2023/24. Our latest Budget for 2019/20 was approved by the TfL Board on 27 March 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Business Plan December 2018\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Business Plan December 2018\",\"url\":\"/cdn/static/cms/documents/tfl-business-plan-2019-24.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.50MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/business-plan-2018-cover.jpg\",\"alt\":\"cover of tfl business plan 2019/20\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Our latest Business Plan was approved by the Finance Committee on 18 December 2019. It covers our plans for the transport network over the five years to 2024/25. Our latest Budget for 2019/20 was approved by the TfL Board on 27 March 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Business Plan December 2019\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Business Plan December 2019\",\"url\":\"/cdn/static/cms/documents/tfl-business-plan-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 12.90MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cover-business-plan-2019.jpg\",\"alt\":\"Transport for London Business Plan 2019 front cover image\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Budget 2019/20\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Budget 2019/20\",\"url\":\"/cdn/static/cms/documents/tfl-budget-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.09MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-budget-2019-thumb.gif\",\"alt\":\"TfL Budget 2019/20\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Treasury management strategy\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Treasury management strategy 2019/20\",\"url\":\"/cdn/static/cms/documents/tfl-treasury-management-strategy-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Treasury management policies and practices\",\"url\":\"/cdn/static/cms/documents/treasury-management-policies-and-practices.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Policy relating to the use of derivative investments 2019/20\",\"url\":\"/cdn/static/cms/documents/policy-relating-to-the-use-of-derivative-investments-2018-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 27KB\",\"image\":{}},{\"title\":\"TfL Prudential Indicators 2019/20 to 2021/22\",\"url\":\"/cdn/static/cms/documents/prudential-indicators-2019-20-to-2021-22.pdf\",\"icon\":\"download\",\"size\":\"PDF 52KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Treasury management strategy 2019/20\",\"url\":\"/cdn/static/cms/documents/tfl-treasury-management-strategy-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Treasury management policies and practices\",\"url\":\"/cdn/static/cms/documents/treasury-management-policies-and-practices.pdf\",\"icon\":\"download\",\"size\":\"PDF 34KB\",\"image\":{}},{\"title\":\"Policy relating to the use of derivative investments 2019/20\",\"url\":\"/cdn/static/cms/documents/policy-relating-to-the-use-of-derivative-investments-2018-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 27KB\",\"image\":{}},{\"title\":\"TfL Prudential Indicators 2019/20 to 2021/22\",\"url\":\"/cdn/static/cms/documents/prudential-indicators-2019-20-to-2021-22.pdf\",\"icon\":\"download\",\"size\":\"PDF 52KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -51,14 +51,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

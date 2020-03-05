@@ -1,6 +1,6 @@
 {
  "pageTitle": "Cycleway 4",
- "keywords": "C,City of London,Greenwich,Lewisham,Southwark,Cycle Superhighways,Cycleways,Cycling,TfL",
+ "keywords": "C,City of London,Greenwich,Lewisham,Southwark,Consultation,Cycle Superhighways,Cycleways,Cycling,TfL",
  "description": "Cycleway 4 will give cyclists a continuous segregated route between Tower Bridge and Greenwich, and improve pedestrian facilities and public spaces",
  "template": "page-content",
  "breadcrumbs": [
@@ -33,7 +33,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Cycleway 4 will create a continuous segregated cycle route between Tower Bridge and Greenwich, and improve facilities for people walking and public spaces. We plan to start construction on the Tooley Street and Jamaica Road sections in July 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Cycleway 4 will create a continuous segregated cycle route between Tower Bridge and Greenwich, and improve public spaces and facilities for people who are walking. We plan to finish the Tooley Street and Jamaica Road sections in spring 2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Find out how your journey may be affected on the \u003ca href=\"/status-updates/major-works-and-events/cycleway-4\"\u003eCycleway 4 travel page\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits of Cycleway 4\"}",
      "Cycleway 4 will create a clearer and safer route for cycling on roads in Bermondsey, Rotherhithe, Deptford and Greenwich. New pedestrian crossings will also be added and public spaces improved to make these areas more pleasant to live, work, shop and spend time in.",
@@ -43,12 +43,12 @@
      "Our proposals for Cycleway 4 include:",
      "{\"template\":\"bulletlist\",\"items\":[\"Two-way segregated cycle track on Tooley Street, Jamaica Road, Evelyn Street and Creek Road\",\"Five new signal-controlled pedestrian crossings and upgrades to over 20 existing pedestrian crossings\",\"Building on the recent short-term improvements at Rotherhithe roundabout by redesigning the roundabout to improve safety as part of our \\u003ca href=\\\"/campaign/our-plan-for-londons-roads\\\"\\u003eSafer Junctions programme\\u003c/a\\u003e \",\"Installing a new eastbound bus gate on the Jamaica Road approach to Rotherhithe roundabout. This will give buses priority at the roundabout and give them easier access into Lower Road\",\"New and improved public spaces at Deptford High Street and Rotherhithe roundabout, including new paving and trees\",\"New traffic restrictions including banned turns on some side roads along Jamaica Road and at Deptford High Street\",\"Changes to some bus stop layouts and locations, including new bus stop bypasses for cyclists\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Change of name\"}",
-     "Cycleway 4 was called Cycle Superhighway 4. Throughout 2019 we will be combining most Cycle Superhighways and Quietways into the single Cycleways network.",
+     "Cycleway 4 was called Cycle Superhighway 4. Throughout 2019 we will be combining most Cycle Superhighways and Quietways into the single \u003ca href=\"/modes/cycling/routes-and-maps/cycleways\"\u003eCycleways network\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consultation\"}",
      "We consulted on proposals for what will be Cycleway 4 in autumn 2017. See our response to issues raised during the consultation on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/cs4/\"\u003eCycle Superhighway 4 consultation page\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lower Road\"}",
-     "We plan to carry out a joint consultation with Southwark Council later in 2019 on detailed proposals for the Lower Road section of the route, together with their proposals to remove the existing gyratory there.",
-     "Depending on the results of that consultation, construction would start on the Lower Road section in 2020."
+     "Southwark Council consulted on detailed proposals for the Lower Road section of the route in July-October 2019. This included their proposals to make some roads in the area two-way.",
+     "Find out more on \u003ca href=\"https://consultations.southwark.gov.uk/planning-and-regeneration/lower-road/\"\u003eSouthwark Council's Lower Road consultation page\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -60,14 +60,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -90,7 +82,7 @@
     "title": "Also on this site",
     "links": [
      {
-      "title": "Cycle Superhighway 9",
+      "title": "Cycleway 9",
       "url": "/travel-information/improvements-and-projects/cycle-superhighway-9",
       "icon": "internal",
       "image": {}
@@ -102,8 +94,8 @@
       "image": {}
      },
      {
-      "title": "Cycle Superhighways",
-      "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
+      "title": "Cycleways",
+      "url": "/modes/cycling/routes-and-maps/cycleways",
       "icon": "internal",
       "image": {}
      }

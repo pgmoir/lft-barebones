@@ -35,9 +35,12 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"The committee reviews the effectiveness of the system of internal controls and considers fraud and risk management issues. It also reviews the Annual Report and Accounts prior to submission to the Board.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Members: Anne McMeel (Chair), Dr Lynn Sloman (Vice Chair), Kay Carberry CBE, Dr Mee Ling Ng OBE, Dr Nelson Ogunshakin OBE",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2020 meeting papers meeting papers\"}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2019 meeting papers\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Agenda and papers 14 March 2019\",\"url\":\"/cdn/static/cms/documents/audit-and-assurance-committee-agenda-papers.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.90MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Updated Audit and Assurance Annual Report 2018 19\",\"url\":\"/cdn/static/cms/documents/aac-20190610-part-1-item14a-risk-and-assurance-annual-report-updated-post-meeting.pdf\",\"icon\":\"download\",\"size\":\"PDF 119KB\",\"image\":{}},{\"title\":\"Agenda and papers 10 June 2019\",\"url\":\"/cdn/static/cms/documents/aac-20191006-agenda-and-papers-updated-v2.pdf\",\"icon\":\"download\",\"size\":\"PDF 20.97MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Freedom of Information Update - Amended\",\"url\":\"/cdn/static/cms/documents/freedom-of-information-update-amended-appendix-3.pdf\",\"icon\":\"download\",\"size\":\"PDF 42KB\",\"image\":{}},{\"title\":\"Agenda and papers 26 September 2019\",\"url\":\"/cdn/static/cms/documents/aac-20190926-agenda-and-papers.pdf\",\"icon\":\"download\",\"size\":\"PDF 12.38MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Supplementary agendas and papers - 3 December 2019\",\"url\":\"/cdn/static/cms/documents/aac-20191203-aac-supplementary-agenda.pdf\",\"icon\":\"download\",\"size\":\"PDF 238KB\",\"image\":{}},{\"title\":\"agendas and papers 3 December 2019\",\"url\":\"/cdn/static/cms/documents/aac-20191203-audit-and-assurance-committee.pdf\",\"icon\":\"download\",\"size\":\"PDF 18.98MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Previous final internal audit reports\"}",
      "You can get previous copies of internal audit reports by emailing \u003ca href=\"mailto:internalaudit@tfl.gov.uk\"\u003einternalaudit@tfl.gov.uk\u003c/a\u003e . We will always share the reports with you, unless there are specific legal or commercial grounds for confidentiality.",
      "TfL's decision-making structure and proceedings, together with Schemes of Delegation and Authorities, are laid out in the TfL standing orders. The TfL committees and panels document sets out the terms of reference for each committee and panel. Both TfL's standing orders and TfL committees and panels documents can be found on the \u003ca href=\"/corporate/publications-and-reports/standing-orders\"\u003eStanding orders page\u003c/a\u003e .",
@@ -55,14 +58,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

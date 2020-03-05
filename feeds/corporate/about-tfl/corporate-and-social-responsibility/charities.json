@@ -69,14 +69,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Corporate social responsibility",
@@ -92,19 +84,24 @@
       "image": {}
      },
      {
-      "title": "Equality \u0026 inclusion",
+      "title": "Equality and inclusion",
       "url": "/corporate/about-tfl/corporate-and-social-responsibility/equality-and-inclusion",
       "image": {}
      },
      {
-      "title": "Transport \u0026 health",
+      "title": "Transport and health",
       "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "image": {}
+     },
+     {
+      "title": "Reducing noise and vibration",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration",
       "image": {}
      }
     ],
     "link": {
      "title": "Corporate social responsibility",
-     "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration",
      "image": {}
     },
     "image": {},

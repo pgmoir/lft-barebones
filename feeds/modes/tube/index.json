@@ -26,17 +26,17 @@
  "body": {
   "primarys": [
    {
-    "style": "card-top ",
-    "title": "Download the free TfL Oyster and contactless app",
+    "style": "card-top card-tube",
+    "title": "How we're improving the Tube",
     "texts": [
-     "Top up anytime, anywhere. Find out more"
+     "Including new easy-to-use ticket machines. Piece of cake"
     ],
     "link": {
-     "url": "/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app",
+     "url": "/campaign/tube-improvements",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/oyster-app-header.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/revealing-underground-livery.jpg"
     },
     "wrapped": false
    },
@@ -167,7 +167,7 @@
      },
      {
       "title": "Bikes on public transport",
-      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
       "icon": "internal",
       "image": {}
      }

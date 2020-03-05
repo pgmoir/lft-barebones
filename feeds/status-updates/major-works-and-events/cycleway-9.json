@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Cycleway 9",
+ "keywords": "TfL",
+ "description": "TfL Travel advice for construction of Cycleway 9 London cycling route",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Cycleway 9"
+  }
+ ],
+ "title": {
+  "title": "Cycleway 9",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are constructing Cycleway 9 in West London. Here's how your journey may be affected.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Find out more about \u003ca href=\"/travel-information/improvements-and-projects/cycle-superhighway-9\"\u003eCycleway 9\u003c/a\u003e .",
+     "The phase of works near Kew Bridge is due to finish in late autumn 2020.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Traffic impact map - Kew Bridge area\",\"url\":\"/cdn/static/cms/documents/cycleway9-kew-bridge-impact-area.pdf\",\"icon\":\"download\",\"size\":\"PDF 517KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "These changes will affect all road vehicles, including private cars, delivery vehicles, taxis and private hire vehicles and coaches.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Until late autumn 2020\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There will be lane closures at the junction and approaches 24 hours a day\",\"Expect delays while travelling on the A406 onto Chiswick High Road, eastbound on the A315 Kew Bridge Road, and on Kew Bridge\"]}",
+     "Please plan ahead and allow more time for your journey. If possible, travel outside peak periods or consider alternative ways of travelling.",
+     "If your business receives deliveries by road, find out more about \u003ca href=\"/info-for/deliveries-in-london/delivering-efficiently\"\u003ehow changing your deliveries\u003c/a\u003e can improve efficiency.",
+     "For the latest information on how London roads are operating, see our \u003ca href=\"https://tfl.gov.uk/traffic/status\"\u003etraffic status updates map.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Expect delays on routes \\u003ca href=\\\"https://tfl.gov.uk/bus/route/65/?direction=inbound\\\"\\u003e65\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/route/235/?direction=outbound\\\"\\u003e235\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/route/237/?direction=outbound\\\"\\u003e237\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/route/267/?direction=outbound\\\"\\u003e267\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/route/391/?direction=outbound\\\"\\u003e391\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/route/n9/?Input=N9+towards+Aldwych\\u0026direction=inbound\\\"\\u003eN9\\u003c/a\\u003e , and \\u003ca href=\\\"https://tfl.gov.uk/bus/route/n65/?direction=outbound\\\"\\u003eN65\\u003c/a\\u003e \",\"Bus stops will be temporarily closed at times - signs will direct you to the nearest stop\"]}",
+     "For the latest information on how buses are running, see our \u003ca href=\"https://tfl.gov.uk/bus/status\"\u003ebus status updates\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Signs will help you through the works\",\"We will regularly review our traffic management to provide the safest environment possible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"We will keep footpaths and pedestrian crossings open wherever possible\",\"We may need to make some temporary closures or diversions at times. Signs will guide you safely through the works area\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other transport\"}",
+     "Tube, London Overground and National Rail Services are not affected by the works and will be the best ways to make journeys to the area. Please ensure you \u003ca href=\"/plan-a-journey/index\"\u003eplan your journey\u003c/a\u003e ahead of time, and check before you travel."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

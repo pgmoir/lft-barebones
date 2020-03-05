@@ -45,7 +45,7 @@
      "When setting these up click the help links as you need upper case, lower case, numbers and symbols in some of these.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Log in\"}",
      "If you have already registered for member web service, please follow the link below to log in: \u003ca href=\"https://www.pensions.tfl.gov.uk/PWPUser/Account/Login?ReturnUrl=%2FPWPUser%2F\"\u003ehttps://www.pensions.tfl.gov.uk/PWPUser/Account/Login?ReturnUrl=%2FPWPUser%2F\u003c/a\u003e ",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Pensions web portal help\",\"url\":\"/cdn/static/cms/documents/tflpf-guide-to-the-pension-web-portal.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.48MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Pensions web portal help\",\"url\":\"/cdn/static/cms/documents/pension-web-portal-help-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.48MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -57,14 +57,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -168,6 +160,26 @@
      {
       "title": "Annual report on Sustainable Investing published",
       "url": "/pensions/news-and-publications/annual-report-on-sustainable-investment-published",
+      "image": {}
+     },
+     {
+      "title": "Annual Members' Meeting 2019",
+      "url": "/pensions/news-and-publications/annual-members-meeting-2019",
+      "image": {}
+     },
+     {
+      "title": "Pension fund office move",
+      "url": "/pensions/news-and-publications/pension-fund-office-move",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2019",
+      "url": "/pensions/news-and-publications/pcc-election-results-2019",
+      "image": {}
+     },
+     {
+      "title": "Maximising Additional Voluntary Contributions for 2019/20",
+      "url": "/pensions/news-and-publications/maximising-additional-voluntary-contributions-for-2019-20",
       "image": {}
      },
      {

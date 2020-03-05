@@ -1,7 +1,7 @@
 {
  "pageTitle": "Low Emission Zone",
  "keywords": "Bus operators,Businesses,Coach drivers,Drivers,Freight industry,Planning and construction,Public,Schools and young people,Suppliers,Buses,Coaches,Driving,LEZ,Low Emission Zone ,TfL",
- "description": "Drivers of heavy diesel vehicles may have to pay to dirve within Greater London",
+ "description": "Drivers of heavier diesel vehicles may have to pay to drive within Greater London",
  "template": "page-cards",
  "breadcrumbs": [
   {
@@ -24,7 +24,8 @@
   "card": {
    "texts": [
     "The Low Emission Zone (LEZ) operates to encourage the most polluting heavy diesel vehicles driving in London to become cleaner. The LEZ covers most of Greater London and is in operation 24 hours a day, every day of the year.",
-    "The LEZ is separate from the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e which is now in place in central London."
+    " \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003eTougher LEZ standards\u003c/a\u003e are coming on 26 October 2020 for heavy vehicles including HGVs, lorries, vans, buses, coaches, minibuses and other specialist diesel vehicles.",
+    "The LEZ is separate from the \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ)\u003c/a\u003e which is in place in central London and operates 24 hours a day, every day of the year except Christmas Day."
    ],
    "link": {
     "image": {}
@@ -61,7 +62,7 @@
    {
     "title": "Check if your vehicle is affected",
     "texts": [
-     "Find out which vehicles are affected and check yours"
+     "Find out which vehicles are affected by current and changing standards"
     ],
     "link": {
      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
@@ -73,24 +74,24 @@
     "wrapped": false
    },
    {
-    "title": "What are my options?",
+    "title": "LEZ: Where and when",
     "texts": [
-     "If your vehicle doesn't meet the emissions standards, there are a number of things you can do"
+     "Find out where, when and how the zone operates and changes for the future"
     ],
     "link": {
-     "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+     "url": "/modes/driving/low-emission-zone/about-the-lez",
      "image": {}
     },
     "image": {},
     "wrapped": false
    },
    {
-    "title": "Changing LEZ standards",
+    "title": "What are my options?",
     "texts": [
-     "In 2020 LEZ standards will be raised to equal ULEZ standards"
+     "If your vehicle doesn't meet the emissions standards, there are a number of things you can do"
     ],
     "link": {
-     "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+     "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
      "image": {}
     },
     "image": {},
@@ -111,12 +112,6 @@
       "url": "/modes/driving/congestion-charge",
       "icon": "internal",
       "image": {}
-     },
-     {
-      "title": "Roads",
-      "url": "/corporate/about-tfl/what-we-do/roads",
-      "icon": "internal",
-      "image": {}
      }
     ],
     "link": {
@@ -126,16 +121,16 @@
     "wrapped": false
    },
    {
-    "title": "LEZ: Where and when",
+    "title": "Changes to the LEZ from 26 October 2020",
     "texts": [
-     "Find out where, when and how the zone operates and changes for the future"
+     "Check for the tougher standards and find out how to prepare"
     ],
     "link": {
-     "url": "/modes/driving/low-emission-zone/about-the-lez",
+     "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/x001-00086-driving-lez-sign_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/low-emission-zone-image_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -184,6 +179,12 @@
       "url": "/corporate/terms-and-conditions/pay-to-drive-in-london",
       "icon": "internal",
       "image": {}
+     },
+     {
+      "title": "Avoid payment fraud",
+      "url": "/unofficial-selling-websites",
+      "icon": "internal",
+      "image": {}
      }
     ],
     "link": {
@@ -223,6 +224,16 @@
      {
       "title": "Check if your vehicle is affected",
       "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+      "url": "/modes/driving/low-emission-zone/lorries-vans-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and specialist diesel vehicles",
+      "url": "/modes/driving/low-emission-zone/vans-minibuses-and-specialist-diesel-vehicles",
       "image": {}
      },
      {

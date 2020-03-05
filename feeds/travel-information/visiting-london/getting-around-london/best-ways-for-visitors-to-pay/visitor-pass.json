@@ -47,9 +47,9 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buying your pass\"}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/visitor-pass_rdax_400x250.jpg\",\"alt\":\"Hand holding a Visitor Pass with Big Ben, the Houses of Parliament and a London bus in the background.\"},\"wrapped\":false}",
      "Our Visitor Pass is available for adults and children (age 11-15):",
-     "{\"template\":\"bulletlist\",\"items\":[\"2 Day Adult - £25.40\",\"2 Day Child - £12.60\",\"3 Day Adult - £38.10\",\"3 Day Child - £18.90\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"2 Day Adult - £27.00\",\"2 Day Child - £13.40\",\"3 Day Adult - £40.50\",\"3 Day Child - £20.10\"]}",
      "You can buy your pass at a number of \u003ca href=\"/modes/tube/index\"\u003eTube stations\u003c/a\u003e and \u003ca href=\"/travel-information/visiting-london/getting-around-london/visitor-centres\"\u003eVisitor Centres\u003c/a\u003e :",
-     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eTube stations\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eVisitor Centres\\u003c/strong\\u003e \"],[\"Baker Street\",\"Heathrow Terminals 2 \\u0026 3\"],[\"Bayswater\",\"King's Cross\"],[\"Earl's Court\",\"Liverpool Street\"],[\"Euston\",\"Paddington\"],[\"Gloucester Road\",\"Piccadilly Circus\"],[\"Heathrow Terminals 2 \\u0026 3\",\"Victoria\"],[\"Heathrow Terminal 4\",\"\"],[\"King's Cross\",\"\"],[\"Liverpool Street\",\"\"],[\"London Bridge\",\"\"],[\"Marble Arch\",\"\"],[\"Paddington\",\"\"],[\"Queensway\",\"\"],[\"Russell Square\",\"\"],[\"South Kensington\",\"\"],[\"Victoria\",\"\"],[\"Waterloo\",\"\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eTube stations\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eVisitor Centres\\u003c/strong\\u003e \"],[\"Baker Street\",\"Heathrow Terminals 2 \\u0026 3\"],[\"Bayswater\",\"King's Cross\"],[\"Earl's Court\",\"Liverpool Street\"],[\"Euston\",\"Piccadilly Circus\"],[\"Gloucester Road\",\"Victoria\"],[\"Heathrow Terminals 2 \\u0026 3\",\"\"],[\"Heathrow Terminal 4\",\"\"],[\"King's Cross\",\"\"],[\"Liverpool Street\",\"\"],[\"London Bridge\",\"\"],[\"Marble Arch\",\"\"],[\"Paddington\",\"\"],[\"Queensway\",\"\"],[\"Russell Square\",\"\"],[\"South Kensington\",\"\"],[\"Victoria\",\"\"],[\"Waterloo\",\"\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Off-peak travel\"}",
      "Your Visitor Pass is only valid for off-peak travel which starts from 09:30 Monday to Friday, and for journeys starting before 04:30 the following day. It's also valid anytime on Saturdays, Sundays and bank holidays.",
      "You can travel in Zones 1-6 on each day from the start date printed on your pass, to the expiry date.",
@@ -70,14 +70,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

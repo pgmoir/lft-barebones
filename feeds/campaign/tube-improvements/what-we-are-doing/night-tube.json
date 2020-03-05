@@ -41,7 +41,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The Night Tube is running Fridays and Saturdays on the Victoria, Jubilee, and most of the Central, Northern and Piccadilly lines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"The Night Tube runs on Fridays and Saturdays on the Victoria, Jubilee, and most of the Central, Northern and Piccadilly lines.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/standard-night-tube-map_rdax_400x250.gif\",\"alt\":\"Night Tube map\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Service details\"}",
      "\u003cstrong\u003eVictoria line\u003c/strong\u003e - trains run on average every 10 minutes across the entire line",
@@ -76,7 +76,7 @@
      "Demand for a 24-hour Tube service is clear - late night Tube use has increased at double the rate of day-time trips and Night bus usage has risen by 173% since 2000. There are already over half a million users of the Tube after 22:00 on Fridays and Saturdays.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Full report - Impact of the Night Tube on London's night-time economy\",\"url\":\"/cdn/static/cms/documents/night-time-economy.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.38MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"Wifi on the Underground\",\"texts\":[\"Available at over 250 stations. Find out more\"],\"link\":{\"url\":\"/campaign/station-wifi\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Wi-Fi on the Tube\",\"texts\":[\"Available at over 250 stations. Find out more\"],\"link\":{\"url\":\"/campaign/station-wifi\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Tube Improvements\",\"texts\":[\"How the Tube is being updated to provide more capacity for a growing city\"],\"link\":{\"url\":\"/campaign/tube-improvements\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
@@ -91,23 +91,10 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Improving the Tube",
     "links": [
-     {
-      "title": "What we've done",
-      "url": "/campaign/tube-improvements/what-we-ve-done",
-      "image": {}
-     },
      {
       "title": "What we're doing",
       "url": "/campaign/tube-improvements/what-we-are-doing",
@@ -132,16 +119,11 @@
       "title": "The Night Tube",
       "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
       "image": {}
-     },
-     {
-      "title": "Behind the scenes",
-      "url": "/campaign/tube-improvements/behind-the-scenes",
-      "image": {}
      }
     ],
     "link": {
      "title": "Improving the Tube",
-     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
      "image": {}
     },
     "image": {},

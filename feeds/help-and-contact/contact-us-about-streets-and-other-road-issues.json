@@ -34,9 +34,12 @@
     "template": "content",
     "texts": [
      "{\"template\":\"bulletlist\",\"items\":[\"Badge number of driver\",\"Registration number of taxi or minicab\",\"Plate number of private hire vehicle\",\"Contact details of police or witnesses\",\"Details of operator through which your minicab was booked\"]}",
-     "To tell us about an urgent safety matter, call 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003ecall charges may apply\u003c/a\u003e ) or select the 'safety issues and incidents' option on the form below.",
+     "If you see a safety issue that's on this list, the quickest way to let us know is to \u003ca href=\"https://streetcare.tfl.gov.uk/\"\u003ereport a problem with our street care reporting tool.\u003c/a\u003e ",
+     "You can use the tool to report:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus stops and shelters\",\"Graffiti and flyposting\",\"Hoardings and scaffolding\",\"Litter\",\"Mobile cranes\",\"Roadworks\",\"Road, cycleway and footway defects\",\"Street lights and traffic lights\",\"Trees\"]}",
+     "If you'd prefer to contact us directly, or if you see an issue that's not on the list, you can:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Call 0343 222 1234 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003ecall charges may apply\\u003c/a\\u003e )\",\"Fill out this form. Select the 'Safety issues and incidents' option at the start\"]}",
      "For all non-safety critical matters, we aim to respond to you within 10 working days.",
-     "This form is for all queries to do with roads and streets,\u003cstrong\u003eexcept for \u003c/strong\u003e  \u003ca href=\"https://tflportal.icasework.com/form?\u0026Login=false\u0026Type=Roadworks\u0026NoAbout=Yes\"\u003ereporting roadworks.\u003c/a\u003e ",
      "Transport for London (TfL), its subsidiaries and service providers will use your personal information for the purposes of processing your feedback, providing you with a response, or the information or services you have requested, and the provision of travel related information. On some occasions, we may need to share your information with associated organisations or their agents for these purposes. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation. To find out more about how TfL handles personal data, see our \u003ca href=\"/corporate/privacy-and-cookies/index\"\u003ePrivacy and cookies pages\u003c/a\u003e .",
      "Thank you for submitting this form. We aim to get back to you within 10 working days."
     ],
@@ -50,14 +53,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

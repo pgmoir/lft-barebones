@@ -34,8 +34,8 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Make your trip to London even more memorable by taking advantage of our unique transport services, unmissable attractions, and special offers for visitors.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Experience London blog\"}",
-     "Read about London's hidden gems, big attractions and exciting things to do",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Wonderful wintertime\"}",
+     "With so many winter activities to enjoy in London there's no need to hibernate",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"title\":\"Where will your bus take you?\",\"texts\":[\"Explore London's attractions on one of our bus leisure routes\"],\"link\":{\"url\":\"/travel-information/visiting-london/experience-london/bus-leisure-routes\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/bus-leisure-routes-teaser_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"style\":\"card-visitor\",\"title\":\"River buses and tours\",\"texts\":[\"Explore London by river and escape through the heart of the city\"],\"link\":{\"url\":\"/modes/river/index\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/rivers-image-visiting_rdax_400x200.jpg\"},\"wrapped\":true}",
@@ -60,14 +60,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

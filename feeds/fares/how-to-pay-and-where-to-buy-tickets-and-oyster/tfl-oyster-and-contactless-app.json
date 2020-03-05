@@ -38,6 +38,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Our free app lets you manage your contactless and Oyster cards on the go.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-app_rdax_400x250.jpg\",\"alt\":\"Oyster card on a yellow background\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why use the app?\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Top up your pay as you go credit and get notifications when it gets low\",\"Check your journey history\",\"See if you have incomplete journeys\",\"Buy adult rate \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003eTravelcards\\u003c/a\\u003e and \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Passes\\u003c/a\\u003e valid between seven days and 12 months\",\"Get notifications before your Travelcard and Bus \\u0026 Tram Pass expires\",\"Manage multiple season tickets and cards on the go\"]}",
      "We're developing new features:",
@@ -45,7 +46,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Download the app\"}",
      " \u003ca href=\"https://itunes.apple.com/gb/app/tfl-oyster/id1179420088\"\u003eimg\u003c/a\u003e  \u003ca href=\"https://play.google.com/store/apps/details?id=uk.gov.tfl.oystercontactless\"\u003eimg\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to top up\"}",
-     "{\"template\":\"video\",\"style\":\"IK3-k9NZl9o\",\"title\":\"How to top up with the app\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/app-top-up.jpg\",\"alt\":\"Pound sign pointing to an Oyster card, then 30 minutes on a clock, then the Oyster card touching a yellow card reader\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"First-generation Oyster cards\"}",
      "If you have an older, \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app/first-generation-oyster-cards\"\u003efirst-generation Oyster card\u003c/a\u003e , you can't use it with the app.",
      "You can \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/buying-tickets-and-oyster\"\u003ereplace it with a new Oyster card \u003c/a\u003e to use the app.",
@@ -62,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -1,0 +1,61 @@
+{
+ "pageTitle": "Direct Vision Standard and Safety Permit for HGVs",
+ "keywords": "TfL",
+ "description": "Terms \u0026 conditions for the Direct Vision Standard and Safety Permit for HGVs",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Terms \u0026 conditions",
+   "url": "/corporate/terms-and-conditions/index"
+  },
+  {
+   "title": "Direct Vision Standard and Safety Permit for HGVs"
+  }
+ ],
+ "title": {
+  "title": "Direct Vision Standard and Safety Permit for HGVs",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Conditions for the HGV Safety Permit scheme.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Greater London (restriction of goods vehicles) Traffic Order 1985\"}",
+     "London HGV Safety Permit Scheme",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"HGV Safety Permit Conditions\",\"url\":\"/cdn/static/cms/documents/hgv-safety-permit-conditions.pdf\",\"icon\":\"download\",\"size\":\"PDF 172KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

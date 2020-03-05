@@ -63,6 +63,7 @@
      "We retain data about the individual journeys made using contactless payment for 13 months after the card is used. This is the case whether or not you have added the card to an online account. After this time, the journey data in the ticketing system is disassociated from your payment card (ie pseudonymised). This 13 month period is necessary because the details of your journey and payment cannot be separated and, like other retailers, TfL has to retain this transaction data in accordance with financial service industry regulations.",
      "You have the option to disassociate a contactless payment card from your online account at any time. If you ask us to do this, details of the card will also be disassociated from your other personal information.",
      "IP addresses collected when you access your online account are retained for 13 months. This helps TfL monitor for things like online fraud, for example when people apply for online refunds.",
+     "Call recordings made when you contact Customer Services are kept for 6 months.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping personal information secure\"}",
      "We take the privacy of our customers very seriously, and a range of robust policies, processes and technical measures are in place to control and safeguard access to, and use of, personal information associated with contactless payment cards.",
      "Anyone with access to personal information held in TfL's systems is required to complete TfL's privacy and data protection training on an annual basis.",
@@ -93,8 +94,9 @@
      "We have partnerships with a number of academic institutions in the UK and overseas (eg the USA), who work with us to analyse journey patterns and undertake travel modelling to help us understand the way our customers travel so we can improve and plan our services for the future.",
      "To do this we provide them with journey data derived from our contactless systems that has been processed, replacing data, where required, with alternative identifiers (pseudonyms) so that it isn't possible to identify an individual customer. All academic research is carried out in accordance with privacy and data protection legislation and protected by robust confidentiality agreements.",
      "In some circumstances, disclosures of personal data to the police (and other law enforcement agencies) are permitted by data protection legislation, if they relate to the prevention or detection of crime and/or the apprehension or prosecution of offenders. Before any such disclosure takes place, the police are required to demonstrate that the personal data concerned will assist them in this respect. Each police request to TfL is dealt with on a strictly case-by-case basis to ensure that any such disclosure is lawful and in accordance with the data protection legislation.",
+     "TfL may also receive or disclose personal information about customers in relation to certain emergency situations or other incidents that require an immediate response. Such events may include those involving public health, public safety or national security matters, when access to personal information is necessary to manage the incident. In some situations, we may also be required by law to disclose your personal data to the police or other enforcement, regulatory or Government body, upon a valid request to do so. These requests will be assessed on a case-by-case basis and take into account privacy considerations before a disclosure is made.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Overseas processing\"}",
-     "TfL, its service providers and academic research partners currently process personal information relating to contactless payment within the European Economic Area and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
+     "TfL, its service providers and academic research partners currently process personal information relating to contactless payment within the UK, the European Economic Area and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using the ticketing app\"}",
      "If you download and use our mobile ticketing app, certain information may be collected automatically. This may include the type of mobile device you are using and its unique identifier (such as the device name or ID), Internet Protocol (IP) address, Media Access Control (MAC) address, and IMEI number.",
      "We also use analytics (similar to cookies on websites) which are small files that capture data to help us improve the app's performance. We use them to collect information about your use of the app, such as what app content you access most frequently, or if you receive an error message when using the app.",
@@ -107,9 +109,11 @@
      "For access to other personal information held by TfL about you, please see our \u003ca href=\"/corporate/privacy-and-cookies/access-your-data\"\u003eAccess your data\u003c/a\u003e page on how to do this.",
      "If you would like to unsubscribe from service or marketing messages, please use the link we include at the end of every email. You can also update your contact preferences within your online account - or by emailing \u003ca href=\"mailto:unsubscribe@tfl.gov.uk\"\u003eunsubscribe@tfl.gov.uk\u003c/a\u003e at any time.",
      "You also have a number of other information rights which include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"The right to question any information we have about you that you think is wrong or incomplete\",\"The right to object to how we use your data or to ask us to delete or restrict how we use it\",\"In some cases, the right to receive a copy of your information in a format that you can easily re-use\",\"The right to complain to our Data Protection Officer\",\"The right to complain to the regulator - the Information Commissioner's Office\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The right to question any information we have about you that you think is wrong or incomplete\",\"The right to object to how we use your data or to ask us to delete or restrict how we use it\",\"In some cases, the right to receive a copy of your information in a format that you can easily re-use\",\"The right to complain to the regulator - the Information Commissioner's Office\"]}",
+     "The TfL Privacy and Data Protection team considers and coordinate responses to requests and complaints from people whose personal data is processed by TfL and its subsidiary companies. You can contact the Data Protection Officer by email at \u003ca href=\"mailto:DPO@tfl.gov.uk\"\u003edpo@tfl.gov.uk\u003c/a\u003e or by writing to:",
+     "Data Protection Officer\u003cbr /\u003e4th Floor\u003cbr /\u003e5 Endeavour Square\u003cbr /\u003eLondon E20 1JN\u003cbr /\u003e",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this page\"}",
-     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in March 2019."
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in February 2020."
     ],
     "link": {
      "image": {}
@@ -122,14 +126,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Privacy \u0026 cookies",
@@ -137,11 +133,6 @@
      {
       "title": "Access your data",
       "url": "/corporate/privacy-and-cookies/access-your-data",
-      "image": {}
-     },
-     {
-      "title": "Bus data collection pilot",
-      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
       "image": {}
      },
      {
@@ -175,6 +166,11 @@
       "image": {}
      },
      {
+      "title": "Direct Vision Standard and the HGV safety permit scheme",
+      "url": "/corporate/privacy-and-cookies/direct-vision-standard-and-the-hgv-safety-permit-scheme",
+      "image": {}
+     },
+     {
       "title": "Employment",
       "url": "/corporate/privacy-and-cookies/employment",
       "image": {}
@@ -202,6 +198,11 @@
      {
       "title": "Protect your data",
       "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Reporting street problems",
+      "url": "/corporate/privacy-and-cookies/reporting-street-problems",
       "image": {}
      },
      {

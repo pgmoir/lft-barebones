@@ -39,7 +39,7 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Whether you're taking the bus or the Tube, exploring the city on two wheels or by boat, we have the right map to help you get to where you want to be.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Underground maps (Tube)\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Download the Tube map\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tube-map.jpg\",\"alt\":\"Tube map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Download the Tube map\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 617KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tube-map.jpg\",\"alt\":\"Tube map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Tube maps in other languages\"}",
@@ -47,7 +47,7 @@
      "You can translate this website into your own language using the Google Translate option at the bottom of the page.",
      "{\"template\":\"bulletlist\"}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus maps\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Central London bus and tourist attractions map\",\"url\":\"/cdn/static/cms/documents/key-bus-routes-in-central-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 712KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bus-map-thumbnail.jpg\",\"alt\":\"Bus and tourist attractions thumbnail\"}},{\"title\":\"Central London night bus map\",\"url\":\"/maps_/bus-route-maps\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"London Overground map\",\"url\":\"http://www.tfl.gov.uk/maps/track/overground\",\"icon\":\"external\",\"image\":{}},{\"title\":\"DLR map\",\"url\":\"http://www.tfl.gov.uk/maps/track/dlr\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Tramlink map\",\"url\":\"http://www.tfl.gov.uk/maps/track/tram\",\"icon\":\"external\",\"image\":{}},{\"title\":\"National Rail and Tube services map\",\"url\":\"http://www.tfl.gov.uk/maps/track/national-rail\",\"icon\":\"external\",\"image\":{}},{\"title\":\"River services maps\",\"url\":\"https://tfl.gov.uk/maps/river\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Docking stations live map\",\"url\":\"http://www.tfl.gov.uk/maps/cycle-hire\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Leisure routes\",\"url\":\"/modes/cycling/santander-cycles/leisure-routes\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Toilet facilities, step-free Tube map and other accessibility guides and maps\",\"url\":\"/transport-accessibility/accessibility-guides-and-maps\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"maps\",\"url\":\"/maps_/maps\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Central London bus and tourist attractions map\",\"url\":\"/cdn/static/cms/documents/key-bus-routes-in-central-london.pdf\",\"icon\":\"download\",\"size\":\"PDF 717KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bus-map-thumbnail.jpg\",\"alt\":\"Bus and tourist attractions thumbnail\"}},{\"title\":\"Central London night bus map\",\"url\":\"/maps_/bus-route-maps\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"London Overground map\",\"url\":\"http://www.tfl.gov.uk/maps/track/overground\",\"icon\":\"external\",\"image\":{}},{\"title\":\"DLR map\",\"url\":\"http://www.tfl.gov.uk/maps/track/dlr\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Tramlink map\",\"url\":\"http://www.tfl.gov.uk/maps/track/tram\",\"icon\":\"external\",\"image\":{}},{\"title\":\"National Rail and Tube services map\",\"url\":\"http://www.tfl.gov.uk/maps/track/national-rail\",\"icon\":\"external\",\"image\":{}},{\"title\":\"River services maps\",\"url\":\"https://tfl.gov.uk/maps/river\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Docking stations live map\",\"url\":\"http://www.tfl.gov.uk/maps/cycle-hire\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Cycle map\",\"url\":\"/maps/cycle\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Leisure routes\",\"url\":\"/modes/cycling/routes-and-maps/leisure-routes\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Toilet facilities, step-free Tube map and other accessibility guides and maps\",\"url\":\"/transport-accessibility/accessibility-guides-and-maps\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"maps\",\"url\":\"/maps_/maps\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -59,14 +59,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

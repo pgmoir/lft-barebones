@@ -89,14 +89,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Taxis \u0026 minicabs",
@@ -112,7 +104,7 @@
       "image": {}
      },
      {
-      "title": "Taxicard \u0026 Capital Call",
+      "title": "Taxicard",
       "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
       "image": {}
      },

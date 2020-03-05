@@ -120,7 +120,7 @@
      "Before you start your application, make sure you have all the following additional documentation:",
      "{\"template\":\"bulletlist\",\"items\":[\"Relevant copy of script/storyboard/brief/layout\",\"Certificate of insurance\"]}",
      "You must send all of these documents with your application otherwise we cannot process your request.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Application to film or photograph on TfL\",\"url\":\"/cdn/static/cms/documents/tfl-filming-application-form-2019.docx\",\"icon\":\"download\",\"size\":\"DOCX 35KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Application to film or photograph on TfL\",\"url\":\"/cdn/static/cms/documents/tfl-filming-application-form.docx\",\"icon\":\"download\",\"size\":\"DOCX 35KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -181,14 +181,6 @@
     "link": {
      "title": "Media",
      "url": "/info-for/media/filming-and-photography/filming-and-photography-on-the-roads",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "socialmediashare",
-    "link": {
      "image": {}
     },
     "image": {},

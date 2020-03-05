@@ -40,7 +40,7 @@
      "{\"template\":\"intro\",\"texts\":[\"Find out what tools can help while planning a journey with a buggy.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "One of the best ways of finding your way around London with a buggy is to use our \u003ca href=\"/plan-a-journey/index\"\u003eJourney Planner\u003c/a\u003e - select 'Travel options and accessibility' when planning your journey to personalise your results.",
      "Or our Customer Service team can help you find the most convenient route. Speak to a member of the team on 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003esee TfL call charges\u003c/a\u003e ).",
-     "You can \u003ca href=\"https://tfl.gov.uk/travel-information/stations-stops-and-piers/\"\u003efind out when your next bus is coming\u003c/a\u003e online, or by texting 87287 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) with the five-digit bus stop code.",
+     "You can \u003ca href=\"https://tfl.gov.uk/travel-information/stations-stops-and-piers/\"\u003efind out when your next bus is coming\u003c/a\u003e online, or on the \u003ca href=\"https://m.me/tfltravelbot\"\u003eFacebook Travelbot\u003c/a\u003e or by texting 87287 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) with the five-digit bus stop code.",
      "Our online station information includes details of the \u003ca href=\"/status-updates/busiest-times-to-travel\"\u003ebusiest times to travel\u003c/a\u003e at each Tube station. If you are able to travel outside the busiest times, your journey could be more comfortable.",
      "There may be times that station lifts and escalators are unavailable, or stations are closed.",
      " \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/   \"\u003eSee planned Tube, DLR and Overground closures\u003c/a\u003e .",
@@ -67,14 +67,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -85,7 +77,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -135,7 +127,7 @@
       "image": {}
      },
      {
-      "title": "Baby on Board",
+      "title": "Baby on board badge",
       "url": "/transport-accessibility/baby-on-board",
       "image": {}
      },
@@ -145,7 +137,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

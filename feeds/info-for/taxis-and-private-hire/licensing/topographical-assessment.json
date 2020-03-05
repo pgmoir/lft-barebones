@@ -77,14 +77,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Taxi \u0026 private hire",
@@ -142,6 +134,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

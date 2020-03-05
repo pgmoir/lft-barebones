@@ -35,6 +35,8 @@
    {
     "template": "content",
     "texts": [
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2018/2019\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Payments greater than £250: 1 April 2018 to 31 March 2019\",\"url\":\"/cdn/static/cms/documents/tflspend2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 10.47MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 1 April 2018 to 31 March 2019\",\"url\":\"/cdn/static/cms/documents/tflspend2019.csv\",\"icon\":\"download\",\"size\":\"CSV 23.27MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2017/2018\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Payments greater than £250: 1 April 2017 - 31 March 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 12.17MB\",\"image\":{}},{\"title\":\"Payments greater than £250: 1 April 2017 - 31 March 2018\",\"url\":\"/cdn/static/cms/documents/tflspend2018.csv\",\"icon\":\"download\",\"size\":\"CSV 19.19MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2016/2017\"}",
@@ -52,14 +54,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

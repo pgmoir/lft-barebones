@@ -37,8 +37,16 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Uber licensing court case\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Uber licensing decision - 25 November 2019\"}",
+     "On 25 November 2019, Transport for London (TfL) notified Uber London Limited (ULL) that it would not be issued with a private hire vehicle (PHV) operator's licence at the expiry of its licence. The reasons for our decision are summarised \u003ca href=\"https://tfl.gov.uk/info-for/media/press-releases/2019/november/uber-london-limited-found-to-be-not-fit-and-proper-to-hold-a-private-hire-operator-licence\"\u003ehere\u003c/a\u003e .",
+     "ULL made an appeal against TfL's decision to Westminster Magistrates' Court on 13 December 2019, and the first procedural hearing will take place before the Chief Magistrate at 10am on 13 February 2020.  In advance of that first procedural hearing, redacted versions of TfL's internal decision note together with the letter notifying ULL of the decision are available below.",
+     "We are making available our reasons for our decision to third parties which is the approach taken in the appeal by ULL against TfL's 2017 decision.  However, we are providing them on our website at an earlier point in the appeal process due to separate legal proceedings challenging ULL's ability to continue to operate pending the outcome of the appeal.  Redactions to the documents have been made on the basis of commercial confidentiality, as well as signatures.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL licensing decision note\",\"url\":\"/cdn/static/cms/documents/tfl-decision-note-25-november-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.27MB\",\"image\":{}},{\"title\":\"TfL decision letter to ULL\",\"url\":\"/cdn/static/cms/documents/tfl-decision-letter-to-ull-25-november-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 464KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Uber licensing court case 2020\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transport for London skeleton argument\",\"url\":\"/cdn/static/cms/documents/tfl-skeleton-argument-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 95KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Uber licensing court case 2018\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Westminster Magistrates' Court judgment\",\"url\":\"/cdn/static/cms/documents/uber-licensing-appeal-final-judgment.pdf\",\"icon\":\"download\",\"size\":\"PDF 80KB\",\"image\":{}},{\"title\":\"Uber licensing conditions\",\"url\":\"/cdn/static/cms/documents/uber-licensing-appeal-license-conditions-june-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 50KB\",\"image\":{}},{\"title\":\"Helen Chapman witness statement June 2018\",\"url\":\"/cdn/static/cms/documents/helen-chapman-third-witness-statement-june.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.93MB\",\"image\":{}},{\"title\":\"Helen Chapman witness statement March 2018\",\"url\":\"/cdn/static/cms/documents/helen-chapman-first-witness-statement-march.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.94MB\",\"image\":{}},{\"title\":\"Transport for London skeleton argument\",\"url\":\"/cdn/static/cms/documents/tfl-skeleton-argument.pdf\",\"icon\":\"download\",\"size\":\"PDF 74KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2019 press releases\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2018 press releases\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2017 press releases\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2016 press releases\"}",
@@ -55,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

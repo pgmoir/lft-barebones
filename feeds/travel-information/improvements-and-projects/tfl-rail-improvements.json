@@ -1,6 +1,6 @@
 {
  "pageTitle": "TfL Rail improvements",
- "keywords": "TfL Rail,T,TfL",
+ "keywords": "TfL Rail,T,Barking and Dagenham,City of London,Havering,Newham,Redbridge,Crossrail,Rail improvements,Elizabeth line,TfL",
  "description": "Stations on TfL Rail lines have been improved ahead of the start of full Elizabeth line services",
  "template": "page-content",
  "breadcrumbs": [
@@ -149,14 +149,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

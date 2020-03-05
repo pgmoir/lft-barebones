@@ -37,6 +37,7 @@
    {
     "template": "content",
     "texts": [
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2019\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2018\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2017\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"2016\"}",
@@ -60,14 +61,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

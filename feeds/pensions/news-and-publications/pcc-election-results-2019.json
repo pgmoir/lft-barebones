@@ -1,0 +1,66 @@
+{
+ "pageTitle": "PCC election results 2019",
+ "keywords": "TfL",
+ "description": "Results of PCC election 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "News and publications",
+   "url": "/pensions/news-and-publications"
+  },
+  {
+   "title": "PCC election results 2019"
+  }
+ ],
+ "title": {
+  "title": "PCC election results 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The longest-serving quarter of the TfL Pension Consultative Council (PCC) retired from office on 30 November 2019. The term of office for the new appointments commenced on 1 December 2019 and will end on 30 November 2023.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In Section One (representing pensioners and deferred pensioners) Joel Kosminsky and Christopher Sullivan retired. Nominations were received for Mr Kosminsky and Mr Sullivan and both were duly re-elected. Mr Kosminsky and Mr Sullivan have served on the PCC since 2015 and 2003 respectively.",
+     "In Section Two (representing TfL and its subsidiaries or contractors, excluding London Underground Limited) Maria Taylor retired. A nomination was received for Ms Taylor and was duly elected. Ms Taylor had been appointed to a casual vacancy in July 2019.",
+     "In Section Three (representing London Underground Limited and its subsidiaries) Paul Murphy and Paul O'Brien retired. Nominations were received for Mr Murphy and Mr O'Brien and both were duly re-elected. Mr Murphy and Mr O'Brien have served on the PCC since 2001 and 2007 respectively.",
+     "For more information about the PCC you can visit the TfL Pension Fund website at \u003ca href=\"http://www.tfl.gov.uk/pensions\"\u003ewww.tfl.gov.uk/pensions\u003c/a\u003e or  contact  Julian  Collins,  PCC  Secretary  on  020  7126 1162 or email \u003ca href=\"mailto:juliancollins@tflpensionfund.co.uk\"\u003ejuliancollins@tflpensionfund.co.uk\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

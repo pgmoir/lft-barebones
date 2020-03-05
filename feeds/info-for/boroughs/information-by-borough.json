@@ -1,5 +1,5 @@
 {
- "pageTitle": "Information by borough",
+ "pageTitle": "Your borough",
  "keywords": "TfL",
  "description": "We work closely with London's 32 boroughs and the City of London on a range of transport issues",
  "template": "page-content",
@@ -10,15 +10,15 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
-   "title": "Information by borough"
+   "title": "Your borough"
   }
  ],
  "title": {
-  "title": "Information by borough",
+  "title": "Your borough",
   "card": {
    "link": {
     "image": {}
@@ -33,10 +33,55 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Each of the 32 London Boroughs and the City of London has its own page.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "These pages include factsheets and key documents such as letters relating to LIPs and traffic infrastructure updates.",
-     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/boroughs-map-static.gif\",\"alt\":\"Boroughs map\"},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Boroughs\"}"
+     "{\"template\":\"intro\",\"texts\":[\"Get an overview of public transport services and projects across London and in each of the 32 London Boroughs and the City of London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting around your borough\"}",
+     "The \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e sets out a target of 80% of all trips in London to be made by public transport, walking or cycling by 2041.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Public transport, cycling and walking\"}",
+     " \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003eWe're investing in our network\u003c/a\u003e - and working in partnership with your borough - to make public transport, \u003ca href=\"/modes/cycling/index\"\u003ecycling\u003c/a\u003e and \u003ca href=\"/modes/walking/index\"\u003ewalking\u003c/a\u003e attractive choices to get around.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Driving in London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"To help ease congestion and tackle poor air quality in the city, \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eUltra Low Emission (ULEZ)\\u003c/a\\u003e zones operate in London\",\"We own and maintain all \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/red-routes\\\"\\u003ered routes in London\\u003c/a\\u003e . This includes \\u003ca href=\\\"/info-for/taxis-and-private-hire/taxi-ranks\\\"\\u003etaxi ranks on these roads\\u003c/a\\u003e . Stopping or parking is prohibited on the 580 kilometres of London red routes\",\"To contribute to cleaner air in London we also work in partnership with London boroughs and the City of London to increase \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/electric-vehicles-and-rapid-charging\\\"\\u003erapid charging points across the Capital\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Journey status\"}",
+     "Stay up to date with changes to our services by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Subscribing to our \\u003ca href=\\\"/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \",\"Exploring more of \\u003ca href=\\\"/status-updates/travel-tools\\\"\\u003eour travel tools\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessible transport in your borough\"}",
+     "We want \u003ca href=\"/transport-accessibility/index\"\u003etravel in London to be fully accessible\u003c/a\u003e . Your feedback helps us to challenge our technology, infrastructure and customer service for more improvements.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Step-free stations\"}",
+     "You have told us you want to see more step-free access at Tube and London Overground stations. We are improving many stations to create \u003ca href=\"/travel-information/improvements-and-projects/step-free-access\"\u003estep-free access over the next few years\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Assisted travel services\"}",
+     "Our range of \u003ca href=\"/transport-accessibility/door-to-door-transport-services\"\u003eassisted travel services\u003c/a\u003e can take your residents from door-to-door, with help from a driver - this includes \u003ca href=\"/modes/dial-a-ride/index\"\u003eDial-a-Ride\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Dial-a-Ride\"}",
+     "Dial-a-Ride is a free door-to-door assisted transport service for elderly and disabled users. It can be used for trips such as shopping, visiting family and travelling to leisure activities.",
+     "Dial-a-Ride is not available to those who live or travel outside the M25 and no longer serves any hospital appointments or visits.",
+     "Older London residents and anyone with a long-term or permanent disability can join Dial-a-Ride. Find out how to apply on the \u003ca href=\"/modes/dial-a-ride/membership\"\u003eDial-a-Ride Membership page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Travel Mentors\"}",
+     "Travel Mentors can advise on planning accessible journeys or support and accompany anyone making a journey a few times. This helps instil confidence and gives them all the right tools to become an independent traveller across our network. This includes people who use mobility scooters and other mobility aids.",
+     "People who prefer to explore public transport on their own can use \u003ca href=\"https://tfl.gov.uk/forms/12387.aspx\"\u003eour accessibility maps\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contacting us\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Accessibility\"}",
+     "We're always working for ways to improve the accessibility of our services. If you have a question or an issue, \u003ca href=\"/transport-accessibility/contact-us-about-accessibility\"\u003econtact us about accessibility\u003c/a\u003e .",
+     "Find out how to book a Dial-a-Ride journey, discuss an existing journey, find out where the bus is, cancel a journey - or discuss our service - on the \u003ca href=\"/modes/dial-a-ride/bookings\"\u003eDial-a-Ride Bookings page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Buses\"}",
+     "To report a Countdown sign, any issues with your bus shelter or bus stop or report or commend a bus driver, fill out the \u003ca href=\"/help-and-contact/contact-us-about-buses\"\u003eonline contact us form for buses\u003c/a\u003e .",
+     "You can also raise bus performance issues such as frequency or overcrowding. Find out how on our \u003ca href=\"/help-and-contact/index\"\u003eHelp and contacts page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"For councillors and borough officers\"}",
+     "The Local Communities and Partnerships (LCP) team is here to help London's boroughs navigate Transport for London, answering questions about our policies, projects and programmes and making sure their voice is heard in our decision-making.",
+     "Each borough has been given the name of a dedicated LCP contact to manage their relationship with us.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Planning and construction\"}",
+     "To find out more:",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you're doing work near our assets, services or infrastructure, go to the \\u003ca href=\\\"/info-for/urban-planning-and-construction/urban-planning-and-construction-contacts\\\"\\u003eUrban planning and construction pages\\u003c/a\\u003e .\",\"About cycling in London, email \\u003ca href=\\\"mailto:activetravel@tfl.gov.uk\\\"\\u003eactivetravel@tfl.gov.uk\\u003c/a\\u003e \",\"About bringing Legible London to your area, email \\u003ca href=\\\"mailto:legiblelondon@tfl.gov.uk\\\"\\u003elegiblelondon@tfl.gov.uk\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Safety\"}",
+     "For safety-related issues, contact our Customer Contact Centre on 0343 222 1234 (press option 5, then option 1 - \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges apply\u003c/a\u003e ). The team has special arrangements in place to ensure these are prioritised.",
+     "Or:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Report a problem on a street, including roadworks, with our \\u003ca href=\\\"https://streetcare.tfl.gov.uk/\\\"\\u003eStreetcare tool\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxi and Private Hire\"}",
+     "Find out how to report Private Hire Vehicles (PHVs), unattended taxis and other vehicles on taxi ranks in London on our \u003ca href=\"/info-for/taxis-and-private-hire/taxi-ranks\"\u003eTaxi ranks page\u003c/a\u003e . Be sure to include the date and time plus the location of the taxi rank.",
+     "Email photos of PHVs or unattended taxis on ranks to \u003ca href=\"mailto:TPHintel@tfl.gov.uk\"\u003eTPHintel@tfl.gov.uk\u003c/a\u003e .",
+     "To request a new taxi rank in your borough, email \u003ca href=\"mailto:tphranksinterchange@tfl.gov.uk\"\u003etphranksinterchange@tfl.gov.uk\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Tube noise\"}",
+     "Help us identify the areas most affected by \u003ca href=\"/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration\"\u003enoise or vibration issues\u003c/a\u003e :",
+     "{\"template\":\"bulletlist\",\"items\":[\"Call us on 0343 222 1234 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\",\"Fill out an online form - select a \\u003ca href=\\\"/help-and-contact/contact-us-about-tube-and-rail-staff\\\"\\u003e'Noise and vibration' enquiry\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Individual boroughs/City of London\"}",
+     "Individual borough pages include information and documents such as letters related to your Local Implementation Plan (LIP)."
     ],
     "link": {
      "image": {}
@@ -49,8 +94,189 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Your borough",
+    "links": [
+     {
+      "title": "Barking and Dagenham",
+      "url": "/info-for/boroughs/barking-and-dagenham",
+      "image": {}
+     },
+     {
+      "title": "Barnet",
+      "url": "/info-for/boroughs/barnet",
+      "image": {}
+     },
+     {
+      "title": "Bexley",
+      "url": "/info-for/boroughs/bexley",
+      "image": {}
+     },
+     {
+      "title": "Brent",
+      "url": "/info-for/boroughs/brent",
+      "image": {}
+     },
+     {
+      "title": "Bromley",
+      "url": "/info-for/boroughs/bromley",
+      "image": {}
+     },
+     {
+      "title": "Camden",
+      "url": "/info-for/boroughs/camden",
+      "image": {}
+     },
+     {
+      "title": "City of London",
+      "url": "/info-for/boroughs/city-of-london",
+      "image": {}
+     },
+     {
+      "title": "Croydon",
+      "url": "/info-for/boroughs/croydon",
+      "image": {}
+     },
+     {
+      "title": "Ealing",
+      "url": "/info-for/boroughs/ealing",
+      "image": {}
+     },
+     {
+      "title": "Enfield",
+      "url": "/info-for/boroughs/enfield",
+      "image": {}
+     },
+     {
+      "title": "Greenwich",
+      "url": "/info-for/boroughs/greenwich",
+      "image": {}
+     },
+     {
+      "title": "Hackney",
+      "url": "/info-for/boroughs/hackney",
+      "image": {}
+     },
+     {
+      "title": "Hammersmith \u0026 Fulham",
+      "url": "/info-for/boroughs/hammersmith-and-fulham",
+      "image": {}
+     },
+     {
+      "title": "Haringey",
+      "url": "/info-for/boroughs/haringey",
+      "image": {}
+     },
+     {
+      "title": "Harrow",
+      "url": "/info-for/boroughs/harrow",
+      "image": {}
+     },
+     {
+      "title": "Havering",
+      "url": "/info-for/boroughs/havering",
+      "image": {}
+     },
+     {
+      "title": "Hillingdon",
+      "url": "/info-for/boroughs/hillingdon",
+      "image": {}
+     },
+     {
+      "title": "Hounslow",
+      "url": "/info-for/boroughs/hounslow",
+      "image": {}
+     },
+     {
+      "title": "Islington",
+      "url": "/info-for/boroughs/islington",
+      "image": {}
+     },
+     {
+      "title": "Kensington and Chelsea",
+      "url": "/info-for/boroughs/kensington-and-chelsea",
+      "image": {}
+     },
+     {
+      "title": "Kingston upon Thames",
+      "url": "/info-for/boroughs/kingston-upon-thames",
+      "image": {}
+     },
+     {
+      "title": "Lambeth",
+      "url": "/info-for/boroughs/lambeth",
+      "image": {}
+     },
+     {
+      "title": "Lewisham",
+      "url": "/info-for/boroughs/lewisham",
+      "image": {}
+     },
+     {
+      "title": "Merton",
+      "url": "/info-for/boroughs/merton",
+      "image": {}
+     },
+     {
+      "title": "Newham",
+      "url": "/info-for/boroughs/newham",
+      "image": {}
+     },
+     {
+      "title": "Redbridge",
+      "url": "/info-for/boroughs/redbridge",
+      "image": {}
+     },
+     {
+      "title": "Richmond upon Thames",
+      "url": "/info-for/boroughs/richmond-upon-thames",
+      "image": {}
+     },
+     {
+      "title": "Southwark",
+      "url": "/info-for/boroughs/southwark",
+      "image": {}
+     },
+     {
+      "title": "Sutton",
+      "url": "/info-for/boroughs/sutton",
+      "image": {}
+     },
+     {
+      "title": "Tower Hamlets",
+      "url": "/info-for/boroughs/tower-hamlets",
+      "image": {}
+     },
+     {
+      "title": "Waltham Forest",
+      "url": "/info-for/boroughs/waltham-forest",
+      "image": {}
+     },
+     {
+      "title": "Wandsworth",
+      "url": "/info-for/boroughs/wandsworth",
+      "image": {}
+     },
+     {
+      "title": "Westminster",
+      "url": "/info-for/boroughs/westminster",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     }
+    ],
     "link": {
+     "title": "Your borough",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},
@@ -58,6 +284,23 @@
    },
    {
     "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "London Councils",
+      "url": "https://www.londoncouncils.gov.uk/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

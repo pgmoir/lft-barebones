@@ -1,9 +1,7 @@
 {
- "pageTitle": "Stansted Express to sell Visitor Oyster Cards",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Stansted Express to sell Visitor Oyster Cards",
   "card": {
    "link": {
     "image": {}
@@ -13,69 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "intro",
-    "texts": [
-     "New deal enables visitors to buy Oyster Cards before they arrive in London."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "content",
-    "texts": [
-     "With an Oyster card in their hands visitors arriving at Stansted can now hit the ground running",
-     "Transport for London (TfL) and Stansted Express have joined forces to enable passengers to buy Visitor Oyster cards when they purchase their train tickets at Stansted, allowing direct access to the Tube and bus network as soon as they arrive in London.",
-     "From the beginning of February, passengers are now able to purchase a Visitor Oyster card when they buy a Stansted Express ticket at the airport terminal and rail station.",
-     "With an Oyster card, Stansted Express travellers can easily change onto London Underground services at Tottenham Hale and London Liverpool Street, as well as London Bus services without the need to queue for a ticket.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Welcome boost\"}",
-     "The Visitor Oyster card is pre-loaded with £10 pay as you go credit and card holders can easily top up their credit at thousands of Tube stations, Travel Information Centres and newsagents across the capital.",
-     "What's more credit on the card is timeless and can be used for future visits to the Capital.",
-     "Boris Johnson, Mayor of London, said: 'With an Oyster card in their hands visitors arriving at Stansted can now hit the ground running and get straight to the business of exploring everything that the city has to offer.",
-     "'We want to continue to attract visitors to the Capital, and are conscious of the welcome boost they provide to the economy during the current downturn.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Additional service\"}",
-     "'This deal will help us do that by making getting about that bit easier - cutting queuing time, and ensuring visitors can access the most cost-effective fares.'",
-     "Stansted Express runs services from Stansted Airport to London Liverpool Street via Tottenham Hale every 15 minutes and is used by nearly six million passengers every year.",
-     "Adrian Warren, Head of Marketing for Stansted Express, said: 'Stansted Express is committed to making travel simpler and we are delighted that we can now offer an additional service to our customers to help make their stay in London easier and cheaper.'",
-     "Visit London's Interim CEO, Sally Chatterjee, says: 'London welcomes more than 15 million international visitors each year.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Easier travelling\"}",
-     "'This deal will mean that visitors can leave Stansted knowing they have all they need to travel to London's many museums and galleries on London's world famous transport network during their stay in the capital.'",
-     "The partnership between TfL and Stansted Express forms a further part of TfL's strategy to ensure that visitors to London have access to the quicker and easier way of travelling in the Capital available with Oyster.",
-     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
-     "{\"template\":\"bulletlist\",\"items\":[\"There are more than six million Oyster cards regularly used in London and last year more than three billiong journeys were made with Oyster\",\"More than 80 per cent of all Tube and bus payments in London are now by Oyster. In the five years since the introduction of Oyster, the proportion of cash payments on the Tube and buses has fallen to just three per cent\",\"When passengers use the Oyster pay as you go card to touch in and out on the yellow card readers on the Tube, Docklands Light Railway, London Overground and on National Rail services, where applicable, the system automatically works out the right fare for the journey within a fifth of a second from up to 1.83 million permutations\",\"Almost three times as many passengers can pass through a Tube station entrance/exit gate using an Oyster card as can using printed tickets - 40 a minute compared to 15 a minute\",\"Oyster is also available online, over the telephone via 0845 330 9876 or at Travel Information Centres across London. You can find your nearest Oyster outlet through the TfL website at \\u003ca href=\\\"http://www.tfl.gov.uk/oyster\\\"\\u003ewww.tfl.gov.uk/oyster\\u003c/a\\u003e \"]}"
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

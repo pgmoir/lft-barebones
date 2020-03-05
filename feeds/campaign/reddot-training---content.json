@@ -1,0 +1,208 @@
+{
+ "pageTitle": "RedDot training - content",
+ "keywords": "TfL",
+ "description": "Standard content page reserved for RedDot training",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "RedDot training - content"
+  }
+ ],
+ "title": {
+  "title": "RedDot training - content",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"This is the Page intro field. You can enter up to 350 characters here, including spaces, although usually it's only 1-2 concise sentences. DO NOT ENTER line breaks - they will break the page. You won't be able to add links, bolding, bullet points or other styling.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This is the body content area.",
+     "Use the 'T' symbol above to paste in content, the link symbol to create links, the B to bold and the bullet tool to - well, you get the idea...",
+     "Source view will show you the HTML, but you need to be back on this view to save your changes.",
+     "To create a heading, Select Heading 2 or Heading 3 from the drop down under Normal.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Heading 2\"}",
+     "Links:",
+     " \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eThis is an internal link.\u003c/a\u003e ",
+     "A link to the \u003ca href=\"http://www.cnn.com\"\u003eCNN website\u003c/a\u003e .",
+     " \u003ca href=\"mailto:filmoffice@tfl.gov.uk\"\u003efilmoffice@tfl.gov.uk\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Heading 3\"}",
+     "You can only add text to this area - to add an image for the text to wrap around you need a specific module.",
+     "To see your page on staging, go to \u003ca href=\"https://bronte.online.tfl.gov.uk/campaign/training-1\"\u003ehttps://bronte.online.tfl.gov.uk/campaign/training-1\u003c/a\u003e ",
+     "\u003cstrong\u003eBold text here\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bullet one\",\"Bullet two\"]}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/training-test-train.jpg\"}],\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/xxx-flower-for-image-test_rdax_400x250.jpg\",\"alt\":\"lovely flowers\"},\"wrapped\":false}",
+     "testing for release",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/xxx-flower-for-image-test_rdax_400x250.jpg\",\"alt\":\"lovely flowers\"},\"wrapped\":false}",
+     "Use this module if you want an image at the top - you can't add images to the body content.",
+     "Just give yourself some text that will wrap around this image.",
+     "It should display to the right when you see it on staging or on live (don't change the default alignment from 'Right'). But inside RedDot it displays underneath the image.",
+     "CAN YOU SEE THIS CONTENT ON YOUR LOGIN?",
+     "This is my first draft.",
+     "This is my change.",
+     "And a subsequent change.",
+     "Final change...",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"This is the document link text that will display - Plain English please!\",\"url\":\"/shared/DocumentComingSoon\",\"icon\":\"download\",\"image\":{}},{\"title\":\"Plain English document title\",\"url\":\"/cdn/static/cms/documents/example-document-with-plain-english-title.docx\",\"icon\":\"download\",\"size\":\"DOCX 12KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"video\",\"style\":\"Z3Q0FZUKHkY\",\"title\":\"New Tube for London\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/13croydon_rdax_400x250.jpg\",\"alt\":\"The Library\"},\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/1986-2016-30-poems-logo.gif\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/033988-gloucester-road-culture.jpg.jpg\",\"alt\":\"Gloucester Road station\"}],\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "RedDot training - content",
+    "links": [
+     {
+      "title": "Training 1",
+      "url": "/campaign/training-1",
+      "image": {}
+     },
+     {
+      "title": "Training 2",
+      "url": "/campaign/training-2",
+      "image": {}
+     },
+     {
+      "title": "Training 3",
+      "url": "/campaign/training-3",
+      "image": {}
+     },
+     {
+      "title": "Training 4",
+      "url": "/campaign/training-4",
+      "image": {}
+     },
+     {
+      "title": "Training 5",
+      "url": "/campaign/training-5",
+      "image": {}
+     },
+     {
+      "title": "Training 6",
+      "url": "/campaign/training-6",
+      "image": {}
+     },
+     {
+      "title": "Training 7",
+      "url": "/campaign/training-7",
+      "image": {}
+     },
+     {
+      "title": "Training 8",
+      "url": "/campaign/training-8",
+      "image": {}
+     },
+     {
+      "title": "Training 9",
+      "url": "/campaign/training-9",
+      "image": {}
+     },
+     {
+      "title": "Training 10",
+      "url": "/campaign/training-10",
+      "image": {}
+     },
+     {
+      "title": "Training 11",
+      "url": "/campaign/training-11",
+      "image": {}
+     },
+     {
+      "title": "Training 12",
+      "url": "/campaign/training-12",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "RedDot training - content",
+     "url": "/campaign/training-12",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "A316 London Road",
+      "url": "/campaign/60373.htm",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "MTS",
+      "url": "/corporate/about-tfl/the-mayors-transport-strategy",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Second link",
+      "url": "/campaign/diversity-advertising-competition",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "MTS",
+      "url": "https://edition.cnn.com/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

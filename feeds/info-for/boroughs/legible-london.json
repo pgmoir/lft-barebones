@@ -10,7 +10,7 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
@@ -39,6 +39,7 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We are keen to work with local authorities, business associations and other organisations to help us expand Legible London across the Capital.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/monolith-south-kensington_rdax_400x250.jpg\",\"alt\":\"Monolith in South Kensington\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"About the scheme\"}",
      "We developed Legible London to help both residents and visitors walk to their destination quickly and easily. The signs offer a consistent experience and information about distances between areas.",
      "They're also integrated with other transport modes so, for example, when people are leaving the Tube they can quickly identify the route to their destination.",
      "Find out more about the \u003ca href=\"/info-for/boroughs/maps-and-signs\"\u003efeatures of Legible London maps and signs\u003c/a\u003e .",
@@ -60,20 +61,17 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -88,11 +86,6 @@
       "image": {}
      },
      {
-      "title": "Sub-regional transport planning",
-      "url": "/info-for/boroughs/sub-regional-transport-planning",
-      "image": {}
-     },
-     {
       "title": "Low Emission Neighbourhoods",
       "url": "/info-for/boroughs/low-emission-neighbourhoods",
       "image": {}
@@ -100,11 +93,6 @@
      {
       "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Street Types for London",
-      "url": "/info-for/boroughs/street-types",
       "image": {}
      },
      {
@@ -123,14 +111,24 @@
       "image": {}
      },
      {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
       "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
      "image": {}
     },
     "image": {},

@@ -59,11 +59,11 @@
      "\u003cstrong\u003eBenefits of Visitor Oyster\u003c/strong\u003e ",
      "{\"template\":\"bulletlist\",\"items\":[\"It's quick and easy - there's no need to queue to buy a ticket\",\"It offers great value - pay as you go is cheaper than buying single tickets and you can benefit from daily capping\",\"It comes with exclusive offers and discounts in London restaurants, shops, museums and entertainment venues - find out more about the \\u003ca href=\\\"/travel-information/visiting-london/experience-london/special-offers\\\"\\u003efull list of offers\\u003c/a\\u003e \"]}",
      "Find out more about \u003ca href=\"/travel-information/visiting-london/visitor-oyster-card\"\u003eVisitor Oyster cards\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster card\"}",
-     "If you don't have a contactless payment card or a Visitor Oyster card, you can get a standard Oyster card in London. You pay a £5 deposit (refundable) then add pay as you go credit or a Travelcard to pay for your journeys.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster card\"}",
+     "If you don't have a contactless payment card or a Visitor Oyster card, you can get a standard Oyster card in London. You pay £5 and then add pay as you go credit or a Travelcard to pay for your journeys.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-card_rdax_400x250.jpg\",\"alt\":\"Oyster card\"},\"wrapped\":false}",
      "You can get an Oyster card from:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Tube, London Overground, TfL Rail and some National Rail stations\",\"Around 3,900 local shops in London, known as Oyster Ticket Stops. Find your nearest one\",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eTfL Visitor Centres\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://oyster.tfl.gov.uk/oyster/entry.do\\\"\\u003eOnline\\u003c/a\\u003e (UK visitors only)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tube, London Overground, TfL Rail (except West Drayton to Reading) and some National Rail stations\",\"Around 3,900 local shops in London, known as Oyster Ticket Stops. Find your nearest one\",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eTfL Visitor Centres\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://oyster.tfl.gov.uk/oyster/entry.do\\\"\\u003eOnline\\u003c/a\\u003e (UK visitors only)\"]}",
      "\u003cstrong\u003eBenefits of Oyster\u003c/strong\u003e ",
      "{\"template\":\"bulletlist\",\"items\":[\"It offers great value - pay as you go is cheaper than buying single tickets and you can benefit from daily capping\",\"It's convenient - if you are staying for a week or longer and using public transport every day, you can add a Travelcard to your Oyster card, which can save you time and money\\u003cbr /\\u003eFind out more about \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003eOyster cards\\u003c/a\\u003e .\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Visitor Pass\"}",
@@ -105,14 +105,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

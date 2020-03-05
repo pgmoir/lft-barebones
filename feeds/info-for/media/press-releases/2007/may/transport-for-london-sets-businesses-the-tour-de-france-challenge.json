@@ -1,10 +1,7 @@
 {
- "pageTitle": "Transport for London sets businesses the 'Tour de France' challenge",
- "description": "With the Tour de France set to visit London for the first time ever this summer, a new challenge has been launched by Transport for London, to encourage the capital's businesses to help their staff start cycling to work.Part of the Mayor of London's",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Transport for London sets businesses the 'Tour de France' challenge",
   "card": {
    "link": {
     "image": {}
@@ -14,61 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "content",
-    "texts": [
-     "With the Tour de France set to visit London for the first time ever this summer, a new challenge has been launched by Transport for London, to encourage the capital's businesses to help their staff start cycling to work.",
-     "Part of the Mayor of London's vision to increase cycling in London, the workplace cycle challenge will see businesses take part in a number of challenges, based on the Tour de France coloured rider jerseys.",
-     "Participants can take part in three challenges during July:",
-     "{\"template\":\"bulletlist\",\"items\":[\"The 'Yellow Jersey' challenge - for teams to increase the number of cycling journeys made within their organisations\",\"The 'Green Jersey' challenge - for individuals to set themselves targets to increase cycling distances or trips\",\"The 'White Jersey' challenge - for teams to recruit new commuting cyclists\"]}",
-     "Businesses signing up will automatically be entered into a prize draw to win two exclusive VIP tickets for this year's Tour de France in July, as well as limited edition Tour de France t-shirts for their 'team'.",
-     "Mayor of London, Ken Livingstone, said: 'London is a great place to cycle and London is experiencing a cycling renaissance.",
-     "'The number of people cycling in the capital soaring, as continued investment makes the city an increasingly great place to cycle.",
-     "'The Tour de France, which will be the largest sporting event to come to London ahead of the Olympics, is set to further inspire a new generation of people to take to two wheels.",
-     "'Cycling is not only good for your health, but also good for the environment.",
-     "'Climate change is one of the great challenges facing the world today and the bike is a great way of taking positive action to reduce London's carbon emissions.'",
-     "Cycling is often the quickest way to get around the Capital, for journeys under four miles.",
-     "It is estimated that there are now around 480,000 cycle journeys made a day across London, and by joining the challenge employers and employees will benefit by saving money and time, as well as getting fitter and contributing to a healthier environment.",
-     "Ben Plowden, Programme Director of Travel Demand Management at Transport for London, said: 'The number of cyclists in London has increased by 83 per cent since 2000.",
-     "'The Mayor's target is to increase cycling by 400 per cent by 2025, so we want even more Londoners to get on their bikes.",
-     "'The challenge should be a great motivator for those who have not yet taken to two wheels.",
-     "'It will be a fun and healthy team-building event, with great benefits for businesses, staff and most importantly the environment.'",
-     "Organisations interested in participating can register on \u003ca href=\"http://www.cyclechallenge2007.org\"\u003ewww.cyclechallenge2007.org\u003c/a\u003e ",
-     "A free participant pack will be sent to them with further details of the challenge and information about support that they can receive from Transport for London.",
-     "Companies will need to nominate a 'Team Manager' to recruit team members and co-ordinate the challenge within their organisation.",
-     "\u003cstrong\u003eNotes to Editors:\u003c/strong\u003e \u003cbr /\u003e",
-     "\u003cstrong\u003e\n\u003c/strong\u003e ",
-     "{\"template\":\"bulletlist\"}"
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

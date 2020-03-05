@@ -37,8 +37,8 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The following companies managed investments on behalf of the TfL Pension Fund as at 31 March 2018.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"bulletlist\",\"items\":[\"AQR Capital Partners LLC\",\"Anchorage Capital Partners Offshore Limited\",\"Ardevora Asset Management LLP\",\"Blackrock Investment Management (UK) Limited\",\"Blue Mountain Credit Alternatives Fund Limited\",\"Brevan Howard Asset Management LLP\",\"Bridgewater Associates, Inc\",\"Burgundy Asset Management\",\"CBRE Global Collective Investors UK Limited\",\"Colonial First State Global Asset Management\",\"Coronation International Limited\",\"Credit Suisse IRIS ALHC Fund Limited\",\"Goldman Sachs Asset Management\",\"IFC Asset Management Company LLC\",\"Industry Funds Management Pty Limited\",\"JO Hambro Capital Management Limited\",\"Neuberger Berman Alternatives Advisers LLC\",\"Nomura Asset Management UK Limited\",\"Oak Hill Advisors LP\",\"Paradice Investment Management Pty Limited\",\"Partners Group (UK) Limited\",\"Pzena Investment Management LLC\",\"Russell Implementation Services Limited\",\"Semperian PPP Investment Partners Holdings Ltd\",\"Siguler Guff \\u0026 Company LP\",\"Stonepeak Infrastructure Fund LP\",\"Veritas Asset Management LLP\",\"Wellington Management Company LLP\"]}",
+     "{\"template\":\"intro\",\"texts\":[\"The following companies managed investments on behalf of the TfL Pension Fund as at 31 March 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\"AQR Capital Partners LLC\",\"Anchorage Capital Group LLC\",\"Ardevora Asset Management LLP\",\"Blackrock Investment Management (UK) Limited\",\"Blue Mountain Capital Partners LLC\",\"Brevan Howard Asset Management LLP\",\"Bridgewater Associates, Inc\",\"CBRE Global Collective Investors UK Limited\",\"Colonial First State Global Asset Management\",\"Coronation International Limited\",\"Credit Suisse AG\",\"Goldman Sachs Asset Management\",\"IFC Asset Management Company LLC\",\"Industry Funds Management Pty Limited\",\"JO Hambro Capital Management Limited\",\"JP Morgan Asset Management\",\"Man Asset Management Ltd\",\"Neuberger Berman Alternatives Advisers LLC\",\"Nomura Asset Management UK Limited\",\"Oak Hill Advisors LP\",\"Paradice Investment Management Pty Limited\",\"Partners Group (UK) Limited\",\"Pzena Investment Management LLC\",\"Russell Implementation Services Limited\",\"Semperian PPP Investment Partners Holdings Limited\",\"SCM ManCo 1 Limited\",\"Siguler Guff \\u0026 Company LP\",\"Stonepeak Associates III LLC\",\"Veritas Asset Management LLP\",\"Wellington Management Company LLP\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Statement of Investment Principles\"}",
      "The Trustees' Statement of Investment Principles aims to ensure the Fund's assets are carefully managed. It specifies:",
      "{\"template\":\"bulletlist\",\"items\":[\"The kind of investments to be held\",\"Expected returns on investments\",\"The balance between investments\",\"The level of risk undertaken\"]}",
@@ -54,14 +54,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

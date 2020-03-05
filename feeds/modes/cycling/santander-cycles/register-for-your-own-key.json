@@ -37,19 +37,19 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"If you use Santander Cycles regularly and aren't already a registered user, why not sign up to make hiring bikes even quicker?\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/santander-british-museum.jpg\",\"alt\":\"Santander Cycles at the British Museum\"},\"wrapped\":false}",
-     "Membership gives you faster, cost effective bike access, giving you more time to explore London. Benefits include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Quicker access to the bikes with your own key\",\"Save money with yearly access to the bikes for £90 - that's just 25p per day\",\"Pay as you go costs £2 for 24 hour access plus any extra ride charges for journeys over 30 minutes\"]}",
-     "It's easy to join - you can become a member using the Santander Cycles app, or by setting up an online account.",
+     "{\"template\":\"intro\",\"texts\":[\"If you use Santander Cycles regularly, you can become a member to make hiring bikes even quicker.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why become a member?\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Get quicker access to Santander Cycles - you don't need to use terminals\",\"Check your recent trips and charges\",\"See your monthly and yearly activity\",\"Buy your own key or get extra ones for friends and family (with online membership)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cost of membership\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"24 hour membership: £2 for 24 hour access\",\"Yearly membership: £90 (25p per day)\"]}",
+     "If your journey is less than 30 minutes, you won't pay more. If it's longer than 30 minutes, you pay \u003ca href=\"/modes/cycling/santander-cycles/what-you-pay\"\u003e£2 for every 30 minutes\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Students save 25%\"}",
-     "If you're 18 or over and studying in London, you can hire a Santander Cycle for a year for £67.50. To get your discount, \u003ca href=\"https://www.myunidays.com/GB/en-GB/partners/tfl/view/online\"\u003elog in to UNIDAYS\u003c/a\u003e . You'll receive an email with your code which you can use when you \u003ca href=\"https://santandercycles.tfl.gov.uk/Registration\"\u003ebuy yearly membership\u003c/a\u003e .",
+     "If you're 18 or over and studying in London, you can buy Santander Cycles yearly membership for £67.50. To get your discount, \u003ca href=\"https://www.myunidays.com/GB/en-GB/partners/tfl/view/online\"\u003elog in to UNIDAYS\u003c/a\u003e . You'll receive an email with your code which you can use when you \u003ca href=\"https://santandercycles.tfl.gov.uk/Registration\"\u003ebuy yearly membership\u003c/a\u003e .",
      "{\"template\":\"bulletlist\"}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles app\"}",
-     "The Santander Cycles app sends a release code direct to your smartphone, letting you skip past the terminal and get on your bike quicker. \u003ca href=\"/modes/cycling/santander-cycles/community\"\u003eFind out more about the app\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Online membership\"}",
-     "Online membership gives you a handy monthly overview of your rides. Once you've taken 5 trips, we'll email you a monthly activity statement showing how far you've gone, total distance and calories burnt. You'll get a yearly activity report too. You can also:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Register for a key - get faster access to Santander Cycles by \\u003ca href=\\\"https://santandercycles.tfl.gov.uk/Registration\\\"\\u003eregistering for a cycle hire key\\u003c/a\\u003e . They cost a one-off fee of £3\",\"Activate your key - shortly after you've registered for your key, you'll receive a welcome pack in the post. \\u003ca href=\\\"https://santandercycles.tfl.gov.uk/\\\"\\u003eWhen the key arrives, you can activate it online\\u003c/a\\u003e \",\"Order extra keys - if you want to ride with family and friends you can order extra keys when you sign up\"]}"
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Get your membership\"}",
+     "You can get your membership by downloading the \u003ca href=\"/modes/cycling/santander-cycles/community\"\u003eSantander Cycles app\u003c/a\u003e , or by \u003ca href=\"https://santandercycles.tfl.gov.uk/Registration\"\u003ecreating an online account\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/corporate/terms-and-conditions/santander-cycles\\\"\\u003eSantander Cycles terms and conditions\\u003c/a\\u003e \"]}"
     ],
     "link": {
      "image": {}
@@ -62,21 +62,28 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Cycling",
     "links": [
      {
-      "title": "Get started with cycling",
-      "url": "/modes/cycling/new-to-cycling",
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
       "image": {}
      },
      {
@@ -105,11 +112,6 @@
       "image": {}
      },
      {
-      "title": "Leisure routes",
-      "url": "/modes/cycling/santander-cycles/leisure-routes",
-      "image": {}
-     },
-     {
       "title": "Lost, stolen or faulty",
       "url": "/modes/cycling/santander-cycles/lost-stolen-or-faulty",
       "image": {}
@@ -133,21 +135,11 @@
       "title": "Blaze Laserlights",
       "url": "/modes/cycling/santander-cycles/blaze-laserlights",
       "image": {}
-     },
-     {
-      "title": "Cycling in London",
-      "url": "/modes/cycling/cycling-in-london",
-      "image": {}
-     },
-     {
-      "title": "Routes \u0026 maps",
-      "url": "/modes/cycling/routes-and-maps",
-      "image": {}
      }
     ],
     "link": {
      "title": "Cycling",
-     "url": "/modes/cycling/routes-and-maps",
+     "url": "/modes/cycling/santander-cycles/blaze-laserlights",
      "image": {}
     },
     "image": {},

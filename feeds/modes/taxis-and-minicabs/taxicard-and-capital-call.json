@@ -1,5 +1,5 @@
 {
- "pageTitle": "Taxicard \u0026 Capital Call",
+ "pageTitle": "Taxicard",
  "keywords": "TfL",
  "description": "Subsidised taxi and minicab travel in London for people who cannot use public transport",
  "template": "page-content",
@@ -14,11 +14,11 @@
    "url": "/modes/taxis-and-minicabs/index"
   },
   {
-   "title": "Taxicard \u0026 Capital Call"
+   "title": "Taxicard"
   }
  ],
  "title": {
-  "title": "Taxicard \u0026 Capital Call",
+  "title": "Taxicard",
   "card": {
    "link": {
     "image": {}
@@ -33,23 +33,13 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"If you have mobility impairments and have trouble using public transport, you may be able to get subsidised taxi and minicab travel in London. The two schemes are called Taxicard and Capital Call.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"If you have mobility impairments and have trouble using public transport, you may be able to get subsidised taxi and minicab travel in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/man-using-taxi-ramp-290-700x438.jpg\",\"alt\":\"Man using wheelchair ramp to access taxi\"},\"wrapped\":false}",
      "You can use Taxicard wherever you live in London.",
-     "You can use Capital Call if you are already a member and live in Bexley, Ealing, Enfield, Haringey, Hillingdon, Hounslow, Lambeth, Lewisham, Merton and Southwark. Capital Call is now no longer open to new members.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who is eligible?\"}",
      "You may be eligible for Taxicard if you:",
      "{\"template\":\"bulletlist\",\"items\":[\"Receive the higher rate mobility component of the Disability Living Allowance or the higher rate Attendance Allowance\",\"Are registered blind\",\"Receive the War Pension Mobility Component\"]}",
      "If none of these apply to you, you may still be eligible if your GP endorses your application. You may have to have a mobility assessment.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxicard\"}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxicard costs\"}",
-     "Visit the \u003ca href=\"https://www.londoncouncils.gov.uk/services/taxicard/payment\"\u003eTaxicard website\u003c/a\u003e for pricing.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"More information and how to apply\"}",
-     "Telephone 020 7934 9791 or visit the \u003ca href=\"http://www.londoncouncils.gov.uk/services/taxicard\"\u003eTaxicard website\u003c/a\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Capital Call\"}",
-     "The Capital Call scheme operated by TfL is closed to new members. However the scheme continues to operate for its existing members.",
-     "If you are a current member of Capital Call you can contact us for your journey requests by telephone or email.",
-     "Telephone: 0343 222 1110",
-     "Email: \u003ca href=\"mailto:capitalcall@tfl.gov.uk\"\u003ecapitalcall@tfl.gov.uk\u003c/a\u003e "
+     "For more information, costs and how to apply, visit the \u003ca href=\"https://www.londoncouncils.gov.uk/services/taxicard/apply-taxicard-your-borough\"\u003eTaxicard website\u003c/a\u003e or call 020 7934 9791."
     ],
     "link": {
      "image": {}
@@ -61,14 +51,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -85,7 +67,7 @@
       "image": {}
      },
      {
-      "title": "Taxicard \u0026 Capital Call",
+      "title": "Taxicard",
       "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
       "image": {}
      },

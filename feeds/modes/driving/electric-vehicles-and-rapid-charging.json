@@ -1,5 +1,5 @@
 {
- "pageTitle": "Electric vehicles and rapid charging",
+ "pageTitle": "Electric vehicles and charge points",
  "keywords": "TfL,electric vehicles, charging",
  "description": "Electric vehicles come with a variety of benefits and TfL are developing a network to ensure you can charge them quickly and efficiently",
  "template": "page-content",
@@ -14,11 +14,11 @@
    "url": "/modes/driving/index"
   },
   {
-   "title": "Electric vehicles and rapid charging"
+   "title": "Electric vehicles and charge points"
   }
  ],
  "title": {
-  "title": "Electric vehicles and rapid charging",
+  "title": "Electric vehicles and charge points",
   "card": {
    "link": {
     "image": {}
@@ -33,63 +33,51 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Zero emission capable (ZEC) vehicles have environmental and financial benefits, and will help London become a zero carbon city by 2050. We are working with partners to develop a network to help you charge them quickly and efficiently.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We need to clean up London's air and rid the Capital of the most polluting vehicles. The Mayor has an ambition to make London's transport network zero carbon by 2050 - this will bring improvements in air quality (see the \u003ca href=\"https://tfl.gov.uk/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e ).",
-     "To achieve this we need to support and accelerate the shift to zero emission technologies.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Electric vehicle (EV) infrastructure delivery plan\"}",
-     "Speeding up the switch to electric vehicles is critical to creating a zero emission future. The Mayor established the Electric Vehicle (EV) Infrastructure Taskforce in 2018. Experts from the public and private sector representing business, energy, infrastructure, government and London boroughs - supported by more than 350 stakeholders from over 140 different organisations - looked at ways to unlock barriers to expanding charging infrastructure and accelerating the switch to EVs in London.",
-     "The London electric vehicle infrastructure delivery plan shows fleets, businesses and London's residents that there is a clear way forward towards the right type and amount of charging infrastructure to serve London's needs.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London electric vehicle infrastructure delivery plan - Executive summary\",\"url\":\"/ruc-cdn/static/cms/documents/london-electric-vehicle-infrastructure-taskforce-delivery-plan-executive-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.38MB\",\"image\":{}},{\"title\":\"London electric vehicle infrastructure delivery plan\",\"url\":\"/ruc-cdn/static/cms/documents/london-electric-vehicle-infrastructure-taskforce-delivery-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 12.97MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"We are working with partners to develop a network of electric vehicle (EV) charging points in London to help you charge your vehicle quickly and efficiently.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We need to clean up London's air and rid the Capital of the most polluting vehicles. The Mayor has an ambition to make London's transport network zero carbon by 2050 and bring improvements in air quality as part of the \u003ca href=\"https://tfl.gov.uk/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "To achieve this, we're supporting and accelerating the shift to zero emission technologies, such as electric cars, led by an Electric vehicle (EV) infrastructure delivery plan.",
+     " \u003ca href=\"https://tv.theiet.org/?videoid=13236\"\u003eWatch a video of the Mayor and Deputy Mayor\u003c/a\u003e at the launch event where they set out its aims and \u003ca href=\"/modes/driving/electric-vehicles-and-rapid-charging#delivery-plan\"\u003eread the delivery plan.\u003c/a\u003e ",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/charge-point-parked.jpg\",\"alt\":\"Car parked and using a rapid charge point\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Zero emission capable (ZEC) vehicles\"}",
-     "ZEC is the collective term for vehicles that can operate with zero exhaust emissions. Most car and van manufacturers have ZEC models available, with more due to come to market in the next few years. Find out more about ZEC vehicles, and get help to choose the right vehicle for you, at \u003ca href=\"https://www.goultralow.com/\"\u003eGo Ultra Low\u003c/a\u003e .",
+     "ZEC is the collective term for vehicles that can operate with zero exhaust emissions. Find out more about ZEC vehicles, and get help to choose the right vehicle for you, at \u003ca href=\"https://www.goultralow.com/\"\u003eGo Ultra Low\u003c/a\u003e .",
      "There are three types of ZEC vehicles:",
-     "{\"template\":\"bulletlist\",\"items\":[\"100% pure electric vehicles are powered by a battery which drives the electric motor. They have no exhaust emissions. Battery electric vehicles typically have a range of around 80 miles but some can achieve up to 300 miles\",\"Plug-in hybrid and range-extended electric vehicles also have a conventional diesel or petrol engine, meaning they have a longer range than with a battery alone\",\"Hydrogen fuel cell electric vehicles have a fuel cell which uses hydrogen to produce electricity and power the vehicle's wheels. They typically have a range of around 300 miles\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003e100% pure electric vehicles\\u003c/strong\\u003e are powered by a battery which drives the electric motor. They have no exhaust emissions. Battery electric vehicles typically have a range of around 80 miles but some can achieve up to 300 miles\",\"\\u003cstrong\\u003ePlug-in hybrid and range-extended electric vehicles\\u003c/strong\\u003e also have a conventional diesel or petrol engine, meaning they have a longer range than with a battery alone\",\"\\u003cstrong\\u003eHydrogen fuel cell electric vehicles\\u003c/strong\\u003e have a fuel cell which uses hydrogen to produce electricity and power the vehicle's wheels. They typically have a range of around 300 miles\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Benefits\"}",
      "By switching to a zero emission capable vehicle you can save money on fuel costs, reduce harmful vehicle emissions and help clean up London's air.",
      "There are also financial benefits:",
      "{\"template\":\"bulletlist\",\"items\":[\"Zero emission-capable vehicles that meet the criteria are eligible for a \\u003ca href=\\\"/modes/driving/congestion-charge/discounts-and-exemptions\\\"\\u003e100% discount on the Congestion Charge\\u003c/a\\u003e \",\"The Government offers grants for new plug-in vehicles, currently up to £3,500 for cars, £1,500 for motorcycles, £8,000 for vans and £7,500 for taxis. \\u003ca href=\\\"https://www.gov.uk/plug-in-car-van-grants/what-youll-get\\\"\\u003eFind out about plug-in car grants\\u003c/a\\u003e \",\"Zero emission capable vehicles pay either no vehicle tax (VED) or a reduced rate depending on their CO2 emissions, vehicle list price and year of registration. \\u003ca href=\\\"https://www.gov.uk/government/publications/ultra-low-emission-vehicles-tax-implications\\\"\\u003eFind out about tax benefits\\u003c/a\\u003e \",\"There is a range of \\u003ca href=\\\"http://carfueldata.direct.gov.uk/\\\"\\u003etax incentives for business users\\u003c/a\\u003e \",\"Some London boroughs offer free or reduced-charge parking for electric vehicles\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to charge your vehicle\"}",
-     "Most people charge at home overnight or at their workplace, but some will need to charge while they are on the move. \u003ca href=\"https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles\"\u003eGrants are available for electric vehicle charging infrastructure\u003c/a\u003e at home and at workplaces.",
-     "Public charge points can be found on the street and in key destinations such as shopping areas. You will usually need your own charging cable to use public charge points, although rapid charge points have the cable built in.",
-     "Different manufacturers use different connector types. Check with your vehicle manufacturer to find out what type of connector your vehicle uses and whether it is capable of rapid charging.",
-     " \u003ca href=\"https://www.zap-map.com/live/\"\u003eCharge point maps by Zap-Map\u003c/a\u003e show where your nearest public charge point is, the connector types, charging speeds, which network the charge point is operated by and how much it will cost to charge. Frequent users can join network membership schemes. Most networks also offer pay as you go charging.",
-     "We have guidance and research about zero emission capable vehicles that will help us, the London boroughs and charge point providers put charging infrastructure in the right places. \u003ca href=\"https://tfl.gov.uk/corporate/publications-and-reports/ultra-low-emission-vehicle-research\"\u003eFind out about ULEV research.\u003c/a\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rapid charge points for London\"}",
-     "Rapid charge points can charge an electric vehicle battery in 20-30 minutes. This is quicker than regular charge points that can take 7-8 hours for a full charge.",
-     "At most of these charge points you can pay as you go with a credit or debit card - you don't need to be a member.",
-     "Rapid charging bays (e-bays) are designed to be used by electric vehicle users only while charging. Any other vehicle parked in the bay may be issued with a penalty.",
-     "We've created more than 180 rapid charge points across London - we're committed to installing 300 by 2020.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charging your vehicle\"}",
+     "Most people charge at home overnight or at their workplace. \u003ca href=\"http://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles\"\u003eGrants are available for electric vehicle charging infrastructure\u003c/a\u003e at home and at workplaces.",
+     "Public charge points can be found on the street and in key destinations such as shopping areas.",
+     "The rapid charging network allows faster and more efficient charging of your electric vehicle so you can charge while on the move, usually in 20-30 minutes. We've provided more than 200 rapid charge points across London - and we're committed to installing 300 by the end of 2020.",
+     "Slower charge points are also available - these take can 5-8 hours for a full charge. If you are a Londoner who does not have access to off-street parking to charge at home, you can suggest a location for the delivery of an on-street, slow charge point through your borough. \u003ca href=\"https://www.londoncouncils.gov.uk/our-key-themes/transport/electric-vehicle-charging/suggest-location-ev-charge-point\"\u003eFind out how to suggest a location for a new charge point near to where you live.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Mayor's map of electric vehicle charge points\"}",
-     "The London Electric Vehicle Charge Points map is a simplified map of rapid charge points across Greater London and up to the M25. The map shows:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Your nearest public and taxi-only charge points\",\"Charging speed\",\"Which network the charge point is operated by\",\"Operating hours\",\"Charge points delivered with our support\"]}",
-     "The map does not currently show all non-TfL funded charging points across London.",
+     "The London Electric Vehicle Charge Points map is a simplified map of charge points across Greater London and up to the M25. It allows you to find your nearest charging point and filter to find charging points exclusively for taxi and private hire vehicle use.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"Find your nearest charge point\",\"texts\":[\"See where we have funded rapid charge points across London\"],\"link\":{\"url\":\"https://maps.london.gov.uk/ev-chargepoints/\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/ev-rapid-charging-map-thumb_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"London's charge points\",\"texts\":[\"See where we've built rapid charge points across London for both public and taxi use\"],\"link\":{\"url\":\"https://maps.london.gov.uk/ev-chargepoints/\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/ev-rapid-charging-map-thumb_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Find all charge points: London \\u0026 UK\",\"texts\":[\"Zap-Map is a UK-wide map to help EV drivers find available charge points\"],\"link\":{\"url\":\"https://www.zap-map.com/live/\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/zap-map_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Other rapid charge points\"}",
+     " \u003ca href=\"https://www.zap-map.com/live/\"\u003eCharge point maps by Zap-Map\u003c/a\u003e shows where many non-TfL funded rapid charge points are installed across London.",
+     "The map allows you to check which charge points are available, find your nearest rapid charging point and even plan a driving route to go via a rapid charging point. Zap Map can also be downloaded as an app on your mobile.",
+     "Five networks are responsible for installing, operating and maintaining rapid charge points on public land across London:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.esb-evsolutions.co.uk/\\\"\\u003eESB EV Solutions\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://fastnedcharging.com/en/locations\\\"\\u003eFastned\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.chargepointservices.co.uk/drivers/\\\"\\u003eGeniePoint\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://polar-network.com/\\\"\\u003ePOLAR\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.sourcelondon.net/\\\"\\u003eSource London\\u003c/a\\u003e \"]}",
+     "Most networks offer pay as you go charging and membership schemes for frequent users. Visit the network websites for more information on charging costs.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Non-TfL funded rapid charge points in London\",\"url\":\"/ruc-cdn/static/cms/documents/rapid-charge-points-non-tfl.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"New rapid charge points\"}",
      "We're investing £18m and working with the boroughs and other organisations to provide the rapid charging points London needs. Sites are on arterial roads we own and maintain, borough roads, car parks and on private land, including Heathrow Airport and multiple Shell service stations.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Charge points installed per borough as part of the TfL network\",\"url\":\"/ruc-cdn/static/cms/documents/tfl-network-rapid-charge-points-per-borough.pdf\",\"icon\":\"download\",\"size\":\"PDF 89KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Most networks also offer pay as you go charging (charge point costs will depend on the operator).",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Other rapid charge points\"}",
-     "Non-TfL funded rapid charge points are also available in London.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Non-TfL funded rapid charge points in London\",\"url\":\"/ruc-cdn/static/cms/documents/rapid-charge-points-non-tfl.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi-only rapid charge points\"}",
-     "The Mayor wants to establish London's taxi fleet as the greenest in the world and to phase out diesel. New taxis need to be zero-emission capable to be licensed. Tighter requirements have also been introduced for private hire vehicles (minicabs). Find out more about our how we're creating \u003ca href=\"https://tfl.gov.uk/info-for/taxis-and-private-hire/emissions-standards-for-taxis\"\u003egreener taxis\u003c/a\u003e and \u003ca href=\"https://tfl.gov.uk/info-for/taxis-and-private-hire/emissions-standards-for-phvs\"\u003egreener PHVs\u003c/a\u003e .",
-     "Rapid charge points will promote the greening of London's iconic black cab fleet, with many charging points dedicated exclusively to their use. E-taxi bays in several places are being restricted to London licensed e-taxis only. Drivers of other electric vehicles who park in an e-taxi bay risk getting a penalty. \u003ca href=\"https://www.zap-map.com/\"\u003eFind alternative charging locations on the Zap-Map website.\u003c/a\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rapid charging networks\"}",
-     "Five networks are responsible for installing, operating and maintaining rapid charge points on public land across London:",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.esb-evsolutions.co.uk/\\\"\\u003eESB EV Solutions\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://fastned.nl/en/locations\\\"\\u003eFastned\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.chargepointservices.co.uk/drivers/\\\"\\u003eGeniePoint\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://polar-network.com/\\\"\\u003ePOLAR\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.sourcelondon.net/\\\"\\u003eSource London\\u003c/a\\u003e .\"]}",
-     "Drivers will be able to pay to use rapid charge points without having to register or being a member of a scheme. Visit the network websites for more information on charging costs.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Customer support\"}",
-     "Customers will be supported by network operators at 24-hour, seven-days-a-week call centres. They have access to the latest information, such as the location and availability of rapid charge points, both on the web and through apps. The location data is being made available to encourage developers to create more apps.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Go Ultra Low City Scheme\"}",
-     "The \u003ca href=\"https://www.londoncouncils.gov.uk/our-key-themes/transport/roads/gulcs\"\u003eGo Ultra Low City Scheme (GULCS)\u003c/a\u003e is a joint TfL, Greater London Authority and boroughs project that aims to deliver over 1,500 on-street electric charge points for London's residents and car club vehicles by the end of 2020. The residential charging network will help Londoners without access to off-street parking make the switch to zero emission capable vehicles. Car club charge points will help car club operators transition their fleets.",
-     "The GULCS project is also funding at least six 'Neighbourhood of the Future' (NoF) projects - these will act as a testbed for innovative EV charging technologies, initiatives and policies to support the growth of clean vehicles in London.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Commercial vehicles\"}",
-     "Zero emission capable vehicles can help businesses and commercial drivers reduce costs, emissions and the level of servicing and maintenance required.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/charge-point-stand.jpg\",\"alt\":\"Street side vehicle charging point\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Electric vehicle (EV) infrastructure delivery plan\"}",
+     "Speeding up the switch to electric vehicles is critical to creating a zero emission future. The Mayor's Electric Vehicle (EV) Infrastructure Taskforce, made up of experts representing business, energy, infrastructure, government and London boroughs works to unlock barriers to expanding charging infrastructure and accelerating the switch to EVs in London.",
+     "The London electric vehicle infrastructure delivery plan shows fleets, businesses and London's residents that there is a clear way forward towards the right type and amount of charging infrastructure to serve London's needs.",
+     "We've created guidance for borough officers and third party organisations to help them with the installation of new EV charge points.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London electric vehicle infrastructure delivery plan - Executive summary\",\"url\":\"/ruc-cdn/static/cms/documents/london-electric-vehicle-infrastructure-taskforce-delivery-plan-executive-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.38MB\",\"image\":{}},{\"title\":\"London electric vehicle infrastructure delivery plan\",\"url\":\"/ruc-cdn/static/cms/documents/london-electric-vehicle-infrastructure-taskforce-delivery-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.21MB\",\"image\":{}},{\"title\":\"London electric vehicle charge point installation guidance\",\"url\":\"/ruc-cdn/static/cms/documents/london-electric-vehicle-charge-point-installation-guidance-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.35MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Support for electric vehicles in London\"}",
+     "We're making London's taxis to be the greenest in the world. New taxis need to be zero-emission capable to be licensed, and private hire vehicles (minicabs) need to meet new tighter requirements. Dedicated e-taxi bays are being installed to promote the greening of London's iconic black cab fleet. Find out more about our how we're creating \u003ca href=\"https://tfl.gov.uk/info-for/taxis-and-private-hire/emissions-standards-for-taxis\"\u003egreener taxis\u003c/a\u003e and \u003ca href=\"https://tfl.gov.uk/info-for/taxis-and-private-hire/emissions-standards-for-phvs\"\u003egreener PHVs\u003c/a\u003e .",
+     " \u003ca href=\"https://www.londoncouncils.gov.uk/our-key-themes/transport/roads/gulcs\"\u003eGo Ultra Low City Scheme (GULCS)\u003c/a\u003e is a joint TfL, Greater London Authority and boroughs project that aims to deliver over 1,500 on-street electric charge points for London's residents and car club vehicles by the end of 2020. The project is also funding at least six 'Neighbourhood of the Future' (NoF) projects to test EV charging technologies and policies.",
      " \u003ca href=\"http://locity.org.uk\"\u003eLoCITY\u003c/a\u003e is an industry-led programme to help the freight and fleet sector lead the way in improving air quality and reducing carbon emissions.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Additional research\"}",
-     "In addition to London's electric vehicle delivery plan we have other research about zero emission capable vehicles that will help us, the London boroughs and charge point providers put charging infrastructure in the right places .",
-     "See the \u003ca href=\"https://tfl.gov.uk/corporate/publications-and-reports/ultra-low-emission-vehicle-research\"\u003eUltra Low Emission Vehicle research page.\u003c/a\u003e "
+     "We publish \u003ca href=\"https://tfl.gov.uk/corporate/publications-and-reports/ultra-low-emission-vehicle-research\"\u003eUltra Low Emission Vehicle research\u003c/a\u003e to help us, the London boroughs and charge point providers put charging infrastructure in the right places."
     ],
     "link": {
      "image": {}
@@ -113,6 +101,24 @@
     "template": "listgroup",
     "title": "Also on this site",
     "links": [
+     {
+      "title": "Ultra Low Emission Zone",
+      "url": "/modes/driving/ultra-low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Congestion Charge",
+      "url": "/modes/driving/congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Taxi and Private Hire",
+      "url": "/corporate/publications-and-reports/taxi-and-private-hire",
+      "icon": "internal",
+      "image": {}
+     },
      {
       "title": "Air quality",
       "url": "/corporate/about-tfl/air-quality",

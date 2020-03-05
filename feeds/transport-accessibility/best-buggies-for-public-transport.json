@@ -37,9 +37,9 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We know that with such a big choice of buggies on the market, identifying the ideal one to use on public transport can be tricky\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "If you're currently making a decision on the type of buggy to buy for use on our network, we'd recommend you consider these things:",
+     "If you're making a decision on the type of buggy to buy for use on our network, we recommend you consider these things:",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Size\"}",
-     "It's important to select a buggy that's small and compact - both when standing and folded. It will need to be small enough to pass through our buses easily, and to share the wheelchair priority space with wheelchair users, other buggies, trollies, mobility aids or assistance dogs, and to fit into our lifts in stations.",
+     "Choose a buggy that's small and compact - both when standing and folded. It will need to be small enough to pass through our buses easily, and to share the wheelchair priority space with wheelchair users, other buggies, trollies, mobility aids or assistance dogs, and to fit into our lifts in stations.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Foldability\"}",
      "Space is sometimes limited on our services, so try to buy a buggy that's easy to fold.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Weight, comfort and manoeuvrability\"}",
@@ -56,14 +56,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -74,7 +66,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -124,7 +116,7 @@
       "image": {}
      },
      {
-      "title": "Baby on Board",
+      "title": "Baby on board badge",
       "url": "/transport-accessibility/baby-on-board",
       "image": {}
      },
@@ -134,7 +126,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

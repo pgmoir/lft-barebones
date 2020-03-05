@@ -40,7 +40,7 @@
      "{\"template\":\"intro\",\"texts\":[\"Children aged 5-10 get free travel on all our transport services with a Zip Oyster photocard.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/5-10-oyster-photocard_rdax_400x250.jpg\",\"alt\":\"5-10 Zip Oyster photocard\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Free travel on Tube, DLR, London Overground and TfL Rail\",\"Free travel on most \\u003ca href=\\\"/cdn/static/cms/documents/free-travel-areas-without-oyster-adult-accompanying-map.pdf\\\"\\u003eNational Rail services\\u003c/a\\u003e that accept pay as you go\",\"50% off adult rate tickets on the \\u003ca href=\\\"/modes/river/about-river-bus\\\"\\u003eThames Clippers River Bus services\\u003c/a\\u003e \",\"Pay as you go at a child rate on the \\u003ca href=\\\"/modes/emirates-air-line/index\\\"\\u003eEmirates Air Line\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Free travel on Tube, DLR, London Overground and TfL Rail (excluding between West Drayton and Reading)\",\"Free travel on most \\u003ca href=\\\"/cdn/static/cms/documents/free-travel-areas-without-oyster-adult-accompanying-map.pdf\\\"\\u003eNational Rail services\\u003c/a\\u003e that accept pay as you go\",\"50% off adult rate tickets on the \\u003ca href=\\\"/modes/river/about-river-bus\\\"\\u003eThames Clippers River Bus services\\u003c/a\\u003e \",\"Pay as you go at a child rate on the \\u003ca href=\\\"/modes/emirates-air-line/index\\\"\\u003eEmirates Air Line\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who is it for?\"}",
      "Children aged 5-10 can use a 5-10 Zip Oyster photocard.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"When you don't need a 5-10 Zip Oyster photocard\"}",
@@ -100,14 +100,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

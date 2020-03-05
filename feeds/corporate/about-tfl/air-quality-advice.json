@@ -57,17 +57,24 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
+    "title": "Air quality",
+    "links": [
+     {
+      "title": "Air quality advice",
+      "url": "/corporate/about-tfl/air-quality-advice",
+      "image": {}
+     },
+     {
+      "title": "Managing our green infrastructure",
+      "url": "/corporate/about-tfl/green-infrastructure",
+      "image": {}
+     }
+    ],
     "link": {
+     "title": "Air quality",
+     "url": "/corporate/about-tfl/green-infrastructure",
      "image": {}
     },
     "image": {},

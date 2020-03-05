@@ -17,12 +17,12 @@
   "primarys": [
    {
     "style": "card-top ",
-    "title": "Celebrate Pride 2019",
+    "title": "Go and discover London this winter",
     "texts": [
-     "Everything you need to know, from the parade to the after parties! 🏳️‍🌈"
+     "There's lots to see and do in London this winter ❄️"
     ],
     "link": {
-     "url": "https://londonblog.tfl.gov.uk/2019/06/17/pride-london/?hero-Home-Celebrate Pride 2019",
+     "url": "https://londonblog.tfl.gov.uk/2019/11/25/winter-activities/?hero-Home-Go and discover London this winter",
      "icon": "external",
      "image": {}
     },
@@ -46,12 +46,12 @@
    },
    {
     "style": "card-top ",
-    "title": "Central London bus changes",
+    "title": "Where will your bus take you?",
     "texts": [
-     "There are a number of changes to bus routes in central London"
+     "Visit iconic London sights on iconic London buses"
     ],
     "link": {
-     "url": "/modes/buses/permanent-bus-changes",
+     "url": "/travel-information/visiting-london/experience-london/bus-leisure-routes",
      "image": {}
     },
     "image": {},
@@ -59,12 +59,13 @@
    },
    {
     "style": "card-top ",
-    "title": "Air quality",
+    "title": "Facebook TravelBot",
     "texts": [
-     "Find out what we're doing and what you can do to help Londoners breathe cleaner air"
+     "Ask us about your Tube, bus and rail status on Facebook Messenger"
     ],
     "link": {
-     "url": "/corporate/about-tfl/air-quality",
+     "url": "https://m.me/tfltravelbot",
+     "icon": "external",
      "image": {}
     },
     "image": {},
@@ -116,6 +117,12 @@
      {
       "title": "Travel tools",
       "url": "/status-updates/travel-tools",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Modern slavery statement",
+      "url": "/corporate/transparency/index",
       "icon": "internal",
       "image": {}
      }

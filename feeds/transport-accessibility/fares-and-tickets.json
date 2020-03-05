@@ -60,14 +60,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -78,7 +70,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -118,7 +110,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

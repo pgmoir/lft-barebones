@@ -33,7 +33,6 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The Woolwich Ferry is open and running a regular service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "The Woolwich Ferry links Woolwich and North Woolwich. It's free and carries pedestrians, cyclists, cars, vans and lorries.",
      "The Ferry is operated by Briggs Marine and Environmental on behalf of TfL.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Operating hours\"}",
@@ -48,6 +47,7 @@
      "One boat runs approximately every 20 minutes throughout the day.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Christmas Day, Boxing Day and New Year's Day\"}",
      "There is no service on 25 and 26 December or on 1 January.",
+     "Check for planned closures and live service information on our \u003ca href=\"https://tfl.gov.uk/river/status/\"\u003estatus updates page\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tides and weather\"}",
      "The Woolwich Ferry is not usually affected by tidal conditions, but we sometimes need to suspend the service when there is an extremely high tide.",
      "We suspend the service when there is dense fog in the area.",
@@ -69,14 +69,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

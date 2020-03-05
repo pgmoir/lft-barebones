@@ -56,21 +56,13 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Elizabeth line",
     "links": [
      {
-      "title": "What we've done so far",
-      "url": "/travel-information/improvements-and-projects/what-we-ve-done-so-far",
+      "title": "Preparing for the Elizabeth line",
+      "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
       "image": {}
      },
      {
@@ -82,16 +74,11 @@
       "title": "Improving accessibility",
       "url": "/travel-information/improvements-and-projects/improving-accessibility",
       "image": {}
-     },
-     {
-      "title": "Preparing for the Elizabeth line",
-      "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
-      "image": {}
      }
     ],
     "link": {
      "title": "Elizabeth line",
-     "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
+     "url": "/travel-information/improvements-and-projects/improving-accessibility",
      "image": {}
     },
     "image": {},

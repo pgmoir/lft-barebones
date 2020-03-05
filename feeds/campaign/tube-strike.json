@@ -1,7 +1,7 @@
 {
  "pageTitle": "Tube strike",
  "keywords": "Tube ,Tube Strike ,TfL",
- "description": "Travel advice and information during Tube strikes",
+ "description": "TfL travel advice and information during Tube strikes",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -33,9 +33,30 @@
    {
     "template": "content",
     "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"A strike on the Bakerloo line is affecting services from Friday 21 February until Monday 24 February.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "There is severe disruption on the Bakerloo line. This is likely to continue until late afternoon on Monday 24 February.",
+     "We expect there will be no service on the line on Monday morning.",
+     "The line is expected to return to normal service from late afternoon on Monday.",
+     "Over the weekend, the Circle, District, Hammersmith \u0026 City and Metropolitan lines are closed in central London and the Northern line is also closed between Moorgate and Kennington.",
+     "Other Tube lines, the DLR, London Overground and TfL Rail are running as usual, but are likely to be busier.",
+     "Check status updates for the \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003eTube, London Overground, TfL Rail, DLR and Trams\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bakerloo line\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There is disruption to Bakerloo line services until the end of service on Monday 24 February\",\"Disruption could be anything from delays to no service\",\"Avoid using the Bakerloo line -  wherever possible\",\"Avoid peak times (Friday evening and Monday morning) if possible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Other lines\"}",
+     "Other lines are not affected by the strike, but there are planned closures over the weekend. Lines that are open will be busier throughout the strike.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Circle, District, Hammersmith \\u0026 City and Metropolitan lines closed in central London for testing of a new signalling system\",\"Northern line closed between Moorgate and Kennington due to work at Bankul\",\"Metropolitan and Hammersmith \\u0026 City lines terminate at Baker Street station. Jubilee line stops at Baker Street as normal\",\"Avoid changing lines at Baker Street station if possible as the station will be very busy\",\"Change between the Metropolitan line and the Jubilee line at Finchley Road station if possible\",\"London Overground, Northern, Metropolitan and Jubilee lines busier than usual\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"London Overground trains is busier than usual especially at peak times\",\"Trains between Harrow and Wealdstone and Euston are particularly busy\",\"On Sunday no trains will run between Kilburn High Road and Euston before 12:15 and after 20:15\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buses serving Bakerloo line stations are much busier than normal, especially at peak times on Friday evening and Monday morning\"]}",
+     "Check \u003ca href=\"https://tfl.gov.uk/bus/status/\"\u003ebus status updates\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Roads around Bakerloo line stations are busier than usual\",\"Car parks near stations on the Metropolitan, Jubilee, Northern and London Overground Lines are busier than usual\"]}",
+     "Check \u003ca href=\"https://tfl.gov.uk/traffic/status/\"\u003etraffic status updates\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Use our travel tools\"}",
      "Check before you travel and plan ahead using our travel tools. Keep up-to-date with the latest service information. See:",
-     "{\"template\":\"bulletlist\",\"items\":[\"This web page, which will be regularly updated\",\"TfL Twitter accounts, including \\u003ca href=\\\"https://twitter.com/TfLTravelAlerts\\\"\\u003e@TfLTravelAlerts\\u003c/a\\u003e , \\u003ca href=\\\"https://twitter.com/bakerlooline\\\"\\u003e@bakerlooline\\u003c/a\\u003e , \\u003ca href=\\\"http://www.twitter.com/piccadillyline\\\"\\u003e@TfLBusAlerts\\u003c/a\\u003e and \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e as well as the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\"Check the latest \\u003ca href=\\\"/status-updates/index\\\"\\u003estatus updates\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
+     "{\"template\":\"bulletlist\",\"items\":[\"This web page, which will be regularly updated\",\"The \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL TravelBot\\u003c/a\\u003e on Facebook Messenger\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\"The latest status updates for \\u003ca href=\\\"/status-updates/index\\\"\\u003eTube, London Overground TfL Rail, DLR and Trams\\u003c/a\\u003e \",\"The latest status updates for \\u003ca href=\\\"https://tfl.gov.uk/bus/status/\\\"\\u003ebuses\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/bus/status/\\\"\\u003etraffic\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
     ],
     "link": {
      "image": {}
@@ -47,14 +68,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

@@ -33,17 +33,17 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"This page explains how Transport for London, including its operating subsidiaries, use personal data collected via Closed Circuit Television (CCTV) and Automatic Number Plate Recognition (ANPR) camera systems across London's transport network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"This page explains how Transport for London, including its operating subsidiaries, use personal data collected via Closed Circuit Television (CCTV), body worn cameras and Automatic Number Plate Recognition (ANPR) camera systems across London's transport network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Camera systems we operate\"}",
      "Our CCTV is used to capture and monitor images of events that take place in specific locations in real time. The images may also be recorded on a computer hard drive or magnetic tape depending on the type of camera. Cameras may be focussed on a fixed location, set to scan a particular area, or they can be operated remotely by specially trained operators.",
-     "Some TfL employees are issued with body worn CCTV cameras, for example, Revenue Control Inspectors and some station staff on the London Underground network. These devices are able to capture audio recordings as well as images. The cameras are clearly visible and only switched on in the event of an incident (for example the member of staff being subjected to verbal abuse or threats of violence).",
-     "The cameras used to enforce our Road User Charging schemes (the Congestion Charge, Low Emission Zone and Ultra Low Emission Zone) are ANPR cameras which capture number plate data in the form of text rather than images. A still photographic image is also captured for evidential purposes if a Penalty Charge Notice (PCN) is issued.",
+     "Some TfL employees are issued with body worn CCTV cameras, for example, Revenue Control Inspectors and some station staff on the London Underground network, Bus Station Controllers in bus stations, Revenue Protection Inspectors on buses, Road Traffic Enforcement Officers and Taxi and Private Hire Compliance Officers. These devices are able to capture audio recordings as well as images. The cameras are clearly visible and are only switched on in the event of an incident (for example the member of staff being subjected to verbal abuse or threats of violence).",
+     "The cameras used to enforce our Road User Charging schemes (the Congestion Charge, Low Emission Zone and Ultra Low Emission Zone) are ANPR cameras which capture number plate data in the form of text rather than images. A still photographic image is also captured and used for evidential purposes if a Penalty Charge Notice (PCN) is issued.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Why we operate cameras\"}",
      "Under data protection legislation, we are only allowed to use personal information if we have a proper reason or 'legal basis' to do so. In the case of surveillance cameras, we operate them to perform tasks in support of our statutory functions - which are to deliver 'safe, integrated, efficient and economic transport facilities and services to, from and within Greater London'.",
-     "We operate surveillance cameras for these main purposes:",
+     "We operate surveillance cameras for these main purposes:",
      "{\"template\":\"bulletlist\",\"items\":[\"Protecting the health and safety of employees, customers and members of the public\",\"Protecting property and other infrastructure\",\"The management and investigation of major incidents\",\"Preventing and detecting crime and antisocial behaviour - including fare evasion\",\"Realtime traffic monitoring\",\"Enforcing traffic rules and regulations (eg relating to yellow box junctions, red routes and bus lanes); and our \\u003ca href=\\\"/corporate/privacy-and-cookies/road-user-charging\\\"\\u003eRoad User Charging Schemes\\u003c/a\\u003e \",\"Supporting the efficient management and operation of our road and rail networks\",\"The exercise or defence of legal claims\"]}",
      "We sometimes use stand-alone filming equipment on our road network to create a visual summary of the operational changes we make from time to time.",
-     "Examples might include improvements to the layout of road junctions, or cycle lanes or where we amend traffic signal timings. We use these videos both internally and externally to demonstrate how these changes have contributed to the Mayor's Transport Strategy and other initiatives such as the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets\u003c/a\u003e approach.",
+     "Examples might include improvements to the layout of road junctions, or cycle lanes or where we amend traffic signal timings. We use these videos both internally and externally to demonstrate how these changes have contributed to the Mayor's Transport Strategy and other initiatives such as the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets Approach\u003c/a\u003e .",
      "Every effort is made to ensure that the focus of any photographs or videos is the road network itself and not individual pedestrians, vehicles or cyclists. In the event that we inadvertently capture images of individuals - or vehicle number plates - we will use redaction techniques to minimise the extent so that people and cars are recognisable.",
      "If you are concerned about appearing in any video, please speak to a member of the staff at the time to stop filming and delete the footage that includes your image.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Camera locations\"}",
@@ -51,12 +51,13 @@
      "{\"template\":\"bulletlist\",\"items\":[\"London Underground stations, depots, car parks and trains\",\"Across London's road and tunnels network for monitoring road traffic and for traffic enforcement (including a number of mobile cameras, which can be deployed at various locations)\",\"Across London's road network for enforcement of our Road User Charging Schemes\",\"TfL bus stations\",\"Santander Cycles docking stations\",\"Piers operated by London River Services;\",\"Piers used by Woolwich Ferry services and on the Woolwich ferries\",\"Victoria Coach Station\",\"Dial-a-Ride vehicles and depots\",\"Kings Cross Visitor Centre\",\"Our office buildings\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping personal data secure\"}",
      "We take the privacy of our customers and the wider public very seriously and a range of robust policies, processes and technical measures are in place to control and safeguard access to, and use of, personal data associated with our surveillance camera systems.",
+     "Our CCTV may be stored on servers hosted within the United Kingdom or the European Economic Area (EEA). Any such storage will be subject to contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sharing personal data\"}",
-     "TfL has contracts with a number of third party service providers, which provide maintenance services and ensure the efficient day-to-day operation of our surveillance camera systems. We also use external service providers to download images from bus stations, London Underground stations and car park CCTV cameras when we have a business need to retain them for longer than the default retention period.",
+     "TfL has contracts with a number of third party service providers, which provide maintenance services and ensure the efficient day-to-day operation of our surveillance camera systems. We also use external service providers to download images from bus stations, London Underground stations and car park CCTV cameras when we have a business need to retain them for longer than the default retention period.",
      "On a case by case basis we may use and share CCTV images for research and analysis purposes. For example these may be used to improve the management of health and safety incidents, or travel demand management.",
      "Some of TfL's surveillance camera infrastructure is shared with third parties such as the police and local authorities. In certain agreed circumstances, they may take control of a limited number of cameras and use them for activities such as the prevention and detection of crime and anti social behaviour, policing major events and crowd control. These arrangements are covered by information sharing agreements and TfL is not responsible for the camera when it is in the control of the third party.",
      "Under a separate arrangement, we also share the ANPR cameras we use to enforce our Road User Charging schemes with the Metropolitan Police Service, who receive a direct feed of data for the purpose of preventing and detecting crime and for safeguarding national security. Find out more about this on our \u003ca href=\"/corporate/privacy-and-cookies/road-user-charging\"\u003eRoad User Charging privacy page.\u003c/a\u003e ",
-     "In some circumstances, other disclosures of personal data (including CCTV images) to the police and other law enforcement agencies are permitted by data protection legislation, if they relate to the prevention or detection of crime and/or the apprehension or prosecution of offenders. Before any such disclosure takes place, the police are required to demonstrate that the personal data concerned will assist them in this respect. Each police request to TfL is dealt with on a strictly case-by-case basis to ensure that any such disclosure is lawful.",
+     "In some circumstances, other disclosures of personal data (including CCTV and body worn camera images or audio) to the police and other law enforcement agencies are permitted by data protection legislation, if they relate to the prevention or detection of crime and/or the apprehension or prosecution of offenders. Before any such disclosure takes place, the police are required to demonstrate that the personal data concerned will assist them in this respect. Each police request to TfL is dealt with on a strictly case-by-case basis to ensure that any such disclosure is lawful.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London's buses\"}",
      "London's bus services are operated by individual bus companies on behalf of TfL. Any CCTV on London buses is the responsibility of the company that runs that particular service or route. If you require access to images of yourself recorded by a CCTV camera inside a bus you should contact the company who operates that particular bus route. You can find this information on signs displayed inside each vehicle or on our \u003ca href=\"/modes/buses/who-runs-your-bus\"\u003eWho runs your bus\u003c/a\u003e page.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Docklands Light Railway\"}",
@@ -68,23 +69,23 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Rail\"}",
      "TfL Rail is operated by a concession holder on behalf of TfL. Any CCTV systems in or around TfL Rail stations, depots or trains are generally the responsibility of the company that holds the concession. If you require access to images of yourself recorded by a CCTV camera installed on TfL Rail infrastructure, you should contact the concession holder. You can do this via our \u003ca href=\"/help-and-contact/contact-us-about-tube-and-rail\"\u003eContact TfL Rail page.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxis and private hire vehicles\"}",
-     "Taxis and private hire vehicles operating in London are licensed and regulated by TfL but the services are provided by independent operators and drivers. Some licensed taxi and private hire drivers/operators have installed CCTV (and, in some cases, audio recording) in their vehicles for the purposes of protecting the health and safety of drivers and passengers; and the prevention and detection of crime. Each individual driver/operator that has chosen to do so is fully responsible for their own CCTV system(s).",
+     "Taxis and private hire vehicles operating in London are licensed and regulated by TfL but the services are provided by independent operators and drivers. Some licensed taxi and private hire drivers/operators have installed CCTV (and, in some cases, audio recording) in their vehicles for the purposes of protecting the health and safety of drivers and passengers; and the prevention and detection of crime. Each individual driver/operator that has chosen to do so is fully responsible for their own CCTV system(s).",
      "TfL's Taxi and Private Hire function provides formal guidance to drivers and operators wishing to install CCTV, which outlines the standards with which the equipment must comply. Once installed, CCTV equipment is examined as part of the annual taxi or private hire vehicle licensing inspection.",
      "If you require access to images of yourself captured inside a taxi or private hire vehicle you should contact the company or driver who operates that particular vehicle. You can find this information on signage displayed inside the vehicle.",
-     "Find out more in our \u003ca href=\"https://tfl.gov.uk/cdn/static/cms/documents/guidelines-for-cctv-in-taxis-and-phv.pdf\"\u003eGuidelines for CCTV in Taxis and PHV (PDF 254KB)\u003c/a\u003e .",
+     "Find out more in our Guidelines for CCTV in Taxis and PHV on the \u003ca href=\"/corporate/publications-and-reports/taxi-and-private-hire\"\u003eTaxi \u0026 private hire publications page\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"External guidelines and best practice\"}",
      "TfL operates its surveillance camera systems in compliance with the data protection \u003ca href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/encryption/encryption-scenarios/#12\"\u003ecode of practice for surveillance cameras and personal information\u003c/a\u003e issued by the Information Commissioner's Office. The Code provides good practice advice for those involved in operating CCTV and other surveillance camera devices that view or record individuals. It also covers other information that relates to individuals, for example vehicle registration marks captured by ANPR equipment.",
      "We also voluntarily comply with the 12 principles set out in the \u003ca href=\"https://www.gov.uk/government/organisations/surveillance-camera-commissioner\"\u003eSurveillance Camera Code of Practice\u003c/a\u003e issued by the Home Office (which applies to local authorities and police forces in England and Wales). It states that organisations which use surveillance camera systems must:",
      "{\"template\":\"bulletlist\",\"items\":[\"use them for a specified purpose in pursuit of a legitimate aim\",\"take into account their effect on individuals and their privacy\",\"be as transparent as possible about how they use them\",\"have clear responsibility and accountability arrangements for all surveillance activities\",\"have clear rules, policies and procedures in place\",\"have no more images and information stored than is strictly necessary\",\"restrict access to retained images and information\",\"work to meet and maintain relevant operational, technical and competency standards\",\"have in place appropriate security measures to safeguard against unauthorised access and use\",\"have effective review and audit mechanisms\",\"use them in the most effective way to support public safety and law enforcement\",\"keep associated data accurate and up to date\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessing your personal data\"}",
-     "You can request copies of images or footage of yourself by making a \u003ca href=\"/corporate/privacy-and-cookies/access-your-data\"\u003esubject access request\u003c/a\u003e . Please note that in most cases, CCTV footage is only kept for a very limited time, and you shouldn't delay in making your request.",
+     "You can request copies of images or footage of yourself by making a \u003ca href=\"/corporate/privacy-and-cookies/access-your-data\"\u003esubject access request\u003c/a\u003e . Please note that in most cases, CCTV and body worn camera footage is only kept for a very limited time, and you shouldn't delay in making your request.",
      "You will need to provide as much information as possible about when and where the images or images were captured (ie the specific date, time and location). You will also need to submit a clear full length photograph of yourself with your request so that we can identify you when searching for the relevant images.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Raise a concern\"}",
-     "If you have any concerns about the way in which TfL uses surveillance camera systems to process personal data, or you want to make a complaint about an issue involving one of our cameras, please \u003ca href=\"mailto:privacy@tfl.gov.uk\"\u003eemail TfL's Privacy and Data Protection Team\u003c/a\u003e .",
-     "You can also contact TfL's Data Protection Officer by writing to:\u003cbr /\u003eData Protection Officer\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon",
+     "If you have any concerns about the way in which TfL uses surveillance camera systems to process personal data, or you want to make a complaint about an issue involving one of our cameras, please \u003ca href=\"mailto:DPO@tfl.gov.uk\"\u003eemail TfL's Privacy and Data Protection Team\u003c/a\u003e .",
+     "You can also contact TfL's Data Protection Officer by writing to:\u003cbr /\u003eData Protection Officer\u003cbr /\u003e4th Floor\u003cbr /\u003e5 Endeavour Square\u003cbr /\u003eLondon E20 1JN",
      "You are also entitled to raise a concern with the Information Commissioner's Office, the UK's independent body set up to uphold information rights. For more information, visit their website at \u003ca href=\"http://www.ico.org.uk\"\u003eico.org.uk\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this page\"}",
-     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in May 2019."
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in December 2019."
     ],
     "link": {
      "image": {}
@@ -97,14 +98,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Privacy \u0026 cookies",
@@ -112,11 +105,6 @@
      {
       "title": "Access your data",
       "url": "/corporate/privacy-and-cookies/access-your-data",
-      "image": {}
-     },
-     {
-      "title": "Bus data collection pilot",
-      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
       "image": {}
      },
      {
@@ -150,6 +138,11 @@
       "image": {}
      },
      {
+      "title": "Direct Vision Standard and the HGV safety permit scheme",
+      "url": "/corporate/privacy-and-cookies/direct-vision-standard-and-the-hgv-safety-permit-scheme",
+      "image": {}
+     },
+     {
       "title": "Employment",
       "url": "/corporate/privacy-and-cookies/employment",
       "image": {}
@@ -177,6 +170,11 @@
      {
       "title": "Protect your data",
       "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Reporting street problems",
+      "url": "/corporate/privacy-and-cookies/reporting-street-problems",
       "image": {}
      },
      {

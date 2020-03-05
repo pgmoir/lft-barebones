@@ -29,7 +29,7 @@
                 
             
             
-            
+                
                 <li><span class="last-breadcrumb">Review Fleet Auto Pay</span></li>
             
         
@@ -106,8 +106,8 @@
             content.Ulez100PercentDiscount = "This vehicle is currently registered for a 100% discount from the ULEZ.";
             content.UlezExemptMessage = "<p>Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the ULEZ charge.</p><p><strong>This may change - always check to see if you need to pay to drive within the zone.</strong></p>";
             content.UlezNoChargesMessage = "<p>Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle.</p><p><strong>This may change - always check to see if you need to pay to drive within the zone.</strong></p>";
-            content.HighChargesPayableMessage = "<p>This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.</p><p>If you believe this is incorrect, and you can give us evidence that your vehicle does meet the ULEZ emissions standards, you will need to <a href='/modes/driving/compliance-registration/before-you-start'>register it with us</a>.</p>";
-            content.LowChargesPayableMessage = "<p>This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.</p><p>If you believe this is incorrect, and you can give us evidence that your vehicle does meet the ULEZ emissions standards, you will need to <a href='/modes/driving/compliance-registration/before-you-start'>register it with us</a>.</p>";
+            content.HighChargesPayableMessage = "<p>This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times except Christmas Day - charging days run from midnight to midnight.</p><p>If you believe this is incorrect, and you can give us evidence that your vehicle does meet the ULEZ emissions standards, you will need to <a href='/modes/driving/compliance-registration/before-you-start'>register it with us</a>.</p>";
+            content.LowChargesPayableMessage = "<p>This vehicle does not meet the ULEZ emissions standards. You need to pay the ULEZ charge if you drive within the zone. The zone operates at all times except Christmas Day - charging days run from midnight to midnight.</p><p>If you believe this is incorrect, and you can give us evidence that your vehicle does meet the ULEZ emissions standards, you will need to <a href='/modes/driving/compliance-registration/before-you-start'>register it with us</a>.</p>";
             content.UlezHighLabel = "Should be paid";
             content.UlezLowLabel = "Should be paid";
             content.CongestionChargeLabelForDetailSection = "Congestion Charges:";
@@ -163,7 +163,7 @@
                 new
                 {
                     content = content,
-                    backUrl = "/modes/driving/fleet-autopay-manage-autopay-fleet-28966",
+                    backUrl = "",
                     successUrl = "/modes/driving/fleet-autopay-manage-add-permanent-success-29001",
                     failureUrl = "/modes/driving/fleet-autopay-manage-add-permanent-failure-28975"
                 });
@@ -179,10 +179,7 @@
     
   </div>
   <div class="aside" role="complementary">
-    
-    
-    
-   
+
     
 
         @{

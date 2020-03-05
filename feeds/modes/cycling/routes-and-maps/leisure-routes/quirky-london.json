@@ -1,0 +1,187 @@
+{
+ "pageTitle": "Quirky London",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Step away from the tourist hotspots and discover a quirky side of the city",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Routes and maps",
+   "url": "/modes/cycling/routes-and-maps"
+  },
+  {
+   "title": "Leisure routes",
+   "url": "/modes/cycling/routes-and-maps/leisure-routes"
+  },
+  {
+   "title": "Quirky London"
+  }
+ ],
+ "title": {
+  "title": "Quirky London",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Step away from the tourist hotspots and discover another side of the city - from ancient burial grounds to creepy museums, creative coffee shops and colourful squares.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/neals-yard-sc.jpg\",\"alt\":\"Buildings with brightly coloured windows in Neal's Yard\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hire a Santander Cycle\"}",
+     "You can use your own cycle or \u003ca href=\"/modes/cycling/santander-cycles/how-it-works\"\u003ehire a Santander Cycle\u003c/a\u003e for this route using our app or \u003ca href=\"/modes/cycling/santander-cycles/find-a-docking-station\"\u003edocking stations\u003c/a\u003e on the way. Drop off your cycle, enjoy the sights and then pick up another cycle.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Start the route\"}",
+     "The route is split into five parts. You can also \u003ca href=\"https://www.google.com/maps/d/embed?mid=19S8qDRJfbbG5sEpGgwJgcIIX1VM\u0026ll=51.51203020077286%2C-0.10849310000003243\u0026z=15\"\u003esee the route on a map\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hop Exchange to Cross Bones\"}",
+     "You can hire a Santander Cycle from the docking station at London Bridge.",
+     "1. Follow Southwark Street and take the first left at Redcross Way",
+     " \u003ca href=\"http://crossbones.org.uk/\"\u003eCross Bones Graveyard\u003c/a\u003e contains the bodies of over 15,000 prostitutes and paupers who were refused burial in church grounds.",
+     "2. Go back to Southwark Street and turn right onto Thrale Street",
+     "3. Follow the road to the end and turn right onto Southwark Bridge Road",
+     "4. Go over the bridge and join Queen Street",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cross Bones to Golden Boy\"}",
+     "1. Cross over five junctions on Queen Street",
+     "2. At the end of Kings Street, turn left onto Gresham Street and then take the second right onto Wood Street",
+     "3. Follow the street to the end and then turn left onto London Wall",
+     "4. Take the third exit on the roundabout down Aldersgate Street or you can get off your cycle and use the pedestrian crossings",
+     "5. At the end of the street turn left onto Long Lane and then take the first left onto Cloth Street",
+     "6. Turn right onto Middle Street and the follow through to Cloth Fair",
+     "London's oldest church, \u003ca href=\"https://www.greatstbarts.com/\"\u003eSt Bartholomew-the-Great\u003c/a\u003e was founded in 1123.",
+     "7. At the end, take the second exit on the roundabout onto Giltspur Street",
+     "8. Turn right onto Cock Lane",
+     "This statue marks where the Great Fire of London ended in 1666. It reminds Londoner's not to be gluttonous which was thought to be the cause of the fire by God.",
+     "9. Follow the lane to the end and turn right onto Snow Hill. You'll see Smithfield Market",
+     "10. Turn right onto Farringdon Street and follow it to the end, or you can get off your cycle and use the pedestrian crossings",
+     "11. Turn left onto Charterhouse Street and continue on to New Fetter Lane and then Fetter Lane",
+     "12. At the end of the lane, turn right onto Fleet Street and then take the first right onto Chancery Lane",
+     "13. Take the first left onto Carey Street and then turn right onto Serle Street",
+     "14. At the end of the street, turn left onto Lincoln's Inn Fields",
+     "Inside the Royal College of Surgeons is the \u003ca href=\"https://www.rcseng.ac.uk/museums-and-archives/hunterian-museum/\"\u003eHunterian Museum\u003c/a\u003e . It's home to curious collections of human and non-human anatomical and pathological specimens.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Hunterian Museum to Neal's Yard\"}",
+     "1. Turn right at Lincoln's Inn Fields and then left onto Remnant Street",
+     "2. Follow the street onto Great Queen Street and then turn right onto Drury Lane. You can dock your cycle here",
+     "3. Walk up Drury Lane and turn left onto Short Gardens and then turn right at Neal's Yard",
+     "Hidden away is the colourful little street of \u003ca href=\"https://www.visitlondon.com/things-to-do/place/42235615-neals-yard\"\u003eNeal's Yard\u003c/a\u003e . Home to quirky shops and cafes, there's lots to explore.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/santander-cycles/community\\\"\\u003eDownload the Santander Cycles app\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes\\\"\\u003eLeisure routes\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Saturday markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/saturday-markets",
+      "image": {}
+     },
+     {
+      "title": "Independent shops and markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/independent-shops-and-markets",
+      "image": {}
+     },
+     {
+      "title": "London's secret gardens",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/londons-secret-gardens",
+      "image": {}
+     },
+     {
+      "title": "Quirky London",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/quirky-london",
+      "image": {}
+     },
+     {
+      "title": "Sporting sights",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/sporting-sights",
+      "image": {}
+     },
+     {
+      "title": "Routes for Explore London tickets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+      "image": {}
+     },
+     {
+      "title": "Cycleways",
+      "url": "/modes/cycling/routes-and-maps/cycleways",
+      "image": {}
+     },
+     {
+      "title": "Mini-Hollands",
+      "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/santander-cycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

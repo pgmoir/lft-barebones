@@ -33,33 +33,41 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We have staff at all Tube, TfL Rail and Overground stations and on DLR trains.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We have staff at all Tube, TfL Rail and Overground stations whenever services are running. Some piers, all boats, the Emirates Air Line and Victoria Coach Station are staffed.",
+     "{\"template\":\"intro\",\"texts\":[\"All our staff are trained to offer you assistance and support.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Staff assistance\"}",
+     "We have staff at all Tube, TfL Rail and London Overground stations whenever services are running. Some piers, all boats, the Emirates Air Line and Victoria Coach Station are staffed too.",
      "Trams and buses are staffed by the driver and the DLR has Passenger Service Agents on trains.",
+     "On most of our rail networks, piers and boats, staff can give advice, information and assistance. If you need help planning a route or buying a ticket, please ask.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Turn-up-and-go service\"}",
+     "{\"template\":\"video\",\"style\":\"F4MkVvFAuIA\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We operate a Turn-up-and-go service on the London Underground and London Overground.",
+     "Most stations operated by TfL Rail offer Turn-up-and-go. To \u003ca href=\"https://www.nationalrail.co.uk/stations_destinations/default.aspx\"\u003echeck if a TfL Rail station offers 'Turn-up-and-go'\u003c/a\u003e enter the station name and check the Accessibility \u0026 Mobility Access section.",
+     "Turn-up-and-go means you do not have to pre-book assistance to use this service at these stations. Everyone is welcome to use our Turn-up-and-go service - it is popular with customers with visual impairments and mobility impairments, and groups.",
+     "We will:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Help you to get from the station entrance to the platform at the start of your journey\",\"Help you get on/off the train including deploying a ramp if required (where available)\",\"Arrange for you to be helped off the train at any interchange stations, and to help you board your next train\",\"Help you get off the train at your final destination, and back up to the station exit at the end of your journey and give you any onwarrd travel advice\",\"Let you know if there are unplanned disruptions on the network and suggest alternative step free access routes\"]}",
+     "You are responsible for your own luggage and possessions including buggies.",
+     "If you aren't sure whether you will need to use a boarding ramp at any point on your journey, use the \u003ca href=\"/cdn/static/cms/documents/step-free-tube-guide-map.pdf\"\u003eStep-free Tube guide\u003c/a\u003e or look out for the messages in \u003ca href=\"/plan-a-journey/index\"\u003eJourney Planner\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Booking assistance\"}",
-     "You do not have to pre-book assistance to use some of our services, as we operate a turn-up-and-go service on London Underground, London Overground and at some TfL Rail stations*.",
-     "However, you are welcome to book in advance on the Overground and TfL Rail as part of the national Passenger Assist service. If you would like to pre-book assistance you should do so at least 24 hours in advance by calling 0343 222 2000 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ). This helpline is open between 08:00-20:00 Mon - Sun (excluding Christmas Day). You can also book online on the \u003ca href=\"https://passenger-assist.org/assisttravel/TravelAssist.aspx?LAYOUT=BLANK\u0026TOCCode=DLkP6_p3jo9SUbFl9cJ_ZQ==\"\u003ePassenger Assist website\u003c/a\u003e .",
-     "If you need help accessing the DLR, visit the DLR website to contact our \u003ca href=\"/modes/dlr/dlr-ambassadors\"\u003eCommunity Ambassadors\u003c/a\u003e for advice.",
-     "* Please note that not all stations are staffed when services are running. Call 0343 222 1234 ( \u003ca href=\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) to find out more.",
+     "You are welcome to book in advance on London Overground and TfL Rail as part of the national Passenger Assist service.",
+     "If you would like to pre-book assistance you should do so at least 24 hours in advance.",
+     "You can book:",
+     "{\"template\":\"bulletlist\",\"items\":[\"online on the \\u003ca href=\\\"https://passenger-assist.org/assisttravel/TravelAssist.aspx?LAYOUT=BLANK\\u0026TOCCode=DLkP6_p3jo9SUbFl9cJ_ZQ==\\\"\\u003ePassenger Assist website\\u003c/a\\u003e .\",\"by calling 0343 222 2000 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e ). Open 08:00-20:00 every day (except Christmas Day)\"]}",
+     "If you need help accessing the DLR, contact our \u003ca href=\"/modes/dlr/dlr-ambassadors\"\u003eDLR Community Ambassadors\u003c/a\u003e for advice.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/staff-help700x438_rdax_400x250.jpg\",\"alt\":\"Staff help illustrative image\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to find staff\"}",
-     "On the Tube, TfL Rail and Overground, station staff are encouraged to offer help to anyone who looks as though they might need assistance. If you can't immediately see a staff member, they can usually be found in the ticket hall or gateline, or on platforms at busier times.",
+     "On the Tube, TfL Rail and London Overground, station staff are encouraged to offer help to anyone who looks as though they might need assistance. If you can't immediately see a staff member, they can usually be found in the ticket hall or gateline, or on platforms at busier times.",
      "On the DLR and trams, most stops and stations are unstaffed, but you can find a staff member on the train. Staff are easy to find at the coach station, Emirates Air Line terminals and on piers and boats.",
      "Help points can be found throughout our networks. You can use them to contact staff for information and assistance or in an emergency. Many have induction loops to work with hearing aids.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What to expect from staff\"}",
-     "On buses, the driver can kneel the bus if you need it lowered, put out the wheelchair ramp and encourage passengers to clear the wheelchair space if you need it. Drivers should also make sure passengers have time to hold on or sit down before moving away. Please ask them if you need any information or help.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Staff help on buses\"}",
+     "All bus drivers are trained to help customers who need extra assistance, including to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Pull in close to the kerb to reduce the gap\",\"Lower the bus to reduce the step up\",\"Deploy the wheelchair ramp if needed\",\"Require customers to make space for wheelchair users, unless it is unreasonable for them to do so\",\"Wait until you're seated or holding on before pulling away\"]}",
+     "Ask the bus driver if you need any further information or help.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"span\"}",
-     "On\nour rail networks, piers and boats, staff can give advice, information and assistance. If you\nneed help planning a route or buying a ticket, please ask.",
-     "If you need assistance or to use taxi features such as the intermediate step or swivel seat, just ask the driver.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Assistance to and from trains\"}",
-     "On the Tube, TfL Rail and Overground, station staff will accompany you to the train and help you on board and, if needed, can arrange for you to be met at your destination. If the station has manual boarding ramps to provide level access, staff will deploy these. Staff may not be able to provide assistance with heavy luggage or carrying buggies.",
-     "Anyone can use this service, but it is particularly used by blind and visually impaired passengers and people\nusing boarding ramps\nonto trains.",
-     "If\nyou would like to use this service, ask a member of staff when you arrive at\nthe station.",
-     "If\nyou aren't sure whether you will need to use a boarding ramp at any point on\nyour journey, use the \u003ca href=\"/transport-accessibility/wheelchair-access-and-avoiding-stairs\"\u003estep-free Tube guide\u003c/a\u003e or\nlook out for the messages in \u003ca href=\"/plan-a-journey/index\"\u003eJourney Planner\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel support card\"}",
-     "We\nproduce a travel support card to help people\ncommunicate any assistance or information requirements they have with staff. You can use it on any of our services.",
-     "There\nis space on the card to write down what assistance or information you need.",
-     " \u003ca href=\"https://tfl.gov.uk/forms/12387.aspx?cid=accessguides\"\u003eOrder your Travel Support card here\u003c/a\u003e .",
-     "Alternatively you can download and print your own copies:",
+     "We produce a travel support card to help people communicate any assistance or information requirements they have with staff. You can use it on any of our services.",
+     "There is space on the card to write down what assistance or information you need.",
+     " \u003ca href=\"https://tfl.gov.uk/forms/12387.aspx?cid=accessguides\"\u003eOrder your Travel Support card\u003c/a\u003e .",
+     "Alternatively you can \u003ca href=\"/cdn/static/cms/documents/travel-support-card-printable.pdf\"\u003edownload and print your own copies\u003c/a\u003e .",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"How to use your travel support card\",\"url\":\"/cdn/static/cms/documents/using-a-travel-support-card.pdf\",\"icon\":\"download\",\"size\":\"PDF 623KB\",\"image\":{}},{\"title\":\"Printable version of the travel support card\",\"url\":\"/cdn/static/cms/documents/travel-support-card-printable.pdf\",\"icon\":\"download\",\"size\":\"PDF 386KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
@@ -73,14 +81,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -91,7 +91,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -131,7 +131,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

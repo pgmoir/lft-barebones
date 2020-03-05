@@ -36,12 +36,16 @@
      "{\"template\":\"intro\",\"texts\":[\"If you are a mum-to-be, or if you travel in London with a pushchair, we want to make public transport easy for you to use. Here are a few resources to make your journeys with us easier.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"video\",\"style\":\"I7pm2FdkFPY\",\"title\":\"Top tips for baby \\u0026 toddler travel\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"Baby on Board order form\",\"texts\":[\"Get your free badge. In association with official partners Mothercare and BABYZEN\"],\"link\":{\"url\":\"/transport-accessibility/baby-on-board\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/mothercare-babyzen-logos-and-badge-700x350_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Baby on board badge order form\",\"texts\":[\"Get your free badge. In association with official partner BABYZEN\"],\"link\":{\"url\":\"/transport-accessibility/baby-on-board\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/babyzen-and-bob-logos-700x350_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Getting around with your buggy\",\"texts\":[\"Find out about the services and assistance available to help you travel\"],\"link\":{\"url\":\"/transport-accessibility/getting-around-with-your-buggy\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/new-buggy-700x350b_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Best buggies for public transport\",\"texts\":[\"Find out what to look for if you're going to use your buggy on public transport\"],\"link\":{\"url\":\"/transport-accessibility/best-buggies-for-public-transport\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Planning a journey with your buggy\",\"texts\":[\"Find out about the travel tools and information to help you plan and make journeys\"],\"link\":{\"url\":\"/transport-accessibility/planning-a-journey-with-your-buggy\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Toilet facilities map\",\"url\":\"/cdn/static/cms/documents/toilets-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 329KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 466KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guide to travelling while pregnant or with a buggy\",\"url\":\"/cdn/static/cms/documents/travelling-while-pregnant-or-with-a-buggy.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.48MB\",\"image\":{}},{\"title\":\"Toilet facilities map\",\"url\":\"/cdn/static/cms/documents/toilets-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 352KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 466KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Feeding your child on the network\"}",
+     "We want you to feel comfortable feeding your child on public transport, whether you're breastfeeding and/or bottle feeding. If you need a seat to do so, please ask if one isn't available. There are benches across the TfL network where you can feed your child too.",
+     "It is illegal for anyone to ask a breastfeeding woman to stop breastfeeding, or to leave a public place. If you are made to feel uncomfortable or experience a problem while travelling on our services speak to a member of TfL staff or use a help point.",
+     " \u003ca href=\"https://abm.me.uk/breastfeeding-information/feeding-baby-on-the-move/\"\u003eFind out more about feeding on the move\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -54,14 +58,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -72,7 +68,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -122,7 +118,7 @@
       "image": {}
      },
      {
-      "title": "Baby on Board",
+      "title": "Baby on board badge",
       "url": "/transport-accessibility/baby-on-board",
       "image": {}
      },
@@ -132,7 +128,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

@@ -1,5 +1,5 @@
 {
- "pageTitle": "Safety enforcement cameras",
+ "pageTitle": "Safety cameras",
  "keywords": "Coach drivers,Drivers,Freight industry,Taxi and private hire,Safety and security,Driving,TfL",
  "description": "How we aim to stop drivers speeding and make our roads safer",
  "template": "page-content",
@@ -18,11 +18,11 @@
    "url": "/corporate/safety-and-security/road-safety"
   },
   {
-   "title": "Safety enforcement cameras"
+   "title": "Safety cameras"
   }
  ],
  "title": {
-  "title": "Safety enforcement cameras",
+  "title": "Safety cameras",
   "card": {
    "link": {
     "image": {}
@@ -37,20 +37,33 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We're doing what we can to stop drivers speeding so our roads are much safer.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Safety cameras play a vital role in our campaign.",
-     "We've installed\nspeed and red light cameras at sites where people have been killed or\nseriously injured (KSI) due to a driver going too fast or running a red\nlight. On roads where we've introduced them, the number of people killed\nor seriously injured (KSI) fell by a dramatic 50%. That means\nour cameras help prevent 500 deaths or serious injuries each year.",
-     "TfL is currently undergoing a safety camera replacement programme, upgrading from wet film to digital cameras. Approximately 700 spot speed and red light cameras will be upgraded, with the programme completion scheduled for the end of 2016.",
-     "Four average speed camera trial routes will be installed across London as a part of the upgrade programme. The trial routes include:",
-     "The A40 was the first of the systems to go live in October 2015 followed by the A406 and A316 systems in June 2016, while the A2 system is scheduled to go live in 2017. \u003ca href=\"https://tfl.gov.uk/info-for/media/press-releases/2014/september/tfl-upgrades-london-s-safety-cameras\"\u003eReplacement programme press release\u003c/a\u003e ",
-     "Below is a map of our safety cameras:",
-     "Here are some more ways we're putting the brakes on speed:",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Speed Awareness Scheme\"}",
-     "When a driver is\ncaught breaking the speed limit by a small amount, we work with London's\npolice to encourage them to drive more slowly and more safely under the\nLondon Speed Awareness Scheme. After coming to one of these workshops,\ndrivers are much less likely to go over the speed limit.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Traffic Light Awareness Scheme\"}",
-     "These\nworkshops educate drivers about the dangers of ignoring traffic signals.\nThe scheme gives drivers the opportunity to assess their own driving\nand to give them the information they need to make the right choices\nabout how they drive in future.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Be safe, slow down\"}",
-     "Reducing the average speed on\nLondon's roads by just one mile per hour would cut the number of\ncrashes by 6%. Speed was reported as a factor in almost half (46%) of all fatal collisions, and 39% of KSI collisions in 2015."
+     "{\"template\":\"intro\",\"texts\":[\"Safety cameras help us stop drivers from speeding and causing unacceptable risk to other road users.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our streets need to be safe for all. The \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eVision Zero action plan\u003c/a\u003e shows that the faster people drive, the more likely they are to cause a collision, and for that to be fatal or with a serious outcome.",
+     "Speed is the single most important factor in the likelihood and severity of a collision.",
+     "The plan outlines how we are determined to tackle speed and other dangerous behaviours to reduce the number of people killed and seriously injured on our streets.",
+     "Safety cameras are one of the ways we can use to effectively manage and enforce speed limits in London.",
+     "A mixture of different types of safety cameras including speed cameras, red light cameras and average camera systems, are used in London. These cameras are installed at sites where people have been killed or seriously injured (KSI) due to a driver going too fast or running a red light.",
+     "We are currently upgrading approximately 700 spot speed and red light safety cameras from wet film to digital. This will be finished in 2019.",
+     "We want to be more proactive identifying areas of speed risk across London and are now working with the police and boroughs to develop a new criteria for safety camera installations.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"On-street enforcement\"}",
+     "Police officers are responsible for the on-street enforcement of speed limits. In London, enforcement is usually carried out by the Metropolitan Police Services (MPS), Roads and Transport Policing Command and the City of London Police.",
+     "We provide funding for:",
+     "{\"template\":\"bulletlist\",\"items\":[\"On-street speed enforcement carried out by the Roads and Transport Policing Command and the City of London Police\",\"Safety cameras operated by the MPS and Roads and Transport Policing Command\"]}",
+     "As promised in the Vision Zero action plan, the MPS will carry out more speed enforcement activity, in more places, by using mobile speed enforcement technology and changes in powers.",
+     "By covering more of London and identifying repeat offenders, they will deter drivers from speeding.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Community Roadwatch\"}",
+     "Safety cameras are only one of the ways to tackle speed related deaths and serious injuries on our roads. We work in partnership with the Metropolitan Police on many other speed management initiatives, including \u003ca href=\"/corporate/safety-and-security/road-safety/community-roadwatch\"\u003eCommunity Roadwatch\u003c/a\u003e .",
+     "Community Roadwatch aims to reduce speeding in residential areas, and gives local residents the opportunity to work side by side with their local police teams, and use speed detection equipment to identify speeding vehicles in their communities.",
+     "To take part in Community Roadwatch, or to suggest a residential area where there are community concerns around speeding, email \u003ca href=\"mailto:CommunityRoadwatch@met.police.uk\"\u003eCommunityRoadwatch@met.police.uk\u003c/a\u003e and tell them which borough you live in. The relevant local MPS Safer Transport Team will be in touch.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"RoadSafeLondon\"}",
+     "The public can report dangerous, illegal, or antisocial road user behaviour directly to the police with their online reporting tool, \u003ca href=\"https://www.met.police.uk/roadsafelondon/\"\u003eRoadSafe London\u003c/a\u003e . Every report helps the police and TfL to understand where and when bad road user behaviour takes place.",
+     "The information and intelligence gathered may lead to a prosecution.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Average camera system trials\"}",
+     "Four average speed camera trial routes were installed across London as a part of the upgrade programme. The trial routes include:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Diversionary courses\"}",
+     "When a driver is caught breaking the speed limit they may be offered the opportunity to attend a Speed Awareness Course. This gives drivers training and guidance on the importance of driving within the speed limit.",
+     "Studies show that these are effective methods of changing behaviour among low level offenders. Diversionary courses may also be offered to offenders who commit red light offences.",
+     " \u003ca href=\"https://www.drivetech.co.uk/driver-awareness-courses/courses\"\u003eFind out more on the DriveTech website.\u003c/a\u003e "
     ],
     "link": {
      "image": {}
@@ -62,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -86,7 +91,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -101,34 +106,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},

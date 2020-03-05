@@ -34,18 +34,16 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We publish a variety of financial reports and information relevant to debt investors and credit analysts.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Annual Report 2017/18\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Annual Report and statement of accounts 2017/2018\",\"url\":\"/cdn/static/cms/documents/tfl-annual-report-and-statement-of-accounts-2017-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.05MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-annual-report-17-18-thumb.jpg\",\"alt\":\"Cover of TfL Annual Report 2017/18\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Annual Report\"}",
+     "Read our \u003ca href=\"/corporate/publications-and-reports/annual-report\"\u003elatest Annual Report\u003c/a\u003e .",
      "Read our \u003ca href=\"/corporate/publications-and-reports/annual-reports-past-years\"\u003eAnnual Reports from previous years\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Budget 2019/20\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Budget 2019/20\",\"url\":\"/cdn/static/cms/documents/tfl-budget-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.09MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-budget-2019-thumb.gif\",\"alt\":\"TfL Budget 2019/20\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Business Plan December 2018\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Business Plan December 2018\",\"url\":\"/cdn/static/cms/documents/tfl-business-plan-2019-24.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.50MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/business-plan-2019.jpg\",\"alt\":\"business plan thumbnail\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Budget and Business Plan\"}",
+     "Read our \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003elatest Budget and Business Plan\u003c/a\u003e .",
      "Read our \u003ca href=\"/corporate/publications-and-reports/budget-and-business-plan-past-years\"\u003eBudgets and Business Plans from previous years\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quarterly progress reports\"}",
      "We produce \u003ca href=\"/corporate/publications-and-reports/quarterly-progress-reports\"\u003equarterly progress reports\u003c/a\u003e on the delivery and budget performance of the TfL Investment Programme and the operational and financial performance of the TfL Group.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Treasury management strategy\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Treasury management strategy 2019/20\",\"url\":\"/cdn/static/cms/documents/tfl-treasury-management-strategy-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Treasury management policies and practices\",\"url\":\"/cdn/static/cms/documents/treasury-management-policies-and-practices.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Policy relating to the use of derivative investments 2019/20\",\"url\":\"/cdn/static/cms/documents/policy-relating-to-the-use-of-derivative-investments-2018-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 27KB\",\"image\":{}},{\"title\":\"TfL Prudential Indicators 2019/20 to 2021/22\",\"url\":\"/cdn/static/cms/documents/prudential-indicators-2019-20-to-2021-22.pdf\",\"icon\":\"download\",\"size\":\"PDF 52KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Treasury management strategy 2019/20\",\"url\":\"/cdn/static/cms/documents/tfl-treasury-management-strategy-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}},{\"title\":\"Treasury management policies and practices\",\"url\":\"/cdn/static/cms/documents/treasury-management-policies-and-practices.pdf\",\"icon\":\"download\",\"size\":\"PDF 34KB\",\"image\":{}},{\"title\":\"Policy relating to the use of derivative investments 2019/20\",\"url\":\"/cdn/static/cms/documents/policy-relating-to-the-use-of-derivative-investments-2018-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 27KB\",\"image\":{}},{\"title\":\"TfL Prudential Indicators 2019/20 to 2021/22\",\"url\":\"/cdn/static/cms/documents/prudential-indicators-2019-20-to-2021-22.pdf\",\"icon\":\"download\",\"size\":\"PDF 52KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -57,14 +55,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

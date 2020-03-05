@@ -1,0 +1,58 @@
+{
+ "pageTitle": "DVS Enquiry Success",
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "DVS Enquiry Success"
+  }
+ ],
+ "title": {
+  "title": "DVS Enquiry Success",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your enquiry has been sent\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

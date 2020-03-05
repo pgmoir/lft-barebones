@@ -1,7 +1,7 @@
 {
- "pageTitle": "Borough funding",
+ "pageTitle": "Funding for your borough",
  "keywords": "TfL",
- "template": "page-cards",
+ "template": "page-content",
  "breadcrumbs": [
   {
    "style": "home",
@@ -9,15 +9,15 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
-   "title": "Borough funding"
+   "title": "Funding for your borough"
   }
  ],
  "title": {
-  "title": "Borough funding",
+  "title": "Funding for your borough",
   "card": {
    "link": {
     "image": {}
@@ -27,39 +27,41 @@
   }
  },
  "body": {
-  "primarys": [
-   {
-    "texts": [
-     "We provide a range of funding streams to help our partners in the boroughs to deliver the Mayor's Transport Strategy.",
-     "This section provides details on streams such as LIPs and Crossrail Complementary Measures."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ],
+  "primarys": [],
   "cards": [
    {
-    "title": "Local Implementation Plans",
+    "template": "content",
     "texts": [
-     "LIPs information, guidance and links to LIPs documents"
+     "{\"template\":\"intro\",\"texts\":[\"Along with the GLA we provide funding streams to help our partners in the boroughs and the City of London to deliver the Mayor's Transport Strategy.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"For Boroughs\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local Implementation Plans (LIPs)\"}",
+     "We offer financial support to London's 33 local authorities for schemes to improve their transport networks in line with Mayor's Transport Strategy objectives. This includes the Corridors funding that is allocated by a formula reflecting transport need across London, and bus and cycling project funding following TfL analysis about where the best opportunities lie for investment with best impacts. \u003ca href=\"/info-for/boroughs/local-implementation-plans\"\u003eFind out more about LIPs funding.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Liveable Neighbourhoods\"}",
+     "We fund projects that encourage walking, cycling and public transport use through the \u003ca href=\"/info-for/boroughs/liveable-neighbourhoods\"\u003eLiveable Neighbourhoods fund\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Mayor's Air Quality Fund\"}",
+     "The £22m \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-air-quality-fund\"\u003eMayor's Air Quality fund (MAQF)\u003c/a\u003e supports projects in London's boroughs that help improve air quality in our capital. The fund is currently closed for applications - it will reopen in autumn 2021.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Low Emission Neighbourhoods fund\"}",
+     "Among air quality projects funded by the MAQF are \u003ca href=\"/info-for/boroughs/low-emission-neighbourhoods\"\u003eLow Emission Neighbourhoods\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cycle training funding\"}",
+     "We provide funding to your borough for cycle training through the LIPs process. Your borough then arranges the \u003ca href=\"https://tfl.gov.uk/forms/12421.aspx\"\u003ecycle training that residents can sign up to\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Cycle parking funding\"}",
+     "We provide funding to your borough for cycle parking to support the delivery of the \u003ca href=\"https://tfl.gov.uk/modes/cycling/cycle-parking\"\u003eCycle Parking Implementation Plan\u003c/a\u003e . To apply for this fund and find out more about the eligibility criteria email \u003ca href=\"mailto:CycleParkingImplementation@tfl.gov.uk\"\u003eCycleParkingImplementation@tfl.gov.uk\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"For community groups\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Van/minibus scrappage fund\"}",
+     "Micro businesses, sole traders and charities that need help to replace vehicles that don't meet the Ultra Low Emission Zone (ULEZ) standards can apply to the \u003ca href=\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/scrappage-scheme\"\u003escrappage scheme for vans and minibuses\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"ULEZ car and motorcycle scrappage scheme\"}",
+     "Low income and disabled Londoners can apply for the \u003ca href=\"[ioID]#https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/car-and-motorcycle-scrappage-scheme\"\u003ecar and motorcycle scrappage scheme \u003c/a\u003e to help scrap older, more polluting cars and motorcycles in favour of cleaner vehicles and greener forms of transport.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Walking and cycling grant\"}",
+     " \u003ca href=\"http://walkingandcyclinggrants.london/\"\u003eWalking and Cycling Grants London\u003c/a\u003e is a programme which supports London's diverse communities to walk and cycle more often and more safely. It offers grants to projects of up to £10,000 over a three-year period.",
+     "Find out more in our press release on \u003ca href=\"https://tfl.gov.uk/info-for/media/press-releases/2019/july/tfl-doubles-funding-for-cycling-and-walking-programmes\"\u003eTfL funding for cycling and walking projects\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Healthy Streets fund for businesses\"}",
+     "Business Improvement Districts and recognised business groups can apply for this fund to implement proven consolidation initiatives like micro-consolidation, cargo bikes and preferred supplier schemes.",
+     "The fund aims to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"support initiatives and solutions that improve road network efficiency, local air quality and road safety by reducing the number of delivery and servicing related trips especially during peak hours (07:00 - 10:00)  and reducing vehicle emissions\",\"encourage active travel in areas that heavily rely on private car use\",\"evaluate the effectiveness of different initiatives and solutions, capture and then share achievements and lessons learned\"]}",
+     " \u003ca href=\"/info-for/deliveries-in-london/delivering-efficiently\"\u003eOur toolkits for businesses \u003c/a\u003e gives you some ideas for possible schemes in your area.",
+     "To apply for this fund email \u003ca href=\"mailto:HealthyStreetsFund@tfl.gov.uk\"\u003eHealthyStreetsFund@tfl.gov.uk\u003c/a\u003e ."
     ],
     "link": {
-     "url": "/info-for/boroughs/local-implementation-plans",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "title": "Liveable Neighbourhoods",
-    "texts": [
-     "We fund projects that encourage walking, cycling and using public transport"
-    ],
-    "link": {
-     "url": "/info-for/boroughs/liveable-neighbourhoods",
      "image": {}
     },
     "image": {},
@@ -72,10 +74,15 @@
    {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -93,16 +100,11 @@
       "title": "Planning \u0026 resources",
       "url": "/info-for/boroughs/planning-and-resources",
       "image": {}
-     },
-     {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
-      "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},
@@ -110,6 +112,35 @@
    },
    {
     "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "Air quality grant programme",
+      "url": "https://www.gov.uk/government/collections/air-quality-grant-programme",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Major route network funding",
+      "url": "https://www.gov.uk/government/publications/major-road-network-and-large-local-majors-programmes-investment-planning",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Housing Infrastructure Fund",
+      "url": "https://www.gov.uk/government/publications/housing-infrastructure-fund",
+      "icon": "external",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

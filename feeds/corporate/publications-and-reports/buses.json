@@ -34,8 +34,6 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"The documents below provide useful information on a range of bus-related issues.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus passenger usage data\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Bus service usage: passengers and kilometres operated by route, 2017/18\",\"url\":\"/cdn/static/cms/documents/bus-service-usage.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 191KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus service planning guidelines\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guidelines for planning bus services\",\"url\":\"/cdn/static/cms/documents/bus-service-planning-guidelines.pdf\",\"icon\":\"download\",\"size\":\"PDF 65KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses, signals and road crossings\"}",
@@ -57,14 +55,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

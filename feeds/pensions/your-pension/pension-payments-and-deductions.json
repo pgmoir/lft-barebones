@@ -38,7 +38,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Your pension is paid in advance every four weeks and will be paid directly into your bank or building society account.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"4\",\"12 May 2018\\u003cbr /\\u003e\",\"16 April 2018\\u003cbr /\\u003e\"],[\"8\",\"9 June 2018\\u003cbr /\\u003e\",\"14 May 2018\\u003cbr /\\u003e\"],[\"12\",\"7 July 2018\\u003cbr /\\u003e\",\"11 June 2018\\u003cbr /\\u003e\"],[\"16\",\"4 August 2018\\u003cbr /\\u003e\",\"9 July 2018\\u003cbr /\\u003e\"],[\"20\",\"1 September 2018\\u003cbr /\\u003e\",\"6 August 2018\\u003cbr /\\u003e\"],[\"24\",\"29 September 2018\\u003cbr /\\u003e\",\"3 September 2018\\u003cbr /\\u003e\"],[\"28\",\"27 October 2018\\u003cbr /\\u003e\",\"1 October 2018\\u003cbr /\\u003e\"],[\"32\",\"24 November 2018\\u003cbr /\\u003e\",\"29 October 2018\\u003cbr /\\u003e\"],[\"36\",\"22 December 2018\\u003cbr /\\u003e\",\"26 November 2018\\u003cbr /\\u003e\"],[\"40\",\"19 January 2019\\u003cbr /\\u003e\",\"24 December 2018\\u003cbr /\\u003e\"],[\"44\",\"16 February 2019\\u003cbr /\\u003e\",\"21 January 2019\\u003cbr /\\u003e\"],[\"48\",\"16 March 2019\\u003cbr /\\u003e\",\"18 February 2019\\u003cbr /\\u003e\"],[\"52\",\"13 April 2019\\u003cbr /\\u003e\",\"18 March 2019\\u003cbr /\\u003e\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"4\",\"11 May 2019\",\"15 April 2019\"],[\"8\",\"8 June 2019\",\"13 May 2019\"],[\"12\",\"6 July 2019\",\"10 June 2019\"],[\"16\",\"3 August 2019\",\"8 July 2019\"],[\"20\",\"31 August 2019\",\"5 August 2019\"],[\"24\",\"28 September 2019\",\"2 September 2019\"],[\"28\",\"26 October 2019\",\"30 September 2019\"],[\"32\",\"23 November 2019\",\"28 October 2019\"],[\"36\",\"21 December 2019\",\"25 November 2019\"],[\"40\",\"18 January 2020\",\"23 December 2019\"],[\"44\",\"15 February 2020\",\"20 January 2020\"],[\"48\",\"14 March 2020\",\"17 February 2020\"],[\"52\",\"11 April 2020\",\"16 March 2020\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pension increases\"}",
      "While you are below State Pension Age, the whole of your pension will increase each April.",
      "It is increased in line with the Retail Prices Index (RPI) inflation over the 12 months ending in the previous September. If you joined after 1 April 1989, your increases are limited to a maximum of 5%.",
@@ -95,14 +95,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

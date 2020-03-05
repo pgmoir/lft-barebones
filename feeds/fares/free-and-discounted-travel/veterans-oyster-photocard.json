@@ -43,7 +43,7 @@
      "{\"template\":\"bulletlist\",\"items\":[\"Free travel at anytime on bus, Tube, tram, DLR, London Overground and TfL Rail\",\"Free travel on most National Rail services in London\",\"Discounted fares on the \\u003ca href=\\\"/modes/emirates-air-line/index\\\"\\u003eEmirates Air Line\\u003c/a\\u003e \",\"Discounted fares on \\u003ca href=\\\"/modes/river/index\\\"\\u003eRiver Services\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel on National Rail\"}",
      "You can travel free on most National Rail services from 09:30 weekdays and anytime on weekends and public holidays:",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Veterans Concessionary Travel Scheme map\",\"url\":\"/cdn/static/cms/documents/veterans-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 42KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Veterans Concessionary Travel Scheme map\",\"url\":\"/cdn/static/cms/documents/veterans-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 32KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eService \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eBetween\\u003c/strong\\u003e \"],[\"Chiltern Railway\",\"Amersham and Marylebone\"],[\"Chiltern Railway\",\"West Ruislip and South Ruislip\"],[\"Great Northern\",\"Finsbury Park and King's Cross and Moorgate\"],[\"Thameslink\",\"West Hampstead Thameslink, Elephant \\u0026 Castle and London Bridge\"],[\"London Northwestern Railway\",\"Harrow \\u0026 Wealdstone and Euston\"],[\"Greater Anglia\",\"Stratford and Liverpool Street\"],[\"c2c\",\"Upminster and Fenchurch Street\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who is it for?\"}",
      "You can get a Veterans Oyster photocard if you:",
@@ -72,14 +72,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

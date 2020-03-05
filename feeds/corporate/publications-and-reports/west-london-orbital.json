@@ -58,7 +58,8 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
+    "template": "listgroup",
+    "style": "foldernav",
     "link": {
      "image": {}
     },

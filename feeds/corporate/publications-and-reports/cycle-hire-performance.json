@@ -36,6 +36,8 @@
      "{\"template\":\"intro\",\"texts\":[\"We publish information on the performance of our cycle hire scheme, including statistics such as revenue generated and the most frequent journeys. Santander replaced Barclays as the sponsor of the scheme in March 2015.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quarterly performance statistics\"}",
      "Santander Cycles (previously Barclays Cycle Hire/BCH)",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Quarterly performance report Q3 2019/20\",\"url\":\"/cdn/static/cms/documents/santander-cycles-quarterly-performance-q3-1920.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.12MB\",\"image\":{}},{\"title\":\"Quarterly performance report Q2 2019/20\",\"url\":\"/cdn/static/cms/documents/santander-cycles-quarterly-performance-q2-1920.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.13MB\",\"image\":{}},{\"title\":\"Quarterly performance report Q1 2019/20\",\"url\":\"/cdn/static/cms/documents/santander-cycles-quarterly-performance-q1-1920.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.13MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Quarterly performance report Q4 2018/19\",\"url\":\"/cdn/static/cms/documents/santander-cycles-quarterly-performance-q4-1819.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.12MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Quarterly performance report Q3 2018/19",
      "PDF 366KB",
      "Quarterly performance report Q2 2018/19",
@@ -96,14 +98,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

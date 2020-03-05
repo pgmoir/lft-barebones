@@ -66,7 +66,7 @@
      "Tram services run in south London between Wimbledon, Croydon, Beckenham and New Addington from around 05:00 to 00:30 Monday to Saturday and from 07:00 to 00:30 on Sunday. Find out more about \u003ca href=\"/modes/trams/index\"\u003eTram services\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-rail-roundel-thumbnail.jpg\",\"alt\":\"TfL Rail roundel thumbnail\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"TfL Rail\"}",
-     "Services run between Liverpool Street to Shenfield and Paddington to Heathrow from around 05:20 to 00:30 Monday to Sunday. These services will form part of the Elizabeth line when it is completed. Find out more about \u003ca href=\"/modes/tfl-rail/index\"\u003eTfL Rail\u003c/a\u003e .",
+     "Services run between Liverpool Street to Shenfield and Paddington to Heathrow and Reading from around 05:20 to 00:30 Monday to Sunday. These services will form part of the Elizabeth line when it is completed. Find out more about \u003ca href=\"/modes/tfl-rail/index\"\u003eTfL Rail\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/taxi-roundel-thumbnail.jpg\",\"alt\":\"Taxi roundel thumbnail\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxis \\u0026 minicabs\"}",
      "London's famous taxis (or black cabs), can be hailed on the street, booked in advance or picked up from designated taxi ranks. Find out more about \u003ca href=\"/modes/taxis-and-minicabs/index\"\u003etaxi and minicab services in London\u003c/a\u003e .",
@@ -101,14 +101,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -1,0 +1,79 @@
+{
+ "pageTitle": "Prosecutions",
+ "keywords": "TfL",
+ "description": "Find out about prosecutions, court proceedings and how to get help with your case.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Fares",
+   "url": "/fares/index"
+  },
+  {
+   "title": "Prosecutions"
+  }
+ ],
+ "title": {
+  "title": "Prosecutions",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out about prosecutions, court proceedings and how to get help with your case.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"/fares/find-fares/penalty-fares-and-how-to-pay-them\"\u003eFare evasion\u003c/a\u003e is a criminal offence and you may be prosecuted. If convicted, you will:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Get a criminal record\",\"Pay a fine of up to £1,000\",\"Pay compensation for fares avoided\",\"Pay a victim surcharge\",\"Pay prosecution costs\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Court proceedings\"}",
+     "If you're prosecuted, you'll receive a notice in the post that your case will be heard in Court.",
+     "You should reply to the Court with your plea, financial situation and any mitigation. If you don't reply, your case will be heard without you and this could mean you have to pay a higher fine.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Help with your case\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.gov.uk/find-a-legal-adviser\\\"\\u003eFind a legal advisor\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.citizensadvice.org.uk/\\\"\\u003eCitizens Advice\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.gov.uk/single-justice-procedure-notices\\\"\\u003eSingle justice procedure notices\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Get your case reopened\"}",
+     "If you've been prosecuted and weren't aware of the proceedings against you, you can make a statutory declaration to get your case reopened in the magistrates' court.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"How to get your case reopened\",\"url\":\"/cdn/static/cms/documents/how-to-get-your-case-reopened.pdf\",\"icon\":\"download\",\"size\":\"PDF 13KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/find-fares/penalty-fares-and-how-to-pay-them\\\"\\u003ePenalty fares and how to pay them\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

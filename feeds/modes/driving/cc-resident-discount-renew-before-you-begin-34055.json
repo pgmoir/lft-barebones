@@ -45,13 +45,13 @@
      "Your own private vehicle:",
      "{\"template\":\"bulletlist\",\"items\":[\"Your V5C vehicle registration certificate (logbook). (The vehicle must also be registered with the DVLA in your name and at the address you are using to apply for the residents’ discount)\"]}",
      "Company car:",
-     "A company car authorisation letter - this must be on company headed paper, state your full name, the Vehicle Registration Mark and confirm that the vehicle is for your use only. (The vehicle must be registered in the company name with the DVLA)",
+     "A company car authorisation letter - this must be on company headed paper, state your full name, the number plate (Vehicle Registration Mark) and confirm that the vehicle is for your use only. (The vehicle must be registered in the company name with the DVLA)",
      "Lease vehicle:",
      "{\"template\":\"bulletlist\",\"items\":[\"Vehicle lease document - this is the document that you signed to lease the vehicle. (The vehicle must be registered in the lease company name with the DVLA)\"]}",
      "A company car provided by a lease company:",
      "{\"template\":\"bulletlist\",\"items\":[\"Your company’s vehicle lease document (this is the document that you signed to lease the vehicle)\"]}",
      "AND",
-     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the Vehicle Registration Mark and confirm that the vehicle is for your use only. (The vehicle must be registered in the company or lease name with the DVLA)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"A company car authorisation letter - this must be on company headed paper, state your full name, the number plate (Vehicle Registration Mark) and confirm that the vehicle is for your use only. (The vehicle must be registered in the company or lease name with the DVLA)\"]}",
      "All documents must be clear enough to read easily. If we can't read them we may ask you for more proof. This will delay the registration process."
     ],
     "link": {

@@ -33,7 +33,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Here we publish information about contracts for the operation of Crossrail.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Here we publish information about contracts for the operation of Crossrail\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Information on contracts for the construction of Crossrail can be found on the \u003ca href=\"http://www.crossrail.co.uk/sustainability/economic-sustainability/direct-crossrail-contract-opportunities\"\u003eCrossrail website\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Crossrail services\"}",
      "We have awarded the contract to operate Crossrail services to MTR Corporation (Crossrail) Limited (MTR).",
@@ -57,14 +57,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

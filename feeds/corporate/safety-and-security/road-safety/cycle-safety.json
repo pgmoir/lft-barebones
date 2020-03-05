@@ -49,12 +49,13 @@
      "We're encouraging heavy goods vehicle operators to fit special cycle safety technology on their vehicles. This includes sensors and cameras that tell a driver when a cyclist or pedestrian is near.",
      "We're encouraging heavy goods vehicle operators to fit special cycle safety technology on their vehicles. This includes sensors and cameras that tell a driver when a cyclist or pedestrian is near. \u003ca href=\"/info-for/deliveries-in-london/delivering-safely\"\u003eFind out more about goods vehicle safety\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycle Skills\"}",
-     "Whether you're a first-time rider or a regular cyclist looking to improve your skills, we fund \u003ca href=\"/modes/cycling/cycling-in-london/cycle-skills\"\u003efree, tailored courses\u003c/a\u003e to suit your individual abilities and goals. Free to anyone who lives, works or studies in London.",
+     "Whether you're a first-time rider or a regular cyclist looking to improve your skills, we fund \u003ca href=\"/modes/cycling/cycle-skills\"\u003efree, tailored courses\u003c/a\u003e to suit your individual abilities and goals. Free to anyone who lives, works or studies in London.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exchanging Places events\"}",
-     "Did you know we offer Exchanging Places to make Heavy Goods Vehicle (HGV) drivers, bus drivers and cyclists more aware of one another on London's roads? These events give cyclists the opportunity to sit in the driver's seat of a HGV or bus and see what the driver can and cannot see at the kerbside and directly in front of their vehicle. There is also the opportunity to try Exchanging Places as a virtual reality experience. These new mobile headsets allow up to 10 people to participate at once, and is accessible for all ages.",
-     "Email \u003ca href=\"mailto:exchanging.places@met.police.uk\"\u003eexchanging.places@met.police.uk\u003c/a\u003e to suggest a location for an exchanging places event.",
+     "Did you know we offer Exchanging Places to make Heavy Goods Vehicle (HGV) drivers, bus drivers and cyclists more aware of one another on London's roads? These events give cyclists the opportunity to sit in the driver's seat of a HGV or bus and see what the driver can and cannot see at the kerbside and directly in front of their vehicle.",
+     "Exchanging Places can also be done as a virtual reality experience. Mobile headsets that allow up to 10 people to participate at once are accessible for all ages.",
+     "Email \u003ca href=\"mailto:exchanging.places@met.police.uk\"\u003eexchanging.places@met.police.uk\u003c/a\u003e to ask about attending an Exchanging Places event.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero for London\"}",
-     "We are committed to reducing road danger, by working in partnership with the police, London boroughs and stakeholders to achieve the Vision Zero ambition of creating a road network free from death and serious injury by 2041. \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eRead more information on Vision Zero.\u003c/a\u003e "
+     "We are committed to reducing road danger, by working in partnership with the police, London boroughs and stakeholders to achieve the Vision Zero ambition of creating a road network free from death and serious injury by 2041. \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eRead more information on Vision Zero.\u003c/a\u003e "
     ],
     "link": {
      "image": {}
@@ -66,14 +67,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -90,7 +83,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -110,34 +103,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},
@@ -145,23 +123,6 @@
    },
    {
     "template": "advert",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Cycling in London",
-      "url": "/modes/cycling/cycling-in-london",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
     "link": {
      "image": {}
     },

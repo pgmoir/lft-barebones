@@ -83,18 +83,6 @@
     "wrapped": false
    },
    {
-    "title": "Environment",
-    "texts": [
-     "New technology is helping us reduce the impact of transport on the environment"
-    ],
-    "link": {
-     "url": "/corporate/about-tfl/environment",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "title": "Planning for the future",
     "texts": [
      "Find out about our plans to transform the Capital's transport network"
@@ -154,6 +142,15 @@
    {
     "template": "advert",
     "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitterupdates",
+    "link": {
+     "title": "@TfL",
      "image": {}
     },
     "image": {},

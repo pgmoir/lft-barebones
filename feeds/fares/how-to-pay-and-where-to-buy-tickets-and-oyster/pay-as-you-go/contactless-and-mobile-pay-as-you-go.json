@@ -42,8 +42,9 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Use a contactless card or mobile device for adult rate pay as you go travel on all our transport services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/contactless-icon_rdax_400x250.jpg\",\"alt\":\"Black and white icon for contactless showing 4 curved lines starting small and getting bigger\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contactless cards\"}",
-     "If your bank card issued on Visa, Mastercard, Maestro or American Express shows the contactless payment symbol, you can use it to pay as you go straight away. You'll pay an adult rate fare.",
+     "If your bank card shows the contactless payment symbol, you can use it to pay as you go straight away. You'll pay an adult rate fare.",
      "Many contactless cards issued outside the UK can be used to pay as you go for travel (overseas transaction fees may apply):",
      "{\"template\":\"bulletlist\",\"items\":[\"American Express (AMEX)\",\"MasterCard and Maestro (some cards issued in the USA, Canada and the Netherlands aren't accepted)\",\"Visa and V PAY (some cards issued outside the UK aren't accepted)\"]}",
      "If you have a prepaid card, it may be accepted on our transport services. Check with your card issuer if you're not sure if your card is contactless or if it's rejected.",
@@ -51,15 +52,20 @@
      "Using a mobile payment to pay as you go is the same as using a contactless card.",
      "You can make mobile payments with devices such as phones, watches, key fobs, stickers or wristbands.",
      "You can use different mobile payments to travel on our transport services:",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.apple.com/uk/apple-pay/\\\"\\u003eApple Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.barclaycard.co.uk/personal/customer/contactless-mobile\\\"\\u003eBarclaycard Contactless Mobile\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.barclays.co.uk/ways-to-bank/mobile-banking-services/contactless-mobile/\\\"\\u003ebPay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.fitbit.com/uk/fitbit-pay\\\"\\u003eFitbit Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://explore.garmin.com/en-GB/garmin-pay/\\\"\\u003eGarmin Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://pay.google.com/about/\\\"\\u003eGoogle Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.samsung.com/uk/samsung-pay/\\\"\\u003eSamsung Pay\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.apple.com/uk/apple-pay/transport/\\\"\\u003eApple Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.barclaycard.co.uk/personal/customer/contactless-mobile\\\"\\u003eBarclaycard Contactless Mobile\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.barclays.co.uk/ways-to-bank/mobile-banking-services/contactless-mobile/\\\"\\u003ebPay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.fitbit.com/uk/fitbit-pay\\\"\\u003eFitbit Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://explore.garmin.com/en-GB/garmin-pay/\\\"\\u003eGarmin Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://pay.google.com/about/\\\"\\u003eGoogle Pay\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.samsung.com/uk/samsung-pay/\\\"\\u003eSamsung Pay\\u003c/a\\u003e \"]}",
      "If you use a mobile payment associated with a non-UK bank card, your card may not work or you may be charged overseas transaction fees. Check with your card issuer.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to use\"}",
      " \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\"\u003eTouch in\u003c/a\u003e at the start of your journey and \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\"\u003etouch out\u003c/a\u003e at the end on yellow card readers using contactless (card or device). Only touch in on buses and trams.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/contactless-card.jpg\",\"alt\":\"Contactless card over a yellow card reader\"},\"wrapped\":false}",
      "You can pay for someone else's travel with your contactless card or device if they're travelling with you. You need to pay for your own travel with a different card or device.",
      "If you have a joint bank account, you can usually both use your contactless cards to travel as each card will be charged separately.",
      "Find out \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go/why-doesnt-my-contactless-card-work\"\u003ewhy your contactless card might not work\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay the right fare\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eAlways use the same device or contactless card to \\u003c/strong\\u003e to pay the right fare for your journey. If you don't, we won't be able to cap your fares. For example, don't touch in with an iPhone and touch out with an Apple Watch or contactless card.\",\"\\u003cstrong\\u003eWatch out for \\u003c/strong\\u003e by keeping your contactless and Oyster cards away from your device when touching in and out so you pay for your travel with the right card or device\",\"\\u003cstrong\\u003eMake sure you have enough battery\\u003c/strong\\u003e otherwise you'll pay the maximum fare or might get a penalty fare\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eAlways use the same device or contactless card to \\u003c/strong\\u003e to pay the right fare for your journey. If you don't, we won't be able to cap your fares. For example, don't touch in with an iPhone and touch out with an Apple Watch or contactless card.\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/contactless-same-device.jpg\",\"alt\":\"A contactless card over a yellow card reader, followed by a device over a reader and a cross showing a clash. Contactless card followed by the same card showing the correct process.\"},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eMake sure you have enough battery\\u003c/strong\\u003e otherwise you'll pay the maximum fare or might get a penalty fare\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/device-battery.jpg\",\"alt\":\"A mobile device showing a full green battery.\"},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eWatch out for \\u003c/strong\\u003e by keeping your contactless and Oyster cards away from your device when touching in and out so you pay for your travel with the right card or device\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much does it cost?\"}",
      "You can check your fare on our \u003ca href=\"/fares/find-fares/tube-and-rail-fares/single-fare-finder\"\u003esingle fare finder\u003c/a\u003e .",
      "Travel as much as you like in one day or week (Monday to Sunday) and we'll \u003ca href=\"/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps\"\u003ecap your fares\u003c/a\u003e so you don't pay more.",
@@ -85,14 +91,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

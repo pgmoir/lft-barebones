@@ -1,0 +1,63 @@
+{
+ "pageTitle": "Smart commuting",
+ "keywords": "TfL",
+ "description": "Smart commuting toolkit",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Smart commuting"
+  }
+ ],
+ "title": {
+  "title": "Smart commuting",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find out how to influence employee travel and improve your business.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Increasing active travel and smart working while reducing car use can have tangible health, wellbeing and productivity benefits for your business.",
+     "Smart commuting is about ways businesses can help their employees and visitors to have better journeys by using sustainable modes. It includes avoiding crowding and congestion as well as finding healthier travel choices such as active travel or less polluted walking routes. All of this will help to reduce traffic and pollution.",
+     "Use our smart commuting toolkit to influence how people at your workplace travel to and from work.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Smart commuting toolkit\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Smart commuting toolkit\",\"url\":\"/cdn/static/cms/documents/smart-commuting-toolkit.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.65MB\",\"image\":{}},{\"title\":\"Smart commuting checklist\",\"url\":\"/cdn/static/cms/documents/smart-commuting-checklist.pdf\",\"icon\":\"download\",\"size\":\"PDF 30KB\",\"image\":{}},{\"title\":\"Smart commuting case studies\",\"url\":\"/cdn/static/cms/documents/smart-commuting-case-studies.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.09MB\",\"image\":{}},{\"title\":\"Employee travel survey template\",\"url\":\"/cdn/static/cms/documents/employee-travel-survey-template.pdf\",\"icon\":\"download\",\"size\":\"PDF 313KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

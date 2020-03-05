@@ -33,23 +33,23 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Walk, cycle and discover London this summer.\",\"Why not improve your health, save money, and experience London in a different way? Leave your car at home and walk or cycle instead.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Why not improve your health, save money, and experience London in a different way? Leave your car at home and walk or cycle instead.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"video\",\"style\":\"oscipmO41J4\",\"title\":\"Try a new route, find a new London\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
      "Research by Public Health England shows that leaving your car at home and walking briskly for just ten minutes, twice a day, improves your health.",
      "In London, at least \u003ca href=\"/modes/walking/health-and-walking\"\u003e42% of adults aren't doing enough physical activity\u003c/a\u003e to stay healthy.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"title\":\"Use Headspace for free\",\"texts\":[\"Make your journeys more mindful with walking meditations on the Headspace app\"],\"link\":{\"url\":\"https://londonblog.tfl.gov.uk/2019/08/30/travel-mindfulness-tips-with-headspace/\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/headspace_rdax_400x200.png\"},\"wrapped\":true}",
      "{\"title\":\"Discover walking\",\"texts\":[\"Find beautiful walks around London and see how walking improves your health\"],\"link\":{\"url\":\"/modes/walking/index\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/active-travel-walking_rdax_400x200.jpg\"},\"wrapped\":true}",
-     "{\"title\":\"A brisk walk improves your health\",\"texts\":[\"Walk for ten minutes, twice a day and track your progress in the Active 10 app\"],\"link\":{\"url\":\"https://www.nhs.uk/oneyou/active10/home#uBTLs8FEarqHHT6D.97\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/active-10-app-walk_rdax_400x200.jpg\"},\"wrapped\":true}",
-     "{\"title\":\"Walking helps dementia\",\"texts\":[\"We've teamed up with Southwark Dementia Action to create sensory walks\"],\"link\":{\"url\":\"https://londonblog.tfl.gov.uk/2017/09/07/explore-southwark-park-through-your-senses/\",\"icon\":\"external\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"A brisk walk improves your health\",\"texts\":[\"Walk for ten minutes, twice a day and track your progress in the Active 10 app\"],\"link\":{\"url\":\"https://www.nhs.uk/oneyou/active10/home#uBTLs8FEarqHHT6D.97\",\"icon\":\"external\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"See our walking tube map\",\"texts\":[\"You can easily fit walking into your journey around London using our walking tube map\"],\"link\":{\"url\":\"http://content.tfl.gov.uk/walking-tube-map-journey-times.pdf\",\"icon\":\"external\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
-     "The number of cyclists on London's roads has almost doubled in the last ten years. Our \u003ca href=\"/modes/cycling/routes-and-maps/quietways\"\u003eQuietways\u003c/a\u003e and \u003ca href=\"/modes/cycling/routes-and-maps/cycle-superhighways\"\u003eCycle Superhighways\u003c/a\u003e have transformed streets, making cycling easier, safer and available to everyone.",
-     "Why not brush up on your cycle skills with a free \u003ca href=\"/modes/cycling/cycling-in-london/cycle-skills\"\u003eCycle Skills session\u003c/a\u003e ? Whether you've just starting cycling, or you ride regularly, you can improve your cycling in our free tailored sessions.",
+     "The number of cyclists on London's roads has almost doubled in the last ten years. Our \u003ca href=\"/modes/cycling/routes-and-maps/cycleways\"\u003eCycleways\u003c/a\u003e are transforming streets, making cycling easier, safer and available to everyone.",
+     "Why not improve your cycling with free \u003ca href=\"/modes/cycling/cycle-skills\"\u003ecycle skills training\u003c/a\u003e ? Whether you've just starting cycling, or you ride regularly, our sessions are for all abilities.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"title\":\"Discover cycling\",\"texts\":[\"Find cycle routes, maps and scenic rides, and read about cycling in London\"],\"link\":{\"url\":\"/modes/cycling/index\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/active-travel-cycling_rdax_400x200.jpg\"},\"wrapped\":true}",
-     "{\"title\":\"New to cycling?\",\"texts\":[\"Read our cycling tips and guides, and see stories of fellow cyclists\"],\"link\":{\"url\":\"/modes/cycling/new-to-cycling\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-people-street2_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"New to cycling?\",\"texts\":[\"Read our cycling tips\"],\"link\":{\"url\":\"http://www.londonblog.tfl.gov.uk/cycling-tips\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-people-street2_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Ride Santander Cycles\",\"texts\":[\"Hire a Santander Cycle from any terminal across London from as little as £2\"],\"link\":{\"url\":\"/modes/cycling/santander-cycles\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"listgroup\",\"title\":\"Experience London blog\",\"links\":[{\"title\":\"Read our blog\",\"url\":\"https://londonblog.tfl.gov.uk/\",\"icon\":\"external\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
@@ -64,14 +64,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "twitterupdates",
     "link": {

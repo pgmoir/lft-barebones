@@ -56,7 +56,7 @@
      "It was agreed that the agency should be established as a subsidiary of Transport for London (TfL) and in 1997 London River Services (LRS) was formally incorporated as a limited company.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-today_rdax_400x457.jpg\",\"alt\":\"River Thames today\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Thames today\"}",
-     "Today regular River Bus, River Tour and charter services call at piers across London, including the eight piers owned by \u003ca href=\"/corporate/about-tfl/what-we-do/river\"\u003eLondon River Services\u003c/a\u003e .",
+     "Today regular River Bus, River Tour and charter services call at piers across London, including the eight piers owned by \u003ca href=\"/corporate/about-tfl/what-we-do\"\u003eLondon River Services\u003c/a\u003e .",
      "In 2009 the River Concordat group was formed to bring together local authorities, private sector organisations and boat operating companies to unlock the river's full potential as both a transport artery and tourist attraction.",
      "Following the success of the London 2012 Olympic and Paralympic Games, the then-Mayor of London committed to increasing annual passenger numbers on the river to 12 million by 2020. The \u003ca href=\"/corporate/publications-and-reports/river-action-plan\"\u003eRiver Action Plan\u003c/a\u003e outlines a number of measures to be taken by TfL and other stakeholders to boost the number of trips on the river and increase the integration of river services with London's transport network.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Woolwich Ferry\"}",
@@ -75,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -163,7 +155,7 @@
      },
      {
       "title": "London Metropolitan Archives (LMA)",
-      "url": "http://www.cityoflondon.gov.uk/things-to-do/visiting-the-city/archives-and-city-history/london-metropolitan-archives/Pages/default.aspx",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/london-metropolitan-archives/Pages/default.aspx",
       "icon": "external",
       "image": {}
      },

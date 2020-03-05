@@ -20,19 +20,11 @@
 </div>
 }
               
-@{int toId=0;
-    if (Request.QueryString["ToId"] != null)
-    {
-       int.TryParse(Request.QueryString["ToId"], out toId);
-    }
-    string stopId = toId == 0 ? "default" : toId.ToString();
-} 
-
 @section adverts {
         <div class="top-banner-advert">
-            <div class="large" data-advert="/76889402/Stations_All/jp-results-@stopId" data-advert-sizes="970, 90|970, 250"></div>
-            <div class="medium" data-advert="/76889402/Stations_All/jp-results-@stopId" data-advert-sizes="728, 90"></div>
-            <div class="small" data-advert="/76889402/Stations_All/jp-results-@stopId" data-advert-sizes="300, 50|320, 50"></div>
+            <div class="large" data-advert="/76889402/Stations_All/jp-results" data-advert-sizes="970, 90|970, 250"></div>
+            <div class="medium" data-advert="/76889402/Stations_All/jp-results" data-advert-sizes="728, 90"></div>
+            <div class="small" data-advert="/76889402/Stations_All/jp-results" data-advert-sizes="300, 50|320, 50"></div>
         </div>
 }
               
@@ -74,8 +66,8 @@
              <div class="advert-tile unsponsored-style google-ads">
         <div class="advert-link">
             <div class="advert-content">
-                <div class="medium-large" data-advert="/76889402/Stations_All/jp-results-@stopId" data-advert-sizes="300, 250"></div>
-                <div class="small" data-advert="/76889402/Stations_All/jp-results-@stopId" data-advert-sizes="300, 250"></div>
+                <div class="medium-large" data-advert="/76889402/Stations_All/jp-results" data-advert-sizes="300, 250"></div>
+                <div class="small" data-advert="/76889402/Stations_All/jp-results" data-advert-sizes="300, 250"></div>
             </div>
         </div>
     </div>

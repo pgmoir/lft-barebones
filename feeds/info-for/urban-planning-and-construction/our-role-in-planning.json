@@ -56,7 +56,7 @@
      "A case officer is assigned when we receive your planning application or policy consultation. You only need to take action if we ask for further information about transport in your proposals.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find out more about our role\"}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"Planning with WebCAT\",\"texts\":[\"Our WebCAT toolkit helps you plan your development in London\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/planning-applications/planning-with-webcat\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/webcat-ptal-teaser_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Use our resources\",\"texts\":[\"Check our resources to help you plan your development\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/urban-planning-and-construction-resources\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-in-walthamstow_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Design and heritage\",\"texts\":[\"Find out how we promote good urban design practice in London\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/planning-applications/design-and-heritage\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/walk-development_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Heritage advice\",\"texts\":[\"We're responsible for many heritage assets and can give you advice\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/urban-design/heritage-advice\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Mayoral Community Infrastructure Levy\",\"texts\":[\"Our role with the Mayor's Community Infrastructure Levy (MCIL)\"],\"link\":{\"url\":\"/info-for/urban-planning-and-construction/planning-applications/community-infrastructure-levy\",\"image\":{}},\"image\":{},\"wrapped\":true}",
@@ -77,14 +77,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

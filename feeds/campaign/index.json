@@ -1,10 +1,20 @@
 {
- "pageTitle": "Tube, DLR, Overground status update",
+ "pageTitle": "Campaigns",
  "keywords": "TfL",
- "description": "Status updates for Tube, Overground, TfL Rail, DLR and Tram",
+ "description": "List of TfL's current campaigns",
  "template": "page-content",
- "breadcrumbs": null,
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns"
+  }
+ ],
  "title": {
+  "title": "Campaigns",
   "card": {
    "link": {
     "image": {}
@@ -14,10 +24,34 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We run campaigns to alert people to changes and events that may affect them, to provide information about alternative ways to travel and to promote safety.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The subjects we cover include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Events that are likely to cause travel disruption\",\"Changes to the transport system\",\"Changes to fares and ticketing\",\"Road safety\",\"Safer travel at night\",\"Alternative ways to travel such as cycling and walking\",\"Corporate information such as transparency\"]}",
+     "Use the menu to navigate to our current campaigns."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

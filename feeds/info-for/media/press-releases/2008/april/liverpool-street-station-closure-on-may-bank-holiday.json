@@ -1,9 +1,7 @@
 {
- "pageTitle": "Liverpool Street station closure on May Bank Holiday",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Liverpool Street station closure on May Bank Holiday",
   "card": {
    "link": {
     "image": {}
@@ -13,77 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "intro",
-    "texts": [
-     "Disruption to be minimised as latest stage in £1.4bn rail transformation is finished."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "content",
-    "texts": [
-     "The installation of this bridge is a crucial part of the East London Railway and the LO network which will bring benefits to all rail travellers",
-     "Liverpool Street mainline station is to close during Sunday 4 May and Monday 5 May for vital engineering work as part of Transport for London's (TfL) £1.4bn investment in improving the Capital's rail services.",
-     "As part of the work to link the new London Overground (LO) network to an extended East London Line, a team of engineers will roll an 800 tonne bridge into place, the second key installation for the project in five weeks.",
-     "The bridge will carry the extended East London line over all the main lines coming out of Liverpool Street station, and is a crucial part of the project that will put Hackney on the Tube map for the first time, and involve the building of new stations at Shoreditch High Street, Hoxton, Haggerston, and Dalston Junction.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
-     "To ensure safety, it is essential to close the station, which will re-open for the start of services on Tuesday 6 May.",
-     "During this time, trains which normally use Liverpool Street mainline station will run from Stratford and Tottenham Hale stations.",
-     "Liverpool Street Underground station will remain open and unaffected throughout.",
-     "The work is being carried out over the last two days of the Bank Holiday because fewer people than normal use the station, minimising disruption.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Regeneration\"}",
-     "Installation of the new bridge is a huge engineering operation, which involves inching it slowly into place on the same kind of wheels used to manoeuvre space shuttles to their launch pads.",
-     "The intricate process can be followed, via web cams, on the TfL website.",
-     "TfL's LO Infrastructure Development Manager, Peter Richards, said: \"We recognise that closing Liverpool Street for safety reasons during this operation will cause disruption to passengers.",
-     "\"We are keeping this to a minimum by doing the work during the second half of the Bank Holiday weekend when fewer people are travelling.",
-     "\"The installation of this bridge is a crucial part of the East London Railway and the LO network which will bring benefits to all rail travellers, supporting the regeneration of East London and connecting 20 of London's 33 boroughs with a new fast, frequent and reliable overground railway.\"",
-     "Network Rail is also using the closure to carry out works between Stratford and Liverpool Street, including overhead line renewal, track renewal, and signalling maintenance.",
-     "\u003cstrong\u003e\n\u003c/strong\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"strong\"}",
-     "National Express East Anglia services are subject to the following alterations:",
-     "All services will start/terminate at Stratford.",
-     "Passengers are to use LU services between Stratford and London Liverpool Street.",
-     "A bus service will operate between Stratford and Liverpool Street outside of LU operating hours.",
-     "The Chingford/Hertford East/Enfield Town services will start/terminate at Hackney Downs.",
-     "Liverpool Street to Cambridge services start/terminate at Tottenham Hale.",
-     "Stansted Express services will start/terminate at Tottenham Hale, with a bus connection to London Liverpool Street outside of LU Victoria line operating hours.",
-     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
-     "{\"template\":\"bulletlist\",\"items\":[\"From May 2, a short section of Brick Lane will be closed at the northern end between Grimsby Street and Pedley Street to vehicle traffic for four months to allow supplementary works around the bridge and build a new viaduct over Brick Lane\",\"The bridge is 84m long, 10m high, 10m wide and weighs 812 tonnes\",\"A 42m temporary \\\"nose\\\", 300 tonnes of temporary steel work and two jacks will be required to help move the bridge into place\",\"The 500 tonnes concrete deck on the rear half of the bridge will be used as a counterweight during the lift. Half way through the lift, 320 tonnes of concrete will be poured to complete the concrete deck\",\"The bridge is made of British Corus steel at Chepstow in South Wales and assembled on the East London site over the last four months\",\"The East London Line Extension is a £1bn project to extend the former Tube line north to Highbury and Islington, south to West Croydon and Crystal Palace and upgrade it to take LO trains\",\"As part of the LO network it will connect 20 of London's 33 boroughs\",\"The new East London Railway is due to open in June 2010\",\"A third railway bridge will be wheeled into place across Network Rail tracks at New Cross Gate in south London during the weekend of May 10 to 12. The first of this trio of bridges was lifted into place across Shoreditch High Street during the weekend of 29 -31 March\"]}"
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

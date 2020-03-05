@@ -44,6 +44,7 @@
      "These models usually deal with individual junctions, crossings or other small parts of the transport network.",
      "You need to carry out local transport modelling if your planning application could affect:",
      "{\"template\":\"bulletlist\",\"items\":[\"Traffic signals\",\"Pedestrian crossing\",\"Bus journey times\",\"The capacity and reliability of London's \\u003ca href=\\\"/modes/driving/red-routes\\\"\\u003ered routes\\u003c/a\\u003e \"]}",
+     "Your models need to follow our \u003ca href=\"/corporate/publications-and-reports/streets\"\u003eModel Auditing Process (MAP)\u003c/a\u003e unless agreed otherwise. Each stage in the audit process can take up to 28 days. Allow enough time to complete the audit before submitting your application.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic transport modelling\"}",
      "We use \u003ca href=\"/corporate/publications-and-reports/strategic-transport-and-land-use-models\"\u003estrategic transport models\u003c/a\u003e to understand the potential impacts of our own projects and investments. The models make predictions about:",
      "{\"template\":\"bulletlist\",\"items\":[\"Public transport\",\" \\u003ca href=\\\"/campaign/active-travel\\\"\\u003eActive travel\\u003c/a\\u003e \",\"Highway impacts\"]}",
@@ -68,14 +69,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -1,7 +1,7 @@
 {
  "pageTitle": "Women in transport profiles",
  "keywords": "TfL",
- "description": "Celebrating the women who work in the transport industry today.",
+ "description": "Celebrating some of the women who work in the transport industry today.",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -37,7 +37,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Celebrating the women who work in the transport industry today.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Celebrating some of the women who work in the transport industry today.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Planning\"}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -70,14 +70,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

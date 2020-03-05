@@ -55,17 +55,7 @@
      "We take into account:",
      "{\"template\":\"bulletlist\",\"items\":[\"The impact each closure has on service levels across the city\",\"The detailed requirements of each project (including\\n    upgrades of trains and signals, general maintenance and other external\\n    works) where specific jobs must be carried out in order or at a specific\\n    time\",\"The availability of suitable alternative routes (including the provision of replacement bus services)\",\"The need to support major events\"]}",
      "We always try our best to avoid closing several lines in the\nsame area. However, sections of some lines share tracks or signals, so work\non one line may force the closure of another.",
-     "Our network is a lot bigger and more complex than most other\nmetro systems. For example, we have 249 miles of track compared to 133\nmiles in Paris or 56 miles in Singapore. Many metro systems are much\nnewer, and some (like New York) have four-track systems allowing trains\nto run 24 hours a day at the same time as they do improvement work.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Planned closures list\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Track closures six months look ahead (updated 11 March 2019)\",\"url\":\"/cdn/static/cms/documents/track-closures.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.25MB\",\"image\":{}},{\"title\":\"Station closures six months look ahead (updated 11 March 2019)\",\"url\":\"/cdn/static/cms/documents/station-closures.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.20MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find out about closures\"}",
-     "All planned engineering\nwork is publicised in advance. Several sources of information can help\nyou navigate around the disruption.",
-     " \u003ca href=\"/travel-information/social-media-and-email-updates/email-updates\"\u003eWeekend closures email\u003c/a\u003e \u003cbr /\u003eGet advanced warning of weekend closures with our free weekly email",
-     " \u003ca href=\"/status-updates/index\"\u003eStatus updates\u003c/a\u003e \u003cbr /\u003eFind out how services are currently running and check for planned works taking place over the weekend",
-     "\u003cstrong\u003eMetro newspaper\u003c/strong\u003e \u003cbr /\u003eWeekend travel information is featured every Friday",
-     "\u003cstrong\u003eWeekly posters\u003c/strong\u003e \u003cbr /\u003eCheck for updates at Tube stations (and National Rail stations in the south east)",
-     "\u003cstrong\u003eTrain and station announcements\u003c/strong\u003e ",
-     "\u003cstrong\u003eTravel information telephone line\u003c/strong\u003e \u003cbr /\u003eCall0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ). This line is open 24 hours a day."
+     "Our network is a lot bigger and more complex than most other\nmetro systems. For example, we have 249 miles of track compared to 133\nmiles in Paris or 56 miles in Singapore. Many metro systems are much\nnewer, and some (like New York) have four-track systems allowing trains\nto run 24 hours a day at the same time as they do improvement work."
     ],
     "link": {
      "image": {}
@@ -78,23 +68,10 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Improving the Tube",
     "links": [
-     {
-      "title": "What we've done",
-      "url": "/campaign/tube-improvements/what-we-ve-done",
-      "image": {}
-     },
      {
       "title": "What we're doing",
       "url": "/campaign/tube-improvements/what-we-are-doing",
@@ -119,16 +96,11 @@
       "title": "The Night Tube",
       "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
       "image": {}
-     },
-     {
-      "title": "Behind the scenes",
-      "url": "/campaign/tube-improvements/behind-the-scenes",
-      "image": {}
      }
     ],
     "link": {
      "title": "Improving the Tube",
-     "url": "/campaign/tube-improvements/behind-the-scenes",
+     "url": "/campaign/tube-improvements/what-we-are-doing/night-tube",
      "image": {}
     },
     "image": {},

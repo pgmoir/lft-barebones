@@ -10,7 +10,7 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
@@ -74,7 +74,13 @@
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Integrated transport\"}",
      "Bus stops, Tube stations, Santander Cycles docking stations and taxi ranks are all included.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Street finder\"}",
-     "Street names are listed in alphabetical order to help people locate individual streets, as they would with other maps."
+     "Street names are listed in alphabetical order to help people locate individual streets, as they would with other maps.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Maintaining maps and signs\"}",
+     "The authority or organisation that funds and installs the Legible London signs in an area is also responsible for maintaining them - generally that's the borough they're in.",
+     "We maintain any Legible London signs on \u003ca href=\"https://tfl.gov.uk/modes/driving/red-routes/red-route-maps\"\u003ered routes\u003c/a\u003e . We also maintain and update the Legible London base map. The sign map panels are pulled from this pan-London mapping database.",
+     "Send requests for map updates to \u003ca href=\"mailto:legiblelondon@tfl.gov.uk?subject=Map%20update%20request\"\u003elegiblelondon@tfl.gov.uk\u003c/a\u003e . How often a map is updated depends on the scale and significance of the change, for example an improvement in pedestrian wayfinding and funding.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Requesting new retail names\"}",
+     "The maps are designed for wayfinding only, not to advertise attractions. Adding a business to the base map is reviewed on a case by case basis. A business in a given area may be included on the map as a landmark for wayfinding if the area doesn't have many other landmarks, but would not be included automatically."
     ],
     "link": {
      "image": {}
@@ -87,20 +93,17 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -115,11 +118,6 @@
       "image": {}
      },
      {
-      "title": "Sub-regional transport planning",
-      "url": "/info-for/boroughs/sub-regional-transport-planning",
-      "image": {}
-     },
-     {
       "title": "Low Emission Neighbourhoods",
       "url": "/info-for/boroughs/low-emission-neighbourhoods",
       "image": {}
@@ -127,11 +125,6 @@
      {
       "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Street Types for London",
-      "url": "/info-for/boroughs/street-types",
       "image": {}
      },
      {
@@ -150,14 +143,24 @@
       "image": {}
      },
      {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
       "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
      "image": {}
     },
     "image": {},

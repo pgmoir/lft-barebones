@@ -37,7 +37,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Know your responsibilities when picking up passengers with accessibility needs.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Know your responsibilities when picking up passengers with accessibility needs and returning passenger lost property\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Wheelchairs\"}",
      "Taxis and wheelchair-accessible private hire vehicles are a vital resource for mobility impaired people in London. Section 165 of the Equality Act 2010 obliges drivers of wheelchair-accessible taxis and private hire vehicles to carry wheelchair users and provide mobility assistance without additional charge.",
      "Drivers of taxis and designated wheelchair-accessible private hire vehicles have a legal duty to:",
@@ -51,7 +51,7 @@
      "Private hire vehicles are designated as WAVs at the point of the vehicle licensing inspection and this is noted on the vehicle licence.",
      "Vehicles that have been manufactured and type-approved as WAV, or vehicles that have been permanently adapted or modified to carry passengers remaining in their wheelchair, will be considered for exemptions.",
      "If you believe your private hire vehicle is WAV, but this is not noted on your vehicle licence, please contact our vehicle inspections team on 0343 222 5555 to arrange for your vehicle to be inspected.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"List of private hire vehicles designated as wheelchair-accessible\",\"url\":\"/cdn/static/cms/documents/designated-vehicles-03.06.2019.pdf\",\"icon\":\"download\",\"size\":\"06.2019.PDF 71KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"List of private hire vehicles designated as wheelchair-accessible\",\"url\":\"/cdn/static/cms/documents/designated-vehicles-02.03.2020.pdf\",\"icon\":\"download\",\"size\":\"03.2020.PDF 74KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "If you disagree with the decision that your vehicle is wheelchair-accessible, you may appeal the decision, but you must do so within 28 days of your vehicle first being designated by us as being wheelchair-accessible. To appeal, write to Westminster Magistrates' court, stating that you wish to appeal against the decision and apply for a summons against us. The address of the court is 181 Marylebone Road, London, NW1 5BR and the telephone number is 020 3126 3056.",
      "Private hire operators who have wheelchair accessible vehicles can be searched for using the \u003ca href=\"https://tfl.gov.uk/forms/12389.aspx\"\u003eonline form\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Fares\"}",
@@ -69,7 +69,13 @@
      "We also produce a leaflet which contains more information  about seven types of assistance dogs and your responsibilities to passengers who need to travel with them. This leaflet was produced for the private hire trade but it is relevant to both taxi and private hire trades.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Assistance dogs booklet and poster\"}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lost property\"}",
+     "If your passenger has left an item in your vehicle, then taxi drivers should take the item to the TfL Lost Property Office (LPO), a Metropolitan Police Station, or a City of London Police station.",
+     "From 28 October 2019, the LPO will be located at Pelham Street, South Kensington. It will be open from 08:30 - 16:00 Monday to Friday.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Guidance\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Taxi drivers should hand in items as soon as possible and within 24 hours of them being left in their vehicle\",\"Upon drop-off, taxi drivers will be issued a receipt for the item\",\"Taxi drivers who wish to claim items that haven't been collected can do so in the first two weeks of the month, four months after they deposited the item e.g. an item deposited in January can be reclaimed from 1 - 14th May.\"]}",
+     "There is off-street parking at the LPO which is available whilst taxi drivers are dropping-off or collecting lost property. Taxi drivers must ensure that they press the button by the roller shutter and inform the on-site security team of their ID and their reason for visiting"
     ],
     "link": {
      "image": {}
@@ -81,14 +87,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -1,5 +1,5 @@
 {
- "pageTitle": "Door-to-door transport services",
+ "pageTitle": "Assisted transport services",
  "keywords": "TfL",
  "description": "We provide a range of options that can take you from door-to-door, with help from a driver.",
  "template": "page-content",
@@ -14,11 +14,11 @@
    "url": "/transport-accessibility/index"
   },
   {
-   "title": "Door-to-door transport services"
+   "title": "Assisted transport services"
   }
  ],
  "title": {
-  "title": "Door-to-door transport services",
+  "title": "Assisted transport services",
   "card": {
    "link": {
     "image": {}
@@ -33,15 +33,15 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We provide a range of options that can take you from door-to-door, with help from a driver.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxicard and Capital Call\"}",
-     "These are subsidised schemes for people using taxis and minicabs. They provide cheaper travel for members.",
-     " \u003ca href=\"/modes/taxis-and-minicabs/taxicard-and-capital-call\"\u003eFind out about Taxicard and Capital Call\u003c/a\u003e .",
+     "{\"template\":\"intro\",\"texts\":[\"We provide a range of assisted travel services that can take you from door-to-door, with help from a driver.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxicard\"}",
+     "This is a subsidised scheme for people using taxis and minicabs. Taxicard provides transport for London residents with mobility impairments or who are sight impaired.",
+     " \u003ca href=\"/modes/taxis-and-minicabs/taxicard-and-capital-call\"\u003eFind out about Taxicard\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Community Transport\"}",
      "Community Transport can also provide door-to-door transport to people in local communities who can't use mainstream public transport, allowing them to access work, training and social activities.",
      " \u003ca href=\"/transport-accessibility/community-transport\"\u003eFind out about Community Transport\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
-     "Dial-a-Ride is our door-to-door service. It's free and can be used for trips such as shopping, visiting friends and family and travel to leisure activities.",
+     "Dial-a-Ride is our door-to-door service. It's free for people who are unable to use public transport. Dial-a-Ride can be used for trips such as shopping, visiting family and travelling to leisure activities.",
      " \u003ca href=\"/modes/dial-a-ride/index\"\u003eFind out about Dial-a-Ride\u003c/a\u003e ."
     ],
     "link": {
@@ -55,14 +55,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -73,7 +65,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -113,7 +105,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

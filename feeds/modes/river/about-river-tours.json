@@ -42,7 +42,7 @@
      "Most operators offer one-third off normal advertised adult and child fares on production of a valid Travelcard, or Oyster card loaded with a valid Travelcard, when purchasing a ticket. Some restrictions apply.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Freedom Pass\"}",
      "Many operators offer 50% off the adult fare on production of a valid Freedom Pass. This discount is available from 09:00 Mondays to Fridays and all day at weekends and on public holidays.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Map of scheduled river services\",\"url\":\"/cdn/static/cms/documents/map-of-scheduled-river-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 203KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Map of scheduled river services\",\"url\":\"/cdn/static/cms/documents/map-of-scheduled-river-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 98KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sightseeing cruises\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Tower pier\"}",
      "A 45-minute circular tour to Westminster and back. From our open deck you can enjoy fantastic views of London's top landmarks including Tower Bridge, HMS Belfast, Houses of Parliament, London Eye and many more.",
@@ -101,14 +101,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

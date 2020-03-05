@@ -1,0 +1,46 @@
+{
+ "pageTitle": "RedDot training - landing",
+ "keywords": "TfL",
+ "description": "Sample landing page for RedDot training",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "RedDot training - landing"
+  }
+ ],
+ "title": {
+  "title": "RedDot training - landing",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

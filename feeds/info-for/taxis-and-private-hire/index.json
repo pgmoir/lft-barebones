@@ -17,7 +17,7 @@
   "title": "Taxi \u0026 private hire ",
   "card": {
    "texts": [
-    "Find out how to become a taxi or private hire licensee and find the latest notices for current drivers, plus advice and updates on legal requirements and consultations."
+    "Learn more about how to become a taxi or private hire licensee. You can also find out about:"
    ],
    "link": {
     "image": {}
@@ -59,14 +59,8 @@
    },
    {
     "template": "listgroup",
-    "title": "Emission standards and rapid charging",
+    "title": "Emission standards",
     "links": [
-     {
-      "title": "Electric vehicles \u0026 rapid charging",
-      "url": "https://tfl.gov.uk/modes/driving/electric-vehicles-and-rapid-charging",
-      "icon": "external",
-      "image": {}
-     },
      {
       "title": "Emissions standards for taxis",
       "url": "/info-for/taxis-and-private-hire/emissions-standards-for-taxis",
@@ -103,6 +97,20 @@
     },
     "image": {
      "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/compliance-tph_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Electric vehicles and charge points",
+    "texts": [
+     "Find tools and see what we're doing to deliver rapid charging points across London"
+    ],
+    "link": {
+     "url": "/modes/driving/electric-vehicles-and-rapid-charging",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/rapid-charge-point-700_rdax_400x200.jpg"
     },
     "wrapped": false
    },

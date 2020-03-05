@@ -39,7 +39,7 @@
      "{\"template\":\"intro\",\"texts\":[\"Children aged 16-17 can get free and discounted travel on all our transport services with a Zip Oyster photocard.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/16-plus-zip-card_rdax_400x250.jpg\",\"alt\":\"image of 16 plus oyster zip card\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"50% off adult fares on bus, Tube, DLR, London Overground, TfL Rail and most National Rail services\",\"If you live in London, you get free travel on buses and trams\",\"Child rate 7 Day, Monthly or longer period \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003eTravelcard\\u003c/a\\u003e and \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Pass\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"50% off adult pay as you go fares on bus, Tube, DLR, London Overground, TfL Rail (excluding between West Drayton and Reading) and most National Rail services in London\",\"If you live in London, you get free travel on buses and trams\",\"Child rate 7 Day, Monthly or longer period \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003eTravelcard\\u003c/a\\u003e and \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Pass\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who is it for?\"}",
      "Children aged 16 and 17 can get a 16+ Zip Oyster photocard.",
      "If your child is 16 now but was 15 on 31 August, they can still apply for and use an \u003ca href=\"/fares/free-and-discounted-travel/11-15-zip-oyster-photocard\"\u003e11-15 Zip Oyster photocard\u003c/a\u003e .",
@@ -110,14 +110,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

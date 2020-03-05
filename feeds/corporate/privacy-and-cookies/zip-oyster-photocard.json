@@ -61,6 +61,7 @@
      "Details of debit or credit cards used to pay the admin fee when you apply for your Zip card, or to add pay as you go credit or buy season tickets are retained for a maximum of 18 months.",
      "If you breach the Behaviour Code, you may lose your concessionary travel for a certain period of time. If so, TfL will keep a record of this for 18 months from the date your sanction is lifted and you are able to receive concessionary travel again.",
      "IP addresses collected when you or parent/guardian access your TfL online account are retained for 13 months. This helps TfL monitor for things like online fraud, for example when people apply for online refunds.",
+     "Call recordings made when you contact Customer Services are kept for 6 months.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping personal information secure\"}",
      "We take the privacy of our customers very seriously and a range of robust policies, processes and technical measures are in place to control and safeguard access to, and use of, personal information associated with Zip cards.",
      "This includes payment card data which is handled in accordance with the Payment Card Industry Data Security Standard ('PCI DSS').",
@@ -89,8 +90,9 @@
      "To do this we provide them with journey data derived from our Oyster ticketing systems that has been processed, replacing data, where required, with alternative identifiers (pseudonyms) so that it isn't possible to identify an individual customer.",
      "All academic research is carried out in accordance with privacy and data protection legislation and protected by robust confidentiality agreements.",
      "In some circumstances, disclosures of personal data to the police (and other law enforcement agencies) are permitted by data protection legislation, if they relate to the prevention or detection of crime and/or the apprehension or prosecution of offenders. Before any such disclosure takes place, the police are required to demonstrate that the personal data concerned will assist them in this respect. Each police request to TfL is dealt with on a strictly case-by-case basis to ensure that any such disclosure is lawful and in accordance with data protection legislation.",
+     "span",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Overseas processing\"}",
-     "TfL, its service providers and academic research partners currently process personal information relating to Oyster (including concessionary schemes) within the European Economic Area (EEA) and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
+     "TfL, its service providers and academic research partners currently process personal information relating to Oyster (including concessionary schemes) within the UK, the European Economic Area (EEA) and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Complying with the Behaviour Code\"}",
      "We will use your personal information to ensure compliance with the \u003ca href=\"/fares/free-and-discounted-travel/rules-of-travel-for-under-18s\"\u003eBehaviour Code\u003c/a\u003e and the Terms and Conditions of the Zip scheme you have applied for. In doing so, the Metropolitan Police Service (MPS), City of London Police and British Transport Police may inform us if you incur a criminal conviction or other legal sanction for an offence committed on London's public transport network.",
      "Before doing this, an authorised Metropolitan Police officer, British Transport Police officer or TfL employee will check against the information we hold (that you supplied to us on your application form) to ensure that you are the holder of the concessionary photocard. The police officers can only check these details for as long as you are eligible for the Zip Oyster photocard scheme.",
@@ -105,9 +107,9 @@
      "You also have a number of other information rights which include:",
      "{\"template\":\"bulletlist\",\"items\":[\"The right to question any information we have about you that you think is wrong or incomplete\",\"The right to object to how we use your data or to ask us to delete or restrict how we use it\",\"The right to complain to the regulator - the Information Commissioner's Office\"]}",
      "The TfL Privacy and Data Protection team considers and coordinates responses to requests and complaints from people whose personal data is processed by TfL and its subsidiary companies. You can contact the Data Protection Officer by email at \u003ca href=\"mailto:dpo@tfl.gov.uk\"\u003edpo@tfl.gov.uk\u003c/a\u003e or by writing to:",
-     "Data Protection Officer\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon\u003cbr /\u003eSW1H 0BD",
+     "Data Protection Officer\u003cbr /\u003e4th Floor\u003cbr /\u003e5 Endeavour Square\u003cbr /\u003eLondon E20 1JN",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this page\"}",
-     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in June 2019."
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in February 2020."
     ],
     "link": {
      "image": {}
@@ -120,14 +122,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Privacy \u0026 cookies",
@@ -135,11 +129,6 @@
      {
       "title": "Access your data",
       "url": "/corporate/privacy-and-cookies/access-your-data",
-      "image": {}
-     },
-     {
-      "title": "Bus data collection pilot",
-      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
       "image": {}
      },
      {
@@ -173,6 +162,11 @@
       "image": {}
      },
      {
+      "title": "Direct Vision Standard and the HGV safety permit scheme",
+      "url": "/corporate/privacy-and-cookies/direct-vision-standard-and-the-hgv-safety-permit-scheme",
+      "image": {}
+     },
+     {
       "title": "Employment",
       "url": "/corporate/privacy-and-cookies/employment",
       "image": {}
@@ -200,6 +194,11 @@
      {
       "title": "Protect your data",
       "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Reporting street problems",
+      "url": "/corporate/privacy-and-cookies/reporting-street-problems",
       "image": {}
      },
      {

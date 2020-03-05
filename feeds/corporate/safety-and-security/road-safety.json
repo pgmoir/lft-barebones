@@ -30,17 +30,78 @@
  "body": {
   "primarys": [
    {
+    "style": "card-top ",
+    "title": "Vision Zero for London",
     "texts": [
-     "Despite a substantial reduction in casualties and collisions in London over the last decade, future road safety challenges are still significant. Our primary target is to continue the positive trend among all road users. We carry out Road Safety Audits before any new road scheme is installed and run other schemes and activities intended to achieve safer roads for all."
+     "Together we can eradicate deaths and serious injuries from London's transport network"
     ],
     "link": {
+     "url": "/corporate/safety-and-security/road-safety/vision-zero-for-london",
      "image": {}
     },
-    "image": {},
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/vision-zero-700.jpg"
+    },
     "wrapped": false
    }
   ],
   "cards": [
+   {
+    "title": "Safe speeds",
+    "texts": [
+     "Speed is a factor in at least 37% of serious collisions in London"
+    ],
+    "link": {
+     "url": "/corporate/safety-and-security/road-safety/safe-speeds",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/safe-speed-20mph_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Direct Vision Standard",
+    "texts": [
+     "Making London's lorries safer with a new Safety Permit for HGVs"
+    ],
+    "link": {
+     "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/lorry-junction-700_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Improving London's roads",
+    "texts": [
+     "We're building 73 Safer Junctions around London, with 29 already complete"
+    ],
+    "link": {
+     "url": "/campaign/our-plan-for-londons-roads",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/old-street-safer_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Bus safety",
+    "texts": [
+     "See how we are continuously driving major safety improvements on our buses"
+    ],
+    "link": {
+     "url": "/corporate/safety-and-security/road-safety/bus-safety",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/bus-safety_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
    {
     "title": "London collision map",
     "texts": [
@@ -52,20 +113,6 @@
     },
     "image": {
      "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/collisionmaplondon_rdax_400x200.gif"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Vision Zero for London",
-    "texts": [
-     "Together we can eradicate deaths and serious injuries from our roads"
-    ],
-    "link": {
-     "url": "/corporate/safety-and-security/road-safety/vision-zero-for-london",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/vision-zero-promo-02_rdax_400x200.jpg"
     },
     "wrapped": false
    }
@@ -89,7 +136,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -104,34 +151,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},
@@ -139,29 +171,6 @@
    },
    {
     "template": "advert",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Road safety reports",
-      "url": "/corporate/publications-and-reports/road-safety",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Safety \u0026 security reports",
-      "url": "/corporate/publications-and-reports/safety-and-security",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
     "link": {
      "image": {}
     },

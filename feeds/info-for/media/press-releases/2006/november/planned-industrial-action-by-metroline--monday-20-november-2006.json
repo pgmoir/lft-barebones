@@ -1,9 +1,7 @@
 {
- "pageTitle": "Planned industrial action by Metroline - Monday 20 November 2006",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Planned industrial action by Metroline - Monday 20 November 2006",
   "card": {
    "link": {
     "image": {}
@@ -13,58 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "intro",
-    "texts": [
-     "Metroline bus drivers may be holding a second 24-hour strike, beginning at 04.00 on Monday, 20 November, 2006."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "content",
-    "texts": [
-     "Talks are ongoing between Metroline and the Transport \u0026 General Workers' Union (T\u0026GWU), and it is hoped they will reach agreement over the 2006 pay settlement without inconveniencing thousands of Londoners through strike action.\u003cbr /\u003e",
-     "Metroline operates 60 bus routes, mostly in North/North West London, operating out of the following garages:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Potters Bar\",\"Cricklewood\",\"Edgware\",\"Harrow Weald\",\"Holloway\",\"King's Cross\",\"North Wembley\",\"Perivale\",\"Willesden\"]}",
-     "Transport for London (TfL) is working to keep passenger disruption to a minimum, and we would ask that passengers check their route and listen to media travel updates before they travel on Monday.",
-     "Where possible, we would advise passengers to use alternative means of transport.",
-     "Passenger information will be provided by TfL through a number of channels, namely:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Countdown - a message will be displayed on Countdown signs at affected bus stops this evening, to give passengers advance warning of tomorrow's strike, and will be displayed all day tomorrow\",\"Publicity - signs will be displayed at bus stops, shelters and stations, which will include directions to the nearest alternative means of transport\",\"Travel information - customers can contact our travel information team by phone on 020 7222 1234 for up-to-date information and advice on alternative means of transport. As lines are likely to be busy, we advise customers with internet access to visit our \\u003ca href=\\\"http://tfl.gov.uk/journeyplanner\\\"\\u003eonline journeyplanner\\u003c/a\\u003e \",\"Additional staff - extra staff members will be out on the network tomorrow, concentrating on the busiest stations and stops, to offer advice and guidance to passengers. Staff will also be driving along bus routes with no service to offer advice to passengers.\\u003cbr /\\u003e\"]}",
-     "{\"template\":\"bulletlist\",\"items\":[\"The following bus routes may be affected by the possible strike action:C2, H12, W5, W7, W9, 4, 6, 16, 17, 24, 32, 43, 46, 52, 82, 84, 90, 98, 107, 113, 134, 139, 140, 182, 186, 189, 204, 205, 206, 214, 217, 231, 232, 234, 240, 245, 251, 260, 263, 266, 271, 274, 297, 302, 316, 384, 390, 460, 603, 611, 626, 632, 634, 640, 643, N5, N16, N20, N52, N98.\"]}"
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

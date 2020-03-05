@@ -41,20 +41,22 @@
      "The private hire regulations \u003ca href=\"/info-for/taxis-and-private-hire/new-private-hire-regulations\"\u003ehave recently changed\u003c/a\u003e . You should familiarise yourself with the changes before submitting your application.",
      "Please see our guidance for more information:",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Does my vehicle need to be licensed?\",\"url\":\"/cdn/static/cms/documents/does-my-vehicle-need-to-be-licensed.pdf\",\"icon\":\"download\",\"size\":\"PDF 59KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "In order to qualify for a PHV licence the vehicle must meet the following age criteria:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Vehicles already licensed by us must be no older than 10 years at time of licensing\",\"From\\u003cstrong\\u003e1 January 2018\\u003c/strong\\u003e all PHVs licensed for the first time must have a Euro 6 petrol or diesel engine, or a Euro 4 petrol-hybrid engine \\u003ca href=\\\"/info-for/taxis-and-private-hire/emissions-standards-for-phvs\\\"\\u003ein order to meet new emission requirements\\u003c/a\\u003e .\"]}",
-     "There are certain exemptions to this criteria.",
+     "From 1 January 2020 all PHVs licensed for the first time must meet new emission requirements:",
+     "{\"template\":\"bulletlist\",\"items\":[\"PHVs under 18 months old must be zero emission capable (ZEC) and meet the Euro 6 emissions standard when licensed for the first time\",\"PHVs over 18 months old must have a Euro 6 (petrol or diesel) engine when licensed for the first time\"]}",
+     "Please note that PHVs which are fully electric or have a hydrogen fuel cell will meet the new licensing requirements.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Book a vehicle inspection\"}",
-     "You must make a booking to have your vehicle inspected. The method through which you book your vehicle inspection will depend on the licensing and ownership status of your vehicle.",
-     "New to licensing:",
-     "{\"template\":\"bulletlist\",\"items\":[\"If you are the owner or registered keeper of a private hire vehicle that has never been licensed in London and wish to make a booking online, you will either need to \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/register.page?org.apache.shale.dialog.DIALOG_NAME=contactus\\u0026displayName=Multi\\u0026DocTypeCode=urn:www.civica.co.uk:doctypes:TFLREG\\u0026menuId=4\\\"\\u003ecreate an online account\\u003c/a\\u003e or use your \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/signin.page?org.apache.shale.dialog.DIALOG_NAME=tphlogindialog\\u0026menuId=3\\u0026ReturnUrl=home.page%3FmenuId%3D2\\\"\\u003eexisting account\\u003c/a\\u003e of you already have one.\",\"During the booking process, you will need to provide information about your vehicle. Please ensure you have your V5/log book readily available for this.\"]}",
-     "Renewals:",
-     "{\"template\":\"bulletlist\",\"items\":[\"You can book your inspection by calling 0343 222 5555 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges apply\\u003c/a\\u003e ) or if you are the owner or registered keeper of a single vehicle you can \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/signin.page?org.apache.shale.dialog.DIALOG_NAME=tphlogindialog\\u0026menuId=3\\u0026ReturnUrl=home.page%3FmenuId%3D2\\\"\\u003e book your inspection slot through your online account\\u003c/a\\u003e \",\"If you have applied or renewed your private hire driver licence online, you will have an online account\\u003cstrong\\u003e already \\u003c/strong\\u003e set up. Please log in to your account and your vehicle licence will already be listed under the vehicle or licences tab. You\\u003cstrong\\u003e do not \\u003c/strong\\u003e need to create another account.\",\"If you cannot see your vehicle licence through your online account please call 0343 222 5555.\",\"If you\\u003cstrong\\u003edo not already\\u003c/strong\\u003e have an existing online account you can create one by going to our \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003eaccount page\\u003c/a\\u003e . You will be required to provide unique information regarding your vehicle licence which can be found on your renewal letter or obtained by calling 0343 222 5555.\"]}",
+     "You can now book your vehicle inspection online, 24-hours a day, 7 days a week.",
+     "This is often the quickest and most convenient option if you are the owner or registered keeper of a single vehicle.",
+     "You can book an appointment at a date, time and location to suit you. This function also allows you to cancel or reschedule your appointment.",
+     "To use this service click \u003ca href=\"[ioID]#http://www.tfl.gov.uk/tph-vehicle\"\u003ehere\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you have applied or renewed your driver licence online, you will have an online account already set up. Please log in to your account and your vehicle licence will already be listed under the vehicle or licences tab. You do not need to create another account\",\"If you cannot see your vehicle licence through your online account please call 0343 222 5555\",\"If you do not already have an existing online account you can create one by going to our \\u003ca href=\\\"[ioID]#https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003eaccount page\\u003c/a\\u003e . You will be required to provide unique information regarding your vehicle licence which can be found on your renewal letter\"]}",
+     "Vehicle documentation",
+     "When attending a vehicle inspection centre, you will need to bring the following original documents (these should be printed where necessary as electronic copies are not accepted) as they need to be presented at inspection:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Existing TfL vehicle licence and discs (if applicable)\",\"V5c DVLA Vehicle Registration Certificate\",\"Hire and reward insurance documents\",\"MOT certificate issued within the last 14 days\",\"Vehicle modification documents\",\"Any other relevant documentation relating to the vehicle, where appropriate, such as Voluntary Individual Vehicle Approval (VIVA)\",\"Certificate of conformity (if required)\"]}",
      "Retests and Refunds",
-     "{\"template\":\"bulletlist\",\"items\":[\"If you would like to book a retest (within 28 days of the first inspection) you can do so by calling 0343 222 5555 or your online account.\",\"If you would like to request a partial refund you can call 0343 222 5555\"]}",
-     "You will need the following original documents as they need to be presented when you take your vehicle in for inspection:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Existing PHV vehicle licence (if applicable)\",\"V5c DVLA Vehicle Registration Certificate\",\"Hire and reward insurance documents\",\"MOT certificate issued within the last 14 days\",\"Vehicle modification documents\",\"Any other relevant documentation relating to the vehicle, where appropriate, such as Voluntary Individual Vehicle Approval (VIVA)\"]}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual.pdf\",\"icon\":\"download\",\"size\":\"PDF 320KB\",\"image\":{}},{\"title\":\"How to obtain a PHV licence\",\"url\":\"/cdn/static/cms/documents/phv-how-to-obtain-a-licence.pdf\",\"icon\":\"download\",\"size\":\"PDF 271KB\",\"image\":{}},{\"title\":\"NSL inspection site addresses\",\"url\":\"/cdn/static/cms/documents/nsl-inspection-sites-address-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 540KB\",\"image\":{}},{\"title\":\"What to do following an inspection failure\",\"url\":\"/cdn/static/cms/documents/following-inspection-failure-phv.pdf\",\"icon\":\"download\",\"size\":\"PDF 353KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you would like to book a retest (within 28 days (for taxi) or within 21 days (for PHV) of the first inspection) you can do so by calling 0343 222 5555\",\"If you would like to request a partial refund you can call 0343 222 5555\"]}",
+     "You can also book your vehicle inspection by calling 0343 222 5555 ( \u003ca href=\"[ioID]#https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges apply\u003c/a\u003e ).",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual-v19.pdf\",\"icon\":\"download\",\"size\":\"PDF 321KB\",\"image\":{}},{\"title\":\"How to obtain a PHV licence\",\"url\":\"/cdn/static/cms/documents/phv-how-to-obtain-a-licence.pdf\",\"icon\":\"download\",\"size\":\"PDF 271KB\",\"image\":{}},{\"title\":\"NSL inspection site addresses\",\"url\":\"/cdn/static/cms/documents/nsl-inspection-sites-address-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 540KB\",\"image\":{}},{\"title\":\"What to do following an inspection failure\",\"url\":\"/cdn/static/cms/documents/following-inspection-failure-phv.pdf\",\"icon\":\"download\",\"size\":\"PDF 353KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"table\",\"rows\":[[\"Application fee\",\"£84 (non-refundable)\"],[\"Grant of licence fee\\u003cbr /\\u003e\",\"£56\\u003cbr /\\u003e\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exemptions\"}",
      "To comply with air quality standards, all taxis and PHVs must be within certain age limits to be licensed. However, a few exemptions mean some vehicles can be licensed for an additional period. Find out more about the exemptions:",
@@ -86,14 +88,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -152,6 +146,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

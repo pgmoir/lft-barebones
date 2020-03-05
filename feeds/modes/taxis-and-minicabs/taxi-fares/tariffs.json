@@ -39,21 +39,21 @@
      "{\"template\":\"intro\",\"texts\":[\"As the regulator, TfL is responsible for reviewing and setting taxi fares and tariffs. This page provides details of the tariff rates, and the times when they apply.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "There are three standard tariff periods, and when a certain tariff applies depends on the day of the week and the time of day you travel.",
      "The tariff rate can change (e.g. from Tariff 1 to 2, 2 to 3 or 3 to 1) if a journey starts when one tariff rate applies but is still going when the next Tariff rate starts.",
-     "The meter automatically adds a charge based on time for any part of a taxi journey when the speed drops below 10.4mph. Other extra charges may be included in the final fare.",
+     "The meter automatically adds a charge based on time for any part of a taxi journey when the speed drops below 10.4mph. Other extra charges may be included in the final fare.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tariff 1\"}",
      "For any hiring during Monday to Friday between 05:00 and 20:00, other than on a public holiday:",
-     "{\"template\":\"bulletlist\",\"items\":[\"For the first 233.2 metres or 50.2 seconds (whichever is reached first) there is a minimum charge of £3.00\",\"For each additional 116.6 metres or 25.1 seconds (whichever is reached first), or part thereof, if the distance travelled is less than 9561.2 metres there is a charge of 20p\",\"Once the distance has reached 9561.2 metres  then there is a charge of 20p for each additional 86.9 metres or 18.7 seconds (whichever is reached first), or part thereof\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the first 227 metres or 48.8 seconds (whichever is reached first) there is a minimum charge of £3.20\",\"For each additional 113.5 metres or 24.4 seconds (whichever is reached first), or part thereof, if the distance travelled is less than 9647.5 metres there is a charge of 20p\",\"Once the distance has reached 9647.5 metres then there is a charge of 20p for each additional 86.9 metres or 18.7 seconds (whichever is reached first), or part thereof\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tariff 2\"}",
      "For any hiring either during Monday to Friday between 20:00 and 22:00 or during Saturday or Sunday between 05:00 and 22:00, other than on a public holiday:",
-     "{\"template\":\"bulletlist\",\"items\":[\"For the first 189.6 metres or 40.8 seconds (whichever is reached first) there is a minimum charge of £3.00\",\"For each additional 94.8 metres or 20.4 seconds (whichever is reached first), or part thereof, the distance travelled is less than 9,574.8 metres there is a charge of 20p\",\"Once the distance has reached 9,574.8 metres then there is a charge of 20p for each additional 86.9 metres or 18.7 seconds (whichever is reached first), or part thereof\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the first 184.8 metres or 39.8 seconds (whichever is reached first) there is a minimum charge of £3.20\",\"For each additional 92.4 metres or 19.9 seconds (whichever is reached first), or part thereof, the distance travelled is less than 9,574.8 metres there is a charge of 20p\",\"Once the distance has reached 9609.6 metres then there is a charge of 20p for each additional 86.9 metres or 18.7 seconds (whichever is reached first), or part thereof\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tariff 3\"}",
      "For any hiring between 22:00 on any day and 05:00 the following day or at any time on a public holiday:",
-     "{\"template\":\"bulletlist\",\"items\":[\"For the first 162.4 metres or 35 seconds (whichever is reached first) there is a minimum charge of £3.00\",\"For each additional 81.2 metres or 17.5 seconds (whichever is reached first), or part thereof, the distance travelled is less than 9,581.6 metres there is a charge of 20p\",\"Once the distance has reached  9,581.6 metres then there is a charge of 20p for each additional 86.9 metres or 18.7 seconds (whichever is reached first)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the first 162.4 metres or 35 seconds (whichever is reached first) there is a minimum charge of £3.00\",\"For each additional 81.2 metres or 17.5 seconds (whichever is reached first), or part thereof, the distance travelled is less than 9,581.6 metres there is a charge of 20p\",\"Once the distance has reached 9,581.6 metres then there is a charge of 20p for each additional 86.9 metres or 18.7 seconds (whichever is reached first)\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tariff rate for longer journeys\"}",
      "When a taxi journey reaches six miles the tariff rates changes. This new rate is sometimes referred to as Tariff 4.\u003cbr /\u003eThe tariff rate for journeys over six miles is higher than the Tariff 1 and 2 rates but lower than the Tariff 3 rate.",
-     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003e Tariff\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eRate \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eTimes when the tariff currently applies\\u003c/strong\\u003e \"],[\"Tariff 1 for journeys up to 6 miles\",\"£2.76 per mile\",\"Monday to Friday, 05:00-20:00\"],[\"Tariff 2 for journeys up to 6 miles\",\"£3.40 per mile\",\"Monday to Friday, 20:00-22:00\\u003cbr /\\u003eSaturday and Sunday, 05:00-22:00\"],[\"Tariff 3 for journeys up to 6 miles\",\"£3.96 per mile\",\"Every night, 22:00-05:00\\u003cbr /\\u003ePublic holidays\"],[\"Tariff rate for journeys over 6 miles\\u003cbr /\\u003e\",\"£3.70 per mile\",\"At all times for journeys over 6 miles\\u003cbr /\\u003e\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003e Tariff\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eRate \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eTimes when the tariff currently applies\\u003c/strong\\u003e \"],[\"Tariff 1 for journeys up to 6 miles\",\"£2.84 per mile\",\"Monday to Friday, 05:00-20:00\"],[\"Tariff 2 for journeys up to 6 miles\",\"£3.48 per mile\",\"Monday to Friday, 20:00-22:00\\u003cbr /\\u003eSaturday and Sunday, 05:00-22:00\"],[\"Tariff 3 for journeys up to 6 miles\",\"£3.96 per mile\",\"Every night, 22:00-05:00\\u003cbr /\\u003ePublic holidays\"],[\"Tariff rate for journeys over 6 miles\",\"£3.70 per mile\",\"At all times for journeys over 6 miles\"]]}",
      "{\"template\":\"bulletlist\"}",
-     "The information on this page is effective from Saturday 6 October 2018."
+     "The information on this page is effective from Saturday 11 January 2020."
     ],
     "link": {
      "image": {}
@@ -65,14 +65,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -94,7 +86,7 @@
       "image": {}
      },
      {
-      "title": "Taxicard \u0026 Capital Call",
+      "title": "Taxicard",
       "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
       "image": {}
      },

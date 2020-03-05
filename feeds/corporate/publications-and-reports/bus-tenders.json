@@ -3,8 +3,22 @@
  "keywords": "Bus operators,Suppliers,B,Buses,TfL",
  "description": "Tenders for bus routes are managed by London Buses. We publish the results of all tenders",
  "template": "page-content",
- "breadcrumbs": null,
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Bus tenders"
+  }
+ ],
  "title": {
+  "title": "Bus tenders",
   "card": {
    "link": {
     "image": {}
@@ -14,10 +28,41 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We publish all results of the tendering process. There can be a short delay between the announcement of a tender result and the publication of these details.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Use the list below to search for the results of bus tenders. We're sorry, but we can't discuss any details of these results."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

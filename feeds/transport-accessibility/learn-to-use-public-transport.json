@@ -1,5 +1,5 @@
 {
- "pageTitle": "Public transport support",
+ "pageTitle": "Travel mentoring",
  "keywords": "TfL",
  "description": "Our free travel mentoring service helps people to start using public transport.",
  "template": "page-content",
@@ -14,11 +14,11 @@
    "url": "/transport-accessibility/index"
   },
   {
-   "title": "Public transport support"
+   "title": "Travel mentoring"
   }
  ],
  "title": {
-  "title": "Public transport support",
+  "title": "Travel mentoring",
   "card": {
    "link": {
     "image": {}
@@ -34,13 +34,14 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Our free travel mentoring service helps people to start using public transport.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel mentoring service\"}",
      "We can offer advice on planning a journey using an accessible route. We can provide a mentor to go out with you to practice a journey a few times to help you gain confidence and provide the knowledge to become an independent traveller across the TfL network.",
+     "{\"template\":\"video\",\"style\":\"NhGs4xu_0Nw\",\"title\":\"Natasha talks travel mentoring\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "We also provide assistance to people who wish to use mobility scooters and other mobility aids on London's bus services.",
-     " \u003ca href=\"/transport-accessibility/wheelchair-access-and-avoiding-stairs\"\u003eFind out more about the mobility aid recognition scheme\u003c/a\u003e .",
+     " \u003ca href=\"/transport-accessibility/wheelchair-access-and-avoiding-stairs\"\u003eFind out about the mobility aid recognition scheme\u003c/a\u003e .",
      "Mentoring is free of charge and can be provided Monday to Friday from 09:00-17:00.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How do I find out more?\"}",
-     "\u003cstrong\u003ePhone:\u003c/strong\u003e 020 3054 4361 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:travelmentor@tfl.gov.uk\"\u003etravelmentor@tfl.gov.uk\u003c/a\u003e "
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Find out more\"}",
+     "\u003cstrong\u003ePhone:\u003c/strong\u003e 020 3054 4361 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e )\u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:travelmentor@tfl.gov.uk\"\u003etravelmentor@tfl.gov.uk\u003c/a\u003e ",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/travel-mentoring-700x438.jpg\",\"alt\":\"Travel mentoring image\"},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -53,14 +54,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -71,7 +64,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -116,7 +109,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

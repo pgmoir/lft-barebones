@@ -34,6 +34,8 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We are committed to transparency in our arrangements with commercial partners. A selection of commercial and sponsorship agreements is laid out below.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster Card Readers\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Sponsorship Agreement for the Oyster Card Readers on the LU network\",\"url\":\"/cdn/static/cms/documents/sponsorship-agreement-oyster-card-readers-google.pdf\",\"icon\":\"download\",\"size\":\"PDF 477KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Baby on Board\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Not on the High Street sponsorship of Baby on Board\",\"url\":\"/cdn/static/cms/documents/tfl-noths-baby-on-board-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.77MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Canada Water station re-naming\"}",
@@ -88,14 +90,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

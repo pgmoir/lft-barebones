@@ -38,7 +38,7 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Find out about our role with the Mayor's Community Infrastructure Levy (MCIL).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"MCIL\"}",
-     "The \u003ca href=\"http://www.london.gov.uk/what-we-do/planning/implementing-london-plan/mayoral-community-infrastructure-levy#Stub-63731\"\u003eMayoral Community Infrastructure Levy \u003c/a\u003e (MCIL) applies to most new developments in London granted planning permission on or after 1 April 2012. MCIL raises money towards the \u003ca href=\"/travel-information/improvements-and-projects/elizabeth-line\"\u003eElizabeth line\u003c/a\u003e (currently being built by Crossrail Ltd) and Crossrail 2, and is collected by local planning authorities on behalf of the Mayor.",
+     "The \u003ca href=\"http://www.london.gov.uk/what-we-do/planning/implementing-london-plan/mayoral-community-infrastructure-levy#Stub-63731\"\u003eMayoral Community Infrastructure Levy\u003c/a\u003e (MCIL) applies to most new developments in London granted planning permission on or after 1 April 2012. MCIL raises money towards the \u003ca href=\"/travel-information/improvements-and-projects/elizabeth-line\"\u003eElizabeth line\u003c/a\u003e (currently being built by Crossrail Ltd) and Crossrail 2, and is collected by local planning authorities on behalf of the Mayor.",
      "On 1 April 2019, the Mayor's new charging schedule MCIL2 took effect. MCIL2 supersedes MCIL1 and the Crossrail Funding Supplementary Planning Guidance and will apply to all planning permissions granted from 1 April 2019 and may also apply to some phased planning permissions granted before 1 April 2019.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rates\"}",
      "MCIL2 is payable on most developments in London at these rates:",
@@ -52,6 +52,9 @@
      "Office - £185 per square metre\u003cbr /\u003eRetail - £165 per square metre\u003cbr /\u003eHotel - £140 per square metre",
      "Health and education uses across London are charged at a nil rate.",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.london.gov.uk/sites/default/files/mcil2_charging_schedule_-_final.pdf\\\"\\u003eMayor's MCIL2 charging schedule\\u003c/a\\u003e \",\" \\u003ca href=\\\"/cdn/static/cms/documents/mcil1-charging-schedule-april-2012.pdf\\\"\\u003eMayor's MCIL1 charging schedule\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.london.gov.uk/sites/default/files/crossrail_funding_spg_updated_march_2016v2.pdf\\\"\\u003eMayors Crossrail Funding SPG\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Annual CIL rate summary\"}",
+     "For CIL liable planning permissions granted in the calendar year 2020, applicable Mayoral CIL rates adjusted for inflation are detailed in the MCIL Annual CIL Rate Summary 2020.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"MCIL Annual CIL Rate Summary 2020\",\"url\":\"/cdn/static/cms/documents/annual-cil-rate-summary-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 558KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"MCIL online map\"}",
      "To help local planning authorities and developers, we have developed a \u003ca href=\"http://tfl.maps.arcgis.com/apps/webappviewer/index.html?id=3109059dc3cc49f8b0cfb20caf310832\"\u003esearchable online map\u003c/a\u003e showing the relevant MCIL2 charges across London.",
      "The MCIL2 maps and shape files are also available in the \u003ca href=\"https://data.london.gov.uk/dataset/mcil-2-charging-area-boundaries\"\u003eGLA Datastore\u003c/a\u003e .",
@@ -63,13 +66,13 @@
      "{\"template\":\"bulletlist\",\"items\":[\"Minor development exemption\",\"Charitable relief\",\"Social housing relief\",\"Self-build exemption (for a whole house)\",\"Self-build exemption (for a residential annexe or extension)\"]}",
      "Any questions relating to exemptions or relief should be discussed with the relevant collecting authority.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"MCIL annual report\"}",
-     "The \u003ca href=\"https://www.london.gov.uk/sites/default/files/mcil_annual_receipt_update_2012-2018.pdf\"\u003eannual report\u003c/a\u003e sets out the income and expenditure of Mayoral Community Infrastructure Levy (MCIL) receipts in accordance with Regulation 62 of the Community Infrastructure Levy Regulations 2010 (as amended).",
+     "The \u003ca href=\"/cdn/static/cms/documents/mcil-annual-receipt-update-2012-2018.pdf\"\u003eannual report\u003c/a\u003e sets out the income and expenditure of Mayoral Community Infrastructure Levy (MCIL) receipts in accordance with Regulation 62 of the Community Infrastructure Levy Regulations 2010 (as amended).",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Information for boroughs\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CIL Collection Group\"}",
      "The CIL Collection Group (CCG) is a forum of officers from local planning authorities and Mayoral development corporations (known as 'collecting authorities'), TfL and the GLA.  It was established to look at issues around the implementation and collection of the Mayoral CIL.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Borough CIL Progress Tracker\"}",
      "We produce a 'Progress Tracker' to show the progress London's boroughs have made in introducing or revising their own local CILs. It's regularly updated from CCG meetings and communication we have with the boroughs.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Borough CIL - Current Progress Tracker\",\"url\":\"/cdn/static/cms/documents/borough-tracker-march-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 226KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Borough CIL - Current Progress Tracker October 2019\",\"url\":\"/cdn/static/cms/documents/bcil-tracker-october-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 21KB\",\"image\":{}},{\"title\":\"Borough CIL - Current Progress Tracker - December 2019\",\"url\":\"/cdn/static/cms/documents/bcil2-tracker-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 77KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CIL reporting to TfL by boroughs\"}",
      "All London collecting authorities use this standard form to report progress on CIL-liable developments and the collection of CIL receipts to TfL on a quarterly basis.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"CIL - Borough reporting to TfL form\",\"url\":\"/cdn/static/cms/documents/cil-borough-reporting-to-tfl-form.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 49KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -88,14 +91,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

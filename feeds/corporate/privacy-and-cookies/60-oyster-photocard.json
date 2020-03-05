@@ -58,6 +58,8 @@
      "We retain data about the individual journeys made using your 60+ Oyster photocard for eight weeks after the card is used. After eight weeks, the journey data in the ticketing system is disassociated from your card (ie pseudonymised). This eight-week period is considered reasonable to enable customers to verify or make enquiries concerning their journeys (for example, for refund purposes).",
      "Some journey information is also stored on the Oyster card itself; this comprises the last eight journeys and related charges, up to three season tickets (generally the most recent three tickets, including future dated), and the last two incomplete journeys, if any. If you don't use your Oyster card very often, the data stored on the card may be older than eight weeks. However, no other data is stored on the Oyster card itself (eg name or address).",
      "The information we collect as part of the application process (including the scanned image of your passport details page) is kept for up to three years after the expiry date of your photo card.",
+     "IP addresses collected when you access your Oyster online account are retained for 13 months. This helps TfL monitor for things like online fraud, for example when people apply for online refunds.",
+     "Call recordings made when you contact Customer Services are kept for 6 months.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping personal information secure\"}",
      "We take the privacy of our customers very seriously and a range of robust policies, processes and technical measures are in place to control and safeguard access to, and use of, personal information associated with Oyster data. This includes payment card data which is securely handled by a specialist payment processing company in accordance with the Payment Card Industry Data Security Standard ('PCI DSS').",
      "Anyone with access to personal information held in TfL's systems is required to complete TfL's privacy and data protection training on an annual basis.",
@@ -85,8 +87,9 @@
      "To do this we provide them with journey data derived from our Oyster ticketing systems that has been processed, replacing data, where required, with alternative identifiers (pseudonyms) so that it isn't possible to identify an individual customer.",
      "All academic research is carried out in accordance with privacy and data protection legislation and protected by robust confidentiality agreements.",
      "In some circumstances, disclosures of personal data to the police (and other law enforcement agencies) are permitted by data protection legislation, if they relate to the prevention or detection of crime and/or the apprehension or prosecution of offenders. Before any such disclosure takes place, the police are required to demonstrate that the personal data concerned will assist them in this respect. Each police request to TfL is dealt with on a strictly case-by-case basis to ensure that any such disclosure is lawful and in accordance with data protection legislation.",
+     "span",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Overseas processing\"}",
-     "TfL, its service providers and academic research partners currently process personal information relating to Oyster within the European Economic Area (EEA) and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
+     "TfL, its service providers and academic research partners currently process personal information relating to Oyster within the UK, the European Economic Area (EEA) and the USA. Any such processing is subject to appropriate contractual safeguards and carried out in accordance with the requirements of UK and EU privacy legislation.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your information rights\"}",
      "You can see your journey history by \u003ca href=\"https://photocard.tfl.gov.uk/tfl/showLogon.do\"\u003esigning into your web account\u003c/a\u003e or you can request a copy by calling \u003ca href=\"/corporate/useful-contacts/index\"\u003eCustomer Services\u003c/a\u003e . You can also use your Oyster card to view your last eight journeys and the transaction details at ticket machines at Tube stations.",
      "You can also view and update the contact information we hold about you within your account; as well as your contact and marketing preferences.  If you would like to close your Oyster Photocard web account, please contact Customer Services or contact our Privacy and Data Protection team.",
@@ -95,9 +98,9 @@
      "You also have a number of other information rights which include:",
      "{\"template\":\"bulletlist\",\"items\":[\"The right to question any information we have about you that you think is wrong or incomplete\",\"The right to object to how we use your data or to ask us to delete or restrict how we use it\",\"In some cases, the right to receive a copy of your information in a format that you can easily re-use\",\"The right to complain to the regulator - the Information Commissioner's Office\"]}",
      "The TfL Privacy and Data Protection team considers and coordinate responses to requests and complaints from people whose personal data is processed by TfL and its subsidiary companies. You can contact the Data Protection Officer by email at \u003ca href=\"mailto:dpo@tfl.gov.uk\"\u003edpo@tfl.gov.uk\u003c/a\u003e or by writing to:",
-     "Data Protection Officer\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon\u003cbr /\u003eSW1H 0BD",
+     "Data Protection Officer\u003cbr /\u003e4th Floor\u003cbr /\u003e5 Endeavour Square\u003cbr /\u003eLondon E20 1JN",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to this page\"}",
-     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in June 2019."
+     "It's likely that we'll need to update this statement from time to time, so check back here regularly to find out more. Your continued use of the site will mean that you accept those revisions. This page was last updated in February 2020."
     ],
     "link": {
      "image": {}
@@ -110,14 +113,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Privacy \u0026 cookies",
@@ -125,11 +120,6 @@
      {
       "title": "Access your data",
       "url": "/corporate/privacy-and-cookies/access-your-data",
-      "image": {}
-     },
-     {
-      "title": "Bus data collection pilot",
-      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
       "image": {}
      },
      {
@@ -163,6 +153,11 @@
       "image": {}
      },
      {
+      "title": "Direct Vision Standard and the HGV safety permit scheme",
+      "url": "/corporate/privacy-and-cookies/direct-vision-standard-and-the-hgv-safety-permit-scheme",
+      "image": {}
+     },
+     {
       "title": "Employment",
       "url": "/corporate/privacy-and-cookies/employment",
       "image": {}
@@ -190,6 +185,11 @@
      {
       "title": "Protect your data",
       "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Reporting street problems",
+      "url": "/corporate/privacy-and-cookies/reporting-street-problems",
       "image": {}
      },
      {

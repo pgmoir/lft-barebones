@@ -1,6 +1,7 @@
 {
  "pageTitle": "TPH standalone documents",
  "keywords": "TfL",
+ "description": "standalone documents",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
@@ -22,13 +23,14 @@
      " \u003ca href=\"/cdn/static/cms/documents/lp95649-tph209-wheelchair-exemption-form.pdf\"\u003elp95649-tph209-wheelchair-exemption-form\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/lp95650-tph205-working-abroad-form.pdf\"\u003elp95650-tph205-working-abroad-form\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/lp95651-tph208-assistance-dogs-exemption-form.pdf\"\u003elp95651-tph208-assistance-dogs-exemption-form\u003c/a\u003e ",
+     " \u003ca href=\"/cdn/static/cms/documents/tph204-medical-declaration.pdf\"\u003etph204-medical-declaration.form\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/lp95680-phv206-driver-badge-exemption-form.pdf\"\u003elp95680-phv206-driver-badge-exemption-form\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/dbs-private-hire-driver-new.pdf\"\u003edbs-private-hire-driver-new\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/dbs-private-hire-driver-renewal.pdf\"\u003edbs-private-hire-driver-renewal\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/dbs-taxi-driver-new.pdf\"\u003edbs-taxi-driver-new\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/dbs-taxi-driver-renewal.pdf\"\u003edbs-taxi-driver-renewal\u003c/a\u003e ",
      " \u003ca href=\"/cdn/static/cms/documents/dvla-declaration-final.pdf\"\u003edvla-declaration-final\u003c/a\u003e ",
-     "Last updated 21/1/2018"
+     "Last updated 21/1/2018."
     ],
     "link": {
      "image": {}
@@ -40,14 +42,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -45,6 +45,20 @@
   ],
   "cards": [
    {
+    "title": "Hop on a tram for £1.50",
+    "texts": [
+     "Take unlimited bus and tram journeys within one hour for £1.50 using pay as you go"
+    ],
+    "link": {
+     "url": "/fares/find-fares/bus-and-tram-fares",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/hopper-150-standard_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
     "title": "Facebook TravelBot",
     "texts": [
      "Ask us how the tram's running and get an instant response when you're on the move"
@@ -60,17 +74,15 @@
     "wrapped": false
    },
    {
-    "title": "Planned trams line closures",
+    "title": "Blackhorse Lane Bridge",
     "texts": [
-     "Temporary service changes for trams during 2019"
+     "Tram services may be affected until spring 2020 while we work on the bridge"
     ],
     "link": {
-     "url": "/modes/trams/planned-trams-line-closures",
+     "url": "/travel-information/improvements-and-projects/blackhorse-lane-bridge",
      "image": {}
     },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tram-works_rdax_400x200.jpg"
-    },
+    "image": {},
     "wrapped": false
    },
    {
@@ -91,21 +103,7 @@
      "Find out how we manage London Trams"
     ],
     "link": {
-     "url": "/corporate/about-tfl/what-we-do/london-trams",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tram-sign_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Croydon tram derailment",
-    "texts": [
-     "Information following the tragic events in Croydon on 9 November 2016"
-    ],
-    "link": {
-     "url": "/modes/trams/croydon-tram-derailment",
+     "url": "/corporate/about-tfl/what-we-do",
      "image": {}
     },
     "image": {},
@@ -182,6 +180,18 @@
     },
     "image": {},
     "wrapped": false
+   },
+   {
+    "title": "Croydon tram derailment",
+    "texts": [
+     "Information following the tragic events in Croydon on 9 November 2016"
+    ],
+    "link": {
+     "url": "/modes/trams/croydon-tram-derailment",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
    }
   ]
  },
@@ -206,15 +216,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@tramslondon",
      "image": {}
     },
     "image": {},

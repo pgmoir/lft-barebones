@@ -44,9 +44,9 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Board nominations\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Nine Trustees are nominated by the principal employer. At least five of the nine must be members of the Fund\",\"Five Trustees are nominated by the trades unions\",\"Four Trustees are nominated by members through the TfL Pension\\n    Consultative Council, including two who are pensioners or deferred\\n    pensioners\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The current Board\"}",
-     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"Maria Antoniou (Chair)\",\"TfL\",\"16 Mar 2007\"],[\"Tricia Ashton\",\"TfL\",\"9 Dec 2016\"],[\"Mike Binnington\",\"TfL\",\"17 Mar 2011\"],[\"Jill Collis\",\"TfL\",\"11 Jul 2015\"],[\"Mark Evers\",\"TfL\",\"7 Dec 2018\"],[\"Michael Hurwitz\",\"TfL\",\"8 Dec 2017\"],[\"Miriam Kingsley\",\"TfL\",\"7 Dec 2018\"],[\"Lilli Matson\",\"TfL\",\"8 Dec 2017\"],[\"Nigel Pickup\",\"TfL\",\"8 Dec 2017\"]]}",
-     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"Paul Kilius-Smith\",\"Pensioner and Deferred Members\",\"28 Mar 2014\"],[\"Chris Miller\",\"Pensioner and Deferred Members\",\"24 Mar 2005\"],[\"Sonja Folarin\",\"TfL Active Members\",\"13 June 2019\"],[\"Paul Murphy\",\"LUL Active Members\",\"12 Jun 2008\"]]}",
-     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"Graham Dean\",\"ASLEF\",\"12 Jun 2012\"],[\"Stephen Ellaby\",\"TSSA\",\"11 Jun 2016\"],[\"Stephen Hedley\",\"RMT\",\"25 Sep 2012\"],[\"John Timbrell\",\"Unite (Amicus)\",\"11 Mar 2002\"],[\"Lewis Brown\",\"Unite (T\\u0026GWU)\",\"7 Dec 2010\"]]}"
+     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"Maria Antoniou (Chair)\",\"TfL\",\"16 Mar 2007\"],[\"Tricia Ashton\",\"TfL\",\"9 Dec 2016\"],[\"Mike Binnington\",\"TfL\",\"17 Mar 2011\"],[\"Rebecca Doherty\",\"TfL\",\"5 Jul 2019\"],[\"Mark Evers\",\"TfL\",\"7 Dec 2018\"],[\"Amanda Hopkins\",\"TfL\",\"27 Sept 2019\"],[\"Michael Hurwitz\",\"TfL\",\"8 Dec 2017\"],[\"Lili Matson\",\"TfL\",\"8 Dec 2017\"],[\"Nigel Pickup\",\"TfL\",\"8 Dec 2017\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"Sonja Folarin\",\"TfL Active Members\",\"13 Jun 2019\"],[\"Paul Kilius-Smith\",\"Pensioner and Deferred Members\",\"28 Mar 2014\"],[\"Chris Miller\",\"Pensioner and Deferred Members\",\"24 Mar 2005\"],[\"Paul Murphy\",\"LUL Active Members\",\"12 Jun 2008\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\"],\"rows\":[[],[\"Lewis Brown\",\"Unite (T\\u0026GWU)\",\"7 Dec 2010\"],[\"Graham Dean\",\"ASLEF\",\"12 Jun 2012\"],[\"Stephen Ellaby\",\"TSSA\",\"11 Jun 2016\"],[\"Stephen Hedley\",\"RMT\",\"25 Sep 2012\"],[\"John Timbrell\",\"Unite (Amicus)\",\"11 Mar 2002\"]]}"
     ],
     "link": {
      "image": {}
@@ -58,14 +58,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -61,14 +61,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Board papers",
@@ -76,6 +68,11 @@
      {
       "title": "Board papers - past years",
       "url": "/corporate/publications-and-reports/board-papers/board-papers-past-years",
+      "image": {}
+     },
+     {
+      "title": "2019 Board papers",
+      "url": "/corporate/publications-and-reports/board-papers/2019",
       "image": {}
      },
      {

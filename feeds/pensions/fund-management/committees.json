@@ -40,16 +40,16 @@
      "{\"template\":\"intro\",\"texts\":[\"There are a number of committees who are responsible for looking after different aspects of the Fund. You can find out all about them below.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Operations Committee\"}",
      "Deals with budgets, communications, performance reviews and membership statistics matters. The Fund Office refers to the Operations Committee when guidance is required on certain individual cases.",
-     "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Tricia Ashton\",\"Lewis Brown\"],[\"Jill Collis (Vice Chair)\",\"Graham Dean\"],[\"Miriam Kingsley\",\"Sonja Folarin\"],[\"Lilli Matson\",\"Paul Murphy (Chair)\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Tricia Ashton\",\"Lewis Brown\"],[\"Rebecca Doherty\",\"Graham Dean\"],[\"Amanda Hopkins\",\"Sonja Folarin\"],[\"Lilli Matson\",\"Paul Murphy (Chair)\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Investment Committee\"}",
      "Covers investment matters concerning equities and bonds, including strategy and the appointment and monitoring of investment managers and the custodian.",
      "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Mike Binnington (Vice Chair)\",\"Lewis Brown\"],[\"Mark Evers\",\"Paul Kilius-Smith\"],[\"Lilli Matson\",\"Paul Murphy\"],[\"Nigel Pickup\",\"John Timbrell (Chair)\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Audit Committee\"}",
      "Oversees the Fund's financial affairs, including the external audit, internal controls, accounting policies, corporate governance and risk reviews.",
-     "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Jill Collis (Vice Chair)\",\"Lewis Brown (Chair)\"],[\"Michael Hurwitz\",\"Graham Dean\"],[\"Miriam Kingsley\",\"Stephen Hedley\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Rebecca Doherty\",\"Lewis Brown (Chair)\"],[\"Amanda Hopkins\",\"Graham Dean\"],[\"Michael Hurwitz\",\"Stephen Hedley\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Actuarial Valuation Committee\"}",
      "Deals with all actuarial matters concerning the Fund.",
-     "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Maria Antoniou (Chair)\",\"Stephen Ellaby\"],[\"Miriam Kingsley\",\"Chris Miller (Vice Chair)\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Maria Antoniou (Chair)\",\"Stephen Ellaby\"],[\"Rebecca Doherty\",\"Chris Miller (Vice Chair)\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Appeals Committee\"}",
      "Deals with the second stage of disputes in accordance with the Fund's Internal Disputes Resolution Procedure.",
      "{\"template\":\"table\",\"titles\":[\"TfL nominated\",\"Non-TfL nominated\"],\"rows\":[[],[\"Tricia Ashton (Vice Chair)\",\"Graham Dean (Chair)\"],[\"Mark Evers\",\"Stephan Ellaby\"],[\"Michael Hurwitz\",\"Paul Kilius-Smith\"]]}",
@@ -67,14 +67,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -66,21 +66,28 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Cycling",
     "links": [
      {
-      "title": "Get started with cycling",
-      "url": "/modes/cycling/new-to-cycling",
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
       "image": {}
      },
      {
@@ -109,11 +116,6 @@
       "image": {}
      },
      {
-      "title": "Leisure routes",
-      "url": "/modes/cycling/santander-cycles/leisure-routes",
-      "image": {}
-     },
-     {
       "title": "Lost, stolen or faulty",
       "url": "/modes/cycling/santander-cycles/lost-stolen-or-faulty",
       "image": {}
@@ -137,21 +139,11 @@
       "title": "Blaze Laserlights",
       "url": "/modes/cycling/santander-cycles/blaze-laserlights",
       "image": {}
-     },
-     {
-      "title": "Cycling in London",
-      "url": "/modes/cycling/cycling-in-london",
-      "image": {}
-     },
-     {
-      "title": "Routes \u0026 maps",
-      "url": "/modes/cycling/routes-and-maps",
-      "image": {}
      }
     ],
     "link": {
      "title": "Cycling",
-     "url": "/modes/cycling/routes-and-maps",
+     "url": "/modes/cycling/santander-cycles/blaze-laserlights",
      "image": {}
     },
     "image": {},

@@ -159,7 +159,7 @@
      "You can only use your STC on National Rail services in line with endorsement no.11 printed on the card.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel restrictions for free and privilege travel\"}",
      "Using free and privilege tickets on National Rail services and Stena Line are subject to restrictions. The current restrictions are detailed in the document below.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Staff travel restrictions: Summer 2019\",\"url\":\"/cdn/static/cms/documents/staff-travel-restrictions-summer-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 328KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Staff travel restrictions: Winter 2019/20\",\"url\":\"/cdn/static/cms/documents/staff-travel-restrictions-winter-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 214KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "For more information, please contact the operator.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other travel discounts\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Eurostar\"}",
@@ -210,14 +210,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

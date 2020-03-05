@@ -94,7 +94,7 @@
      " \u003ca href=\"https://www.twotogether-railcard.co.uk/\"\u003eApply for a Two Together Railcard\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Add your discount to your Oyster card\"}",
      "A member of staff can add your Railcard discount at:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Tube, London Overground and TfL Rail stations\",\" \\u003ca href=\\\"http://www.nationalrail.co.uk/stations_destinations/\\\"\\u003eSome National Rail ticket offices\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tube, London Overground and TfL Rail stations\",\" \\u003ca href=\\\"http://www.nationalrail.co.uk/stations_destinations/\\\"\\u003eSome National Rail ticket offices\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \"]}",
      "You'll need to show your National Railcard.",
      "When you renew your National Railcard, you'll need to add the discount on your Oyster card again.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to use\"}",
@@ -110,14 +110,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

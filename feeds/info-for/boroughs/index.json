@@ -1,5 +1,5 @@
 {
- "pageTitle": "Boroughs",
+ "pageTitle": "Boroughs and communities",
  "keywords": "Boroughs,TfL",
  "description": "We have services to help London's 33 local authorities make planning decisions affecting the Capital's transport network, particularly roads",
  "template": "page-cards",
@@ -10,11 +10,13 @@
    "url": "/"
   },
   {
-   "title": "Boroughs"
+   "title": "Boroughs and communities"
   }
  ],
  "title": {
-  "title": "Boroughs",
+  "complex": true,
+  "title": "Boroughs and communities",
+  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/boroughs-landing-street-scene.jpg",
   "card": {
    "link": {
     "image": {}
@@ -27,8 +29,9 @@
   "primarys": [
    {
     "texts": [
-     "We work closely with London's 32 boroughs and the City of London to integrate transport planning and operations across the Capital.",
-     "In this section borough officers and members can find information and toolkits on a range of subjects. Examples include funding streams, TfL's major projects, operational performance and sub-regional activity. Contact details for additional enquiries are also available."
+     "We are committed to contributing to a safer, healthier and thriving London. That is why we work closely with London's 32 boroughs and the City of London and community groups to integrate transport planning and operations across the Capital.",
+     "In this section, borough officers, councillors, community groups and anyone who has an interest in borough affairs can find information and toolkits on a range of subjects. Examples include available funding streams, strategies to tackle environmental and safety issues (you told us these are important to you), operational performance and sub-regional activity.",
+     "We also have details of how to get in touch for different issues."
     ],
     "link": {
      "image": {}
@@ -39,17 +42,112 @@
   ],
   "cards": [
    {
-    "title": "Borough funding",
+    "title": "Your borough",
     "texts": [
-     "Our funding streams include LIPs and Crossrail complementary measures"
+     "Find out what we maintain and improve locally and how to get in touch"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/information-by-borough",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Funding",
+    "texts": [
+     "All funding streams available for boroughs and community groups"
     ],
     "link": {
      "url": "/info-for/boroughs/borough-funding",
      "image": {}
     },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/workers_rdax_400x200.jpg"
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Planning and resources",
+    "texts": [
+     "Find out more about transport planning, campaign material and toolkits"
+    ],
+    "link": {
+     "url": "/info-for/boroughs/planning-and-resources",
+     "image": {}
     },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "TfL consultation hub",
+    "texts": [
+     "Have your say on consultations near you"
+    ],
+    "link": {
+     "url": "https://consultations.tfl.gov.uk/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Air quality",
+    "texts": [
+     "All initiatives to tackle pollution and climate change"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/air-quality",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Improvements and projects",
+    "texts": [
+     "Find out what we are improving in your area"
+    ],
+    "link": {
+     "url": "/travel-information/improvements-and-projects/index",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Vision Zero for London",
+    "texts": [
+     "Together we can eradicate deaths and serious injuries from our roads"
+    ],
+    "link": {
+     "url": "/corporate/safety-and-security/road-safety/vision-zero-for-london",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Healthy Streets",
+    "texts": [
+     "Our approach to making London healthier and more active"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Mayor's Transport Strategy",
+    "texts": [
+     "The overall strategy with its action plans to help improve London"
+    ],
+    "link": {
+     "url": "/corporate/about-tfl/the-mayors-transport-strategy",
+     "image": {}
+    },
+    "image": {},
     "wrapped": false
    },
    {
@@ -57,9 +155,15 @@
     "style": "nocard",
     "links": [
      {
-      "title": "Improvements \u0026 projects",
-      "url": "/travel-information/improvements-and-projects/index",
+      "title": "Publications and reports",
+      "url": "/corporate/publications-and-reports/index",
       "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Made by TfL blog",
+      "url": "https://madeby.tfl.gov.uk/",
+      "icon": "external",
       "image": {}
      },
      {
@@ -74,46 +178,6 @@
     },
     "image": {},
     "wrapped": false
-   },
-   {
-    "title": "Information by borough",
-    "texts": [
-     "LIPS letters, traffic management updates and more for each borough"
-    ],
-    "link": {
-     "url": "/info-for/boroughs/information-by-borough",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/shard-boroughs.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Publications \u0026 reports",
-    "texts": [
-     "Find key documents produced by TfL"
-    ],
-    "link": {
-     "url": "/corporate/publications-and-reports/index",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "title": "Planning \u0026 resources",
-    "texts": [
-     "Get help with Sub-regional transport plans or download campaign material"
-    ],
-    "link": {
-     "url": "/info-for/boroughs/planning-and-resources",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/box-junction_rdax_400x200.jpg"
-    },
-    "wrapped": false
    }
   ]
  },
@@ -122,10 +186,15 @@
    {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -133,16 +202,11 @@
       "title": "Planning \u0026 resources",
       "url": "/info-for/boroughs/planning-and-resources",
       "image": {}
-     },
-     {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
-      "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},
@@ -158,36 +222,12 @@
    },
    {
     "template": "listgroup",
-    "title": "Also on this site",
+    "title": "Related websites",
     "links": [
      {
-      "title": "Cycle Superhighways",
-      "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Safety enforcement cameras",
-      "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Schools \u0026 young people",
-      "url": "/info-for/schools-and-young-people/index",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Transport \u0026 healthcare",
-      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Strategic transport \u0026 land-use models",
-      "url": "/corporate/publications-and-reports/strategic-transport-and-land-use-models",
-      "icon": "internal",
+      "title": "London Councils",
+      "url": "https://www.londoncouncils.gov.uk/",
+      "icon": "external",
       "image": {}
      }
     ],
@@ -199,16 +239,80 @@
    },
    {
     "template": "listgroup",
-    "title": "Related website",
+    "title": "Also on this site",
     "links": [
      {
-      "title": "TfL consultation hub",
-      "url": "https://consultations.tfl.gov.uk/",
+      "title": "Report a problem on a street",
+      "url": "https://streetcare.tfl.gov.uk/",
       "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Transport and health",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "TfL Business Plan",
+      "url": "/corporate/publications-and-reports/business-plan",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Schools and young people",
+      "url": "/info-for/schools-and-young-people/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Transport accessibility",
+      "url": "/transport-accessibility/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Safety and security",
+      "url": "/corporate/safety-and-security/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Strategic transport and land-use models",
+      "url": "/corporate/publications-and-reports/strategic-transport-and-land-use-models",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Travel tools",
+      "url": "/status-updates/travel-tools",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Latest press releases",
+      "url": "/info-for/media/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Weekly email updates",
+      "url": "/travel-information/social-media-and-email-updates/email-updates",
+      "icon": "internal",
       "image": {}
      }
     ],
     "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "twitter",
+    "title": "Tweets by TfL",
+    "link": {
+     "url": "https://twitter.com/TfL",
      "image": {}
     },
     "image": {},

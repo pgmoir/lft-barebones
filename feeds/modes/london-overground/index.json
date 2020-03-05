@@ -27,17 +27,17 @@
  "body": {
   "primarys": [
    {
-    "style": "card-top ",
-    "title": "Gospel Oak to Barking trains",
+    "style": "card-top card-overground",
+    "title": "Improving London Overground",
     "texts": [
-     "More new state-of-the-art trains are now running on this route"
+     "We reinvest our income to continually improve the network. Find out more"
     ],
     "link": {
-     "url": "/modes/london-overground/gospel-oak-to-barking-improvements",
+     "url": "/modes/london-overground/improving-london-overground",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/class-710-small-crop.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/westanglia-lo-700x350.gif"
     },
     "wrapped": false
    },
@@ -85,6 +85,18 @@
     "wrapped": false
    },
    {
+    "title": "Ticket office opening hours",
+    "texts": [
+     "We are changing ticket office opening hours at some stations"
+    ],
+    "link": {
+     "url": "/modes/london-overground/changes-to-ticket-office-hours",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
     "template": "listgroup",
     "style": "nocard",
     "links": [
@@ -95,8 +107,8 @@
       "image": {}
      },
      {
-      "title": "Bikes on London Overground",
-      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "title": "Cycles on London Overground",
+      "url": "/modes/cycling/cycles-on-public-transport",
       "icon": "internal",
       "image": {}
      },
@@ -120,7 +132,7 @@
      },
      {
       "title": "About London Overground",
-      "url": "/corporate/about-tfl/what-we-do/london-overground",
+      "url": "/corporate/about-tfl/what-we-do",
       "icon": "internal",
       "image": {}
      },

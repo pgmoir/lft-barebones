@@ -50,9 +50,11 @@
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contactless caps\"}",
      "If you use \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e (card or device), you get a daily and weekly cap.",
      "You can travel as much as you like in one day and week across all our transport services.",
+     "Journeys on TfL Rail to or from Reading or Iver aren't included in caps.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster card caps\"}",
      "If you use an \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster card\u003c/a\u003e , you get a daily cap and can travel as much as you like in one day across all our transport services.",
      "You also get a weekly cap for bus and tram journeys only, so you can travel as much as you like in one week.",
+     "Oyster cards aren't accepted on TfL Rail between between Reading and Iver.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cap prices\"}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Caps and Travelcard prices\"}",
      "Compare caps and Travelcard prices for your travel",
@@ -86,14 +88,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

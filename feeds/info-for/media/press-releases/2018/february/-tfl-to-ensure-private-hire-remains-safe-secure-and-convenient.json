@@ -68,14 +68,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Media",
@@ -83,6 +75,11 @@
      {
       "title": "Press releases",
       "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2020",
+      "url": "/info-for/media/press-releases/2020",
       "image": {}
      },
      {
@@ -103,6 +100,21 @@
      {
       "title": "February",
       "url": "/info-for/media/press-releases/2018/february",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2018/march",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2018/april",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2018/may",
       "image": {}
      },
      {

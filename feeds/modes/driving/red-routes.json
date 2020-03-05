@@ -93,6 +93,12 @@
     "style": "nocard",
     "links": [
      {
+      "title": "Avoid payment fraud",
+      "url": "/modes/driving/unofficial-selling-websites",
+      "icon": "internal",
+      "image": {}
+     },
+     {
       "title": "Highway licences",
       "url": "/info-for/urban-planning-and-construction/our-land-and-infrastructure/highway-licences",
       "icon": "internal",
@@ -174,15 +180,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@http://www.twitter.com/TfLTrafficNews",
      "image": {}
     },
     "image": {},

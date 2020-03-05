@@ -33,9 +33,9 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Here we publish a list of all purchase orders over £5,000.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL purchase orders\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-po-list-5k-p07-p09.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.91MB\",\"image\":{}},{\"title\":\"TfL purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-po-list-5k-p07-p09.csv\",\"icon\":\"download\",\"size\":\"CSV 1.02MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL purchase orders over £5,000 - from period 9, FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/tfl-purchase-order-over-5000.pdf\",\"icon\":\"download\",\"size\":\"PDF 479KB\",\"image\":{}},{\"title\":\"TfL purchase orders over £5,000 - from period 9, FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/tfl-purchase-order-over-5000-csv.csv\",\"icon\":\"download\",\"size\":\"CSV 482KB\",\"image\":{}},{\"title\":\"Historical TfL purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-purchase-order-over-5000.pdf\",\"icon\":\"download\",\"size\":\"PDF 479KB\",\"image\":{}},{\"title\":\"Historical TfL purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/tfl-po-list-5k-p07-p09.csv\",\"icon\":\"download\",\"size\":\"CSV 1.02MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"GLA purchase orders\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Greater London Authority purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/gla-po-list-5k-p07-p09.pdf\",\"icon\":\"download\",\"size\":\"PDF 178KB\",\"image\":{}},{\"title\":\"Greater London Authority purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/gla-po-list-5k-p07-p09.csv\",\"icon\":\"download\",\"size\":\"CSV 23KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"GLA purchase orders over £5000 - From period 9 FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/gla-purchase-orders-over-5000.pdf\",\"icon\":\"download\",\"size\":\"PDF 90KB\",\"image\":{}},{\"title\":\"GLA purchase orders over £5000 - From period 9 FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/gla-purchase-orders-over-5000.csv\",\"icon\":\"download\",\"size\":\"CSV 77KB\",\"image\":{}},{\"title\":\"Historical Greater London Authority purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/gla-po-list-5k-p07-p09.pdf\",\"icon\":\"download\",\"size\":\"PDF 178KB\",\"image\":{}},{\"title\":\"Historical Greater London Authority purchase orders over £5,000\",\"url\":\"/cdn/static/cms/documents/gla-po-list-5k-p07-p09.csv\",\"icon\":\"download\",\"size\":\"CSV 23KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -47,14 +47,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

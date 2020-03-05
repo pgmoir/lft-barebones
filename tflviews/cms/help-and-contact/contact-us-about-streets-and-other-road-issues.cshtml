@@ -100,12 +100,12 @@
                     formSetup = new FormSetupViewModel {
                         FormType="StreetsIssues",
                         FormSections = new List<string>(){ "CommentsTypeTwo", "PersonalDetails", "Feedback", "StreetLocation", "LeafletMap", "FormComments","FormAttachments" },
-                        IntroductionMessages = new Dictionary<string,string>{{"intro","<p>To tell us about an urgent safety matter, call 0343 222 1234 (<a href='/corporate/terms-and-conditions/tfl-call-charges'>call charges may apply</a>) or select the 'safety issues and incidents' option on the form below.</p><p>For all non-safety critical matters, we aim to respond to you within 10 working days.</p><p>This form is for all queries to do with roads and streets, <strong>except for </strong> <a href='https://tflportal.icasework.com/form?&amp;Login=false&amp;Type=Roadworks&amp;NoAbout=Yes'>reporting roadworks.</a></p>"}}, 
+                        IntroductionMessages = new Dictionary<string,string>{{"intro","<p>If you see a safety issue that's on this list, the quickest way to let us know is to <a href='https://streetcare.tfl.gov.uk/'>report a problem with our street care reporting tool.</a></p>"}}, 
                         FormName = "Form builder - Contact us about streets and other road issues", 
                         EmailConfirmationToUser = false, 
                         EmailConfirmationSubject = "", 
                         FormRecipient = "",
-                        BodyText = "" 
+                        BodyText = "<div class='on-this-page'><p>You can use the tool to report:<ul><li>Bus stops and shelters</li><li>Graffiti and flyposting</li><li>Hoardings and scaffolding</li><li>Litter</li><li>Mobile cranes</li><li>Roadworks</li><li>Road, cycleway and footway defects</li><li>Street lights and traffic lights</li><li>Trees</li></ul></p><p>If you'd prefer to contact us directly, or if you see an issue that's not on the list, you can:<ul><li>Call 0343 222 1234 (<a href='/corporate/terms-and-conditions/tfl-call-charges'>call charges may apply</a>)</li><li>Fill out this form. Select the 'Safety issues and incidents' option at the start</li></ul></p><p>For all non-safety critical matters, we aim to respond to you within 10 working days.</p></div>"
                     },
                     commentsTypeViewModel = new CommentsTypeViewModel { Content = commentsTypeContent },
                     personalDetailsViewModel = new PersonalDetailsFormViewModel {Content = personalDetailsModel, Heading="Your contact details", TitleRequired = true, PhoneNumberRequired = true, PhoneNumberIsRequired = true, PhoneNumberVisible = true, FirstNameRequired = true, SurnameRequired = true, EmailAddressRequired = true, ConfirmEmailAddressRequired = true },
@@ -141,11 +141,7 @@
     </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-      <div class="share-widget-wrapper"></div>
-    
-    
+
    
     
     

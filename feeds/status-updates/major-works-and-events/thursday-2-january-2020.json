@@ -1,0 +1,81 @@
+{
+ "pageTitle": "Thursday 2 January 2020",
+ "keywords": "TfL",
+ "description": "Travel advice for 2 January 2020",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "Thursday 2 January 2020"
+  }
+ ],
+ "title": {
+  "title": "Thursday 2 January 2020",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Most of our services are back to normal following Christmas and New Year.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future date\u0026direction=\u0026startDate=2020-01-02T00%3a00%3a00\u0026endDate=2020-01-02T23%3a59%3a59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and tram services for 2 January.",
+     "There are a small number of changes today.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Hackney Downs and Enfield Town/Cheshunt (via Seven\",\"Sisters) after 22:45\",\"No southbound service from Sydenham to West Croydon from after 23:30\",\"Weekday service on all other routes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There will be limited regular bookings for today. Book journeys for today from Thursday 19 December\",\"Dial-a-Ride services are for registered members only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and Private Hire\"}",
+     "Until 06:00 today:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Black cabs will charge an extra £4 per journey\",\"There may be an extra charge for private hire vehicles (including minicabs) - check when you book\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles\"}",
+     "Some Santander Cycles docking stations in central London will not be available until around 18:00.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\",\"See our \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future%20date\\u0026direction=\\u0026startDate=2020-01-02T00%3A00%3A00\\u0026endDate=2020-01-02T23%3A59%3A59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for 2 January\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -49,7 +49,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving at appropriate speeds\"}",
      "The Highway Code states that driving at speeds too fast for the road and traffic conditions is dangerous. It is often not appropriate or safe to drive at the maximum speed limit and drivers should be prepared for unexpected or difficult situations.",
      "The Highway Code recommends reducing speed when:",
-     "{\"template\":\"bulletlist\",\"items\":[\"sharing the road with other road users such as pedestrians, cyclists or motorcyclists\",\"driving near schools where there may be young cyclists and a risk of children stepping into the road unexpectedly\",\"the road layout or condition presents hazards, such as bends\",\"weather conditions make it safer to do so\",\"driving at night as it is more difficult to judge speed and see other road users\",\"driving in built up areas where there are traffic lights, potential road works or pedestrian crossings\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sharing the road with other road users such as pedestrians, cyclists or motorcyclists\",\"Driving near schools where there may be young cyclists and a risk of children stepping into the road unexpectedly\",\"The road layout or condition presents hazards, such as bends\",\"Weather conditions make it safer to do so\",\"Driving at night as it is more difficult to judge speed and see other road users\",\"Driving in built up areas where there are traffic lights, potential road works or pedestrian crossings\"]}",
      "The code also highlights other factors that increase the likelihood of speeding and speed-related collisions such as being in a hurry or driving too close to the car in front. It recommends allowing plenty of time for your journey and ensuring a stopping distance of 23 metres from the car in front when travelling at 30mph.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero for London\"}",
      "Transport for London is committed to reducing road danger, by working in partnership with the police, London boroughs and stakeholders to achieve the Vision Zero ambition of creating a road network free from death and serious injury by 2041.",
@@ -65,14 +65,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

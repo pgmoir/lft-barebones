@@ -49,7 +49,7 @@
      " \u003ca href=\"http://www.tfl.gov.uk/cable-car/stop/940GZZALRDK/emirates-royal-docks?lineId=emirates-air-line\"\u003ePlan your journey to Emirates Royal Docks\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/emirates-map.jpg\",\"alt\":\"Emirates Air Line locations\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Opening hours\"}",
-     "{\"template\":\"table\",\"titles\":[\"Day\",\"Time\",\"Monday to Thursday\",\"Friday\",\"Saturday\",\"Sunday and Bank Holidays\"],\"rows\":[[],[\"07:00-22:30\"],[\"07:00-23:00\"],[\"08:00-23:00\"],[\"09:00-22:30\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Day\",\"Time\",\"Monday to Thursday\",\"Friday\",\"Saturday\",\"Sunday and Bank Holidays\"],\"rows\":[[],[\"07:00-21:00\"],[\"07:00-23:00\"],[\"08:00-23:00\"],[\"09:00-21:00\"]]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Night flight experience hours\"}",
      "After 19:00 each day, flight durations are extended to approximately 25 minutes (12-13 minutes each way), so you can enjoy an even more relaxing trip across the Thames.\nMusic and video will further enhance your in-flight experience at these times.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Closures\"}",
@@ -76,7 +76,7 @@
      "Both terminals are staffed and we can offer assistance getting in or out of cabins. The cabins can be slowed down to allow you plenty of time to board.",
      "Electric wheelchairs and mobility scooters must be turned off inside the cabins.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fares\"}",
-     "You can travel on the Emirates Air Line with pay as you go using a contactless payment or Oyster card, or you can buy a Boarding Pass.  For more information, \u003ca href=\"/fares-and-payments/fares2018/find-fares/emirates-air-line-fares\"\u003ego to the Emirates Air Line fares page\u003c/a\u003e ."
+     "You can travel on the Emirates Air Line with pay as you go using a contactless payment or Oyster card, or you can buy a Boarding Pass.  For more information, \u003ca href=\"/fares/find-fares/emirates-air-line-fares\"\u003ego to the Emirates Air Line fares page\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -88,14 +88,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

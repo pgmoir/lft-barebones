@@ -50,9 +50,9 @@
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/lcdslarger_rdax_400x250.gif\",\"alt\":\"LCDS front cover\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Cycling Design Standards (LCDS)\"}",
      "Comprehensively revised and updated in 2014, LCDS sets out requirements and advice for cycle network planning and for the design of dedicated cycle infrastructure, cycle-friendly streets and cycle parking. This guidance applies to all streets in London and must be adhered to for relevant funding programmes. In October 2016, minor updates were made to the document, for consistency with the revised Traffic Signs Regulations and General Directions (2016).",
-     "The New Cycle Route Quality Criteria published in May 2019 describes the quality we expect for proposed cycle routes in London, based on London Cycling Design Standards best practice guidance.",
-     "A spreadsheet tool and technical note are on the \u003ca href=\"/corporate/publications-and-reports/cycling\"\u003eCycling page in Publications and documents\u003c/a\u003e .",
-     "Guidance on design of temporary traffic management to support cycling may be found in the \u003ca href=\"/info-for/suppliers-and-contractors/health-safety-and-environment/traffic-management\"\u003eTfL temporary traffic management handbook\u003c/a\u003e (2018).",
+     "The New Cycle Route Quality Criteria published in May 2019 describes the quality we expect for proposed cycle routes in London, based on London Cycling Design Standards best practice guidance. A spreadsheet tool and technical note are on the \u003ca href=\"/corporate/publications-and-reports/cycling\"\u003eCycling page in Publications and documents\u003c/a\u003e .",
+     "Guidance on design of temporary traffic management to support cycling may be found in the \u003ca href=\"/info-for/suppliers-and-contractors/traffic-management\"\u003eTfL temporary traffic management handbook\u003c/a\u003e (2018).",
+     "Guidance on signing cycle routes as part of the Cycleways network, including design standards for vertical signs and surface markings, can be found in the \u003ca href=\"/cdn/static/cms/documents/cycleways-signing-guidance.pdf\"\u003eCycleways Signing Guidance (2019)\u003c/a\u003e .",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Chapter 1: Design requirements\",\"url\":\"/cdn/static/cms/documents/lcds-chapter1-designrequirements.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.74MB\",\"image\":{}},{\"title\":\"Chapter 2: Tools and techniques\",\"url\":\"/cdn/static/cms/documents/lcds-chapter2-toolsandtechniques.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.57MB\",\"image\":{}},{\"title\":\"Chapter 3: Cycle-friendly streets and spaces\",\"url\":\"/cdn/static/cms/documents/lcds-chapter3-streetsandspaces.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.80MB\",\"image\":{}},{\"title\":\"Chapter 4: Cycle lanes and tracks\",\"url\":\"/cdn/static/cms/documents/lcds-chapter4-cyclelanesandtracks.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.42MB\",\"image\":{}},{\"title\":\"Chapter  5: Junctions and crossings\",\"url\":\"/cdn/static/cms/documents/lcds-chapter5-junctionsandcrossings.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.60MB\",\"image\":{}},{\"title\":\"Chapter 6: Signs and markings\",\"url\":\"/cdn/static/cms/documents/lcds-chapter6-signsandmarkings.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.05MB\",\"image\":{}},{\"title\":\"Chapter 7: Construction, including surfacing\",\"url\":\"/cdn/static/cms/documents/lcds-chapter7-construction.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.33MB\",\"image\":{}},{\"title\":\"Chapter 8: Cycle parking\",\"url\":\"/cdn/static/cms/documents/lcds-chapter8-cycleparking.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.60MB\",\"image\":{}},{\"title\":\"Index and glossary\",\"url\":\"/cdn/static/cms/documents/lcds-index-glossary.pdf\",\"icon\":\"download\",\"size\":\"PDF 267KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contact the Cycling team about LCDS\"}",
      "For comments and further information on LCDS contact \u003ca href=\"mailto:lcds@tfl.gov.uk\"\u003elcds@tfl.gov.uk\u003c/a\u003e .",
@@ -78,14 +78,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "link": {
@@ -109,12 +101,6 @@
      {
       "title": "Design and heritage",
       "url": "/info-for/urban-planning-and-construction/planning-applications/design-and-heritage",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Street Types",
-      "url": "/info-for/boroughs/street-types",
       "icon": "internal",
       "image": {}
      },
@@ -156,7 +142,7 @@
      },
      {
       "title": "Temporary traffic management handbook",
-      "url": "/info-for/suppliers-and-contractors/health-safety-and-environment/traffic-management",
+      "url": "/info-for/suppliers-and-contractors/traffic-management",
       "icon": "internal",
       "image": {}
      }

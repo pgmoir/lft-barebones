@@ -1,7 +1,7 @@
 {
- "pageTitle": "Kensington \u0026 Chelsea",
+ "pageTitle": "Kensington and Chelsea",
  "keywords": "TfL",
- "description": "Facts and certain transport-related documents about the Royal Borough of Kensington \u0026 Chelsea",
+ "description": "Facts and certain transport-related documents about the Royal Borough of Kensington and Chelsea",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -10,19 +10,19 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
-   "title": "Information by borough",
+   "title": "Your borough",
    "url": "/info-for/boroughs/information-by-borough"
   },
   {
-   "title": "Kensington \u0026 Chelsea"
+   "title": "Kensington and Chelsea"
   }
  ],
  "title": {
-  "title": "Kensington \u0026 Chelsea",
+  "title": "Kensington and Chelsea",
   "card": {
    "link": {
     "image": {}
@@ -37,10 +37,44 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Information about the Royal Borough of Kensington \\u0026 Chelsea.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.rbkc.gov.uk\\\"\\u003eKensington \\u0026 Chelsea website\\u003c/a\\u003e \"]}",
-     "TfL is making improvements in or near the Royal Borough. To see some of them, select 'Kensington \u0026 Chelsea' under the Borough drop down on \u003ca href=\"/travel-information/improvements-and-projects/index\"\u003eImprovements \u0026 projects\u003c/a\u003e .",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Local Implementation Plan (LIP) allocation 2019/20\",\"url\":\"/cdn/static/cms/documents/kensington-chelsea-2019-20-lip-allocation-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 220KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2017/18 - Borough Leader\",\"url\":\"/cdn/static/cms/documents/1718-lip-confirmation-leader-letter-kensington-chelsea.pdf\",\"icon\":\"download\",\"size\":\"PDF 73KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2016/17\",\"url\":\"/cdn/static/cms/documents/lip-funding-confirmation-letters-16-17-kensington-chelsea.pdf\",\"icon\":\"download\",\"size\":\"PDF 60KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) delivery plan letter\",\"url\":\"/cdn/static/cms/documents/kensington-chelsea-lip-delivery-plan-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 59KB\",\"image\":{}},{\"title\":\"Public Transport Access Levels (PTAL) map\",\"url\":\"/cdn/static/cms/documents/kensington-chelsea-2012-ptals.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.38MB\",\"image\":{}},{\"title\":\"London Congestion Analysis Project (LCAP) map\",\"url\":\"/cdn/static/cms/documents/kensington-chelsea-lcap-borough-maps.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.24MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"intro\",\"texts\":[\"We partner with Kensington and Chelsea to implement the Mayor's Transport Strategy in the borough.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local Implementation Plan (LIP)\"}",
+     "The LIP is produced by the \u003ca href=\"https://www.rbkc.gov.uk/parking-transport-and-streets/managing-traffic-and-transport/latest-local-implementation-plan-lip\"\u003eRoyal Borough of Kensington and Chelsea\u003c/a\u003e and agreed with us. It sets out the details on transport infrastructure changes in a three-year period to support the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Local Implementation Plan (LIP) allocation 2019/20\",\"url\":\"/cdn/static/cms/documents/kensington-chelsea-2019-20-lip-allocation-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 220KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2017/18 - Borough Leader\",\"url\":\"/cdn/static/cms/documents/1718-lip-confirmation-leader-letter-kensington-chelsea.pdf\",\"icon\":\"download\",\"size\":\"PDF 73KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2016/17\",\"url\":\"/cdn/static/cms/documents/lip-funding-confirmation-letters-16-17-kensington-chelsea.pdf\",\"icon\":\"download\",\"size\":\"PDF 60KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) delivery plan letter\",\"url\":\"/cdn/static/cms/documents/kensington-chelsea-lip-delivery-plan-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 59KB\",\"image\":{}},{\"title\":\"Public Transport Access Levels - Kensington and Chelsea\",\"url\":\"/cdn/static/cms/documents/public-transport-access-levels-kensington-and-chelsea.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.14MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"/info-for/boroughs/local-implementation-plans\"\u003eFind out more about LIP funding.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"LIP targets for Kensington and Chelsea\"}",
+     "Each borough has set targets in their LIP against the Mayor's Transport Strategy outcomes - we track and report on progress against these targets in the \u003ca href=\"http://planning.data.tfl.gov.uk/\"\u003eLIP3 MTS outcomes borough data pack\u003c/a\u003e .",
+     "For example, the car ownership in the borough was 41,247 in 2017. The LIP target to reduce car ownership by 2021 is 40,900.",
+     "Residents in Kensington and Chelsea made an average of 384,000 trips each day between 2015 and 2018 by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Car and motorcycle: 20%\",\"Tube/DLR: 15%\",\"National Rail and London Overground: 2%\",\"Bus/Tram: 15%\",\"Taxi/Other: 5%\",\"Cycle: 2%\",\"Walking: 41%\"]}",
+     "We also work with boroughs to \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking\"\u003eencourage more cycling\u003c/a\u003e . We recorded 11,006 daily cycle trips on average starting in Kensington and Chelsea between 2015 and 2018.",
+     " \u003ca href=\"https://www.london.gov.uk/in-my-area/kensington-and-chelsea\"\u003eMore resident and visitor population figures are on the GLA website.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Funding for your borough\"}",
+     "We provide \u003ca href=\"/info-for/boroughs/borough-funding\"\u003efunding to boroughs and local communities\u003c/a\u003e for transport improvements in your local area.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero\"}",
+     "We are working with boroughs to reduce the number of deaths and serious injuries from all road collisions to zero by 2041. They are responsible for enforcing safe speeds on their roads, as well as leading community programmes to encourage using roads safely. Find out more about \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eVision Zero\u003c/a\u003e .",
+     "In 2017 there were 116 individuals killed or seriously injured in Kensington and Chelsea. Our target for 2022 is to reduce this number to 72.",
+     " \u003ca href=\"https://tfl.gov.uk/corporate/safety-and-security/road-safety/london-collision-map\"\u003eFind out more about collisions in your borough.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we're working on in Kensington and Chelsea\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"We consult local communities on a range of projects every year - \\u003ca href=\\\"https://consultations.tfl.gov.uk/consultation_finder/?advanced=1\\u0026st=open\\\"\\u003esearch on the TfL Consultation Hub\\u003c/a\\u003e \",\"Find out about \\u003ca href=\\\"/status-updates/major-works-and-events\\\"\\u003emajor works and events near you\\u003c/a\\u003e \",\"To see some ongoing TfL improvements in or near the borough, select 'Kensington \\u0026 Chelsea' under the Borough drop down on \\u003ca href=\\\"/travel-information/improvements-and-projects/index\\\"\\u003eImprovements \\u0026 projects\\u003c/a\\u003e \"]}",
+     "Work now going on in your borough includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ea\\u003c/strong\\u003e - our plans will significantly improve accessibility and relieve congestion in the station and include major enhancements to the area around the station\",\"\\u003cstrong\\u003ea\\u003c/strong\\u003e - we're developing proposals for a new route that will connect key town centres including North Acton, Wood Lane, Shepherd's Bush, Holland Park and Notting Hill\",\"\\u003cstrong\\u003ea\\u003c/strong\\u003e - will have step-free access, reached by a new entrance at Hooper's Court\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus network changes\"}",
+     "From time to time - after consulting the public - we alter bus routes to reflect changing patterns in demand. We also make temporary changes, often because of road works. \u003ca href=\"/modes/buses/bus-changes\"\u003eSee the latest bus changes.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ultra Low Emission Zone (ULEZ)\"}",
+     "To improve air quality the \u003ca href=\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/ulez-where-and-when#on-this-page-5\"\u003eULEZ will extend to Kensington and Chelsea from October 2021\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our assets in Kensington and Chelsea\"}",
+     "Assets we maintain in your borough include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"12 Tube stations\",\"One London Overground station\",\"Around 270 bus stops - \\u003ca href=\\\"https://tfl.gov.uk/maps_/bus-spider-maps?Query=Kensington and Chelsea\\\"\\u003esee all 34 day bus routes in Kensington and Chelsea\\u003c/a\\u003e \",\"Two coach stops\",\"92 Santander Cycles docking stations\",\"Seven taxi ranks\",\"Around 165 traffic signals\",\"Over 15 kilometres of \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/red-routes/red-route-maps\\\"\\u003ered routes\\u003c/a\\u003e \"]}",
+     " \u003ca href=\"https://tfl.maps.arcgis.com/apps/webappviewer/index.html?id=5129c766255941d3be16a6828faa8f18\"\u003eSee a map of our assets in London.\u003c/a\u003e ",
+     "We maintain our assets until they need to be renewed or disposed of as set out in our asset management plan. We do this by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Servicing them regularly to keep them operational\",\"Repairing or replacing faulty assets\"]}",
+     "Report a problem on a London street with \u003ca href=\"https://streetcare.tfl.gov.uk/\"\u003eour Streetcare tool\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"We do not maintain in Kensington and Chelsea:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Non-red route roads - these roads are maintained by \\u003ca href=\\\"https://www.rbkc.gov.uk/\\\"\\u003eKensington and Chelsea\\u003c/a\\u003e \",\"Litter removal on red routes - this is also the borough's responsibility\",\"Network Rail track at London Overground stations - \\u003ca href=\\\"https://www.networkrail.co.uk/communities/contact-us/\\\"\\u003econtact Network Rail\\u003c/a\\u003e \",\"Taxis and mini cabs - these are owned by \\u003ca href=\\\"/modes/taxis-and-minicabs/what-to-expect-from-your-journey\\\"\\u003etaxi drivers and minicab offices \\u003c/a\\u003e \",\"One bus garage in Kensington and Chelsea that is \\u003ca href=\\\"/modes/buses/who-runs-your-bus\\\"\\u003eowned and managed by a bus company\\u003c/a\\u003e \",\"Coaches\",\" \\u003ca href=\\\"/info-for/taxis-and-private-hire/taxi-ranks\\\"\\u003eTaxi ranks\\u003c/a\\u003e on borough roads. Cars and other vehicles parked on taxi ranks can be \\u003ca href=\\\"https://www.rbkc.gov.uk/global/report-it/report-problem\\\"\\u003ereported to Kensington and Chelsea\\u003c/a\\u003e \"]}",
+     " \u003ca href=\"https://tfl.gov.uk/forms/12368.aspx?cid=tph-report\"\u003eReport private hire vehicles (PHVs) parked on ranks or unattended taxis on ranks directly to us.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dealing with severe weather\"}",
+     "For documents relating to winter service in the boroughs, go to the \u003ca href=\"/corporate/publications-and-reports/streets\"\u003eStreets publications page\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -53,35 +87,12 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Your borough",
     "links": [
      {
-      "title": "Borough funding",
-      "url": "/info-for/boroughs/borough-funding",
-      "image": {}
-     },
-     {
-      "title": "Planning \u0026 resources",
-      "url": "/info-for/boroughs/planning-and-resources",
-      "image": {}
-     },
-     {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
-      "image": {}
-     },
-     {
-      "title": "Barking \u0026 Dagenham",
+      "title": "Barking and Dagenham",
       "url": "/info-for/boroughs/barking-and-dagenham",
       "image": {}
      },
@@ -176,7 +187,7 @@
       "image": {}
      },
      {
-      "title": "Kensington \u0026 Chelsea",
+      "title": "Kensington and Chelsea",
       "url": "/info-for/boroughs/kensington-and-chelsea",
       "image": {}
      },
@@ -244,11 +255,21 @@
       "title": "Westminster",
       "url": "/info-for/boroughs/westminster",
       "image": {}
+     },
+     {
+      "title": "Funding for your borough",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/westminster",
+     "title": "Your borough",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},
@@ -256,6 +277,35 @@
    },
    {
     "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Air quality",
+      "url": "/corporate/about-tfl/air-quality",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Safety enforcement cameras",
+      "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Travel tools",
+      "url": "/status-updates/travel-tools",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

@@ -1,6 +1,6 @@
 {
  "pageTitle": "Old Street roundabout",
- "keywords": "Cyclists,Drivers,Pedestrians,O,Hackney,Islington,Roads,Cycling,Driving,Walking,TfL",
+ "keywords": "Cyclists,Drivers,Pedestrians,O,Hackney,Islington,Consultation,Roads,Cycling,Driving,Walking,TfL",
  "description": "Work to make the Old Street area more pedestrian and cycle-friendly includes removing the roundabout",
  "template": "page-content",
  "breadcrumbs": [
@@ -41,30 +41,31 @@
      "Take extra care when walking, cycling and driving in the area - traffic may be coming from a different direction than you're used to.",
      " \u003ca href=\"/status-updates/major-works-and-events/old-street-roundabout\"\u003eFind out more about how your journey may be affected.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Final road layout\"}",
-     "Although traffic will flow in two directions after this switchover, the final road layout at Old Street will only be in place when we close off the northwestern arm of the roundabout later in 2019. We'll update this page with details closer to the time.",
+     "Although traffic will flow in two directions after this switchover, the final road layout at Old Street will only be in place when we close off the northwestern arm of the roundabout in spring 2020. We'll update this page with details closer to the time.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Old Street roundabout - map of proposed changes\",\"url\":\"/cdn/static/cms/documents/old-street-roundabout-revised-consultation-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.49MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/old-street-roundabout-map-thumb.jpg\",\"alt\":\"Map of proposed changes at Old Street roundabout\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/old-street-main-entrance-day.jpg\",\"alt\":\"Main entrance view - day time\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/old-street-main-entrance-night.jpg\",\"alt\":\"Main entrance view - night time\"}],\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we're doing\"}",
      "As part of the scheme we will:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Remove the existing roundabout and close the northwest arm to create a new public space\",\"Switch road traffic movements to two-way\",\"Remodel the entrances to the Tube station by closing three of the four existing subway entrances and building a new main entrance which will be accessible from the new public space and from Cowper Street - this will replace existing subway entrances\",\"Improve facilities for pedestrians and cyclists travelling through the junction with segregated cycle lanes and signal-controlled pedestrian crossings\",\"Build a lift connecting the public space to the subway retail concourse, replacing the subway ramps\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Remove the existing roundabout and close the northwest arm to create a new public space\",\"Switch road traffic movements to two-way\",\"Remodel the entrances to the Tube station by closing three of the four existing subway entrances. These will be replaced by two new station entrances, one accessible from Cowper Street and a main station entrance with a green roof to complement the public space and environment\",\"Improve facilities for pedestrians and cyclists travelling through the junction with segregated cycle lanes and signal-controlled pedestrian crossings\",\"Build two new lifts to the St Agnes Well mall retail concourse. One will be a designated public lift and the other a service lift for the retail business and Tube station\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The works\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Phase A - enabling works and site investigations\"}",
      "\u003cstrong\u003eWe have:\u003c/strong\u003e ",
-     "{\"template\":\"bulletlist\",\"items\":[\"Completed trial hole investigations on the pedestrianised area of Cowper Street\",\"Closed the end of Cowper Street nearest to the roundabout for pedestrians until\\u003cstrong\\u003eNovember 2019\\u003c/strong\\u003e . This lets us finish these works and build the new Cowper Street station entrance. Diversion signs show how to get into Cowper Street\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Completed trial hole investigations on the pedestrianised area of Cowper Street\",\"Closed the end of Cowper Street nearest to the roundabout for pedestrians until early 2020. This lets us finish these works and build the new Cowper Street station entrance\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Phase B - advanced highway works\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Removed the traffic islands on all four arms of the roundabout to make sure traffic flows safely during Phase C\",\"Closed the southeastern pedestrian subway (Subway 2) leading to St Agnes Well and the Tube\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Phase C - main works\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Closed the southeastern arm of the roundabout to traffic. Two-way traffic is now running around the junction\",\"Created dedicated cycle and pedestrian routes through the works site\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Closed the southeastern arm of the roundabout to traffic. Two-way traffic is now running around the junction\",\"Created dedicated cycle and pedestrian routes through the works site\",\"Installed a temporary service lift\",\"Completed diversion of a 24-inch Thames Water main\"]}",
      "Other works in this phase include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Diversion of a 24-inch Thames Water main‎\",\"Building the new entrance at Cowper Street and subway works\",\"Installation of a temporary service lift\",\"Structural works to prepare for construction of new main entrance\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Building the new entrance at Cowper Street and subway works\",\"Structural works to prepare for construction of new main entrance\",\"Highways and drainage works on the southeastern arm\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Phase D - main works\"}",
      "Main works will include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Closing the northwestern arm of the roundabout to traffic\",\"Building a new main station entrance\",\"Building a new lift into St Agnes Well mall\",\"Transforming the roundabout into a new public space\",\"Permanently closing Subways 1 and 3\"]}",
-     "These works will be done Monday-Saturday, 07:00-19:00 with some night works between 20:30-05:30 because of Tube operations.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Closing the northwestern arm of the roundabout to traffic\",\"Building a new main station entrance\",\"Building two new lifts into St Agnes Well mall\",\"Transforming the roundabout into a new public space\",\"Permanently closing Subways 1 and 3\"]}",
+     "These works will be done Monday-Saturday, 07:00-19:00 with some night works between 20:30-05:30 because of Tube operations.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Public drop-in sessions\"}",
-     "We hold weekly public drop-in sessions to share more about the Old Street roundabout improvement works.",
+     "We hold weekly public drop-in sessions to share more about the Old Street roundabout improvement works.",
      "When:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Every Monday, 11:00-13:00\",\"Every Tuesday, 11:00-13:00\",\"Every Wednesday, 16:00-18:00\"]}",
-     "Where: At the retail unit opposite the Old Street Tube station ticket hall, in the subway area (this is known as St Agnes Well)",
+     "{\"template\":\"bulletlist\",\"items\":[\"Every Monday, 11:00-13:00\",\"Every Tuesday, 11:00-13:00\",\"Second and fourth Wednesday of every month, 17:00-19:00\"]}",
+     "Where: Serata Hall, a bar and restaurant at 207 Old Street, London EC1V 9NR (exit the Tube station from Subway 4)",
      "These sessions are run in collaboration with Islington Council.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact\"}",
      "Our dedicated public liaison officer can answer questions about the works:",
@@ -87,14 +88,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -127,12 +120,6 @@
      {
       "title": "Tube improvement",
       "url": "/campaign/tube-improvements",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Roads",
-      "url": "/corporate/about-tfl/what-we-do/roads",
       "icon": "internal",
       "image": {}
      }

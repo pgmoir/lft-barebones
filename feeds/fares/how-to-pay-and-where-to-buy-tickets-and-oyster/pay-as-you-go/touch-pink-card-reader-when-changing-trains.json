@@ -44,8 +44,10 @@
      "{\"template\":\"intro\",\"texts\":[\"Pink card readers help you pay the right fare by telling us the route you took didn't go through Zone 1.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to use\"}",
      "You can touch on a pink card reader using \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e (card or device), an \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster card\u003c/a\u003e or \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eTravelcard\u003c/a\u003e when travelling on London Overground and the Tube.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/pink-card-reader-explanation.jpg\",\"alt\":\"Contactless card over a yellow card, then pink card reader, and yellow card reader at the end.\"},\"wrapped\":false}",
      "If you're travelling across London but not through Zone 1, you need to:",
      "This tells us that the route you took didn't go through Zone 1, so you're charged the right fare for your journey.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/pink-card-reader-zone-one.jpg\",\"alt\":\"Yellow card reader pointing towards a pink card reader and then yellow card reader outside Zone 1\"},\"wrapped\":false}",
      "If you don't touch on a pink card reader:",
      "{\"template\":\"bulletlist\",\"items\":[\"You'll pay the higher pay as you go fare that includes Zone 1 travel\",\"You'll pay an extension fare if you're using a Travelcard that doesn't cover Zone 1 travel\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where are they?\"}",
@@ -64,14 +66,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

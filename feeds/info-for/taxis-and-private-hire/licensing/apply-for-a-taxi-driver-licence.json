@@ -60,7 +60,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much will my application cost?\"}",
      "Payment can be made via all major credit or debit cards by completing the appropriate section in the application form. Other payment options are available via the Post Office® 'Check and Send' service.",
      "The table below highlights the typical cost of an application. However, some costs may vary.",
-     "{\"template\":\"table\",\"rows\":[[\"DBS disclosure application\\u003cbr /\\u003e\",\"£56.85 (online)\\u003cbr /\\u003e£58.85 (paper)\"],[\"Licence application fee (non-refundable)\\u003cbr /\\u003e\",\"£120\"],[\"Grant of licence fee\",\"£180\"],[\"Knowledge of London written examination\\u003cbr /\\u003e(All London only)\",\"£200\"],[\"Knowledge of London appearance\\u003cbr /\\u003e(One off payment)\",\"£400\"],[\"DSA Hackney Carriage driving test (payment to DSA)\",\"£92.94 (normal hours)\\u003cbr /\\u003e£112.34 (evenings and Saturdays)\\u003cbr /\\u003e£50 (wheelchair test only)\"],[\"Post Office® Check and Send\\u003cbr /\\u003e\",\"£7.15\\u003cbr /\\u003e\"],[\"Medical assessment\\u003cbr /\\u003e(Payable to your GP who can advise you of the cost)\",\"£80 (approximately)\\u003cbr /\\u003e\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"DBS disclosure application\",\"£52 (online)\\u003cbr /\\u003e£54 (paper)\"],[\"Licence application fee (non-refundable)\",\"£120\"],[\"Grant of licence fee\",\"£180\"],[\"Knowledge of London written examination\\u003cbr /\\u003e(All London only)\",\"£200\"],[\"Knowledge of London appearance\\u003cbr /\\u003e(One off payment)\",\"£400\"],[\"DSA Hackney Carriage driving test (payment to DSA)\",\"£92.94 (normal hours)\\u003cbr /\\u003e£112.34 (evenings and Saturdays)\\u003cbr /\\u003e£50 (wheelchair test only)\"],[\"Post Office® Check and Send\",\"£7.15\"],[\"Medical assessment\\u003cbr /\\u003e(Payable to your GP who can advise you of the cost)\",\"£80 (approximately)\"]]}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Equal opportunities\"}",
@@ -90,14 +90,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -156,6 +148,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

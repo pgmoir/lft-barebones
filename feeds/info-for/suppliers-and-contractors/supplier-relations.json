@@ -35,19 +35,19 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We are working to build effective relationships with all of our key suppliers, promote innovation within the supply chain and work with suppliers to deliver the Mayor's Responsible Procurement policy.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Supplier Relationship Management (SRM)\"}",
-     "We have a structured SRM programme which extends beyond managing risk to help establish solid relationships. Initiatives with our key suppliers include collaboration, co-operation and innovation to help deliver coherent, ambitious and well-led programmes using relationship development.",
+     "We have a structured SRM programme which extends beyond managing risk to help establish solid relationships. Initiatives with our key suppliers include collaboration, co-operation and innovation to help deliver coherent, ambitious and well-led programmes using relationship development.",
      "SRM in TfL includes Strategic Labour Needs and Training (SLNT), a strand of the Responsible Procurement programme. Through SRM, we work with our suppliers to increase the numbers of jobs and apprenticeships in London and help increase the number of apprenticeships. A number of our key suppliers are already forerunners in this area and we aim to expand this further across our supply base.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Supplier skills programme\"}",
      "Skills shortages in engineering and project management pose a risk to London's economy and future growth.",
      "To close the skills gap in our industry, we work with our suppliers to generate apprenticeship and employment opportunities and to facilitate access to funding and support. Opportunities are aligned to the skills required, directly matching the suppliers' needs.",
      "More than 3,600 apprenticeships have been created at 100 of our suppliers since 2009, and more than 4,000 unemployed Londoners have been helped to access jobs on TfL contracts.",
-     "Find out more about our \u003ca href=\"/info-for/suppliers-and-contractors/supplier-relations/supplier-skills\"\u003esupplier skills programme\u003c/a\u003e or email us at \u003ca href=\"mailto:supplierskills@tfl.gov.uk\"\u003esupplierskills@tfl.gov.uk\u003c/a\u003e for more information on how we can support you to deliver training and employment outcomes.",
+     "Find out more about our \u003ca href=\"/info-for/suppliers-and-contractors/supplier-relations/supplier-skills\"\u003esupplier skills programme\u003c/a\u003e or email us at \u003ca href=\"mailto:supplierskills@tfl.gov.uk\"\u003esupplierskills@tfl.gov.uk\u003c/a\u003e for more information on how we can support you to deliver training and employment outcomes.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Live contracts\"}",
      "We support an initiative by the Prime Minister and Secretary of State for Communities and Local Government to promote transparency in the public sector by publishing all expenditure over £500 and contracts of £500,000 and over.",
      "Please see our page on \u003ca href=\"/corporate/transparency/index\"\u003etransparency\u003c/a\u003e for more information.",
-     "Crossrail reports separately. View the page on \u003ca href=\"http://www.crossrail.co.uk/about-us/freedom-information/transparency \"\u003etransparency on the Crossrail website\u003c/a\u003e .",
+     "Crossrail reports separately. View the page on \u003ca href=\"http://www.crossrail.co.uk/about-us/transparency\"\u003etransparency on the Crossrail website\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Technology Innovation Portal\"}",
-     "We have identified challenges that may need to be solved with a novel approach or innovative technology. You can submit ideas and solutions that meet our key challenges via our \u003ca href=\"/info-for/business-and-commercial/innovation-portal\"\u003eInnovation Portal\u003c/a\u003e .",
+     "We have identified challenges that may need to be solved with a novel approach or innovative technology. You can submit ideas and solutions that meet our key challenges via our \u003ca href=\"/info-for/business-and-commercial/innovation-portal\"\u003eInnovation Portal\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Responsible procurement\"}",
      "Our procurement programme is a key opportunity to implement positive economic, social and environmental development. As part of the GLA Group, we are committed to leading on and promoting responsible procurement in London.",
      "Find out more about our policies on \u003ca href=\"/corporate/publications-and-reports/procurement-information\"\u003eethical sourcing and sustainable timber\u003c/a\u003e ."
@@ -62,14 +62,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -96,6 +88,11 @@
       "image": {}
      },
      {
+      "title": "Engineering Standards Challenge",
+      "url": "/info-for/suppliers-and-contractors/engineering-standards-challenge",
+      "image": {}
+     },
+     {
       "title": "Supplier relations",
       "url": "/info-for/suppliers-and-contractors/supplier-relations",
       "image": {}
@@ -108,11 +105,6 @@
      {
       "title": "Digital toolkit",
       "url": "/info-for/suppliers-and-contractors/digital-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Health, safety \u0026 environment",
-      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
       "image": {}
      },
      {
@@ -131,14 +123,29 @@
       "image": {}
      },
      {
+      "title": "LU Supplier Handbook",
+      "url": "/info-for/suppliers-and-contractors/supplier-handbook",
+      "image": {}
+     },
+     {
+      "title": "Traffic management",
+      "url": "/info-for/suppliers-and-contractors/traffic-management",
+      "image": {}
+     },
+     {
       "title": "TfL Supplier Awards",
       "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     },
+     {
+      "title": "Zero Harm Forum",
+      "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
       "image": {}
      }
     ],
     "link": {
      "title": "Suppliers \u0026 contractors",
-     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
      "image": {}
     },
     "image": {},
@@ -158,7 +165,7 @@
     "links": [
      {
       "title": "Crossrail",
-      "url": "http://www.crossrail.co.uk/about-us/freedom-information/transparency",
+      "url": "http://www.crossrail.co.uk/sustainability/economic-sustainability/direct-crossrail-contract-opportunities",
       "icon": "external",
       "image": {}
      }

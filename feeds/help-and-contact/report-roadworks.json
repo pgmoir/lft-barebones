@@ -34,7 +34,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Tell us about a problem at a roadworks site. We will take action or send your report to the relevant Highway Authority if the location is not part of our road network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     " \u003ca href=\"https://tflportal.icasework.com/form?\u0026Login=false\u0026Type=Roadworks\u0026NoAbout=Yes\"\u003eReport a roadworks issue\u003c/a\u003e ",
+     " \u003ca href=\"https://streetcare.tfl.gov.uk\"\u003eReport a problem with roadworks, bus stops and shelters\u003c/a\u003e with our street care reporting tool.",
      " \u003ca href=\"/help-and-contact/contact-us-about-streets-and-other-road-issues\"\u003eReport other street faults\u003c/a\u003e - such as potholes or abandoned vehicles",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Roadworks Pledge\"}",
      "As part of an ongoing drive to reduce the amount of roadworks in London, TfL, the London Boroughs and all those\ndigging up the Capital's roads have pledged to do all they can to minimise\nunnecessary roadworks disruption and ensure works are well managed.",
@@ -55,14 +55,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

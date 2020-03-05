@@ -39,6 +39,9 @@
      "The spreadsheet tool allows planners and designers to use data to determine whether conditions are appropriate for routes to mix people cycling with motor traffic. The tool also recommends when dedicated space for cycling would be most appropriate.",
      "The accompanying technical note describes the relationship of the six criteria and how the automated spreadsheet tool interprets the data.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"New cycle route quality criteria - Spreadsheet tool\",\"url\":\"/cdn/static/cms/documents/cycle-route-quality-criteria-spreadsheet-tool-v1.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 815KB\",\"image\":{}},{\"title\":\"New cycle route quality criteria - Technical note\",\"url\":\"/cdn/static/cms/documents/cycle-route-quality-criteria-technical-note-v1.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.45MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycle parking implementation plan\"}",
+     "London's first cycle parking implementation plan builds on new data and analysis for a strategic, evidence-based approach to cycle parking across London. Launched in July 2019, the plan includes a set of short term targets to install cycle parking where it would support the most cycle journeys.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycle parking implementation plan - July 2019\",\"url\":\"/cdn/static/cms/documents/cycle-parking-implementation-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.12MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New cycle infrastructure on London's streets\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Summary report of on-street trials\"}",
      "To assess whether recently delivered innovative infrastructure trials work as intended for all users, including a review of:",
@@ -50,6 +53,8 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guidance note - Pedestrian crossings at bus stop bypasses\",\"url\":\"/cdn/static/cms/documents/guidance-note-pedestrian-crossings-at-bus-stop-bypasses.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.39MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Strategic cycling analysis - June 2017\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Strategic cycling analysis\",\"url\":\"/cdn/static/cms/documents/strategic-cycling-analysis.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.99MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling trends update - July 2019\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycling trends update\",\"url\":\"/cdn/static/cms/documents/cycling-trends-update.pdf\",\"icon\":\"download\",\"size\":\"PDF 203KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Tour de France 2014 - Three Inspirational Days\",\"url\":\"/cdn/static/cms/documents/tour-de-france-three-inspirational-days.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.27MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"The Mayor's Vision for Cycling in London\",\"url\":\"/cdn/static/cms/documents/gla-mayors-cycle-vision-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.63MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"International Cycling Infrastructure Best Practice Study\",\"url\":\"/cdn/static/cms/documents/international-cycling-infrastructure-best-practice-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.08MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -115,14 +120,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "advert",
     "link": {
      "image": {}
@@ -137,6 +134,12 @@
      {
       "title": "Cycling",
       "url": "/modes/cycling/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking",
       "icon": "internal",
       "image": {}
      },

@@ -79,7 +79,7 @@
      "You will need to pay the full charge until your discount has been approved. However, subject to the terms and conditions, you may be entitled to a 90% refund of the charges you've paid while you have been waiting.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "If you hold a valid Blue Badge in the European Economic Area, you're eligible to register for a 100% discount, even if you don't own a vehicle or drive. (If you have an organisation Blue Badge or are applying on behalf of another person, for example a child, please see 'Applying for Blue Badge discount on behalf of someone else' below.)",
+     "If you hold a valid Blue Badge in the European Economic Area, you're eligible to register for a 100% discount, even if you don't own a vehicle or drive. (If you have an organisation Blue Badge or are applying on behalf of another person, for example a child, please see 'Applying for Blue Badge discount on behalf of someone else' below).",
      "You can register up to two vehicles that you would normally use to travel within the Congestion Charge zone. This could be your own vehicle, or one you travel in.",
      "You can apply for a discount online but you'll need to supply certain documents to show you're entitled to the discount.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Documents you need to provide\"}",
@@ -129,8 +129,10 @@
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "(Formerly Ultra Low Emission Discount (ULED))",
-     "Only vehicles that meet euro 6 standards (petrol and diesel), emit no more than 75g/km of Co2 and have a minimum 20 mile zero emission capable range will qualify for the 100% cleaner vehicle discount.",
-     "You can check the CO2 emissions of your car on the V5C registration document. If the euro standard of your vehicle is not shown on the V5C you can check it with the franchised dealer or the vehicle manufacturer.",
+     "Currently, only vehicles that meet Euro 6 standards (petrol and diesel), that emit no more than 75g/km of CO2 and have a minimum 20 mile zero emission capable range will qualify for the 100% cleaner vehicle discount.",
+     "From 25 October 2021, the cleaner vehicle discount will change so that only battery electric vehicles are eligible. Then from 25 December 2025, the cleaner vehicle discount will be discontinued. From this date, all vehicle owners, unless in receipt of another discount or exemption, will need to pay to enter the Congestion Charge zone during charging hours.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Check if you qualify until 24 October 2021\"}",
+     "You can check the CO2 emissions of your car on the V5C registration document. If the Euro standard of your vehicle is not shown on the V5C you can check it with the franchised dealer or the vehicle manufacturer.",
      "You also qualify if your vehicle is registered with the DVLA and has a fuel type of 'electric' (you can check this on the V5C registration document the DVLA sent you), or alternatively, if your vehicle is a 'plug-in hybrid' and has been approved as an ultra-low emission vehicle by the Office for Low Emission Vehicles. You can find more information at the \u003ca href=\"https://www.gov.uk/government/organisations/office-for-low-emission-vehicles\"\u003eOffice for Low Emissions Vehicles website\u003c/a\u003e .",
      "You can find out more about low emission vehicles on the \u003ca href=\"https://www.goultralow.com/\"\u003eGo Ultra Low\u003c/a\u003e website.",
      "If your vehicle is a 'plug-in hybrid' you will need to supply a conformity certificate as part of your application.",
@@ -149,8 +151,6 @@
      "You have to pay £10 to register each vehicle for the discount. This will need to be renewed every year.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Renewing your cleaner vehicle discount\"}",
      "We will notify you when your discount is due to expire. You will be able to renew your discount online once you have received this notification.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Source London\"}",
-     "Source London is a city-wide electric vehicle charging network. Find out more on the \u003ca href=\"https://www.sourcelondon.net/\"\u003eSource London website\u003c/a\u003e .",
      "\u003cstrong\u003eIf you can provide us with all your cleaner vehicle discount documents you can apply online now.\u003c/strong\u003e ",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -224,11 +224,6 @@
       "image": {}
      },
      {
-      "title": "Unofficial selling websites",
-      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
-      "image": {}
-     },
-     {
       "title": "Penalties and enforcement",
       "url": "/modes/driving/congestion-charge/penalties-and-enforcement",
       "image": {}
@@ -259,7 +254,7 @@
     "title": "Also on this site",
     "links": [
      {
-      "title": "Electric vehicles",
+      "title": "Electric vehicles and charge points",
       "url": "/modes/driving/electric-vehicles-and-rapid-charging",
       "icon": "internal",
       "image": {}

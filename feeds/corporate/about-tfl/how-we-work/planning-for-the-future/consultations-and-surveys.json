@@ -42,18 +42,39 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We value the opinions of our customers and stakeholders, and regularly ask for views on a range of transport issues.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consultation hub\"}",
+     "One of the ways we gather feedback is through online questionnaires on our \u003ca href=\"https://consultations.tfl.gov.uk/\"\u003econsultations hub\u003c/a\u003e .",
      "We consult on:",
      "{\"template\":\"bulletlist\",\"items\":[\"New guidance, policy updates and amendments\",\"Changes to bus services\",\"Relocation of bus stops and shelters\",\"Design and management of London roads\",\"Major transport projects and developments\"]}",
-     "One of the ways we gather feedback is through online questionnaires on our \u003ca href=\"https://consultations.tfl.gov.uk/\"\u003econsultations hub\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we reach a decision\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How we reach a decision\"}",
      "We always consider feedback during the decision-making process. Final plans will also take other factors into account, including relevant financial, legal, safety and technical issues.",
      "Some decisions, such as highway changes, also depend on decisions made by London boroughs.",
      "Once a decision is made, it is published online.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Travel Demand Survey\"}",
-     "Each year, 8,000 randomly selected households in London and the surrounding area are interviewed about their travel habits as part of the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/london-travel-demand-survey\"\u003eLondon Travel Demand Survey\u003c/a\u003e .",
+     "Each year, 8,000 randomly selected households in London and the surrounding area are interviewed about their travel habits as part of the London Travel Demand Survey.",
+     "If you or your household have been chosen to complete the survey, we hope you will take part and help us improve travel and transport for everyone who lives, works and travels in London.",
+     "Three questionnaires are carried out:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Household - basic demographic information such as income, housing tenure and vehicle ownership\",\"Individual - completed by all members of the household aged five and over. This includes further demographic and travel-related information such as working status, frequency of use of transport modes, and details of driving licences and public transport tickets held\",\"Trip sheets - completed by every household member aged five and over. This gathers data on all trips made on a designated travel day. Details captured include trip purposes, modes used, trip start and end times, and the locations of trip origins and destinations\"]}",
+     "The Survey helps to raise money for charities - we make a donation for each completed survey.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Latest survey results\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"London Travel Demand Survey -  Workbook 2017/18\",\"url\":\"/cdn/static/cms/documents/ltds-0518.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 272KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelcard Survey\"}",
-     "We run an \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/travelcard-survey\"\u003eannual survey on Travelcard usage\u003c/a\u003e to help us understand how they are used.",
-     "We distribute thousands of Travelcard diaries every year and donate £2 to charity for each completed survey returned to us."
+     "Working with the Rail Delivery Group, we run an ongoing survey on Travelcards to help us understand how they are used and to raise money for charity.",
+     "We distribute thousands of Travelcard diaries every year and donate £2 to charity for each completed survey returned to us.",
+     "We distribute thousands of Travelcard surveys every year for customers to record their journeys on public transport. We can't get this data from Oyster records alone because customers using Travelcards on Oyster don't necessarily need to touch in and out when travelling within their ticket's zones.",
+     "For each diary completed and returned to us, we donate £2 split equally between our four nominated registered charities:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.asthma.org.uk/\\\"\\u003eAsthma UK\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.rspb.org.uk\\\"\\u003eThe Royal Society for the Protection of Birds\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://www.mariecurie.org.uk/\\\"\\u003eMarie Curie\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://www.citizensadvice.org.uk/\\\"\\u003eCitizens Advice Bureau\\u003c/a\\u003e \"]}",
+     "Customers have helped us raise more than £495,000 as of Jan 2020. Our latest donation shared £1,842 among our nominated charities.",
+     "You may receive a Travelcard diary through the post or by email, or one of our surveyors may offer you a diary at a station.",
+     "The diaries are simple to fill in and free to return, see below for more detail on completing a diary.",
+     "Every diary we get back is useful, so thanks to all of you who have helped out with the survey so far.",
+     "\u003cstrong\u003eCompleting diaries\u003c/strong\u003e ",
+     "When completing diaries, please remember to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Record all trips, including return trips\",\"Record trips on London Overground and TfL Rail as 'Rail'\",\"Record trips on different modes separately, for example if you take the Tube to Finsbury Park and then change to National Rail, record the trips as separate entries on the diary\"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Travelcard diary sample\",\"url\":\"/cdn/static/cms/documents/travelcard-diary-example.pdf\",\"icon\":\"download\",\"size\":\"PDF 569KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Selecting our charities\"}",
+     "The four charities selected to receive the Travelcard survey donation were chosen to reflect a wide range of  public interests.",
+     "We are not actively looking at the moment for any other charities to join the survey."
     ],
     "link": {
      "image": {}
@@ -65,14 +86,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -109,18 +122,13 @@
       "image": {}
      },
      {
-      "title": "London Travel Demand Survey",
-      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/london-travel-demand-survey",
-      "image": {}
-     },
-     {
-      "title": "Travelcard survey",
-      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/consultations-and-surveys/travelcard-survey",
-      "image": {}
-     },
-     {
       "title": "Developing the rail network",
       "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network",
+      "image": {}
+     },
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking",
       "image": {}
      },
      {

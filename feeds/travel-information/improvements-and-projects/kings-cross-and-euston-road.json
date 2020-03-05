@@ -1,0 +1,110 @@
+{
+ "pageTitle": "King's Cross and Euston Road",
+ "keywords": "E,K,Westminster,Roads,Cycling,Driving,Walking,TfL",
+ "description": "Our proposals for the road network in the King's Cross and Euston Road area would make it safer for all road users",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "King's Cross and Euston Road"
+  }
+ ],
+ "title": {
+  "title": "King's Cross and Euston Road",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We're working with the boroughs of Camden and Islington on projects that will transform the King's Cross and Euston Road areas, and help to meet the growing demand for space prompted by other changes in the area.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "If our proposals for Euston Road and the King's Cross area are supported, and subject to approval including coordination with HS2, work could begin on site in 2019.",
+     "We aim to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Accommodate planned growth and support an expected increase in footfall\",\"Improve safety for all road users, particularly pedestrians and cyclists\",\"Better balance the impact of traffic with the need to create an improved place to live, work and visit\",\"Improve cycling facilities throughout the area and support new cycle routes\",\"Make it easier for pedestrians to move through the area and access public transport\",\"Provide appropriate facilities for taxis, private hire vehicles, coaches and freight\",\"Maintain high quality bus routes in the area while balancing overall traffic demand\",\"Improve local air quality and street environment\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we are planning\"}",
+     "We are now working on a scheme to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Improve the environment for pedestrians and cyclists\",\"Better connect the communities to the north and south of Euston Road\",\"Identify a way to remove the King's Cross gyratory systems\",\"Change the way people use and move around the King's Cross area\"]}",
+     "Changes are aimed at simplifying the local road network for all road users. They would:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Improve the quality of the footpath on both sides of Euston Road to encourage more people to walk between Euston and Kings Cross stations\",\"Support essential traffic movement - vital as London's economy and population continue to grow\",\"Introduce two-way traffic on many of the roads that are currently one-way. This would reduce the length of some motor vehicle and cycle journeys\",\"Reduce motor traffic on some (mostly residential) streets to improve the local environment. This would benefit residents, pedestrians and cyclists\",\"Provide new and improved pedestrian crossings at key junctions\",\"Improve the local cycle network by adding new cycle facilities. These could include contra-flow cycle lanes on remaining one-way roads as well as new cycle crossings at key junctions\"]}",
+     "The scope of our study area includes these roads:",
+     "{\"template\":\"bulletlist\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"King's Cross existing traffic map\",\"url\":\"/cdn/static/cms/documents/kings-cross-existing-traffic-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 244KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/kings-cross-traffic-map-detail.jpg\",\"alt\":\"Detail of King's Cross traffic map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Completed safety improvements\"}",
+     "We began work to improve road safety for cyclists in 2015. Cyclists now benefit from segregated facilities on some approaches to and from the Euston Road/York Way junction, and a safer north-south controlled cycle crossing at the junction.",
+     "We also:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Changed road markings to improve the position of vehicles when approaching the Euston Road cycle segregation and help make cyclists more visible in the cycle lane\",\"Added another reflective post on the segregation island on Euston Road and Birkenhead Street\",\"Created clearer road markings to guide pedestrians and cyclists to the crossings they should use\"]}",
+     "We are continuing to monitor the area to assess the scheme's effectiveness.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2016 consultation report\"}",
+     "We consulted on high level plans to transform King's Cross in February-March 2016. Our consultation report is on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/kings-cross-gyratory?cid=kings-cross-gyratory\"\u003eKing's Cross gyratory consultation page\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "contactus",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Tube improvement",
+      "url": "/campaign/tube-improvements",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

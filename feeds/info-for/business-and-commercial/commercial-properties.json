@@ -45,21 +45,6 @@
   ],
   "cards": [
    {
-    "title": "Connected Retail London",
-    "texts": [
-     "Does your concept push the boundaries of retail? Enter our competition"
-    ],
-    "link": {
-     "url": "https://madeby.tfl.gov.uk/2019/05/13/connected-retail-london/",
-     "icon": "external",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/connected-retail-london_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
     "title": "Available properties",
     "texts": [
      "Search our database of current retail and business spaces"
@@ -110,6 +95,21 @@
      "image": {}
     },
     "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Connected Retail London",
+    "texts": [
+     "Does your concept push the boundaries of retail? Enter our competition"
+    ],
+    "link": {
+     "url": "https://madeby.tfl.gov.uk/2019/05/13/connected-retail-london/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/connected-retail-london_rdax_400x200.jpg"
+    },
     "wrapped": false
    }
   ]

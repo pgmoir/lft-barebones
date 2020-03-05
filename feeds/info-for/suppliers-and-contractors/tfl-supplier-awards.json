@@ -34,19 +34,20 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"The TfL Supplier Awards is our chance to recognise the excellent work our supply chain does for us, and the contribution that a wide range of companies make to running and improving transport in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-suppliers-awards-2017_rdax_400x250.jpg\",\"alt\":\"TfL Supplier Awards 2017 at the London Transport Museum\"},\"wrapped\":false}",
-     "The 2018 TfL Supplier Awards ceremony will take place at the London Transport Museum on Wednesday 5 December.",
-     "This year, the awards are open to all our suppliers for their efforts in a range of areas, from increasing opportunities for those underrepresented in the workplace to their work to protect the environment.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/tfl-supplier-awards-2018_rdax_400x250.jpg\",\"alt\":\"picture of attendees at supplier awards\"},\"wrapped\":false}",
+     "The 2019 TfL Supplier Awards ceremony will take place at the London Transport Museum on Wednesday 27 November.",
+     "The awards - open to all our suppliers - recoginise suppliers for efforts in various areas, such as working collaboratively with TfL to help make the transport network more innovative, delivering better value for money and improving transport in London. Suppliers will also be recognised for helping to address underrepresentation in the workplace, implementing innovation and protecting the environment.",
+     "TfL employees can also nominate suppliers.",
      "We're inviting submissions in the following categories:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Health, Safety and Environment\",\"Efficiencies and Innovation\",\"Collaboration\",\"Diversity and Inclusion\",\"Small and Medium Enterprise\"]}",
-     " \u003ca href=\"https://www.surveymonkey.co.uk/r/SAwards2018 \"\u003estrong\u003c/a\u003e \u003cstrong\u003ea\u003c/strong\u003e ",
-     "Submissions open from Wednesday 15 August and close on Tuesday 11 September.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Health, Safety and Environment\",\"Efficiencies and Innovation\",\"Collaboration\",\"Responsible Procurement\",\"Small and Medium Enterprise\"]}",
+     "\u003cstrong\u003ea\u003c/strong\u003e ",
+     "First round submissions are now open - they close at 17:00 on Wednesday 4 September 2019.",
      "Read the full list of categories and evaluation criteria:",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Supplier Awards - Categories \\u0026 Criteria\",\"url\":\"/cdn/static/cms/documents/tfl-supplier-awards-categories.pdf\",\"icon\":\"download\",\"size\":\"PDF 53KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Last year, there were 80 submissions and Siemens were recognised as TfL's Supplier of the Year. They had proven themselves to be an outstanding supplier, working with us to support women back into employment and developing the potential of those already in the transport industry. They also developed their operational practices when installing traffic signals to increase efficiency and reduce the impact on customers and have been a key part of the success of delivering 36 trains per hour on the Victoria line.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Some of our 2017 winners\"}",
-     " \u003ca href=\"https://www.flickr.com/photos/tflpress/sets/72157688598241571\"\u003eSee more photos of the 2017 Supplier Awards ceremony on Flickr\u003c/a\u003e .",
-     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/costain-skanska.jpg\",\"alt\":\"TfL Supplier Awards 2017\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/fm-conway.jpg\",\"alt\":\"TfL Supplier Awards 2017\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/ferrovial-lor.jpg\",\"alt\":\"TfL Supplier Awards 2017\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/siemens-telent.jpg\",\"alt\":\"TfL Supplier Awards 2017\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bam-nuttall.jpg\",\"alt\":\"TfL Supplier Awards 2017\"}],\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL Supplier Awards - Categories \\u0026 Criteria\",\"url\":\"/cdn/static/cms/documents/tfl-supplier-award-categories-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 136KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In 2018 there were more than 100 submissions for the nine different awards. Taylor Woodrow BAM Nuttall was recognised as TfL's Supplier of the Year for its approach to collaborative working, enabling the company to work with us in an honest and proactive way, as well as for its high safety ethos and performance.",
+     "Taylor Woodrow BAM Nuttall was also commended for its involvement in upgrading Tottenham Court Road and Victoria Tube stations, making them more spacious, with step-free access, helping to ensure that the stations are accessible to all customers, including disabled or older customers, parents or carers with buggies and people with heavy luggage.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Some of our 2018 winners\"}",
+     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/best-sme-award-km-mcloughlin-decorating.jpg\",\"alt\":\"TfL Supplier Awards 2018\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/underrepresented-in-the-workplace-award.jpg\",\"alt\":\"TfL Supplier Awards 2018\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/best-environmental-initiative.jpg\",\"alt\":\"TfL Supplier Awards 2018\"}],\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -58,14 +59,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -92,6 +85,11 @@
       "image": {}
      },
      {
+      "title": "Engineering Standards Challenge",
+      "url": "/info-for/suppliers-and-contractors/engineering-standards-challenge",
+      "image": {}
+     },
+     {
       "title": "Supplier relations",
       "url": "/info-for/suppliers-and-contractors/supplier-relations",
       "image": {}
@@ -99,11 +97,6 @@
      {
       "title": "Digital toolkit",
       "url": "/info-for/suppliers-and-contractors/digital-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Health, safety \u0026 environment",
-      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
       "image": {}
      },
      {
@@ -122,14 +115,29 @@
       "image": {}
      },
      {
+      "title": "LU Supplier Handbook",
+      "url": "/info-for/suppliers-and-contractors/supplier-handbook",
+      "image": {}
+     },
+     {
+      "title": "Traffic management",
+      "url": "/info-for/suppliers-and-contractors/traffic-management",
+      "image": {}
+     },
+     {
       "title": "TfL Supplier Awards",
       "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     },
+     {
+      "title": "Zero Harm Forum",
+      "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
       "image": {}
      }
     ],
     "link": {
      "title": "Suppliers \u0026 contractors",
-     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
      "image": {}
     },
     "image": {},

@@ -42,7 +42,7 @@
      "{\"title\":\"Single pay as you go journey\",\"texts\":[\"Find the cost of a journey between two stations with our single fare finder\"],\"link\":{\"url\":\"/fares/find-fares/tube-and-rail-fares/single-fare-finder\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/single-fare-finder-fares_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Caps and Travelcard prices\",\"texts\":[\"Find the price of pay as you go caps and Travelcards for your journey\"],\"link\":{\"url\":\"/fares/find-fares/tube-and-rail-fares/caps-and-travelcard-prices\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/pay-as-you-go-caps_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"11-15 Zip Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/11-15-zip-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"16+Zip Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/16-plus-zip-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"18+ Student Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/18-plus-student-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Apprentice Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/apprentice-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Adult caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/adult-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 76KB\",\"image\":{}},{\"title\":\"Jobcentre Plus Travel Discount caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/jobcentre-plus-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 75KB\",\"image\":{}},{\"title\":\"National Railcard Discount caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/railcard-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}},{\"title\":\"Disabled Persons Railcard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/disabled-persons-railcard-fares-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 71KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"11-15 Zip Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/11-15-zip-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 63KB\",\"image\":{}},{\"title\":\"16+ Zip Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/16-plus-zip-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 63KB\",\"image\":{}},{\"title\":\"18+ Student Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/18-plus-student-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 63KB\",\"image\":{}},{\"title\":\"Apprentice Oyster photocard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/apprentice-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 63KB\",\"image\":{}},{\"title\":\"Adult caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/adult-2020-prices.pdf\",\"icon\":\"download\",\"size\":\"PDF 48KB\",\"image\":{}},{\"title\":\"Jobcentre Plus Travel Discount caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/jobcentre-plus-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 63KB\",\"image\":{}},{\"title\":\"National Railcard Discount caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/railcard-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 63KB\",\"image\":{}},{\"title\":\"Disabled Persons Railcard caps and Travelcard prices\",\"url\":\"/cdn/static/cms/documents/disabled-persons-railcard-fares-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 62KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Peak and off-peak times\"}",
      "We charge higher fares at the busiest times of the day.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using pay as you go\"}",
@@ -58,7 +58,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelling in a group\"}",
      "If you're travelling in a group of ten or more, you can buy paper \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eGroup Day Travelcards\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Group Day Travelcard prices\"}",
-     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eZone  \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eAdult \\u003c/strong\\u003e \",\"\\u003cstrong\\u003eUnder 16s\\u003c/strong\\u003e \"],[\"1-6\",\"£8.60\",\"£4.30\"],[\"1-9\",\"£9.20\",\"£4.60\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Zone\",\"Adult\",\"Under 16s\"],\"rows\":[[],[\"1-6\",\"£8.80\",\"£4.40\"],[\"1-9\",\"£9.40\",\"£4.70\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\\\"\\u003eOyster pay as you go\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\\\"\\u003eContactless and mobile pay as you go\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster\\\"\\u003eHow to pay and where to buy tickets and Oyster\\u003c/a\\u003e \"]}"
     ],
@@ -72,14 +72,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

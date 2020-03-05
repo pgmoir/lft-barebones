@@ -1,0 +1,77 @@
+{
+ "pageTitle": "Monday 23 December 2019",
+ "keywords": "TfL",
+ "description": "Travel advice for Monday 23 December 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "Monday 23 December 2019"
+  }
+ ],
+ "title": {
+  "title": "Monday 23 December 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Christmas and New Year period, most of TfL public transport is open. However, planned works and service changes will affect public transport and road travel throughout the season. Most services are running normally today.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future%20date\u0026direction=\u0026startDate=2019-12-23T00%3a00%3a00\u0026endDate=2019-12-23T23%3a59%3a59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and tram services for 23 December",
+     "There are changes and planned works on the following services today.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "Limited regular bookings for today. Book your journey from Monday 9 December. Dial-a-Ride services are for registered members only.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles\"}",
+     "Santander Cycles are available throughout the Christmas season, including today.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle for free this Christmas. Make as many 30-minute journeys as you like within 24 hours free of charge. Use code SCXMAS19\",\"Check availability of Santander Cycles using the \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003eonline docking station map\\u003c/a\\u003e \",\"Download the Santander Cycles app from the \\u003ca href=\\\"https://itunes.apple.com/gb/app/santander-cycles/id974792287?mt=8\\\"\\u003eApp Store\\u003c/a\\u003e or \\u003ca href=\\\"https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire\\u0026hl=en_GB\\\"\\u003eGoogle Play\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"See our \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/?dateTypeSelect=Future%20date\\u0026direction=\\u0026startDate=2018-12-31T00%3A00%3A00\\u0026endDate=2018-12-31T23%3A59%3A59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for 23 December\",\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

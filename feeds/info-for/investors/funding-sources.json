@@ -33,22 +33,21 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Read about our funding sources, including our funding settlement with Government.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Revenue\"}",
-     "As the monopoly provider of transport in London, our strong and predictable revenue streams have proven resilient over time. We have benefited from consistent revenue growth, and forecasts show this trend is likely to continue.",
-     "We are developing new and innovative ways to supplement the revenue from transport operations. We plan to use our land for property development, make full use of our valuable advertising estate and develop the retail spaces at stations and on high streets.",
-     "For 2015/16 our revenues were £5.3bn. They are expected to have risen to £5.4bn in 2016/17.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Grant and business rates\"}",
-     "Our grant and borrowing limits are set by Government as part of its \u003ca href=\"https://www.gov.uk/government/topical-events/autumn-statement-and-spending-review-2015\"\u003eSpending Review\u003c/a\u003e .",
-     "The transport infrastructure provided by us is fundamental in supporting London and the UK economy, and we believe the Government has a strong incentive to continue to improve the quality of the Capital's transport network over the long term.",
-     "Since April 2013, a portion of our central government grant has been replaced with a share of London's business rates. The remainder of the central government grant has continued to be paid by the Department of Transport via the Greater London Authority (GLA).",
-     "Since April 2017, a further portion of the central government grant has been replaced by a share of London's business rates. This is part of a pilot introduced by the Government in advance of the wider changes to the Business Rates Retention Scheme. The investment grant of approximately £1bn per annum, previously paid by the Department for Transport, will be replaced with an equivalent amount of business rates and will be paid directly by the GLA.",
-     "A smaller portion of funding will continue to be paid by the Department for Transport until 2019/20.",
-     "More details of our funding settlement can be found in our latest funding agreement letter dated 27 March 2017, covering the period 2017/18 to 2020/21.",
-     " \u003ca href=\"/corporate/publications-and-reports/funding-letters\"\u003eRead a copy of this letter and other Government correspondence\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Borrowing\"}",
+     "{\"template\":\"intro\",\"texts\":[\"We generate and receive more than £10bn of income and funding each year.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our activities are funded from a range of sources, including:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Passenger income and other operating income\",\"Grants and third party funding\",\"Prudential borrowing\"]}",
+     "Our Business Plan is financially balanced with planned funding sources meeting planned expenditure. We have a diverse mix of funding sources, with around half of our revenue coming from passenger income.  We expect the proportion of funding from passenger income and commercial development to grow.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Passenger income and other operating income\"}",
+     "Our passenger income is a strong revenue base. We forecast this income will continue to grow in the long term as a result of investment in new services and a growing population.",
+     "We also receive other operating income from road user charging (including the Congestion Charge and the Ultra-Low Emission Zone (ULEZ)) and commercial activities.  We generate revenue from our large media and property estates.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Grant income\"}",
+     "We receive grants from the Government and the Greater London Authority. These grants are used to fund both operating costs and investments. In line with the Government's devolution strategy, the majority of our grant funding comes from local business rates raised under the business rates retention scheme.",
+     " \u003ca href=\"/info-for/investors/funding-letters\"\u003eRead a copy of the latest funding agreement letter and other Government correspondence.\u003c/a\u003e ",
+     "Our grant funding includes additional grants for specific projects such as Crossrail and the Northern Line Extension. We also receive contributions from third parties for some projects.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Prudential borrowing\"}",
      "Our diverse portfolio of borrowing is governed by the Local Government Prudential Borrowing Regime. Incremental borrowing limits are set by the Mayor of London every year and are agreed with the Government as part of the Spending Review.",
-     " \u003ca href=\"/info-for/investors/borrowing-programme\"\u003eMore details about our borrowing programme\u003c/a\u003e ."
+     "Our borrowing portfolio includes debt from the Public Works Loan Board, European Investment Bank and Export Development Canada as well as amounts outstanding under our Commercial Paper and Medium Term Note programmes.",
+     "To read more about our borrowing programme, please see the \u003ca href=\"/info-for/investors/borrowing-programme\"\u003eBorrowing programme page\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -60,14 +59,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -89,6 +80,11 @@
       "image": {}
      },
      {
+      "title": "Funding letters",
+      "url": "/info-for/investors/funding-letters",
+      "image": {}
+     },
+     {
       "title": "Borrowing programme",
       "url": "/info-for/investors/borrowing-programme",
       "image": {}
@@ -107,23 +103,6 @@
     "link": {
      "title": "Investors",
      "url": "/info-for/investors/reports",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Funding letters",
-      "url": "/corporate/publications-and-reports/funding-letters",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
-    "link": {
      "image": {}
     },
     "image": {},

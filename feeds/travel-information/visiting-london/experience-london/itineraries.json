@@ -51,7 +51,7 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transport design icons visitor itinerary\",\"url\":\"/cdn/static/cms/documents/visiting-london-transport-design.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.80MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other cycling tours and routes\"}",
      "These easy-to-follow routes will help you discover London's hidden gems by bike. Why not hire a \u003ca href=\"/modes/cycling/santander-cycles\"\u003eSantander Cycles\u003c/a\u003e bike?",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/santander-cycles/leisure-routes/sporting-sights\\\"\\u003eSporting sights\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/santander-cycles/leisure-routes/londons-secret-gardens\\\"\\u003eLondon's secret gardens\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/santander-cycles/leisure-routes/quirky-london\\\"\\u003eQuirky London\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/santander-cycles/leisure-routes/saturday-markets\\\"\\u003eSaturday markets\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes/sporting-sights\\\"\\u003eSporting sights\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes/londons-secret-gardens\\\"\\u003eLondon's secret gardens\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes/quirky-london\\\"\\u003eQuirky London\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes/saturday-markets\\\"\\u003eSaturday markets\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other walking tours and routes\"}",
      "Getting to see what London has to offer is easy, especially if you walk - there's lots to explore and some great walks like these connecting famous sights and attractions.",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/walking/jubilee-walkway\\\"\\u003eJubilee Walkway\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/walking/jubilee-greenway\\\"\\u003eJubilee Greenway\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/walking/thames-path\\\"\\u003eThames Path\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/walking/lea-valley\\\"\\u003eLea Valley\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/walking/capital-ring\\\"\\u003eCapital Ring\\u003c/a\\u003e \"]}",
@@ -73,14 +73,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

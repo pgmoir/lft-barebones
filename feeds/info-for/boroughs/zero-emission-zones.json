@@ -1,0 +1,138 @@
+{
+ "pageTitle": "Zero Emission Zones",
+ "keywords": "TfL",
+ "description": "Get help with planning a Zero Emission Zone in your borough to help improve air quality and encourage a switch to more sustainable transport",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs and communities",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Zero Emission Zones"
+  }
+ ],
+ "title": {
+  "title": "Zero Emission Zones",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We have tools and guidance to help boroughs put Zero Emission Zones in place.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In a Zero Emission Zone (ZEZ) vehicles are subject to restrictions on exhaust emissions beyond those in the \u003ca href=\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone\u003c/a\u003e or \u003ca href=\"https://tfl.gov.uk/modes/driving/low-emission-zone\"\u003eLow Emission Zone\u003c/a\u003e .",
+     "ZEZs can help improve local air quality while encouraging a switch to zero-emission vehicles, walking, cycling and public transport use. This will help to support the Mayor's goal that by 2050 London will become a zero-carbon city.",
+     "The Mayor's commitment to supporting boroughs to introduce ZEZs is set out in policies 5 and 7 and proposals 21 and 35 in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "We have published guidance for boroughs looking to introduce local ZEZs based around two approaches: \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets\u003c/a\u003e or local air quality hotspots.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guidance on local Zero Emission Zones\",\"url\":\"/cdn/static/cms/documents/tfl-guidance-for-local-zero-emission-zones.pdf\",\"icon\":\"download\",\"size\":\"PDF 571KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "Contact the Local Communities \u0026 Partnerships officer for your area for more information on how we can help you plan ZEZs in your borough."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs and communities",
+    "links": [
+     {
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Cycling toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

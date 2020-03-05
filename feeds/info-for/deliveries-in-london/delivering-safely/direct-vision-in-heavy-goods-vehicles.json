@@ -1,7 +1,7 @@
 {
- "pageTitle": "Direct Vision Standard and Safety Permit for HGVs",
+ "pageTitle": "Direct Vision Standard and HGV Safety Permit",
  "keywords": "TfL",
- "description": "Helping HGV drivers assess visibility of the road from their cabs.",
+ "description": "All lorries over 12 tonnes gross vehicle weight need to be granted a permit to enter or operate in Greater London. The scheme was created to improve the safety of all road users.",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -18,11 +18,11 @@
    "url": "/info-for/deliveries-in-london/delivering-safely"
   },
   {
-   "title": "Direct Vision Standard and Safety Permit for HGVs"
+   "title": "Direct Vision Standard and HGV Safety Permit"
   }
  ],
  "title": {
-  "title": "Direct Vision Standard and Safety Permit for HGVs",
+  "title": "Direct Vision Standard and HGV Safety Permit",
   "card": {
    "link": {
     "image": {}
@@ -37,33 +37,44 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The Direct Vision Standard (DVS) for heavy goods vehicles (HGVs) assesses and rates how much a driver can see directly from their HGV cab in relation to other road users. The DVS forms part of a proposed Safety Permit for all HGVs over 12 tonnes entering London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Direct Vision Standard\"}",
-     "DVS was created to improve the safety of all road users, particularly vulnerable road users such as pedestrians, cyclists and motorcyclists.\u003cbr /\u003e\u003cbr /\u003eDVS uses a star system to rate HGVs over 12 tonnes from 0 (lowest) to 5 (highest), based on how much a driver can see directly through their cab windows.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"HGV Safety Permit\"}",
-     "Consultation feedback has shaped the DVS proposal which now includes an HGV Safety Permit. If the proposal is approved, HGVs over 12 tonnes entering or operating in Greater London will require a Safety Permit. The Permit scheme will operate 24 hours a day, 7 days a week, every day of the year.",
-     "Subject to final consultation, permits for the scheme will be available from October 2019.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Proposed permit requirements\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"From 26 October 2020 all 0-star HGVs over 12 tonnes will be banned unless they prove a Safe System (this is the same date that Low Emission Zone (LEZ) standards strengthen for heavy vehicles London-wide)\",\"From 26 October 2024 all 0 to 2-star HGVs will be banned unless they prove a Progressive Safe System\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safe System\"}",
-     "The Safe System is a series of vehicle safety measures which are designed to reduce the risks HGVs present to cyclists and pedestrians. The core Safe System proposals include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Blind spot elimination and minimisation, for example: a fully operational camera monitoring system; Class V and VI mirrors; and a sensor system with driver alerts\",\"Warning of intended manoeuvre, for example: audible left-turn vehicle manoeuvring warning and external pictorial stickers and markings\",\"Minimising physical impact of a hazard, for example: side-underrun protection\"]}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Driver Training\"}",
-     "While highly recommended, driver training is not a mandatory requirement for obtaining a permit.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Progressive Safe System\"}",
-     "The Safe System will be reviewed and consulted on ahead of 2024, and will take into account any additional technology or safety equipment not available in 2020. Any new equipment or technology proposed for the Progressive Safe System must be retrofittable to HGVs, industry recognised and readily available on the market at the time. HGVs below 3-star will need to feature the Progressive Safe System from 2024.",
-     "Feedback from the third DVS public consultation in early 2019 will feed into a review of the HGV Safety Permit guidance document below.",
+     "{\"template\":\"intro\",\"texts\":[\"The Direct Vision Standard (DVS) and safety permit for heavy goods vehicles (HGVs) requires all lorries over 12 tonnes gross vehicle weight to be granted a permit to enter or operate in Greater London. The scheme was created to improve the safety of all road users, including pedestrians, cyclists and motorcyclists.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We continue to work with vehicle manufacturers to assign star ratings for their vehicles. Check to see if we hold your star rating and apply. \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/apply-for-an-hgv-safety-permit\"\u003eFind information and guidance about the application process.\u003c/a\u003e ",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The Direct Vision Standard measures how much an HGV driver can see directly through their cab windows. This indicates the level of risk to vulnerable road users, such as people walking and cycling, near the vehicle.",
+     "The Direct Vision Standard and HGV Safety Permit for HGVs is part of the \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eMayor of London's Vision Zero plan\u003c/a\u003e to eliminate all deaths and serious injuries on London's transport network by 2041.",
+     "{\"template\":\"video\",\"style\":\"i-P20wdrcAQ\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"HGV Safety Permit and requirements\"}",
+     "From 26 October 2020, all HGVs more than 12 tonnes (GVW) entering or operating in Greater London will need to hold a valid HGV Safety Permit.",
+     "The HGV Safety Permit scheme will cover Greater London and be in operation 24 hours a day, every day of the year.",
+     "Applying is free of charge.",
+     "For more information about the HGV Safety Permit scheme and to see a map of where it will be enforced, read the guidance for operators.",
      "HGV Safety Permit - guidance for operators entering London",
-     "PDF 1.71MB",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DVS Star Rating\"}",
-     "DVS star ratings for Euro IV, V and VI are now available from vehicle manufacturers. Contact your manufacturer to request a DVS star rating for your vehicle(s) or to enquire about the rating of a new vehicle. You will be asked to provide the chassis number for existing vehicle(s).",
-     "Your manufacturer will calculate the star rating of your vehicle(s) or a new vehicle based on the approved DVS Technical Protocol. They will tell you your DVS star rating and send a copy to TfL.",
-     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eManufacturer\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eContact\\u003c/strong\\u003e \",\"\\u003cstrong\\u003ePhone\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eEmail/online form\\u003c/strong\\u003e \"],[\"DAF\",\"DAF central engineering\",\"01844 261111\",\" \\u003ca href=\\\"mailto:ukwvta@daftrucks.com\\\"\\u003eukwvta@daftrucks.com\\u003c/a\\u003e \"],[\"Dennis Eagle\",\"-\",\"-\",\" \\u003ca href=\\\"http://www.dennis-eagle.co.uk/USV\\\"\\u003ewww.dennis-eagle.co.uk/USV\\u003c/a\\u003e \"],[\"MAN\",\"Sales engineering\",\"01793 448000\",\" \\u003ca href=\\\"mailto:salesengineering@man.eu\\\"\\u003esalesengineering@man.eu\\u003c/a\\u003e \"],[\"Renault\",\"Product engineering\",\"01926 401777\",\" \\u003ca href=\\\"mailto:DVS@renault-trucks.com\\\"\\u003eDVS@renault-trucks.com\\u003c/a\\u003e \"],[\"Scania\",\"Product engineering\",\"01908 210 210\",\" \\u003ca href=\\\"mailto:product.engineeringuk@scania.com\\\"\\u003eproduct.engineeringuk@scania.com\\u003c/a\\u003e \"],[\"Volvo\",\"Sales engineering\",\"01926 401 777\",\" \\u003ca href=\\\"mailto:Dvs@volvo.com\\\"\\u003eDvs@volvo.com\\u003c/a\\u003e \"],[\"Mercedes-Benz\",\"-\",\"-\",\" \\u003ca href=\\\"mailto:mbtrucks.product@daimler.com\\\"\\u003embtrucks.product@daimler.com\\u003c/a\\u003e \"],[\"Iveco\",\"Product engineering\",\"\",\" \\u003ca href=\\\"mailto:productengineering@iveco.com \\\"\\u003eproductengineering@iveco.com\\u003c/a\\u003e \"]]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"An international standard\"}",
-     "Alongside a Direct Vision Standard for London, we are working with other European cities and the European Union to push for long-term improvements by mandating \u003ca href=\"https://ec.europa.eu/growth/sectors/automotive/safety_en\"\u003edirect vision in EU vehicle design and safety regulations\u003c/a\u003e .",
+     "PDF 1.70MB",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"DVS star rating and Safe System\"}",
+     "HGV operators need to apply for a permit for their vehicles. You will be granted a permit if the vehicle meets the minimum DVS star rating.",
+     "If your vehicle does not meet the minimum DVS star rating, you will need to make your vehicle safer by fitting it with Safe System improvements.",
+     " \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/dvs-star-ratings-and-safe-system\"\u003eWhat you need to know about DVS star ratings and Safe System improvements.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Enforcement and penalties\"}",
+     "From 26 October 2020, if you drive an HGV within Greater London without a valid permit you may receive a penalty charge notice (PCN) of up to £550 (reduced to £275 if paid within 14 days).",
+     "We can also revoke or suspend a permit if a vehicle that has been granted a permit is later found to be in breach of the permit terms.",
+     " \u003ca href=\"/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs\"\u003eRead the conditions of the HGV Safety Permit.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicles from outside of the UK\"}",
+     "Vehicles registered outside the UK more than 12 tonnes gross vehicle weight entering or operating in London will also need to hold a valid permit. You can apply for a permit as usual. Where we ask for your registration documents, such as a V5C log book, we accept foreign equivalents.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Progressive Safe System\"}",
+     "The Safe System will be reviewed and consulted on in 2022 and will take into account any additional technology or safety equipment not currently available.",
+     "Any new equipment or technology proposed for the Progressive Safe System must be retrofittable to HGVs, industry recognised and readily available on the market at the time.",
+     "From October 2024, HGVs rated below three stars will need to feature the Progressive Safe System.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to LEZ standards from 26 October 2020\"}",
+     "From 26 October 2020, \u003ca href=\"https://tfl.gov.uk/modes/driving/low-emission-zone/changes-to-the-lez\"\u003eLow Emission Zone (LEZ) emissions standards will be tougher.\u003c/a\u003e Heavy vehicles including lorries, buses and coaches will need to meet Euro VI (NOx and PM) emissions standards or pay a daily charge to drive within the Greater London area.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact HGV Safety Permit\"}",
+     "If you have any questions about your application or existing permit, you can make an enquiry.",
+     "You'll be able to upload documents to support your enquiry.",
+     "Provide as much detailed information as possible to help us provide a prompt response. If you have one, include your permit application number. These can be found at the top of emails we send you.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"More information\"}",
-     "Find out more about \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-for-hgvs-research-and-tools\"\u003eDVS research\u003c/a\u003e .",
-     "Send your questions to us at \u003ca href=\"mailto:DVS@tfl.gov.uk\"\u003eDVS@tfl.gov.uk\u003c/a\u003e "
+     "Find out more about \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/direct-vision-for-hgvs-research-and-tools\"\u003eDirect Vision Standard research\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -75,14 +86,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -114,23 +117,28 @@
       "image": {}
      },
      {
-      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "title": "Direct Vision Standard and HGV Safety Permit",
       "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles",
       "image": {}
      },
      {
+      "title": "DVS star ratings and Safe System improvements",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/dvs-star-ratings-and-safe-system",
+      "image": {}
+     },
+     {
+      "title": "Guidance for the HGV Safety Permit",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/apply-for-an-hgv-safety-permit",
+      "image": {}
+     },
+     {
       "title": "Direct Vision for HGVs Research and Tools",
-      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-for-hgvs-research-and-tools",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/direct-vision-for-hgvs-research-and-tools",
       "image": {}
      },
      {
       "title": "Delivering legally",
       "url": "/info-for/deliveries-in-london/delivering-legally",
-      "image": {}
-     },
-     {
-      "title": "Protecting the environment",
-      "url": "/info-for/deliveries-in-london/protecting-the-environment",
       "image": {}
      },
      {

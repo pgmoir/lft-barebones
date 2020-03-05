@@ -40,7 +40,7 @@
      "{\"template\":\"intro\",\"texts\":[\"If you're unemployed and looking for work, you may get discounted travel in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/job-centre-plus-oyster-photocard.png\",\"alt\":\"Jobcentre Plus Oyster photocard\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Receive 50% off pay as you go adult \\u003ca href=\\\"/fares/find-fares\\\"\\u003efares\\u003c/a\\u003e \",\"If you travel regularly, you can buy and use a child rate 7 Day, monthly or longer period (up to three months) \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003eTravelcard\\u003c/a\\u003e or \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Pass\\u003c/a\\u003e \",\"Buy a discounted paper \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\\\"\\u003esingle or return ticket \\u003c/a\\u003e from National Rail\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Get 50% off pay as you go adult \\u003ca href=\\\"/fares/find-fares\\\"\\u003efares\\u003c/a\\u003e to travel on bus, Tube, tram, DLR, London Overground, TfL Rail (excluding between West Drayton and Reading) and most National Rail services in London\",\"Buy and use a child rate 7 Day, monthly or longer period \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003eTravelcard\\u003c/a\\u003e or \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Pass\\u003c/a\\u003e \",\"Buy discounted paper \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\\\"\\u003esingle or return tickets \\u003c/a\\u003e from National Rail\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Can I get it?\"}",
      "You must be claiming:",
      "{\"template\":\"bulletlist\",\"items\":[\"Jobseekers Allowance or Universal Credit, be aged between 18-24 and unemployed for 13-39 weeks\",\"Jobseekers Allowance or Universal Credit, be aged 25 or over and unemployed for 13-52 weeks\",\"Incapacity Benefit, Employment and Support Allowance or Income Support and actively engaged with an adviser in returning to employment\"]}",
@@ -63,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

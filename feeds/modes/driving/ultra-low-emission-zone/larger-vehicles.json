@@ -47,12 +47,12 @@
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charges (if ULEZ standards not met)\"}",
-     "\u003cstrong\u003eWe would prefer vehicle owners to use vehicles that meet the new emissions standards rather than pay a daily charge.\u003c/strong\u003e ",
+     "\u003cstrong\u003eWe would prefer vehicle owners to use vehicles that meet the emissions standards rather than pay a daily charge.\u003c/strong\u003e ",
      "A daily charge runs form midnight to midnight. If you drive within the ULEZ area across two days, for example before midnight and after midnight, you will have to pay two daily charges.",
      "{\"template\":\"bulletlist\",\"items\":[\"Daily ULEZ charge: £100\",\"Penalty charge: £1,000 (reduced to £500 if paid within 14 days)\"]}",
      "These are in addition to any Congestion Charge or Low Emission Zone (LEZ) charges that apply.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How to pay\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/auto-pay\\\"\\u003eSet up Auto Pay\\u003c/a\\u003e (£10 annual charge per vehicle). Already have Auto Pay? Then you don't need to do anything\",\" \\u003ca href=\\\"/modes/driving/pay-to-drive-in-london\\\"\\u003ePay online\\u003c/a\\u003e \",\"Download the official TfL Pay to drive in London app for free from both the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApple App Store\\u003c/a\\u003e and \\u003ca href=\\\"http://play.google.com/store\\\"\\u003eGoogle Play Store\\u003c/a\\u003e \",\"Pay by phone\\u003cbr /\\u003eUK: 0343 222 2222 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\\u003cbr /\\u003eInternational:+44 20 7649 9122\\u003cbr /\\u003eTextphone: 020 7649 9123 (if you have impaired hearing)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/driving/auto-pay\\\"\\u003eSet up Auto Pay\\u003c/a\\u003e (£10 annual charge per vehicle). Already have Auto Pay? Then you don't need to do anything\",\" \\u003ca href=\\\"/modes/driving/pay-to-drive-in-london\\\"\\u003ePay online\\u003c/a\\u003e \",\"Download the official TfL Pay to drive in London app for free from both the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApple App Store\\u003c/a\\u003e and \\u003ca href=\\\"http://play.google.com/store\\\"\\u003eGoogle Play Store\\u003c/a\\u003e \",\"Pay by phone\\u003cbr /\\u003eUK: 0343 222 2222 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\\u003cbr /\\u003eInternational: +44 343 222 2222\\u003cbr /\\u003eTextphone: 020 7649 9123 (if you have impaired hearing)\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your options\"}",
      "If your vehicle does not meet the required ULEZ standards you can:",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Pay the daily charge\"}",
@@ -64,9 +64,9 @@
      "More details on the retrofit accreditation process and suppliers are available on the \u003ca href=\"http://www.energysavingtrust.org.uk/transport-travel/transport/clean-vehicle-retrofit-accreditation-scheme-cvras\"\u003eEnergy Savings Trust website\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Questions about ULEZ?\"}",
      "If you need more advice about the ULEZ, you can \u003ca href=\"/modes/driving/ulez-make-an-enquiry-wizard\"\u003emake an enquiry\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Future changes\"}",
-     "From October 2020 the London-wide LEZ standards for buses, coaches, lorries and larger vehicles will be strengthened to match the ULEZ Euro VI standard.",
-     "All vehicles will need to meet Euro VI emissions standards \u003ca href=\"/modes/driving/low-emission-zone/about-the-lez\"\u003ewithin the LEZ boundary\u003c/a\u003e or pay a daily charge.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Changes to the LEZ\"}",
+     "From 26 October 2020 the London-wide LEZ emissions standards will be made tougher for heavier vehicles to match the ULEZ Euro VI standard.",
+     "These vehicles will need to meet Euro VI emissions standards \u003ca href=\"/modes/driving/low-emission-zone/about-the-lez\"\u003ewithin the LEZ boundary\u003c/a\u003e or pay a daily charge.",
      "Find out about planned \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003echanges to the LEZ from 2020\u003c/a\u003e ."
     ],
     "link": {
@@ -134,8 +134,18 @@
       "image": {}
      },
      {
-      "title": "Scrappage scheme",
+      "title": "Scrappage scheme for vans and minibuses",
       "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/car-and-motorcycle-scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Organisations supporting ULEZ scrappage schemes",
+      "url": "/modes/driving/ultra-low-emission-zone/organisations-supporting-ulez-scrappage-schemes",
       "image": {}
      },
      {

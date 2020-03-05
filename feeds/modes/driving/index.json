@@ -58,36 +58,12 @@
     "wrapped": false
    },
    {
-    "title": "Hammersmith Bridge closed",
+    "title": "Direct Vision Standard and HGV Safety Permit",
     "texts": [
-     "The bridge (A306) is closed to traffic in both directions"
+     "Lorries weighing over 12 tonnes GVW will need a permit to operate in Greater London"
     ],
     "link": {
-     "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "title": "Low Emission Zone",
-    "texts": [
-     "Find out if you're affected by the LEZ, and how to pay"
-    ],
-    "link": {
-     "url": "/modes/driving/low-emission-zone",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "title": "Major works and events",
-    "texts": [
-     "Find out about upcoming works or events across London which may affect your journey"
-    ],
-    "link": {
-     "url": "/status-updates/major-works-and-events",
+     "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles",
      "image": {}
     },
     "image": {},
@@ -106,6 +82,18 @@
     "wrapped": false
    },
    {
+    "title": "Hammersmith Bridge closed",
+    "texts": [
+     "The bridge (A306) is closed to traffic in both directions"
+    ],
+    "link": {
+     "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
     "title": "Red routes",
     "texts": [
      "Find out about the rules of the road and how to pay a penalty charge"
@@ -114,8 +102,32 @@
      "url": "/modes/driving/red-routes",
      "image": {}
     },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Major works and events",
+    "texts": [
+     "Find out about upcoming works or events across London which may affect your journey"
+    ],
+    "link": {
+     "url": "/status-updates/major-works-and-events",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Low Emission Zone",
+    "texts": [
+     "Find out if you're affected by the LEZ, and how to pay"
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone",
+     "image": {}
+    },
     "image": {
-     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/redroutesonroad_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/ruc-cdn/static/cms/images/promos/low-emission-zone-image_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -142,8 +154,8 @@
       "image": {}
      },
      {
-      "title": "Tube station car parks",
-      "url": "/modes/driving/tube-station-car-parks",
+      "title": "Station car parks",
+      "url": "/modes/driving/station-car-parks",
       "icon": "internal",
       "image": {}
      },
@@ -170,15 +182,21 @@
       "url": "/travel-information/safety/road-safety-advice/motorcycling-in-london",
       "icon": "internal",
       "image": {}
-     },
-     {
-      "title": "About roads in London",
-      "url": "/corporate/about-tfl/what-we-do/roads",
-      "icon": "internal",
-      "image": {}
      }
     ],
     "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Avoid payment fraud",
+    "texts": [
+     "Use our official online payment process to pay driving charges"
+    ],
+    "link": {
+     "url": "/modes/driving/unofficial-selling-websites",
      "image": {}
     },
     "image": {},
@@ -191,16 +209,6 @@
    {
     "template": "advert",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitter",
-    "title": "Tweets by TfLTrafficNews",
-    "link": {
-     "url": "https://twitter.com/TfLTrafficNews",
      "image": {}
     },
     "image": {},

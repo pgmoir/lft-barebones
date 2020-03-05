@@ -10,7 +10,7 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
@@ -42,7 +42,7 @@
      "They can also help to improve the health and wellbeing of local communities by reducing noise and social isolation and bringing communities back together when they have been divided by features such as busy roads.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/low-emission-neighbourhoods-page_rdax_400x250.jpg\",\"alt\":\"Low Emission Neighbourhoods logo\"},\"wrapped\":false}",
      "We are working with the GLA and the London boroughs to improve air quality through projects funded by the £20m \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/mayors-air-quality-fund\"\u003eMayor's Air Quality Fund (MAQF)\u003c/a\u003e .",
-     "As part of MAQF, we are supporting 4 LENs in line with the Healthy Streets Approach in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e :",
+     "As part of MAQF, we are supporting 4 LENs in line with the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets Approach\u003c/a\u003e in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e :",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://www.cityoflondon.gov.uk/business/environmental-health/environmental-protection/air-quality/Pages/Low-Emission-Neighbourhood.aspx\\\"\\u003eBarbican\\u003c/a\\u003e (City of London)\",\" \\u003ca href=\\\"https://zeroemissionsnetwork.com/len\\\"\\u003eCity Fringe (Shoreditch)\\u003c/a\\u003e (Hackney, Islington and Tower Hamlets)\",\" \\u003ca href=\\\"http://royalgreenwich.gov.uk/lowemissionneighbourhood\\\"\\u003eGreenwich Town Centre\\u003c/a\\u003e (Greenwich)\",\" \\u003ca href=\\\"http://marylebonelen.org/\\\"\\u003eMarylebone\\u003c/a\\u003e (Westminster)\"]}",
      "Featured schemes in a LENs can include:",
      "{\"template\":\"bulletlist\",\"items\":[\"Car-free days\",\"Smaller green spaces such as pocket parks\",\"Green cover including vegetation on roofs\",\"Behaviour change initiatives\",\"No idling zones\",\"Coordinated deliveries\",\"Electric vehicles\"]}",
@@ -63,20 +63,17 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -91,11 +88,6 @@
       "image": {}
      },
      {
-      "title": "Sub-regional transport planning",
-      "url": "/info-for/boroughs/sub-regional-transport-planning",
-      "image": {}
-     },
-     {
       "title": "Low Emission Neighbourhoods",
       "url": "/info-for/boroughs/low-emission-neighbourhoods",
       "image": {}
@@ -103,11 +95,6 @@
      {
       "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Street Types for London",
-      "url": "/info-for/boroughs/street-types",
       "image": {}
      },
      {
@@ -121,14 +108,24 @@
       "image": {}
      },
      {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
       "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
      "image": {}
     },
     "image": {},

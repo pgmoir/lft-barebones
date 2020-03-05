@@ -1,0 +1,101 @@
+{
+ "pageTitle": "Boxing Day 2019",
+ "keywords": "TfL",
+ "description": "Travel advice page for Boxing Day 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "Boxing Day 2019"
+  }
+ ],
+ "title": {
+  "title": "Boxing Day 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Christmas and New Year period, most of TfL public transport is open. However, planned works and service changes will affect public transport and road travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future date\u0026direction=\u0026startDate=2019-12-26T00%3a00%3a00\u0026endDate=2019-12-26T23%3a59%3a59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and London Trams services for Boxing Day.",
+     "There are changes and planned works on the following services today.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sunday service (including 24-hour and night routes)\",\"Day routes start at Sunday times\",\"24-hour routes start at around 06:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Northern line\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Morden and Euston via Bank\",\"No service between Morden and Camden Town via Charing Cross\",\"Rail replacement buses between Morden and Stockwell for Victoria line services\",\"First trains from around 07:45 on the rest of the line. Last trains at weekday times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Other lines\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No District line service between Earl's Court and Kensington (Olympia)\",\"No Waterloo \\u0026 City line service\",\"Reduced service on all other lines\",\"First trains run from around 07:45\",\"Last trains at weekday times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "Most London Overground services are not running today. Trains are running between:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Highbury \\u0026 Islington and West Croydon (06:30-22:45)\",\"Clapham Junction and Hackney Wick (09:00-22:00)\",\"Rail replacement buses run between Hackney Wick and Stratford (09:00-22:00)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Trains every 10 minutes from 08:30 until 00:30\",\"Saturday service between Stratford and Canary Wharf from 09:30\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Rail\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Trams\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sunday service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No regular bookings\",\"Dial-a-Ride services are for registered members only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No Thames Clipper or Woolwich Ferry services today\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Taxi and Private Hire\"}",
+     "Until 06:00 on Friday 27 December:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Black cabs will charge an extra £4 per journey\",\"There may be an extra charge for private hire vehicles (including minicabs) - check when you book\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Emirates Air Line\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Services running 09:00-21:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles\"}",
+     "Santander Cycles are available throughout December, including today.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle for free this December. Make as many 30-minute journeys as you like within 24 hours free of charge. Use code SCXMAS19\",\"Check availability of Santander Cycles using the \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003eonline docking station map\\u003c/a\\u003e \",\"Download the Santander Cycles app from the \\u003ca href=\\\"https://itunes.apple.com/gb/app/santander-cycles/id974792287?mt=8\\\"\\u003eApp Store\\u003c/a\\u003e or \\u003ca href=\\\"https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire\\u0026hl=en_GB\\\"\\u003eGoogle Play\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "All our other services are planned to run normally.",
+     "{\"template\":\"bulletlist\",\"items\":[\"See our \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future date\\u0026direction=\\u0026startDate=2019-12-26T00%3a00%3a00\\u0026endDate=2019-12-26T23%3a59%3a59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for Boxing Day\",\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e does not apply today. It resumes on Thursday 2 January\",\" \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

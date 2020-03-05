@@ -33,21 +33,17 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"To diversify and strengthen our workforce, we are working to attract more women and young people to our industry. Find out how.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "As we mark the centenary of the first women winning the right to vote in the UK, we are proud to be supporting the Mayor, Sadiq Khan's #behindeverygreatcity campaign celebrating the achievements of women and driving change for the future of women's equality.",
-     "It's led by the GLA and supported by TfL and other organisations across London.",
-     " \u003ca href=\"http://www.london.gov.uk/behindeverygreatcity\"\u003eFind out more about the campaign\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Women at TfL\"}",
-     "We're working hard to inspire current and future generations of women at TfL. That means developing our workforce and inspiring the next generation.",
+     "We're working hard to inspire current and future generations of women at TfL. That means developing our workforce and inspiring the next generation.",
      "We are developing the workforce by:",
-     "{\"template\":\"bulletlist\",\"items\":[\"attracting more women by highlighting the careers on offer\",\"showcasing the contributions women have made, and continue to make in the industry\",\"providing opportunities for personal development and progression at all levels\",\"establishing an industry-wide network as a legacy of continued improvement and development\",\"running inspirational and thought-provoking events\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"attracting more women by highlighting the careers on offer\",\"showcasing the contributions women have made, and continue to make in the industry\",\"providing opportunities for personal development and progression at all levels\",\"establishing an industry-wide network as a legacy of continued improvement and development\",\"running inspirational and thought-provoking events\"]}",
      "We are inspiring the next generation by:",
      "{\"template\":\"bulletlist\",\"items\":[\"tackling the lack of understanding about what the transport industry stands for\",\"demonstrating why transport can be for anyone and everyone\",\"education, particularly of young people about the variety of roles on offer\",\"promoting a young people and schools engagement programme\"]}",
      "Through development and inspiration, we hope to:",
      "{\"template\":\"bulletlist\",\"items\":[\"support our industry and improve the way we respond to new challenges (including unprecedented levels of growth and development in London and across the UK)\",\"build our brand as the industry of choice\",\"contribute to London and the UK as a whole\"]}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"TfL apprenticeships\",\"texts\":[\"Develop your career and make a real difference - open until mid-March 2018\"],\"link\":{\"url\":\"/corporate/careers/apprenticeships\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/bethany-case-study-apprenti2_rdax_400x200.jpg\"},\"wrapped\":true}",
-     "{\"title\":\"Women in Transport history\",\"texts\":[\"Find out more about the women in transport who made history\"],\"link\":{\"url\":\"/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/women-in-transport\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/wit-2_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"TfL early careers\",\"texts\":[\"Find out about internships, apprenticeships and graduate schemes\"],\"link\":{\"url\":\"https://careers.tfl.gov.uk/\",\"icon\":\"external\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/bethany-case-study-apprenti2_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Women in Transport today\",\"texts\":[\"Who are the women working in transport today?\"],\"link\":{\"url\":\"/campaign/women-in-transport/women-in-transport-profiles\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/rebecca-gibson-teaser-image_rdax_400x200.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"Women in Transport history\",\"texts\":[\"Find out more about the women in transport who made history\"],\"link\":{\"url\":\"/corporate/about-tfl/culture-and-heritage/londons-transport-a-history/women-in-transport\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/wit-2_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Present and future\"}",
      "These films were created in 2014 to celebrate 100 years of women in transport.",
@@ -63,14 +59,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

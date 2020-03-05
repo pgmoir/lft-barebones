@@ -35,6 +35,8 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"The panel considers wide-ranging issues including policy, strategy, the implementation of the Mayor's Transport Strategy and operating business performance in relation to safety and sustainability considerations for TfL's services and reviews and monitors human resources issues including equality and inclusion across TfL\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "\u003cstrong\u003eMembers: \u003c/strong\u003e Kay Carberry CBE (Chair), Dr Nina Skorupska CBE (Vice Chair), Bronwen Handyside, Dr Mee Ling Ng OBE and Mark Phillips.\u003cstrong\u003e \u003c/strong\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2020 meeting papers\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"12 February 2020 - Agenda and Papers\",\"url\":\"/cdn/static/cms/documents/sshrp-20200212-agenda-and-papers.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.74MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Quarterly human resources reports\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Human resources report Q3\",\"url\":\"/cdn/static/cms/documents/human-resources-report-2018-19-q3.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.46MB\",\"image\":{}},{\"title\":\"Human resources report Q2\",\"url\":\"/cdn/static/cms/documents/human-resources-report-2018-19-q2.pdf\",\"icon\":\"download\",\"size\":\"PDF 922KB\",\"image\":{}},{\"title\":\"Human resources report Q1\",\"url\":\"/cdn/static/cms/documents/human-resources-report-2018-19-q1.pdf\",\"icon\":\"download\",\"size\":\"PDF 856KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Human resources report Q4\",\"url\":\"/cdn/static/cms/documents/human-resources-report-2017-18-q4.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.48MB\",\"image\":{}},{\"title\":\"Human resources report Q3\",\"url\":\"/cdn/static/cms/documents/human-resources-report-2017-18-q3.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.53MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -43,7 +45,9 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Health, safety and environment report Q4\",\"url\":\"/cdn/static/cms/documents/health-safety-and-environment-report-2017-18-q4.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.75MB\",\"image\":{}},{\"title\":\"Health, safety and environment report Q3\",\"url\":\"/cdn/static/cms/documents/health-safety-and-environment-report-2017-18-q3.pdf\",\"icon\":\"download\",\"size\":\"PDF 15.84MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2019 meeting papers\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"27 February 2019 - Agenda and Papers\",\"url\":\"/cdn/static/cms/documents/safety-sustainability-and-human-resources-panel-27-02-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.77MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"10 July 2019 - Agenda and Papers\",\"url\":\"/cdn/static/cms/documents/sshr-panel-10-july-2019-agenda-and-papers.pdf\",\"icon\":\"download\",\"size\":\"PDF 7.53MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"10 July 2019 - Agenda and Papers\",\"url\":\"/cdn/static/cms/documents/sshrp-10-july-2019-agenda-and-papers-public.pdf\",\"icon\":\"download\",\"size\":\"PDF 7.76MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"4 September 2019 - Agenda and Papers\",\"url\":\"/cdn/static/cms/documents/sshrp-4-september-2019-agenda-and-papers.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.43MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Agenda and Papers 13 November 2019\",\"url\":\"/cdn/static/cms/documents/sshrp-13-november-2019-agenda-and-papers-web-version.pdf\",\"icon\":\"download\",\"size\":\"PDF 7.62MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "TfL's decision-making structure and proceedings, together with Schemes of Delegation and Authorities, are laid out in the TfL standing orders. The TfL committees and panels document sets out the terms of reference for each committee and panel. Both TfL's standing orders and TfL committees and panels documents can be found on the \u003ca href=\"/corporate/publications-and-reports/standing-orders\"\u003eStanding orders page\u003c/a\u003e .",
      "You are welcome to attend any meeting of TfL's Board, committees and/or panels. These are held in public, except where private, personal or specific financial information is to be discussed.",
      "Papers are published five working days before each meeting (unless accepted by the relevant Chair as urgent items).",
@@ -63,14 +67,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

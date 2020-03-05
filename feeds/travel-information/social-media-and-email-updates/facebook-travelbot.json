@@ -65,14 +65,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Social media \u0026 email updates",
@@ -80,11 +72,6 @@
      {
       "title": "Facebook TravelBot",
       "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
-      "image": {}
-     },
-     {
-      "title": "Travel alerts on Twitter",
-      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
       "image": {}
      },
      {

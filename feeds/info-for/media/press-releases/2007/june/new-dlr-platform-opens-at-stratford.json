@@ -1,7 +1,9 @@
 {
+ "pageTitle": "New DLR Platform opens at Stratford",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "New DLR Platform opens at Stratford",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,47 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "The Docklands Light Railway (DLR), part of Transport for London (TfL), has opened the first of its two new platforms at Stratford station today (Monday 18 June).",
+     "We are on track for the complete upgraded station later this year.",
+     "The new platform, funded by TfL's £10bn Investment Programme and contracted to Hochtief UK Construction, is situated on the mezzanine level of Stratford station and connects directly into the Jubilee station building.",
+     "It provides improved passenger waiting facilities, CCTV, information services and seating.",
+     "The second platform, marking the completion of the project, will open in September offering passengers greater capacity by allowing the DLR to run trains to and from Stratford alongside each other.",
+     "The previous DLR single platform, which was part of the railway's original 1987 route, has been permanently closed.",
+     "The platforms are required as there will be a large increase in passengers at Stratford over the next few years as a result of the opening of the Stratford International station; ongoing development of Stratford City and the London 2012 Olympic and Paralympic Games.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improved and expanded\"}",
+     "As part of the new station, there is an impressive soaring roof made from steel and aluminium with several skylights to allow natural light down onto the platforms, while underneath the roof there is backlighting.",
+     "Both the roof and the station were designed by architects, Alsop.",
+     "Ken Livingstone, Mayor of London, said: \"The successful completion of this stage in the project to deliver an improved and expanded Stratford Docklands Light Railway, means we are on track for the complete upgraded station later this year.",
+     "\"This will benefit passengers by providing more trains in a better environment.\"",
+     "Jonathan Fox, Director DLR, said: \"We are delighted to open our new Stratford platform, which is truly eye-catching and offers the space and facilities needed for our ever-growing number of passengers.",
+     "\"We now eagerly anticipate the second platform opening later this year, and, looking further ahead, the opening of the DLR Stratford International extension in 2010.\"\u003cbr /\u003e",
+     "\u003cstrong\u003eNotes to Editors:\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"The two most recent DLR extensions, to Lewisham and London City Airport, were both built ahead of schedule and on budget\",\"Construction started on the DLR Stratford International extension in January 2007. The line will encompass existing stations at Royal Victoria, Canning Town, West Ham and Stratford, and new stations at Star Lane, Abbey Road, Stratford High Street and Stratford International, the latter serving the Channel Tunnel Rail Link. The extension will provide capacity and flexibility for future growth along the Lower Lea Valley, and offer a more frequent and reliable service to that previously in place when the route was operated by the North London Line\",\"Further information on DLR is available at \\u003ca href=\\\"http://www.dlr.co.uk\\\"\\u003ewww.dlr.co.uk\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

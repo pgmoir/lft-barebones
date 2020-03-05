@@ -48,14 +48,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Dial-a-Ride",
@@ -73,6 +65,11 @@
      {
       "title": "On your journey",
       "url": "/modes/dial-a-ride/on-your-journey",
+      "image": {}
+     },
+     {
+      "title": "Making the most of Dial-a-Ride",
+      "url": "/modes/dial-a-ride/making-the-most-of-dial-a-ride",
       "image": {}
      },
      {

@@ -1,9 +1,7 @@
 {
- "pageTitle": "Special advice for passengers travelling to Heathrow during June",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Special advice for passengers travelling to Heathrow during June",
   "card": {
    "link": {
     "image": {}
@@ -13,60 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "intro",
-    "texts": [
-     "Track replacement work will be carried out on sections of the Piccadilly and District lines - on the weekends of 3 to 4 and 10 to 11 June - which will affect passengers travelling to and from Heathrow Airport."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "content",
-    "texts": [
-     "This improvement work will deliver benefits for passengers using the Piccadilly and District lines",
-     "The work will require partial line closures on both weekends, between Hyde Park Corner and Acton Town on the Piccadilly line and between Earl's Court and Acton Town / Gunnersbury on the District line.",
-     "Replacement bus services will be provided and passengers are advised to use alternative routes where possible.",
-     "The essential work will be undertaken by Metronet Rail SSL as part of Transport for London's (TfL's) £10bn Investment Programme.",
-     "Once installed, the new track will allow an existing speed restriction to be lifted, reducing journey times on these routes and improving service reliability for Tube passengers.",
-     "George McInulty, London Underground Service Director, said: \"This improvement work will deliver benefits for passengers using the Piccadilly and District lines but will inevitably cause some short-term disruption.",
-     "\"London Underground is providing extensive passenger information on alternative travel options and we would urge Heathrow travellers in particular to plan their journeys carefully.\"",
-     "Passengers should allow extra time for their journeys and call London Travel Information on 020 7222 1234 or check the TfL website at \u003ca href=\"http://www.tfl.gov.uk\"\u003ewww.tfl.gov.uk\u003c/a\u003e for the latest information before travelling.",
-     "Alternative travel information for the weekends of 3-4 and 10-11 June:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Information for passengers travelling by Tube to Heathrow\\u003cbr /\\u003ePassengers travelling from central London to Heathrow should take the Central line to North Acton. At North Acton, a non-stop shuttle bus service will be operating to Acton Town for connection to the Piccadilly line to Heathrow Terminals 1, 2 and 3. Passengers for Terminal 4 will need to change again at Hatton Cross for the shuttle bus service\",\"Information for passengers travelling by Tube from Heathrow\\u003cbr /\\u003ePassengers travelling from Heathrow to Central London should use the Piccadilly line to Acton Town (passengers from Terminal 4 will need to use the bus connection to Hatton Cross and then change to the Piccadilly line). At Acton Town, a non-stop shuttle bus service will be operating to North Acton for connection with the Central line, providing a quick and frequent service to Central London and interchanges to most other lines\",\"Information for passengers travelling to and from Richmond.\\u003cbr /\\u003eValid Tube tickets will be accepted on South West Trains services which operate every 10 minutes between London Waterloo and Vauxhall stations. Alternatively, passengers can take the District line to Fulham Broadway for local bus 391 to Richmond - the approximate journey time is one hour\",\"Alternative routes for other journeys\\u003cbr /\\u003eTwo replacement bus services will be in operation, running at least every 10 minutes and every 5 minutes between 12.00 and 18.30 on Saturdays:ul\",\"Heathrow Connect national rail services run every 30 minutes between Ealing Broadway and Heathrow Terminals 1, 2 and 3. Valid Tube tickets will be accepted to Hayes \\u0026 Harlington only - ticket extensions to Heathrow should be purchased in advance of travel to Heathrow\",\"Local bus service 285 provides a connection between Heathrow Airport and Feltham National Rail station. From Feltham there are frequent South West Trains services to Vauxhall and London Waterloo, for connections with London Underground. The journey time is approximately one hour 40 minutes. Valid Tube tickets will be accepted\",\"Additional information\\u003cbr /\\u003ePassengers traul\"]}"
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

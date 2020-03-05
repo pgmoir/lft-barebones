@@ -44,9 +44,9 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Booking your taxi vehicle inspection\"}",
      "You must make a booking to have your vehicle inspected. The method through which you book your vehicle inspection will depend on the licensing and ownership status of your vehicle.",
      "New to licensing:",
-     "{\"template\":\"bulletlist\",\"items\":[\"If you are the owner or registered keeper of a ZEC taxi that has never been licensed in London and wish to make a booking online, you will either need to \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/register.page?org.apache.shale.dialog.DIALOG_NAME=contactus\\u0026displayName=Multi\\u0026DocTypeCode=urn:www.civica.co.uk:doctypes:TFLREG\\u0026menuId=4\\\"\\u003ecreate an online account\\u003c/a\\u003e or use your existing account if you already have one.\",\"You can also book your inspection by calling 0343 222 5555 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges apply\\u003c/a\\u003e )\",\"During the booking process, you will need to provide information about your vehicle. Please ensure you have your V5/log book readily available for this.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you are the owner or registered keeper of a ZEC taxi that has never been licensed in London and wish to make a booking online, you will either need to \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003ecreate an online account\\u003c/a\\u003e or use your existing account if you already have one.\",\"You can also book your inspection by calling 0343 222 5555 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges apply\\u003c/a\\u003e )\",\"During the booking process, you will need to provide information about your vehicle. Please ensure you have your V5/log book readily available for this.\"]}",
      "Renewals:",
-     "{\"template\":\"bulletlist\",\"items\":[\"You can book your inspection by calling 0343 222 5555 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges apply\\u003c/a\\u003e ) or if you are the owner or registered keeper of a single vehicle you can \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/signin.page?org.apache.shale.dialog.DIALOG_NAME=tphlogindialog\\u0026menuId=3\\u0026ReturnUrl=home.page%3FmenuId%3D2\\\"\\u003ebook your inspection slot through your online account.\\u003c/a\\u003e \",\"If you have applied or renewed your Taxi driver licence online, you will have an online account already set up. Please log in to your account and your vehicle licence will already be listed under the vehicle or licences section. You do not need to create another account.\",\"If you cannot see your vehicle licence through your online account please call 0343 222 5555.\",\"If you do not already have an existing online account you can create one by going to our \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003eaccount page\\u003c/a\\u003e . You will be required to provide unique information regarding your vehicle licence which can be found on your renewal letter or obtained by calling 0343 222 5555.\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You can book your inspection by calling 0343 222 5555 ( \\u003ca href=\\\"https://tfl.gov.uk/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges apply\\u003c/a\\u003e ) or if you are the owner or registered keeper of a single vehicle you can \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003ebook your inspection slot through your online account\\u003c/a\\u003e .\",\"If you have applied or renewed your Taxi driver licence online, you will have an online account already set up. Please log in to your account and your vehicle licence will already be listed under the vehicle or licences section. You do not need to create another account.\",\"If you cannot see your vehicle licence through your online account please call 0343 222 5555.\",\"If you do not already have an existing online account you can create one by going to our \\u003ca href=\\\"https://tph.tfl.gov.uk/TfL/home.page\\\"\\u003eaccount page\\u003c/a\\u003e . You will be required to provide unique information regarding your vehicle licence which can be found on your renewal letter or obtained by calling 0343 222 5555.\"]}",
      "Restests and Refunds",
      "{\"template\":\"bulletlist\",\"items\":[\"If you would like to book a retest (within 28 days of the first inspection) you can do so by calling 0343 222 5555 or using your online account.\",\"If you would like to request a partial refund you need to call 0343 222 5555\"]}",
      "Documents required at your inspection:",
@@ -59,11 +59,11 @@
      "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ePhone:\\u003c/strong\\u003e 0343 222 5555 ( \\u003ca href=\\\"/corporate/terms-and-conditions/tfl-call-charges\\\"\\u003eTfL call charges\\u003c/a\\u003e )\"]}",
      "Call the number above if the taxi fails the\nfirst inspection and re-inspection and you would like to request a partial refund of the licence fee.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exemptions\"}",
-     "To comply with air quality standards, all taxis must be within a certain age limit to be licensed. However, a limited number of exemptions are possible that allow certain vehicles to be licensed for an additional period. Find out more about the exemptions:",
+     "To comply with air quality standards, all taxis must be within a certain age limit to be licensed. Since 1 November 2019 all taxi age limit exemptions have been removed except for the disabled driver adaptation exemption. TfL will retain the general discretion to grant exemptions in exceptional circumstances, where we consider it reasonable to do so. This includes personal circumstances. All applications for an exemption will be assessed on a case-by-case basis. Find out more about the disabled driver adaptation exemption here:",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Age limit exemption forms\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Alternative fuel conversion exemption form\",\"url\":\"/cdn/static/cms/documents/alternative-fuel-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 488KB\",\"image\":{}},{\"title\":\"Disabled driver adaptations exemption form\",\"url\":\"/cdn/static/cms/documents/driver-disability-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 435KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Disabled driver adaptations exemption form\",\"url\":\"/cdn/static/cms/documents/driver-disability-age-limit-exemption-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 435KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Additional information\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual.pdf\",\"icon\":\"download\",\"size\":\"PDF 320KB\",\"image\":{}},{\"title\":\"NSL inspection site addresses\",\"url\":\"/cdn/static/cms/documents/nsl-inspection-sites-address-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 540KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual-v19.pdf\",\"icon\":\"download\",\"size\":\"PDF 321KB\",\"image\":{}},{\"title\":\"NSL inspection site addresses\",\"url\":\"/cdn/static/cms/documents/nsl-inspection-sites-address-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 540KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -75,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -141,6 +133,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

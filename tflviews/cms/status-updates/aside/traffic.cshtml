@@ -1,17 +1,7 @@
 ﻿
         <div class="vertical-button-container">
           <a href="/status-updates/major-works-and-events" class="plain-button">Major works & events</a>
-        </div>
-        @using TfL.Web.Infrastructure;
-        @{ Html.RenderAction("FollowSocial", "Modules", new 
-          { 
-            mode = Library.UrlModeNames.Traffic, 
-            header = "Traffic news",
-            description = "News about traffic in London", 
-            socialMediaPlatform = "twitter", 
-            url = "TfLTrafficNews" 
-           }); 
-        }        
+        </div>      
         <div class="follow-social email">
           <div class="social-image"></div>
           <div class="social-text">

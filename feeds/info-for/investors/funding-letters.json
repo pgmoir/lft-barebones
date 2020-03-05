@@ -1,0 +1,113 @@
+{
+ "pageTitle": "Funding letters",
+ "keywords": "TfL",
+ "description": "We receive part of our income in the form of a Government grant. Find the funding settlement from the UK Government as well as other relevant historic correspondence",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Investors",
+   "url": "/info-for/investors/index"
+  },
+  {
+   "title": "Funding sources",
+   "url": "/info-for/investors/funding-sources"
+  },
+  {
+   "title": "Funding letters"
+  }
+ ],
+ "title": {
+  "title": "Funding letters",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We receive part of our income in the form of a Government grant. Here you can find details of correspondence with Government over our funding settlements.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Correspondence with Government\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL funding agreement letter - March 2017\",\"url\":\"/cdn/static/cms/documents/tfl-funding-agreement-letter-march-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 334KB\",\"image\":{}},{\"title\":\"Spending Review 2015: TfL funding agreement letter - March 2016\",\"url\":\"/cdn/static/cms/documents/spending-review-2015-funding-agreement-letter-march-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 632KB\",\"image\":{}},{\"title\":\"Letter from Government relating to transport grant - November 2014\",\"url\":\"/cdn/static/cms/documents/letter-from-government-in-relation-to-transport-grant-november-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 578KB\",\"image\":{}},{\"title\":\"Spending Review 2013: TfL funding agreement letter - July 2013\",\"url\":\"/cdn/static/cms/documents/spending-review-2013-funding-agreement-letter-july-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 148KB\",\"image\":{}},{\"title\":\"Letter from Government in relation to GLA transport grant - April 2013\",\"url\":\"/cdn/static/cms/documents/letter-from-government-in-relation-to-gla-transport-grant-april-2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 48KB\",\"image\":{}},{\"title\":\"Letter from Government in relation to GLA transport grant - November 2012\",\"url\":\"/cdn/static/cms/documents/letter-from-government-in-relation-to-gla-transport-grant-november-2012.pdf\",\"icon\":\"download\",\"size\":\"PDF 261KB\",\"image\":{}},{\"title\":\"Letter from Goverment in relation to local Government resource review - May 2012\",\"url\":\"/cdn/static/cms/documents/letter-from-government-in-relation-to-local-government-resource-review.pdf\",\"icon\":\"download\",\"size\":\"PDF 40KB\",\"image\":{}},{\"title\":\"Letter from Goverment in relation to GLA transport grant - November 2011\",\"url\":\"/cdn/static/cms/documents/gla-grant-re-profile-november-2011.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"Spending Review 2010: TfL funding agreement letter - October 2010\",\"url\":\"/cdn/static/cms/documents/spending-review-2010-funding-agreement-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 139KB\",\"image\":{}},{\"title\":\"TfL 2007 Spending Review Settlement: Confirmation from Government\",\"url\":\"/cdn/static/cms/documents/spending-review-clarification.pdf\",\"icon\":\"download\",\"size\":\"PDF 28KB\",\"image\":{}},{\"title\":\"TfL 2007 Spending Review Settlement from Government - October 2007\",\"url\":\"/cdn/static/cms/documents/spending-review-settlement.pdf\",\"icon\":\"download\",\"size\":\"PDF 54KB\",\"image\":{}},{\"title\":\"Memorandum of Understanding between Government and TfL - October 2007\",\"url\":\"/cdn/static/cms/documents/spending-review-memorandum-of-understanding.pdf\",\"icon\":\"download\",\"size\":\"PDF 23KB\",\"image\":{}},{\"title\":\"Letter from Government in relation to TfL's borrowing profile - March 2005\",\"url\":\"/cdn/static/cms/documents/debtreprofileagreementfromgov.pdf\",\"icon\":\"download\",\"size\":\"PDF 39KB\",\"image\":{}},{\"title\":\"TfL 2004 Spending Review Settlement from Government - July 2004\",\"url\":\"/cdn/static/cms/documents/tfl2004spendingreviewsettlementfromgovernment.pdf\",\"icon\":\"download\",\"size\":\"PDF 411KB\",\"image\":{}},{\"title\":\"Letter from TfL to Government accepting the 2004 Spending Review Settlement - July 2004\",\"url\":\"/cdn/static/cms/documents/tflagreement2004spendingreviewsettlement.pdf\",\"icon\":\"download\",\"size\":\"PDF 104KB\",\"image\":{}},{\"title\":\"Letter from Government in relation to PPP funding - February 2003\",\"url\":\"/cdn/static/cms/documents/letterfromgovpppfunding.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.03MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Investors",
+    "links": [
+     {
+      "title": "Credit highlights",
+      "url": "/info-for/investors/credit-highlights",
+      "image": {}
+     },
+     {
+      "title": "Ratings",
+      "url": "/info-for/investors/Ratings",
+      "image": {}
+     },
+     {
+      "title": "Funding sources",
+      "url": "/info-for/investors/funding-sources",
+      "image": {}
+     },
+     {
+      "title": "Funding letters",
+      "url": "/info-for/investors/funding-letters",
+      "image": {}
+     },
+     {
+      "title": "Borrowing programme",
+      "url": "/info-for/investors/borrowing-programme",
+      "image": {}
+     },
+     {
+      "title": "Announcements",
+      "url": "/info-for/investors/announcements",
+      "image": {}
+     },
+     {
+      "title": "Reports",
+      "url": "/info-for/investors/reports",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Investors",
+     "url": "/info-for/investors/reports",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -76,21 +76,9 @@
     "wrapped": false
    },
    {
-    "title": "The experience",
+    "title": "Going to an ExCel event?",
     "texts": [
-     "Find out more about the Emirates Air Line cable car."
-    ],
-    "link": {
-     "url": "/modes/emirates-air-line/the-emirates-air-line-experience",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "title": "Visiting ExCel London?",
-    "texts": [
-     "Anyone attending an ExCel event enjoys an exclusive rate on Emirates Air Line"
+     "Enjoy an exclusive rate on Emirates Air Line"
     ],
     "link": {
      "url": "/campaign/cable-car-and-excel-exclusive-rate",
@@ -224,7 +212,7 @@
      },
      {
       "title": "Funding",
-      "url": "/corporate/about-tfl/what-we-do/emirates-air-line",
+      "url": "/corporate/about-tfl/what-we-do",
       "icon": "internal",
       "image": {}
      }
@@ -258,33 +246,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Explore London tickets",
-      "url": "/modes/river/explore-london-tickets",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitter",
-    "title": "Tweets by EmiratesAirLDN",
-    "link": {
-     "url": "https://twitter.com/EmiratesAirLDN",
      "image": {}
     },
     "image": {},

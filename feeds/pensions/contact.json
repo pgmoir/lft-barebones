@@ -35,12 +35,12 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"The staff in the Fund Office are always pleased to help with any questions. To make it easier for you to get through to the right member of the team, we have listed which team member you should contact along with their direct dial numbers below.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Questions about Additional Voluntary Contributions:\"}",
-     "{\"template\":\"table\",\"titles\":[\"Your surname\",\"Contact\",\"Telephone\",\"Auto\"],\"rows\":[[],[\"A-D\\u003cbr /\\u003e\",\"Paul Greenfield\\u003cbr /\\u003e\",\"020 7918 4498\\u003cbr /\\u003e\",\"44498\"],[\"E-K\\u003cbr /\\u003e\",\"Jenny Pierrepont\\u003cbr /\\u003e\",\"020 7918 4726\\u003cbr /\\u003e\",\"44726\"],[\"L-Q\\u003cbr /\\u003e\",\"Miten Chauhan\\u003cbr /\\u003e\",\"020 7918 4926\\u003cbr /\\u003e\",\"44926\"],[\"R-Z\\u003cbr /\\u003e\",\"Carl Wilkins\\u003cbr /\\u003e\",\"020 7918 3027\\u003cbr /\\u003e\",\"43027\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Your surname\",\"Contact\",\"Telephone\",\"Auto\"],\"rows\":[[],[\"A-D\",\"Paul Greenfield\",\"020 7126 1890\",\"61890\"],[\"E-K\",\"Jenny Pierrepont\",\"020 7126 1856\",\"61856\"],[\"L-Q\",\"Miten Chauhan\",\"020 7126 1860\",\"61860\"],[\"R-Z\",\"Carl Wilkins\",\"020 7126 1835\",\"61835\"]]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"For all other pension queries:\"}",
-     "{\"template\":\"table\",\"titles\":[\"Your surname\",\"Contact\",\"Telephone\",\"Auto\"],\"rows\":[[],[\"A, F \\u0026 V\",\"Hazel Gray\",\"020 7918 3797\",\"43797\"],[\"B\",\"Sarah Halsey\",\"020 7918 4895\",\"44895\"],[\"C \\u0026 Z\",\"Peter McMillan\",\"020 7918 4176\",\"44176\"],[\"D \\u0026 E\",\"Barbara Twena\",\"020 7918 3322\",\"43322\"],[\"G \\u0026 H\",\"Gowtham Ramkumar\",\"020 7918 4828\",\"44828\"],[\"H \\u0026 L\",\"Megan Zakrzewski\",\"020 7918 4864\",\"44864\"],[\"S \\u0026 U\",\"Alan Baxter\",\"020 7918 4697\",\"44697\"],[\"J, K \\u0026 N\",\"Denise Howson\",\"020 7918 4784\",\"44784\"],[\"M\",\"Victoria Baxter\",\"020 7918 4720\",\"44720\"],[\"R, T \\u0026 Y\",\"Dean Prest\",\"020 7918 3021\",\"43021\"],[\"O \\u0026 P\",\"Aran Sangha\",\"020 7918 4897\",\"44897\"],[\"I, Q, W \\u0026 X\",\"Alex Gaudie\",\"020 7918 3026\",\"43026\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Your surname\",\"Contact\",\"Telephone\",\"Auto\"],\"rows\":[[],[\"A, F \\u0026 V\",\"Hazel Gray\",\"020 7126 1625\",\"61625\"],[\"B\",\"Sarah Halsey\",\"020 7126 1751\",\"61751\"],[\"C \\u0026 Z\",\"Preye Jim-George\",\"020 7126 1622\",\"61622\"],[\"D \\u0026 E\",\"Barbara Twena\",\"020 7126 1628\",\"61628\"],[\"G \\u0026 Ha - Hj\",\"Gowtham Ramkumar\",\"020 7126 1485\",\"61485\"],[\"Hk - Hz \\u0026 L\",\"Rumana Miah\",\"020 7126 1490\",\"61490\"],[\"J, K \\u0026 N\",\"Helena Emery\",\"020 7126 1451\",\"61451\"],[\"M\",\"Victoria Baxter\",\"020 7126 1524\",\"61524\"],[\"R, T \\u0026 Y\",\"Dean Prest\",\"020 7126 1411\",\"61411\"],[\"O \\u0026 P\",\"Alex De Silva\",\"020 7126 1402\",\"61402\"],[\"S \\u0026 U\",\"Alan Baxter\",\"020 7126 1329\",\"61329\"],[\"I, Q, W \\u0026 X\",\"Alex Gaudie\",\"020 7126 1388\",\"61388\"]]}",
      "You can visit us between 08:30 and 16:30, Monday to Friday. To arrange an appointment, please contact a member of the Pensions Team on one of the above numbers.",
      "You can also write to us at:",
-     "TfL Pension Fund\u003cbr /\u003e4th Floor\u003cbr /\u003eWing over Station\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon SW1H 0BD",
+     "TfL Pension Fund\u003cbr /\u003e4th Floor\u003cbr /\u003e200 Buckingham Palace Road\u003cbr /\u003eLondon\u003cbr /\u003eSW1W 9TJ",
      "\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:helpdesk@tflpensionfund.co.uk\"\u003ehelpdesk@tflpensionfund.co.uk\u003c/a\u003e ",
      "The Fund Office looks after the day-to-day administration of the Fund. We are happy to answer any questions you may have about your benefits or pension payments.",
      "We cannot provide financial advice or deal with tax matters, but will be able to tell you who to contact for help.",
@@ -56,14 +56,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

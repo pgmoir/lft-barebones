@@ -36,22 +36,33 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"As Christmas approaches, London becomes busier with shoppers and party-goers. Between Sunday 23 December 2018 and Tuesday 1 January 2019, most of our services will be running. There will be some service changes and planned work on parts of the public transport and road networks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"As Christmas approaches, London becomes busier with shoppers and party-goers. Between Monday 23 December 2019 and Thursday 2 January 2020, most of our services will be running. However, there will be some service changes and planned work on parts of the public transport and road networks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel changes and information\"}",
-     "Between Saturday 22 December 2018 and Tuesday 1 January 2019, planned works and service changes may affect your journey.",
-     "Key service changes will include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"No services on Christmas Day except for \\u003ca href=\\\"/modes/cycling/santander-cycles\\\"\\u003eSantander Cycles\\u003c/a\\u003e , \\u003ca href=\\\"/modes/dial-a-ride/index\\\"\\u003eDial-a-Ride\\u003c/a\\u003e (for registered members only), \\u003ca href=\\\"/modes/taxis-and-minicabs/index\\\"\\u003eTaxi and Private Hire\\u003c/a\\u003e and \\u003ca href=\\\"/modes/coaches/index\\\"\\u003ecoaches\\u003c/a\\u003e which are available throughout the Christmas period\",\"No London Overground, TfL Rail or Thames Clippers services on Boxing Day\",\"Dial-a-Ride services will run throughout the Christmas season (for registered members), but are limited on certain days and are \\u003ca href=\\\"/cdn/static/cms/documents/in-touch-leaflet-2019-a4-1nov.pdf\\\"\\u003esubject to different booking dates\\u003c/a\\u003e \",\"Changes to frequency and timetable of most services during this period\"]}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Free travel\"}",
-     "There will be free travel on TfL services from 23:45 on New Year's Eve until 04.30 on New Year's Day (except on Thames Clippers and Emirates Air Line ).",
+     "Between Monday 23 December 2019 and Thursday 2 January 2020, planned works and service changes may affect your journey.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The only transport running on Christmas Day will be taxis and private hire; Santander Cycles; and coaches\",\"There are planned closures on Tube and TfL Rail routes over the festive season\",\"There are changes to timetables on all TfL services\",\"Although most major roadworks will be on hold over the Christmas and New Year period, there will be some lane closures for \\u003ca href=\\\"/status-updates/major-works-and-events/cycleway-9\\\"\\u003eCycleway 9\\u003c/a\\u003e construction near Kew Bridge\",\"Use \\u003ca href=\\\"/modes/cycling/santander-cycles\\\"\\u003eSantander Cycles\\u003c/a\\u003e for free over Christmas. Make as many 30-minute journeys as you like within 24 hours free of charge. Use code SCXMAS19\",\"Planned works and timetable changes also affect National Rail services. Visit \\u003ca href=\\\"https://nationalrail.co.uk/christmas\\\"\\u003enationalrail.co.uk/christmas\\u003c/a\\u003e for more information\"]}",
+     "In the lead up to Christmas, shoppers and party-goers make central London busier.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Busy stations\"}",
+     "Stations in the area of the \u003ca href=\"https://hydeparkwinterwonderland.com/getting-here/\"\u003eWinter Wonderland\u003c/a\u003e event in Hyde Park will be very busy and are likely to be exit-only at the busiest times. The following Tube stations will have restricted access:",
+     "Fridays: exit-only 19:00-23:00",
+     "Weekends and bank holidays: exit-only 11:00-23:00",
+     "Exit-only - busy times on Friday evenings, weekends and bank holidays.",
+     "Exceptionally busy with queues to use lifts. You could be asked to move around the station differently. Allow extra time, especially if changing lines.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Travelling outside the busiest times or using other routes is likely to be quicker and more comfortable\",\"Consider walking to your destination or other nearby stations\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/hyde-park-corner-map-700x800.jpg\",\"alt\":\"Hyde Park Corner map\"},\"wrapped\":false}",
+     "Walking times to key destinations on the Piccadilly line:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Piccadilly Circus to Tottenham Court Road - 13 minutes\",\"Leicester Square to Tottenham Court Road - 8 minutes\",\"Piccadilly Circus to Hyde Park Corner - 22 minutes\"]}",
+     "To help plan your journey, visit the \u003ca href=\"https://tfl.gov.uk/plan-a-journey/\"\u003eTfL journey\u003c/a\u003e planner.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New Year events\"}",
+     "Other planned events include the \u003ca href=\"https://www.london.gov.uk/events/2019-12-31/london-new-years-eve-fireworks-2019\"\u003eLondon New Year's Eve Fireworks\u003c/a\u003e and the \u003ca href=\"https://lnydp.com/\"\u003eLondon New Year's Day Parade 2020\u003c/a\u003e .",
+     "Get travel advice for \u003ca href=\"/status-updates/major-works-and-events/new-year-s-eve-2019\"\u003eNew Year's Eve\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Information\"}",
-     "Check before you travel and plan ahead using our travel tools. See:",
-     "{\"template\":\"bulletlist\",\"items\":[\"The latest \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future%20date\\u0026direction=\\u0026startDate=2018-12-14T00%3A00%3A00\\u0026endDate=2018-12-14T23%3A59%3A59\\u0026disruptionIds=TIMS-202397\\u0026intcmp=56354\\\"\\u003estatus updates\\u003c/a\\u003e for Tube, rail, DLR and Trams\",\" \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/\\\"\\u003eStatus updates\\u003c/a\\u003e for roads\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\" \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e as well as the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}",
+     "Check before you travel and plan ahead using our travel tools. See:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The latest \\u003ca href=\\\"https://tfl.gov.uk/tube-dlr-overground/status/\\\"\\u003estatus updates\\u003c/a\\u003e for Tube, rail, DLR and Trams\",\" \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/\\\"\\u003eStatus updates\\u003c/a\\u003e for roads\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\"The \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e places you on a map, showing Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations. It can use your current location, a postcode or an address of your choice\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Daily travel advice\"}",
      "Find out more about travelling on the following days:",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/status-updates/major-works-and-events/sunday-23-december-2018\\\"\\u003eSunday 23 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/christmas-eve-2018\\\"\\u003eChristmas Eve\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/christmas-day-2018\\\"\\u003eChristmas Day\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/boxing-day-2018\\\"\\u003eBoxing Day\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/thursday-27-december-2018\\\"\\u003eThursday 27 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/friday-28-december-2018\\\"\\u003eFriday 28 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/saturday-29-december-2018\\\"\\u003eSaturday 29 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/sunday-30-december-2018\\\"\\u003eSunday 30 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/new-year-s-eve-2018\\\"\\u003eNew Year's Eve\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/new-year-s-day-2019\\\"\\u003eNew Year's Day\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/wednesday-2-january-2019\\\"\\u003eWednesday 2 January\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/status-updates/major-works-and-events/monday-23-december-2019\\\"\\u003eMonday 23 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/christmas-eve-2019\\\"\\u003eChristmas Eve\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/christmas-day-2019\\\"\\u003eChristmas Day\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/boxing-day-2019\\\"\\u003eBoxing Day\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/friday-27-december-2019\\\"\\u003eFriday 27 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/saturday-28-december-2019\\\"\\u003eSaturday 28 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/sunday-29-december-2019\\\"\\u003eSunday 29 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/monday-30-december-2019\\\"\\u003eMonday 30 December\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/new-year-s-eve-2019\\\"\\u003eNew Year's Eve\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/new-year-s-day-2020\\\"\\u003eNew Year's Day\\u003c/a\\u003e \",\" \\u003ca href=\\\"/status-updates/major-works-and-events/thursday-2-january-2020\\\"\\u003eThursday 2 January\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Updates\"}",
-     "All information is subject to change. We'll be updating this page regularly with more detail of what's running over Christmas and New Year.",
-     "\u003cstrong\u003eLast updated: Friday 21 December 2018\u003c/strong\u003e "
+     "All information is subject to change. We'll be updating this page regularly with more detail of what's running over Christmas and New Year."
     ],
     "link": {
      "image": {}
@@ -63,173 +74,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "title": "Christmas travel",
-    "links": [
-     {
-      "title": "August Bank Holiday \u0026 Notting Hill Carnival",
-      "url": "/status-updates/major-works-and-events/august-bank-holiday-and-notting-hill-carnival",
-      "image": {}
-     },
-     {
-      "title": "Baker Street roadworks",
-      "url": "/status-updates/major-works-and-events/baker-street-roadworks",
-      "image": {}
-     },
-     {
-      "title": "Sunday 23 December 2018",
-      "url": "/status-updates/major-works-and-events/sunday-23-december-2018",
-      "image": {}
-     },
-     {
-      "title": "Christmas Eve 2018",
-      "url": "/status-updates/major-works-and-events/christmas-eve-2018",
-      "image": {}
-     },
-     {
-      "title": "Christmas Day 2018",
-      "url": "/status-updates/major-works-and-events/christmas-day-2018",
-      "image": {}
-     },
-     {
-      "title": "Boxing Day 2018",
-      "url": "/status-updates/major-works-and-events/boxing-day-2018",
-      "image": {}
-     },
-     {
-      "title": "Thursday 27 December 2018",
-      "url": "/status-updates/major-works-and-events/thursday-27-december-2018",
-      "image": {}
-     },
-     {
-      "title": "Friday 28 December 2018",
-      "url": "/status-updates/major-works-and-events/friday-28-december-2018",
-      "image": {}
-     },
-     {
-      "title": "Saturday 29 December 2018",
-      "url": "/status-updates/major-works-and-events/saturday-29-december-2018",
-      "image": {}
-     },
-     {
-      "title": "Sunday 30 December 2018",
-      "url": "/status-updates/major-works-and-events/sunday-30-december-2018",
-      "image": {}
-     },
-     {
-      "title": "New Year's Eve 2018",
-      "url": "/status-updates/major-works-and-events/new-year-s-eve-2018",
-      "image": {}
-     },
-     {
-      "title": "New Year's Day 2019",
-      "url": "/status-updates/major-works-and-events/new-year-s-day-2019",
-      "image": {}
-     },
-     {
-      "title": "Wednesday 2 January 2019",
-      "url": "/status-updates/major-works-and-events/wednesday-2-january-2019",
-      "image": {}
-     },
-     {
-      "title": "Cycle Superhighway 11",
-      "url": "/status-updates/major-works-and-events/cycle-superhighway-11",
-      "image": {}
-     },
-     {
-      "title": "Easter travel 2018",
-      "url": "/status-updates/major-works-and-events/easter-travel-2018",
-      "image": {}
-     },
-     {
-      "title": "Easter travel 2019",
-      "url": "/status-updates/major-works-and-events/easter-travel-2019",
-      "image": {}
-     },
-     {
-      "title": "Hammersmith Bridge closure",
-      "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
-      "image": {}
-     },
-     {
-      "title": "Highbury Corner roundabout",
-      "url": "/status-updates/major-works-and-events/highbury-corner-roundabout",
-      "image": {}
-     },
-     {
-      "title": "Improvements between Acton and Wood Lane",
-      "url": "/status-updates/major-works-and-events/improvements-between-acton-and-wood-lane",
-      "image": {}
-     },
-     {
-      "title": "Spring Bank Holiday 2019",
-      "url": "/status-updates/major-works-and-events/may-bank-holidays-2019",
-      "image": {}
-     },
-     {
-      "title": "Old Street roundabout",
-      "url": "/status-updates/major-works-and-events/old-street-roundabout",
-      "image": {}
-     },
-     {
-      "title": "Prudential RideLondon 2019",
-      "url": "/status-updates/major-works-and-events/ride-london-2019",
-      "image": {}
-     },
-     {
-      "title": "RideLondon",
-      "url": "/status-updates/major-works-and-events/ridelondon",
-      "image": {}
-     },
-     {
-      "title": "Road changes at Victoria Embankment",
-      "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
-      "image": {}
-     },
-     {
-      "title": "Tour of Britain 2018",
-      "url": "/status-updates/major-works-and-events/tour-of-britain-2018",
-      "image": {}
-     },
-     {
-      "title": "Travel advice for road users",
-      "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
-      "image": {}
-     },
-     {
-      "title": "Victoria Embankment",
-      "url": "/status-updates/major-works-and-events/victoria-embankment",
-      "image": {}
-     },
-     {
-      "title": "West End Project",
-      "url": "/status-updates/major-works-and-events/west-end-project",
-      "image": {}
-     },
-     {
-      "title": "Cycleway 4",
-      "url": "/status-updates/major-works-and-events/cycleway-4",
-      "image": {}
-     }
-    ],
-    "link": {
-     "title": "Christmas travel",
-     "url": "/status-updates/major-works-and-events/cycleway-4",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

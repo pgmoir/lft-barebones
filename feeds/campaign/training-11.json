@@ -1,0 +1,133 @@
+{
+ "pageTitle": "Training 11",
+ "keywords": "TfL",
+ "description": "Training 11 area in RedDot",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "RedDot training - content",
+   "url": "/campaign/reddot-training---content"
+  },
+  {
+   "title": "Training 11"
+  }
+ ],
+ "title": {
+  "title": "Training 11",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "RedDot training - content",
+    "links": [
+     {
+      "title": "Training 1",
+      "url": "/campaign/training-1",
+      "image": {}
+     },
+     {
+      "title": "Training 2",
+      "url": "/campaign/training-2",
+      "image": {}
+     },
+     {
+      "title": "Training 3",
+      "url": "/campaign/training-3",
+      "image": {}
+     },
+     {
+      "title": "Training 4",
+      "url": "/campaign/training-4",
+      "image": {}
+     },
+     {
+      "title": "Training 5",
+      "url": "/campaign/training-5",
+      "image": {}
+     },
+     {
+      "title": "Training 6",
+      "url": "/campaign/training-6",
+      "image": {}
+     },
+     {
+      "title": "Training 7",
+      "url": "/campaign/training-7",
+      "image": {}
+     },
+     {
+      "title": "Training 8",
+      "url": "/campaign/training-8",
+      "image": {}
+     },
+     {
+      "title": "Training 9",
+      "url": "/campaign/training-9",
+      "image": {}
+     },
+     {
+      "title": "Training 10",
+      "url": "/campaign/training-10",
+      "image": {}
+     },
+     {
+      "title": "Training 11",
+      "url": "/campaign/training-11",
+      "image": {}
+     },
+     {
+      "title": "Training 12",
+      "url": "/campaign/training-12",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "RedDot training - content",
+     "url": "/campaign/training-12",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

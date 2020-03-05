@@ -101,20 +101,20 @@
 
         <ul class="vertical-button-container stacked-cta-list">
             @ModulesHelpers.BoxedLinkListItem(
-                "/modes/driving/cc-select-discount-29641",
-                System.Guid.NewGuid().ToString(),
+                href: "/modes/driving/cc-select-discount-29641",
+                id: "discount-apply",
                 text: "Apply for a discount"
             )
 
             @ModulesHelpers.BoxedLinkListItem(
-                "/modes/driving/cc-autopay-manage-view-vehicle-history-30894",
-                System.Guid.NewGuid().ToString(),
+                href: "/modes/driving/cc-autopay-manage-view-vehicle-history-30894",
+                id: "discount-vehicle-history",
                 text: "Discount vehicle history"
             )
             
             @ModulesHelpers.BoxedLinkListItem(
-                "/modes/driving/account-active-vehicles-37471",
-                System.Guid.NewGuid().ToString(),
+                href: "/modes/driving/account-active-vehicles-37471",
+                id: "discount-active-vehicles",
                 text: "View all vehicles with a discount"
             )
         </ul>
@@ -164,10 +164,7 @@
     
   </div>
   <div class="aside" role="complementary">
-    
-    
-    
-   
+
     
 
         @{

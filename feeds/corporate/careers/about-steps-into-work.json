@@ -38,11 +38,10 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Find out more about the Steps into Work programme.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"video\",\"style\":\"3f6_aAV0Xo8\",\"title\":\"Steps into Work\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who runs the programme\"}",
-     "Steps into Work is a three-way partnership between TfL, \u003ca href=\"http://www.remploy.co.uk\"\u003eRemploy\u003c/a\u003e and \u003ca href=\"http://www.barnetsouthgate.ac.uk/\"\u003eBarnet \u0026 Southgate College\u003c/a\u003e that provides work experience for adults with mild to moderate learning disabilities and/or on the autism spectrum. They get the opportunity to develop work experience through working in a business environment.",
+     "Steps into Work is a three-way partnership between TfL, \u003ca href=\"https://www.mencap.org.uk/\"\u003eMencap (The Royal Mencap Society)\u003c/a\u003e and \u003ca href=\"http://www.barnetsouthgate.ac.uk/\"\u003eBarnet \u0026 Southgate College\u003c/a\u003e that provides work experience for adults with mild to moderate learning disabilities and/or on the autism spectrum. They get the opportunity to develop work experience through working in a business environment.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How it works\"}",
-     "The programme is made up of  three unpaid work placements, mainly in offices across TfL. Those aged 18 or over will also have the option of working as a customer service assistant (CSA) in a London Underground station. This placement also provides an opportunity to gain an NVQ Level 2 Customer Services in the Rail Industry award.",
+     "The programme is made up of  three unpaid work placements, mainly in offices across TfL. Those aged 18 or over will also have the option of working as a customer service assistant (CSA) in a London Underground station. This placement also provides an opportunity to gain an NVQ Level 2 Customer Services in the Rail Industry award.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/csa_rdax_400x250.jpg\",\"alt\":\"csa\"},\"wrapped\":false}",
      "People on the programme will study for a BTEC Level 1 qualification and will be students of Barnet \u0026 Southgate College and not TfL employees. The programme, including the BTEC classes will be based in TfL's offices in central London.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The placement\"}",
@@ -59,7 +58,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Qualification\"}",
      "The curriculum is based on the knowledge and skills needed for employment and the work placements involve gaining experience in a real working environment. You will build a portfolio of evidence as a record of learning while working towards the qualification. There are no exams on the programme.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Support and progression\"}",
-     "Remploy will provide a job coach to support you during your placements and help with the transition to the Remploy branch at the end of the programme. Remploy will also help you look for paid work.",
+     "Mencap will provide a job coach to support you during your placements and help with the transition to the Mencap branch at the end of the programme. Mencap will also help you look for paid work.",
      "This programme doesn't guarantee you will get an interview for a paid role or find a job at the end, but many former students are working in a range of roles in various organisations."
     ],
     "link": {
@@ -72,14 +71,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

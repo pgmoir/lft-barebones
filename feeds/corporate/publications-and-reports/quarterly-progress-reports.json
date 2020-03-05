@@ -34,6 +34,8 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We produce quarterly progress reports to the Board on the operational and financial performance of the TfL Group, and on the delivery and budget performance of the TfL Investment Programme.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Financial year 2019/20\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Quarter 3\",\"url\":\"/cdn/static/cms/documents/qpr-3-2019-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.80MB\",\"image\":{}},{\"title\":\"Quarter 2\",\"url\":\"/cdn/static/cms/documents/quarterly-performance-report-q2-sp-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.83MB\",\"image\":{}},{\"title\":\"Quarter 1\",\"url\":\"/cdn/static/cms/documents/quarterly-performance-report-q1-sp-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.34MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Financial year 2018/19\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Quarter 4\",\"url\":\"/cdn/static/cms/documents/q4-qpr-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.84MB\",\"image\":{}},{\"title\":\"Quarter 3\",\"url\":\"/cdn/static/cms/documents/q3-qpr-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.29MB\",\"image\":{}},{\"title\":\"Quarter 2\",\"url\":\"/cdn/static/cms/documents/q2-qpr-final.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.67MB\",\"image\":{}},{\"title\":\"Quarter 1\",\"url\":\"/cdn/static/cms/documents/tfl-quarterly-performance-report-q1-2018-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.20MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Financial year 2017/18\"}",
@@ -59,14 +61,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

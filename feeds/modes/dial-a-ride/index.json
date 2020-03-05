@@ -28,7 +28,7 @@
   "primarys": [
    {
     "style": "card-top ",
-    "title": "About Dial-a-Ride",
+    "title": "Joining Dial-a-Ride",
     "texts": [
      "Membership of our door-to-door service for people with long-term disabilities"
     ],
@@ -58,12 +58,12 @@
     "wrapped": false
    },
    {
-    "title": "Dial-a-Ride Friends",
+    "title": "Making the most of Dial-a-Ride",
     "texts": [
-     "Regular updates about the service for non-members"
+     "Find out how to get more out of the service"
     ],
     "link": {
-     "url": "/modes/dial-a-ride/dial-a-ride-friends",
+     "url": "/modes/dial-a-ride/making-the-most-of-dial-a-ride",
      "image": {}
     },
     "image": {},
@@ -90,10 +90,10 @@
     ],
     "links": [
      {
-      "title": "Public holiday bookings 2019",
-      "url": "/cdn/static/cms/documents/dar-public-holiday-bookings-2019.pdf",
+      "title": "Dial-a-Ride bookings for Christmas 2019 and New Year 2020",
+      "url": "/cdn/static/cms/documents/dial-a-ride-winter-bookings-2019-2020.pdf",
       "icon": "download",
-      "size": "PDF 28KB",
+      "size": "PDF 108KB",
       "image": {}
      }
     ],
@@ -120,7 +120,7 @@
       "image": {}
      },
      {
-      "title": "Taxicard \u0026 Capital Call",
+      "title": "Taxicard",
       "url": "/modes/taxis-and-minicabs/taxicard-and-capital-call",
       "icon": "internal",
       "image": {}
@@ -153,16 +153,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitter",
-    "title": "Tweets by TfLAccess",
-    "link": {
-     "url": "https://twitter.com/TfLAccess",
      "image": {}
     },
     "image": {},

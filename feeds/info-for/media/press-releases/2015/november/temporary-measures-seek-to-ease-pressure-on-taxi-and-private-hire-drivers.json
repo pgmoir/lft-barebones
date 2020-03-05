@@ -1,7 +1,35 @@
 {
+ "pageTitle": "Temporary measures seek to ease pressure on taxi and private hire drivers",
+ "description": "Press releases and news articles from Transport for London",
  "template": "page-content",
- "breadcrumbs": null,
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Media",
+   "url": "/info-for/media/index"
+  },
+  {
+   "title": "Press releases",
+   "url": "/info-for/media/press-releases"
+  },
+  {
+   "title": "2015",
+   "url": "/info-for/media/press-releases/2015"
+  },
+  {
+   "title": "November",
+   "url": "/info-for/media/press-releases/2015/november"
+  },
+  {
+   "title": "Temporary measures seek to ease pressure on taxi and private hire drivers"
+  }
+ ],
  "title": {
+  "title": "Temporary measures seek to ease pressure on taxi and private hire drivers",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +39,211 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London (TfL) has today announced that, from late November, it will introduce temporary measures for existing taxi and private hire drivers if their Disclosure and Barring Service (DBS) results have still not been returned.  The measures are a response to the impact that current delays at the DBS can have on drivers waiting for their licence to be renewed.",
+     "Disclosure and Barring Service (DBS) checks are the responsibility of the Home Office and individual police services.  ‎The Mayor is ensuring every effort is made to reduce waiting times for these important safety checks, with the Met drafting in around 60 additional members of staff to help.",
+     "TfL has already taken a number of steps to ensure that licenced drivers aren't stopped from driving because of delays, discussing the issue with the Home Office and seconding a number of staff to the Metropolitan Police Service to help process applications.  The new measures will further ease pressure, whilst ensuring that the high standards required from drivers are maintained.",
+     "To be eligible for the temporary measures, drivers will have had to apply for their DBS at least three months prior to the expiry of their previous licence.  Drivers receive a renewal pack, which contains details of how to apply for the enhanced DBS check necessary to continue their work as a licenced driver, from TfL four months before the expiry of their licence.",
+     "The temporary measures will only be available to drivers applying to renew their licence - as these drivers will have previously undergone a DBS check - and will initially be limited to two weeks in length.  In the unlikely event that their DBS certificate is delayed further, drivers can apply for a renewal.  Drivers from both trades who are applying for a licence for the first time will not be eligible, however TfL will continue to escalate these cases on their behalf.",
+     "The Mayor of London, Boris Johnson, said: `The last thing we want to see is London's taxi drivers out of work.  These temporary measures are the most effective way of tackling the immediate issue, alongside a dramatic boost to staffing levels at the Met.  I am confident that this approach will ensure that drivers are able to get back to work as soon as possible while maintaining public safety.'",
+     "Garrett Emmerson, TfL's Chief Operating Officer for Surface Transport, said: `We are aware that a number of drivers have been unable to work due to the delays in receiving their DBS certificate, and that these delays are affecting them and their families.",
+     "\"These new measures will help these drivers while ensuring that the high standards required of drivers are maintained.'",
+     "While the temporary measures are in place, TfL will continue to work with colleagues in the Home Office, the Metropolitan Police Service and the DBS to address the waiting times for DBS checks.  As a condition of the temporary measures, drivers will be required to sign up to the DBS update service in order to prevent a similar situation occurring in future.  As well as these efforts to minimise delays in the DBS system, TfL also launched a counter service earlier this year in order to assist drivers with any licensing queries or problems.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Since September, six members of TfL staff have been seconded from to speed up the DBS application process for cab drivers.\",\"The Met has introduced additional evening shifts with eight new staff members. A further 12 full time staff members have been recruited and are now being trained, and an extra 38 new recruits are planned by January.\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Media",
+    "links": [
+     {
+      "title": "Press releases",
+      "url": "/info-for/media/press-releases",
+      "image": {}
+     },
+     {
+      "title": "2020",
+      "url": "/info-for/media/press-releases/2020",
+      "image": {}
+     },
+     {
+      "title": "2019",
+      "url": "/info-for/media/press-releases/2019",
+      "image": {}
+     },
+     {
+      "title": "2018",
+      "url": "/info-for/media/press-releases/2018",
+      "image": {}
+     },
+     {
+      "title": "2017",
+      "url": "/info-for/media/press-releases/2017",
+      "image": {}
+     },
+     {
+      "title": "2016",
+      "url": "/info-for/media/press-releases/2016",
+      "image": {}
+     },
+     {
+      "title": "2015",
+      "url": "/info-for/media/press-releases/2015",
+      "image": {}
+     },
+     {
+      "title": "December",
+      "url": "/info-for/media/press-releases/2015/december",
+      "image": {}
+     },
+     {
+      "title": "November",
+      "url": "/info-for/media/press-releases/2015/november",
+      "image": {}
+     },
+     {
+      "title": "October",
+      "url": "/info-for/media/press-releases/2015/october",
+      "image": {}
+     },
+     {
+      "title": "September",
+      "url": "/info-for/media/press-releases/2015/september",
+      "image": {}
+     },
+     {
+      "title": "August",
+      "url": "/info-for/media/press-releases/2015/august",
+      "image": {}
+     },
+     {
+      "title": "July",
+      "url": "/info-for/media/press-releases/2015/july",
+      "image": {}
+     },
+     {
+      "title": "June",
+      "url": "/info-for/media/press-releases/2015/june",
+      "image": {}
+     },
+     {
+      "title": "May",
+      "url": "/info-for/media/press-releases/2015/may",
+      "image": {}
+     },
+     {
+      "title": "April",
+      "url": "/info-for/media/press-releases/2015/april",
+      "image": {}
+     },
+     {
+      "title": "March",
+      "url": "/info-for/media/press-releases/2015/march",
+      "image": {}
+     },
+     {
+      "title": "February",
+      "url": "/info-for/media/press-releases/2015/february",
+      "image": {}
+     },
+     {
+      "title": "January",
+      "url": "/info-for/media/press-releases/2015/january",
+      "image": {}
+     },
+     {
+      "title": "2014",
+      "url": "/info-for/media/press-releases/2014",
+      "image": {}
+     },
+     {
+      "title": "2013",
+      "url": "/info-for/media/press-releases/2013",
+      "image": {}
+     },
+     {
+      "title": "2012",
+      "url": "/info-for/media/press-releases/2012",
+      "image": {}
+     },
+     {
+      "title": "2011",
+      "url": "/info-for/media/press-releases/2011",
+      "image": {}
+     },
+     {
+      "title": "2010",
+      "url": "/info-for/media/press-releases/2010",
+      "image": {}
+     },
+     {
+      "title": "2009",
+      "url": "/info-for/media/press-releases/2009",
+      "image": {}
+     },
+     {
+      "title": "2008",
+      "url": "/info-for/media/press-releases/2008",
+      "image": {}
+     },
+     {
+      "title": "2007",
+      "url": "/info-for/media/press-releases/2007",
+      "image": {}
+     },
+     {
+      "title": "2006",
+      "url": "/info-for/media/press-releases/2006",
+      "image": {}
+     },
+     {
+      "title": "2005",
+      "url": "/info-for/media/press-releases/2005",
+      "image": {}
+     },
+     {
+      "title": "2004",
+      "url": "/info-for/media/press-releases/2004",
+      "image": {}
+     },
+     {
+      "title": "Photos",
+      "url": "/info-for/media/photos",
+      "image": {}
+     },
+     {
+      "title": "Contact the Press Office",
+      "url": "/info-for/media/contact-the-press-office",
+      "image": {}
+     },
+     {
+      "title": "Filming \u0026 photography",
+      "url": "/info-for/media/filming-and-photography",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Media",
+     "url": "/info-for/media/filming-and-photography",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

@@ -33,19 +33,21 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"You have to become a member to use Dial-a-Ride. If you are visiting London and staying at an address in a London borough, you can apply for temporary membership. Find out how to apply and how to use the service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"You have to become a member to use Dial-a-Ride.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/driver-customer_rdax_400x250.jpg\",\"alt\":\"Dial-a-Ride driver and customer\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Becoming a member\"}",
-     "You must have a permanent or long-term disability which means you are unable to use public transport some or all of the time.",
+     "You must have a permanent or long-term disability which means you are unable to use public transport.",
      "You are automatically eligible for membership if you are:",
      "{\"template\":\"bulletlist\",\"items\":[\"A Taxicard member\",\"Getting the Higher Rate Mobility Component of Disability Living Allowance\",\"Getting the Standard or Enhanced Mobility Rate of the Personal Independence Payment (PIP)\",\"Registered blind or partially sighted\",\"Aged 85 or over\",\"Getting a Higher Rate Attendance Allowance\",\"Getting a War Pension Mobility Supplement\"]}",
-     "If none of the above apply to you, you may still be able to join\nDial-a-Ride but you will have to undergo a paper-based mobility\nassessment to establish your eligibility for the service.",
+     "If none of the above apply to you, you may still be able to join Dial-a-Ride but you will have to undergo a paper-based mobility assessment to establish your eligibility for the service.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to apply\"}",
-     "You can apply for Dial-a-Ride membership if you are a permanent or\ntemporary resident of the London borough. If you are applying for\ntemporary membership, you will need to provide evidence of your\nmembership of a similar door-to-door service for disabled travellers at\nyour place of residence in order to qualify for the London Dial-a-Ride\nservice.",
-     "Post the completed form to:\u003cbr /\u003eDial-a-Ride\u003cbr /\u003ePassenger Services\u003cbr /\u003ePO Box 68799\u003cbr /\u003eLondon\u003cbr /\u003eSE1P 4RD",
-     "You can also phone us on 0343 222 7777 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) to request an application form or you can download the form and guidance notes below.",
+     "You can apply for Dial-a-Ride if you are a permanent or temporary resident of a London borough. If you are applying for a temporary membership, you will need to provide evidence of using a similar service at your place of residence.",
+     "To apply, download the form below, complete it, and post it to:\u003cbr /\u003eDial-A-Ride\u003cbr /\u003eAssisted Transport Services\u003cbr /\u003ePO Box 68799",
+     "You can also phone us on 0343 222 7777 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) to request an application form.",
      "Find out what will happen \u003ca href=\"/modes/dial-a-ride/on-your-journey\"\u003eon your journey\u003c/a\u003e .",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Dial-a-Ride application form\",\"url\":\"/cdn/static/cms/documents/dial-a-ride-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 169KB\",\"image\":{}},{\"title\":\"How to fill in a Dial-a-Ride application\",\"url\":\"/cdn/static/cms/documents/how-to-fill-in-a-dial-a-ride-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 102KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Dial-a-Ride application form\",\"url\":\"/cdn/static/cms/documents/dial-a-ride-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 169KB\",\"image\":{}},{\"title\":\"How to fill in a Dial-a-Ride application\",\"url\":\"/cdn/static/cms/documents/how-to-fill-in-a-dial-a-ride-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 102KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxicard\"}",
+     "Taxicard is an alternative taxi and minicab service that provides transport for London residents with mobility or sight impairments. \u003ca href=\"http://www.londoncouncils.gov.uk/services/taxicard/apply-taxicard-your-borough\"\u003eFind out more about Taxicard\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -57,14 +59,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -83,6 +77,11 @@
      {
       "title": "On your journey",
       "url": "/modes/dial-a-ride/on-your-journey",
+      "image": {}
+     },
+     {
+      "title": "Making the most of Dial-a-Ride",
+      "url": "/modes/dial-a-ride/making-the-most-of-dial-a-ride",
       "image": {}
      },
      {

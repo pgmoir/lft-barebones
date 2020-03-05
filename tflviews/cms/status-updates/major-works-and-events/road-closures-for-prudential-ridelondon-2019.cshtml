@@ -12,6 +12,13 @@
  
         
         
+
+@{
+    Response.Status = "302 Moved temporarily";
+    Response.AddHeader("Location", "/status-updates/index");   
+}
+
+ 
 <div class="r">
     <div class="breadcrumb-container" role="navigation">
         <span id="breadcrumb-label" class="visually-hidden">You are here:</span>
@@ -631,6 +638,10 @@
 			<td>Rotherhithe Tunnel</td>
 			<td>04:00-08:00</td>
 		</tr>
+		<tr>
+			<td>Woolwich Ferry</td>
+			<td>Closed</td>
+		</tr>
 	</tbody>
 </table></div>
 
@@ -650,11 +661,7 @@
     </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-      <div class="share-widget-wrapper"></div>
-    
-    
+
    
     
     

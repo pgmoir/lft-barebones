@@ -34,9 +34,14 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"These reports form part of our Customer Research Library.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Healthy streets\"}",
-     "To measure the performance of streets on healthy streets indicators. Based on this, to provide a cluster solution grouping the nine street\ntypes, identify which indicators are most likely to drive overall satisfaction with the street environment and develop guidelines for\na 'good' performance.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Healthy streets four schemes summary\",\"url\":\"/cdn/static/cms/documents/healthy-streets-four-schemes-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 25KB\",\"image\":{}},{\"title\":\"Healthy streets four schemes report\",\"url\":\"/cdn/static/cms/documents/healthy-streets-four-schemes-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 893KB\",\"image\":{}},{\"title\":\"Healthy streets summary\",\"url\":\"/cdn/static/cms/documents/healthy-streets-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 19KB\",\"image\":{}},{\"title\":\"Healthy streets report\",\"url\":\"/cdn/static/cms/documents/healthy-streets-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.12MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Active people qualitative research (2019)\"}",
+     "The \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e target is for all Londoners to achieve 20 minutes of active travel a day by 2041, the recommended amount for good health.",
+     "In this qualitative study, 46 Londoners who were not meeting the target were challenged to incorporate 20 minutes of active travel into their daily journeys. Participants were selected from three areas where the four 'near market' TCoL segments live (based on propensity and potential for active travel).",
+     "Once this change was triggered, many of the perceived barriers disappeared and respondents reported experiencing personal and social benefits. Many voiced commitment to integrating active travel into their regular trips in future.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Active people debrief\",\"url\":\"/cdn/static/cms/documents/tfl-active-people-debrief.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.58MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Healthy Streets\"}",
+     "To measure the performance of streets on Healthy Streets indicators. Based on this, to provide a cluster solution grouping the nine street types, identify which indicators are most likely to drive overall satisfaction with the street environment and develop guidelines for a 'good' performance.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Healthy Streets four schemes summary\",\"url\":\"/cdn/static/cms/documents/healthy-streets-four-schemes-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 25KB\",\"image\":{}},{\"title\":\"Healthy Streets four schemes report\",\"url\":\"/cdn/static/cms/documents/healthy-streets-four-schemes-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 893KB\",\"image\":{}},{\"title\":\"Healthy Streets summary\",\"url\":\"/cdn/static/cms/documents/healthy-streets-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 19KB\",\"image\":{}},{\"title\":\"Healthy Streets report\",\"url\":\"/cdn/static/cms/documents/healthy-streets-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.12MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Start Your Journey (SYJ) Zcard resource\"}",
      "To identify how the resource is being used in schools, and to identify strengths, weaknesses and areas for improvement to support its future delivery.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Start Your Journey Zcard summary\",\"url\":\"/cdn/static/cms/documents/start-your-journey-zcard-summary.pdf\",\"icon\":\"download\",\"size\":\"PDF 24KB\",\"image\":{}},{\"title\":\"Start Your Journey Zcard report\",\"url\":\"/cdn/static/cms/documents/start-your-journey-zcard-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.90MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -163,14 +168,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

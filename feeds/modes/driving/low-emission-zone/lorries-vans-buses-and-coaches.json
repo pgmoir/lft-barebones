@@ -1,0 +1,214 @@
+{
+ "keywords": "TfL",
+ "description": "HGVs, lorries, buses \u0026 coaches and heavy specialist vehicles need to meet certain emissions standards",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Low Emission Zone",
+   "url": "/modes/driving/low-emission-zone"
+  },
+  {
+   "title": "HGVs, lorries, vans, buses/minibuses and coaches"
+  }
+ ],
+ "title": {
+  "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you drive a diesel HGV, lorry, larger van, bus/minibus, coach or other specialist heavy vehicle within the Low Emission Zone (LEZ), you need to meet the emissions standards or pay a daily charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Vehicles in this category:",
+     "{\"template\":\"bulletlist\",\"items\":[\"HGVs, lorries, vans or other specialist vehicles over 3.5 tonnes\",\"Buses/minibuses and coaches over 5 tonnes\"]}",
+     "Currently, these vehicles must meet the Euro IV standard for particulate matter (PM), whether they are used for commercial or for private purposes.",
+     "Tougher LEZ standards are being introduced. Use our tool to check if your vehicle will be affected by \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003echanges coming on 26 October 2020\u003c/a\u003e . If you must pay LEZ charges because of the tougher standards, you will not have to pay a \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eseparate ULEZ charge\u003c/a\u003e .",
+     "Use our vehicle checker to see if your vehicle meets the\u003cstrong\u003ecurrent emissions standards\u003c/strong\u003e .",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Petrol or diesel vehicles in central London must also meet \u003ca href=\"/modes/driving/ultra-low-emission-zone\"\u003eUltra Low Emission Zone (ULEZ) standards\u003c/a\u003e , even if they meet LEZ standards.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Meeting the current standards\"}",
+     "The current LEZ emissions standards are based on Euro standards for the emission of PM. PM is very fine particles of soot emitted by vehicles - this pollution can contribute to asthma, heart and lung disease, other respiratory illnesses and even early death.",
+     "The age and weight of a vehicle indicate the level of PM it produces.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicles included in the current Euro IV standard for PM\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Lorries\",\"Vans\",\"Motor caravans\",\"Motorised horseboxes\",\"Breakdown and recovery vehicles\",\"Snow ploughs\",\"Gritters\",\"Refuse collection vehicles\",\"Road sweepers\",\"Concrete mixers\",\"Fire engines\",\"Tippers\",\"Removal lorries\",\"Other specialist heavy vehicles\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Buses/minibuses\",\"Coaches\"]}",
+     "Find out more on our \u003ca href=\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\"\u003echeck if your vehicle is affected page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicles meet the current standards if they:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Were first registered as new with the DVLA on or after 1 October 2006, or\",\"Have a Low Emission Certificate (LEC) or a Reduced Pollution Certificate (RPC) for fitting an approved full filter or converting to an approved gas engine\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicles won't meet the current standards if they:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Were first registered as new with the DVLA any time before 1 October 2006, or\",\"Currently hold a LEC or an RPC but you have only fitted a partial filter, or\",\"Have a LEC or an RPC for an Eligible Engine (these no longer meet the LEZ standards), or\",\"Have an RPC which has box 'M' ticked (this can be found under the 'Particulate trap fitted or modification type used' section of the certificate)\"]}",
+     "If  your vehicle doesn't meet the LEZ standards, you will need to pay the daily LEZ charge.",
+     " \u003ca href=\"/modes/driving/low-emission-zone/manufacturers-and-fitters\"\u003eFind out more about vehicles with LECs and RPCs.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"HGV Safety Permit from October 2020\"}",
+     "If you drive an HGV over 12 tonnes in Greater London at any time you will need to apply for an HGV Safety Permit. From this date, a penalty charge notice will be issued to vehicles without a permit.",
+     "Applying for a permit will be free of charge and available from 28 October 2019. Find out more about the \u003ca href=\"https://tfl.gov.uk/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles\"\u003eDirect Vision Standard (DVS) for HGVs\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "links": [
+     {
+      "title": "LEZ: Where and when",
+      "url": "/modes/driving/low-emission-zone/about-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Pay a LEZ charge",
+      "url": "/modes/driving/low-emission-zone/make-a-payment",
+      "image": {}
+     },
+     {
+      "title": "Ways to meet the LEZ standards",
+      "url": "/modes/driving/low-emission-zone/ways-to-meet-the-standards",
+      "image": {}
+     },
+     {
+      "title": "Find out if you need to register",
+      "url": "/modes/driving/low-emission-zone/find-out-if-you-need-to-register",
+      "image": {}
+     },
+     {
+      "title": "Check if your vehicle is affected",
+      "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+      "url": "/modes/driving/low-emission-zone/lorries-vans-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and specialist diesel vehicles",
+      "url": "/modes/driving/low-emission-zone/vans-minibuses-and-specialist-diesel-vehicles",
+      "image": {}
+     },
+     {
+      "title": "Penalty charges for the LEZ",
+      "url": "/modes/driving/low-emission-zone/penalty-charges",
+      "image": {}
+     },
+     {
+      "title": "Manufacturers and fitters",
+      "url": "/modes/driving/low-emission-zone/manufacturers-and-fitters",
+      "image": {}
+     },
+     {
+      "title": "Changes to the LEZ",
+      "url": "/modes/driving/low-emission-zone/changes-to-the-lez",
+      "image": {}
+     },
+     {
+      "title": "Contact LEZ",
+      "url": "/modes/driving/low-emission-zone/contact-lez",
+      "image": {}
+     }
+    ],
+    "link": {
+     "url": "/modes/driving/low-emission-zone/contact-lez",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Contact Congestion Charge",
+      "url": "/modes/driving/congestion-charge/contact-congestion-charge",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Contact ULEZ",
+      "url": "/modes/driving/ultra-low-emission-zone/contact-ulez",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Deliveries in London",
+      "url": "/info-for/deliveries-in-london/",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "LEZ publications",
+      "url": "/corporate/publications-and-reports/low-emission-zone",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Related websites",
+    "links": [
+     {
+      "title": "DVSA",
+      "url": "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "DVLA",
+      "url": "http://www.dft.gov.uk/dvla/about.aspx",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Cleaner Air for London",
+      "url": "http://www.cleanerairforlondon.org.uk/",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Source London",
+      "url": "https://www.sourcelondon.net/",
+      "icon": "external",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

@@ -35,7 +35,7 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"TfL's schedule of publications. Includes publication dates for Board papers, performance reports, financial reports and contracts.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL publication schedule\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL publication schedule 2019\",\"url\":\"/cdn/static/cms/documents/publication-schedule-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 92KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL publications schedule 2020\",\"url\":\"/cdn/static/cms/documents/tfl-publications-schedule-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 131KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -47,14 +47,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

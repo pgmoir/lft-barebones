@@ -37,24 +37,22 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"If you don't touch in and out correctly using contactless (card or device) or an Oyster card, or you don't have a valid ticket, you may be charged a penalty fare or be prosecuted.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"If you don't touch in and out correctly using contactless (card or device) or an Oyster card, or you don't have a valid ticket, you may be charged a penalty fare.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Your ticket must cover your entire journey and all zones you travel in. If you're using \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go\"\u003epay as you go\u003c/a\u003e , you must have enough credit to pay for your entire journey. If you're using a mobile device, it must have enough battery to last your journey.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/penalty-fares.jpg\",\"alt\":\"Yellow card reader followed by a pound sign and full battery icon, then a yellow card reader at the end\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much is a penalty fare?\"}",
      "It's £80. This is reduced to £40 if you pay within 21 days.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Fare evasion\"}",
-     "Fare evasion is a criminal offence and you may be prosecuted.",
-     "If convicted, you will:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Get a criminal record\",\"Pay a fine of up to £1,000\",\"Pay compensation for fares avoided\",\"Pay a victim surcharge\",\"Pay prosecution costs\"]}",
+     "Fare evasion is a criminal offence and you may be \u003ca href=\"/fares/prosecutions\"\u003eprosecuted\u003c/a\u003e .",
      "We have more Revenue Inspectors across our transport services working to reduce fare evasion.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Fare evasion frequently asked questions\",\"url\":\"/cdn/static/cms/documents/fare-evasion-prosecution.pdf\",\"icon\":\"download\",\"size\":\"PDF 28KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Policies\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Revenue enforcement and prosecutions policy\",\"url\":\"/cdn/static/cms/documents/revenue-enforcement-and-prosecution-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 198KB\",\"image\":{}},{\"title\":\"Penalty fares appeals policy\",\"url\":\"/cdn/static/cms/documents/penalty-fares-appeals-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 172KB\",\"image\":{}},{\"title\":\"Zip enforcement and appeals policy\",\"url\":\"/cdn/static/cms/documents/zip-enforcement-policy-new.pdf\",\"icon\":\"download\",\"size\":\"PDF 366KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Policy\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Penalty fares appeals policy\",\"url\":\"/cdn/static/cms/documents/penalty-fares-appeals-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 172KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to pay or appeal a penalty fare\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bus, Tube, DLR, London Overground and TfL Rail\"}",
      " \u003ca href=\"http://www.ircas.co.uk/\"\u003ePay online\u003c/a\u003e to the Independent Revenue Collection and Support (IRCAS).",
      "Pay by\u003cstrong\u003ephone\u003c/strong\u003e :",
      "Call charges are 5p per minute to 0844 numbers and 13p per minute to 0870 numbers, plus your network access charge(s).",
-     "{\"template\":\"bulletlist\",\"items\":[\"Independent Revenue Collection and Support payment line: \\u003ca href=\\\"tel:0870 067 1303\\\"\\u003e0870 067 1303\\u003c/a\\u003e \",\"London Underground payment line: \\u003ca href=\\\"tel:0844 544 8458\\\"\\u003e0844 544 8458\\u003c/a\\u003e \",\"DLR payment line: \\u003ca href=\\\"tel:0844 544 6990\\\"\\u003e0844 544 6990\\u003c/a\\u003e \",\"TfL Rail payment line: \\u003ca href=\\\"tel:0844 544 7906\\\"\\u003e0844 544 7906\\u003c/a\\u003e \",\"TfL Buses penalty fare notices payment line: \\u003ca href=\\\"tel:0844 544 8458\\\"\\u003e0844 544 8458\\u003c/a\\u003e \",\"TfL Buses unpaid fare notices payment line: \\u003ca href=\\\"tel:0844 544 \\\"\\u003e0844 544 7173\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Independent Revenue Collection and Support payment line: \\u003ca href=\\\"tel:0870 067 1303\\\"\\u003e0870 067 1303\\u003c/a\\u003e \",\"London Underground payment line: \\u003ca href=\\\"tel:0844 067 9921\\\"\\u003e0844 067 9921\\u003c/a\\u003e \",\"DLR payment line: \\u003ca href=\\\"tel:0870 067 9870\\\"\\u003e0870 067 9870\\u003c/a\\u003e \",\"TfL Rail payment line: \\u003ca href=\\\"tel:0870 067 9890\\\"\\u003e0870 067 9890\\u003c/a\\u003e \",\"TfL Buses penalty fare notices payment line: \\u003ca href=\\\"tel:0870 067 9895\\\"\\u003e0870 067 9895\\u003c/a\\u003e \",\"TfL Buses unpaid fare notices payment line: \\u003ca href=\\\"tel:0844 544 7173\\\"\\u003e0844 544 7173\\u003c/a\\u003e \"]}",
      "Pay by\u003cstrong\u003epost\u003c/strong\u003e :",
      "IRCAS\u003cbr /\u003ePO Box 212\u003cbr /\u003ePetersfield\u003cbr /\u003eGU32 9BQ",
      " \u003ca href=\"https://www.appealservice.co.uk/\"\u003eAppeal online\u003c/a\u003e within 21 days to the Appeal Service (AS).",
@@ -73,10 +71,7 @@
      "You need to include information with your appeal:",
      "{\"template\":\"bulletlist\",\"items\":[\"Journey start time and station\",\"Daytime telephone number or email address\",\"Statement explaining why you couldn't produce a valid ticket for your journey\"]}",
      "If your appeal is successful, you won't have to pay a penalty fare.",
-     "If your appeal is unsuccessful, you'll be notified and advised what to do next.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Get your case reopened\"}",
-     "If you've been prosecuted and weren't aware of the proceedings against you, you can make a statutory declaration to get your case reopened in the magistrates' court.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"How to get your case reopened\",\"url\":\"/cdn/static/cms/documents/how-to-get-your-case-reopened.pdf\",\"icon\":\"download\",\"size\":\"PDF 13KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "If your appeal is unsuccessful, you'll be notified and advised what to do next."
     ],
     "link": {
      "image": {}
@@ -88,14 +83,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

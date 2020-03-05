@@ -1,9 +1,7 @@
 {
- "pageTitle": "Central line disruption on Friday 16 June",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
-  "title": "Central line disruption on Friday 16 June",
   "card": {
    "link": {
     "image": {}
@@ -13,62 +11,10 @@
   }
  },
  "body": {
-  "primarys": [],
-  "cards": [
-   {
-    "template": "intro",
-    "texts": [
-     "LU today apologised to Central line customers after a faulty train at Bank caused the suspension of services on a large part of the line."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "content",
-    "texts": [
-     "We apologise to those involved in this incident for the inconvenience and disruption caused",
-     "The problems also meant customers had to be evacuated from one train which was stalled in a tunnel behind the defective train.",
-     "A spokesperson for London Underground said: \"The Central line was suspended at 08:50 between Leytonstone and Marble Arch due to a defective train at Bank station.",
-     "\"One train was stalled behind the defective train on the approach to Bank and 820 passengers were detrained and confirmed as safely on the platform at Bank by 10.45.",
-     "\"The safety of passengers and staff is our top priority.",
-     "\"The London Ambulance Service was called as a precaution but only one passenger required medical assistance.",
-     "\"The London Underground water truck also attended to provide bottled water to passengers and to supplement existing station supplies.",
-     "\"We are working with Metronet who are responsible for the maintenance of Central line trains to identify and fully understand the cause of this incident. Rail safety authorities are considering whether a formal investigation should be held.",
-     "\"We apologise to those involved in this incident for the inconvenience and disruption caused.\"",
-     "Services were susbsequently restored between Marble Arch and Holborn, but the section between Holborn and Leytonstone remained suspended until 16.15.",
-     "Replacement bus services were provided to connect with other Tube and rail lines.",
-     "Check for the latest \u003ca href=\"http://www.tfl.gov.uk/realtime\"\u003ereal time \u003c/a\u003e news to see how services are running now."
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "primarys": null,
+  "cards": null
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "style": "foldernav",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

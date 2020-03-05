@@ -49,9 +49,9 @@
      "Bus numbers 11, 44, 170, 211, C1, C10, N11 and N44 stop outside the Coach Station.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By bus\",\"url\":\"/cdn/static/cms/documents/victoria-2277-by-bus.pdf\",\"icon\":\"download\",\"size\":\"PDF 98KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By Tube\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By Tube\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By Tube\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 617KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By rail\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By Rail\",\"url\":\"/cdn/static/cms/documents/london-rail-and-tube-services-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 306KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"By Rail\",\"url\":\"/cdn/static/cms/documents/london-rail-and-tube-services-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 333KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By taxi or minicab\"}",
      "A taxi rank is outside the Coach Station on Eccleston Place.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"By car\"}",
@@ -67,14 +67,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

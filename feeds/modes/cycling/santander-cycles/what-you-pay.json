@@ -48,7 +48,7 @@
      "{\"template\":\"video\",\"style\":\"TiwSJb9Xox8\",\"title\":\"What you pay to hire\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Get your bike quicker\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Become a member\"}",
-     "If you \u003ca href=\"/modes/cycling/santander-cycles/register-for-your-own-key\"\u003ebecome a member\u003c/a\u003e you get your own key so you can hire a bike quickly. You can use the bikes for 24 hours from just £2, or get a discount to use the bikes all year round for £90 (25p a day).",
+     "If you \u003ca href=\"/modes/cycling/santander-cycles/register-for-your-own-key\"\u003ebecome a member\u003c/a\u003e you can get your own key so you can hire a bike quickly. You can use the bikes for 24 hours from just £2, or use the bikes all year round for £90 (25p a day).",
      "If you're a student and studying in London, you can get \u003ca href=\"/modes/cycling/santander-cycles/register-for-your-own-key\"\u003e25% off yearly membership\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Download our app\"}",
      "Our \u003ca href=\"/modes/cycling/santander-cycles/community\"\u003eSantander Cycles app\u003c/a\u003e makes it even easier to hire a bike.",
@@ -65,21 +65,28 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Cycling",
     "links": [
      {
-      "title": "Get started with cycling",
-      "url": "/modes/cycling/new-to-cycling",
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
       "image": {}
      },
      {
@@ -108,11 +115,6 @@
       "image": {}
      },
      {
-      "title": "Leisure routes",
-      "url": "/modes/cycling/santander-cycles/leisure-routes",
-      "image": {}
-     },
-     {
       "title": "Lost, stolen or faulty",
       "url": "/modes/cycling/santander-cycles/lost-stolen-or-faulty",
       "image": {}
@@ -136,21 +138,11 @@
       "title": "Blaze Laserlights",
       "url": "/modes/cycling/santander-cycles/blaze-laserlights",
       "image": {}
-     },
-     {
-      "title": "Cycling in London",
-      "url": "/modes/cycling/cycling-in-london",
-      "image": {}
-     },
-     {
-      "title": "Routes \u0026 maps",
-      "url": "/modes/cycling/routes-and-maps",
-      "image": {}
      }
     ],
     "link": {
      "title": "Cycling",
-     "url": "/modes/cycling/routes-and-maps",
+     "url": "/modes/cycling/santander-cycles/blaze-laserlights",
      "image": {}
     },
     "image": {},

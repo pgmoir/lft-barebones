@@ -1,6 +1,6 @@
 {
  "pageTitle": "Holborn station capacity upgrade",
- "keywords": "Tube passengers,H,Camden,Tube improvement,Tube,TfL",
+ "keywords": "Tube passengers,H,Camden,Consultation,Tube improvement,Tube,TfL",
  "description": "Our plans would make it easier for customers to get around Holborn station",
  "template": "page-content",
  "breadcrumbs": [
@@ -33,28 +33,31 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We're proposing changes at Holborn station that would make it substantially easier for customers to enter, exit and move around the station. Because we're facing financial challenges, works are now expected to start in 2023/4.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Updated Business Plan\"}",
-     "In our update to the \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003eBusiness Plan\u003c/a\u003e of 11 December 2018, the proposed capacity upgrade to Holborn station has been re-phased subject to planning permissions.",
-     "We are still very committed to the Holborn project. Our work so far includes developing the scheme proposals and carrying out our first public consultation.",
-     "Before the Government's comprehensive spending review in late 2019 we will be making the case for long-term, steady and sustained investment to ensure critical infrastructure projects such as the Holborn and \u003ca href=\"/travel-information/improvements-and-projects/camden-town-capacity-upgrade\"\u003eCamden Town\u003c/a\u003e projects can still be developed.",
+     "{\"template\":\"intro\",\"texts\":[\"We need to make changes at Holborn station to make it easier for customers to enter, exit and move around the station.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/holborn-station-entrance_rdax_400x250.jpg\",\"alt\":\"Holborn station entrance\"},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our proposals\"}",
      "At the busiest times, large numbers of customers are trying to get into and out of the station, as well as changing between the Central and Piccadilly lines. Everyone who uses the station currently has to pass through a single point at the bottom of the main escalators.",
      "During the evening peak, we often have to hold people outside the ticket gates, sometimes for as long as 20 minutes. Demand is set to increase and if we do nothing, these issues will become worse.",
+     "Around 40% of trips from Holborn station in the evening peak are to local stations just a short walk away:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/results?JpType=walking\\u0026InputFrom=Holborn%2C+Holborn+Station\\u0026From=Holborn%2C+Holborn+Station\\u0026FromId=1000112\\u0026InputTo=Temple+%28London%29%2C+Temple\\u0026To=Temple+%28London%29%2C+Temple\\u0026ToId=1000231\\u0026JourneyPreference=leasttime\\u0026Via=\\\"\\u003eTemple - 13 minutes\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/results?InputFrom=Holborn,%20Holborn%20Station\\u0026From=Holborn,%20Holborn%20Station\\u0026FromId=1000112\\u0026InputTo=Farringdon\\u0026ToId=1000080\\u0026JourneyPreference=leasttime\\u0026Mode=walking\\u0026JpType=walking\\u0026iscyclehire=false\\u0026CyclePreference=none\\u0026WalkingOnly=True\\u0026isMultipleJourneySelection=true\\u0026journeytype=Walking\\u0026useMultiModalCall=false\\u0026isEarlierLaterAjaxCall=false\\\"\\u003eFarringdon - 17 minutes\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/results?JpType=walking\\u0026InputFrom=Holborn+Underground+Station\\u0026FromId=1000112\\u0026InputTo=King%27s+Cross+%26+St+Pancras+International\\u0026ToId=1000129\\\"\\u003eKing's Cross - 25 minutes\\u003c/a\\u003e \"]}",
+     "Our map may help you get on the get on the Tube more easily before Holborn station is upgraded.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Walking routes from Holborn\",\"url\":\"/cdn/static/cms/documents/holborn-walking-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.28MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/holborn-walking-map-thumb.jpg\",\"alt\":\"holborn station - thumbnail of walking routes map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Funding\"}",
+     "We are still committed to improving Holborn station, including making the station step-free. But continued lack of certainty around future capital investment from Government means some projects and priorities have had to be adapted.",
+     "We will continue to try to identify third party funding to help with the scheme. The upgrade of Holborn station would support the wider upgrade of the Piccadilly line and we are still making the case to Government for long-term, sustained investment in public transport across London.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our proposals\"}",
      "We believe our customers would benefit from:",
      "{\"template\":\"bulletlist\",\"items\":[\"A new second entrance and exit to the station\",\"More escalators\",\"Step-free access\",\"More space to change between trains\"]}",
      "These improvements would help to stimulate the local economy and generate growth in the Holborn area. A consultation on \u003ca href=\"https://consultations.wearecamden.org/culture-environment/copy-of-copy-of-kentish-town-planning-framework/\"\u003eCamden Council's Vision and Urban Strategy for Holborn\u003c/a\u003e ran until 3 July 2019.",
      "A possible site for a new station entrance would be at the southern end of Procter Street.",
      "{\"template\":\"bulletlist\",\"items\":[\"Escalators from there could provide a direct route to the Central line platforms\",\"There would be a new second route via escalators to the Piccadilly line platforms\",\"We would install lifts at the Kingsway entrance to provide step-free access from street to trains\",\"We would improve the layout of the Kingsway entrance\"]}",
-     "This plan would reduce congestion below ground and relieve pressure on the existing Kingsway entrance. Below ground there would be more space, including a new concourse at the Piccadilly line level.",
+     "This plan would reduce congestion below ground and relieve pressure on the existing Kingsway entrance. Below ground there would be more space, including a new concourse at the Piccadilly line level.",
      "These changes would support future plans to increase the number of trains on the Central and Piccadilly lines.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local meetings\"}",
-     "We worked with \u003ca href=\"http://bee-midtown.org/\"\u003eBee Midtown\u003c/a\u003e (the local Business Improvement District) to hold three engagement sessions in early March 2017. Local stakeholders and businesses were invited.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local partner\"}",
+     "We're working with \u003ca href=\"http://bee-midtown.org/\"\u003eBee Midtown\u003c/a\u003e (the local Business Improvement District) to look at funding opportunities and how to reduce the cost.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Public consultation\"}",
-     "We plan to consult in 2021 on how the proposed new station entrance will be built and how we will manage the impact of construction.",
-     "After that, we hope to apply to the Secretary of State for Transport for a Transport and Works Act Order (TWAO) - permission to do the work - in 2022. It's likely there will then be a public inquiry. Works could start in 2023/4.",
-     "We held a first public consultation on our proposals in late 2017. Our reports on the consultation are on the \u003ca href=\"https://consultations.tfl.gov.uk/tube/holborn-station-upgrade/?intcmp=50013\"\u003eHolborn station capacity improvements consultation page\u003c/a\u003e .",
+     "More consultation is needed on how the proposed new station entrance will be built and how we will manage the impact of construction.",
+     "After that consultation, we would apply to the Secretary of State for Transport for a Transport and Works Act Order (TWAO) - permission to do the work. It's likely there will then be a public inquiry,",
+     "We held a first public consultation on our proposals in 2017. Our reports on the consultation are on the \u003ca href=\"https://consultations.tfl.gov.uk/tube/holborn-station-upgrade/?intcmp=50013\"\u003eHolborn station capacity improvements consultation page\u003c/a\u003e .",
      "For more information, email \u003ca href=\"mailto:holbornstationupgrade@tfl.gov.uk\"\u003eholbornstationupgrade@tfl.gov.uk\u003c/a\u003e ."
     ],
     "link": {
@@ -67,14 +70,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

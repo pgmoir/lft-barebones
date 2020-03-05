@@ -1,5 +1,5 @@
 {
- "keywords": "Bus operators,Bus passengers,Coach drivers,Cyclists,Dial a Ride passengers,Drivers,Freight industry,Motorbikers,Pedestrians,Planning and construction,Taxi and private hire,Taxi passengers,A,C,F,Croydon,Roads,Buses,Coaches,Cycling,Deliveries,Driving,Motorcycle,Taxis and minicabs,TfL",
+ "keywords": "Bus operators,Bus passengers,Coach drivers,Cyclists,Dial a Ride passengers,Drivers,Freight industry,Motorbikers,Pedestrians,Planning and construction,Taxi and private hire,Taxi passengers,A,C,F,Croydon,Consultation,Roads,Buses,Coaches,Cycling,Deliveries,Driving,Motorcycle,Taxis and minicabs,TfL",
  "description": "Our proposals will help make room for growth expected in and around the Fiveways area in Croydon",
  "template": "page-content",
  "breadcrumbs": [
@@ -33,7 +33,6 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We are working with Croydon Council on transport plans to allow for growth expected in the A23/A232 Fiveways area. We hope to begin construction in late 2021 or early 2022.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We plan to submit a planning application later in 2019.",
      "Since a 2017 consultation on our proposals, we have made changes to some areas of the design.",
      "Our detailed response to that consultation, and final proposals showing how we want to move forward with the project, is on the \u003ca href=\"https://consultations.tfl.gov.uk/roads/fiveways/?cid=fiveways-croydon\"\u003eFiveways Croydon consultation page\u003c/a\u003e .",
      "The finished work will help to support the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
@@ -50,14 +49,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {
@@ -78,12 +69,6 @@
     "template": "listgroup",
     "title": "Also on this site",
     "links": [
-     {
-      "title": "A406 Gunnersbury Avenue",
-      "url": "/travel-information/improvements-and-projects/a406-gunnersbury-avenue",
-      "icon": "internal",
-      "image": {}
-     },
      {
       "title": "Camden Town capacity upgrade",
       "url": "/travel-information/improvements-and-projects/camden-town-capacity-upgrade",

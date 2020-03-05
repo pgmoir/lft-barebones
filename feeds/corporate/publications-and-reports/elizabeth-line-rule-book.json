@@ -1,0 +1,61 @@
+{
+ "pageTitle": "Elizabeth line Rule Book",
+ "keywords": "Elizabeth line,Suppliers,E,Crossrail,TfL",
+ "description": "The Elizabeth line Rule Book is for train operators running services on the Crossrail Central Operating Section",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "Elizabeth line Rule Book"
+  }
+ ],
+ "title": {
+  "title": "Elizabeth line Rule Book",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"The Elizabeth line Rule Book has been written specifically for the Crossrail Central Operating Section (CCOS) section of route signalled with Communications Based Train Control (CBTC).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The rules apply between Portobello Junction to Abbey Wood Sidings and Pudding Mill Lane Junction.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/corporate/publications-and-reports/crossrail-central-operating-section\\\"\\u003eSee other CCOS documents\\u003c/a\\u003e \"]}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Elizabeth line Rule Book\",\"url\":\"/cdn/static/cms/documents/elizabeth-line-rule-book.pdf\",\"icon\":\"download\",\"size\":\"PDF 13.16MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

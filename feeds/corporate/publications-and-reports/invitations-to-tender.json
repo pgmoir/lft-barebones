@@ -34,9 +34,9 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"On this page we publish all invitations to tender since April 2014.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL invitations to tender\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-since-april-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"TfL ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-since-apr-14.csv\",\"icon\":\"download\",\"size\":\"CSV 451KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"TfL ITT issued from P9, FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/tfl-itt-p9-p12-2019-2020.csv\",\"icon\":\"download\",\"size\":\"CSV 1KB\",\"image\":{}},{\"title\":\"TfL ITT issued from P9, FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-p9-p12-2019-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 45KB\",\"image\":{}},{\"title\":\"Historical TfL ITT issued after April 2014\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-since-april-2014.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.44MB\",\"image\":{}},{\"title\":\"Historical TfL ITT issued after April 2014\",\"url\":\"/cdn/static/cms/documents/tfl-itt-issued-since-apr-14.csv\",\"icon\":\"download\",\"size\":\"CSV 451KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"GLA invitations to tender\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Greater London Authority ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/gla-itt-issued-since-apr-14.pdf\",\"icon\":\"download\",\"size\":\"PDF 173KB\",\"image\":{}},{\"title\":\"Greater London Authority ITT issued since April 2014\",\"url\":\"/cdn/static/cms/documents/gla-itt-issued-since-apr-14.csv\",\"icon\":\"download\",\"size\":\"CSV 37KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Greater London Authority ITT issued since P9 FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/gla-itt-p9-p12-2019-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 25KB\",\"image\":{}},{\"title\":\"Greater London Authority ITT issued since P9 FY 2019/2020\",\"url\":\"/cdn/static/cms/documents/gla-itt-p9-p12-2019-2020.csv\",\"icon\":\"download\",\"size\":\"CSV 0KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -48,14 +48,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -42,7 +42,7 @@
      "If you are still not satisfied, then the following may be helpful.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Internal disputes resolution procedure\"}",
      "Our dispute resolution procedure (IDR) is designed to resolve any dispute between the Trustees, members, prospective members and beneficiaries.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Download the IDR procedure\",\"url\":\"/cdn/static/cms/documents/idr-procedure.pdf\",\"icon\":\"download\",\"size\":\"PDF 149KB\",\"image\":{}},{\"title\":\"Download the IDRP stage one application form\",\"url\":\"/cdn/static/cms/documents/idrp-stage-one-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 172KB\",\"image\":{}},{\"title\":\"Download the IDPR stage two application form\",\"url\":\"/cdn/static/cms/documents/idpr-stage-two-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 158KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Download the IDR procedure\",\"url\":\"/cdn/static/cms/documents/internal-dispute-resolution-procedure-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 182KB\",\"image\":{}},{\"title\":\"Download the IDRP stage one application form\",\"url\":\"/cdn/static/cms/documents/idrp-stage-one-application-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 127KB\",\"image\":{}},{\"title\":\"Download the IDPR stage two application form\",\"url\":\"/cdn/static/cms/documents/idpr-stage-two-application-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 110KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "If you are not happy with the response, you can ask for the Trustees Appeals Committee to consider your complaint at stage two of the IDR procedure.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The Pensions Advisory Service (TPAS)\"}",
      "TPAS offers free and impartial guidance to people with workplace and personal pensions. You can contact TPAS at:",
@@ -67,14 +67,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

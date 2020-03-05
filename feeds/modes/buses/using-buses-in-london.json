@@ -36,7 +36,8 @@
      "{\"template\":\"intro\",\"texts\":[\"When you travel on a London bus we want you to have the best experience possible. If you haven't used our services before, or it has been some time since your last trip, here are some tips on using our services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Over 6 million people use London's bus services every day and your safety is our priority. We are investing in improving London's bus services, this includes making live information available online and at bus stops, customer service training for bus drivers and using the latest technology for new, greener buses.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Planning your trip\"}",
-     "Our \u003ca href=\"/plan-a-journey/index\"\u003ejourney planner\u003c/a\u003e allows you to plan journeys by public transport across London. If you want to know about bus routes in your area, search our wide range of \u003ca href=\"/maps_/bus-spider-maps\"\u003elocal area maps\u003c/a\u003e . Check for disruptions to your journey on our \u003ca href=\"https://tfl.gov.uk/bus/status/\"\u003ebus status updates\u003c/a\u003e page or follow \u003ca href=\"http://www.twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts on Twitter\u003c/a\u003e .",
+     "Our \u003ca href=\"/plan-a-journey/index\"\u003ejourney planner\u003c/a\u003e allows you to plan journeys by public transport across London. If you want to know about bus routes in your area, search our wide range of \u003ca href=\"/maps_/bus-spider-maps\"\u003elocal area maps\u003c/a\u003e . Check for disruptions to your journey on our \u003ca href=\"https://tfl.gov.uk/bus/status/\"\u003ebus status updates\u003c/a\u003e page or use the \u003ca href=\"http://m.me/tfltravelbot\"\u003eTfL TravelBot\u003c/a\u003e on Facebook Messenger",
+     "Check out all our \u003ca href=\"/status-updates/travel-tools\"\u003etravel tools\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-tap-on-bus_rdax_400x250.jpg\",\"alt\":\"Oyster tap on bus\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Paying for your journey\"}",
      "To make journeys quicker and travelling simpler, all buses in London are now \u003ca href=\"/modes/buses/cash-free-buses\"\u003ecash-free\u003c/a\u003e . This means you will need to have an \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster \u003c/a\u003e card, \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless payment\u003c/a\u003e , a bus and tram pass, a paper Travelcard or Freedom Pass to travel on a London Bus.",
@@ -66,26 +67,13 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Buses",
     "links": [
      {
-      "title": "Temporary bus changes",
-      "url": "/modes/buses/temporary-bus-changes",
-      "image": {}
-     },
-     {
-      "title": "Permanent bus changes",
-      "url": "/modes/buses/permanent-bus-changes",
+      "title": "Bus changes",
+      "url": "/modes/buses/bus-changes",
       "image": {}
      },
      {

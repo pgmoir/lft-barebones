@@ -47,7 +47,8 @@
      "If you used a \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\"\u003epaper ticket\u003c/a\u003e or National Rail smartcard, your refund is transferred into your bank account.",
      "You must claim within 28 days of the delay.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Claim a refund online\"}",
-     "If the delay happened in the last 28 days and you were delayed for 30 minutes or more:",
+     "If the delay happened in the last 28 days and you were delayed for 30 minutes or more you can claim a refund online.",
+     "If you're claiming a refund for a delay on TfL Rail and can't see your station in the list, call us on \u003ca href=\"tel:0343 222 1234\"\u003e0343 222 1234\u003c/a\u003e .",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Or \u003ca href=\"https://contactless.tfl.gov.uk/\"\u003ecreate an account\u003c/a\u003e .",
@@ -72,14 +73,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

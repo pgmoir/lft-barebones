@@ -34,7 +34,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"These terms and conditions apply to TfL's free Transport Data Service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "These licence terms and conditions apply to TfL's free transport data service and are based on version 2.0 of the Open Government Licence with specific amendments for Transport for London (the \"Licence\").  TfL may at any time revise this Licence without notice. It is up to you (\"You\") to regularly review the Licence, which will be available on this website, in case there are any changes. Your continued use of the transport data feeds You have opted to receive (\"Information\") after a change has been made to the Licence will be treated as Your acceptance of that change.",
+     "These licence terms and conditions apply to TfL's free transport data service and are based on version 2.0 of the Open Government Licence with specific amendments for Transport for London (the \"Licence\").  TfL may at any time revise this Licence without notice. It is up to you (\"You\") to regularly review the Licence, which will be available on this website, in case there are any changes. Your continued use of the transport data feeds You have opted to receive (\"Information\") after a change has been made to the Licence will be treated as Your acceptance of that change.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Using Information under this Licence\"}",
      "TfL grants You a worldwide, royalty-free, perpetual, non-exclusive Licence to use the Information subject to the conditions below (as varied from time to time).",
      "This Licence does not affect Your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.",
@@ -44,7 +44,7 @@
      "{\"template\":\"bulletlist\",\"items\":[\"Copy, publish, distribute and transmit the Information\",\"Adapt the Information and\",\"Exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in Your own product or application\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Requirements\"}",
      "You must, where You do any of the above:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Acknowledge TfL as the source of the Information by including the following attribution statement 'Powered by TfL Open Data'\",\"Acknowledge that this Information contains Ordnance Survey derived data by including the following attribution statement: 'Contains OS data © Crown copyright and database rights 2016'\",\"Ensure our intellectual property rights, including all logos, design rights, patents and trademarks, are protected by following our \\u003ca href=\\\"/info-for/open-data-users/design-and-branding\\\"\\u003edesign and branding guidelines\\u003c/a\\u003e \",\"Limit traffic requests up to a maximum of 300 calls per minute per data feed. TfL reserves the right to throttle or limit access to feeds when it is believed the overall service is being degraded by excessive use and\",\"Ensure the information You provide on registration is accurate\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Acknowledge TfL as the source of the Information by including the following attribution statement 'Powered by TfL Open Data'\",\"Acknowledge that this Information contains Ordnance Survey derived data by including the following attribution statement: 'Contains OS data © Crown copyright and database rights 2016' and Geomni UK Map data © and database rights [2019]\",\"Ensure our intellectual property rights, including all logos, design rights, patents and trademarks, are protected by following our \\u003ca href=\\\"/info-for/open-data-users/design-and-branding\\\"\\u003edesign and branding guidelines\\u003c/a\\u003e \",\"Limit traffic requests up to a maximum of 300 calls per minute per data feed. TfL reserves the right to throttle or limit access to feeds when it is believed the overall service is being degraded by excessive use and\",\"Ensure the information You provide on registration is accurate\"]}",
      "These are important conditions of this Licence and if You fail to comply with them the rights granted to You under this Licence, or any similar licence granted by TfL, will end automatically.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exemptions\"}",
      "This Licence does not:",
@@ -70,14 +70,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -144,11 +136,6 @@
       "image": {}
      },
      {
-      "title": "Technology Innovation Portal",
-      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
-      "image": {}
-     },
-     {
       "title": "TfL call charges",
       "url": "/corporate/terms-and-conditions/tfl-call-charges",
       "image": {}
@@ -187,11 +174,21 @@
       "title": "DLR Discovery",
       "url": "/corporate/terms-and-conditions/dlr-discovery",
       "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "url": "/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
+      "image": {}
      }
     ],
     "link": {
      "title": "Terms \u0026 conditions",
-     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
      "image": {}
     },
     "image": {},

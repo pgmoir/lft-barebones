@@ -1,0 +1,90 @@
+{
+ "pageTitle": "Hammersmith Bridge",
+ "keywords": "H,Hammersmith \u0026 Fulham,Richmond upon Thames,Expenditure,Freight,Roads,Buses,Coaches,Cycling,Deliveries,Driving,Motorcycle,Walking,TfL",
+ "description": "We are working with Hammersmith \u0026 Fulham Council on plans to repair the bridge",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Hammersmith Bridge"
+  }
+ ],
+ "title": {
+  "title": "Hammersmith Bridge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Hammersmith Bridge is currently closed to motorised traffic while we plan the extensive repairs needed to protect it for the future. We want to hear your views on proposals for a temporary walking and cycling bridge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We are supporting Hammersmith \u0026 Fulham Council with the repairs. It's likely we will need to completely close the bridge to do this work as quickly and safely as possible. The Council has asked us to consider installing a temporary walking and cycling bridge to keep this essential link across the river open.",
+     "At the moment people are able to walk and cycle across Hammersmith Bridge, many of them heading to and from Tube and bus services at Hammersmith station.",
+     "See our \u003ca href=\"/status-updates/major-works-and-events/hammersmith-bridge-closure\"\u003etravel advice for Hammersmith Bridge\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Temporary bridge\"}",
+     "The temporary bridge we're proposing is a seven metre wide, prefabricated steel structure, supported by two piers in the river. The bridge would be step free, with a 5.5 metre-wide surface for people walking and cycling. Access would be by shallow ramps from Queen Caroline Street on the north bank and from close to the junction of Castelnau and Riverview Gardens on the south bank.",
+     "We will need planning permission from both Richmond and H\u0026F Councils to build the temporary bridge.",
+     "We also want to ensure that areas around the landing points of the temporary bridge are fully restored for the benefit of the local community once all the main bridge repair works have been finished and the temporary bridge has been removed.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Have your say\"}",
+     "We know this proposal will attract a range of views - we want to understand these as soon as possible.",
+     "More details about our plans for the temporary bridge along with a feedback form will be available here from 14 March 2020.",
+     "We're also hosting public drop-in exhibitions where you can come and find out more about our proposals:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday 14 March 2020, 11.00 to 15.00, Riverside Studios, Hammersmith W6 9BN\",\"Tuesday 17 March 2020, 18.00 to 21.00, Castelnau Community Centre, Barnes, SW13 9AQ.\",\"Thursday 19 March 2020, 16.00 to 20.00, Riverside Studios, Hammersmith W6 9BN\",\"Saturday 21 March 2020, 13.00 to 17.00, St Michael \\u0026 All Angels, Barnes SW13 0NX\"]}",
+     "Send us your views by 23:59 on 22 March 2020 by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Filling in our feedback form (available from 14 March 2020)\",\"Emailing us at \\u003ca href=\\\"mailto:HammersmithBridge@tfl.gov.uk?subject=Temporary%20Hammersmith%20Bridge\\\"\\u003eHammersmithBridge@tfl.gov.uk\\u003c/a\\u003e \",\"Or writing to us at: Freepost, TfL Feedback (no stamp required)\"]}",
+     "Let us know if you want a paper copy of the feedback form."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Hammersmith Bridge closure",
+      "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

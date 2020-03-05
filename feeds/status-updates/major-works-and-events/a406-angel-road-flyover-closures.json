@@ -1,0 +1,80 @@
+{
+ "pageTitle": "A406 Angel Road flyover closures",
+ "keywords": "TfL",
+ "description": "A406 Angel Road part closure",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "A406 Angel Road flyover closures"
+  }
+ ],
+ "title": {
+  "title": "A406 Angel Road flyover closures",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We need to do safety work on the A406 near Tottenham (Angel Road flyover). We will carry out the work at weekends, closing the road in a different direction each weekend.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "From 22:00 Saturday 23 November to 00:01 (morning) Monday 25 November 2019 there will be an eastbound closure of the A406 near Tottenham (at the Angel Road flyover). One westbound lane will also be closed",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "Traffic will be diverted around the closure using slip roads. These have lower capacity, and traffic lights, so there are likely to be long delays for anyone using this route.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Journeys across London\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There will be significant delays in the area\",\"Use another route (such as the M25) if possible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Journeys to the area\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you have to drive, allow more time for your journey\",\"All main approach roads and surrounding local roads will be extremely busy. There will be delays to road journeys\",\"We will maintain local access via the slip road\",\"Use alternatives to driving if at all possible (the best ways of reaching this area include London Overground and National Rail)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Deliveries and servicing\"}",
+     "Delivery and servicing trips will be affected by the closures and delays.",
+     "{\"template\":\"bulletlist\",\"items\":[\"If you are a local business, consider \\u003ca href=\\\"/info-for/deliveries-in-london/delivering-efficiently\\\"\\u003eretiming your deliveries\\u003c/a\\u003e \",\"If you are making delivery trips across London, use the M25 if possible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "All bus stops will remain open.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus services 34 and 444 will be diverted around the closure via the slip road and severely delayed\",\"Buses on local roads around the Angel Road flyover may be delayed by heavy traffic\"]}",
+     "Find out how your bus may be affected at \u003ca href=\"http://www.tfl.gov.uk/bus/status\"\u003ewww.tfl.gov.uk/bus/status\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coaches\"}",
+     "Coaches will be diverted around the closures via the slip roads and  severely delayed. Contact your coach operator for details and allow plenty of time for your journey.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "These works do not affect other TfL or transport services, including London Overground services from Liverpool Street to Enfield Town / Cheshunt, and Greater Anglia National Rail services."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

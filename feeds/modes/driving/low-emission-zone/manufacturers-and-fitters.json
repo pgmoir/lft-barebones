@@ -38,18 +38,19 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Manufacturers and fitters must be accredited to offer approved devices and services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Abatement technology used to meet the current Low Emission Zone (LEZ) standards will not be enough to meet the \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003etougher Euro VI emissions standards for LEZ\u003c/a\u003e coming on 26 October 2020.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Getting accredited\"}",
-     "Manufacturers of abatement equipment need to get their equipment\n        accredited by one of our recognised\n        certification bodies before it can be added to the list of approved\n        devices available to operators. This ensures that approved filters meet\n        minimum technical standards and that vehicles fitting these\n        approved filters meet the Low Emission Zone (LEZ) emissions standards.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Manufacturers of pollution abatement equipment in Great Britain\"}",
+     "Manufacturers of abatement equipment need to get their equipment accredited by one of our recognised certification bodies before it can be added to the list of approved devices available to operators. This ensures that approved filters meet minimum technical standards and that vehicles fitting these approved filters meet the LEZ emissions standards.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Manufacturers of pollution abatement equipment in United Kingdom\"}",
      "It is the responsibility of manufacturers and suppliers to certify their pollution abatement equipment.",
-     "Pollution abatement equipment can be added to the Low Emissions\n        Certificate (LEC) Approved Devices List if evidence is provided to one\n        of our recognised certification bodies that it meets reduced emissions\n        requirements.",
-     "Certified abatement equipment can also be added to the Reduced\n        Pollution Certificate (RPC) Approved Devices List if evidence is\n        provided to the Vehicle Certification Agency that it meets all scheme\n        requirements.",
+     "Pollution abatement equipment can be added to the Low Emissions Certificate (LEC) Approved Devices List if evidence is provided to one of our recognised certification bodies that it meets reduced emissions requirements.",
+     "Certified abatement equipment can also be added to the Reduced Pollution Certificate (RPC) Approved Devices List if evidence is provided to the Vehicle Certification Agency that it meets all scheme requirements.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LEC approved device list\",\"url\":\"/ruc-cdn/static/cms/documents/lec-approved-device-list.pdf\",\"icon\":\"download\",\"size\":\"PDF 47KB\",\"image\":{}},{\"title\":\"LEC guidance notes for applicants\",\"url\":\"/ruc-cdn/static/cms/documents/lec-guidance-notes-for-applicants.pdf\",\"icon\":\"download\",\"size\":\"PDF 113KB\",\"image\":{}},{\"title\":\"LEC technical requirements for manufacturers\",\"url\":\"/ruc-cdn/static/cms/documents/lec-technical-requirements-for-manufacturers.pdf\",\"icon\":\"download\",\"size\":\"PDF 145KB\",\"image\":{}},{\"title\":\"LEC certification body application form\",\"url\":\"/ruc-cdn/static/cms/documents/lec-certification-body-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 87KB\",\"image\":{}},{\"title\":\"LEC company approval guidance notes\",\"url\":\"/ruc-cdn/static/cms/documents/lec-company-approval-guidance-notes.pdf\",\"icon\":\"download\",\"size\":\"PDF 115KB\",\"image\":{}},{\"title\":\"LEC general approval checklist\",\"url\":\"/ruc-cdn/static/cms/documents/lec-general-approval-checklist.pdf\",\"icon\":\"download\",\"size\":\"PDF 102KB\",\"image\":{}},{\"title\":\"TfL-appointed LEC certification bodies\",\"url\":\"/ruc-cdn/static/cms/documents/list-of-tfl-recognised-lec-certification-bodies.pdf\",\"icon\":\"download\",\"size\":\"PDF 15KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Manufacturers of pollution abatement equipment outside Great Britain\"}",
-     "Vehicles not registered in Great Britain and fitted with abatement\n        equipment may register with us providing evidence that they meet the\n        required emissions standards for particulate matter (PM).",
-     "We will require evidence of the equipment fitted to the vehicle, and\n        the resulting emissions levels for PM. This evidence\n        will be:",
-     "{\"template\":\"bulletlist\",\"items\":[\"The vehicle registration documents\",\"A declaration of fitting of the pollution abatement equipment. This\\n            must clearly identify the equipment fitted, the vehicle details and the PM emissions standard achieved, together with the national type\\n            approval or certification authority which has certified the emissions\\n            achieved\"]}",
-     "Manufacturers are advised to contact us if they are uncertain as to\n        whether their device meets LEZ emissions standards."
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Manufacturers of pollution abatement equipment outside the United Kingdom\"}",
+     "Vehicles not registered in the United Kingdom and fitted with abatement equipment may register with us providing evidence that they meet the required emissions standards for particulate matter (PM).",
+     "We will require evidence of the equipment fitted to the vehicle, and the resulting emissions levels for PM. This evidence will be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The vehicle registration documents\",\"A declaration of fitting of the pollution abatement equipment. This must clearly identify the equipment fitted, the vehicle details and the PM emissions standard achieved, together with the national type approval or certification authority which has certified the emissions achieved\"]}",
+     "Manufacturers are advised to \u003ca href=\"/modes/driving/low-emission-zone/contact-lez\"\u003econtact us\u003c/a\u003e if they are uncertain as to whether their device meets LEZ emissions standards."
     ],
     "link": {
      "image": {}
@@ -88,6 +89,16 @@
      {
       "title": "Check if your vehicle is affected",
       "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+      "url": "/modes/driving/low-emission-zone/lorries-vans-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and specialist diesel vehicles",
+      "url": "/modes/driving/low-emission-zone/vans-minibuses-and-specialist-diesel-vehicles",
       "image": {}
      },
      {
@@ -191,15 +202,6 @@
      }
     ],
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@",
      "image": {}
     },
     "image": {},

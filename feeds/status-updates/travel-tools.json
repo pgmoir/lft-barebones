@@ -18,9 +18,7 @@
   }
  ],
  "title": {
-  "complex": true,
   "title": "Travel tools",
-  "background": "https://tfl.gov.uk/cdn/static/cms/images/promos/traveltools-header.jpg",
   "card": {
    "link": {
     "image": {}
@@ -32,18 +30,36 @@
  "body": {
   "primarys": [
    {
-    "title": "All the travel tools you'll need to check your travel",
+    "style": "card-top ",
+    "title": "Live arrivals and departures",
     "texts": [
-     "In a city as complex as London, it's best to check your journey in advance, and again on the day. We have a number of tools to help you however you travel around London."
+     "Get times for bus, Tube, London Overground, TfL Rail, DLR, trams and river"
     ],
     "link": {
+     "url": "/travel-information/stations-stops-and-piers/index",
      "image": {}
     },
-    "image": {},
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/traveltools-promo.jpg"
+    },
     "wrapped": false
    }
   ],
   "cards": [
+   {
+    "title": "Planned closures",
+    "texts": [
+     "See planned track closures and significant changes for the coming months"
+    ],
+    "link": {
+     "url": "/status-updates/planned-track-closures",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/planned-closures-700x350_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
    {
     "title": "Status updates",
     "texts": [
@@ -54,7 +70,7 @@
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/status-updates-tt_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/staus-updates-icon-700x350_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -74,24 +90,9 @@
     "wrapped": false
    },
    {
-    "title": "Travel advice on Twitter",
+    "title": "Email updates",
     "texts": [
-     "Subscribe to alerts and check travel news across London"
-    ],
-    "link": {
-     "url": "http://twitter.com/messages/compose?recipient_id=355994177",
-     "icon": "external",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/twitter-travel_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Email alerts",
-    "texts": [
-     "Sign up for email travel alerts about your journey"
+     "Sign up for customer service email updates"
     ],
     "link": {
      "url": "/travel-information/social-media-and-email-updates/email-updates",
@@ -99,20 +100,6 @@
     },
     "image": {
      "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/email-alerts_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Busiest times",
-    "texts": [
-     "Find the busiest times at your Tube station for a more comfortable journey"
-    ],
-    "link": {
-     "url": "/status-updates/busiest-times-to-travel",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/busiest-times_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -129,6 +116,20 @@
      "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/major-work-events_rdax_400x200.jpg"
     },
     "wrapped": false
+   },
+   {
+    "title": "Busiest times",
+    "texts": [
+     "Find the busiest times at your Tube station for a more comfortable journey"
+    ],
+    "link": {
+     "url": "/status-updates/busiest-times-to-travel",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/busiest-times_rdax_400x200.jpg"
+    },
+    "wrapped": false
    }
   ]
  },
@@ -143,21 +144,17 @@
     "wrapped": false
    },
    {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
     "template": "listgroup",
     "title": "Also on this site",
     "links": [
-     {
-      "title": "Stations, stops \u0026 piers",
-      "url": "/travel-information/stations-stops-and-piers/index",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Social media \u0026 email updates",
-      "url": "/travel-information/social-media-and-email-updates/index",
-      "icon": "internal",
-      "image": {}
-     },
      {
       "title": "Travel advice for road users",
       "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
@@ -175,6 +172,18 @@
       "url": "/campaign/station-wifi",
       "icon": "internal",
       "image": {}
+     },
+     {
+      "title": "Station pages",
+      "url": "/travel-information/stations-stops-and-piers/index",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Fare finder",
+      "url": "/fares/find-fares",
+      "icon": "internal",
+      "image": {}
      }
     ],
     "link": {
@@ -188,14 +197,6 @@
     "texts": [
      "Our data powers over 600 travel apps in the UK. We've committed to making our open data freely available to developers to deliver new apps and services for you."
     ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "advert",
     "link": {
      "image": {}
     },

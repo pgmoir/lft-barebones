@@ -113,8 +113,8 @@
       "image": {}
      },
      {
-      "title": "Bikes on public transport",
-      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
       "icon": "internal",
       "image": {}
      }
@@ -180,15 +180,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@LondonDLR",
      "image": {}
     },
     "image": {},

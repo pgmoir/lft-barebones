@@ -33,11 +33,11 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"TfL Rail timetables from December 2018 to December 2019\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"TfL Rail timetables from December 2019 to May 2020\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Liverpool Street to Shenfield\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Liverpool Street to Shenfield timetable, from 19 May to 14 December 2019\",\"url\":\"/cdn/static/cms/documents/liverpool-st-shenfield-19-may-14-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 163KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Paddington to Heathrow Terminal 4\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Paddington to Heathrow Terminal 4 timetable, from 19 May to 14 December 2019\",\"url\":\"/cdn/static/cms/documents/paddington-heathrow-19-may-14-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 128KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Liverpool Street to Shenfield from 15 December 2019 to 16 May 2020\",\"url\":\"/cdn/static/cms/documents/tfl-rail-liverpool-street-shenfield-timetable-15-dec-2019-to-16-may-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 164KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Paddington to Heathrow Terminal 4 / Reading\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Paddington to Heathrow Terminal 4 / Reading timetable from 15 December 2019 to 16 May 2020\",\"url\":\"/cdn/static/cms/documents/tfl-rail-west-dec-2019-to-may-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 433KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -49,14 +49,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -62,14 +62,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Security on the network",
@@ -137,8 +129,8 @@
     "title": "Related websites",
     "links": [
      {
-      "title": "Safer Transport Command",
-      "url": "http://content.met.police.uk/Site/safertransport",
+      "title": "British Transport Police",
+      "url": "http://www.btp.police.uk/",
       "icon": "external",
       "image": {}
      },

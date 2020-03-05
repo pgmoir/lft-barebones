@@ -38,7 +38,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"You can keep us up to date about any changes by downloading and sending in the relevant form below.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Opt-in application form\",\"url\":\"/cdn/static/cms/documents/opt-in-application-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 116KB\",\"image\":{}},{\"title\":\"AVC enquiry\",\"url\":\"/cdn/static/cms/documents/avc-enquiry.pdf\",\"icon\":\"download\",\"size\":\"PDF 185KB\",\"image\":{}},{\"title\":\"Change of address\",\"url\":\"/cdn/static/cms/documents/change-of-address-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 95KB\",\"image\":{}},{\"title\":\"Change of bank details\",\"url\":\"/cdn/static/cms/documents/change-of-bank-details.pdf\",\"icon\":\"download\",\"size\":\"PDF 97KB\",\"image\":{}},{\"title\":\"Change of address and bank details\",\"url\":\"/cdn/static/cms/documents/change-of-address-and-bank-details.pdf\",\"icon\":\"download\",\"size\":\"PDF 97KB\",\"image\":{}},{\"title\":\"Transfer out enquiry\",\"url\":\"/cdn/static/cms/documents/transfer-out-enquiry.pdf\",\"icon\":\"download\",\"size\":\"PDF 94KB\",\"image\":{}},{\"title\":\"Link up enquiry\",\"url\":\"/cdn/static/cms/documents/link-up-enquiry.pdf\",\"icon\":\"download\",\"size\":\"PDF 105KB\",\"image\":{}},{\"title\":\"Expression of wish\",\"url\":\"/cdn/static/cms/documents/expression-of-wish.pdf\",\"icon\":\"download\",\"size\":\"PDF 152KB\",\"image\":{}},{\"title\":\"Opt-out\",\"url\":\"/cdn/static/cms/documents/opt-out-form.pdf\",\"icon\":\"download\",\"size\":\"PDF 185KB\",\"image\":{}},{\"title\":\"International payment form\",\"url\":\"/cdn/static/cms/documents/international-payment-mandate.pdf\",\"icon\":\"download\",\"size\":\"PDF 187KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Opt-in Application Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/opt-in-application-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 88KB\",\"image\":{}},{\"title\":\"AVC Enquiry Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/avc-enquiry-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 139KB\",\"image\":{}},{\"title\":\"Change of Address Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/change-of-address-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 77KB\",\"image\":{}},{\"title\":\"Change of UK Bank Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/change-of-bank-details.pdf\",\"icon\":\"download\",\"size\":\"PDF 97KB\",\"image\":{}},{\"title\":\"Change of Address and Bank Details Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/change-of-address-and-bank-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 78KB\",\"image\":{}},{\"title\":\"Transfer-out Enquiry Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/transfer-out-enquiry-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 76KB\",\"image\":{}},{\"title\":\"Link-up Enquiry Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/link-up-enquiry-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 83KB\",\"image\":{}},{\"title\":\"Expression of Wish Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/expression-of-wish-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 124KB\",\"image\":{}},{\"title\":\"Opting-out Enquiry Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/opting-out-enquiry-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 88KB\",\"image\":{}},{\"title\":\"International Payment Mandate Form (January 2020)\",\"url\":\"/cdn/static/cms/documents/international-payment-mandate-form-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 134KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -50,14 +50,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

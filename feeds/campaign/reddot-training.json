@@ -1,0 +1,79 @@
+{
+ "pageTitle": "RedDot training - section",
+ "keywords": "TfL",
+ "description": "Internal training page for TfL's CMS users",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Campaigns",
+   "url": "/campaign/index"
+  },
+  {
+   "title": "RedDot training - section"
+  }
+ ],
+ "title": {
+  "title": "RedDot training - section",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "title": "A section page can have a heading",
+    "texts": [
+     "Unlike an introduction on a standard content page, a Section page intro can have:",
+     "Bullets",
+     "Bolding",
+     "Links",
+     "and even...",
+     "... line breaks.",
+     "The 1400 X 512 image is optional."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "RedDot test standard teaser",
+    "texts": [
+     "This is the teaser text - maximum 85 characters including spaces"
+    ],
+    "link": {
+     "url": "/modes/buses/index",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/1croydon-350_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

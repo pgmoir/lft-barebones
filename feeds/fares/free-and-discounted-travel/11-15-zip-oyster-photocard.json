@@ -40,7 +40,7 @@
      "{\"template\":\"intro\",\"texts\":[\"Children aged 11-15 can get free and discounted travel on all our transport services with a Zip Oyster photocard.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/11-15-zip-card_rdax_400x250.jpg\",\"alt\":\"11-15 oyster zip card\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benefits\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Free travel on buses and trams\",\"Child rate fares on Tube, DLR, London Overground, TfL Rail and Emirates Air Line\",\"50% off most fares on \\u003ca href=\\\"http://www.nationalrail.co.uk/times_fares/46494.aspx\\\"\\u003eNational Rail services\\u003c/a\\u003e \",\"50% off adult rate tickets on the \\u003ca href=\\\"/modes/river/about-river-bus\\\"\\u003eThames Clippers River Bus services\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Free travel on buses and trams\",\"Child rate pay as you go fares on Tube, DLR, London Overground, TfL Rail (excluding between West Drayton and Reading) and Emirates Air Line\",\"50% off most fares on \\u003ca href=\\\"http://www.nationalrail.co.uk/times_fares/46494.aspx\\\"\\u003eNational Rail services\\u003c/a\\u003e \",\"50% off adult rate tickets on the \\u003ca href=\\\"/modes/river/about-river-bus\\\"\\u003eThames Clippers River Bus services\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Who is it for?\"}",
      "Children aged over 10 years and 11 months, and under 16 on 31 August can get an 11-15 Zip Oyster photocard.",
      "If your child was 15 on 31 August, they can still apply for and use an 11-15 Zip Oyster photocard, even though they'll use it when they're 16.",
@@ -104,14 +104,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -38,7 +38,7 @@
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 1 - Introduction\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 2 - Setting up an account\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 3 - What you can do with an Oyster card attached to a TfL online account\"}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 4 - What you can do with a contactless card attached to a TfL online  account\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 4 - What you can do with a contactless card attached to a TfL online account\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 5 - Auto top-up\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 6 - Web credits\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Section 7 - Privacy Notices\"}",
@@ -49,8 +49,10 @@
      "Transport for London (TfL), its subsidiaries and service providers, will use your personal information for the purposes of customer services and administration, the provision of travel related information, customer research and fraud prevention. If you use your Oyster card in connection with National Rail products or services, or London river services you will also be authorising TfL to share your personal information with relevant Train Operating Companies (TOCs) and river service operators so that they can use it for the same purposes. Your personal information will be properly safeguarded and processed in accordance with the requirements of Data Protection legislation.",
      "In certain circumstances, TfL, relevant TOCs and river service operators may also share your personal information with the police and other law enforcement agencies for the purposes of the prevention or detection of crime.",
      "For further information, please visit \u003ca href=\"http://www.tfl.gov.uk/privacy\"\u003ewww.tfl.gov.uk/privacy\u003c/a\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CPC Privacy Notice\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contactless Privacy Notice\"}",
+     "Transport for London (TfL), its subsidiaries and service providers, will use your personal information for the purposes of customer services and administration, the provision of travel related information, customer research and fraud prevention. If you use your contactless payment card in connection with National Rail products or services, or London river services you will also be authorising TfL to share your personal information with relevant Train Operating Companies (TOCs) and river service operators so that they can use it for the same purposes. Your personal information will be properly safeguarded and processed in accordance with the requirements of Data Protection legislation.",
      "In certain circumstances, TfL, relevant TOCs and river service operators may also share your personal information with the police and other law enforcement agencies for the purposes of the prevention or detection of crime.",
+     "For further information, please visit \u003ca href=\"http://www.tfl.gov.uk/privacy \"\u003ewww.tfl.gov.uk/privacy\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Zip Oyster photocards\"}",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://photocard.tfl.gov.uk/tfl/terms.do\\\"\\u003e5-10 Zip Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://photocard.tfl.gov.uk/tfl/terms.do\\\"\\u003e11-15 Zip Oyster photocard\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://photocard.tfl.gov.uk/tfl/terms.do\\\"\\u003e16+ Zip Oyster photocard\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Adult discounts and concessions\"}",
@@ -67,14 +69,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -146,11 +140,6 @@
       "image": {}
      },
      {
-      "title": "Technology Innovation Portal",
-      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
-      "image": {}
-     },
-     {
       "title": "TfL call charges",
       "url": "/corporate/terms-and-conditions/tfl-call-charges",
       "image": {}
@@ -189,11 +178,21 @@
       "title": "DLR Discovery",
       "url": "/corporate/terms-and-conditions/dlr-discovery",
       "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "url": "/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
+      "image": {}
      }
     ],
     "link": {
      "title": "Terms \u0026 conditions",
-     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
      "image": {}
     },
     "image": {},

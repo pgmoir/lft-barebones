@@ -1,0 +1,143 @@
+{
+ "pageTitle": "Workplace Parking Levies",
+ "keywords": "TfL",
+ "description": "We have guidance materials available to help your borough set up a Workplace Parking Levy",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Boroughs and communities",
+   "url": "/info-for/boroughs/index"
+  },
+  {
+   "title": "Planning \u0026 resources",
+   "url": "/info-for/boroughs/planning-and-resources"
+  },
+  {
+   "title": "Workplace Parking Levies"
+  }
+ ],
+ "title": {
+  "title": "Workplace Parking Levies",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We have tools and guidance to help boroughs put Workplace Parking Levies in place.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "A Workplace Parking Levy (WPL) is a charge on employers and education organisations for the number of parking places they provide that are regularly used by employees, students or others.",
+     "WPLs are used to encourage commuters to switch away from using private vehicles to get to work or school - this will help us meet the Mayor's aim that 80% of trips in London be made by walking, cycling or by public transport by 2041. The revenue raised will be spent on improving local transport.",
+     "The Mayor of London's support for boroughs planning to introduce WPLs as part of their traffic reduction strategies is set out in Proposal 23 of the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "Boroughs that want to develop a WPL should review the statutory guidance. A model Scheme Order (and accompanying Explanatory Note for boroughs) is also available - contact us on the email below.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Mayor's guidance on WPL\",\"url\":\"/cdn/static/cms/documents/wpl-mayors-guidance-jan2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 883KB\",\"image\":{}},{\"title\":\"Step-by-step guide to developing a WPL\",\"url\":\"/cdn/static/cms/documents/step-by-step.pdf\",\"icon\":\"download\",\"size\":\"PDF 214KB\",\"image\":{}},{\"title\":\"Frequently asked questions on WPLs\",\"url\":\"/cdn/static/cms/documents/wpl-faqs-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 266KB\",\"image\":{}},{\"title\":\"Modelling the impact of WPLs in London\",\"url\":\"/cdn/static/cms/documents/demand-modelling-report-for-wpls.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.39MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Our advice notes can help boroughs take the first steps to creating a WPL.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Advice note one - Carrying out an initial parking survey\",\"url\":\"/cdn/static/cms/documents/advice-note-one-carrying-out-an-initial-parking-survey.pdf\",\"icon\":\"download\",\"size\":\"PDF 94KB\",\"image\":{}},{\"title\":\"Advice note two - Description and impacts of the Nottingham City Council WPL\",\"url\":\"/cdn/static/cms/documents/advice-note-two-description-and-impacts-of-nottingham-city-council-wpl.pdf\",\"icon\":\"download\",\"size\":\"PDF 100KB\",\"image\":{}},{\"title\":\"Advice note three - Business survey toolkit\",\"url\":\"/cdn/static/cms/documents/advice-note-three-business-survey-toolkit.pdf\",\"icon\":\"download\",\"size\":\"PDF 90KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We can help interested boroughs build the evidence base for a new scheme and ensure it meets the requirements of the Mayor's Transport Strategy.",
+     "Our information on \u003ca href=\"/info-for/business-and-commercial/smart-commuting\"\u003eSmart commuting\u003c/a\u003e can also help with the implementation of a WPL.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Contact us\"}",
+     "We can help you plan the WPLs in your borough.",
+     "Email: \u003ca href=\"mailto:wpl@tfl.gov.uk\"\u003ewpl@tfl.gov.uk\u003c/a\u003e "
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Boroughs and communities",
+    "links": [
+     {
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
+     },
+     {
+      "title": "Professional services frameworks",
+      "url": "/info-for/boroughs/professional-services-frameworks",
+      "image": {}
+     },
+     {
+      "title": "Low Emission Neighbourhoods",
+      "url": "/info-for/boroughs/low-emission-neighbourhoods",
+      "image": {}
+     },
+     {
+      "title": "Cycling toolkit",
+      "url": "/info-for/boroughs/cycling-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Legible London",
+      "url": "/info-for/boroughs/legible-london",
+      "image": {}
+     },
+     {
+      "title": "Bus lane database",
+      "url": "/info-for/boroughs/bus-lane-database",
+      "image": {}
+     },
+     {
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

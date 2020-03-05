@@ -36,7 +36,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We prefer that your vehicle meets the Ultra Low Emission Zone (ULEZ) standards so you don't need to pay the charge. If you do need to pay, charging days run from midnight to midnight, every day of the year.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"We prefer that your vehicle meets the Ultra Low Emission Zone (ULEZ) standards so you don't need to pay the charge. If you do need to pay, charging days run from midnight to midnight, every day of the year (except Christmas Day).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "You can pay by midnight on the day of the journey or up to 90 days in advance. The daily charge is:",
      "{\"template\":\"bulletlist\",\"items\":[\"£12.50 for cars, smaller vans, motorbikes and other lighter vehicles\",\"£100 for lorries, buses, coaches and other heavier vehicles\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"When to pay\"}",
@@ -47,6 +47,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Online\"}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "\u003cstrong\u003eDon't pay through unofficial websites which may mislead you.\u003c/strong\u003e You should always pay ULEZ charges with us on our secure online system. Read more on \u003ca href=\"/modes/driving/unofficial-selling-websites\"\u003eavoiding payment fraud\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Auto Pay\"}",
      "Auto Pay bills you automatically every month for any Congestion Charges and ULEZ charges you may owe. \u003ca href=\"/modes/driving/auto-pay\"\u003eSet up Auto Pay.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Pay to drive in London app\"}",
@@ -134,8 +135,18 @@
       "image": {}
      },
      {
-      "title": "Scrappage scheme",
+      "title": "Scrappage scheme for vans and minibuses",
       "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/car-and-motorcycle-scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Organisations supporting ULEZ scrappage schemes",
+      "url": "/modes/driving/ultra-low-emission-zone/organisations-supporting-ulez-scrappage-schemes",
       "image": {}
      },
      {

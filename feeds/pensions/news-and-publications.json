@@ -35,7 +35,7 @@
     "texts": [
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"title\":\"On the Move\",\"link\":{\"url\":\"/pensions/news-and-publications/on-the-move\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/big-ben-aerial_rdax_400x200.jpg\"},\"wrapped\":true}",
-     "{\"template\":\"listgroup\",\"title\":\"News and updates\",\"links\":[{\"title\":\"April 2019 pension increase\",\"url\":\"/pensions/news-and-publications/april-2019-pension-increase\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"title\":\"News and updates\",\"links\":[{\"title\":\"Maximising Additional Voluntary Contributions for 2019/20\",\"url\":\"/pensions/news-and-publications/maximising-additional-voluntary-contributions-for-2019-20\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"PCC election results 2019\",\"url\":\"/pensions/news-and-publications/pcc-election-results-2019\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Pension Fund office move\",\"url\":\"/pensions/news-and-publications/pension-fund-office-move\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Publications\",\"link\":{\"url\":\"/pensions/news-and-publications/publications\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/box-junction_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"News archive\",\"url\":\"/pensions/news-and-publications/news-archive\",\"icon\":\"internal\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
@@ -50,14 +50,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -161,6 +153,26 @@
      {
       "title": "Annual report on Sustainable Investing published",
       "url": "/pensions/news-and-publications/annual-report-on-sustainable-investment-published",
+      "image": {}
+     },
+     {
+      "title": "Annual Members' Meeting 2019",
+      "url": "/pensions/news-and-publications/annual-members-meeting-2019",
+      "image": {}
+     },
+     {
+      "title": "Pension fund office move",
+      "url": "/pensions/news-and-publications/pension-fund-office-move",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2019",
+      "url": "/pensions/news-and-publications/pcc-election-results-2019",
+      "image": {}
+     },
+     {
+      "title": "Maximising Additional Voluntary Contributions for 2019/20",
+      "url": "/pensions/news-and-publications/maximising-additional-voluntary-contributions-for-2019-20",
       "image": {}
      },
      {

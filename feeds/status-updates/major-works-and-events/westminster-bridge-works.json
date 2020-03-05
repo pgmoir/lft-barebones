@@ -1,0 +1,206 @@
+{
+ "pageTitle": "Westminster Bridge works",
+ "keywords": "TfL",
+ "description": "Westminster Bridge closure travel advice",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Westminster Bridge works"
+  }
+ ],
+ "title": {
+  "title": "Westminster Bridge works",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Until late November 2019, Westminster Bridge is closed to westbound traffic and Bridge Street will be closed in both directions. The bridge will remain open for cyclists, buses and licensed taxis (not private hire vehicles).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The road and bridge are being closed so that Westminster City Council can replace the temporary barriers on Bridge Street and install security gates across Bridge Street.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bridge-street-impact-area-700x438-image.jpg\",\"alt\":\"Bridge Street works - impact map\"},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Westminster Bridge works - impact mp\",\"url\":\"/cdn/static/cms/documents/bridge-street-impact-area.pdf\",\"icon\":\"download\",\"size\":\"PDF 650KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "Westminster Bridge is closed to westbound traffic (traffic crossing to the North side of the river from south London). Bridge Street is closed in both directions.",
+     "{\"template\":\"bulletlist\",\"items\":[\"There are delays on the approaches to Westminster Bridge, Parliament Square and the surrounding areas\",\"Use Vauxhall Bridge and the Inner Ring Road south of the river for a quicker journey across London\",\"There is often disruption in and around Parliament Square due to planned works, events and protests. Consider alternatives to driving if possible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Deliveries and servicing\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There are marshals at the site around the clock to help with deliveries to businesses within the area of the works\",\"The roadworks and closures are causing delays to deliveries\",\"Find out more about \\u003ca href=\\\"/info-for/deliveries-in-london/delivering-efficiently\\\"\\u003ehow changing your deliveries\\u003c/a\\u003e can improve the efficiency of your business.\"]}",
+     "See our \u003ca href=\"http://tfl.gov.uk/traffic/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future%20date\u0026direction=\u0026startDate=2018-12-14T00%3A00%3A00\u0026endDate=2018-12-14T23%3A59%3A59\u0026disruptionIds=TIMS-202397\u0026intcmp=56354\"\u003estatus updates for the works\u003c/a\u003e . Follow \u003ca href=\"https://twitter.com/TfLTrafficNews\"\u003e@TfLTrafficNews\u003c/a\u003e on Twitter for the latest updates.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "Buses are continuing to use Westminster Bridge in both directions, but are on diversion around the Bridge Street closure.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://tfl.gov.uk/bus/route/12/?direction=outbound\\\"\\u003eRoute 12\\u003c/a\\u003e is shortened. It does not serve stops between Whitehall/Trafalgar Square and Oxford Circus between 06:00 and 23:59\",\" \\u003ca href=\\\"https://tfl.gov.uk/bus/route/159\\\"\\u003eRoute 159\\u003c/a\\u003e is shortened. It does not serve stops between Oxford Circus and Marble Arch between 06:00 and 23:59\",\" \\u003ca href=\\\"http://tfl.gov.uk/bus/route/148/?direction=outbound\\\"\\u003eRoute 148\\u003c/a\\u003e and \\u003ca href=\\\"http://tfl.gov.uk/bus/route/211/?direction=outbound\\\"\\u003eRoute 211\\u003c/a\\u003e is on diversion via Lambeth Bridge\",\"Use \\u003ca href=\\\"https://tfl.gov.uk/bus/route/159/\\\"\\u003eRoute 159\\u003c/a\\u003e or \\u003ca href=\\\"https://tfl.gov.uk/bus/route/453/?direction=outbound\\\"\\u003eRoute 453\\u003c/a\\u003e for Oxford Circus\",\"Catching a bus is still be a better option than driving for local trips\"]}",
+     "Find out how your bus may be affected by visiting \u003ca href=\"http://tfl.gov.uk/bus/status\"\u003etfl.gov.uk/bus/status\u003c/a\u003e . Follow @TfLBusAlerts on Twitter for the latest bus updates.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "You can cycle on Bridge Street and across Westminster Bridge throughout the works.",
+     "{\"template\":\"bulletlist\",\"items\":[\"There are temporary segregated cycle lines on Bridge Street and across Westminster Bridge\",\"Please follow the advice of marshals and the signs\",\"There are several signed \\u003ca href=\\\"https://tfl.gov.uk/maps/cycle?intcmp=40402\\\"\\u003ealternative cycle routes in the area\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "Pavements and pedestrian crossings on Bridge Street and Westminster Bridge remain open.",
+     "{\"template\":\"bulletlist\",\"items\":[\"There are signs to help guide you safely through the works area\",\"Please follow the advice of marshals and the signs\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and private hire\"}",
+     "Licensed taxis (black cabs) but not private hire vehicles are able to cross Westminster Bridge westbound. All traffic will be diverted around the Bridge Street closure",
+     "{\"template\":\"bulletlist\",\"items\":[\"There are delays on the approaches to Westminster Bridge, Parliament Square and the surrounding areas\",\"Use Vauxhall Bridge and the Inner Ring Road south of the river may mean a quicker journey for trips across London\"]}",
+     "For trips starting at Waterloo Station",
+     "{\"template\":\"bulletlist\",\"items\":[\"For north London, use Waterloo Bridge\",\"For south London, take Waterloo Road\"]}",
+     "Wheelchair-accessible licensed taxis continue to have access to Westminster Bridge (westbound) because of their important role in transporting the public, especially at times and in places where other modes of transport may not be available.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other transport\"}",
+     "Tube and rail services are not affected by the works. Westminster station remains open.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel tools\"}",
+     "Check before you travel and plan ahead using our travel tools. See:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The latest \\u003ca href=\\\"http://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future%20date\\u0026direction=\\u0026startDate=2018-12-14T00%3A00%3A00\\u0026endDate=2018-12-14T23%3A59%3A59\\u0026disruptionIds=TIMS-202397\\u0026intcmp=56354\\\"\\u003estatus updates\\u003c/a\\u003e for these works\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e , which can help you plan your route by public transport, cycling or walking\",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e , which uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\" \\u003ca href=\\\"http://twitter.com/tfltrafficnews\\\"\\u003e@TfLTrafficNews\\u003c/a\\u003e as well as the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL Travelbot\\u003c/a\\u003e on Facebook Messenger\",\"Our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Major works \u0026 events",
+    "links": [
+     {
+      "title": "A406 Angel Road flyover closures",
+      "url": "/status-updates/major-works-and-events/a406-angel-road-flyover-closures",
+      "image": {}
+     },
+     {
+      "title": "Christmas travel",
+      "url": "/status-updates/major-works-and-events/christmas-travel",
+      "image": {}
+     },
+     {
+      "title": "Cycle Superhighway 11",
+      "url": "/status-updates/major-works-and-events/cycle-superhighway-11",
+      "image": {}
+     },
+     {
+      "title": "Cycleway 4",
+      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "image": {}
+     },
+     {
+      "title": "Cycleway 9",
+      "url": "/status-updates/major-works-and-events/cycleway-9",
+      "image": {}
+     },
+     {
+      "title": "Euston Road works",
+      "url": "/status-updates/major-works-and-events/euston-road-works",
+      "image": {}
+     },
+     {
+      "title": "Easter travel 2019",
+      "url": "/status-updates/major-works-and-events/easter-travel-2019",
+      "image": {}
+     },
+     {
+      "title": "Hammersmith Bridge closure",
+      "url": "/status-updates/major-works-and-events/hammersmith-bridge-closure",
+      "image": {}
+     },
+     {
+      "title": "Highbury Corner roundabout",
+      "url": "/status-updates/major-works-and-events/highbury-corner-roundabout",
+      "image": {}
+     },
+     {
+      "title": "Improvements between Acton and Wood Lane",
+      "url": "/status-updates/major-works-and-events/improvements-between-acton-and-wood-lane",
+      "image": {}
+     },
+     {
+      "title": "London Bridge works",
+      "url": "/status-updates/major-works-and-events/london-bridge-works",
+      "image": {}
+     },
+     {
+      "title": "Old Street roundabout",
+      "url": "/status-updates/major-works-and-events/old-street-roundabout",
+      "image": {}
+     },
+     {
+      "title": "Prudential RideLondon 2019",
+      "url": "/status-updates/major-works-and-events/ride-london-2019",
+      "image": {}
+     },
+     {
+      "title": "Reimagine event for World Car Free Day",
+      "url": "/status-updates/major-works-and-events/car-free-day-2019",
+      "image": {}
+     },
+     {
+      "title": "RideLondon",
+      "url": "/status-updates/major-works-and-events/ridelondon",
+      "image": {}
+     },
+     {
+      "title": "Road changes at Victoria Embankment",
+      "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
+      "image": {}
+     },
+     {
+      "title": "Travel advice for road users",
+      "url": "/status-updates/major-works-and-events/travel-advice-for-road-users",
+      "image": {}
+     },
+     {
+      "title": "Victoria Embankment",
+      "url": "/status-updates/major-works-and-events/victoria-embankment",
+      "image": {}
+     },
+     {
+      "title": "West End Project",
+      "url": "/status-updates/major-works-and-events/west-end-project",
+      "image": {}
+     },
+     {
+      "title": "Westminster Bridge works",
+      "url": "/status-updates/major-works-and-events/westminster-bridge-works",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Major works \u0026 events",
+     "url": "/status-updates/major-works-and-events/westminster-bridge-works",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

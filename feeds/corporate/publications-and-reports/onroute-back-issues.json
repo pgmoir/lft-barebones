@@ -33,8 +33,10 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Back issues of OnRoute - our magazine for taxi and private hire drivers.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2019\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Issue 22 - May/June 2019\",\"url\":\"/cdn/static/cms/documents/onroute-issue-22.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.09MB\",\"image\":{}},{\"title\":\"Issue 21 - March/April 2019\",\"url\":\"/cdn/static/cms/documents/onroute-issue-21.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.09MB\",\"image\":{}},{\"title\":\"Issue 20 - January/February 2019\",\"url\":\"/cdn/static/cms/documents/onroute-issue-20.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.97MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2018\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Issue 18 - September/October 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.88MB\",\"image\":{}},{\"title\":\"Issue 17 - July/August 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue17.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.49MB\",\"image\":{}},{\"title\":\"Issue 16 - May/June 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-16.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.68MB\",\"image\":{}},{\"title\":\"Issue 15 - March/April 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-15.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.06MB\",\"image\":{}},{\"title\":\"Issue 14 - January/February 2018\",\"url\":\"/cdn/static/cms/documents/onroute-pdf-january-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.70MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Issue 19 - November/December 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.32MB\",\"image\":{}},{\"title\":\"Issue 18 - September/October 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.88MB\",\"image\":{}},{\"title\":\"Issue 17 - July/August 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue17.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.49MB\",\"image\":{}},{\"title\":\"Issue 16 - May/June 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-16.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.68MB\",\"image\":{}},{\"title\":\"Issue 15 - March/April 2018\",\"url\":\"/cdn/static/cms/documents/onroute-issue-15.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.06MB\",\"image\":{}},{\"title\":\"Issue 14 - January/February 2018\",\"url\":\"/cdn/static/cms/documents/onroute-pdf-january-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.70MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2017\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Issue 13 - November/December 2017\",\"url\":\"/cdn/static/cms/documents/onroute-issue-13.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.81MB\",\"image\":{}},{\"title\":\"Issue 12 - September/October 2017\",\"url\":\"/cdn/static/cms/documents/onroute-issue-12.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.47MB\",\"image\":{}},{\"title\":\"Issue 11 - July/August 2017\",\"url\":\"/cdn/static/cms/documents/onroute-issue-11.pdf\",\"icon\":\"download\",\"size\":\"PDF 10.58MB\",\"image\":{}},{\"title\":\"Issue 10 - May/June 2017\",\"url\":\"/cdn/static/cms/documents/onroute-issue-10.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.78MB\",\"image\":{}},{\"title\":\"Issue 9 - March/April 2017\",\"url\":\"/cdn/static/cms/documents/onroute-issue-9.pdf\",\"icon\":\"download\",\"size\":\"PDF 8.51MB\",\"image\":{}},{\"title\":\"Issue 8 - January/February 2017\",\"url\":\"/cdn/static/cms/documents/onroute-issue-8.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.95MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2016\"}",
@@ -52,14 +54,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

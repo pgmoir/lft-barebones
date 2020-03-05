@@ -51,15 +51,15 @@
      "{\"template\":\"video\",\"style\":\"eKut8sYx2DQ\",\"title\":\"Emirates Air Line night flights\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Champagne flight experience\"}",
      "Enjoy a glass of champagne in your own private cabin on the cable car, whilst soaring 90 metres above the River Thames.",
-     "You will be met at the cable car by a member of staff, where you will board your own private cabin with a glass of Laurent Perrier Brut NV champagne. You'll then enjoy a non-stop return trip on the cable car (approximately 20 minutes), accompanied by music and a souvenir in-flight guide.",
+     "You will be met at the cable car by a member of staff, where you will board your own private cabin with a glass of champagne. You'll then enjoy a non-stop return trip on the cable car (approximately 20 minutes), accompanied by music and a souvenir in-flight guide.",
      " \u003ca href=\"http://emiratesairline.gttix.com/emirates-air-line-champagne-flights?cid=champagne-flights\"\u003eFind out more and buy tickets online\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Explore London tickets\"}",
-     "Try our fantastic combined ticket package - enjoy a breathtaking flight on the Emirates Air cable car, scenic MBNA Thames Clippers boat trips along the \u003ca href=\"/modes/river/index\"\u003eRiver Thames\u003c/a\u003e and relaxing \u003ca href=\"/modes/cycling/santander-cycles\"\u003eSantander Cycles \u003c/a\u003e bike rides - a stunning way to see London's sights and landmarks. Save up to 20% when you buy online.",
+     "Try our fantastic combined ticket package - enjoy a breathtaking flight on the Emirates Air cable car, scenic Thames Clippers boat trips along the \u003ca href=\"/modes/river/index\"\u003eRiver Thames\u003c/a\u003e and relaxing \u003ca href=\"/modes/cycling/santander-cycles\"\u003eSantander Cycles \u003c/a\u003e bike rides - a stunning way to see London's sights and landmarks. Save up to 20% when you buy online.",
      " \u003ca href=\"/modes/river/explore-london-tickets\"\u003eFind out more and buy tickets online.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Museum and river packages\"}",
-     "Combine a flight over the Thames with a river trip and museum visit by buying a combined ticket for Emirates Air Line, MBNA Thames Clippers and London Transport Museum.",
-     "The 'three in one' ticket provides a Discovery Experience on the Emirates Air Line (including non-stop return), a single journey on MBNA Thames Clippers and entry to London Transport Museum. An adult single ticket costs £27.50 and a child single ticket costs £8.25. Tickets are available online only.",
-     "You can also buy a \u003ca href=\"https://booking.thamesclippers.com/thames-clippers-tickets/joint-tickets/emirates-airline.html\"\u003ecombined ticket\u003c/a\u003e for MBNA Thames Clippers and Emirates Air Line.",
+     "Combine a flight over the Thames with a river trip and museum visit by buying a combined ticket for Emirates Air Line, Thames Clippers and London Transport Museum.",
+     "The 'three in one' ticket provides a Discovery Experience on the Emirates Air Line (including non-stop return), a single journey on Thames Clippers and entry to London Transport Museum. An adult single ticket costs £27.50 and a child single ticket costs £8.25. Tickets are available online only.",
+     "You can also buy a \u003ca href=\"https://booking.thamesclippers.com/thames-clippers-tickets/joint-tickets/emirates-airline.html\"\u003ecombined ticket\u003c/a\u003e for Thames Clippers and Emirates Air Line.",
      " \u003ca href=\"http://www.thamesclippers.com/whats-on-discounts/london-transport-museum-emirates-air-line-river-joint-ticket-packages\"\u003eFind out more and buy tickets online.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"The area\"}",
      "North Greenwich is a bustling tourist spot, ideal for a day trip out with family or friends. There is a wide variety of things to do and see with sightseeing attractions such as the Cutty Sark and local history spots like the National Maritime Museum. You could also walk part of the Thames path and see the Thames Barrier.",
@@ -76,14 +76,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

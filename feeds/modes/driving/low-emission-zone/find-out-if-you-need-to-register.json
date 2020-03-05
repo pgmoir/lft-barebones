@@ -37,7 +37,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Most vehicles don't need to register with us - even if they're from outside the United Kingdom - because we already know if they meet the emissions standard for the Low Emission Zone (LEZ) and the Ultra Low Emission Zone (ULEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Most vehicles don't need to register with us because we already know if they meet the emissions standards for the Low Emission Zone (LEZ) and the Ultra Low Emission Zone (ULEZ).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vehicles registered in the United Kingdom\"}",
      "Register your vehicle with us if:",
      "{\"template\":\"bulletlist\",\"items\":[\"It is \\u003ca href=\\\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected\\\"\\u003elisted by us as NOT meeting LEZ/ULEZ emissions standards\\u003c/a\\u003e but you can provide evidence that it does\",\"You are a \\u003ca href=\\\"/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected/exemptions-and-discounts\\\"\\u003eshowman with a modified or specially constructed vehicle\\u003c/a\\u003e \"]}",
@@ -48,6 +48,7 @@
      "First, click the button below to check your vehicle. At the end of the process you will be able to register your vehicle with us if you still need to.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "You can also check if your vehicle will be affected by the \u003ca href=\"/modes/driving/low-emission-zone/changes-to-the-lez\"\u003etougher LEZ emissions standards coming on 26 October 2020\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cherished Transfer\"}",
      "If you have already registered with us you must notify the \u003ca href=\"https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency\"\u003eDriver and Vehicle Standards Agency (DVSA)\u003c/a\u003e immediately when your vehicle's number plate of your vehicle has changed if it has a Reduced Pollution or Low Emission Certificate.",
      "For Heavy Goods Vehicles over 3.5 tonnes Gross Vehicle Weight you will need to submit a Notifiable Alteration Form, the appropriate fee along with the original Reduced Pollution or Low Emission Certificate. You can \u003ca href=\"https://www.gov.uk/government/publications/details-of-notifiable-alterations-or-application-for-a-change-of-plated-details-of-a-goods-motor-vehicle\"\u003edownload the notifiable alteration form and guidance notes on GOV.UK\u003c/a\u003e .",
@@ -99,6 +100,16 @@
      {
       "title": "Check if your vehicle is affected",
       "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+      "url": "/modes/driving/low-emission-zone/lorries-vans-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and specialist diesel vehicles",
+      "url": "/modes/driving/low-emission-zone/vans-minibuses-and-specialist-diesel-vehicles",
       "image": {}
      },
      {
@@ -202,15 +213,6 @@
      }
     ],
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@",
      "image": {}
     },
     "image": {},

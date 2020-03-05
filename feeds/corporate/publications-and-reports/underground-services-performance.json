@@ -36,10 +36,10 @@
      "{\"template\":\"intro\",\"texts\":[\"London Underground conducts surveys that count the number of people using our service, where they travel to and from and how long their journeys last. We also monitor performance and assets, measuring how far trains have travelled and how many trains, lifts and escalators are in service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Most of our regular performance figures are updated every four weeks - defined as a period - and show a range of service and network-related matters. Some measures are updated once a quarter.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Latest performance figures\"}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Period 2 - 2019/20 (from 28 April to 25 May 2019)\"}",
-     "{\"template\":\"table\",\"titles\":[\"Passenger journeys\",\"Customer satisfaction\",\"Excess journey time\"],\"rows\":[[\"106.08 million\",\"\"],[\"\\u003cstrong\\u003eLost customer hours\\u003c/strong\\u003e \",\"2.2 million\",\"\"],[\"85 (Q4)\",\"\"],[\"4.57 minutes\",\"\"]]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Period 9 - 2019/20 (from 10 November to 7 December 2019)\"}",
+     "{\"template\":\"table\",\"titles\":[\"Passenger journeys\",\"Customer satisfaction\",\"Excess journey time\"],\"rows\":[[\"117.39 million\",\"\"],[\"\\u003cstrong\\u003eLost customer hours\\u003c/strong\\u003e \",\"4.9 million\",\"\"],[\"83 (Q2)\",\"\"],[\"6.48 minutes\",\"\"]]}",
      "Further information on Tube performance, for the current and previous periods, can be found in the Performance data almanac here:",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Performance data almanac\",\"url\":\"/cdn/static/cms/documents/lu-performance-data.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 1.81MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Performance data almanac\",\"url\":\"/cdn/static/cms/documents/performance-data-almanac-p9.xlsx\",\"icon\":\"download\",\"size\":\"XLSX 1.93MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Benchmarking Report\"}",
      "We regularly report to the Rail \u0026 Underground Panel on our \u003ca href=\"/cdn/static/cms/documents/rup-20150212-part-1-item08-international-benchmarking.pdf\"\u003eperformance against other metros\u003c/a\u003e around the world.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Entry and exit figures by station\"}",
@@ -55,14 +55,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

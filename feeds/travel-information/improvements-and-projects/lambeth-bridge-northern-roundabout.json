@@ -1,6 +1,6 @@
 {
  "pageTitle": "Lambeth Bridge roundabouts",
- "keywords": "L,Lambeth,Westminster,Roads,Driving,Walking,TfL",
+ "keywords": "L,Lambeth,Westminster,Consultation,Roads,Driving,Walking,TfL",
  "description": "We are working on long-term plans to transform the roundabouts at Lambeth Bridge",
  "template": "page-content",
  "breadcrumbs": [
@@ -33,8 +33,8 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We are working on long-term plans to transform the northern and southern roundabouts at Lambeth Bridge. If we decide to go ahead with our proposals, we could start construction in mid-2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We consulted on the plans between June and August 2017. The consultation report will be published on our \u003ca href=\"http://www.tfl.gov.uk/lambeth-bridge\"\u003eLambeth Bridge consultation page\u003c/a\u003e .",
+     "{\"template\":\"intro\",\"texts\":[\"We are working on long-term plans to transform the northern and southern roundabouts at Lambeth Bridge. If we decide to go ahead with our proposals, we could start construction late in 2021.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We consulted on the plans between June and August 2017. We plan to publish the consultation report in the first half of 2020 on our \u003ca href=\"http://www.tfl.gov.uk/lambeth-bridge\"\u003eLambeth Bridge consultation page\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improvements\"}",
      "During spring 2017 we made changes to improve safety for vulnerable road users at the northern roundabout.",
      "The changes were intended to improve safety quickly, while we investigated long-term plans to re-design the junction. This project is now complete.",
@@ -52,14 +52,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

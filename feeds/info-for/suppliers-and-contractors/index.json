@@ -67,6 +67,18 @@
     "wrapped": false
    },
    {
+    "title": "Purchase orders \u0026 invoicing",
+    "texts": [
+     "Find out more about receiving purchase orders and invoicing"
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
     "title": "Finding contract opportunities",
     "texts": [
      "Details on awarded and upcoming contracts"
@@ -95,6 +107,18 @@
     "wrapped": false
    },
    {
+    "title": "TfL Supplier Awards",
+    "texts": [
+     "Nominations are now open for the 2019 supplier awards"
+    ],
+    "link": {
+     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
     "title": "Design standards \u0026 licensing",
     "texts": [
      "Brand licensing and your use of TfL fonts and logos"
@@ -107,12 +131,12 @@
     "wrapped": false
    },
    {
-    "title": "Health, safety \u0026 environment",
+    "title": "Traffic management handbook",
     "texts": [
-     "Essential information, including up to date HSE alerts and bulletins"
+     "A guide to the traffic management requirements of our road network"
     ],
     "link": {
-     "url": "/info-for/suppliers-and-contractors/health-safety-environment",
+     "url": "/info-for/suppliers-and-contractors/traffic-management",
      "image": {}
     },
     "image": {},
@@ -148,7 +172,7 @@
      },
      {
       "title": "LU Handbook",
-      "url": "/info-for/suppliers-and-contractors/health-safety-and-environment/supplier-handbook",
+      "url": "/info-for/suppliers-and-contractors/supplier-handbook",
       "icon": "internal",
       "image": {}
      },
@@ -189,7 +213,7 @@
      },
      {
       "title": "RISQS",
-      "url": "http://www.achilles.com/link-up",
+      "url": "https://www.risqs.org",
       "icon": "external",
       "image": {}
      },

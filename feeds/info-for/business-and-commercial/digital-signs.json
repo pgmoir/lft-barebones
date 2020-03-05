@@ -1,7 +1,7 @@
 {
- "pageTitle": "Digital Signs",
+ "pageTitle": "Digital Sign",
  "keywords": "TfL",
- "description": "If you're an organisation keen to offer employees and customers the benefits of live bus arrival information, Digital Sign is the solution.",
+ "description": "Use our Digital Sign service to give your employees and customers the benefits of live bus arrival information",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -14,11 +14,11 @@
    "url": "/info-for/business-and-commercial/index"
   },
   {
-   "title": "Digital Signs"
+   "title": "Digital Sign"
   }
  ],
  "title": {
-  "title": "Digital Signs",
+  "title": "Digital Sign",
   "card": {
    "link": {
     "image": {}
@@ -64,14 +64,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

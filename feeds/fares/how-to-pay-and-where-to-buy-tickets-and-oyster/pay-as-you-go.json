@@ -38,11 +38,12 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Using contactless or an Oyster card to pay as you go for your travel is easy and flexible\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "You can add money to an Oyster card or use contactless (card or device) straight away. You only pay for the journeys you make.",
-     "It's cheaper than buying a \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\"\u003epaper single or return ticket\u003c/a\u003e (train companies may offer special deals on some journeys).",
-     "Your fare is \u003ca href=\"/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps\"\u003ecapped\u003c/a\u003e so you can travel as much as you like in one day or week (Monday to Sunday), without paying more.",
+     "You can add money to an Oyster card or use contactless (card or device) straight away.",
+     "You only pay for the journeys you make and it's cheaper than buying a \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/single-and-return-tickets\"\u003epaper single or return ticket\u003c/a\u003e (train companies may offer special deals on some journeys).",
+     "In Zones 1-9, your fare is \u003ca href=\"/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps\"\u003ecapped\u003c/a\u003e so you can travel as much as you like in one day or week (Monday to Sunday), without paying more.",
+     "You can only use contactless to pay as you go on TfL Rail to or from Reading to Iver. Journeys to or from these stations aren't included in caps.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"title\":\"TfL Oyster and contactless app\",\"texts\":[\"Top up anytime, anywhere and manage your cards on the go\"],\"link\":{\"url\":\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-oyster-app.jpg\"},\"wrapped\":true}",
+     "{\"title\":\"TfL Oyster and contactless app\",\"texts\":[\"Top up anytime, anywhere and manage your cards on the go\"],\"link\":{\"url\":\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-oyster-app_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Oyster pay as you go\",\"texts\":[\"Use an Oyster card to pay as you go to travel on our transport\"],\"link\":{\"url\":\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/oyster-fares_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Contactless pay as you go\",\"texts\":[\"Use a contactless card or device to travel on our transport\"],\"link\":{\"url\":\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/contactless-fares_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Caps and Travelcard prices\",\"texts\":[\"Compare caps and Travelcard prices for your travel\"],\"link\":{\"url\":\"/fares/find-fares/tube-and-rail-fares/caps-and-travelcard-prices\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/pay-as-you-go-caps.jpg\"},\"wrapped\":true}",
@@ -64,14 +65,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

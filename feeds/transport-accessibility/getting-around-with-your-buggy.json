@@ -58,9 +58,9 @@
      "Use a help point to contact staff for information and assistance, or in an emergency.",
      "For more information on travelling with a buggy on the Tube, read our \u003ca href=\"/corporate/terms-and-conditions/ticketing-and-travel-conditions-of-carriage\"\u003eConditions of Carriage\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"In taxis\"}",
-     "All taxis have an intermediate step and a ramp to make it easier for you to get in and out with a buggy. Please ask your driver if you need this.",
+     "All taxis have an intermediate step and a ramp to make it easier for you to get in and out with a buggy. Please ask your driver if you need this.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On river services\"}",
-     "Buggies are welcome on board all MBNA Thames Clippers River Bus services.",
+     "Buggies are welcome on board all Thames Clippers River Bus services.",
      "Boats are boarded via a ramp and have space for both wheelchair users and buggies. The crew will help you find the safest place to park your buggy. You will only be asked to fold up the buggy if necessary.",
      "Buggies are also welcome on board most River Tour boats. \u003ca href=\"/modes/river/index\"\u003ePlease check with the boat operator\u003c/a\u003e you intend to travel with for further details.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"On the Emirates Air Line\"}",
@@ -77,14 +77,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -95,7 +87,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -145,7 +137,7 @@
       "image": {}
      },
      {
-      "title": "Baby on Board",
+      "title": "Baby on board badge",
       "url": "/transport-accessibility/baby-on-board",
       "image": {}
      },
@@ -155,7 +147,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

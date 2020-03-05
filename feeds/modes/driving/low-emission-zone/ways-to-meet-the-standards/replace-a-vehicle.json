@@ -41,7 +41,8 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Newer vehicles have lower emissions, so you may choose to upgrade to a new (or newer) vehicle model that meets the Low Emission Zone (LEZ) emissions standards or an electric vehicle. Find out more about electric vehicles at Source London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Newer vehicles have lower emissions, so you may choose to upgrade to a new (or newer) vehicle model that meets the Low Emission Zone (LEZ) emissions standards or is an electric vehicle.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Find out more about electric vehicles at \u003ca href=\"https://www.sourcelondon.net/\"\u003eSource London\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Second-hand vehicles\"}",
      "For some larger van owners it may be cheaper to purchase a second-hand vehicle that meets LEZ standards.",
      "Second-hand vehicles can be purchased at vehicle dealerships and online, such as \u003ca href=\"http://www.autotrader.co.uk/\"\u003eAutotrader\u003c/a\u003e , \u003ca href=\"http://www.exchangeandmart.co.uk/\"\u003eExchange and Mart\u003c/a\u003e and \u003ca href=\"http://motors.ebay.co.uk\"\u003eEbay\u003c/a\u003e . Auction houses, such as \u003ca href=\"http://www.auctioneers.co.uk/\"\u003eAuctioneers\u003c/a\u003e and \u003ca href=\"http://www.manheim.co.uk/\"\u003eManheim\u003c/a\u003e , can be used to provide guidance on average prices. Make sure that the vehicle you purchase meets LEZ standards.",
@@ -93,6 +94,16 @@
      {
       "title": "Check if your vehicle is affected",
       "url": "/modes/driving/low-emission-zone/check-if-your-vehicle-is-affected",
+      "image": {}
+     },
+     {
+      "title": "HGVs, lorries, vans, buses/minibuses and coaches",
+      "url": "/modes/driving/low-emission-zone/lorries-vans-buses-and-coaches",
+      "image": {}
+     },
+     {
+      "title": "Vans, minibuses and specialist diesel vehicles",
+      "url": "/modes/driving/low-emission-zone/vans-minibuses-and-specialist-diesel-vehicles",
       "image": {}
      },
      {
@@ -196,15 +207,6 @@
      }
     ],
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@",
      "image": {}
     },
     "image": {},

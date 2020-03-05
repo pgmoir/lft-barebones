@@ -37,9 +37,8 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We're carrying out work to make Old Street roundabout more pedestrian- and cycle-friendly. This will affect travel in the area from spring 2019.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We are removing the roundabout and making traffic two-way - this will enable us to improve pedestrian crossings and add segregated cycle lanes. \u003ca href=\"/travel-information/improvements-and-projects/old-street-roundabout\"\u003eMore about the project\u003c/a\u003e .",
-     "We have now switched the roundabout to two-way traffic.",
+     "{\"template\":\"intro\",\"texts\":[\"We're carrying out work to make the junction of Old Street and City Road  more pedestrian- and cycle-friendly.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We have switched the roundabout to two-way traffic. \u003ca href=\"/travel-information/improvements-and-projects/old-street-roundabout\"\u003eMore about the project\u003c/a\u003e .",
      "Here is how transport is affected.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"strong\"}",
@@ -47,19 +46,18 @@
      "For the latest information on how buses are running, see our \u003ca href=\"https://tfl.gov.uk/bus/status\"\u003ebus status updates\u003c/a\u003e .",
      "Follow \u003ca href=\"https://twitter.com/TfLBusAlerts\"\u003e@TfLBusAlerts\u003c/a\u003e for news and service information.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Until November 2019\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Old Street is two-way and the south-eastern section of the junction is closed to vehicles\",\"The former right-turn from Old Street west into City Road south is permanently banned\",\"Delays are expected in all directions on the approach to the Old Street junction - allow more time for your journey. Alternatively, you may wish to consider making your local journey by cycling or walking.\",\"If you are driving through the area, be careful while pedestrians, cyclists and other traffic gets used to the new two-way system\"]}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Traffic impact map\",\"url\":\"/cdn/static/cms/documents/old-street-roundabout-traffic-impact-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 531KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Until spring 2020\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Old Street is two-way and the south-eastern section of the junction is closed to vehicles\",\"Delays are expected in all directions on the approach to the Old Street junction - allow more time for your journey. Alternatively, you may wish to consider making your local journey by cycling or walking\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Congestion Charging \\u0026 Ultra Low Emission Zone\"}",
-     "From 26 May 2019 TfL has amended the Congestion Charging (CC) \u0026 Ultra Low Emission Zone (ULEZ) boundary at Old Street roundabout.",
+     "From 26 May 2019 TfL amended the Congestion Charging (CC) \u0026 Ultra Low Emission Zone (ULEZ) boundary at Old Street roundabout.",
      "{\"template\":\"bulletlist\",\"items\":[\"For most drivers, the change will make little difference  - you can still avoid the zone by using the A501 Old Street and City Road\",\"Traffic flow on the Old Street Station service road has been reversed to exit into the CC \\u0026 ULEZ zones.\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local businesses receiving delivery and servicing trips\"}",
-     "Delays are expected during construction works at the Old Street roundabout until late 2020.",
+     "Delays are expected during construction works at the Old Street roundabout until autumn 2020.",
      "{\"template\":\"bulletlist\",\"items\":[\"Consider taking action to minimise the impact of any delivery or servicing trips made to your premises by:ul\",\"We are running a programme of support for local businesses around Old Street to help minimise the impact of the works on delivery and servicing trips. For more information, email \\u003ca href=\\\"mailto:tdm@tfl.gov.uk?subject=Old%20Street%20freight\\\"\\u003etdm@tfl.gov.uk\\u003c/a\\u003e with 'Old Street Freight' in the subject line\"]}",
      "For the latest information on how London roads are operating, see our \u003ca href=\"https://tfl.gov.uk/traffic/status\"\u003etraffic status updates map.\u003c/a\u003e ",
      "For news about traffic in London, follow \u003ca href=\"https://twitter.com/TfLTrafficNews\"\u003e@TfLTrafficNews\u003c/a\u003e on Twitter.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Until November 2019\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Until spring 2020\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Some segregated cycle lanes and dedicated cycle signals are in place at the Old Street junction\",\"We also have signed cycle routes in place to help guide you through the area\",\"Take care as you travel through the new two-way system, and be aware of pedestrians and other traffic\"]}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/old-street-cycle-routes-from-27-may-small.jpg\",\"alt\":\"Old Street roundabout cycle routes\"},\"wrapped\":false}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Alternative cycling routes\",\"url\":\"/cdn/static/cms/documents/old-street-works-alternative-cycling-routes.pdf\",\"icon\":\"download\",\"size\":\"PDF 383KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -68,10 +66,6 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"7 May 2019 - early 2020\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"The pedestrian subway on Cowper Street (subway 2) is closed\",\"There is no access to subway 2, which may mean you have a longer walk into or out of the station\",\"There are signs to guide you through the area\"]}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"21:30 Friday 24 May to 00:01 Monday morning 27 May\"}",
-     "Footpaths and pedestrian crossings will remain open wherever possible, although there may be temporary closures or diversions at times. Signs will guide you safely through the works area.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"00:01 Monday morning 27 May - November 2019\"}",
-     "Following the switch, remember to look both ways and take care as traffic gets used to the new two-way system.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube and rail\"}",
      "Tube and rail services are not affected by the Old Street roundabout works. It may take longer than usual to get into and out of Old Street station during construction works - allow extra time.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Information\"}",
@@ -89,26 +83,13 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Major works \u0026 events",
     "links": [
      {
-      "title": "August Bank Holiday \u0026 Notting Hill Carnival",
-      "url": "/status-updates/major-works-and-events/august-bank-holiday-and-notting-hill-carnival",
-      "image": {}
-     },
-     {
-      "title": "Baker Street roadworks",
-      "url": "/status-updates/major-works-and-events/baker-street-roadworks",
+      "title": "A406 Angel Road flyover closures",
+      "url": "/status-updates/major-works-and-events/a406-angel-road-flyover-closures",
       "image": {}
      },
      {
@@ -122,8 +103,18 @@
       "image": {}
      },
      {
-      "title": "Easter travel 2018",
-      "url": "/status-updates/major-works-and-events/easter-travel-2018",
+      "title": "Cycleway 4",
+      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "image": {}
+     },
+     {
+      "title": "Cycleway 9",
+      "url": "/status-updates/major-works-and-events/cycleway-9",
+      "image": {}
+     },
+     {
+      "title": "Euston Road works",
+      "url": "/status-updates/major-works-and-events/euston-road-works",
       "image": {}
      },
      {
@@ -147,8 +138,8 @@
       "image": {}
      },
      {
-      "title": "Spring Bank Holiday 2019",
-      "url": "/status-updates/major-works-and-events/may-bank-holidays-2019",
+      "title": "London Bridge works",
+      "url": "/status-updates/major-works-and-events/london-bridge-works",
       "image": {}
      },
      {
@@ -162,6 +153,11 @@
       "image": {}
      },
      {
+      "title": "Reimagine event for World Car Free Day",
+      "url": "/status-updates/major-works-and-events/car-free-day-2019",
+      "image": {}
+     },
+     {
       "title": "RideLondon",
       "url": "/status-updates/major-works-and-events/ridelondon",
       "image": {}
@@ -169,11 +165,6 @@
      {
       "title": "Road changes at Victoria Embankment",
       "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
-      "image": {}
-     },
-     {
-      "title": "Tour of Britain 2018",
-      "url": "/status-updates/major-works-and-events/tour-of-britain-2018",
       "image": {}
      },
      {
@@ -192,14 +183,14 @@
       "image": {}
      },
      {
-      "title": "Cycleway 4",
-      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "title": "Westminster Bridge works",
+      "url": "/status-updates/major-works-and-events/westminster-bridge-works",
       "image": {}
      }
     ],
     "link": {
      "title": "Major works \u0026 events",
-     "url": "/status-updates/major-works-and-events/cycleway-4",
+     "url": "/status-updates/major-works-and-events/westminster-bridge-works",
      "image": {}
     },
     "image": {},

@@ -1,6 +1,6 @@
 {
  "pageTitle": "Camden Town capacity upgrade",
- "keywords": "Tube passengers,C,Camden,Tube improvement,Tube,TfL",
+ "keywords": "Tube passengers,C,Camden,Consultation,Tube improvement,Tube,TfL",
  "description": "We want to create more capacity inside Camden Town station to prevent passenger delays and crowding",
  "template": "page-content",
  "breadcrumbs": [
@@ -34,10 +34,10 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Our proposed improvements will make it easier for people to get into and around Camden Town station. But these are on hold for now until we have the funds we need.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Updated Business Plan\"}",
-     "In our update to the \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003eBusiness Plan\u003c/a\u003e on 11 December 2018 the upgrade project for Camden Town station is on hold until suitable capital funding is available.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2018 Business Plan update\"}",
+     "Our December 2018 update to the \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003eBusiness Plan\u003c/a\u003e put the upgrade project for Camden Town station on hold until suitable capital funding is available.",
      "We have made significant progress on the project, including developing the scheme proposals, carrying out public consultation and protecting the scheme by buying land. This will enable us to consider other options including potential third party investment to take the scheme further.",
-     "We are still very committed to the project. Ahead of the Government's comprehensive spending review next year we will be making the case for long-term, steady and sustained investment to ensure critical infrastructure projects such as Camden Town and \u003ca href=\"/travel-information/improvements-and-projects/holborn-station-capacity-upgrade\"\u003eHolborn\u003c/a\u003e can continue.",
+     "We will continue to make the case for long-term, steady and sustained investment to ensure critical infrastructure projects such as Camden Town and \u003ca href=\"/travel-information/improvements-and-projects/holborn-station-capacity-upgrade\"\u003eHolborn\u003c/a\u003e can continue.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/camden-town-upgrade-map_rdax_400x250.jpg\",\"alt\":\"camden town capacity upgrade model\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our proposal\"}",
      "The number of people using Camden Town station is increasing - weekday demand has risen by 45% over the last ten years. At peak times, congestion means it takes longer to enter, leave and change between trains.",
@@ -65,14 +65,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

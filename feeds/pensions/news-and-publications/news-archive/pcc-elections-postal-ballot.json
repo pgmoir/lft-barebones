@@ -73,14 +73,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "TfL Pension Fund",
@@ -423,6 +415,26 @@
      {
       "title": "Annual report on Sustainable Investing published",
       "url": "/pensions/news-and-publications/annual-report-on-sustainable-investment-published",
+      "image": {}
+     },
+     {
+      "title": "Annual Members' Meeting 2019",
+      "url": "/pensions/news-and-publications/annual-members-meeting-2019",
+      "image": {}
+     },
+     {
+      "title": "Pension fund office move",
+      "url": "/pensions/news-and-publications/pension-fund-office-move",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2019",
+      "url": "/pensions/news-and-publications/pcc-election-results-2019",
+      "image": {}
+     },
+     {
+      "title": "Maximising Additional Voluntary Contributions for 2019/20",
+      "url": "/pensions/news-and-publications/maximising-additional-voluntary-contributions-for-2019-20",
       "image": {}
      },
      {

@@ -51,8 +51,7 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Chapters 1-5\",\"url\":\"/cdn/static/cms/documents/tfl-response-to-rtf-report-chapters-1-5.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.16MB\",\"image\":{}},{\"title\":\"Annex and glossary\",\"url\":\"/cdn/static/cms/documents/tfl-response-to-rtf-annex-july2013.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.94MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Street Types\"}",
      "The RTF proposed a 'street family' of nine Street Types, in which streets are defined by significance of their 'movement' and the intensity of their 'place'.",
-     "We worked with the London boroughs to classify the network according to this family of Street Types.",
-     " \u003ca href=\"/info-for/boroughs/street-types\"\u003eFind out more about Street Types\u003c/a\u003e ."
+     "We worked with the London boroughs to classify the network according to this family of Street Types."
     ],
     "link": {
      "image": {}
@@ -64,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -93,23 +84,6 @@
    },
    {
     "template": "advert",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Roads",
-      "url": "/corporate/about-tfl/what-we-do/roads",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
     "link": {
      "image": {}
     },

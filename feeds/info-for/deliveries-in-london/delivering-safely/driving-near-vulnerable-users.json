@@ -38,7 +38,6 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Tools and techniques to help HGV drivers when near vulnerable road users.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"video\",\"style\":\"rIUMBRu0vzA\",\"title\":\"Driver cyclist safety tips\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What you can do\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Safety tools\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Consider having an audible warning device fitted. The\\n    cost should range from £400 to £600 per vehicle. If you would like more\\n    information on making vehicle modifications contact \\u003ca href=\\\"mailto:freight@tfl.gov.uk\\\"\\u003efreight@tfl.gov.uk.\\u003c/a\\u003e \",\"Get the best mirror system you can for your size of vehicle, one that includes class V and VI mirrors. By fitting a FRESNEL lens to the passenger side window of your\\n    cab, you can improve your vision of cyclists on the left hand side of\\n    your vehicle\",\"Get a side guard fitted if your vehicle doesn't have one\\n    or a side sensor to help you know when a cyclist may be on your\\n    near-side. Discounted sensors are available from the \\u003ca href=\\\"http://www.fors-online.org.uk/index.php?page=P_LANDING\\\"\\u003eFleet Operator Recognition Scheme (FORS) website\\u003c/a\\u003e .\"]}",
@@ -58,14 +57,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -97,18 +88,13 @@
       "image": {}
      },
      {
-      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "title": "Direct Vision Standard and HGV Safety Permit",
       "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles",
       "image": {}
      },
      {
       "title": "Delivering legally",
       "url": "/info-for/deliveries-in-london/delivering-legally",
-      "image": {}
-     },
-     {
-      "title": "Protecting the environment",
-      "url": "/info-for/deliveries-in-london/protecting-the-environment",
       "image": {}
      },
      {

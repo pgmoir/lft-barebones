@@ -39,15 +39,16 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Find out about how licence fees are invested, weekly licence issues, vehicle inspections, and licence checks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Licences issued\"}",
-     "Information about the number and type of licence issued will be updated regularly. The following figures cover the week ending Sunday 30 June 2019:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Taxi driver licences - 23,008: a decrease of 22 on the previous week, 11 licences are new. 20,191 hold All London licences and 2,817 hold Suburban licences.\",\"Taxi vehicle licences - 19,184: an decrease of 68 on the previous week, 42 licences are new.\",\"Private hire driver licences - 106,160: a decrease of 312 on the previous week, 267 licences are new.\",\"Private hire vehicle licences - 89,947: a decrease of 134 on the previous week, 673 licences are new.\",\"Private hire operator licences - 2,222: an increase of 3 on the previous week, 7 licences are new.\"]}",
+     "Information about the number and type of licence issued will be updated regularly. The following figures cover the week ending Sunday 01 March 2020:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Taxi driver licences - 22,441: a decrease of 52 on the previous week, there are no new licences. 19,735 hold All London licences and 2,706 hold Suburban licences.*\",\"Taxi vehicle licences - 19,051: a decrease of 1 on the previous week, 46 licences are new.\",\"Private hire driver licences - 110,899: an increase of 349 on the previous week, 435 licences are new.\",\"Private hire vehicle licences - 96,165: a decrease of 18 on the previous week, 377 licences are new.\",\"Private hire operator licences - 2,133: a decrease of 1 on the previous week,  5 licences are new.\",\"3,271 ZEC taxis have been licensed\"]}",
+     "*The All London/Suburban breakdown is collated monthly",
      "Taxi and private hire licensing figures by year:",
      "{\"template\":\"table\",\"rows\":[[\"\",\"\",\"\\u003cstrong\\u003e Taxis\\u003c/strong\\u003e \",\"\",\"\",\"\",\"\\u003cstrong\\u003e PHV\\u003c/strong\\u003e \",\"\"],[\"\",\"Vehicles\",\"\",\"Drivers\",\"\",\"Operators\",\"Drivers\",\"Vehicles\"],[\"\",\"\",\"All London\",\"Suburban\",\"Total\",\"\",\"\",\"\"],[\"09/10\",\"22,445\",\"21,334\",\"3,580\",\"24,914\",\"2,882\",\"59,191\",\"49,355\"],[\"10/11\",\"22,558\",\"21,499\",\"3,571\",\"25,070\",\"3,111\",\"61,200\",\"50,663\"],[\"11/12\",\"23,099\",\"21,690\",\"3,646\",\"25,336\",\"3,164\",\"64,063\",\"53,960\"],[\"12/13\",\"22,168\",\"21,733\",\"3,727\",\"25,460\",\"3,159\",\"66,975\",\"49,854\"],[\"13/14\",\"22,810\",\"21,876\",\"3,662\",\"25,538\",\"3,038\",\"65,656\",\"52,811\"],[\"14/15\",\"22,500\",\"21,724\",\"3,508\",\"25,232\",\"3,006\",\"78,690\",\"62,724\"],[\"15/16\",\"21,759\",\"21,500\",\"3,370\",\"24,870\",\"2,814\",\"101,434\",\"78,139\"],[\"16/17\",\"21,300\",\"21,274\",\"3,213\",\"24,487\",\"2,430\",\"117,712\",\"87,409\"],[\"17/18\",\"21,026\",\"20,803\",\"3,023\",\"23,826\",\"2,373\",\"113,645\",\"87,921\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and private hire driver postcode data\"}",
      "These documents contain a breakdown of partial home postcode data for taxi and private hire drivers licensed in London and a heat map of hotspot areas outside of London where the private hire drivers live. This data is accurate as of June 2017.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire driver partial postcode data\",\"url\":\"/cdn/static/cms/documents/taxi-and-private-hire-driver-postcode-data-june-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 369KB\",\"image\":{}},{\"title\":\"Private hire driver partial postcode data map\",\"url\":\"/cdn/static/cms/documents/map-of-ph-driver-home-locations-by-postcode-area-june-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 193KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "This document contains a breakdown of the taxi and private hire driver demographic, including data on the gender, age and ethnicity of licensees, and of Knowledge students who have yet to be licensed. This data is accurate as of October 2018.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire driver demographic statistics\",\"url\":\"/cdn/static/cms/documents/taxi-and-phv-demographic-stats.pdf\",\"icon\":\"download\",\"size\":\"PDF 35KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This document contains a breakdown of the taxi and private hire driver demographic, including data on the gender, age and ethnicity of licensees, and of Knowledge students who have yet to be licensed. This data is accurate as of October 2019.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire driver demographic statistics\",\"url\":\"/cdn/static/cms/documents/taxi-and-private-hire-driver-demographic-stats-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 103KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and private hire fleet information\"}",
      "The following list provides details of the age and vehicle types that make up the licensed taxi private hire vehicle fleet in London. To comply with air quality standards, taxis can be licensed for a maximum of 15 years, and private hire vehicle for 10. However, limited exemptions apply which means that certain vehicles such as those that are wheelchair accessible, can be licensed for an additional period. Please visit our \u003ca href=\"/info-for/taxis-and-private-hire/licensing/private-hire-vehicle-licence\"\u003evehicle licensing page\u003c/a\u003e to find out more about our licensing requirements.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi and private hire fleet information October 2018\",\"url\":\"/cdn/static/cms/documents/taxi-and-phv-fleet-with-age.pdf\",\"icon\":\"download\",\"size\":\"PDF 128KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -74,15 +75,16 @@
      "The Mayor has called on the government to provide further legislative powers for us, so it can cap the total number of PHVs in London. In addition, we have altered the structure of licence fees paid by operators of different sizes to better reflect the costs of compliance and enforcement activity. This will provide further financial incentive for operators to maximise the efficiency of their operations and minimise the number of vehicles they use across London as a whole.",
      "The Mayor has also secured a commitment to progress separate legislation to enable us to regulate pedicabs, which will help us to alleviate the congestion they cause in central London, particularly in the evening.",
      "It has been suggested that there is a limit on the number of taxi drivers in London, which is incorrect. Previously, we suspended applications for suburban (yellow badge) drivers in three of the nine suburban taxi areas in London because we were conducting a review of suburban taxi services for the \u003ca href=\"/corporate/publications-and-reports/taxi-and-private-hire\"\u003esuburban action plan 2015\u003c/a\u003e . This was at the request of the taxi trade itself. During this period, applicants still had the option to apply for any of the other six suburban sectors as well as the All London knowledge. Now the review is complete we are accepting applications for these three sectors again.",
+     "{\"template\":\"htag\",\"level\":\"h4\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Applications\"}",
-     "1,679 driver applications are awaiting initial assessment. Of those applications, 617 are new (19 taxi and 598 private hire) and 1,062 are renewal applications (188 taxi and 874 private hire). Renewal applications are prioritised over new applications.",
+     "723 driver applications are awaiting initial assessment. Of those applications, 327 are new (8 taxi and 319 private hire) and 361 are renewal applications (71 taxi, 290 private hire and 35 priority renewal cases). Renewal applications are prioritised over new applications.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Calls\"}",
-     "15,808 calls were attempted to the Taxi \u0026 Private Hire team last week. On average, calls were answered within 12 minutes, 36 seconds with an average call lasting for 6 minutes, 53 seconds.",
+     "11,808 calls were attempted to the Taxi \u0026 Private Hire team in the week ending 01 March. On average, calls were answered within 2 minutes, 23 seconds with an average call lasting for 6 minutes, 4 seconds.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Knowledge\"}",
-     "The number of candidates studying the Knowledge of London is currently 1,229 at Stage 3 (down 5 from last week), 338 at Stage 4 (down 4 from last week) and 230 at Stage 5 (down 1 from last week). In addition, as of March 2019, there were 2,620 candidates that had not yet reached Stage 3 (this figure may include inactive candidates).",
+     "The number of candidates studying the Knowledge of London is currently 441 at Stage 3, 256 at Stage 4 and 172 at Stage 5. In addition, as of November 2019, there were 714 candidates that had not yet reached Stage 3",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Vehicle inspections\"}",
-     "Information about first time pass rates is updated regularly. The following information covers the period from 6 January 2019 to 2 February 2019:",
-     "{\"template\":\"bulletlist\",\"items\":[\"First time taxi pass rate - 68% pass rate across the six inspection centres (against the 81% target)\",\"First time PHV pass rate - 68% pass rate across the six inspection centres (against the 81% target)\"]}"
+     "Information about first time pass rates is updated regularly. The following information covers the period from 5 January 2020 to 1 February 2020:",
+     "{\"template\":\"bulletlist\",\"items\":[\"First time taxi pass rate - 76% pass rate across the six inspection centres (against the 81% target)\",\"First time PHV pass rate - 79% pass rate across the six inspection centres (against the 81% target)\"]}"
     ],
     "link": {
      "image": {}
@@ -94,14 +96,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -160,6 +154,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

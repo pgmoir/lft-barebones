@@ -50,7 +50,7 @@
      "We also produce detailed maps for step-free journeys and avoiding stairs.",
      "We know some customers find being underground difficult, so we have a map which shows where the tunnels are across our network.",
      " \u003ca href=\"/transport-accessibility/accessibility-guides-and-maps\"\u003eFind accessibility guides and maps\u003c/a\u003e .",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Standard Tube map\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{}},{\"title\":\"Step-free Tube guide\",\"url\":\"/cdn/static/cms/documents/step-free-tube-guide-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 669KB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 466KB\",\"image\":{}},{\"title\":\"Tube map with tunnels\",\"url\":\"/cdn/static/cms/documents/tube-map-with-tunnels.pdf\",\"icon\":\"download\",\"size\":\"PDF 237KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Standard Tube map\",\"url\":\"/cdn/static/cms/documents/standard-tube-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 617KB\",\"image\":{}},{\"title\":\"Step-free Tube guide\",\"url\":\"/cdn/static/cms/documents/step-free-tube-guide-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.15MB\",\"image\":{}},{\"title\":\"Avoiding stairs Tube guide\",\"url\":\"/cdn/static/cms/documents/avoiding-stairs-tube-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 466KB\",\"image\":{}},{\"title\":\"Tube map with tunnels\",\"url\":\"/cdn/static/cms/documents/tube-map-with-tunnels.pdf\",\"icon\":\"download\",\"size\":\"PDF 237KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Level access at platforms\"}",
      "An increasing number of our platforms give step-free access onto trains.",
      "This is provided in three ways:",
@@ -73,7 +73,7 @@
      "To join the scheme, contact our \u003ca href=\"/transport-accessibility/learn-to-use-public-transport\"\u003etravel mentoring service\u003c/a\u003e who will ask you a few questions to check that your mobility aid is suited to bus travel.",
      "You will then be offered the opportunity of an accompanied journey to check the suitability and size of your device.",
      "If your mobility aid is suited to bus travel, you will be given a Mobility Aid Recognition scheme card which you can show to bus drivers.",
-     "MBNA Thames Clippers offer a similar scheme on the river.",
+     "Thames Clippers offer a similar scheme on the river.",
      " \u003ca href=\"http://www.thamesclippers.com/about-kpmg-thames-clippers/accessibility-information\"\u003eFind out more on their accessibility on their website\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Seats at stations\"}",
      "You can find seats and benches - some of which are designated priority seats - on platforms and piers in some longer interchanges."
@@ -89,14 +89,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -107,7 +99,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -147,7 +139,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

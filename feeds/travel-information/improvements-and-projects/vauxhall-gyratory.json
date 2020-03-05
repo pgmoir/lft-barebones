@@ -1,6 +1,6 @@
 {
  "pageTitle": "Vauxhall Cross gyratory",
- "keywords": "Cyclists,Drivers,Pedestrians,V,Lambeth,Southwark,Wandsworth,Westminster,Environment,Roads,Buses,Cycling,Deliveries,Driving,Motorcycle,Walking,TfL",
+ "keywords": "Cyclists,Drivers,Pedestrians,V,Lambeth,Southwark,Wandsworth,Westminster,Consultation,Environment,Roads,Buses,Cycling,Deliveries,Driving,Motorcycle,Walking,TfL",
  "description": "We plan to start converting the one-way road system back to two-way in 2020",
  "template": "page-content",
  "breadcrumbs": [
@@ -54,14 +54,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "link": {
@@ -80,23 +72,6 @@
    },
    {
     "template": "contactus",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Roads",
-      "url": "/corporate/about-tfl/what-we-do/roads",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
     "link": {
      "image": {}
     },

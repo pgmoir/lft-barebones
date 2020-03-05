@@ -84,26 +84,13 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Major works \u0026 events",
     "links": [
      {
-      "title": "August Bank Holiday \u0026 Notting Hill Carnival",
-      "url": "/status-updates/major-works-and-events/august-bank-holiday-and-notting-hill-carnival",
-      "image": {}
-     },
-     {
-      "title": "Baker Street roadworks",
-      "url": "/status-updates/major-works-and-events/baker-street-roadworks",
+      "title": "A406 Angel Road flyover closures",
+      "url": "/status-updates/major-works-and-events/a406-angel-road-flyover-closures",
       "image": {}
      },
      {
@@ -117,8 +104,18 @@
       "image": {}
      },
      {
-      "title": "Easter travel 2018",
-      "url": "/status-updates/major-works-and-events/easter-travel-2018",
+      "title": "Cycleway 4",
+      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "image": {}
+     },
+     {
+      "title": "Cycleway 9",
+      "url": "/status-updates/major-works-and-events/cycleway-9",
+      "image": {}
+     },
+     {
+      "title": "Euston Road works",
+      "url": "/status-updates/major-works-and-events/euston-road-works",
       "image": {}
      },
      {
@@ -142,8 +139,8 @@
       "image": {}
      },
      {
-      "title": "Spring Bank Holiday 2019",
-      "url": "/status-updates/major-works-and-events/may-bank-holidays-2019",
+      "title": "London Bridge works",
+      "url": "/status-updates/major-works-and-events/london-bridge-works",
       "image": {}
      },
      {
@@ -157,6 +154,11 @@
       "image": {}
      },
      {
+      "title": "Reimagine event for World Car Free Day",
+      "url": "/status-updates/major-works-and-events/car-free-day-2019",
+      "image": {}
+     },
+     {
       "title": "RideLondon",
       "url": "/status-updates/major-works-and-events/ridelondon",
       "image": {}
@@ -164,11 +166,6 @@
      {
       "title": "Road changes at Victoria Embankment",
       "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
-      "image": {}
-     },
-     {
-      "title": "Tour of Britain 2018",
-      "url": "/status-updates/major-works-and-events/tour-of-britain-2018",
       "image": {}
      },
      {
@@ -187,14 +184,14 @@
       "image": {}
      },
      {
-      "title": "Cycleway 4",
-      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "title": "Westminster Bridge works",
+      "url": "/status-updates/major-works-and-events/westminster-bridge-works",
       "image": {}
      }
     ],
     "link": {
      "title": "Major works \u0026 events",
-     "url": "/status-updates/major-works-and-events/cycleway-4",
+     "url": "/status-updates/major-works-and-events/westminster-bridge-works",
      "image": {}
     },
     "image": {},

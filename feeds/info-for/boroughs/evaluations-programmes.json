@@ -10,11 +10,11 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
-   "title": "Borough funding",
+   "title": "Funding for your borough",
    "url": "/info-for/boroughs/borough-funding"
   },
   {
@@ -59,20 +59,17 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -92,11 +89,6 @@
       "image": {}
      },
      {
-      "title": "Older LIPs guidance",
-      "url": "/info-for/boroughs/older-lips-guidance",
-      "image": {}
-     },
-     {
       "title": "Liveable Neighbourhoods",
       "url": "/info-for/boroughs/liveable-neighbourhoods",
       "image": {}
@@ -105,16 +97,11 @@
       "title": "Planning \u0026 resources",
       "url": "/info-for/boroughs/planning-and-resources",
       "image": {}
-     },
-     {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
-      "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},

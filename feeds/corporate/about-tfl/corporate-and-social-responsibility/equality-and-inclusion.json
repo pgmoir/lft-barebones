@@ -1,5 +1,5 @@
 {
- "pageTitle": "Equality \u0026 inclusion",
+ "pageTitle": "Equality and inclusion",
  "keywords": "Public,TfL",
  "description": "Take a look at how we are ensuring the Capital's transport network is accessible to all",
  "template": "page-content",
@@ -18,11 +18,11 @@
    "url": "/corporate/about-tfl/corporate-and-social-responsibility"
   },
   {
-   "title": "Equality \u0026 inclusion"
+   "title": "Equality and inclusion"
   }
  ],
  "title": {
-  "title": "Equality \u0026 inclusion",
+  "title": "Equality and inclusion",
   "card": {
    "link": {
     "image": {}
@@ -69,7 +69,22 @@
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Valuing people - Big Day Out\"}",
      "Our London-wide forum for people with learning difficulties meets three times a year to discuss travel and transport issues.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Modern slavery\"}",
-     "We work to keep our supply chain operating ethically. This helps us, among other things, target and reduce the risks of slavery and human trafficking. Read our \u003ca href=\"/corporate/transparency/index\"\u003eModern slavery statement on the Transparency page\u003c/a\u003e ."
+     "We work to keep our supply chain operating ethically. This helps us, among other things, target and reduce the risks of slavery and human trafficking. Read our \u003ca href=\"/corporate/transparency/index\"\u003eModern slavery statement on the Transparency page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Staff network groups\"}",
+     "We have six internal staff network groups to represent the diversity of our workforce.",
+     "{\"template\":\"video\",\"style\":\"4iMHVnHhd_I\",\"title\":\"See our rainbow taxi being wrapped\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"BAME\"}",
+     "The Black, Asian and Minority Ethnic (BAME) Staff Network Group champions diversity and actively supports the ambitions of staff with a BAME background.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Carers\"}",
+     "Our Carers Staff Network Group supports staff who are also carers. They provide advice and guidance through support groups and also host events to raise awareness of carers, working closely with Carers UK.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Disability\"}",
+     "The Staff Network Group for Disability breaks down barriers and gives disabled people a voice through support groups, awareness events and forums which raise the profile of disabilities.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Faith \\u0026 Wellbeing\"}",
+     "The Faith and Wellbeing Staff Network Group promotes faith and wellbeing for staff. They support general wellbeing through training and events; lobby for prayer or quiet rooms in as many locations as possible; work with our caterers to ensure that dietary requirements are met and help to produce an annual faith and cultural calendar.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"OUTbound - LGBT+ network\"}",
+     "Outbound works to ensure LGBT+ staff are fairly represented throughout TfL by helping to shape policies; providing networking opportunities and career support; and by running campaigns such as #RidewithPride.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Women\"}",
+     "The Women's Staff Network Group is a professional networking group that facilitates the development of strong, flexible and productive connections between our employees. They run accessible networking events, learning and development sessions and a mentoring scheme designed to support the personal and professional development of their members."
     ],
     "link": {
      "image": {}
@@ -82,14 +97,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Corporate social responsibility",
@@ -100,24 +107,24 @@
       "image": {}
      },
      {
-      "title": "Equality \u0026 inclusion",
+      "title": "Equality and inclusion",
       "url": "/corporate/about-tfl/corporate-and-social-responsibility/equality-and-inclusion",
       "image": {}
      },
      {
-      "title": "Staff network groups",
-      "url": "/corporate/about-tfl/staff-network-groups-and-outbound",
+      "title": "Transport and health",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
       "image": {}
      },
      {
-      "title": "Transport \u0026 health",
-      "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "title": "Reducing noise and vibration",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration",
       "image": {}
      }
     ],
     "link": {
      "title": "Corporate social responsibility",
-     "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration",
      "image": {}
     },
     "image": {},

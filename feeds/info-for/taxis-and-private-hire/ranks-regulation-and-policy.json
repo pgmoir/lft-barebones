@@ -39,10 +39,10 @@
      "{\"title\":\"Legislation and policy\",\"texts\":[\"Find out more about taxi and private hire legislation and policy\"],\"link\":{\"url\":\"/corporate/publications-and-reports/taxi-and-private-hire\",\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/promos/tph-enforcement_rdax_400x200.jpg\"},\"wrapped\":true}",
      "{\"title\":\"Accepting card payments\",\"texts\":[\"More information for taxi drivers about the card payments mandate\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/accepting-card-payments\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Parking information \",\"texts\":[\"Find out more about where taxi and private hire drivers can and can't park\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/parking-information\",\"image\":{}},\"image\":{},\"wrapped\":true}",
-     "{\"title\":\"English language requirement\",\"texts\":[\"New English language requirement started on 14 October 2016. Find out more\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/english-language-requirement\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"English language requirement\",\"texts\":[\"Find out more about how to comply with the English language requirement\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/english-language-requirement\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"title\":\"Changes to private hire regulation\",\"texts\":[\"Find out more about the recent private hire regulation changes\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/new-private-hire-regulations\",\"image\":{}},\"image\":{},\"wrapped\":true}",
-     "{\"template\":\"listgroup\",\"title\":\"Emission standards and rapid charging\",\"links\":[{\"title\":\"Electric vehicles \\u0026 rapid charging\",\"url\":\"https://tfl.gov.uk/modes/driving/electric-vehicles-and-rapid-charging\",\"icon\":\"external\",\"image\":{}},{\"title\":\"Emissions standards for taxis\",\"url\":\"/info-for/taxis-and-private-hire/emissions-standards-for-taxis\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Emissions standards for PHVs\",\"url\":\"/info-for/taxis-and-private-hire/emissions-standards-for-phvs\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Ultra Low Emission Zone\",\"url\":\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\",\"icon\":\"external\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
-     "{\"title\":\"Passengers and accessibility\",\"texts\":[\"Find out more about passengers with wheelchairs or assistance dogs\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/passengers-and-accessibility\",\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"template\":\"listgroup\",\"title\":\"Emission standards\",\"links\":[{\"title\":\"Emissions standards for taxis\",\"url\":\"/info-for/taxis-and-private-hire/emissions-standards-for-taxis\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Emissions standards for PHVs\",\"url\":\"/info-for/taxis-and-private-hire/emissions-standards-for-phvs\",\"icon\":\"internal\",\"image\":{}},{\"title\":\"Ultra Low Emission Zone\",\"url\":\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\",\"icon\":\"external\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":true}",
+     "{\"title\":\"Passengers, accessibility and lost property\",\"texts\":[\"Find out more about passengers with wheelchairs or assistance dogs and lost property\"],\"link\":{\"url\":\"/info-for/taxis-and-private-hire/passengers-and-accessibility\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
@@ -55,14 +55,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

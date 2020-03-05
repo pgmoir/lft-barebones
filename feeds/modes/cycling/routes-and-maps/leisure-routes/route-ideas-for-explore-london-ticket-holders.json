@@ -1,0 +1,178 @@
+{
+ "pageTitle": "Routes for Explore London tickets",
+ "keywords": "TfL",
+ "description": "Day trip and cycle route ideas for Explore London ticket holders",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Routes and maps",
+   "url": "/modes/cycling/routes-and-maps"
+  },
+  {
+   "title": "Leisure routes",
+   "url": "/modes/cycling/routes-and-maps/leisure-routes"
+  },
+  {
+   "title": "Routes for Explore London tickets"
+  }
+ ],
+ "title": {
+  "title": "Routes for Explore London tickets",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"See routes to discover London by Santander Cycle, river and the Emirates Air Line with an Explore London ticket.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Explore Maritime Greenwich, Canary Wharf and the Isle of Dogs\"}",
+     "1. Take a Thames Clippers River Bus from Westminster Pier to Greenwich Pier",
+     "2. Explore the historic Maritime Greenwich. There's lots to see including the Cutty Sark, Old Royal Naval College, National Maritime Museum and the Royal Observatory",
+     "3. Take a break and explore Greenwich Market",
+     "4. Walk through the Greenwich Foot Tunnel to the Isle of Dogs and hire a Santander Cycle at Island Gardens, using your Explore London promo code",
+     "5. Follow our cycle route (approx. 1 hour) and explore Canary Wharf and the Isle of Dogs before docking your cycle in Canary Wharf",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Isle of Dogs cycle route\",\"url\":\"/cdn/static/cms/documents/isle-of-dogs-leisure-route.pdf\",\"icon\":\"download\",\"size\":\"PDF 400KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "6. Enjoy some shopping at Canary Wharf before taking a Thames Clippers River Bus from Canary Wharf Pier back to central London",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Explore the Tower of London, the Docklands and Canary Wharf\"}",
+     "1. Take a Thames Clippers River Bus from Westminster Pier to Tower Pier",
+     "2. Walk around St Katharine Docks nearby",
+     "3. Hire a Santander Cycle from St Katharine Docks using your Explore London promo code",
+     "4. Explore the historic streets and docks of Wapping, including Tobacco Dock and Shadwell Basin following our cycle route (approx. 1-1.5 hours)",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Historic Docklands and Skyscrapers cycle route\",\"url\":\"/cdn/static/cms/documents/docklands-and-skyscrapers-leisure-route.pdf\",\"icon\":\"download\",\"size\":\"PDF 390KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "5. Dock your cycle near Canary Wharf",
+     "6. Head back by River Bus to Westminster at sunset and see views of Tower Bridge, the Tate Modern, Big Ben and the Houses of Parliament",
+     "7. If your ticket includes the Emirates Air Line, you can enjoy a romantic sunset or night time flight, before returning to North Greenwich Pier and getting a River Bus back to central London",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Explore Borough Market, London Bridge, Bankside and Westminster\"}",
+     "1. Take a Thames Clippers River Bus from Westminster Pier to North Greenwich Pier and enjoy the \u003ca href=\"https://tfl.gov.uk/modes/emirates-air-line/the-emirates-air-line-experience\"\u003eEmirates Air Line Discovery Experience\u003c/a\u003e ",
+     "2. Hop on another River Bus at North Greenwich Pier and get off at London Bridge City Pier",
+     "3. Explore the riverbank area and Borough Market. There's lots to see including Hay's Galleria, City Hall, The Shard, Bermondsey Street and the Fashion and Textile Museum, Southwark Cathedral, The Golden Hinde, Roman ruins and Clink Street, Shakespeare's Globe Theatre and the Tate Modern",
+     "4. Enjoy a walk along the river and then cross Blackfriars Bridge",
+     "5. Hire a Santander Cycle from Tallis Street docking station near the Embankment using your Explore London promo code",
+     "6. Enjoy a leisurely riverside cycle (approx. 1 hour) back towards Westminster on Cycle Superhighway 3",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Sights to see along the Thames\"}",
+     "There's lots of \u003ca href=\"https://www.thamesclippers.com/sightseeing-leisure/river-attractions\"\u003einteresting places to visit along the river near Thames Clippers piers\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/river/explore-london-tickets\\\"\\u003eExplore London tickets\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Saturday markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/saturday-markets",
+      "image": {}
+     },
+     {
+      "title": "Independent shops and markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/independent-shops-and-markets",
+      "image": {}
+     },
+     {
+      "title": "London's secret gardens",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/londons-secret-gardens",
+      "image": {}
+     },
+     {
+      "title": "Quirky London",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/quirky-london",
+      "image": {}
+     },
+     {
+      "title": "Sporting sights",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/sporting-sights",
+      "image": {}
+     },
+     {
+      "title": "Routes for Explore London tickets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+      "image": {}
+     },
+     {
+      "title": "Cycleways",
+      "url": "/modes/cycling/routes-and-maps/cycleways",
+      "image": {}
+     },
+     {
+      "title": "Mini-Hollands",
+      "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/santander-cycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

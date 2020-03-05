@@ -10,7 +10,7 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
@@ -42,12 +42,12 @@
   ],
   "cards": [
    {
-    "title": "Sub-regional transport planning",
+    "title": "Our role in planning ",
     "texts": [
-     "Connecting local planning to Mayoral strategies for the whole of London"
+     "Find out how we can help you with planning in London"
     ],
     "link": {
-     "url": "/info-for/boroughs/sub-regional-transport-planning",
+     "url": "/info-for/urban-planning-and-construction/our-role-in-planning",
      "image": {}
     },
     "image": {
@@ -84,20 +84,6 @@
     "wrapped": false
    },
    {
-    "title": "Street Types",
-    "texts": [
-     "See how we're using Street Types to work out the future of London's roads"
-    ],
-    "link": {
-     "url": "/info-for/boroughs/street-types",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/street-types_rdax_400x200.gif"
-    },
-    "wrapped": false
-   },
-   {
     "title": "Urban planning and construction",
     "texts": [
      "Get help with your new development and see how we protect our infrastructure"
@@ -114,7 +100,7 @@
    {
     "title": "Legible London",
     "texts": [
-     "We're working to expand Legible London into more boroughs"
+     "Find out how to include Legible London in your borough"
     ],
     "link": {
      "url": "/info-for/boroughs/legible-london",
@@ -135,7 +121,7 @@
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/x0001-00061-cycling-start-cycling_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/green-cycle-traffic-light_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -166,6 +152,12 @@
      {
       "title": "Transport \u0026 healthcare",
       "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Encouraging walking and cycling",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking",
       "icon": "internal",
       "image": {}
      },
@@ -212,10 +204,15 @@
    {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -230,11 +227,6 @@
       "image": {}
      },
      {
-      "title": "Sub-regional transport planning",
-      "url": "/info-for/boroughs/sub-regional-transport-planning",
-      "image": {}
-     },
-     {
       "title": "Low Emission Neighbourhoods",
       "url": "/info-for/boroughs/low-emission-neighbourhoods",
       "image": {}
@@ -242,11 +234,6 @@
      {
       "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Street Types for London",
-      "url": "/info-for/boroughs/street-types",
       "image": {}
      },
      {
@@ -260,14 +247,24 @@
       "image": {}
      },
      {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
       "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
      "image": {}
     },
     "image": {},
@@ -288,6 +285,18 @@
      {
       "title": "Pedestrian Countdown guidelines",
       "url": "/corporate/publications-and-reports/streets",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Healthy Streets toolkit",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Streets design toolkit",
+      "url": "/corporate/publications-and-reports/streets-toolkit",
       "icon": "internal",
       "image": {}
      },

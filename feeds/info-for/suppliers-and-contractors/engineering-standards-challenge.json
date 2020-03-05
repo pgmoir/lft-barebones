@@ -1,0 +1,151 @@
+{
+ "pageTitle": "Engineering Standards Challenge",
+ "keywords": "TfL",
+ "description": "TfL is encouraging contractors, suppliers and stakeholders to propose changes to our engineering standards",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Suppliers \u0026 contractors",
+   "url": "/info-for/suppliers-and-contractors/index"
+  },
+  {
+   "title": "Engineering Standards Challenge"
+  }
+ ],
+ "title": {
+  "title": "Engineering Standards Challenge",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are encouraging contractors, suppliers and stakeholders to propose changes to our engineering standards.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Standards are the detailed TfL-owned requirements that underpin how our various transport modes and the delivery of improvement projects are run.",
+     "With the creation of TfL Engineering, we have brought all of our engineering functions together across our various modes. This is helping us to identify and question differences between equivalent standards.",
+     "We want your ideas on how we can encourage greater innovation, cost efficiency and third party funding into our network, while maintaining safety. So we have developed a standards challenge process in partnership with the Railway Industry Association (RIA), following a successful initiative developed by Network Rail.",
+     "Suppliers and other stakeholders can now email\u003cstrong\u003ea\u003c/strong\u003e if you think that a standard is inappropriate for some (or all) applications, doesn't enable the application of best practice, or drives increased cost without comparable benefit.",
+     "Your suggestion should include the following information:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Standard name and number if applicable\",\"Clause/requirement if applicable\",\"Discipline\",\"Problem Statement\",\"Barrier type (for example; whole life cost, innovation, safety, production cost, maintenance cost or risk)\",\"What is the opportunity?\",\"Why should we make this change?\",\"Who should we talk to about this proposal?\",\"How should we contact them?\"]}",
+     "We're also interested to hear your thoughts on the blockers to innovative (but non-compliant) solutions and how these can be overcome.",
+     "We will review all challenges received and conduct a rigorous impact assessment across a broad range of output capabilities (such as safety, performance, environment and compatibility) to make sure these capabilities are not compromised. We will respond within four weeks with a proposed way forward.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Engineering Standards Challenge tracker\",\"url\":\"/cdn/static/cms/documents/engineering-standards-challenge-tracker.pdf\",\"icon\":\"download\",\"size\":\"PDF 6KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Suppliers \u0026 contractors",
+    "links": [
+     {
+      "title": "Become a TfL supplier",
+      "url": "/info-for/suppliers-and-contractors/become-a-supplier",
+      "image": {}
+     },
+     {
+      "title": "Find contract opportunities",
+      "url": "/info-for/suppliers-and-contractors/opportunities",
+      "image": {}
+     },
+     {
+      "title": "Invoicing and getting paid",
+      "url": "/info-for/suppliers-and-contractors/recieving-orders-and-getting-paid",
+      "image": {}
+     },
+     {
+      "title": "What we buy",
+      "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Engineering Standards Challenge",
+      "url": "/info-for/suppliers-and-contractors/engineering-standards-challenge",
+      "image": {}
+     },
+     {
+      "title": "Supplier relations",
+      "url": "/info-for/suppliers-and-contractors/supplier-relations",
+      "image": {}
+     },
+     {
+      "title": "Digital toolkit",
+      "url": "/info-for/suppliers-and-contractors/digital-toolkit",
+      "image": {}
+     },
+     {
+      "title": "Design standards \u0026 licensing",
+      "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
+      "image": {}
+     },
+     {
+      "title": "London Buses tenders",
+      "url": "/info-for/suppliers-and-contractors/london-buses-tenders",
+      "image": {}
+     },
+     {
+      "title": "London Service Permits",
+      "url": "/info-for/suppliers-and-contractors/london-service-permits",
+      "image": {}
+     },
+     {
+      "title": "LU Supplier Handbook",
+      "url": "/info-for/suppliers-and-contractors/supplier-handbook",
+      "image": {}
+     },
+     {
+      "title": "Traffic management",
+      "url": "/info-for/suppliers-and-contractors/traffic-management",
+      "image": {}
+     },
+     {
+      "title": "TfL Supplier Awards",
+      "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     },
+     {
+      "title": "Zero Harm Forum",
+      "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Suppliers \u0026 contractors",
+     "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

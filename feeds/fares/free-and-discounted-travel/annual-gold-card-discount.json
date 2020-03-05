@@ -44,7 +44,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Add your discount to your Oyster card\"}",
      "You need to add your Gold Card discount to your Oyster card to get discounted pay as you go fares.",
      "A member of staff can add your discount, at:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Tube, London Overground and TfL Rail stations\",\" \\u003ca href=\\\"http://www.nationalrail.co.uk/stations_destinations/\\\"\\u003eSome National Rail ticket offices\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Tube, London Overground and TfL Rail stations\",\" \\u003ca href=\\\"http://www.nationalrail.co.uk/stations_destinations/\\\"\\u003eSome National Rail ticket offices\\u003c/a\\u003e \",\" \\u003ca href=\\\"https://tfl.gov.uk/maps/oyster-ticket-stops\\\"\\u003eOyster Ticket Stops\\u003c/a\\u003e \",\" \\u003ca href=\\\"/travel-information/visiting-london/getting-around-london/visitor-centres\\\"\\u003eVisitor Centres\\u003c/a\\u003e (except Gatwick Airport South Terminal)\"]}",
      "You'll need to show your ticket or Gold Record Card and give a password.",
      "You can then create or sign in to your \u003ca href=\"/fares/contactless-and-oyster-account\"\u003econtactless and Oyster account\u003c/a\u003e and add your Oyster card. Use the same password you gave to staff when they added your discount. If you don't, you can't get a refund or replacement.",
      "When you renew your annual ticket, you'll need to add the discount to your Oyster card again.",
@@ -69,14 +69,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

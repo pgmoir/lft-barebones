@@ -1,6 +1,6 @@
 {
  "pageTitle": "Cycle Superhighway 11",
- "keywords": "C,Cycle Superhighways,Roads,Cycling,TfL",
+ "keywords": "C,Consultation,Cycle Superhighways,Roads,Cycling,TfL",
  "description": "We are trying to re-work our plans to create a clearer, safer route for cyclists from Swiss Cottage to the West End",
  "template": "page-content",
  "breadcrumbs": [
@@ -43,7 +43,7 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Cycle Superhighway 11 - proposed final layout at Swiss Cottage\",\"url\":\"/cdn/static/cms/documents/cs11-swiss-cottage-final-layout.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.77MB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cs11-swiss-cottage-layout-thumb.jpg\",\"alt\":\"Detail of final layout plan for CS11 at Swiss Cottage\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/cs11-image-web.gif\",\"alt\":\"Artist's impression of Cycle Superhighway 11 looking north along Avenue Road, Swiss Cottage\"}],\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Change of name\"}",
-     "Later in 2019 we will combine 'Cycle Superhighways' and 'Quietways' into one cycle network called 'Cycleways'.",
+     "We are combining some Cycle Superhighways and Quietways into one cycle network called ' \u003ca href=\"/modes/cycling/routes-and-maps/cycleways\"\u003eCycleways\u003c/a\u003e '.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consultation\"}",
      "In early 2016 we consulted on detailed proposals for the CS 11 route from Swiss Cottage to the West End.",
      "The consultation received 60% support from more than 6,000 respondents, but we needed to do more to address issues raised by the borough councils and local community. These included a concern among local residents that motor traffic would increase on some minor roads.",
@@ -60,14 +60,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -90,20 +82,14 @@
     "title": "Also on this site",
     "links": [
      {
-      "title": "Cycle Superhighway 4",
+      "title": "Cycleway 4",
       "url": "/travel-information/improvements-and-projects/cycle-superhighway-4",
       "icon": "internal",
       "image": {}
      },
      {
-      "title": "Cycle Superhighway 9",
+      "title": "Cycleway 9",
       "url": "/travel-information/improvements-and-projects/cycle-superhighway-9",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Cycle Superhighways",
-      "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
       "icon": "internal",
       "image": {}
      }

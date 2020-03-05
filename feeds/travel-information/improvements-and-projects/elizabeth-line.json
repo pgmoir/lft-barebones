@@ -1,6 +1,6 @@
 {
  "pageTitle": "Elizabeth line",
- "keywords": "Public,Rail passengers,TfL Rail,Tube passengers,C,E,Bexley,Ealing,Greenwich,Newham,Tower Hamlets,Westminster,Crossrail,Elizabeth line,Rail,TfL",
+ "keywords": "Public,Rail passengers,TfL Rail,Tube passengers,C,E,Barking and Dagenham,Bexley,City of London,Ealing,Greenwich,Havering,Hillingdon,Hounslow,Newham,Redbridge,Tower Hamlets,Westminster,Crossrail,Elizabeth line,Rail,TfL",
  "description": "The Elizabeth line will run east from Reading and Heathrow to Abbey Wood and Shenfield",
  "template": "page-cards",
  "breadcrumbs": [
@@ -35,7 +35,7 @@
     "title": "A new line for London",
     "texts": [
      "The Elizabeth line will stretch more than 60 miles from Reading and Heathrow in the west through central tunnels across to Shenfield and Abbey Wood in the east.",
-     "The new railway — currently being built by Crossrail Ltd — will stop at 41 accessible stations, 10 newly built and 30 newly upgraded, and is expected to serve around 200 million people each year."
+     "The new railway - currently being built by Crossrail Ltd - will stop at 41 accessible stations, 10 newly built and 30 newly upgraded, and is expected to serve around 200 million people each year."
     ],
     "link": {
      "image": {}
@@ -53,9 +53,9 @@
     "links": [
      {
       "title": "Elizabeth line station map",
-      "url": "/cdn/static/cms/documents/elizabeth-line-december-2019.pdf",
+      "url": "/cdn/static/cms/documents/elizabeth-line-when-fully-open.pdf",
       "icon": "download",
-      "size": "PDF 74KB",
+      "size": "PDF 205KB",
       "image": {
        "url": "https://tfl.gov.uk/cdn/static/cms/images/elizabeth-line-services-2019-thumb.jpg",
        "alt": "Detail of Elizabeth line map - services from 2019"
@@ -113,10 +113,10 @@
    {
     "title": "About TfL Rail",
     "texts": [
-     "This service running from Liverpool Street will become part of the Elizabeth line"
+     "This service will become part of the Elizabeth line"
     ],
     "link": {
-     "url": "/corporate/about-tfl/what-we-do/tfl-rail",
+     "url": "/corporate/about-tfl/what-we-do",
      "image": {}
     },
     "image": {},
@@ -167,23 +167,6 @@
     "template": "twitterupdates",
     "link": {
      "title": "@elizabethline",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Filming \u0026 photography on the Elizabeth line",
-      "url": "https://tfl.gov.uk/info-for/media/filming-and-photography/filming-and-photography-on-the-elizabeth-line",
-      "icon": "external",
-      "image": {}
-     }
-    ],
-    "link": {
      "image": {}
     },
     "image": {},

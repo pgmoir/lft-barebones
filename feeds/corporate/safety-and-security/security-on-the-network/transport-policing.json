@@ -53,7 +53,7 @@
      "There are local transport policing teams in every London borough covering the public transport system.",
      "MPS Safer Transport Teams focus primarily on the bus and road networks, while BTP Neighbourhood Policing Teams work on the rail, Tube and DLR networks.",
      "The local transport policing teams provide a visible and familiar presence on the network. They engage with the public, staff and local communities to identify local concerns and take effective and appropriate action to deal with issues affecting the transport system.",
-     "Find your local \u003ca href=\"https://www.met.police.uk/a/your-area/safer-transport-teams2/\"\u003eMPS Safer Transport Team\u003c/a\u003e and BTP \u003ca href=\"http://www.btp.police.uk/local_btp_teams.aspx\"\u003eNeighbourhood Policing Team\u003c/a\u003e ."
+     "Find your local \u003ca href=\"https://www.met.police.uk/a/your-area/safer-transport-teams/\"\u003eMPS Safer Transport Team\u003c/a\u003e and BTP \u003ca href=\"http://www.btp.police.uk/local_btp_teams.aspx\"\u003eNeighbourhood Policing Team\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -65,14 +65,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

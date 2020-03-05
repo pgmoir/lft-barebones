@@ -43,11 +43,11 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Major works on our network\"}",
      "To help you plan your journey, we regularly estimate the impact of construction works on your journey time.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Downloads\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"All-London traffic impact map - June 2019\",\"url\":\"/cdn/static/cms/documents/major-works-v128-jun.pdf\",\"icon\":\"download\",\"size\":\"PDF 853KB\",\"image\":{}},{\"title\":\"All-London traffic impact map - July 2019\",\"url\":\"/cdn/static/cms/documents/major-works-v129-jul.pdf\",\"icon\":\"download\",\"size\":\"PDF 853KB\",\"image\":{}},{\"title\":\"Areas affected by postcode - June and July 2019\",\"url\":\"/cdn/static/cms/documents/postcodes-june-and-july.xls\",\"icon\":\"download\",\"size\":\"XLS 706KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"All-London traffic impact map - January 2020\",\"url\":\"/cdn/static/cms/documents/major-works-v133-jan2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 845KB\",\"image\":{}},{\"title\":\"All-London traffic impact map - February 2020\",\"url\":\"/cdn/static/cms/documents/major-works-v133-feb2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 844KB\",\"image\":{}},{\"title\":\"Areas affected by postcode - January and February 2020\",\"url\":\"/cdn/static/cms/documents/postcodes-january-and-february-2020.xls\",\"icon\":\"download\",\"size\":\"XLS 1.03MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Major roadworks\"}",
      "Find out specific travel advice for current projects in London:",
      "\u003cstrong\u003eCentral London works\u003c/strong\u003e ",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/status-updates/major-works-and-events/baker-street-roadworks\\\"\\u003eBaker Street roadworks\\u003c/a\\u003e \",\"Trinity Square works\",\" \\u003ca href=\\\"/status-updates/major-works-and-events/victoria-embankment\\\"\\u003eVictoria Embankment\\u003c/a\\u003e \"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/status-updates/major-works-and-events/victoria-embankment\\\"\\u003eVictoria Embankment\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Blackwall Tunnel\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"In 2015, there were 350 breakdowns in or on the approach to the tunnel. Make sure your vehicle is well maintained and check your fuel before you travel\",\"The maximum height of the northbound tunnel is 4.0m/13\\\". The maximum height of the southbound tunnel is 4.7m/15.4\\\". Check your vehicle - if exceeds this, you'll need to use an alternative route\",\"Pedestrians and cyclists are not allowed to enter the Blackwall Tunnel for safety reasons\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Peak times\"}",
@@ -75,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "twitter",
     "title": "Tweets by TfLTrafficNews",

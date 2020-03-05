@@ -3,24 +3,7 @@
  "keywords": "TfL",
  "description": "We're working with Network Rail and our subsidiary Crossrail Ltd. to improve the TfL Rail route, before it becomes part of the Elizabeth line",
  "template": "page-content",
- "breadcrumbs": [
-  {
-   "style": "home",
-   "title": "Home",
-   "url": "/"
-  },
-  {
-   "title": "Improvements \u0026 projects",
-   "url": "/travel-information/improvements-and-projects/index"
-  },
-  {
-   "title": "Elizabeth line",
-   "url": "/travel-information/improvements-and-projects/elizabeth-line"
-  },
-  {
-   "title": "What we've done so far"
-  }
- ],
+ "breadcrumbs": null,
  "title": {
   "title": "What we've done so far",
   "card": {
@@ -110,42 +93,9 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Elizabeth line",
-    "links": [
-     {
-      "title": "What we've done so far",
-      "url": "/travel-information/improvements-and-projects/what-we-ve-done-so-far",
-      "image": {}
-     },
-     {
-      "title": "New trains",
-      "url": "/travel-information/improvements-and-projects/new-trains",
-      "image": {}
-     },
-     {
-      "title": "Improving accessibility",
-      "url": "/travel-information/improvements-and-projects/improving-accessibility",
-      "image": {}
-     },
-     {
-      "title": "Preparing for the Elizabeth line",
-      "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
-      "image": {}
-     }
-    ],
     "link": {
-     "title": "Elizabeth line",
-     "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
      "image": {}
     },
     "image": {},

@@ -14,7 +14,7 @@
    "url": "/transport-accessibility/index"
   },
   {
-   "title": "Door-to-door transport services",
+   "title": "Assisted transport services",
    "url": "/transport-accessibility/door-to-door-transport-services"
   },
   {
@@ -51,25 +51,25 @@
      "This borough does not have Community\nTransport, please try neighbouring schemes.",
      " \u003ca href=\"http://www.croydonaccessibletransport.org.uk/\"\u003eCroydon Accessible Transport (CAT)\u003c/a\u003e ",
      " \u003ca href=\"http://ectcharity.co.uk/\"\u003eEaling Community Transport\u003c/a\u003e ",
-     " \u003ca href=\"http://communitytransportwf.co.uk/\"\u003eCommunity Transport Waltham Forest (CTWF)\u003c/a\u003e ",
+     "This borough does not have Community Transport - contact \u003ca href=\"http://communitytransportwf.co.uk/\"\u003eCommunity Transport Waltham Forest (CTWF)\u003c/a\u003e ",
      "This borough does not have Community Transport, please contact \u003ca href=\"http://www.lascot.com/lascot_minibuses_for_groups\"\u003eLambeth and Southwark Community Transport (LaSCoT)\u003c/a\u003e for minibus transport.",
      " \u003ca href=\"http://www.hackneyct.org/\"\u003eHackney Community Transport (HCT)\u003c/a\u003e ",
-     " \u003ca href=\"http://www.westwayct.org.uk/\"\u003eWestway Community Transport\u003c/a\u003e ",
-     " \u003ca href=\"http://www.ctharingey.org/about_community_transport_haringey\"\u003eCommunity Transport Haringey (HCT)\u003c/a\u003e - part of HCT group.",
+     " \u003ca href=\"http://www.hfctp.co.uk/\"\u003eHammersmith and Fulham Community Transport Project\u003c/a\u003e ",
+     " \u003ca href=\"http://hctgroup.org/\"\u003eCommunity Transport Haringey (HCT)\u003c/a\u003e - part of HCT group.",
      " \u003ca href=\"http://www.harrowct.org.uk/home\"\u003eHarrow Community Transport\u003c/a\u003e ",
      "Contact Havering Community Transport Limited for group travel: \u003ca href=\"mailto:mailto:haveringct@btconnect.com\"\u003eemail\u003c/a\u003e or call on 01708 555 907",
      " \u003ca href=\"http://www.hounslowct.org.uk/\"\u003eHounslow Community Transport \u003c/a\u003e ",
      " \u003ca href=\"http://www.islingtonct.org/\"\u003eIslington Community Transport\u003c/a\u003e - part of HCT group",
      " \u003ca href=\"http://www.westwayct.org.uk/\"\u003eWestway Community Transport\u003c/a\u003e ",
-     " \u003ca href=\"http://www.rakat.org.uk/\"\u003eRichmond and Kingston Accessible Transport (RaKAT)\u003c/a\u003e ",
+     " \u003ca href=\"https://www.kingston.gov.uk/info/200197/sustainable_transport/204/public_transport/10\"\u003eRichmond and Kingston Accessible Transport (RaKAT)\u003c/a\u003e ",
      " \u003ca href=\"http://www.lascot.com/\"\u003eLambeth and Southwark Community Transport (LaSCoT)\u003c/a\u003e - part of HCT group",
      " \u003ca href=\"http://www.mct.uk.com/\"\u003eMerton Community Transport (MCT)\u003c/a\u003e ",
-     " \u003ca href=\"http://communitytransportwf.co.uk/\"\u003eCommunity Transport Waltham Forest\u003c/a\u003e ",
-     "Please try neighbouring schemes.",
-     " \u003ca href=\"http://www.rakat.org.uk/\"\u003eRichmond and Kingston Accessible Transport (RaKAT)\u003c/a\u003e ",
+     "This borough does not have Community Transport - contact \u003ca href=\"http://communitytransportwf.co.uk/\"\u003eCommunity Transport Waltham Forest (CTWF)\u003c/a\u003e ",
+     "This borough does not have Community Transport. Please try neighbouring schemes.",
+     " \u003ca href=\"https://www.kingston.gov.uk/info/200197/sustainable_transport/204/public_transport/10\"\u003eRichmond and Kingston Accessible Transport (RaKAT)\u003c/a\u003e ",
      " \u003ca href=\"http://www.lascot.com/\"\u003eLambeth and Southwark Community Transport (LaSCoT)\u003c/a\u003e - part of HCT group",
      " \u003ca href=\"http://www.suttonct.co.uk\"\u003eSutton Community Transport\u003c/a\u003e ",
-     " \u003ca href=\"http://www.communitytransportwf.co.uk/\"\u003eCommunity Transport Waltham Forest (CTWF)\u003c/a\u003e ",
+     " \u003ca href=\"https://communitytransportwf.co.uk/\"\u003eCommunity Transport Waltham Forest (CTWF)\u003c/a\u003e ",
      " \u003ca href=\"http://www.wctbus.co.uk/\"\u003eWandsworth Community\n        Transport\u003c/a\u003e ",
      " \u003ca href=\"http://www.westwayct.org.uk/\"\u003eWestway Community Transport\u003c/a\u003e "
     ],
@@ -84,14 +84,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -102,7 +94,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -142,7 +134,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

@@ -41,23 +41,24 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We want to build a new river crossing for pedestrians and cyclists between Rotherhithe and Canary Wharf.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "This will create a much needed new route across the Thames in east London and benefit communities on both sides of the river.",
-     "It will link into nearby cycle routes and help encourage more people to walk and cycle in line with the Mayor's \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets approach for London\u003c/a\u003e .",
+     "{\"template\":\"intro\",\"texts\":[\"We want to build a new river crossing for pedestrians and cyclists between Rotherhithe and Canary Wharf. We're currently looking at options for a fast ferry service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "A new crossing would create a much needed route across the Thames in east London and benefit communities on both sides of the river.",
+     "It would link into nearby cycle routes and help encourage more people to walk and cycle in line with the Mayor's \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets Approach for London\u003c/a\u003e .",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/river-crossing-points.jpg\",\"alt\":\"Map of proposed river crossing points\"},\"wrapped\":false}",
-     "The proposal forms part of the Mayor's wider package of river crossings and new walking and cycling infrastructure in east London as set out in his Manifesto and \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003ethe Mayor's Transport Strategy\u003c/a\u003e .",
-     "A new river crossing would give thousands of people a direct, above ground link between Canada Water and Canary Wharf, and support jobs and new homes in the area.",
-     "We have worked with the engineering consultants Arcadis and Knight Architects to review the need for a new crossing and explore different options to make sure the crossing chosen is value for money. We considered design and engineering issues and modelled demand for different crossings at this location, as well as speaking to local residents and stakeholders.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Options for a crossing\"}",
+     "We have worked with engineering consultants Arcadis and Knight Architects to review the need for a new crossing and explore different options to make sure the crossing chosen is value for money. We considered design and engineering issues and modelled demand for different crossings at this location, as well as speaking to local residents and stakeholders.",
      "This work led to a shortlist of three options:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Enhanced ferry service\",\"Navigable bridge that opens to allow river traffic to pass through\",\"Tunnel\"]}",
-     "These options were assessed on their ability to meet the scheme's objectives, likely costs, potential benefits and possible impact.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consultation\"}",
-     "So far, a navigable bridge is our preferred option and we're investigating it in greater detail. Londoners gave their views on this decision, and other options such as a specific location, during our public consultation in late 2017/early 2018. The consultation report and our response to the issues raised are on the \u003ca href=\"https://consultations.tfl.gov.uk/rivercrossings/rotherhithe-canarywharf/?cid=r2cw-crossing\"\u003eRotherhithe-Canary Wharf crossing consultation page\u003c/a\u003e .",
-     "While our preference is for a navigable bridge, no final decisions have been made and Londoners are welcome to recommend alternative designs or options as part of the consultation process.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Enhanced ferry service\",\"An opening bridge that opens to allow river traffic to navigate through it\",\"Tunnel\"]}",
+     "These options were assessed on how well they met the scheme's objectives, likely costs, potential benefits and possible impact.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Next steps\"}",
-     "We have decided to pause our work to develop a new bridge between Rotherhithe and Canary Wharf. We have identified a good solution, but an opening bridge in this place is complex and will cost more than we can afford right now.",
-     "There is still a strong case for a new crossing for people who want to walk or cycle over the river between Rotherhithe and Canary Wharf. We're exploring options for a new fast ferry service to support new homes and jobs in the area. Along with our wider investment in new cycling facilities in this part of London, this would let more people to choose walking and cycling.",
-     "Our work to develop proposals for a bridge means we now have a high-quality design, detailed procedures for how it would operate and plans for how it could be built in the future. We will keep this under review and update everyone once our proposals for a ferry service have moved ahead."
+     "So far, an opening bridge between Rotherhithe and Canary Wharf is our preferred option. But such a bridge in this place is complex and will cost more than we can afford right now, so we have decided to pause our work to develop a new bridge .",
+     "We're looking at options instead for a new fast ferry service. Along with our wider investment in new cycling facilities in this part of London, this would let more people choose walking and cycling and support new homes and jobs in the area",
+     "Our work to develop proposals for a bridge has given us a high quality design, detailed procedures for how it would operate and plans for how it could be built in the future. We will keep this under review and update everyone once our proposals for a ferry service have moved ahead.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Mayor's Transport Strategy\"}",
+     "A new river crossing would give thousands of people a direct, above ground link between Canada Water and Canary Wharf..",
+     "This proposal is part of the Mayor's wider package of river crossings and new walking and cycling infrastructure in east London that was set out in his Manifesto and \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003ethe Mayor's Transport Strategy\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consultation\"}",
+     "Londoners gave their views on all the options, as well as other decisions such as where to put an opening bridge, during our public consultation in late 2017/early 2018. The consultation report and our response to the issues raised are on the \u003ca href=\"https://consultations.tfl.gov.uk/rivercrossings/rotherhithe-canarywharf/?cid=r2cw-crossing\"\u003eRotherhithe-Canary Wharf crossing consultation page\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -69,14 +70,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -115,6 +108,11 @@
      {
       "title": "Developing the rail network",
       "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network",
+      "image": {}
+     },
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking",
       "image": {}
      },
      {

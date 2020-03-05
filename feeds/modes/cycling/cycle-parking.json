@@ -1,0 +1,115 @@
+{
+ "pageTitle": "Cycle parking",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Find places to park your cycle at stations, on and off streets and near your home across London.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Cycle parking"
+  }
+ ],
+ "title": {
+  "title": "Cycle parking",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Find places to park your cycle at stations, on and off streets and near your home across London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"At stations\"}",
+     "There are over 20,000 cycle parking spaces at stations across London. Many free spaces are near the entrance or in our station car parks.",
+     "You can also use Cycle Hubs which provide secure and covered spaces near stations:",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://cyclehoop.force.com/RentalsCommunity/yourcycleparking?id=a0h0O00002Yz1bIQAR\\\"\\u003eEnfield Town and Edmonton Green\\u003c/a\\u003e (Enfield)\",\" \\u003ca href=\\\"https://cyclehoop.force.com/RentalsCommunity/yourcycleparking?id=a0h0O00002OCDo8QAH\\\"\\u003eFinsbury Park\\u003c/a\\u003e (Islington)\",\" \\u003ca href=\\\"https://www.heathrow.com/transport-and-directions/cycling\\\"\\u003eHeathrow\\u003c/a\\u003e (Hillingdon)\",\" \\u003ca href=\\\"https://www.enjoywalthamforest.co.uk/cycle-parking/cyclehubs/\\\"\\u003eWaltham Forest\\u003c/a\\u003e (Walthamstow Central, Walthamstow, Leytonstone, Wood Street, St James Street and Leyton)\"]}",
+     "There's also \u003ca href=\"https://www.nationalrail.co.uk/stations_destinations/default.aspx\"\u003ecycle parking at National Rail stations\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"On streets\"}",
+     "There are almost 150,000 \u003ca href=\"https://bikedata.cyclestreets.net/tflcid:type=cycle_parking/#16/51.5149/-0.0948/opencyclemap\"\u003eon-street cycle parking spaces across London\u003c/a\u003e (data from CycleStreets).",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Off streets\"}",
+     "Some councils in London provide secure cycle parking in their car parks. This includes the City of London who have free, 24-hour \u003ca href=\"https://www.cityoflondon.gov.uk/services/transport-and-streets/road-safety/cycling/Pages/cycle-parking.aspx\"\u003ecycle parking in five car parks across central London\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Near your home\"}",
+     "You can use a \u003ca href=\"https://www.cyclehoop.rentals/\"\u003ecycle hangar\u003c/a\u003e - a safe, covered place to park your cycle. There are over 7,200 spaces across 25 London boroughs.",
+     "If you'd like a cycle hangar near your home, you can apply for one through your local council.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/bike-hangar-web-image.jpg\",\"alt\":\"Woman putting her bike into a Cyclehangar on a residential street.\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Protect your cycle\"}",
+     "To \u003ca href=\"https://www.met.police.uk/cp/crime-prevention/theft-of-a-bicycle/how-safe-is-your-bike/\"\u003ekeep your cycle safe\u003c/a\u003e , you should register it with \u003ca href=\"https://www.bikeregister.com/\"\u003eBikeRegister\u003c/a\u003e or \u003ca href=\"https://www.immobilise.com/\"\u003eImmobilise\u003c/a\u003e .",
+     "If your cycle is stolen, you need to \u003ca href=\"http://www.btp.police.uk/advice_and_information-1/keeping_your_belongings_safe/reporting_theft.aspx\"\u003ereport a cycle crime\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003eSantander Cycle docking stations\\u003c/a\\u003e \",\" \\u003ca href=\\\"http://content.tfl.gov.uk/cycle-parking-implementation-plan.pdf\\\"\\u003eCycle Parking Implementation Plan\\u003c/a\\u003e (.PDF)\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/santander-cycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

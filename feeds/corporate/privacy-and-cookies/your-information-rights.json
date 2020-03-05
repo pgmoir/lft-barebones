@@ -34,15 +34,15 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Protecting personal information is important to us all. At TfL we have an obligation to use personal information lawfully and appropriately. We take this responsibility seriously, because this data is also a key resource.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Data enables us, for instance, to manage and recruit staff, provide customer service, operate the ticketing system and the Congestion Charge and Cycle Hire schemes and regulate the taxi and private hire trade.",
+     "Data enables us, for instance, to manage and recruit staff, provide customer service, operate the ticketing system and the Congestion Charge and Cycle Hire schemes and regulate the taxi and private hire trade.",
      "Information about how people move around London helps us provide you with safe, efficient transport services, as well as providing you with services to help you plan your journey.",
      "\u003cstrong\u003eContacting the Data Protection Officer\u003c/strong\u003e \u003cbr /\u003eRichard Bevins is the Data Protection Officer for TfL and its subsidiary companies, including London Underground Limited, Crossrail Ltd, the TfL Pension Fund and the London Transport Museum.",
-     "You can contact the Data Protection Officer by email at \u003ca href=\"mailto:dpo@tfl.gov.uk\"\u003edpo@tfl.gov.uk\u003c/a\u003e or by writing to:\u003cbr /\u003eData Protection Officer\u003cbr /\u003e55 Broadway\u003cbr /\u003eLondon\u003cbr /\u003eSW1H 0BD",
+     "You can contact the Data Protection Officer by email at \u003ca href=\"mailto:dpo@tfl.gov.uk\"\u003edpo@tfl.gov.uk\u003c/a\u003e or by writing to:\u003cbr /\u003eData Protection Officer\u003cbr /\u003e4th Floor\u003cbr /\u003e5 Endeavour Square\u003cbr /\u003eLondon E20 1JN",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What the Data Protection Officer does\"}",
      "It is a requirement for public authorities to appoint a Data Protection Officer to oversee the collection, handling and use of personal data. The Data Protection Officer informs and advises TfL and its subsidiaries about our obligations to comply with the General Data Protection Regulation (GDPR) and other data protection legislation.",
      "The Data Protection Officer manages the Privacy and Data Protection team, who monitor compliance with data protection legislation, raise awareness of data protection issues, train employees and advise on, and monitor, data protection impact assessments.",
      "The Privacy and Data Protection team consider and coordinate responses to requests and complaints from people whose personal data is processed by TfL and its subsidiary companies.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your rights under data protection legislation\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Your rights under data protection legislation\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Right to be informed\"}",
      "There must be a clear reason why Transport for London (TfL) needs to collect or use personal information. We tell people when we're collecting their personal information and what we're going to do with it. A summary of this information will usually be provided to you when we collect your personal information, with more detailed descriptions relating to the TfL website and TfL services published on our Privacy \u0026 cookies page.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Right of access\"}",
@@ -56,7 +56,7 @@
      "Requests for deletion will normally be answered within one month. If we do not agree that we should delete your information we will explain our decision and provide details about how you can challenge the decision if you are dissatisfied with the outcome.",
      "Please note in cases where we do comply with a request, we may still be obliged to keep some information about you - for example the fact that you made, and we acted on, a deletion request. We may also have to keep your contact details on a 'suppression list' to ensure that don't send you direct marketing messages by mistake in future.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Right to restrict processing\"}",
-     "You can ask us to restrict or stop using your personal data whilst we are considering an objection or rectification request, or if it has been used unlawfully. You may also ask us to retain data required to establish, exercise or defend a legal claim.  We will contact you within one month to explain our decision and provide details about how you can challenge the decision if you are dissatisfied with the outcome.",
+     "You can ask us to restrict or stop using your personal data whilst we are considering an objection or rectification request, or if it has been used unlawfully. You may also ask us to retain data required to establish, exercise or defend a legal claim. We will contact you within one month to explain our decision and provide details about how you can challenge the decision if you are dissatisfied with the outcome.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Right to data portability\"}",
      "If we are using computers to process personal information that you have provided to us, either under contract, or with your permission to use it, you can request this information is supplied to you in re-usable electronic format, such as a CSV, JSON or XML file.",
      "Requests will normally be answered within one month, and we will tell you if it is necessary to extend this time period for any reason.",
@@ -85,14 +85,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Privacy \u0026 cookies",
@@ -100,11 +92,6 @@
      {
       "title": "Access your data",
       "url": "/corporate/privacy-and-cookies/access-your-data",
-      "image": {}
-     },
-     {
-      "title": "Bus data collection pilot",
-      "url": "/corporate/privacy-and-cookies/bus-data-collection-pilot",
       "image": {}
      },
      {
@@ -138,6 +125,11 @@
       "image": {}
      },
      {
+      "title": "Direct Vision Standard and the HGV safety permit scheme",
+      "url": "/corporate/privacy-and-cookies/direct-vision-standard-and-the-hgv-safety-permit-scheme",
+      "image": {}
+     },
+     {
       "title": "Employment",
       "url": "/corporate/privacy-and-cookies/employment",
       "image": {}
@@ -165,6 +157,11 @@
      {
       "title": "Protect your data",
       "url": "/corporate/privacy-and-cookies/protect-your-data",
+      "image": {}
+     },
+     {
+      "title": "Reporting street problems",
+      "url": "/corporate/privacy-and-cookies/reporting-street-problems",
       "image": {}
      },
      {

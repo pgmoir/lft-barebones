@@ -5,7 +5,7 @@
 
 
 @{ViewBag.Title = "Preparing for the Elizabeth line";}
-@{ViewBag.Keywords = "Passengers with accessibility needs,Public,Rail passengers,Tube passengers,Visitors,C,E,T,Barking & Dagenham,Bexley,Camden,City of London,Ealing,Greenwich,Havering,Hillingdon,Islington,Newham,Redbridge,Tower Hamlets,Westminster,Accessible travel,Boroughs,Rail improvements,Safety and security,Crossrail,Rail,TfL Rail,TfL";}
+@{ViewBag.Keywords = "Passengers with accessibility needs,Public,Rail passengers,Tube passengers,Visitors,C,E,T,Barking and Dagenham,Bexley,Camden,City of London,Ealing,Greenwich,Havering,Hillingdon,Islington,Newham,Redbridge,Tower Hamlets,Westminster,Accessible travel,Boroughs,Rail improvements,Safety and security,Crossrail,Rail,TfL Rail,TfL";}
 @{ViewBag.Url = "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line";}
 @{ViewBag.Language = "en";}
         <!-- empty placeholder -->
@@ -53,7 +53,7 @@
   <div class="main content-container" role="main">
     
       <div class="article-teaser">
-        TfL Rail runs from Paddington to Heathrow Airport and Liverpool Street to Shenfield. These sections will become parts of the Elizabeth line when it is completed. Many improvements are being made to get ready.
+        The Elizabeth line will stretch more than 60 miles from Reading and Heathrow in the west through central tunnels to Shenfield and Abbey Wood in the east. Many improvements are being made to get ready.
         
       </div>
     
@@ -63,25 +63,27 @@
            
       <div>
 
-<h2>TfL Rail&nbsp;services to Heathrow Airport</h2>
+<h2>TfL Rail&nbsp;services to Reading</h2>
 </div>
  <div class="clearfix">
-    <div class="image-box left-float">
+    <div class="image-box right-float">
     
         
         
-        <img src="/cdn/static/cms/images/tfl-rail-heathrow-700x438_rdax_400x250.jpg" alt="TfL Rail to Heathrow Airport" />
+        <img src="/cdn/static/cms/images/tfl-rail-class-345-438_rdax_400x250.jpg" alt="TfL Rail class 345 train" />
         
         
         
     </div>
-    <p>TfL Rail provides&nbsp;stopping services from Paddington&nbsp;to Heathrow Airport&nbsp;(Terminals 2&amp;3 and Terminal 4 stations) via Hayes &amp; Harlington.</p>
+    <p>TfL Rail now runs stopping services from Paddington to Reading.</p>
 
-<p>Services from Paddington to Heathrow run every 30 minutes, with&nbsp;a&nbsp;journey time&nbsp;of about 35 minutes.&nbsp;Free shuttle services&nbsp;run from Terminals 2&amp;3&nbsp;to Terminal 5 with a journey time of 6 minutes.</p>
+<p>During peak times, services from Reading run every 15 minutes. Two trains an hour will run during off-peak. A <a href="/modes/tfl-rail/tfl-rail-timetables">new TfL Rail timetable</a>&nbsp;introduced on 15 December 2019 shows changes to train and departure times.</p>
 
-<p>Contactless, Oyster&nbsp;and Visitor Oyster cards are accepted&nbsp;on TfL Rail.&nbsp;A single adult pay as you go fare between Paddington and Heathrow is &pound;10.50 during peak hours, and &pound;10.10 at all other times. <a href="/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps">You may also benefit from daily capping.</a></p>
+<p>Children under 11 and Freedom Pass holders are able to travel for free. Existing ticketing arrangements will apply and fares will remain at the current price. New fares and contactless will be introduced on 2 January 2020.</p>
 
-<p>When fully operational,&nbsp;the Elizabeth line will run directly from Heathrow Airport into&nbsp;central London stations including Bond Street, Liverpool Street and Canary Wharf.</p>
+<p>The TfL Rail service between Paddington and Reading will become part of the new Elizabeth line when it launches.</p>
+
+<p>TfL Rail currently operates between Paddington, Hayes &amp; Harlington and Heathrow Terminals 2&amp;3 and 4 as well as Liverpool Street to Shenfield in the east.</p>
  </div>
  <div>
 
@@ -93,7 +95,7 @@ New features include:</p>
 <ul>
 	<li><strong>Station staff from first to last train: </strong>If you need assistance there is no need to pre-book&nbsp;—&nbsp;staff will be on hand to help you</li>
 	<li><strong>New trains: </strong>These new high-capacity trains feature air-conditioned walk-through carriages and&nbsp;include dedicated wheelchair spaces as well as separate multi-use spaces which can also be used for buggies, luggage and bicycles. A fleet of 70 new 200 metre trains will serve the Elizabeth line when it is completed</li>
-	<li><strong>Wi-Fi on new trains: </strong>Free onboard Wi-Fi is gradually being introduced on the new trains that will form the Elizabeth line. If you're travelling on one of the new trains between Liverpool Street to Shenfield or Paddington to Hayes &amp; Harlington, look for the signage to see if you can sign on. When completed, all Elizabeth line trains will be equipped with free on-board Wi-Fi<br />
+	<li><strong>Wi-Fi on new trains: </strong>Free onboard Wi-Fi is gradually being introduced on the new trains that will form the Elizabeth line. If you're travelling on one of the new trains between Liverpool Street to Shenfield or Paddington to Reading, look for the signage to see if you can sign on. When completed, all Elizabeth line trains will be equipped with free on-board Wi-Fi<br />
 	&nbsp;</li>
 </ul>
 </div>
@@ -108,6 +110,29 @@ New features include:</p>
         
     </div>   
  </div>
+ 
+
+ @this.ScriptBlock(
+     @<script>
+          queue.push(
+            "@Html.ScriptPath("plugins/gallery-media.min.js")", null,
+            function() {
+                var galleryLite = $(".gallery-lite");
+
+                if (galleryLite.length) {
+                    galleryLite.gallery();
+                }
+            }
+        );
+     </script>
+ )
+      
+<div class="gallery-lite-wrap">
+    <ul class="gallery-lite no-borders">
+    
+    
+  </ul>
+</div>
  <div>
 
 <h2>New stations in central London</h2>
@@ -117,7 +142,7 @@ New features include:</p>
 <h2>Improvements in existing stations</h2>
 </div>
  <div class="clearfix">
-    <div class="image-box left-float">
+    <div class="image-box right-float">
     
         
         
@@ -128,7 +153,7 @@ New features include:</p>
     </div>
     <ul>
 	<li><strong>New and improved buildings: </strong>Brighter and more&nbsp;spacious ticket halls and waiting areas are being installed&nbsp;at a number of stations</li>
-	<li><strong>Step-free access at every station: </strong>New lifts and footbridges are being installed to provide step-free access and better walking routes</li>
+	<li><strong><a href="/travel-information/improvements-and-projects/step-free-access">Step-free access</a> at every station: </strong>New lifts and footbridges are being installed to provide step-free access and better walking routes</li>
 	<li><strong>Platform enhancements: </strong>New signage, help points, information screens and CCTV to&nbsp;help get your journey off to a good start</li>
 </ul>
  </div>
@@ -136,19 +161,20 @@ New features include:</p>
 
 <h2>Major upgrades&nbsp;to&nbsp;the eastern and western sections</h2>
 
-<p>The eastern and western sections of the Elizabeth line route runs on the existing rail network between Liverpool Street and Shenfield, and Paddington to Heathrow, until the central section of the Elizabeth line opens. During this time a number of major upgrades are being carried out by Network Rail in preparation.</p>
+<p>The eastern and western sections of the Elizabeth line route runs on the existing track network between Liverpool Street and Shenfield, and Paddington to Heathrow and Reading, until the central section of the Elizabeth line opens. During this time a number of major upgrades are being carried out by Network Rail in preparation.</p>
 
 <p>To find out more about Network Rail works visit these pages on their website:</p>
 
 <ul>
 	<li><a href="https://www.networkrail.co.uk/our-railway-upgrade-plan/key-projects/crossrail/">Crossrail project</a></li>
 	<li><a href="https://www.networkrail.co.uk/running-the-railway/looking-after-the-railway/planned-works/">Planned works</a>, with information about weekend and holiday closures</li>
-	<li><a href="https://www.networkrail.co.uk/running-the-railway/looking-after-the-railway/fleet-machines-vehicles/high-output/">Network Rail's High Output programme</a>, with information about the mid-week track work that usually takes place in&nbsp;the evening</li>
 </ul>
 
-<p>The Crossrail project will provide quicker, easier, more reliable journeys for customers. Thank you for your patience during all of this work.</p>
+<p>The Elizabeth line&nbsp;will provide quicker, easier, more reliable journeys for customers. Thank you for your patience during all of this Crossrail project work.</p>
 
 <h2>Liverpool Street to Shenfield</h2>
+
+<p>Improvements are being made at stations from Liverpool Street to Shenfield in preparation for the Elizabeth line.</p>
 </div>
  <div class="accordion">
 
@@ -166,30 +192,21 @@ New features include:</p>
                 <div id="brentwood-station-heading" class="accordion-heading">Brentwood station</div>
             </div>
             <div id="brentwood-station-content" class="start-hidden" role="region" aria-labelledby="brentwood-station-heading">
-<p>A number of improvements are being delivered at Brentwood station in preparation for the new Elizabeth line services. Most of this work has now been completed.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We successfully refurbished the ticket office and waiting room in early 2017.&nbsp; The canopy glazing at the main entrance has been replaced and platform 4 gateline works have also been completed.</p>
-
-<p>We installed:</p>
-
 <ul>
-	<li>New ticket gates in the main ticket hall and on platform 4</li>
-	<li>Redecoration and refresh work on the toilets/accessible toilet and waiting room on platform 4</li>
-	<li>Accessible ticket office windows</li>
-	<li>A new entrance door in the main ticket hall</li>
-	<li>New digital screens in the ticket hall to make customer information easier to see</li>
-	<li>New seating has been put in on platforms</li>
-	<li>Redecoration and refresh work on the toilets and waiting room on platform 3</li>
+	<li>Restored the station building and redecorated throughout to make the station cleaner and brighter</li>
+	<li>Refurbished the ticket office and installed new digital information screens&nbsp;</li>
+	<li>Installed new ticket machines and ticket gates to help make journeys easier</li>
+	<li>Refurbished the waiting rooms and toilets&nbsp;</li>
+	<li>Made the station more accessible with new ticket office windows and accessible toilets</li>
+	<li>Installed a water fountain and added new benches on the platforms</li>
 </ul>
-
-<p>We also redecorated inside and out and improved live travel information to help get your journey off to a good start.</p>
 
 <h3>What's next</h3>
 
 <ul>
-	<li>Canopy roof renewal works to platforms 1,2 &amp; 4 is due for completion in summer 2019</li>
+	<li>Longer platforms for the new trains</li>
 </ul>
 
             </div>
@@ -206,19 +223,21 @@ New features include:</p>
                 <div id="chadwell-heath-station-heading" class="accordion-heading">Chadwell Heath station</div>
             </div>
             <div id="chadwell-heath-station-content" class="start-hidden" role="region" aria-labelledby="chadwell-heath-station-heading">
-<p>A number of improvements are being delivered at Chadwell Heath station in preparation for the new Elizabeth line service.</p>
-
 <h3>What we've done so far</h3>
 
-<p>By refurbishing the ticket hall, platform buildings and waiting room we've made the station brighter and more accessible, with new accessible toilets and ticket office windows. We also relocated the ticket gates to help make our staff more visible.</p>
-
-<p>New digital screens in the ticket hall will make customer information easier to see.</p>
-
-<p>We completed platform redecoration and added&nbsp;new platform shelters.</p>
+<ul>
+	<li>Restored the station building and redecorated throughout to make the station cleaner and brighter</li>
+	<li>Refurbished the ticket office and installed new digital information screens&nbsp;</li>
+	<li>Installed new ticket machines and ticket gates to help make journeys easier</li>
+	<li>Refurbished the waiting room and installed a new waiting shelter</li>
+	<li>Made the station more accessible with new ticket office windows and an accessible toilet</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Remaining parts of the canopy on platforms 2 &amp; 3 are being redecorated, and will be completed by end of June 2019.</p>
+<ul>
+	<li>Longer platforms for the new trains</li>
+</ul>
 
             </div>
         </div>
@@ -234,27 +253,22 @@ New features include:</p>
                 <div id="forest-gate-station-heading" class="accordion-heading">Forest Gate station</div>
             </div>
             <div id="forest-gate-station-content" class="start-hidden" role="region" aria-labelledby="forest-gate-station-heading">
-<p>A number of improvements are being delivered at Forest Gate station in preparation for the new Elizabeth line service.</p>
-
 <h3>What we've done so far</h3>
 
 <ul>
-	<li>There is step free access from the street to platforms 1,2 &amp; 3</li>
-	<li>The footbridge, ticket hall and ticket office have been refurbished</li>
-	<li>New benches have been installed on platforms</li>
-	<li>The waiting shelter on platform 1 has been refurbished</li>
+	<li>Refurbished the station building and improved lighting to make the station cleaner and brighter</li>
+	<li>Refurbished the ticket office and installed new ticket machines and digital information screens</li>
+	<li>Installed new lifts to provide step-free access from the street to platforms 1,2 and 3</li>
+	<li>Refurbished the waiting shelter on platform 1 and added new benches on platforms</li>
+	<li>Made the station more accessible with new ticket office windows and an accessible toilet</li>
 </ul>
 
 <h3>What's next</h3>
 
 <ul>
+	<li>Longer platforms for the new trains</li>
 	<li>A new lift offering step-free access from the street to platform 4</li>
-	<li>Improved lighting, CCTV and PA systems, help points and customer information</li>
-	<li>Longer and refurbished platforms for the new trains</li>
-	<li>New platform seating and a refurbished waiting room</li>
 </ul>
-
-<p>Network Rail's work to upgrade the station is expected to be complete in summer 2019.</p>
 
             </div>
         </div>
@@ -270,25 +284,24 @@ New features include:</p>
                 <div id="gidea-park-station-heading" class="accordion-heading">Gidea Park station</div>
             </div>
             <div id="gidea-park-station-content" class="start-hidden" role="region" aria-labelledby="gidea-park-station-heading">
-<p>A number of improvements are being delivered at Gidea Park station in preparation for the new Elizabeth line service.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We recently refurbished the outside of the station building. We also improved the area around the car park entrance by refurbishing the cycling facilities and improving the landscaping and lighting around the entrance.</p>
+<ul>
+	<li>Restored the station building and redecorated throughout to make the station cleaner and brighter</li>
+	<li>Installed two new lifts providing step-free access from the street to all platforms</li>
+	<li>Installed new ticket machines at both entrances to help make journeys easier</li>
+	<li>Refurbished the ticket office and installed new digital information screens&nbsp;</li>
+	<li>Made the station more accessible with new ticket office windows and an accessible toilet</li>
+	<li>Refurbished the waiting rooms and toilets and added new benches on the platforms</li>
+</ul>
 
 <h3>What's next</h3>
 
+<p>Network Rail's work to upgrade the station is expected to be completed in line with the full Elizabeth line opening and will include:</p>
+
 <ul>
-	<li>Three new lifts providing step-free access from the street to all platforms</li>
-	<li>Refurbished footbridge and ticket hall with new ticket gates and ticket machines</li>
-	<li>Improved lighting, CCTV and PA systems, help points and customer information</li>
-	<li>Longer and refurbished platforms for the new trains</li>
-	<li>New platform seating</li>
+	<li>Longer platforms for the new trains</li>
 </ul>
-
-<p>Network Rail's work to upgrade the station is expected to be complete in&nbsp;summer 2019.</p>
-
-<p>Once Network Rail finishes refurbishing the footbridge and installing the lift, customers will have step-free access to all platforms.</p>
 
             </div>
         </div>
@@ -304,27 +317,23 @@ New features include:</p>
                 <div id="goodmayes-station-heading" class="accordion-heading">Goodmayes station</div>
             </div>
             <div id="goodmayes-station-content" class="start-hidden" role="region" aria-labelledby="goodmayes-station-heading">
-<p>A number of improvements are being delivered at Goodmayes station in preparation for the new Elizabeth line service.</p>
+<h3>What we've&nbsp;done so far</h3>
 
-<h3>What we've done so far</h3>
-
-<p>We completed platform redecoration.&nbsp;The waiting shelter has been refurbished.</p>
+<ul>
+	<li>Restored the station building and redecorated throughout to make the station cleaner and brighter</li>
+	<li>Installed two new lifts providing step-free access from the street to platforms 2,3 &amp; 4</li>
+	<li>Installed new ticket machines and ticket gates to help make journeys easier</li>
+	<li>Installed a new waiting shelter, benches on the platforms and an accessible toilet</li>
+</ul>
 
 <h3>What's next</h3>
 
+<p>Network Rail is improving this&nbsp;station:</p>
+
 <ul>
-	<li>Three new lifts providing step-free access from the street to all platforms</li>
-	<li>Refurbished ticket hall with new ticket gates and ticket machines</li>
-	<li>Improved lighting, CCTV and PA systems, help points and customer information</li>
-	<li>Longer and refurbished platforms for the new trains</li>
-	<li>New platform seating</li>
+	<li>Longer platforms for the new trains</li>
+	<li>New lift to platform 4</li>
 </ul>
-
-<p>Network Rail's work to upgrade the station is expected to be complete in summer 2019.</p>
-
-<p>During this work, please use the temporary ticket office outside the station entrance on Goodmayes Road. Alternatively, use contactless payment or nearby Oyster ticket stops.</p>
-
-<p>Improvements we're making until summer 2019 include refurbishing and redecorating platform buildings and canopies. We will also put in new platform shelters and seating.</p>
 
             </div>
         </div>
@@ -340,34 +349,26 @@ New features include:</p>
                 <div id="harold-wood-station-heading" class="accordion-heading">Harold Wood station</div>
             </div>
             <div id="harold-wood-station-content" class="start-hidden" role="region" aria-labelledby="harold-wood-station-heading">
-<p>A number of improvements are being delivered at Harold Wood station in preparation for the new Elizabeth line service.</p>
-
 <h3>What we've done so far</h3>
 
-<p>The waiting room has recently been refurbished. We redecorated the walls, floors, door and windows, making it a more pleasant place to wait for your train.</p>
-
-<p>Network Rail have also refurbished the toilets and provided new, accessible facilities.</p>
+<ul>
+	<li>Restored the station building and redecorated throughout to make the station cleaner and brighter</li>
+	<li>Refurbished the waiting rooms and added new benches on the platforms</li>
+	<li>Refurbished the toilets and made them accessible</li>
+	<li>Installed four new lifts providing step-free access to platforms</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Improvements currently in progress include:</p>
-
 <ul>
-	<li>Three new lifts providing step-free access from the street to all platforms</li>
-	<li>Refurbished ticket hall with new ticket gates and ticket machines</li>
-	<li>Improved lighting, CCTV and PA systems, Help points and customer information</li>
-	<li>Longer and refurbished platforms for the new trains</li>
-	<li>New platform seating</li>
-	<li>Waiting room refresh and deep clean works</li>
+	<li>A refurbished ticket hall with new ticket gates and ticket machines</li>
 </ul>
 
-<p>Network Rail's work to provide step-free access at the station is expected to be complete in summer 2019. Improvements to the ticket hall are expected to be complete by winter 2019.</p>
+<p>Until the new ticket hall has been refurbished, access to trains and tickets continues to be via the car park entrance on Station Road only.</p>
 
-<p>Until then, access to trains and tickets continues to be via the car park entrance on Station Road only.</p>
+<p>During this time, there are 81 car park spaces available. Season ticket holders and disabled space users can use alternative spaces. Other users may find it easier to use the car park at nearby Brentwood station.</p>
 
-<p>Please take care on the extra 32 stairs, or take an eastbound train to Brentwood and change there to a westbound train. Alternatively, speak to a member of staff for advice.</p>
-
-<p>During this time, there will be 81 car park spaces available. Season ticket holders and disabled space users can use alternative spaces. Other users may find it easier to use the car park at nearby Brentwood station.</p>
+<p>Take care on the extra stairs, or take an eastbound train to Brentwood and change there to a westbound train. Alternatively, speak to a member of staff for advice.</p>
 
             </div>
         </div>
@@ -383,31 +384,24 @@ New features include:</p>
                 <div id="ilford-station-heading" class="accordion-heading">Ilford station</div>
             </div>
             <div id="ilford-station-content" class="start-hidden" role="region" aria-labelledby="ilford-station-heading">
-<p>Ilford station is being rebuilt, with a new station entrance, better ticket hall and new lifts. A new spacious, modern and bright station building on Cranbrook Road has been designed to stand out as a prominent building that is visible from the surrounding area.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We have&nbsp;already enhanced the access from York Road by creating a new ticket hall from an existing Network Rail building. The new ticket hall includes:</p>
-
 <ul>
-	<li>two new ticket machines, four new ticket gates and a wide aisle gate</li>
-	<li>improved customer information</li>
-	<li>newly painted walls and tiled floor and ceiling</li>
-	<li>deep cleaning and restoration of the building exterior</li>
-	<li>new wayfinding signage and lighting.</li>
-	<li>new waiting room</li>
-	<li>new benches on platforms</li>
+	<li>Created a new entrance from York Road with ticket gates, digital information screens and a new ticket machine</li>
+	<li>Redecorated throughout to make the station cleaner and brighter</li>
+	<li>Refurbished the waiting room with USB ports for phone charging</li>
+	<li>Added new benches on the platforms</li>
+	<li>Refurbished the toilets</li>
 </ul>
-
-<p>We installed digital screens at the York Road entrance to make customer information easier to see.</p>
-
-<p>We have male &amp; female toilets on platforms and an accessible toilet in the ticket hall.</p>
 
 <h3>What's next</h3>
 
-<p>Network Rail is currently planning&nbsp;the major station rebuild for Ilford. The work should be complete when the Elizabeth line fully opens.</p>
-
-<p>In the meantime, until winter 2018, we are making improvements which include refurbishing platform canopies, station toilets and building new platform shelters.</p>
+<ul>
+	<li>Longer platforms for the new trains</li>
+	<li>Two new station entrances on Cranbrook Road and Ilford Hill</li>
+	<li>A new ticket hall and ticket gates to ease congestion at peak times</li>
+	<li>Three new lifts to provide step-free access to platforms</li>
+</ul>
 
             </div>
         </div>
@@ -423,17 +417,19 @@ New features include:</p>
                 <div id="manor-park-station-heading" class="accordion-heading">Manor Park station</div>
             </div>
             <div id="manor-park-station-content" class="start-hidden" role="region" aria-labelledby="manor-park-station-heading">
-<p>Manor Park station is undergoing a number of enhancements to facilitate the new Elizabeth line services, including new lifts, new signage, help points, customer information screens and CCTV.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We have refurbished and redecorated&nbsp;the ticket office, platforms and toilets along with&nbsp;new signage.</p>
-
-<p>A new permanent footbridge is now in use, and the entrance on Station Road has re-opened with new lifts that provide step-free access from street level to all platforms.</p>
+<ul>
+	<li>Installed a new footbridge and lifts to provide step-free access from street level to all platforms</li>
+	<li>Refurbished the ticket hall and installed new digital information screens and ticket machines</li>
+	<li>Refurbished the platforms and added new benches</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>We're continuing to make improvements to the new permanent footbridge.</p>
+<ul>
+	<li>A new accessible toilet</li>
+</ul>
 
             </div>
         </div>
@@ -449,20 +445,19 @@ New features include:</p>
                 <div id="maryland-station-heading" class="accordion-heading">Maryland station</div>
             </div>
             <div id="maryland-station-content" class="start-hidden" role="region" aria-labelledby="maryland-station-heading">
-<p>Maryland station is undergoing a number of enhancements to facilitate the new Elizabeth line services, including new lifts, new signage, help points, customer information screens and CCTV.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We recently installed new ticket gates at the station to help increase security and three new lifts have been installed providing step-free access to all platforms.&nbsp;Refurbishment of platforms and waiting shelter is complete.</p>
+<ul>
+	<li>Refurbished the station entrance and installed new ticket gates and ticket machines</li>
+	<li>Installed three new lifts providing step-free access from street to all platforms</li>
+	<li>Refurbished the platforms and added new benches</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Our improvement work will continue until&nbsp;summer 2019 and includes:</p>
-
 <ul>
-	<li>New entrance doors and ticket machines</li>
-	<li>New accessible customer toilet and retail space</li>
-	<li>Improved decoration internally and externally</li>
+	<li>New digital information screens</li>
+	<li>A new accessible toilet</li>
 </ul>
 
             </div>
@@ -479,26 +474,21 @@ New features include:</p>
                 <div id="romford-station-heading" class="accordion-heading">Romford station</div>
             </div>
             <div id="romford-station-content" class="start-hidden" role="region" aria-labelledby="romford-station-heading">
-<p>Romford station will benefit from a major station rebuild, with significant upgrades including improvements to the station fa&ccedil;ade, a better ticket hall and new lifts.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We completely remodelled the male and female toilets, with all new toilets, sinks and hand dryers. We moved the entrance to these facilities, and took the opportunity to redecorate the waiting room.</p>
-
-<p>New seating has now been added on platforms.</p>
+<ul>
+	<li>Redecorated all platforms and added new benches</li>
+	<li>Installed new ticket machines</li>
+	<li>Refurbished the toilets</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Network Rail is carrying out work&nbsp;which is due to be complete by December 2019, and includes:</p>
-
 <ul>
-	<li>Main entrance widened</li>
-	<li>New northern&nbsp;entrance</li>
-	<li>New lift to platform 1/2</li>
-	<li>New southern entrance</li>
-	<li>Lifts to ticket hall and platforms 3/4 and 5</li>
-	<li>Refurbished ticket hall</li>
-	<li>Canopy structures on all platforms are being redecorated and due for completion in July 2019</li>
+	<li>A major rebuild of the existing station entrance and a new south entrance with a ticket hall and ticket gates</li>
+	<li>New lifts to provide step- free access to platforms</li>
+	<li>New accessible toilet on platform 5</li>
+	<li>Longer, refurbished platforms for the new trains</li>
 </ul>
 
             </div>
@@ -515,17 +505,19 @@ New features include:</p>
                 <div id="seven-kings-station-heading" class="accordion-heading">Seven Kings station</div>
             </div>
             <div id="seven-kings-station-content" class="start-hidden" role="region" aria-labelledby="seven-kings-station-heading">
-<p>A number of improvements are being delivered at Seven Kings station in preparation for the new Elizabeth line service, including new signage, help points, customer information screens and CCTV.</p>
-
 <h3>What we've done so far</h3>
 
-<p>The brighter, more open ticket hall has been redecorated inside and out.&nbsp;The space&nbsp;now benefits from new accessible ticket office windows as well as improved customer information.</p>
+<ul>
+	<li>Created a brighter and more open ticket hall with new, digital information screens and accessible ticket office windows</li>
+	<li>Built a footbridge and installed lifts providing step-free access from street level to all platforms</li>
+	<li>Refurbished the waiting shelters and added new benches to platforms</li>
+</ul>
 
-<p>We installed digital screens in the ticket hall to make customer information easier to see.</p>
+<h3>What's next</h3>
 
-<p>A new footbridge and lifts are now available, providing step-free access from street level to all platforms.</p>
-
-<p>Platforms and waiting shelters have been refurbished.</p>
+<ul>
+	<li>Refurbishment of platform 3 toilets</li>
+</ul>
 
             </div>
         </div>
@@ -564,11 +556,7 @@ New features include:</p>
 
 <h2>Paddington to Heathrow and Reading</h2>
 
-<p>The western section of the Elizabeth line route will run on the existing rail network from Paddington to Heathrow and Reading.</p>
-
-<p><!-- Temporary fix to allow twitter widget to be embedded on page - https://studio24.zendesk.com/agent/tickets/5884 --></p>
-
-<p>A number of major upgrades are being carried out by Network Rail on this section of the route in preparation for the arrival of Elizabeth line services.</p>
+<p>Improvements are being made at stations from Paddington to Heathrow and Reading in preparation for the Elizabeth line.</p>
 </div>
  <div class="accordion">
 
@@ -586,17 +574,12 @@ New features include:</p>
                 <div id="acton-main-line-station-heading" class="accordion-heading">Acton Main Line station</div>
             </div>
             <div id="acton-main-line-station-content" class="start-hidden" role="region" aria-labelledby="acton-main-line-station-heading">
-<p>Acton Main Line station will benefit from major improvements as part of the plans to introduce the Elizabeth line.</p>
-
-<p>Network Rail's improvement work is due to finish when the Elizabeth line fully opens.</p>
-
-<p>The work includes:</p>
+<p>What being done:</p>
 
 <ul>
-	<li>A new, bright, spacious ticket hall</li>
-	<li>Two new lifts and a new footbridge providing step-free access to platforms</li>
-	<li>New ticket gates and ticket office</li>
-	<li>Improved information, CCTV and lighting</li>
+	<li>Building a new bright, spacious ticket hall with new ticket gates, ticket office and digital information screens</li>
+	<li>Installing two new lifts and a new footbridge providing step-free access to platforms</li>
+	<li>Extending platforms for the longer trains</li>
 </ul>
 
             </div>
@@ -613,19 +596,14 @@ New features include:</p>
                 <div id="burnham-station-heading" class="accordion-heading">Burnham station</div>
             </div>
             <div id="burnham-station-content" class="start-hidden" role="region" aria-labelledby="burnham-station-heading">
-<p>A number of improvements have already been delivered by Network Rail in preparation for the new Elizabeth line service.</p>
-
 <h3>What we've done so far</h3>
 
 <ul>
-	<li>We have installed new benches on the platforms</li>
-	<li>New canopy work is complete</li>
-	<li>Step free access is now available from street to level to platforms</li>
+	<li>Installed a lift to all platforms providing step-free access</li>
+	<li>Added new ticket machines and digital information screens</li>
+	<li>Added new benches on the platforms</li>
+	<li>Improved cycle facilities outside the station</li>
 </ul>
-
-<h3>What's next</h3>
-
-<p>Network Rail is improving customer information, CCTV and lighting at this station. Work is due to finish when the Elizabeth line fully opens.</p>
 
             </div>
         </div>
@@ -641,29 +619,18 @@ New features include:</p>
                 <div id="ealing-broadway-station-heading" class="accordion-heading">Ealing Broadway station</div>
             </div>
             <div id="ealing-broadway-station-content" class="start-hidden" role="region" aria-labelledby="ealing-broadway-station-heading">
-<p>Ealing Broadway station will benefit from major improvements as part of the plans to introduce the Elizabeth line.</p>
-
-<p>The new station will have a long, curved canopy running the length of the forecourt, the dated fa&ccedil;ade will be replaced with a new glass structure and a new entrance twice the size of the existing one will give&nbsp;the building a much larger, brighter feel.</p>
-
 <h3>What we've done so far</h3>
 
 <ul>
-	<li>Built a new staircase to platforms 2/3</li>
+	<li>Installed new ticket machines</li>
 </ul>
 
 <h3>What's next</h3>
 
-<p>Network Rail's improvement work is due to finish when the Elizabeth line fully opens.</p>
-
-<p>The work includes:</p>
-
 <ul>
-	<li>A new, larger entrance and ticket hall</li>
-	<li>Four new lifts providing step-free access</li>
-	<li>A new staircases to platforms 1</li>
-	<li>New ticket gates and ticket office</li>
-	<li>New customer toilets and retail space</li>
-	<li>Improved decoration, information, CCTV and lighting</li>
+	<li>A new ticket hall with digital information screens and ticket gates</li>
+	<li>Four new lifts providing step-free access from street to platforms</li>
+	<li>New toilets and a new waiting room on platform 3</li>
 </ul>
 
             </div>
@@ -680,34 +647,19 @@ New features include:</p>
                 <div id="hanwell-station-heading" class="accordion-heading">Hanwell station</div>
             </div>
             <div id="hanwell-station-content" class="start-hidden" role="region" aria-labelledby="hanwell-station-heading">
-<p>Hanwell station will benefit from a number of improvements in preparation for the new Elizabeth line services.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We refurbished the toilets.</p>
+<ul>
+	<li>Installed new digital information screens</li>
+	<li>Installed two new lifts providing step-free access from street to platform</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>From 8 April until end of May 2019, the entrance on Campbell Road will be closed. Customers will be able to access the station by following the signposted route to the entrance on Station Approach which is a 10 minute walk away.</p>
-
-<p>This closure is to assist with ongoing station improvements around the entrance and subway, and includes:</p>
-
-<p>Works outside the station approach entrance</p>
-
 <ul>
-	<li>Excavation of existing floor slab</li>
-	<li>Installation of drainage runs and ducting</li>
-	<li>Installation of new foundations/slab for sub-station and electrical control room</li>
-	<li>Installation of paving</li>
-	<li>Urban Realm work in the forecourt area by London Borough of Ealing.</li>
-</ul>
-
-<p>Works to be undertaken within the station subway</p>
-
-<ul>
-	<li>Breakout of paving slabs</li>
-	<li>Installation of ducting and drainage routes</li>
-	<li>Installation of paving</li>
+	<li>Refurbishment of the ticket office and platforms</li>
+	<li>A new waiting room on platform 2 and a refurbished waiting room on platform 3</li>
+	<li>Refurbishment of the &nbsp;toilet and a new accessible toilet</li>
 </ul>
 
             </div>
@@ -724,20 +676,20 @@ New features include:</p>
                 <div id="hayes-and-harlington-station-heading" class="accordion-heading">Hayes & Harlington station</div>
             </div>
             <div id="hayes-and-harlington-station-content" class="start-hidden" role="region" aria-labelledby="hayes-and-harlington-station-heading">
-<p>Hayes &amp; Harlington station will benefit from major improvements as part of the plans to introduce the Elizabeth line.</p>
-
-<p>A new, bright, spacious ticket hall will provide a more welcoming environment for passengers&nbsp;and a range of other improvements will be made to the station.</p>
-
-<p>Network Rail's improvement work is due to finish when the Elizabeth line fully opens.</p>
-
-<p>The work includes:</p>
+<h3>What we've done so far:</h3>
 
 <ul>
-	<li>A new, more spacious ticket hall</li>
+	<li>Installed new ticket machines and new, digital information screens</li>
+	<li>Added new benches to the platforms and a new waiting shelter on platforms 4 &amp; 5</li>
+</ul>
+
+<h3>What's next:</h3>
+
+<ul>
+	<li>A new, more spacious ticket hall and new ticket gates</li>
 	<li>Four new lifts and a new footbridge providing step-free access to platforms</li>
-	<li>New waiting room on platforms 4/5</li>
-	<li>New ticket gates and ticket office</li>
-	<li>Improved decoration, information, CCTV and lighting</li>
+	<li>New toilets</li>
+	<li>Longer platforms for the new trains</li>
 </ul>
 
             </div>
@@ -758,22 +710,17 @@ New features include:</p>
 
 <h3>What we've done so far</h3>
 
-<p>We have installed new benches on the platforms.</p>
-
-<p>Network Rail has improved CCTV.</p>
+<ul>
+	<li>Refurbished the waiting rooms and added new benches on the platforms</li>
+	<li>A new station building, with new ticket hall, ticket office and ticket gates and a new accessible toilet</li>
+	<li>Three new lifts providing step-free access to all platforms</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Our improvement work will continue until the Elizabeth line fully opens. It includes:</p>
-
 <ul>
-	<li>Three new lifts providing step free access to all platforms</li>
-	<li>New entrance, including new ticket hall, ticket office and ticket gates and a new accessible toilet</li>
-	<li>Network rail is also improving customer information and lighting</li>
-	<li>Waiting shelters are being refurbished</li>
+	<li>Longer platforms for the new trains</li>
 </ul>
-
-<p>During this work please use the temporary walking route to reach the ticket office and footbridge</p>
 
             </div>
         </div>
@@ -789,24 +736,22 @@ New features include:</p>
                 <div id="langley-station-heading" class="accordion-heading">Langley station</div>
             </div>
             <div id="langley-station-content" class="start-hidden" role="region" aria-labelledby="langley-station-heading">
-<p>A number of improvements are being delivered at Langley station in preparation for Elizabeth line services.</p>
-
 <h3>What we've done so far</h3>
 
-<p>We have installed new benches on the platforms.</p>
-
-<p>Network Rail has improved CCTV.</p>
+<ul>
+	<li>Added new benches on the platforms</li>
+	<li>Installed new ticket machines</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Our improvement work will continue until the Elizabeth line fully opens. It includes:</p>
-
 <ul>
+	<li>Refurbishment of the station building and a new ticket hall, ticket office and ticket gates</li>
 	<li>Three new lifts and a new footbridge providing step-free access to all platforms</li>
-	<li>A new ticket hall, ticket office and ticket gates</li>
+	<li>A new south entrance with ticket gates</li>
+	<li>Refurbished toilets and waiting room</li>
+	<li>New digital information screens</li>
 </ul>
-
-<p>Network rail is also improving customer information and lighting.</p>
 
             </div>
         </div>
@@ -822,19 +767,15 @@ New features include:</p>
                 <div id="maidenhead-station-heading" class="accordion-heading">Maidenhead station</div>
             </div>
             <div id="maidenhead-station-content" class="start-hidden" role="region" aria-labelledby="maidenhead-station-heading">
-<p>Significant improvements are being delivered at Maidenhead station as part of the Crossrail programme.</p>
-
-<p>Maidenhead station will benefit from a number of improvements in preparation for the new Elizabeth line services including:</p>
+<p>Improvements are being carried out by Network Rail and are due to be completed when the Elizabeth line fully opens. These include:</p>
 
 <ul>
 	<li>Improvements to the ticket hall</li>
 	<li>A new lift to platform 1</li>
-	<li>Platform extensions to accommodate the new 200&nbsp;metre long Elizabeth line trains</li>
-	<li>New platform canopies to accommodate overhead line equipment</li>
-	<li>New signage, help points, customer information screens and CCTV</li>
+	<li>Extended platforms for the longer trains</li>
+	<li>New platform canopies to sccommodate overhead line equipment</li>
+	<li>New signs, help points, customer information screens and CCTV</li>
 </ul>
-
-<p>The work is&nbsp;being carried out by Network Rail and&nbsp;is due to finish when the Elizabeth line fully opens.</p>
 
             </div>
         </div>
@@ -866,18 +807,14 @@ New features include:</p>
                 <div id="slough-station-heading" class="accordion-heading">Slough station</div>
             </div>
             <div id="slough-station-content" class="start-hidden" role="region" aria-labelledby="slough-station-heading">
-<p>A number of improvements are being delivered at Slough station as part of the Crossrail programme.</p>
-
-<p>The upgrades to the station, which are being carried out by Network Rail, include:</p>
+<p>Improvements are being carried out by Network Rail and are due to be completed when the Elizabeth line fully opens. These include:</p>
 
 <ul>
-	<li>An improved ticket line for the southern entrance</li>
-	<li>Extending&nbsp;platforms 2 to&nbsp;5 to accommodate 200&nbsp;metre long Elizabeth line trains</li>
+	<li>Improved ticket gates at the southern entrance</li>
+	<li>Extending platforms 2 to 5 for the longer trains</li>
 	<li>Cutting back station canopies to accommodate overhead line equipment</li>
-	<li>New signage, help points, customer information screens and CCTV.</li>
+	<li>New signs, help points, customer information screens and CCTV</li>
 </ul>
-
-<p>The work is due to finish when the Elizabeth line fully opens.</p>
 
             </div>
         </div>
@@ -893,19 +830,19 @@ New features include:</p>
                 <div id="southall-station-heading" class="accordion-heading">Southall station</div>
             </div>
             <div id="southall-station-content" class="start-hidden" role="region" aria-labelledby="southall-station-heading">
-<p>Southall station will benefit from major improvements as part of the plans to introduce the Elizabeth line.</p>
-
-<p>A new, bright, spacious ticket hall will provide a more welcoming environment for passengers&nbsp;and a new forecourt will&nbsp;reduce&nbsp;congestion at the entrance to the station.</p>
-
-<p>Network Rail's improvement work is due to finish when the Elizabeth line fully opens.</p>
-
-<p>The work includes:</p>
+<h3>What we've done so far:</h3>
 
 <ul>
-	<li>A new ticket hall</li>
+	<li>Installed new ticket machines and digital information screens</li>
+	<li>Added new benches to the platforms</li>
+</ul>
+
+<h3>What's next:</h3>
+
+<ul>
+	<li>A new station building with a ticket hall and ticket gates</li>
 	<li>Three new lifts and a new footbridge providing step free access to platforms</li>
-	<li>New ticket halls and ticket office</li>
-	<li>Improved information, CCTV and lighting</li>
+	<li>Refurbished toilets and waiting rooms</li>
 </ul>
 
             </div>
@@ -922,30 +859,19 @@ New features include:</p>
                 <div id="taplow-station-heading" class="accordion-heading">Taplow station</div>
             </div>
             <div id="taplow-station-content" class="start-hidden" role="region" aria-labelledby="taplow-station-heading">
-<p>A number of improvements have been delivered at Taplow station as part of the Crossrail programme, including:</p>
-
-<ul>
-	<li>Cutting back the canopy on platform 3 to provide clearance for&nbsp;new overhead electric lines</li>
-	<li>Installing a new station information and security system.</li>
-</ul>
-
 <h3>What we've done so far</h3>
 
-<p>We have installed new benches on the platforms. Network Rail has improved CCTV.</p>
+<ul>
+	<li>Refurbished the waiting room and added new benches to the platforms</li>
+	<li>Three new lifts and a footbridge providing step-free access to platforms</li>
+</ul>
 
 <h3>What's next</h3>
 
-<p>Our improvement work will continue until the Elizabeth line fully opens. It includes:</p>
-
 <ul>
-	<li>Three new lifts and a footbridge providing step-free access to platforms 2/3 and 4</li>
 	<li>Refurbished ticket hall and ticket office</li>
-	<li>Refurbished waiting rooms and toilets</li>
+	<li>New ticket gates at the south entrance</li>
 </ul>
-
-<p>Network Rail is also improving customer information and lighting.</p>
-
-<p>During this work, please use the temporary footbridge to reach platforms.</p>
 
             </div>
         </div>
@@ -977,19 +903,19 @@ New features include:</p>
                 <div id="west-drayton-station-heading" class="accordion-heading">West Drayton station</div>
             </div>
             <div id="west-drayton-station-content" class="start-hidden" role="region" aria-labelledby="west-drayton-station-heading">
-<p>Major improvements are being delivered at West Drayton station as part of the plans to introduce the Elizabeth line.</p>
-
-<p>A new glass and steel extension will provide an additional entrance as well as a covered walkway between the existing building and a new footbridge. Three new lifts will provide step-free access to every platform.</p>
-
-<p>Network Rail's improvement work is due to finish when the Elizabeth line fully opens.</p>
-
-<p>The work includes:</p>
+<h3>What's been done so far</h3>
 
 <ul>
-	<li>Three new lifts and extended footbridge providing step-free access to platforms</li>
-	<li>A new entrance, improved customer information</li>
-	<li>Improved CCTV and lighting</li>
-	<li>We are also making improvements to the station which be finished by autumn 2019 and&nbsp;include refurbishing the existing ticket hall, ticket office, waiting rooms and toilets</li>
+	<li>Refurbished the ticket hall and installed new ticket machines and digital information screens</li>
+</ul>
+
+<h3>What's next</h3>
+
+<ul>
+	<li>A footbridge and three new lifts to provide step-free access to every platform</li>
+	<li>A bigger station entrance with new ticket gates</li>
+	<li>Longer platforms for the new trains</li>
+	<li>New toilets and waiting rooms</li>
 </ul>
 
             </div>
@@ -1006,20 +932,18 @@ New features include:</p>
                 <div id="west-ealing-station-heading" class="accordion-heading">West Ealing station</div>
             </div>
             <div id="west-ealing-station-content" class="start-hidden" role="region" aria-labelledby="west-ealing-station-heading">
-<p>West Ealing station will benefit from major improvements as part of plans to introduce the Elizabeth line.</p>
-
-<p>A new, bright, spacious ticket hall will be constructed as part of the overhaul of the station. The glass and steel structure will let in natural light and will be surrounded by a large canopy.</p>
-
-<p>Network Rail's improvement work is due to finish when the Elizabeth line fully opens.</p>
-
-<p>The work includes:</p>
+<h3>What's been done so far</h3>
 
 <ul>
-	<li>A new ticket hall</li>
-	<li>Two new lifts providing step free access to all platforms</li>
-	<li>A new footbridge and stairs</li>
-	<li>New ticket gates and ticket office</li>
-	<li>Improved information, CCTV and lighting</li>
+	<li>Added new benches to the platforms</li>
+	<li>Installed new digital information screens</li>
+</ul>
+
+<h3>What's next</h3>
+
+<ul>
+	<li>A new station building with a ticket hall, ticket machines and ticket gates</li>
+	<li>A new footbridge and two new lifts providing step free access to all platforms</li>
 </ul>
 
             </div>
@@ -1042,14 +966,139 @@ New features include:</p>
     </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-      <div class="share-widget-wrapper"></div>
-    
-    
+
    
     
     
+    
+      <div data-set="sidenav-container" class="large">
+        
+        
+<div id="right-hand-nav" class="expandable-list moving-source-order" role="navigation" aria-labelledby="sub-menu-heading">
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                <a href="/travel-information/improvements-and-projects/elizabeth-line" class="heading">
+                    <h2 id="sub-menu-heading">Elizabeth line<span class="visually-hidden"> navigation</span></h2>
+                </a>
+                <ul>
+                    
+                                <li class="selected"><div class="link-wrapper"><a href="/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line">Preparing for the Elizabeth line</a></div>
+                            </li>
+ 
+                                <li><div class="link-wrapper"><a href="/travel-information/improvements-and-projects/new-trains">New trains</a></div></li>
+                            
+ 
+                                <li><div class="link-wrapper"><a href="/travel-information/improvements-and-projects/improving-accessibility">Improving accessibility</a></div></li>
+                            
+ 
+                </ul>
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
+
+@this.ScriptBlock(
+    @<script>
+         queue.push("@Html.ScriptPath("modules/M032-expandable-list.min.js")", function () {
+             window.tfl.expandableList.init('#right-hand-nav', false);
+         });
+    </script>
+)
+
+ 
+      </div>
     
     <div>
 

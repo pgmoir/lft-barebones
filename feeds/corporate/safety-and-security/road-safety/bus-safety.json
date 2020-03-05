@@ -37,7 +37,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"There are fewer than three injuries for every million journeys on London's buses. However, we recognise that it is neither inevitable nor acceptable that anyone should be killed or seriously injured when travelling in London. As part of this commitment, our Bus Safety Programme continuously drives major safety improvements across our network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"There are fewer than three injuries for every million journeys on London's buses. But, it is not inevitable or acceptable that anyone should be killed or seriously injured when travelling in London. Our goal is that, by 2041, there will be no deaths or serious injuries on London's transport network.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "The Mayor's Transport Strategy sets out the goal for Vison Zero for London that, by 2041, all deaths and serious injuries will be eliminated from London's transport network.",
      "We have set specific bus targets through Vision Zero for London:",
      "{\"template\":\"bulletlist\",\"items\":[\"A 70% reduction in people killed or seriously injured involving London buses against 2005-09 levels by 2022\",\"No one to be killed in, or by, a London bus by 2030\"]}",
@@ -56,9 +56,7 @@
      "For more information see our \u003ca href=\"/corporate/publications-and-reports/bus-safety-data#executive-summary\"\u003eBus Safety standard executive summary.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bus Safety Innovation Challenge\"}",
      "In 2018, our Bus Safety Innovation Fund supported London's bus operators to develop innovative ideas that will contribute towards a reduction in the number of people seriously injured or killed on the bus network. The fund helped develop eight projects that included new technologies, research projects and training programmes.",
-     "We are continuing to invest in supporting safety technology innovation in 2019 through the new Bus Safety Innovation Challenge which has opened for applications.",
-     "We are looking for new and innovative products which will improve the safety of London's buses. If you have a product that may improve the safety of London's buses then we invite you to get in touch by 10 May 2019 to express an interest. The Innovation Challenge will close to applications on 21 June 2019.",
-     "If you're interested, \u003ca href=\"mailto:BusSafetyProg@tfl.gov.uk\"\u003eplease contact us for more details.\u003c/a\u003e ",
+     "We are continuing to invest in supporting safety technology innovation in 2019 through the new Bus Safety Innovation Challenge. Please note, applications for the Innovation Challenge have now closed and we will be in touch with successful applicants shortly.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Safe behaviours\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Bus driver training\"}",
      "We are currently developing a new Vision Zero bus driver training course. The one day course, incorporating virtual reality film, will be rolled out to all 25,000 London bus drivers from April 2019.",
@@ -89,14 +87,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Reducing road danger",
@@ -112,7 +102,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -127,34 +117,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},

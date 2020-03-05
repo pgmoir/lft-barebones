@@ -53,14 +53,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "link": {
@@ -71,23 +63,6 @@
    },
    {
     "template": "advert",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Sub-regional transport planning",
-      "url": "/info-for/boroughs/sub-regional-transport-planning",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
     "link": {
      "image": {}
     },

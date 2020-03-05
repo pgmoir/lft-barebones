@@ -1,0 +1,68 @@
+{
+ "keywords": "TfL",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "TfL Pension Fund",
+   "url": "/pensions/index"
+  },
+  {
+   "title": "News and publications",
+   "url": "/pensions/news-and-publications"
+  },
+  {
+   "title": "Maximising Additional Voluntary Contributions for 2019/20"
+  }
+ ],
+ "title": {
+  "title": "Maximising Additional Voluntary Contributions for 2019/20",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"With the tax year end fast approaching many members look to maximise their AVCs under the TfL Pension Fund.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The maximum you can pay in AVCs to the Fund is 15 per cent of gross earnings less your standard Pension Fund contributions.",
+     "If you are considering maximising your AVCs before the tax year end you need to make sure you allow enough time for your request to be processed; the pensions team will need to check that the amount you are planning to pay does not take your total contributions above the maximum limit; and the payroll team will then need to update the payroll system to amend your AVC deduction.",
+     "In addition you need to consider the impact to your overall pension benefits as well as the impact on your pension input and Annual Allowance for the tax year.",
+     "For more information please refer to your annual benefit statement and the \u003ca href=\"/pensions/your-pension/your-contributions/additional-voluntary-contributions\"\u003eguide to additional voluntary contributions\u003c/a\u003e .",
+     "The final dates by which we must have received any requests to meet the payroll cut off dates are as follows.",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003ePayroll Group\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eCut-off date\\u003c/strong\\u003e \"],[\"Payroll group 10\",\"Wednesday 11 March 2020\"],[\"Payroll group 11\",\"Wednesday 11 March 2020\"],[\"Payroll group 15\",\"Wednesday 11 March 2020\"],[\"Payroll group 20\",\"Wednesday 26 February 2020\"],[\"Payroll group 25\",\"Wednesday 26 February 2020\"],[\"Payroll group 42\",\"Tuesday 10 March 2020\"],[\"Payroll group 61\",\"Friday 27 March 2020\"]]}",
+     "If you are not sure which payroll group you are paid under, please check your latest payslip.",
+     "For further information, contact the Fund Office on 020 7126 4000 (auto 64000)."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

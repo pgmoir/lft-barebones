@@ -40,7 +40,6 @@
      "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLTrafficNews\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLBusAlerts\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/SantanderCycles\",\"image\":{}},\"image\":{},\"wrapped\":true}",
-     "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/TfLRiver\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@http://www.twitter.com/EmiratesAirLDN\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"twitterupdates\",\"link\":{\"title\":\"@elizabethline\",\"image\":{}},\"image\":{},\"wrapped\":true}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
@@ -56,14 +55,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Social media \u0026 email updates",
@@ -71,11 +62,6 @@
      {
       "title": "Facebook TravelBot",
       "url": "/travel-information/social-media-and-email-updates/facebook-travelbot",
-      "image": {}
-     },
-     {
-      "title": "Travel alerts on Twitter",
-      "url": "/travel-information/social-media-and-email-updates/travel-alerts-on-twitter",
       "image": {}
      },
      {

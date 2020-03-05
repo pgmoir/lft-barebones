@@ -40,7 +40,15 @@
      "{\"template\":\"intro\",\"texts\":[\"We are working in partnership with the Metropolitan Police Service (MPS) and City of London Police (CoLP) to run Community Roadwatch - a road safety initiative which aims to reduce speeding in residential areas.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Community Roadwatch gives local residents the opportunity to work side by side with their local police teams, and use speed detection equipment to identify speeding vehicles in their communities. Warning letters will be issued where appropriate, and the information can help to inform the future activity of local police teams.",
      "To take part in Community Roadwatch, or to suggest a residential area where there are community concerns around speeding, contact \u003ca href=\"mailto:CommunityRoadwatch@met.police.uk\"\u003eCommunityRoadwatch@met.police.uk\u003c/a\u003e stating the borough you live in. Your enquiry will be forwarded to your local MPS Safer Transport Team, who will be in touch.",
-     "To take part or suggest an area in the City of London borough, \u003ca href=\"https://www.cityoflondon.police.uk/contact-city-police/general-enquiries/Pages/General-enquiry-form.aspx\"\u003econtact City of London Police\u003c/a\u003e ."
+     "To take part or suggest an area in the City of London borough, \u003ca href=\"https://www.cityoflondon.police.uk/contact-city-police/general-enquiries/Pages/General-enquiry-form.aspx\"\u003econtact City of London Police\u003c/a\u003e .",
+     "We are working in partnership with the Metropolitan Police Service (MPS) and London boroughs to run Junior Roadwatch - a new road danger reduction education scheme which aims to reduce speeding near schools.",
+     "As part of this innovative new London scheme, primary school children are given the opportunity to take part in speed awareness sessions with police officers from the Metropolitan Police Service's (MPS's) Roads and Transport Policing Command which is jointly funded by TfL and the MPS, to tackle educate drivers about the dangers of speeding near their school.",
+     "Drivers caught speeding are pulled over by police officers and given the option of receiving an enforcement option - either a fixed penalty fine and points on their licence or attending a speed awareness course - and being reported for speeding or, if drivers are deemed suitable, speaking to the children. If they take this option, the driver will receive an educational message from the children and the council staff member.",
+     "The primary school pupils ask questions such as \"Why do you think the speed limit is 20mph on this road?\" and \"Are you aware of the consequences of speeding?\" - encouraging the driver to reconsider the speed they were driving at.",
+     "Junior Roadwatch was trialled in Hackney and Kingston in 2017:",
+     "{\"template\":\"bulletlist\",\"items\":[\"A total of 85 drivers were caught speeding in Kingston over 90 minute periods in six days, with 82 of these drivers stating it was either effective or very effective.\",\"95 per cent of drivers said they would tell people about their experience.\"]}",
+     "Junior Roadwatch is part of the Mayor, TfL and Metropolitan Police's commitment to Vision Zero, which aims to eliminate death and serious injury from London's streets and transport network. As part of Vision Zero, the Met is stepping up its on-street and safety camera enforcement against drivers who are speeding and putting others at risk.",
+     "This scheme builds on the ongoing success of Community Roadwatch, which gives local residents the opportunity to work with their local Police Safer Transport Team and monitor speeding vehicles in their area. Warning letters are then sent to drivers caught speeding to emphasise the dangers of excessive speed. Since Community Roadwatch launched across all 33 London boroughs in August 2015, nearly 39,000 speeding drivers have been caught."
     ],
     "link": {
      "image": {}
@@ -52,14 +60,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -76,7 +76,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -91,34 +91,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},
@@ -126,6 +111,23 @@
    },
    {
     "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Teaching resources",
+      "url": "/info-for/schools-and-young-people/teaching-resources",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

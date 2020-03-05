@@ -10,11 +10,11 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
-   "title": "Information by borough",
+   "title": "Your borough",
    "url": "/info-for/boroughs/information-by-borough"
   },
   {
@@ -37,10 +37,44 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Information about the London Borough of Southwark.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"http://www.southwark.gov.uk\\\"\\u003eSouthwark website\\u003c/a\\u003e \"]}",
-     "See some ongoing TfL \u003ca href=\"http://www.tfl.gov.uk/travel-information/improvements-and-projects/?Borough=Southwark\"\u003eimprovements and projects in or near Southwark\u003c/a\u003e .",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Local Implementation Plan (LIP) allocation 2019/20\",\"url\":\"/cdn/static/cms/documents/southwark-2019-20-lip-allocation-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 222KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2017/18 - Borough Leader\",\"url\":\"/cdn/static/cms/documents/1718-lip-confirmation-leader-letter-southwark.pdf\",\"icon\":\"download\",\"size\":\"PDF 72KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2016/17\",\"url\":\"/cdn/static/cms/documents/lip-funding-confirmation-letters-16-17-southwark.pdf\",\"icon\":\"download\",\"size\":\"PDF 75KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) delivery plan letter\",\"url\":\"/cdn/static/cms/documents/southwark-lip-delivery-plan-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 69KB\",\"image\":{}},{\"title\":\"Public Transport Accessibility Levels (PTALs) map\",\"url\":\"/cdn/static/cms/documents/southwark-2012-ptals.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.30MB\",\"image\":{}},{\"title\":\"London Congestion Analysis Project (LCAP) map\",\"url\":\"/cdn/static/cms/documents/southwark-lcap-borough-maps.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.34MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"intro\",\"texts\":[\"We partner with Southwark to implement the Mayor's Transport Strategy in the borough.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Local Implementation Plan (LIP)\"}",
+     "The LIP is produced by the \u003ca href=\"https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/local-plan?article\u0026article\"\u003eLondon Borough of Southwark\u003c/a\u003e and agreed with us. It sets out the details on transport infrastructure changes in a three-year period to support the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Local Implementation Plan (LIP) allocation 2019/20\",\"url\":\"/cdn/static/cms/documents/southwark-2019-20-lip-allocation-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 222KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2017/18 - Borough Leader\",\"url\":\"/cdn/static/cms/documents/1718-lip-confirmation-leader-letter-southwark.pdf\",\"icon\":\"download\",\"size\":\"PDF 72KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) confirmation letter 2016/17\",\"url\":\"/cdn/static/cms/documents/lip-funding-confirmation-letters-16-17-southwark.pdf\",\"icon\":\"download\",\"size\":\"PDF 75KB\",\"image\":{}},{\"title\":\"Local Implementation Plan (LIP) delivery plan letter\",\"url\":\"/cdn/static/cms/documents/southwark-lip-delivery-plan-letter.pdf\",\"icon\":\"download\",\"size\":\"PDF 69KB\",\"image\":{}},{\"title\":\"Public Transport Access Levels - Southwark\",\"url\":\"/cdn/static/cms/documents/public-transport-access-levels-southwark.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.87MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     " \u003ca href=\"/info-for/boroughs/local-implementation-plans\"\u003eFind out more about LIP funding.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"LIP targets for Southwark\"}",
+     "Each borough has set targets in their LIP against the Mayor's Transport Strategy outcomes - we track and report on progress against these targets in the \u003ca href=\"http://planning.data.tfl.gov.uk/\"\u003eLIP3 MTS outcomes borough data pack\u003c/a\u003e .",
+     "For example, the car ownership in the borough was 59,721 in 2017. The LIP target to reduce car ownership by 2021 is 57,100.",
+     "Residents in Southwark made an average of 698,000 trips each day between 2015 and 2018 by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Car and motorcycle: 22%\",\"Tube/DLR: 9%\",\"National Rail and London Overground: 8%\",\"Bus/Tram: 18%\",\"Taxi/Other: 2%\",\"Cycle: 5%\",\"Walking: 36%\"]}",
+     "We also work with boroughs to \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking\"\u003eencourage more cycling\u003c/a\u003e . We recorded 28,992 daily cycle trips on average starting in Southwark between 2015 and 2018.",
+     " \u003ca href=\"https://www.london.gov.uk/in-my-area/southwark\"\u003eMore resident and visitor population figures are on the GLA website.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Funding for your borough\"}",
+     "We provide \u003ca href=\"/info-for/boroughs/borough-funding\"\u003efunding to boroughs and local communities\u003c/a\u003e for transport improvements in your local area.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero\"}",
+     "We are working with boroughs to reduce the number of deaths and serious injuries from all road collisions to zero by 2041. They are responsible for enforcing safe speeds on their roads, as well as leading community programmes to encourage using roads safely. Find out more about \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eVision Zero\u003c/a\u003e .",
+     "In 2017 there were 151 individuals killed or seriously injured in Southwark. Our target for 2022 is to reduce this number to 90.",
+     " \u003ca href=\"https://tfl.gov.uk/corporate/safety-and-security/road-safety/london-collision-map\"\u003eFind out more about collisions in your borough.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we're working on in Southwark\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"We consult local communities on a range of projects every year - \\u003ca href=\\\"https://consultations.tfl.gov.uk/consultation_finder/?advanced=1\\u0026st=open\\\"\\u003esearch the TfL Consultation Hub\\u003c/a\\u003e \",\"Find out about \\u003ca href=\\\"/status-updates/major-works-and-events\\\"\\u003emajor works and events near you\\u003c/a\\u003e \",\"See some ongoing TfL \\u003ca href=\\\"http://www.tfl.gov.uk/travel-information/improvements-and-projects/?Borough=Southwark\\\"\\u003eimprovements and projects in or near Southwark\\u003c/a\\u003e \"]}",
+     "Work now going on in your borough includes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ePeckham town centre\\u003c/strong\\u003e - our plans for the A202 Peckham High Street between Collyer Place and Peckham Hill Street would make it safer and more comfortable to walk, cycle or use public transport in the area\",\"\\u003cstrong\\u003ea\\u003c/strong\\u003e - the Tooley Street and Jamaica Road sections should be finished in spring 2020, in time for the London Marathon. We're discussing how much we might pay towards the Lower Road part of the scheme\",\"\\u003cstrong\\u003ea\\u003c/strong\\u003e - we hope to extend the line from Elephant \\u0026 Castle to Lewisham, running along Old Kent Road where we propose putting two new stations\",\"\\u003cstrong\\u003ea\\u003c/strong\\u003e - Peckham High Street improvements will include de-cluttering the pavements and adding new trees and planters  to help green the local area\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus network changes\"}",
+     "From time to time - after consulting the public - we alter bus routes to reflect changing patterns in demand. We also make temporary changes, often because of road works. \u003ca href=\"/modes/buses/bus-changes\"\u003eSee the latest bus changes.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ultra Low Emission Zone (ULEZ)\"}",
+     "To improve air quality the ULEZ was introduced to parts of Southwark in April 2019 and \u003ca href=\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone/ulez-where-and-when#on-this-page-5\"\u003ewill extend to the rest of the borough from October 2021\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our assets in Southwark\"}",
+     "Assets we maintain in your borough include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Six Tube stations\",\"Six London Overground stations\",\"Around 620 bus stops - \\u003ca href=\\\"https://tfl.gov.uk/maps_/bus-spider-maps?Query=Southwark\\\"\\u003esee all 66 day bus routes in Southwark\\u003c/a\\u003e \",\"Two bus stations and Walworth bus garage\",\"One TfL pier (Bankside)\",\"46 Santander Cycles docking stations\",\"Cycle Superhighway 7 which runs from Merton to the City of London\",\"Nine taxi ranks\",\"Around 270 traffic signals\",\"Over 23 kilometres of \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/red-routes/red-route-maps\\\"\\u003ered routes\\u003c/a\\u003e \"]}",
+     " \u003ca href=\"https://tfl.maps.arcgis.com/apps/webappviewer/index.html?id=5129c766255941d3be16a6828faa8f18\"\u003eSee a map of our assets in London.\u003c/a\u003e ",
+     "We maintain our assets until they need to be renewed or disposed of as set out in our asset management plan. We do this by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Servicing them regularly to keep them operational\",\"Repairing or replacing faulty assets\"]}",
+     "Report a problem on a London street with \u003ca href=\"https://streetcare.tfl.gov.uk/\"\u003eour Streetcare tool\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"We do not maintain in Southwark:\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Non-red route roads - these are maintained by \\u003ca href=\\\"https://www.southwark.gov.uk/\\\"\\u003eSouthwark\\u003c/a\\u003e \",\"Litter removal on red routes - this is also the borough's responsibility\",\"Network Rail track at London Overground stations - \\u003ca href=\\\"https://www.networkrail.co.uk/communities/contact-us/\\\"\\u003econtact Network Rail.\\u003c/a\\u003e Track and signals between Rotherhithe and Surrey Quays is owned and maintained by us\",\"Taxis and mini cabs - these are owned by \\u003ca href=\\\"/modes/taxis-and-minicabs/what-to-expect-from-your-journey\\\"\\u003etaxi drivers and minicab offices \\u003c/a\\u003e \",\"Coaches\",\" \\u003ca href=\\\"/info-for/taxis-and-private-hire/taxi-ranks\\\"\\u003eTaxi ranks\\u003c/a\\u003e on borough roads. Cars and other vehicles parked on taxi ranks can be \\u003ca href=\\\"https://www.southwark.gov.uk/parking\\\"\\u003ereported to Southwark\\u003c/a\\u003e \"]}",
+     " \u003ca href=\"https://tfl.gov.uk/forms/12368.aspx?cid=tph-report\"\u003eReport private hire vehicles (PHVs) parked on ranks or unattended taxis on ranks directly to us.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dealing with severe weather\"}",
+     "For documents relating to winter service in the boroughs, go to the \u003ca href=\"/corporate/publications-and-reports/streets\"\u003eStreets publications page\u003c/a\u003e ."
     ],
     "link": {
      "image": {}
@@ -53,35 +87,12 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Your borough",
     "links": [
      {
-      "title": "Borough funding",
-      "url": "/info-for/boroughs/borough-funding",
-      "image": {}
-     },
-     {
-      "title": "Planning \u0026 resources",
-      "url": "/info-for/boroughs/planning-and-resources",
-      "image": {}
-     },
-     {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
-      "image": {}
-     },
-     {
-      "title": "Barking \u0026 Dagenham",
+      "title": "Barking and Dagenham",
       "url": "/info-for/boroughs/barking-and-dagenham",
       "image": {}
      },
@@ -176,7 +187,7 @@
       "image": {}
      },
      {
-      "title": "Kensington \u0026 Chelsea",
+      "title": "Kensington and Chelsea",
       "url": "/info-for/boroughs/kensington-and-chelsea",
       "image": {}
      },
@@ -244,11 +255,21 @@
       "title": "Westminster",
       "url": "/info-for/boroughs/westminster",
       "image": {}
+     },
+     {
+      "title": "Funding for your borough",
+      "url": "/info-for/boroughs/borough-funding",
+      "image": {}
+     },
+     {
+      "title": "Planning \u0026 resources",
+      "url": "/info-for/boroughs/planning-and-resources",
+      "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/westminster",
+     "title": "Your borough",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},
@@ -256,6 +277,35 @@
    },
    {
     "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "title": "Also on this site",
+    "links": [
+     {
+      "title": "Air quality",
+      "url": "/corporate/about-tfl/air-quality",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Safety enforcement cameras",
+      "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Travel tools",
+      "url": "/status-updates/travel-tools",
+      "icon": "internal",
+      "image": {}
+     }
+    ],
     "link": {
      "image": {}
     },

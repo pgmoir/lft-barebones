@@ -39,10 +39,9 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"During nights and weekends, HGV drivers can only use certain roads when making deliveries in London. This is known as the London Lorry Control Scheme (LLCS).\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessible and restricted routes\"}",
-     "There are roads in London which are accessible to HGVs at any time without permission. These are called the 'Excluded Road Network' (ERN).",
-     "Certain other roads are known as 'restricted routes', and during 'restricted hours' (evenings and weekends) lorry drivers need permission from London Councils to use them. Even during these restricted hours, you must commit to using the ERN as much as you can.",
-     "You can request a copy of a map showing ERN and restricted routes, and the boundary of the scheme, via London Lorry Control.",
-     " \u003ca href=\"http://www.londonlorrycontrol.com/\"\u003eRequest a map of accessible and restricted routes\u003c/a\u003e ",
+     "There are roads in London which are accessible to HGVs at any time without permission. These are called the 'Excluded Road Network' (ERN).",
+     "Certain other roads are known as 'restricted routes', and during 'restricted hours' (evenings and weekends) lorry drivers need permission from London Councils to use them. Even during these restricted hours, you must commit to using the ERN as much as you can.",
+     "You can view a map showing ERN and restricted routes, and the boundary of the scheme on the \u003ca href=\"https://www.londoncouncils.gov.uk/services/london-lorry-control\"\u003eLondon Councils website.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Request permission to use restricted routes\"}",
      "Permission to use restricted routes is free. To request this permission you first need to sign up to \u003ca href=\"http://www.londoncouncils.gov.uk/services/london-lorry-control\"\u003ejoin the London Lorry Control Scheme\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Restricted hours\"}",
@@ -64,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -100,11 +91,6 @@
      {
       "title": "Parking and loading",
       "url": "/info-for/deliveries-in-london/delivering-legally/parking-and-loading",
-      "image": {}
-     },
-     {
-      "title": "Protecting the environment",
-      "url": "/info-for/deliveries-in-london/protecting-the-environment",
       "image": {}
      },
      {

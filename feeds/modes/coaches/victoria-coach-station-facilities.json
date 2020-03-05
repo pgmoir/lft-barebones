@@ -39,7 +39,9 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Security notice\"}",
      "All items of left luggage will be examined using detection equipment, so you may be asked to open your bag for physical inspection. If you refuse, your luggage will not be accepted and the police will be notified.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Left luggage tariffs\"}",
-     "{\"template\":\"table\",\"titles\":[\"\",\"Weight\",\"Rate\",\"Surcharge rate\"],\"rows\":[[],[\"\\u003cstrong\\u003eUp to 2 hours\\u003c/strong\\u003e \",\"Below 20kg\",\"£3.50\",\"£2.50 (If the item is collected on the same day)\"],[\"\\u003cstrong\\u003eUp to 2 hours\\u003c/strong\\u003e \",\"Above 20kg\",\"£3.50\",\"£4.50 (If the item is collected on the same day)\"],[\"\\u003cstrong\\u003e 2-24 hours\\u003c/strong\\u003e \",\"Below 20kg\",\"£5.50\",\"£5.50 per 24 hours\"],[\"\\u003cstrong\\u003e2-24 hours\\u003c/strong\\u003e \",\"Above 20kg\",\"£5.50\",\"£7.50 per 24 hours\"]]}",
+     "These charges are per item:",
+     "{\"template\":\"table\",\"titles\":[\"Time\",\"Rate\"],\"rows\":[[],[\"\\u003cstrong\\u003e0-3 hours\\u003c/strong\\u003e \",\"£5.00\",\"\"],[\"\\u003cstrong\\u003e3-6 hours\\u003c/strong\\u003e \",\"£7.50\",\"\"],[\"\\u003cstrong\\u003e 6-24 hours\\u003c/strong\\u003e \",\"£10.00\",\"\"]]}",
+     "An additional charge of £6 will be made for each 24 hour period.",
      "Toilets can be found:",
      "{\"template\":\"bulletlist\",\"items\":[\"By Gate 2 in Departures (via stairs to basement level)\",\"By Gate 12 in Departures (at ground level)\",\"In Arrivals (unisex toilets, at ground level)\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Accessible toilets\"}",
@@ -73,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

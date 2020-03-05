@@ -39,6 +39,20 @@
   ],
   "cards": [
    {
+    "title": "Direct Vision Standard and HGV Safety Permit",
+    "texts": [
+     "Lorries weighing over 12 tonnes GVW will need a permit to operate in Greater London."
+    ],
+    "link": {
+     "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/dvs-hgv-permit-kerb_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
     "title": "Efficient deliveries and servicing",
     "texts": [
      "How to ensure deliveries and servicing are efficient through reducing and retiming"
@@ -47,9 +61,7 @@
      "url": "/info-for/deliveries-in-london/delivering-efficiently",
      "image": {}
     },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/deliveriesinlondon3_rdax_400x200.jpg"
-    },
+    "image": {},
     "wrapped": false
    },
    {
@@ -72,6 +84,19 @@
     ],
     "link": {
      "url": "https://www.fors-online.org.uk/cms/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "LoCITY: collaborating to protect the environment",
+    "texts": [
+     "Helping fleets save money and run cleaner, more efficient vehicles."
+    ],
+    "link": {
+     "url": "https://locity.org.uk/",
      "icon": "external",
      "image": {}
     },
@@ -169,11 +194,6 @@
      {
       "title": "Delivering legally",
       "url": "/info-for/deliveries-in-london/delivering-legally",
-      "image": {}
-     },
-     {
-      "title": "Protecting the environment",
-      "url": "/info-for/deliveries-in-london/protecting-the-environment",
       "image": {}
      },
      {

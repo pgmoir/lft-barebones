@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Oyster and Barclaycard complete successful technical trial of combined card - next phase of trial now underway",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Oyster and Barclaycard complete successful technical trial of combined card - next phase of trial now underway",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,56 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Transport for London (TfL) and TranSys, the consortium which delivers the Oyster smartcard on behalf of TfL, has announced the successful completion of the technical trial of its new combined Oyster and Barclaycard",
+     "The new card will give passengers the ability to pay for low cost goods and take advantage of Oyster fares",
+     "In December 2006, TranSys and Barclaycard revealed plans to combine Oyster and Barclaycard on one piece of plastic.",
+     "The card also includes Visa contactless technology.",
+     "The Barclaycard partnership is TranSys' first agreement to license Oyster to selected third parties, in order to improve the access and convenience that Oyster offers to travellers in London.",
+     "The trial is aiming towards passengers being able to make quick and contactless payments and travel around the Capital using one card.",
+     "Oyster has been a huge success with more than 10 million cards issued, making passenger journeys cheaper, easier and quicker.",
+     "Since December, a technical trial of 60 cards held by Barclaycard employees based in Northampton, has been taking place to test the functionality and reliability of the technology.",
+     "A contactless terminal was installed in the coffee shop at Barclaycard's head office in Northampton, and the cards have been used on the TfL network more than 2,500 times to make journeys or add Oyster products to the card.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Even more convenient\"}",
+     "This trial was successful with no issues with the technology being identified.",
+     "Cards are now being issued to a larger number of employees, including those based at Barclays' head office in Canary Wharf, to enable the technology to be tested under greater volumes.",
+     "Two contactless terminals have been installed in coffee shops at Barclays in Canary Wharf.",
+     "Shashi Verma, Director of Oyster card at TfL, said: \"This is yet another example of Oyster at the forefront of the technology industry.",
+     "\"The new card will give passengers the ability to pay for low cost goods and take advantage of Oyster fares on the same card reducing the need to carry cash.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Added value\"}",
+     "\"It makes the already hugely successful Oyster card even more convenient.\"",
+     "John Stout, CEO of TranSys, said: \"Like the Oyster card itself, the key to the success of this initiative is its simplicity.",
+     "\"Barclaycard came to us with an idea which could be dovetailed seamlessly with Oyster's existing functionality to deliver added value for Barclaycard customers, without disrupting a service which has become part of London life for millions of people.\"",
+     "Stewart Holmes, Contactless Project Manager at Barclaycard, said: \"The technical trial has been a great success with many employees commenting on how easy and simple the cards are to use.",
+     "\"The demand for cards has been very high and we are now extending the trial.\"",
+     "Over the next few months an increasing number of cards will be issued to employees, including those of TranSys, TfL and Visa, with the aim of having approximately 2000 trial cards issued before the planned customer launch later in the year.",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e ",
+     "\u003cstrong\u003e\n\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

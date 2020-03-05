@@ -39,13 +39,14 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"The performance and value of the TfL Pension Fund.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Investment returns\"}",
-     "The table below shows the total investment returns, net of fees, (including both capital and income) obtained on the Fund's assets (including property but excluding AVCs) for the one, three and five years to 31 March 2018 and the corresponding composite benchmark established by the Trustee as the prime performance comparator.  The benchmark quoted is a weighted average of indices relevant to the structure and is relevant throughout the time periods shown.",
-     "{\"template\":\"table\",\"titles\":[\"\",\"\",\"\",\"\",\"\",\"Total Fund\",\"\",\"\",\"\",\"\",\"\",\"Annual return %\",\"Ex currency hedging\"],\"rows\":[[],[],[\"4.1\",\"3.6\",\"7.3\",\"8.4\",\"8.1\",\"8.8\"],[\"2.8\",\"3.2\",\"8.1\",\"8.7\",\"8.4\",\"8.7\"]]}",
-     "This year's investment performance was 4.1%, 0.5% above the benchmark return of 3.6%. Over the three year period, returns were 7.3% per year, 1.1% below the benchmark. Over five years, returns were 8.1% per year, 0.7% below the benchmark.",
+     "The table below shows the total investment returns, net of fees, (including both capital and income) obtained on the Fund's assets (including property but excluding AVCs) for the one, three and five years to 31 March 2019 and the corresponding composite benchmark established by the Trustee as the prime performance comparator. The benchmark quoted is a weighted average of indices relevant to the structure and is relevant throughout the time periods shown.",
+     "{\"template\":\"table\",\"titles\":[\"\",\"One year\",\"Three year average\",\"Five year average\",\"\",\"Total Fund\",\"Benchmark\",\"Total Fund\",\"Benchmark\",\"Total Fund\",\"Benchmark\",\"Annual return %\",\"Ex currency hedging\"],\"rows\":[[],[],[\"5.3\",\"6.8\",\"9.6\",\"11.1\",\"8.0\",\"9.1\"],[\"6.4\",\"6.8\",\"10.4\",\"11.0\",\"8.8\",\"9.5\"]]}",
+     "This year's investment performance was 5.3%, 1.5% below the benchmark return of 6.8%. Over the three year period, returns were 9.6% per year, 1.5% below the benchmark. Over five years, returns were 8.0% per year, 1.1% below the benchmark.",
+     "Since 1 April 2016, the Total Fund ex Currency Hedging Benchmark is calculated by the Fund's performance measurer as a weighted average of the underlying manager benchmarks. This has then been adjusted to estimate the impact of the currency overlay portfolio to produce the Total Fund Benchmark. The currency impact has been estimated as the difference in performance between the Total Fund ex Currency Hedging and the Total Fund.",
      "{\"template\":\"bulletlist\"}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Value of the Fund\"}",
      "The value of the Fund over the last five years has been:",
-     "{\"template\":\"table\",\"titles\":[\"\",\"\"],\"rows\":[[],[\"2018\",\"£10,337.8m\"],[\"2017\",\"£9,867.8m\"],[\"2016\",\"£8,211.4m\"],[\"2015\",\"£8,304.2m\"],[\"2014\",\"£7,311.9m\"]]}",
+     "{\"template\":\"table\",\"titles\":[\"Year\",\"Value\"],\"rows\":[[],[\"2019\",\"£10,959.5m\"],[\"2018\",\"£10,337.8m\"],[\"2017\",\"£9,867.8m\"],[\"2016\",\"£8,211.4m\"],[\"2015\",\"£8,304.2m\"]]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Assessing performance\"}",
      "The Fund participates in an independent investment performance measurement scheme organised by JP Morgan Investor Services which provides comparative information for assessing investment performance.  JP Morgan Investor Services calculates both the overall investment returns obtained on the Fund's assets and the returns obtained by the individual Investment Managers."
     ],
@@ -59,14 +60,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

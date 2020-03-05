@@ -372,7 +372,8 @@
      "\u003cstrong\u003eCharging Day\u003c/strong\u003e for the Congestion Charge - means every day of the year (between 07:00 and 18:00) except:",
      "{\"template\":\"bulletlist\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Public and bank holidays in England and Wales\",\"A Saturday or a Sunday\",\"All charging days between Christmas Day and New Year's Day (inclusive)\"]}",
-     "\u003cstrong\u003eCharging Day\u003c/strong\u003e for the Low Emission Zone Charge and the Ultra Low Emission Zone Charge means every day of the year.",
+     "\u003cstrong\u003eCharging Day\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the Low Emission Zone Charge means every day of the year\",\"For the Ultra Low Emission Zone Charge means every day of the year except Christmas Day (25 December)\"]}",
      "\u003cstrong\u003eCharge\u003c/strong\u003e - means (as applicable) any of the following:",
      "{\"template\":\"bulletlist\",\"items\":[\"Congestion Charge (CC) and Emissions Surcharge (ES) as payable under Articles 4 and 6 of the Congestion Charging Scheme Order, or\",\"Low Emission Zone (LEZ) Charge and Ultra Low Emission Zone (ULEZ) Charge as payable under Article 7 of the ULEZ -LEZ Charging Scheme\"]}",
      "\u003cstrong\u003eCongestion Charging Scheme\u003c/strong\u003e - means the Charging Scheme in the Schedule to the Greater London (Central Zone) Congestion Charging Order 2004, as varied.",
@@ -728,7 +729,7 @@
      "\u003cstrong\u003e12.3 Checking information\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003e12.3.1\u003c/strong\u003e At any time after we receive an application for a Compliance Registration (including after we have notified you that your application is accepted) we may ask you for proof of compliance eligibility and/or any other information about your vehicle being registered.\u003cbr /\u003e\u003cstrong\u003e12.3.2\u003c/strong\u003e We will send you a letter requesting that information which you must provide by the date stated in that letter.\u003cbr /\u003e\u003cstrong\u003e12.3.3\u003c/strong\u003e If as a result of checks of the information provided above we decide that a registered vehicle is not or has ceased to be an eligible vehicle (including if you fail to provide requisite proof of eligibility), then:",
      "{\"template\":\"bulletlist\",\"items\":[\"For any application for which you have applied, we will tell you that it has been rejected\",\"For any Registration for which you are not (or are no longer) eligible, we will tell you that we will remove the registered vehicle on a date we tell you\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"User guides\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Auto Pay user guide\",\"url\":\"/cdn/static/cms/documents/auto-pay-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.49MB\",\"image\":{}},{\"title\":\"CC Auto Pay user guide\",\"url\":\"/cdn/static/cms/documents/congestion-charging-auto-pay-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.42MB\",\"image\":{}},{\"title\":\"Blue Badge Discount user guide\",\"url\":\"/cdn/static/cms/documents/managing-your-blue-badge-discount-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 991KB\",\"image\":{}},{\"title\":\"NHS Reimbursement Partner user guide\",\"url\":\"/cdn/static/cms/documents/nhs-reimbursement-partner-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 487KB\",\"image\":{}},{\"title\":\"Residents Discount User Guide\",\"url\":\"/cdn/static/cms/documents/managing-residents-discount-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.49MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Auto Pay user guide\",\"url\":\"/cdn/static/cms/documents/auto-pay-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.49MB\",\"image\":{}},{\"title\":\"CC Auto Pay user guide\",\"url\":\"/cdn/static/cms/documents/congestion-charging-auto-pay-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.42MB\",\"image\":{}},{\"title\":\"Blue Badge Discount user guide\",\"url\":\"/cdn/static/cms/documents/managing-your-blue-badge-discount-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 991KB\",\"image\":{}},{\"title\":\"NHS Reimbursement Partner user guide\",\"url\":\"/cdn/static/cms/documents/nhs-reimbursement-partner-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 838KB\",\"image\":{}},{\"title\":\"Residents Discount User Guide\",\"url\":\"/cdn/static/cms/documents/managing-residents-discount-user-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.49MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"NHS Reimbursement Partner user guide\"}",
      "\u003cstrong\u003eThere are strict eligibility requirements\u003c/strong\u003e for that account - applications are available by invitation only"
     ],
@@ -742,14 +743,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -816,11 +809,6 @@
       "image": {}
      },
      {
-      "title": "Technology Innovation Portal",
-      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
-      "image": {}
-     },
-     {
       "title": "TfL call charges",
       "url": "/corporate/terms-and-conditions/tfl-call-charges",
       "image": {}
@@ -864,11 +852,21 @@
       "title": "Congestion Charge \u0026 LEZ",
       "url": "/corporate/terms-and-conditions/congestion-charging-and-lez",
       "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "url": "/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
+      "image": {}
      }
     ],
     "link": {
      "title": "Terms \u0026 conditions",
-     "url": "/corporate/terms-and-conditions/congestion-charging-and-lez",
+     "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
      "image": {}
     },
     "image": {},

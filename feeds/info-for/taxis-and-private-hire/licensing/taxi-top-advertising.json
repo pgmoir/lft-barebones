@@ -41,7 +41,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rooftop illuminated digital advertising\"}",
      "A decision has been made to limit the number of vehicles to 1,000 at this time.",
      "In limiting the number to 1,000, we have taken into consideration the fact that this is new technology and it allows us to properly assess their impact and how they are received by the public. It also helps to ensure the visual impact of the London taxi and the streetscape of London is maintained.",
-     "There are now between 250-300 taxi vehicles with a taxi top device fitted (this number will be regularly updated).",
+     "There are now between 200-250 taxi vehicles with a taxi top device fitted (this number will be regularly updated).",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Eligibility criteria\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Only the licence holders of licensed TX4 model taxis are eligible to apply\",\"For each application, an agreement must be in place with an approved manufacturer. Evidence of this must be provided as part of the application\",\"An approval will only be authorised where an licensing inspection is due within the next 6 months\"]}",
      "The current approved manufacturers are:",
@@ -78,14 +78,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -139,6 +131,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

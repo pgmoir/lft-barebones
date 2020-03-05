@@ -33,7 +33,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"If you or someone you know has been injured during, or affected by, a serious incident involving TfL services, we offer comprehensive help and support via The Sarah Hope Line. This page details what help you can receive, who is eligible and how to access the service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"If you or someone you know has been injured during, or affected by, a serious incident involving TfL services, we offer comprehensive help and support via The Sarah Hope Line. This page describes the help you can receive, who is eligible and how to contact the service.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/sarah-hope2_rdax_400x250.jpg\",\"alt\":\"Sarah Hope logo\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we can help you\"}",
      "If you have been involved in, or affected by, a life-changing incident on the TfL network you can contact The Sarah Hope Line in full confidentiality.",
@@ -60,14 +60,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "link": {
@@ -78,15 +70,6 @@
    },
    {
     "template": "advert",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Related websites",
     "link": {
      "image": {}
     },

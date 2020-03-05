@@ -33,7 +33,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Richmond and Clapham Junction to Stratford timetable (valid until Saturday 14 December 2019)\",\"url\":\"/cdn/static/cms/documents/richmond-and-clapham-junction-to-stratford-timetable-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 341KB\",\"image\":{}},{\"title\":\"Watford Junction to Euston interim timetable (valid until further notice)\",\"url\":\"/cdn/static/cms/documents/watford-junction-to-euston-interim-timetable-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 255KB\",\"image\":{}},{\"title\":\"Gospel Oak to Barking timetable (valid until Saturday 14 December 2019)\",\"url\":\"/cdn/static/cms/documents/gospel-oak-to-barking-timetable-june-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 161KB\",\"image\":{}},{\"title\":\"Highbury \\u0026 Islington to New Cross, Clapham Junction, Crystal Palace and West Croydon timetable including Night Service (valid until Saturday 14 December 2019)\",\"url\":\"/cdn/static/cms/documents/highbury-and-islington-to-west-croydon-and-clapham-junction-timetable-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 248KB\",\"image\":{}},{\"title\":\"Liverpool Street to Enfield Town, Cheshunt (via Seven Sisters) and Chingford timetable (valid until Saturday 14 December 2019)\",\"url\":\"/cdn/static/cms/documents/liverpool-street-to-enfield-town-and-cheshunt-and-chingford-timetable-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 263KB\",\"image\":{}},{\"title\":\"Romford to Upminster timetable (valid until Saturday 14 December 2019)\",\"url\":\"/cdn/static/cms/documents/romford-to-upminster-timetable-may-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 143KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Richmond and Clapham Junction to Stratford timetable (valid until Saturday 16 May 2020)\",\"url\":\"/cdn/static/cms/documents/richmond-and-clapham-junction-to-stratford-timetable-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 3.08MB\",\"image\":{}},{\"title\":\"Watford Junction to Euston timetable (valid until Saturday 16 May 2020)\",\"url\":\"/cdn/static/cms/documents/watford-junction-to-euston-timetable-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 498KB\",\"image\":{}},{\"title\":\"Gospel Oak to Barking timetable (valid until Saturday 16 May 2020)\",\"url\":\"/cdn/static/cms/documents/gospel-oak-to-barking-timetable-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 316KB\",\"image\":{}},{\"title\":\"Highbury \\u0026 Islington to New Cross, Clapham Junction, Crystal Palace and West Croydon timetable (valid until Saturday 16 May 2020)\",\"url\":\"/cdn/static/cms/documents/highbury-and-islington-to-west-croydon-and-clapham-junction-timetable-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.33MB\",\"image\":{}},{\"title\":\"Liverpool Street to Enfield Town, Cheshunt (via Seven Sisters) and Chingford timetable (valid until Saturday 16 May 2020)\",\"url\":\"/cdn/static/cms/documents/liverpool-street-to-enfield-town-and-cheshunt-and-chingford-timetable-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 854KB\",\"image\":{}},{\"title\":\"Romford to Upminster timetable (valid until Saturday 16 May 2020)\",\"url\":\"/cdn/static/cms/documents/romford-to-upminster-timetable-december-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 206KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -45,14 +45,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -111,7 +111,17 @@
      "span",
      "{\"template\":\"bulletlist\",\"items\":[\"span\",\"spanspan\",\"span\",\"span\",\"span\"]}",
      "span",
-     "span"
+     "span",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Deliveries and servicing\"}",
+     "Deliveries and servicing trips in central London are likely to be affected by congestion and increased journey times:",
+     "{\"template\":\"bulletlist\",\"items\":[\"on Saturday 3 August in central London\",\"on Sunday 4 August in central, east, west, central and southwest London, and along the route into Surrey\"]}",
+     "If possible, re-time deliveries and servicing trips to avoid road closures.",
+     "Find out whether suppliers can deliver by a different type of transport such as walking or cycling where possible",
+     "If you make deliveries, see the advice on this page under the heading \u003ca href=\"#Driving\"\u003eDriving\u003c/a\u003e , and our page listing \u003ca href=\"/status-updates/major-works-and-events/road-closures-for-prudential-ridelondon-2019\"\u003eroad and bridge closures for the event\u003c/a\u003e .",
+     "Find out more about \u003ca href=\"/info-for/deliveries-in-london/delivering-efficiently\"\u003echanging deliveries\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and private hire\"}",
+     "Some taxi and private hire journeys will be affected by the road closures for Prudential RideLondon. Some taxi ranks will be suspended during the weekend.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi rank suspensions\",\"url\":\"/cdn/static/cms/documents/prudential-ride-london-2019-taxi-rank-suspensions.pdf\",\"icon\":\"download\",\"size\":\"PDF 38KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -124,26 +134,13 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Major works \u0026 events",
     "links": [
      {
-      "title": "August Bank Holiday \u0026 Notting Hill Carnival",
-      "url": "/status-updates/major-works-and-events/august-bank-holiday-and-notting-hill-carnival",
-      "image": {}
-     },
-     {
-      "title": "Baker Street roadworks",
-      "url": "/status-updates/major-works-and-events/baker-street-roadworks",
+      "title": "A406 Angel Road flyover closures",
+      "url": "/status-updates/major-works-and-events/a406-angel-road-flyover-closures",
       "image": {}
      },
      {
@@ -157,8 +154,18 @@
       "image": {}
      },
      {
-      "title": "Easter travel 2018",
-      "url": "/status-updates/major-works-and-events/easter-travel-2018",
+      "title": "Cycleway 4",
+      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "image": {}
+     },
+     {
+      "title": "Cycleway 9",
+      "url": "/status-updates/major-works-and-events/cycleway-9",
+      "image": {}
+     },
+     {
+      "title": "Euston Road works",
+      "url": "/status-updates/major-works-and-events/euston-road-works",
       "image": {}
      },
      {
@@ -182,8 +189,8 @@
       "image": {}
      },
      {
-      "title": "Spring Bank Holiday 2019",
-      "url": "/status-updates/major-works-and-events/may-bank-holidays-2019",
+      "title": "London Bridge works",
+      "url": "/status-updates/major-works-and-events/london-bridge-works",
       "image": {}
      },
      {
@@ -202,6 +209,11 @@
       "image": {}
      },
      {
+      "title": "Reimagine event for World Car Free Day",
+      "url": "/status-updates/major-works-and-events/car-free-day-2019",
+      "image": {}
+     },
+     {
       "title": "RideLondon",
       "url": "/status-updates/major-works-and-events/ridelondon",
       "image": {}
@@ -209,11 +221,6 @@
      {
       "title": "Road changes at Victoria Embankment",
       "url": "/status-updates/major-works-and-events/road-changes-at-victoria-embankment",
-      "image": {}
-     },
-     {
-      "title": "Tour of Britain 2018",
-      "url": "/status-updates/major-works-and-events/tour-of-britain-2018",
       "image": {}
      },
      {
@@ -232,14 +239,14 @@
       "image": {}
      },
      {
-      "title": "Cycleway 4",
-      "url": "/status-updates/major-works-and-events/cycleway-4",
+      "title": "Westminster Bridge works",
+      "url": "/status-updates/major-works-and-events/westminster-bridge-works",
       "image": {}
      }
     ],
     "link": {
      "title": "Major works \u0026 events",
-     "url": "/status-updates/major-works-and-events/cycleway-4",
+     "url": "/status-updates/major-works-and-events/westminster-bridge-works",
      "image": {}
     },
     "image": {},

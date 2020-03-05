@@ -1,7 +1,7 @@
 {
  "pageTitle": "A40 Westway",
- "keywords": "Bus operators,Coach drivers,Drivers,Freight industry,Motorbikers,Planning and construction,Taxi and private hire,A,W,Hammersmith \u0026 Fulham,Kensington \u0026 Chelsea,Westminster,Roads,Buses,Coaches,Deliveries,Driving,Motorcycle,Taxis and minicabs,TfL",
- "description": "Our plans to refurbish the A40 Westway are on hold for now",
+ "keywords": "Bus operators,Coach drivers,Drivers,Freight industry,Motorbikers,Planning and construction,Taxi and private hire,A,W,Hammersmith \u0026 Fulham,Kensington and Chelsea,Westminster,Roads,Buses,Coaches,Deliveries,Driving,Motorcycle,Taxis and minicabs,TfL",
+ "description": "We aim to start work to refurbish the Westway in late 2020",
  "template": "page-content",
  "breadcrumbs": [
   {
@@ -33,21 +33,26 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We are considering how best to pay for the ongoing maintenance and management of the elevated A40 Westway structures and Marylebone flyover. These structures support the A40 dual carriageway that runs from Western Avenue east towards the Marylebone Road.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"The Westway structures carry the elevated A40 from Wood Lane flyover to the west side of Marylebone flyover. They need to be refurbished because several components have reached the end of their service life. We aim to start work on site in late 2020.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "The Westway is a key strategic route, used by 96,000 vehicles a day. Major refurbishment work is now needed to keep the A40 Westway and surrounding road network running reliably in the future.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"A40 Westway route - section plan\",\"url\":\"/cdn/static/cms/documents/a40-westway-route-location-plan-and-sections.jpg\",\"icon\":\"download\",\"size\":\"JPG 128KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-route-location-plan-and-sections-thumb.jpg\",\"alt\":\"map of a40 westway\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Lane restrictions and some partial closures of the A40 at night and on some weekends will help us do the work safely and efficiently. Once a contractor is appointed we'll develop a traffic management plan - check back here for details of planned closures/restrictions and diversion routes.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Speed limit restriction as of 27 January 2020\"}",
+     "The speed limit on a 600 metre (approximately) stretch of the A40 between Ladbroke Grove and Westbourne Park is now 30mph, down from the previous 40mph.",
+     "Slowing the speed helps protect a joint in the road there until it can be replaced.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Next steps\"}",
+     "We want to appoint a contractor as early as possible in 2020 to develop the designs, traffic management options and proposals for the refurbishment.",
+     "Given the scale of the structure, and that some sections are a higher priority than others, we plan to do the work in phases.",
+     "Along with the appointed contractor, we will work with interested parties to plan access and agree how to offset the temporary impact of the construction works.",
+     "Key elements of the work needed include:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Replacement of roller-shutter expansion joints\",\"Replacement of comb expansion joints\",\"Installation of safety barriers to protect parapets at high risk places (for example, over live railways)\",\"Carriageway surfacing and waterproofing where expansion joints are replaced\",\"Localised concrete repairs\",\"Drainage investigations\",\"Bearings investigations\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we've done\"}",
-     "We investigated underneath the Westway elevated structures and Marylebone flyover, surveying different parts of the structure including the drainage, waterproofing, expansion joints, surfacing, structural concrete and parapets during summer 2017.",
-     "We also investigated the road surface on the Westway and Marylebone flyover by digging trial holes, taking core samples and surveying the drainage system.",
-     "In late 2017 we reviewed our findings and completed a feasibility study to explore options for maintaining the Westway and Marylebone flyover structures.",
-     "Because of restrictions on capital investment, the refurbishment of these structures is being delayed until  at least 2020/2021. Only safety critical work will be done on these assets until then.",
-     "We will continue to monitor and manage the impact of this approach on the A40 Westway structures and Marylebone flyover.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Work in the future\"}",
-     "Our \u003ca href=\"/corporate/publications-and-reports/business-plan\"\u003eBusiness Plan\u003c/a\u003e looks at ways to safely reduce spending on our roads maintenance programme in the short term while we identify a new, long-term funding stream to support that work.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Background\"}",
-     "The group of structures known collectively as the Westway carry the A40 for 4.6km from Wood Lane flyover in the west to the Marylebone flyover in the east.",
-     "The structures were built between 1964 and 1970. Maintenance work has been done in the past - including waterproofing the deck and improving the expansion joints - but several components have reached or are nearing the end of their life.",
-     "Major maintenance/refurbishment work is needed to secure the long term reliability of the Westway.",
-     "We inspected and surveyed all residential and business premises beneath the Westway between November 2015 and January 2016 to help us understand its condition before we inspected the structures themselves in summer 2017.",
-     "{\"template\":\"carousel\",\"link\":{\"image\":{}},\"image\":{},\"carousel\":[{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-aerial.jpg\",\"alt\":\"Aerial view\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-portobello-green.jpg\",\"alt\":\"Spaces beneath the structure\"},{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-boom-burger.jpg\",\"alt\":\"Businesses beneath the structure\"}],\"wrapped\":false}"
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/westway-overview_rdax_400x457.jpg\",\"alt\":\"a40 westway aerial\"},\"wrapped\":false}",
+     "Between 2015 and 2017 we inspected and surveyed all residential and business premises beneath the Westway to help us understand its condition.",
+     "We also surveyed different parts of the Westway elevated structures and Marylebone flyover, including the drainage, waterproofing, expansion joints, surfacing, structural concrete and parapets.",
+     "We investigated the road surface on the Westway and Marylebone flyover by digging trial holes, taking core samples and surveying the drainage system.",
+     "After our March 2018 report on the investigations and options for maintaining and refurbishing the Westway and Marylebone flyover structures, a decision was made to go ahead with the project. Financial constraints at the time meant this was put on hold, but in December 2019 we decided to move forward with design and construction plans for the project.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/a40-westway-aerial.jpg\",\"alt\":\"Aerial shot of A40 Westway\"},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -59,14 +64,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

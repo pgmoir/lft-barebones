@@ -56,7 +56,7 @@
      "We are unlikely to accept applications from similar retailers if there is an existing offering in the area, unless station footfall justifies multiple offers (applies more to retail units).",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Our leases\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lease length\"}",
-     "Our standard leases are for six years, but a flexible range of leases are available. These are negotiated on an individual basis depending on the type of property you've applied for. Your lease will specify what the premises may be used for and will also identify the extent of the property contained in the lease.",
+     "Our standard leases are for five years. These are negotiated on an individual basis depending on the type of property you've applied for. Your lease will specify what the premises may be used for and will also identify the extent of the property contained in the lease.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Lease type\"}",
      "All leases are excluded from the security of tenure and compensation provisions of the Landlord and Tenant Act 1954. This means that when your lease expires, your landlord is not obliged to grant you a new lease under the Act.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rent\"}",
@@ -75,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

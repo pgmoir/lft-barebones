@@ -42,7 +42,7 @@
      "Over the Easter Bank Holiday (Good Friday 19 to Easter Monday 22 April 2019), planned works and service changes may affect your journey.",
      "The main service changes will be:",
      "{\"template\":\"bulletlist\",\"items\":[\"planned closures on the Circle, District and Hammersmith \\u0026 City lines, and on DLR and London Overground services\",\"a nine-day major closure on London Trams\",\"major road works, including switches to two-way traffic in the \\u003ca href=\\\"/status-updates/major-works-and-events/west-end-project\\\"\\u003eWest End\\u003c/a\\u003e and around \\u003ca href=\\\"/status-updates/major-works-and-events/highbury-corner-roundabout\\\"\\u003eHighbury Corner\\u003c/a\\u003e roundabout\",\"changes to the frequency and timetabling of services\"]}",
-     "Track closures are subject to change. For the latest information, check our six month look aheads for \u003ca href=\"/cdn/static/cms/documents/track-closures.pdf\"\u003etrack\u003c/a\u003e and \u003ca href=\"/cdn/static/cms/documents/station-closures.pdf\"\u003estations\u003c/a\u003e .",
+     "Track closures are subject to change. For the latest information, check our six month look aheads for track and stations.",
      "There will be no Congestion Charge (CC) over the bank holiday, but the new Ultra Low Emission Zone (ULEZ) remains in operation 24/7 throughout the Easter Bank Holiday.",
      "There will be special \u003ca href=\"/modes/dial-a-ride/index\"\u003eDial-a-Ride\u003c/a\u003e arrangements over Easter.",
      "Check before you travel and plan ahead using our travel tools. See:",
@@ -91,7 +91,7 @@
      "Follow \u003ca href=\"https://twitter.com/LondonDLR\"\u003e @LondonDLR\u003c/a\u003e for news and service information.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Trams\"}",
      "There will be a nine-day closure affecting some tram routes from Sunday 14 April - Easter Sunday (21 April).",
-     "For details see our \u003ca href=\"/modes/trams/planned-trams-line-closures\"\u003etrams closures page\u003c/a\u003e .",
+     "For details see our trams closures page.",
      "{\"template\":\"bulletlist\",\"items\":[\"On Good Friday (19 April), Saturday (20 April) and Sunday (21 April) April there is no service between Addiscombe and Elmers End / Birkbeck. Replacement buses will run between East Croydon and Birkbeck via Elmers End\",\"A Saturday service will run between New Addington and West Croydon. There will be a reduced service on all other routes\"]}",
      "See how trams are running on our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/\"\u003e status updates\u003c/a\u003e page.",
      "Follow \u003ca href=\"https://twitter.com/TramsLondon\"\u003e@TramsLondon\u003c/a\u003e for news and service information",
@@ -138,14 +138,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

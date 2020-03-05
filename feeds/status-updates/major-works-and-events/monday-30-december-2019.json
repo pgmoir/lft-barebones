@@ -1,0 +1,93 @@
+{
+ "pageTitle": "Monday 30 December 2019",
+ "keywords": "TfL",
+ "description": "Travel advice for 30 December 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "Monday 30 December 2019"
+  }
+ ],
+ "title": {
+  "title": "Monday 30 December 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Christmas and New Year period, most of TfL public transport is open. However, planned works and service changes will affect public transport and road travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?dateTypeSelect=Future%20date\u0026direction=\u0026startDate=2019-12-30T00%3A00%3A00\u0026endDate=2019-12-30T23%3A59%3A59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and London Trams services for 30 December.",
+     "There are changes and planned works on the following services today:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Normal Friday service on 24 hour and night routes\",\"Saturday service on all day routes\",\" \\u003ca href=\\\"https://tfl.gov.uk/bus/route/507/?direction=outbound\\\"\\u003e507\\u003c/a\\u003e route - enhanced Saturday service\",\" \\u003ca href=\\\"https://tfl.gov.uk/bus/route/521/?direction=outbound\\\"\\u003e521\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/bus/route/68/?direction=outbound\\\"\\u003eX68\\u003c/a\\u003e - special service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service\",\"First trains at weekday times on all lines except Waterloo \\u0026 City line\",\"Waterloo \\u0026 City line - reduced service with first and last trains at normal weekday times\",\"First Central line trains between Hainault and Woodford via Grange Hill at Saturday times\",\"No District line service between Earl's Court and Kensington (Olympia)\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Hackney Downs and Enfield Town/Cheshunt (via Seven Sisters) after 22:45\",\"No southbound service from Sydenham to West Croydon from after 23:30\",\"Weekday service between Highbury \\u0026 Islington/Dalston Junction and New Cross, Clapham Junction, Crystal Palace and West Croydon\",\"Saturday service on all other routes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"West\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reduced service between Paddington and Hayes \\u0026 Harlington.\",\"Trains every 30 mins\",\"Trains not stopping at Acton Main Line, West Ealing or Hanwell\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Trams\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There will be limited regular bookings for today. Book journeys for today from Monday 16 December\",\"Dial-a-Ride services are for registered members only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Woolwich Ferry\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Single boat service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles\"}",
+     "Santander Cycles are available throughout December, including today.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle for free in December. Make as many 30-minute journeys as you like within 24 hours free of charge. Use code SCXMAS19\",\"Check availability of Santander Cycles using the \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003eonline docking station map\\u003c/a\\u003e \",\"Download the Santander Cycles app from the \\u003ca href=\\\"https://itunes.apple.com/gb/app/santander-cycles/id974792287?mt=8\\\"\\u003eApp Store\\u003c/a\\u003e or \\u003ca href=\\\"https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire\\u0026hl=en_GB\\\"\\u003eGoogle Play\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e does not apply today. Charges resume on Thursday 2 January\",\" \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\",\"See our \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future date\\u0026direction=\\u0026startDate=2019-12-30T00%3a00%3a00\\u0026endDate=2019-12-30T23%3a59%3a59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for 30 December\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

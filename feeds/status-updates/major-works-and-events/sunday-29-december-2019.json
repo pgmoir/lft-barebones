@@ -1,0 +1,91 @@
+{
+ "pageTitle": "Sunday 29 December 2019",
+ "keywords": "TfL",
+ "description": "Travel advice for 29 December",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "Sunday 29 December 2019"
+  }
+ ],
+ "title": {
+  "title": "Sunday 29 December 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Christmas and New Year period, most of TfL public transport is open. However, planned works and service changes will affect public transport and road travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future date\u0026direction=\u0026startDate=2019-12-29T00%3a00%3a00\u0026endDate=2019-12-29T23%3a59%3a59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and London Trams services for 29 December.",
+     "There are changes and planned works on the following services today.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No Metropolitan line service between Baker Street and Aldgate\",\"No Circle line service\",\"No District line service between South Kensington and East Ham\",\"Replacement buses running between Liverpool Street and Barking\",\"No Hammersmith \\u0026 City line service between Baker Street and Barking\",\"Sunday service on all other lines\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Surrey Quays and Clapham Junction all day\",\"No service between Highbury \\u0026 Islington and Stratford after 18:30\",\"Trains not stopping at Whitechapel\",\"No service between Euston and Kilburn High Road until 11:45\",\"Sunday service on all other routes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"East\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Liverpool Street and Shenfield\",\"Rail replacement buses between Stratford and Shenfield (except Maryland), calling additionally at Newbury Park for the Central line\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"West\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reduced service between Paddington and Hayes \\u0026 Harlington. Trains every 30 mins\",\"Trains every 30 mins\",\"Trains not stopping at Acton Main Line and West Ealing\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Limited regular bookings for today. Book your journeys for today from Monday 16 December\",\"Dial-a-Ride services are for registered members only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Woolwich Ferry\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Single boat service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles\"}",
+     "Santander Cycles are available throughout December, including today.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle for free this December. Make as many 30-minute journeys as you like within 24 hours free of charge. Use code SCXMAS19\",\"Check availability of Santander Cycles using the \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003eonline docking station map\\u003c/a\\u003e \",\"Download the Santander Cycles app from the \\u003ca href=\\\"https://itunes.apple.com/gb/app/santander-cycles/id974792287?mt=8\\\"\\u003eApp Store\\u003c/a\\u003e or \\u003ca href=\\\"https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire\\u0026hl=en_GB\\\"\\u003eGoogle Play\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "All our other services are planned to run normally.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e does not apply today. Charges resume on Thursday 2 January\",\" \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\",\"See our \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future date\\u0026direction=\\u0026startDate=2019-12-29T00%3a00%3a00\\u0026endDate=2019-12-29T23%3a59%3a59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for 29 December\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally.",
+     "{\"template\":\"bulletlist\"}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

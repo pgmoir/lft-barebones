@@ -36,7 +36,7 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The Junior Travel Ambassador (JTA) scheme encourages students to engage with each other and provides your school with the resources and guidance to promote safe, active and independent travel within the school community.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"The Junior Travel Ambassador (JTA) scheme encourages peer-to-peer engagement and will give you and your school all the resources and guidance you need to promote safer, active and independent travel within the school community.  It's a fun and engaging way to spread important messages and build skills for life.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/x001-00131-schools-jta-logo-small.jpg\",\"alt\":\"JTA logo\"},\"wrapped\":false}",
      "Specifically aimed at Year 6 pupils, and their parents, as they prepare to start secondary school and begin travelling by themselves for the first time, the JTA scheme aims to take a more direct approach to promoting independent travel. This includes running projects and schemes to share ideas on travel planning and learning how to use TfL's \u003ca href=\"/plan-a-journey/index\"\u003eJourney Planner\u003c/a\u003e .",
      "Each JTA will receive their own badge at the start of their role and a certificate of participation once they have finished. You can download information and guidance about the role below.",
@@ -66,14 +66,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Schools \u0026 young people",
@@ -95,7 +87,7 @@
      },
      {
       "title": "Children's Traffic Club London",
-      "url": "/info-for/schools-and-young-people/teaching-resources/children-s-traffic-club-london",
+      "url": "/info-for/schools-and-young-people/teaching-resources/pre-school",
       "image": {}
      },
      {

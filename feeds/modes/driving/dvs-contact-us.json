@@ -1,0 +1,42 @@
+{
+ "pageTitle": "Contact HGV Safety Permit",
+ "keywords": "TfL",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Driving",
+   "url": "/modes/driving/index"
+  },
+  {
+   "title": "Make an enquiry"
+  }
+ ],
+ "title": {
+  "complex": true,
+  "title": "Contact HGV Safety Permit",
+  "card": {
+   "title": "Keep track of your enquiries",
+   "texts": [
+    "Sign in or create a London road user charging account.",
+    "You'll be able to:"
+   ],
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": []
+ },
+ "rhnav": {
+  "cards": null
+ }
+}

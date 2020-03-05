@@ -40,8 +40,10 @@
      "You can now opt to receive your copy of otm Pensioners' Edition by email.  To sign up for the otm via email, please \u003ca href=\"http://www.pensionersubscriptions.co.uk\"\u003ecomplete this simple online form\u003c/a\u003e .",
      "You can re-subscribe to the paper version at any time. You will need to enter your pensioner membership number which you can find on any individual correspondence from the Pension Fund, or on your annual payslip.",
      "If you would like to be emailed full copies of our employee magazines - otm (for London\u003cbr /\u003eUnderground) and Upfront (for Surface Transport) - you can subscribe for free using the same link.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2020\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"otm January 2020\",\"url\":\"/cdn/static/cms/documents/otm-issue-66-january-2020.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.07MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2019\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"otm July 2019\",\"url\":\"/cdn/static/cms/documents/otm-issue-64-july-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.12MB\",\"image\":{}},{\"title\":\"otm March 2019\",\"url\":\"/cdn/static/cms/documents/otm-march-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.94MB\",\"image\":{}},{\"title\":\"otm January 2019\",\"url\":\"/cdn/static/cms/documents/otm-issue-62-january-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.21MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"otm September 2019\",\"url\":\"/cdn/static/cms/documents/otm-september-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.35MB\",\"image\":{}},{\"title\":\"otm July 2019\",\"url\":\"/cdn/static/cms/documents/otm-issue-64-july-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.12MB\",\"image\":{}},{\"title\":\"otm March 2019\",\"url\":\"/cdn/static/cms/documents/otm-march-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.94MB\",\"image\":{}},{\"title\":\"otm January 2019\",\"url\":\"/cdn/static/cms/documents/otm-issue-62-january-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.21MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2018\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"otm September 2018\",\"url\":\"/cdn/static/cms/documents/otm-issue-61-september-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 5.82MB\",\"image\":{}},{\"title\":\"otm July 2018\",\"url\":\"/cdn/static/cms/documents/otm-july-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 914KB\",\"image\":{}},{\"title\":\"otm March 2018\",\"url\":\"/cdn/static/cms/documents/otm-march-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.23MB\",\"image\":{}},{\"title\":\"otm January 2018\",\"url\":\"/cdn/static/cms/documents/otm-january-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 0.98MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2017\"}",
@@ -77,14 +79,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -188,6 +182,26 @@
      {
       "title": "Annual report on Sustainable Investing published",
       "url": "/pensions/news-and-publications/annual-report-on-sustainable-investment-published",
+      "image": {}
+     },
+     {
+      "title": "Annual Members' Meeting 2019",
+      "url": "/pensions/news-and-publications/annual-members-meeting-2019",
+      "image": {}
+     },
+     {
+      "title": "Pension fund office move",
+      "url": "/pensions/news-and-publications/pension-fund-office-move",
+      "image": {}
+     },
+     {
+      "title": "PCC election results 2019",
+      "url": "/pensions/news-and-publications/pcc-election-results-2019",
+      "image": {}
+     },
+     {
+      "title": "Maximising Additional Voluntary Contributions for 2019/20",
+      "url": "/pensions/news-and-publications/maximising-additional-voluntary-contributions-for-2019-20",
       "image": {}
      },
      {

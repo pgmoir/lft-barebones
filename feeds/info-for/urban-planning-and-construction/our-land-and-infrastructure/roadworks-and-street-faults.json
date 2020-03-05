@@ -39,7 +39,7 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We're improving roadworks by making them safer and more convenient for all of our customers, especially those that are particularly vulnerable such as those  walking or cycling.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Report roadworks\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/help-and-contact/report-roadworks\\\"\\u003eReport a problem with a roadworks site\\u003c/a\\u003e so we can take action or send your report to the relevant Highway Authority\",\" \\u003ca href=\\\"/help-and-contact/contact-us-about-streets-and-other-road-issues\\\"\\u003eReport street faults \\u003c/a\\u003e (including traffic light faults)\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"https://streetcare.tfl.gov.uk\\\"\\u003eReport a problem with roadworks\\u003c/a\\u003e with our street care reporting tool.\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Keeping people safe at roadworks\"}",
      "We have produced a \u003ca href=\"https://tfl.gov.uk/info-for/suppliers-and-contractors/health-safety-and-environment/traffic-management\"\u003etemporary traffic management handbook\u003c/a\u003e that sets out good practice for those involved with carrying out roadworks and other construction related activities on TfL's road network (TLRN)",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Find out about roadworks\"}",
@@ -49,11 +49,11 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL lane rental scheme\"}",
      "The TfL \u003ca href=\"/info-for/urban-planning-and-construction/our-land-and-infrastructure/lane-rental-scheme\"\u003elane rental scheme \u003c/a\u003e (TLRS) was introduced in June 2012. It applies to the most traffic-sensitive locations and times of day. It covers 56% of the Transport for London Road Network (TLRN).",
      "The scheme encourages behaviour change and minimises highway occupation, by applying a daily charge.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Code of Conduct for roadworks\"}",
-     "The Mayor has worked with utility companies to establish a code of conduct that cuts delays and congestion caused by roadworks.",
-     "This was revised in June 2012, and now commits us, the six major utilities operating in London and all 33 London boroughs to specific targets that will reduce disruption from roadworks.",
-     "Mayor's Code of Conduct for Roadworks 2012/13",
-     "PDF 50KB",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Roadworks Charter\"}",
+     "The roadworks Charter is a collaboration between TfL and London's biggest utility companies. It sets out a series of principles and targets which achieved together will ensure roadworks are carried out efficiently and safely, keeping disruption to a minimum and supporting sustainable travel.",
+     "Those signed up to the Charter will commit to improving their performance around failed inspections and safety related response times. They will reduce disruption to road users during peak periods and commit to sharing forward plans to improve collaboration. Additionally their commitments include improving provision for pedestrians, cyclists and bus passengers through their works.",
+     "Roadworks Charter",
+     "PDF 340KB",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Permit Scheme\"}",
      "We've signed up to the London Permit Scheme for improved coordination of roadworks.",
      "London Permit Scheme document",
@@ -73,14 +73,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

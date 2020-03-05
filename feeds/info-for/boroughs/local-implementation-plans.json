@@ -9,11 +9,11 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
-   "title": "Borough funding",
+   "title": "Funding for your borough",
    "url": "/info-for/boroughs/borough-funding"
   },
   {
@@ -36,33 +36,32 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Each London borough is required to develop a Local Implementation Plan (LIP). The LIP sets out how the borough will deliver the Mayor's Transport Strategy at local level.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "LIP funding is the process through which TfL provides financial support to boroughs for schemes to improve their transport networks in line with Mayor's Transport Strategy objectives.",
-     "The latest LIP delivery plan is on the \u003ca href=\"/corporate/publications-and-reports/local-implementation-plans\"\u003eLIPs page in Publications \u0026 reports\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LIP Funding\"}",
-     "We provide boroughs with financial support for schemes to improve their transport networks.",
-     "Funding is allocated under five main programmes:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Corridors, neighbourhoods and supporting measures\",\"Liveable Neighbourhoods\",\"Principal road maintenance\",\"Bridge strengthening\",\"Traffic signal modernisation for sites on borough roads\"]}",
-     "Corridors, neighbourhoods and supporting measures funding is allocated using a formula that was agreed with London Councils and the London Technical Advisory Group (LoTAG) in 2010.",
-     " \u003ca href=\"/info-for/boroughs/liveable-neighbourhoods\"\u003eRead more about Liveable Neighbourhoods.\u003c/a\u003e ",
-     "Funding for Principal road maintenance and bridge strengthening is awarded to roads and bridges most in need of repair, and is established through condition surveys.",
+     "{\"template\":\"intro\",\"texts\":[\"Each London borough is required to develop a Local Implementation Plan (LIP). The LIP sets out how the borough will meet the objectives of the Mayor's Transport Strategy.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "LIP funding is the process through which we provide boroughs with financial support. The funding is for schemes to improve their transport networks in a way that is consistent with and supports the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e .",
+     "These schemes are detailed in each borough's LIP. A three-year outline programme is reviewed annually, and a detailed one-year programme is submitted for funding approval for the following financial year.",
+     "Older LIP documents are on the \u003ca href=\"/corporate/publications-and-reports/local-implementation-plans\"\u003eLIPs page in Publications \u0026 reports\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Third LIPs\"}",
-     "After collaborating with London Councils and boroughs throughout 2017, we have now published guidance for the third round of LIP development. This has been published alongside the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003e2018 Mayor's Transport Strategy\u003c/a\u003e .",
-     "The purpose of this guidance is to help with the preparation and approval of the third round of LIPs by:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Supporting boroughs in preparing LIPs that help achieve the Mayor's Transport Strategy vision and priorities\",\"Giving boroughs ownership of their own programmes and flexibility to reflect local circumstances\",\"Reducing resource burdens for the boroughs and TfL, in terms of preparing, monitoring and reviewing LIP submissions\",\"Better enabling transport to be integrated with wider health, economic, social and environmental objectives at a local level\"]}",
-     "The third round LIPs will become effective from April 2019. The following guidance was published in March 2018.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guidance for borough officers on developing the Third LIPs\",\"url\":\"/cdn/static/cms/documents/third-lips-guidance-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.95MB\",\"image\":{}},{\"title\":\"Third LIPs model template\",\"url\":\"/cdn/static/cms/documents/lip3-template-april2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 120KB\",\"image\":{}},{\"title\":\"Third LIPS model template (Word)\",\"url\":\"/cdn/static/cms/documents/lip3-template-april2018.docx\",\"icon\":\"download\",\"size\":\"DOCX 71KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Since the 2018 Mayor's Transport Strategy (and associated LIP guidance documents) was published, every borough has produced their third LIP. These have all now been approved by the Deputy Mayor on behalf of the Mayor.",
+     "These LIPs include the boroughs' targets for contributing to the Mayor's Transport Strategy Outcomes - we track progress against these every year.",
+     " \u003ca href=\"/info-for/boroughs/information-by-borough\"\u003eEach borough's current LIP allocation is on their individual page in Your borough.\u003c/a\u003e ",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Guidance for borough officers on developing the Third LIPs\",\"url\":\"/cdn/static/cms/documents/third-lips-guidance-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.95MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LIP funding\"}",
+     "Funding is allocated under six main programmes:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Corridors, neighbourhoods and supporting measures\",\" \\u003ca href=\\\"/info-for/boroughs/liveable-neighbourhoods\\\"\\u003eLiveable Neighbourhoods\\u003c/a\\u003e \",\"Borough Bus Priority Programme\",\"Principal road maintenance\",\"Bridge strengthening\",\"Traffic signal modernisation for sites on borough roads\"]}",
+     "Corridors, neighbourhoods and supporting measures funding is allocated using a formula that was agreed with London Councils and the London Technical Advisory Group (LoTAG) in 2010.",
+     "Bids for Liveable Neighbourhoods funding and Bus Priority funding on borough roads are made to TfL. We assess them against our own bidding guidance and the benefits that the schemes are expected to achieve, such as more walking, cycling and use of public transport through more reliable journeys.",
+     "Funding is released based on completion of stages in the projects, such as the completion of designs.",
+     "Funding for principal road maintenance and bridge strengthening is awarded to roads and bridges most in need of repair. Condition surveys are used to establish this need.",
+     " \u003ca href=\"/corporate/publications-and-reports/local-implementation-plans\"\u003eSee the final LIPS allocations.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LIP spending and delivery plans\"}",
      "Each year, London boroughs must submit a LIP annual spending submission with specific details of individual schemes they want to take forward. At the end of the financial year, each borough must submit a report on how they have delivered a range of priorities such as cycle parking, 20 mph zones and pedestrian crossings.",
-     " \u003ca href=\"/corporate/publications-and-reports/local-implementation-plans\"\u003eSee the final LIPS allocations.\u003c/a\u003e ",
-     "To see what each borough put in their LIP funding letter, see \u003ca href=\"/info-for/boroughs/information-by-borough\"\u003eInformation by borough\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LIPS guidance\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"LIPs guidance\"}",
      "The LIP formula funding allocations for 'Corridors, Neighbourhoods and Supporting Measures' are calculated for each borough.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Interim LIP guidance 2018/19\",\"url\":\"/cdn/static/cms/documents/18-19-lip-ass-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 269KB\",\"image\":{}},{\"title\":\"Interim LIP guidance 2017/18\",\"url\":\"/cdn/static/cms/documents/lip-guidance-17-18.pdf\",\"icon\":\"download\",\"size\":\"PDF 306KB\",\"image\":{}},{\"title\":\"LIP guidance 2016/17\",\"url\":\"/cdn/static/cms/documents/lip-guidance-2016-2017.pdf\",\"icon\":\"download\",\"size\":\"PDF 290KB\",\"image\":{}},{\"title\":\"LIP finance and reporting guidance\",\"url\":\"/cdn/static/cms/documents/lip-finance-guidance-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 385KB\",\"image\":{}},{\"title\":\"Explanation of LIP Formula Funding - January 2012\",\"url\":\"/cdn/static/cms/documents/lip-formula-funding-presentation.pdf\",\"icon\":\"download\",\"size\":\"PDF 586KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LIP 2020/21 Annual Spending Submission guidance\",\"url\":\"/cdn/static/cms/documents/lip-ass-guidance-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 798KB\",\"image\":{}},{\"title\":\"Third LIPs development guidance for borough officers\",\"url\":\"/cdn/static/cms/documents/lip3-guidance-for-borough-officers-preparing-lip3-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.95MB\",\"image\":{}},{\"title\":\"LIP finance and reporting guidance\",\"url\":\"/cdn/static/cms/documents/lip-finance-guidance-19.pdf\",\"icon\":\"download\",\"size\":\"PDF 385KB\",\"image\":{}},{\"title\":\"Explanation of LIP Formula Funding - January 2012\",\"url\":\"/cdn/static/cms/documents/lip-formula-funding-presentation.pdf\",\"icon\":\"download\",\"size\":\"PDF 586KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Boroughs Portal\"}",
      "The Boroughs Portal is a web-based system that we, along with boroughs and partnerships, use to manage LIP and non-LIP funding that we provide.",
-     "The Portal is used to apply for funds, allocate funds, report on scheme progress, and the subsequent claiming of funds from TfL.",
-     "\u003cstrong\u003eBorough Funding\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:bspsupport@tfl.gov.uk\"\u003ebspsupport@tfl.gov.uk\u003c/a\u003e "
+     "The Portal is used to manage the allocation of funds, report on scheme progress, and to subsequently claim funds from TfL.",
+     "\u003cstrong\u003eBorough funding\u003c/strong\u003e \u003cbr /\u003e\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:bspsupport@tfl.gov.uk\"\u003ebspsupport@tfl.gov.uk\u003c/a\u003e "
     ],
     "link": {
      "image": {}
@@ -75,20 +74,17 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -108,11 +104,6 @@
       "image": {}
      },
      {
-      "title": "Older LIPs guidance",
-      "url": "/info-for/boroughs/older-lips-guidance",
-      "image": {}
-     },
-     {
       "title": "Liveable Neighbourhoods",
       "url": "/info-for/boroughs/liveable-neighbourhoods",
       "image": {}
@@ -121,16 +112,11 @@
       "title": "Planning \u0026 resources",
       "url": "/info-for/boroughs/planning-and-resources",
       "image": {}
-     },
-     {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
-      "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/planning-and-resources",
      "image": {}
     },
     "image": {},

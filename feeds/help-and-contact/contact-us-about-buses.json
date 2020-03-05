@@ -33,8 +33,10 @@
    {
     "template": "content",
     "texts": [
-     "To tell us about an urgent safety matter, call 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003ecall charges may apply\u003c/a\u003e ) or select the 'safety issues and incidents' option on the form below.",
+     "If you see an issue with roadworks, or broken bus stops and shelters, the quickest way to let us know is to \u003ca href=\"https://streetcare.tfl.gov.uk\"\u003ereport a problem with our street care reporting tool.\u003c/a\u003e ",
+     "You can also tell us by calling 0343 222 1234 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003ecall charges may apply\u003c/a\u003e ) or select the 'safety issues and incidents' option on the form below.",
      "For all non-safety critical matters, we aim to respond to you within 10 working days.",
+     "You cannot use this form for refunds. \u003ca href=\"/fares/refunds-and-replacements\"\u003eFind out how to claim a refund.\u003c/a\u003e ",
      "Thank you for taking the time to complete and submit one of our online forms. We will get back to you as soon as possible.",
      "There was an error. Please try again.",
      "Transport for London (TfL), its subsidiaries and service providers will use the personal information you provide on this form to process your feedback, provide you with a response, or the information or services you have requested, and to send you travel related information. On some occasions, we may need to share your information with associated organisations or their agents for these purposes. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation.",
@@ -53,14 +55,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

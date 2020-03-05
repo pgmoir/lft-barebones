@@ -29,7 +29,7 @@
                  <li><a href="/modes/driving/compliance-registration/before-you-start">Register a vehicle for LEZ and ULEZ</a></li>
                 
             
-            
+                
                 <li><span class="last-breadcrumb">Vehicle details</span></li>
             
         
@@ -99,6 +99,9 @@
             content.GeneralMessageHeading = "<h2>What if my vehicle details are incorrect?</h2>";
             content.GeneralMessageBody = "<p>If the number plate (Vehicle Registration Mark) is correct but the description shown is wrong, you can still continue.</p><p>Vehicle information is provided to TfL by the DVLA so you'll need to let the DVLA know if your details are wrong or need to be updated.</p>";
 
+            content.CountryOptionUk = "United Kingdom";
+            content.CountryOptionOther = "Non-UK";
+
             Html.RenderAction("VrmLookup", "ComplianceRegistration", new
             {
                 area = "Ruc",
@@ -120,10 +123,7 @@
     
   </div>
   <div class="aside" role="complementary">
-    
-    
-    
-   
+
     
 
         @{

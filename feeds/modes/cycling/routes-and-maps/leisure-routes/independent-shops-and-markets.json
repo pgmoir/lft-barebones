@@ -1,0 +1,186 @@
+{
+ "pageTitle": "Independent shops and markets",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Discover London's independent shops and markets by bike",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Routes and maps",
+   "url": "/modes/cycling/routes-and-maps"
+  },
+  {
+   "title": "Leisure routes",
+   "url": "/modes/cycling/routes-and-maps/leisure-routes"
+  },
+  {
+   "title": "Independent shops and markets"
+  }
+ ],
+ "title": {
+  "title": "Independent shops and markets",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Escape the busy high streets and visit smaller, independent shops and markets in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/independent-shops-markets.jpg\",\"alt\":\"Cyclist going past row on shops\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hire a Santander Cycle\"}",
+     "You can use your own cycle or \u003ca href=\"/modes/cycling/santander-cycles/how-it-works\"\u003ehire a Santander Cycle\u003c/a\u003e for this route using our app or \u003ca href=\"/modes/cycling/santander-cycles/find-a-docking-station\"\u003edocking stations\u003c/a\u003e on the way. Drop off your cycle, enjoy the sights and then pick up another cycle.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Start the route\"}",
+     "The route is split into three parts. You can also \u003ca href=\"https://www.google.com/maps/d/viewer?mid=1aaP8sDaJurzPHs2YANbbJGR254s\u0026ll=51.53065639126614%2C-0.11200445000008585\u0026z=14\"\u003esee the route on a map\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Camden Market to Passage\"}",
+     "Start your day by browsing through \u003ca href=\"https://www.camdenmarket.com/\"\u003eCamden Market\u003c/a\u003e - London's famous market with over 1,000 shops and stalls.",
+     "You can then hire a Santander Cycle from the docking station on Castlehaven Road.",
+     "1. Walk your cycle back towards Camden Market and cross the road onto the path marked Camden Lock East Yard",
+     "2. Join Regents Canal Towpath and follow it all the way. Remember that pedestrians always have priority",
+     "3. When you reach the tunnel, turn left and take the path up to Caledonia Road",
+     "4. Take the first right onto Carnegie Street and at the end, turn left onto Charlotte Terrace",
+     "5. Turn right onto Copenhagen Street and at the end, turn right again onto Cloudesley Road",
+     "6. Follow the road and turn left onto Ritchie Street. Continue onto Bromfield Street",
+     "7. At the end, turn left onto Berners Road. Go straight over the roundabout towards Charlton place and then turn right onto Camden Passage. You need to get off your cycle and walk along the passage",
+     "Visit \u003ca href=\"https://www.camdenpassageislington.co.uk/\"\u003eCamden Passage\u003c/a\u003e - the car free London street filled with shops, restaurants and an antiques market.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Camden Passage to Exmouth Market\"}",
+     "1. At the end of Camden Passage, turn left onto Upper Street",
+     "2. Follow the street onto Islington High Street and then St John Street",
+     "3. Turn right onto Chadwell Street and then left onto Arlington Way",
+     "4. At the end, turn right onto Rosebery Avenue",
+     "5. Turn left onto Rosoman Street and then left onto Skinner Street",
+     "Try out street food from around the world at \u003ca href=\"http://exmouth.london/\"\u003eExmouth Market\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Exmouth Market to Spitalfields Market\"}",
+     "1. Turn left onto Skinner Street",
+     "2. Follow the cycle path along Skinner Street and turn right onto St John Street",
+     "3. At the end, turn left onto Charterhouse Street where you'll reach Smithfield Market",
+     "4. Turn right onto Lindsey Street and then left onto Long Lane",
+     "5. Go straight over the junction onto Beech Street and then Chiswell Street",
+     "6. Turn left onto Finsbury Square and follow the road to the right onto Christopher Street",
+     "7. Turn right onto Wilson Street and then left onto Sun Street",
+     "8. Follow the street onto Appold Street",
+     "9. Turn right onto Primrose Street and dock your cycle at Norton Folgate docking station",
+     "There's lots to explore at \u003ca href=\"https://www.spitalfields.co.uk/\"\u003eSpitalfields Market\u003c/a\u003e - from quirky gifts to delicious food.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/santander-cycles/community\\\"\\u003eDownload the Santander Cycles app\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/cycling/routes-and-maps/leisure-routes\\\"\\u003eLeisure routes\\u003c/a\\u003e \"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Cycling",
+    "links": [
+     {
+      "title": "Routes and maps",
+      "url": "/modes/cycling/routes-and-maps",
+      "image": {}
+     },
+     {
+      "title": "Leisure routes",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes",
+      "image": {}
+     },
+     {
+      "title": "Saturday markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/saturday-markets",
+      "image": {}
+     },
+     {
+      "title": "Independent shops and markets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/independent-shops-and-markets",
+      "image": {}
+     },
+     {
+      "title": "London's secret gardens",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/londons-secret-gardens",
+      "image": {}
+     },
+     {
+      "title": "Quirky London",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/quirky-london",
+      "image": {}
+     },
+     {
+      "title": "Sporting sights",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/sporting-sights",
+      "image": {}
+     },
+     {
+      "title": "Routes for Explore London tickets",
+      "url": "/modes/cycling/routes-and-maps/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+      "image": {}
+     },
+     {
+      "title": "Cycleways",
+      "url": "/modes/cycling/routes-and-maps/cycleways",
+      "image": {}
+     },
+     {
+      "title": "Mini-Hollands",
+      "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
+      "image": {}
+     },
+     {
+      "title": "Cycle skills",
+      "url": "/modes/cycling/cycle-skills",
+      "image": {}
+     },
+     {
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
+      "image": {}
+     },
+     {
+      "title": "Cycle parking",
+      "url": "/modes/cycling/cycle-parking",
+      "image": {}
+     },
+     {
+      "title": "Santander Cycles",
+      "url": "/modes/cycling/santander-cycles",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Cycling",
+     "url": "/modes/cycling/santander-cycles",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

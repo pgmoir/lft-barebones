@@ -1,0 +1,102 @@
+{
+ "pageTitle": "Euston Road works",
+ "keywords": "TfL",
+ "description": "Travel advice for Euston Road pedestrian scheme",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Euston Road works"
+  }
+ ],
+ "title": {
+  "title": "Euston Road works",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We will be carrying out work at the A501 Euston Road junction with Churchway and Duke's Road. This will cause long delays on Euston Road.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We need to close lanes on the A501 Euston Road, starting on Tuesday 11 February 2020. Work will be completed by the end of March.",
+     "We plan to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"install pelican crossings on the side roads of the junction\",\"Permenantly ban the left turn into Churchway from the A501 Euston Road. The right turn will be temporarily banned to reduce congestion during works\",\"We will have to close lanes on the A501 Euston Road from Tuesday 11 February 2020\"]}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/euston-road-700x438.jpg\",\"alt\":\"Euston Road works - traffic impact map\"},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Euston Road works - traffic impact map\",\"url\":\"/cdn/static/cms/documents/euston-road-works-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 824KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "During the most impactful phases and during peak hours we expect long queues that will add significant delays to your journey",
+     "{\"template\":\"bulletlist\",\"items\":[\"from Regents Park going east\",\"beyond the Kings Cross Gyratory going west\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"11 February to end of March 2020\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"There will be lane restrictions on the A501 Euston Road at the junction with Churchway and Duke's Road\",\"For a period of approximately eight days, Euston Road will be reduced will be to one lane in each direction\",\"There will be severe delays to journeys across central London\",\"Euston Road will stay open (apart from two overnight closures, each in one direction only)\",\"We will keep two lanes out of three open most of the time.\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Access to Churchway\"}",
+     "You can no longer turn left into Churchway from the A501 Euston Road.",
+     "We have also temporarily banned the right turn into Churchway to help manage congestion.",
+     "To get to Churchway follow the signed diversion route.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local journeys\"}",
+     "If you need to get to destinations along the A501, Euston Road, it is likely to be quicker and easier on foot, by cycling or on the Tube.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Driving to central London\"}",
+     "You will be able to drive to central London on the Euston Road (except for two overnight closures).",
+     "There will be long queues and lengthy delays. Euston Road is likely to be less busy if you are able to travel early (before 06:00) or late (after 22:00). Alternatively, use a different route.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Road journeys outside central London\"}",
+     "If you do not need to get to central London, these routes are likely to be quicker and easier:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Inner Ring Road south of the river\",\"A406 North Circular\",\"A205 South Circular\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Deliveries and loading\"}",
+     "Road deliveries along the Euston Road will be delayed from February until mid March 2020. Consider how you can \u003ca href=\"/info-for/deliveries-in-london/delivering-efficiently\"\u003ereduce, retime or revise your deliveries\u003c/a\u003e .",
+     "If you are running haulage trips through the area consider re routing your journey to avoid delays and disruption  (see\u003cstrong\u003eRoad journeys outside central London\u003c/strong\u003e ) .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "Where possible we will keep the westbound bus lane open to minimise the impact on bus journey times.",
+     "Expect delays - plan ahead and allow more time for your journey.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Bus routes \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?input=30\\u0026lineIds=30\\u0026\\u0026direction=outbound\\\"\\u003e30\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?input=73\\u0026lineIds=73\\u0026\\u0026direction=outbound\\\"\\u003e73\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?Input=91+towards+Trafalgar+Square\\u0026lineIds=91\\u0026direction=outbound\\\"\\u003e91\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?input=205\\u0026lineIds=205\\u0026\\u0026direction=outbound\\\"\\u003e205\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?Input=390+towards+Archway\\u0026lineIds=390\\u0026direction=inbound\\\"\\u003e390\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?Input=N73+towards+Walthamstow+Central\\u0026lineIds=n73\\u0026direction=outbound\\\"\\u003eN73\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?Input=N91+towards+Cockfosters\\u0026lineIds=n91\\u0026direction=inbound\\\"\\u003eN91\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?Input=N205+towards+Leyton%2C+Downsell+Road\\u0026lineIds=n205\\u0026direction=outbound\\\"\\u003eN205\\u003c/a\\u003e will be delayed and disruped on Euston Road from Saturday 15 February to mid March 2020\",\"Bus route \\u003ca href=\\\"https://tfl.gov.uk/bus/status/?input=18\\u0026lineIds=18\\u0026\\u0026direction=outbound\\\"\\u003e18\\u003c/a\\u003e will have revised stopping arrangements at Euston Station. Buses towards Sudbury will now start at Bus Stop E instead of Stop F but continue to serve Stop H in Euston Road near the Friends Meeting House\",\"Buses will be on diversion for two overnight directional closures of the Euston Road in late March\"]}",
+     "Find out how your bus may be affected by visiting our \u003ca href=\"https://tfl.gov.uk/bus/status/\"\u003ebus status updates page\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Walking\"}",
+     "The scheme will improve safety for people crossing the road on foot.",
+     "During works, you will be able to walk to your destination as normal - when necessary a safe route through the works will be clearly signposted.",
+     "There will be safe temporary crossings with signals in use at all times on the side roads at the junction. There will be clear signs to the permanent crossing at Upper Woburn place junction, which is less than 100m to the west.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cycling\"}",
+     "There is no special provision for cyclists along this stretch of road. There will be significant delays to traffic.",
+     "Check out \u003ca href=\"https://tfl.gov.uk/maps/cycle?intcmp=40402\"\u003eour cycle route ma\u003c/a\u003e p to find an alternative route.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other modes of travel\"}",
+     "Other modes of travel are not affected by the works.",
+     "Use the Circle and Hammersmith and City lines for fast and reliable links across London from east to west."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

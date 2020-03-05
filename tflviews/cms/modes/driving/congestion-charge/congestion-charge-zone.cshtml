@@ -105,7 +105,7 @@
       </div>
     
     
-      <p>The ULEZ operates from midnight to midnight, 7 days a week, every day of the year. The zone covers the same area as the Congestion Charge.</p>
+      <p>The ULEZ operates from midnight to midnight, 7 days a week, every day of the year, except Christmas Day (25 Dec). The zone covers the same area as the Congestion Charge.</p>
       
            
       
@@ -122,13 +122,37 @@
  
         
 
+   <h2>Postcode and map search</h2>
+            <div class="responsive-form zone-checker-in-page">
+                 
+                 <p>Enter a postcode to see if it's inside one or more of the charging zones. Results will not be displayed on the map.</p>
+    
+                @{
+                    dynamic content = new ContentModel();
+                     content.PayCongestionChargeLinkText = "Pay to drive in London";
+                    content.ResidentDiscountUrl = "/modes/driving/cc-resident-discount-apply-anon-32525";
+                    content.ResidentDiscountLinkText = "Apply for residents' discount";
+                    content.PayCongestionChargeUrl = "/modes/driving/account-vehicles";
+                    content.PayCongestionChargeAnonymousUrl = "/modes/driving/pay-to-drive-in-london";
+                    content.AddressLinePostcodeText = "Check a postcode";
+
+                    Html.RenderAction(RucDictionary.ZoneChecker.DefaultActionName, "ZoneChecker", new
+                        {
+                            area = "Ruc",
+                            zoneChargeType = ZoneChargeType.CongestionCharge,
+                            content = content,
+                            findAnotherUrl = "/maps/congestion-charge"
+                        });
+                }
+            </div>
+
             <h2>Where it operates</h2>
 
-<p>Enter a street name, postcode or landmark in the search box to see it in comparison to the zones. To pinpoint if an address is inside or outside the zones, use the postcode checker below the map. Open the map menu to also check the LEZ zone.</p>
+<p>Enter a street name, postcode or landmark in the search box to see its location in relation to the charging zones. View zones to show/hide their areas. To see if an address is inside or outside the zones, use the postcode search instead.</p>
             <div class="search-filter">
-                <div class="heading clearfix">
+                <div class="heading clearfix zone-map">
                     <div class="search-icon-black"></div>
-                    <h3>Search</h3>
+                    <h3>Map search</h3>
                 </div>
                 @{
                 
@@ -167,7 +191,7 @@
             @{ 
                 Html.RenderAction("EmbeddedMap", "Maps", new
                 {
-                    layers = "gla-boundary,congestion-charging-zone,low-emissions-zone",
+                    layers = "congestion-charging-zone,low-emissions-zone",
                     layersVisibleAtLoad = "congestion-charging-zone",
                     centreLat = "",
                     centreLng = "",
@@ -176,7 +200,8 @@
                     showUserLocation = "0",
                     kmlUrl = "",
                     zoomThresholds = new EmbeddedMapViewModel.EmbeddedMapZoomThresholds() { },
-                    resultSelectedZoom = "14"
+                    resultSelectedZoom = "14",
+                    showStreetView = false
                 });
             }
             
@@ -186,11 +211,13 @@
                 <h2>Charging times</h2>
 
 <ul>
-	<li>Congestion Charge: No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day and New Year's Day</li>
-	<li>ULEZ and LEZ: Operate midnight to midnight, every day of the year</li>
+	<li><strong>Congestion Charge:</strong> No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day (25 Dec) and New Year's Day (1 Jan)</li>
+	<li><strong>ULEZ:</strong> Operates midnight to midnight, every day of the year, except Christmas Day (25 Dec)</li>
+	<li><strong>LEZ:</strong> Operates midnight to midnight, every day of the year</li>
+	<li><strong>Direct Vision Standard (DVS) and HGV Safety Permit:</strong> Operates at all times for lorries over 12 tonnes gross vehicle weight</li>
 </ul>
 
-<p>Find out&nbsp;more about paying the <a href="/modes/driving/congestion-charge/paying-the-congestion-charge">Congestion Charge</a>, <a href="/modes/driving/ultra-low-emission-zone/ulez-payments">ULEZ</a> and <a href="/modes/driving/low-emission-zone/make-a-payment">LEZ</a>.</p>
+<p>Find out&nbsp;more about paying the <a href="/modes/driving/congestion-charge/paying-the-congestion-charge">Congestion Charge</a>, <a href="/modes/driving/ultra-low-emission-zone/ulez-payments">ULEZ</a> and <a href="/modes/driving/low-emission-zone/make-a-payment">LEZ</a>,&nbsp;and learn more about <a href="https://turing.online.tfl.gov.uk/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles?intcmp=52876">DVS</a>.</p>
             </div>
             
             @{
@@ -206,10 +233,10 @@
                 <div class="expandable-box congestion-map-accordion">
     	        <div class="content">
     		        <div class="always-visible">
-    			        <a href="javascript:void(0);" class="controls">&nbsp;</a>
+    			        <button id="download-accordion-button" class="controls accordion-button"></button>
     			        <div class="accordion-heading"><h2>Download maps</h2></div>
     		        </div>
-    		        <div class="start-hidden">                             
+    		        <div class="start-hidden" aria-labelledby="download-accordion-button">                             
                         <div class="map-downloads">
     	                    <a title="Download the Congestion Charge Zone map in PDF format" class="btn-download-map"
                                 href="@congestionChargePdf">
@@ -229,28 +256,7 @@
             </div>
             <!-- Download maps -->
                 
-            <h2>Postcode search</h2>
-            <div class="responsive-form zone-checker-in-page">
-                 
-                 <p>Our postcode checker can tell you if an address is in the Congestion Charge/ULEZ charging zone. (These results will not show on the map above).</p>
-    
-                @{
-                    dynamic content = new ContentModel();
-                     content.PayCongestionChargeLinkText = "Pay to drive in London";
-                    content.ResidentDiscountUrl = "/modes/driving/cc-resident-discount-apply-anon-32525";
-                    content.ResidentDiscountLinkText = "Apply for residents' discount";
-                    content.PayCongestionChargeUrl = "/modes/driving/account-vehicles";
-                    content.PayCongestionChargeAnonymousUrl = "/modes/driving/pay-to-drive-in-london";
-                    
-                    Html.RenderAction(RucDictionary.ZoneChecker.DefaultActionName, "ZoneChecker", new
-                        {
-                            area = "Ruc",
-                            zoneChargeType = ZoneChargeType.CongestionCharge,
-                            content = content,
-                            findAnotherUrl = "/maps/congestion-charge"
-                        });
-                }
-            </div>
+          
             
             @this.ScriptBlock(
                 @<script>
@@ -268,10 +274,7 @@
     
   </div>
   <div class="aside" role="complementary">
-    
-    
-    
-   
+
     
 
         @{
@@ -312,9 +315,6 @@
                                 <li aria-label="page with no sub pages"><div class="link-wrapper"><a href="/modes/driving/congestion-charge/dart-charge">Dart Charge</a></div></li>
                             
  
-                                <li aria-label="page with no sub pages"><div class="link-wrapper"><a href="/modes/driving/congestion-charge/unofficial-selling-websites">Unofficial selling websites</a></div></li>
-                            
- 
                                 <li class="parent" aria-label="page with sub pages"><div class="link-wrapper"><a href="/modes/driving/congestion-charge/penalties-and-enforcement">Penalties and enforcement</a></div></li>
                             
  
@@ -326,6 +326,8 @@
  
                 </ul>
             
+ 
+ 
  
  
  

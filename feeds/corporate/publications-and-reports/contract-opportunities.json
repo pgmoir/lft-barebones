@@ -34,9 +34,8 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We publish details of future contract opportunities for TfL Corporate, TfL Surface and London Underground (over £500k) on a periodic basis.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "You can also view a list of current frameworks and when they expire.",
-     "In addition, we are working with Network Rail to provide greater visibility of our respective tendering opportunities and investment pipeline, to support our supply chains in business planning and opportunity identification. You can \u003ca href=\"http://www.networkrail.co.uk/tender-opportunities/\"\u003eview future opportunities with Network Rail via their tender opportunities page\u003c/a\u003e .",
      "Find further details for suppliers and links to contract advertisement on the Supplying TfL page.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Future contract opportunities over £500,000\",\"url\":\"/cdn/static/cms/documents/future-contract-opportunities-over-500k.pdf\",\"icon\":\"download\",\"size\":\"PDF 39KB\",\"image\":{}},{\"title\":\"Future contract opportunities over £500,000\",\"url\":\"/cdn/static/cms/documents/future-contract-opportunities-over-500k.csv\",\"icon\":\"download\",\"size\":\"CSV 19KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Future contract opportunities over £500,000\",\"url\":\"/cdn/static/cms/documents/future-opportunities-p13.pdf\",\"icon\":\"download\",\"size\":\"PDF 83KB\",\"image\":{}},{\"title\":\"Future contract opportunities over £500,000.\",\"url\":\"/cdn/static/cms/documents/future-opportunities-p13.csv\",\"icon\":\"download\",\"size\":\"CSV 6KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -48,14 +47,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

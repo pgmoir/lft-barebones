@@ -1,7 +1,7 @@
 {
- "pageTitle": "Routes \u0026 maps",
+ "pageTitle": "Routes and maps",
  "keywords": "Cyclists,Cycling,TfL",
- "description": "Discover London with our family-friendly cycle routes",
+ "description": "Discover London on your cycle. Use our cycle map, explore leisure routes and Cycleways, and find cycling inspiration.",
  "template": "page-cards",
  "breadcrumbs": [
   {
@@ -14,11 +14,11 @@
    "url": "/modes/cycling/index"
   },
   {
-   "title": "Routes \u0026 maps"
+   "title": "Routes and maps"
   }
  ],
  "title": {
-  "title": "Routes \u0026 maps",
+  "title": "Routes and maps",
   "card": {
    "link": {
     "image": {}
@@ -31,80 +31,86 @@
   "primarys": [
    {
     "style": "card-top ",
-    "title": "Cycle map",
+    "title": "Use our cycle map",
     "texts": [
      "See cycle routes and Santander Cycle docking stations"
     ],
     "link": {
-     "url": "/maps/cycle?\u0026intcmp=58492",
+     "url": "/maps/cycle?\u0026intcmp=58492\u0026intcmp=60683",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/map-teaser.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycleways-sign-web.jpg"
     },
     "wrapped": false
    }
   ],
   "cards": [
    {
-    "title": "Quietways",
-    "texts": [
-     "We're working to create Quietway cycling routes across London"
-    ],
-    "link": {
-     "url": "/modes/cycling/routes-and-maps/quietways",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-quietway-two_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Cycle Superhighways",
-    "texts": [
-     "We're working to create Cycle Superhighways across London"
-    ],
-    "link": {
-     "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycle-superhighway-farringdon-road_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "New cycle routes",
-    "texts": [
-     "We're expanding the cycle network to connect people and places all over London"
-    ],
-    "link": {
-     "url": "/modes/cycling/routes-and-maps/new-cycle-routes",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "title": "Leisure routes",
     "texts": [
-     "Discover London's hidden gems with a hire bike"
+     "Use your own cycle or hire a Santander Cycle to explore our leisure routes"
     ],
     "link": {
-     "url": "/modes/cycling/santander-cycles/leisure-routes",
+     "url": "/modes/cycling/routes-and-maps/leisure-routes",
      "image": {}
     },
-    "image": {},
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/queens-gallery_rdax_400x200.jpg"
+    },
     "wrapped": false
    },
    {
-    "title": "TfL \u0026 British Cycling",
+    "title": "Experience London blog",
     "texts": [
-     "Find guided rides and search leisure routes to suit all abilities"
+     "Hear cyclist stories, get some route inspiration and find cycling events"
     ],
     "link": {
-     "url": "/campaign/tfl-and-british-cycling",
+     "url": "https://londonblog.tfl.gov.uk/category/cycling/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/roads-modernisation-cycling-700x350_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Cycleways",
+    "texts": [
+     "Find Cycleways in London. They link communities and businesses in one cycle network"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/cycleways",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycleways2-web_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "British Cycling let's ride",
+    "texts": [
+     "Find cycle routes, go to events and join your local cycling group"
+    ],
+    "link": {
+     "url": "https://www.letsride.co.uk/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/family-cycle-web_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Mini-Hollands",
+    "texts": [
+     "Find out how Mini-Hollands is improving streets and public areas"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
      "image": {}
     },
     "image": {},
@@ -116,23 +122,6 @@
   "cards": [
    {
     "template": "advert",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Also on this site",
-    "links": [
-     {
-      "title": "Mini-Holland programme",
-      "url": "/modes/cycling/routes-and-maps/cycle-mini-hollands",
-      "icon": "internal",
-      "image": {}
-     }
-    ],
     "link": {
      "image": {}
     },

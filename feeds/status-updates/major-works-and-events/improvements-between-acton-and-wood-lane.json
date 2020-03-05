@@ -37,15 +37,19 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We are building 3.5km of shared use and cycle track on the southern side of the A40/Western Avenue from Acton (Kathleen Avenue) to Wood Lane (near White City). Work started on 18 March 2019 and will be completed late in 2019. Here's how your journey could be affected.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"We are building 3.5km of shared use and cycle track on the southern side of the A40/Western Avenue from Acton (Kathleen Avenue) to Wood Lane (near White City). Work started on 18 March 2019 and will be completed early in 2020. Here's how your journey could be affected.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Traffic impact\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Traffic impact map for the area\",\"url\":\"/cdn/static/cms/documents/improvement-works-wood-lane-to-acton-july-to-nov2019-v2.pdf\",\"icon\":\"download\",\"size\":\"PDF 819KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travel tools\"}",
+     "Our travel tools will help you keep up-to-date with the latest service information.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Use the \\u003ca href=\\\"http://m.me/tfltravelbot\\\"\\u003eTfL TravelBot\\u003c/a\\u003e on Facebook Messenger\",\" \\u003ca href=\\\"https://tfl.gov.uk/plan-a-journey/\\\"\\u003ePlan a journey\\u003c/a\\u003e can help you plan your route by public transport, cycling or walking\",\"Check our latest status updates for \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/\\\"\\u003etraffic\\u003c/a\\u003e , \\u003ca href=\\\"https://tfl.gov.uk/bus/status/\\\"\\u003ebuses\\u003c/a\\u003e , and \\u003ca href=\\\"https://tfl.gov.uk/tube-dlr-overground/status/\\\"\\u003eTube and rail services\\u003c/a\\u003e .\",\" \\u003ca href=\\\"https://tfl.gov.uk/maps?Input=Current+location+\\\"\\u003eNearby\\u003c/a\\u003e uses your current location or a postcode or address of your choice and places you on a map, showing you Tube, bus, river, London Overground, DLR, TfL Rail and Santander Cycles locations around you\",\"Sign up for our \\u003ca href=\\\"https://tfl.gov.uk/travel-information/social-media-and-email-updates/email-updates\\\"\\u003eemail updates\\u003c/a\\u003e \"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
-     "Until late 2019, the A40 will be reduced from three lanes to two lanes for westbound traffic, 24 hours a day during works.",
+     "Until early 2020, the A40 will be reduced from three lanes to two lanes for westbound traffic, 24 hours a day during works.",
+     "From 26 October to 24 November, the left turn slip from the westbound A40 into Leamington Park will be closed.",
      "Queueing is expected to be longer, and impacts to traffic more pronounced, in the PM peak periods for westbound traffic.",
      "View the construction area and live traffic conditions on our \u003ca href=\"https://tfl.gov.uk/traffic/status?Input=\u0026lineIds=\u0026dateTypeSelect=Future%20date\u0026direction=\u0026startDate=2019-03-18T00%3A00%3A00\u0026endDate=2019-03-18T23%3A59%3A59\u0026corridorIds=a40\"\u003etraffic status map\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Driving through the area\"}",
-     "Expect delays while travelling westbound on the A40 until late 2019, especially during PM peak periods (weekdays 14:00 - 18:00pm). Plan ahead, travel outside peak periods, and leave extra time for your journey.",
+     "Expect delays while travelling westbound on the A40 until early 2020, especially during PM peak periods (weekdays 14:00 - 18:00pm). Plan ahead, travel outside peak periods, and leave extra time for your journey.",
      "Consider alternative ways of travelling, especially the Tube.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Local traffic\"}",
      "If you are driving, plan ahead, travel outside peak periods, and allow more time for your journey.",
@@ -91,14 +95,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

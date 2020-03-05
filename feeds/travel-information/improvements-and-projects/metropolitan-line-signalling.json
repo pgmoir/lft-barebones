@@ -1,0 +1,79 @@
+{
+ "pageTitle": "Metropolitan line signalling",
+ "keywords": "Tube passengers,M,Barnet,Westminster,Tube improvement,Tube,TfL",
+ "description": "We're installing new digital signalling on the Metropolitan line. Find out about the work and how it might affect your journey",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Improvements \u0026 projects",
+   "url": "/travel-information/improvements-and-projects/index"
+  },
+  {
+   "title": "Metropolitan line signalling"
+  }
+ ],
+ "title": {
+  "title": "Metropolitan line signalling",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"On 2 September 2019 a section of new digital signalling was introduced from Latimer Road to Finchley Road and Euston Square.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This is part of our \u003ca href=\"/travel-information/improvements-and-projects/four-lines-modernisation\"\u003eFour Lines Modernisation\u003c/a\u003e work to upgrade the District, Circle, Metropolitan and Hammersmith \u0026 City lines.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Signalling goes live\"}",
+     "Despite extensive testing of the new signalling outside of operating hours, we have had issues with software reliability on Metropolitan line trains when the live service is running. This is causing disruption and delays to some journeys.",
+     "We had tested the new signalling extensively using 500 trains, with good results. But when we run a full service in a live environment we experienced issues with the trains connecting to the system. This is the main cause of the faulty train message you have been seeing.",
+     "We worked with our signalling supplier to develop fixes and make software updates. More system improvements are coming.",
+     "Fixes to this new and complex system need rigorous testing and safety approvals, which takes time. We fully understand how frustrating this is.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What we're doing now\"}",
+     "We are working 24-7 to tackle the delays and improve the service as soon as possible.",
+     "To address issues on the Metropolitan line, we are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Modifying the train and signalling software\",\"Putting additional resources in strategic locations to minimise service disruptions\",\"Reviewing our plan for maintaining the existing older signalling - this is to make the best use of resources and minimise the impact of any signal failures\",\"Providing regular feedback to front line staff on incidents so customers get the latest information\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Refunds\"}",
+     "You may \u003ca href=\"/fares/refunds-and-replacements/tube-and-dlr-delays\"\u003eclaim a refund for your delayed journey here\u003c/a\u003e ."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

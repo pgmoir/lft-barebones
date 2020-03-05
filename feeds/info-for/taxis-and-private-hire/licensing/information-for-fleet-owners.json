@@ -51,7 +51,7 @@
      "1.\tApply for a standard DBS check through our service provider \u003ca href=\"https://gbg.onlinedisclosures.co.uk/Authentication/Login?ReturnUrl=%2f\"\u003eGBGroup\u003c/a\u003e , unless you can confirm you are not required to submit one.",
      "2.\tAs soon as you have your DBS reference number to become a proprietor, please call us on 0343 222 4444 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) or \u003ca href=\"mailto: tph.enquiries@tfl.gov.uk \"\u003eemail us\u003c/a\u003e to request an application.",
      "3.\tWe will contact you once your application has been approved. You are then ready to apply to have your taxi(s) licensed.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Making a DBS application\",\"url\":\"/cdn/static/cms/documents/dbs-application.pdf\",\"icon\":\"download\",\"size\":\"PDF 117KB\",\"image\":{}},{\"title\":\"What to do if your taxi fails an inspection\",\"url\":\"/cdn/static/cms/documents/what-to-do-if-your-taxi-fails-an-inspection.pdf\",\"icon\":\"download\",\"size\":\"PDF 258KB\",\"image\":{}},{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual.pdf\",\"icon\":\"download\",\"size\":\"PDF 320KB\",\"image\":{}},{\"title\":\"Responsibilities of taxi vehicle licensees\",\"url\":\"/cdn/static/cms/documents/responsibilities-of-the-licensee.pdf\",\"icon\":\"download\",\"size\":\"PDF 251KB\",\"image\":{}},{\"title\":\"Obtaining a taxi vehicle licence\",\"url\":\"/cdn/static/cms/documents/guidance-notes-on-obtaining-a-taxi-vehicle-licence.pdf\",\"icon\":\"download\",\"size\":\"PDF 293KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Taxi Vehicle Owner DBS Application\",\"url\":\"/cdn/static/cms/documents/taxi-vehicle-owner-dbs-application.pdf\",\"icon\":\"download\",\"size\":\"PDF 304KB\",\"image\":{}},{\"title\":\"What to do if your taxi fails an inspection\",\"url\":\"/cdn/static/cms/documents/what-to-do-if-your-taxi-fails-an-inspection.pdf\",\"icon\":\"download\",\"size\":\"PDF 258KB\",\"image\":{}},{\"title\":\"Taxi and private hire vehicle licensing inspection manual\",\"url\":\"/cdn/static/cms/documents/vehicle-licence-inspection-manual-v19.pdf\",\"icon\":\"download\",\"size\":\"PDF 321KB\",\"image\":{}},{\"title\":\"Responsibilities of taxi vehicle licensees\",\"url\":\"/cdn/static/cms/documents/responsibilities-of-the-licensee.pdf\",\"icon\":\"download\",\"size\":\"PDF 251KB\",\"image\":{}},{\"title\":\"Obtaining a taxi vehicle licence\",\"url\":\"/cdn/static/cms/documents/guidance-notes-on-obtaining-a-taxi-vehicle-licence.pdf\",\"icon\":\"download\",\"size\":\"PDF 293KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -63,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -129,6 +121,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

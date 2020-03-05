@@ -43,12 +43,12 @@
      "If you wish to:",
      "{\"template\":\"bulletlist\",\"items\":[\"Change your vehicle details\",\"Book your vehicle inspection\"]}",
      "Please phone us on 0343 222 5555 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ).",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Renewing your driver licence\"}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Renewing your driver's licence\"}",
      "To ensure your licence is renewed in good time, we now issue all application packs four months before the expiry date.",
-     "Once you receive the form from us, please apply to the Disclosure and Barring Service (DBS) for a criminal records check. We also recommend that you also register with the DBS Update service to prevent any further delays in the future: subscribers to this service won't be required to apply for a new disclosure when renewing their licence, which eliminates the risk of delays in the processing of applications. This also saves money on the cost of a new disclosure certificate.  A disclosure will only be required where a change has occurred. More details about the DBS Update Service are available on our \u003ca href=\"/info-for/taxis-and-private-hire/licensing/licensing-information\"\u003eLicensing information\u003c/a\u003e page.",
+     "Once you receive the form from us, please apply to the Disclosure and Barring Service (DBS) for a criminal records check. We also recommend that you also register with the DBS Update service to prevent any further delays in the future: subscribers to this service won't be required to apply for a new check when renewing their licence, which eliminates the risk of delays in the processing of applications. This also saves money on the cost of a new DBS check. A new DBS check will only be required where a change has occurred. More details about the DBS Update Service are available on our \u003ca href=\"/info-for/taxis-and-private-hire/licensing/licensing-information\"\u003eLicensing information\u003c/a\u003e page.",
      "As part of your application you will need to provide a recent photograph of yourself. This will appear on your renewed taxi or private hire driver licence. See our \"Photo guidance\" about the type of photograph we will accept.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Photo guidance\",\"url\":\"/cdn/static/cms/documents/photo-guidance.pdf\",\"icon\":\"download\",\"size\":\"PDF 327KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We recommend that you make your renewal application using our new online functionality.You will need to \u003ca href=\"https://tph.tfl.gov.uk/TfL/register.page?org.apache.shale.dialog.DIALOG_NAME=contactus\u0026displayName=Multi\u0026DocTypeCode=urn:www.civica.co.uk:doctypes:TFLREG\u0026menuId=4\"\u003estart your application by registering online\u003c/a\u003e .",
+     "We recommend that you make your renewal application using our new online functionality. You will need to \u003ca href=\"https://tph.tfl.gov.uk/TfL/register.page?org.apache.shale.dialog.DIALOG_NAME=contactus\u0026displayName=Multi\u0026DocTypeCode=urn:www.civica.co.uk:doctypes:TFLREG\u0026menuId=4\"\u003estart your application by registering online\u003c/a\u003e .",
      "You will be asked to provide some personal details so we can create an account for you and link your licence to your account. To do this, you will need to enter the online registration details that are provided within your renewal application pack.",
      "The new online process makes its quicker and easier to apply for both new and renewal driver licences. It also provides functionality for you to track your application.",
      "Alternatively you can complete the postal pack and post it to us using the envelope provided. When applying by post:",
@@ -56,6 +56,11 @@
      "Please post your completed application to us at the earliest opportunity.",
      "We also require you to:",
      "{\"template\":\"bulletlist\",\"items\":[\"Return your old licence to us within seven days of it expiring\",\"Private Hire drivers are also required to return their PHV badge\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Late Renewals\"}",
+     "If a driver submits a renewal application after the expiry of the previous licence there will be no guarantee of the immediate issue of a new licence.  The driver will have to wait until all processes, including the return of a satisfactory DBS check, have been completed.*\u003cbr /\u003eThe new licence will take effect from the date of issue.  It will not take effect from the date of expiry of the preceding licence or the date of application.\u003cbr /\u003eAny driver applying to renew their licence\u003cstrong\u003emore than three months \u003c/strong\u003e after the expiry of the preceding licence will be treated as a new applicant.  This may require the driver to obtain a new medical examination and fulfil the new driver application requirements. A new licence will not be issued until all necessary checks have been completed.\u003cbr /\u003eAny driver who submits a renewal application after the expiry of their licence will no longer be licensed and cannot work until a new licence is issued.\u003cbr /\u003e\u003cbr /\u003e*For taxi drivers who have submitted a\u003cstrong\u003ecomplete\u003c/strong\u003e application, section 17(7) of the Transport Act 1985\u003cstrong\u003emay\u003c/strong\u003e be applicable.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Drivers working after the expiry of their licence\"}",
+     "It is an offence for a Taxi or PHV driver to work without a valid licence and any driver that continues to work after their licence has expired is also likely to invalidate hire and reward insurance.",
+     "If a driver is found working after their licence has expired, they will be reported for the appropriate offence and may be prosecuted. Regardless of whether any prosecution follows, this information will be considered when assessing any subsequent renewal or new application.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Reporting lost, stolen or damaged licence parts\"}",
      "You need to have your badge/ID, licence, and if you are a taxi driver your identifiers with you at all times in order to work. If any of these are lost, stolen or damaged, you must inform us immediately. If part of your licence is stolen, you must also report this to the police, who will provide you with a crime reference number.",
      "You can call us on 0343 222 4444 ( \u003ca href=\"/corporate/terms-and-conditions/tfl-call-charges\"\u003eTfL call charges\u003c/a\u003e ) to request a replacement if any of your licence parts have been stolen (crime reference number to be provided), lost or damaged.",
@@ -69,7 +74,11 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Private hire operators\"}",
      "Visit our \u003ca href=\"/info-for/taxis-and-private-hire/existing-licensee/existing-private-hire-operator\"\u003eweb page for existing private hire operators\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"MOT checker\"}",
-     "All taxis and private hire vehicles more than 12 months old (from date of manufacture) are required to pass two MOT tests a year as a condition of continued annual licensing. The first MOT certificate must be issued not more than 14 days before the date of the licensing inspection. The second MOT must be obtained six months from the date of grant of licence. We give a reminder note at inspection centres. It's your responsibility to ensure the vehicle you're driving is up to date. \u003ca href=\"https://vehicleenquiry.service.gov.uk/\"\u003eCheck your vehicle's MOT status online\u003c/a\u003e .",
+     "All taxis and private hire vehicles, that are more than 12 months old (from date of manufacture) at the point of licensing, are required to pass two MOT tests a year as a condition of continued annual licensing. One of these MOTs must be completed no more than 14 days prior to the date of the annual licensing inspection.",
+     "The first MOT certificate must relate to an examination of the vehicle which took place not more than 14 days before the end of the day on which the vehicle was presented for licensing (the day of presentation being regarded as \"Day 1\" for those purposes).  For example, if your vehicle is booked into one of our inspection centres for 14 March 2019 then your MOT certificate must be dated between 1 and 14 March 2019. We are unable to accept certificates that are older than this.",
+     "For the mid-year MOT the certificate should be dated within 14 days of the six month anniversary of the licence start date. The second MOT certificate must relate to an examination of the vehicle which took place not more than 14 days before the end of the six month anniversary of the date of start of the licence (the day of the six month anniversary being regarded as \"Day 1\" for the purposes of that requirement).  For example, if the licence start date is 14 March 2019 then the MOT must be dated between 1 and 14 September 2019. We cannot accept mid-year MOT certificates if the date is prior to 1 September 2019.",
+     "The licence start date is specified on the paper licence issued when the vehicle passes our annual inspection.",
+     "We give a reminder note at inspection centres. It's your responsibility to ensure the vehicle you're driving is up to date. \u003ca href=\"https://vehicleenquiry.service.gov.uk/\"target=\"_parent\"\u003eCheck your vehicle's MOT status online\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Idling engines\"}",
      "Idling engines contribute to air pollution problems in London. Running the engine while your vehicle is stationary pollutes the environment and is illegal on a public road.",
      "When you keep a vehicle's engine idling it can produce nearly twice as much exhaust emissions as it does while moving. This affects the quality of our air.",
@@ -96,14 +105,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -167,6 +168,11 @@
      {
       "title": "Existing private hire operator",
       "url": "/info-for/taxis-and-private-hire/existing-licensee/existing-private-hire-operator",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

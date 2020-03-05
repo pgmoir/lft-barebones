@@ -27,16 +27,16 @@
   "primarys": [
    {
     "style": "card-top ",
-    "title": "TfL Rail Paddington to Heathrow",
+    "title": "TfL Rail improvements",
     "texts": [
-     "You can now use contactless or Oyster on the Paddington to Heathrow service"
+     "See how we're preparing for the Elizabeth line"
     ],
     "link": {
      "url": "/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-rail-heathrow-700x350.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-rail-class-345.jpg"
     },
     "wrapped": false
    },
@@ -111,9 +111,15 @@
       "image": {}
      },
      {
-      "title": "Bikes on public transport",
-      "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
+      "title": "Cycles on public transport",
+      "url": "/modes/cycling/cycles-on-public-transport",
       "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Autumn leaves on the rail network",
+      "url": "https://www.networkrail.co.uk/running-the-railway/looking-after-the-railway/delays-explained/leaves/",
+      "icon": "external",
       "image": {}
      }
     ],
@@ -155,7 +161,7 @@
     "links": [
      {
       "title": "Find out more about TfL Rail",
-      "url": "/corporate/about-tfl/what-we-do/tfl-rail",
+      "url": "/corporate/about-tfl/what-we-do",
       "icon": "internal",
       "image": {}
      }
@@ -197,15 +203,6 @@
    {
     "template": "contactus",
     "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitterupdates",
-    "link": {
-     "title": "@http://www.twitter.com/tflrail",
      "image": {}
     },
     "image": {},

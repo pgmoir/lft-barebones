@@ -78,14 +78,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "How we work",
@@ -123,6 +115,11 @@
      {
       "title": "Developing the rail network",
       "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/developing-the-rail-network",
+      "image": {}
+     },
+     {
+      "title": "Encouraging cycling and walking",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking",
       "image": {}
      },
      {

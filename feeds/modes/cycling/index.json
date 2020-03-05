@@ -1,7 +1,7 @@
 {
  "pageTitle": "Cycling",
  "keywords": "Cycling ,TfL",
- "description": "Information on cycle hire, training, routes, safety and social rides in London.",
+ "description": "Information on cycle routes and maps, free cycle training, cycle parking and bikes on public transport",
  "template": "page-cards",
  "breadcrumbs": [
   {
@@ -15,7 +15,6 @@
  ],
  "title": {
   "title": "Cycling",
-  "icon": "tfl",
   "card": {
    "link": {
     "image": {}
@@ -28,174 +27,103 @@
   "primarys": [
    {
     "style": "card-top ",
-    "title": "Try a new route, find a new London",
-    "texts": [
-     "Walk, cycle and discover with TfL this summer"
-    ],
-    "link": {
-     "url": "/campaign/active-travel",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/active-travel-cycling.jpg"
-    },
-    "wrapped": false
-   }
-  ],
-  "cards": [
-   {
-    "title": "New Cycle Superhighway open",
-    "texts": [
-     "Explore Cycle Superhighway 6, a route from Elephant and Castle to King's Cross"
-    ],
-    "link": {
-     "url": "/modes/cycling/routes-and-maps/cycle-superhighways",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycle-superhighway-farringdon-road_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "New Quietways open",
-    "texts": [
-     "Explore these easy to follow cycle routes on quieter backstreets across London"
-    ],
-    "link": {
-     "url": "/modes/cycling/routes-and-maps/quietways",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-quietway-two_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
     "title": "Routes and maps",
     "texts": [
-     "Explore London's growing cycle network"
+     "Discover London by cycle. Use our routes and maps to explore the city"
     ],
     "link": {
      "url": "/modes/cycling/routes-and-maps",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/map-teaser_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/map-teaser.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Cycle skills",
+    "texts": [
+     "Book free cycle training to improve your skills"
+    ],
+    "link": {
+     "url": "/modes/cycling/cycle-skills",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycle-training-web_rdax_400x200.jpg"
     },
     "wrapped": false
    },
    {
-    "title": "Experience London blog",
+    "title": "Cycles on public transport",
     "texts": [
-     "Read about the best things to do in London plus find new cycling routes and events"
+     "See where you can take your cycle on services across London"
     ],
     "link": {
-     "url": "https://londonblog.tfl.gov.uk/category/cycling/",
+     "url": "/modes/cycling/cycles-on-public-transport",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/folding-cycle-crop_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Cycle parking",
+    "texts": [
+     "Find safe places across London to park your cycle"
+    ],
+    "link": {
+     "url": "/modes/cycling/cycle-parking",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/bike-hangar-web_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Read Salayhar's story",
+    "texts": [
+     "She cycles to reduce stress and make new friends"
+    ],
+    "link": {
+     "url": "https://londonblog.tfl.gov.uk/2020/01/31/salayhars-story/",
      "icon": "external",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/london-skyline-dusk_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/salayhar-cycling_rdax_400x200.jpg"
     },
     "wrapped": false
    },
    {
-    "title": "Scenic cycle rides",
+    "title": "Santander Cycles",
     "texts": [
-     "Try our family-friendly, car-free routes"
-    ],
-    "link": {
-     "url": "https://londonblog.tfl.gov.uk/2017/07/21/short-and-scenic-routes-the-wandle-trail/",
-     "icon": "external",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/couple-park-bike_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Santander Cycles ",
-    "texts": [
-     "Hire a bike from just £2"
+     "Hire a cycle from as little as £2"
     ],
     "link": {
      "url": "/modes/cycling/santander-cycles",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-hyde-park_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/santander-cycles-web_rdax_400x200.jpg"
     },
     "wrapped": false
    },
    {
-    "title": "Brush up on your cycling skills",
+    "title": "Try a new route, find a new London",
     "texts": [
-     "Book a cycle skills session"
+     "Walk, cycle and discover London with us"
     ],
     "link": {
-     "url": "/modes/cycling/cycling-in-london/cycle-skills",
+     "url": "/campaign/active-travel",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/bike-landing_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Emirates Air Line, river and Santander Cycles ticket",
-    "texts": [
-     "Save up to 20% with an Explore London combined ticket"
-    ],
-    "link": {
-     "url": "/modes/river/explore-london-tickets",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/3way-ticket-teaser_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Bikes on public transport",
-    "texts": [
-     "Find out where you can take your bike"
-    ],
-    "link": {
-     "url": "/modes/cycling/cycling-in-london/bikes-on-public-transport",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/cycling-train-station_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "TfL and British Cycling",
-    "texts": [
-     "Find out about group rides, cycle clubs, membership and more"
-    ],
-    "link": {
-     "url": "/campaign/tfl-and-british-cycling",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/tfl-british-cycling-teaser_rdax_400x200.jpg"
-    },
-    "wrapped": false
-   },
-   {
-    "title": "Cycling in London",
-    "texts": [
-     "Make the most of cycling, with info on cycle parking, training and e-bikes"
-    ],
-    "link": {
-     "url": "/modes/cycling/cycling-in-london",
-     "image": {}
-    },
-    "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/e-bikes-main-landing-teaser_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/active-travel-cycling_rdax_400x200.jpg"
     },
     "wrapped": false
    }
@@ -203,14 +131,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "planajourney",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {
@@ -228,75 +148,28 @@
     "wrapped": false
    },
    {
-    "template": "twitter",
-    "title": "Tweets by SantanderCycles",
-    "link": {
-     "url": "https://twitter.com/SantanderCycles",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "title": "Also on this site",
     "links": [
      {
-      "title": "Cycling reports \u0026 publications",
+      "title": "Cycling action plan",
+      "url": "http://content.tfl.gov.uk/cycling-action-plan.pdf",
+      "icon": "external",
+      "image": {}
+     },
+     {
+      "title": "Planning for the future",
+      "url": "/corporate/about-tfl/how-we-work/planning-for-the-future",
+      "icon": "internal",
+      "image": {}
+     },
+     {
+      "title": "Cycling publications and reports",
       "url": "/corporate/publications-and-reports/cycling",
       "icon": "internal",
       "image": {}
-     },
-     {
-      "title": "Air quality consultation",
-      "url": "https://tfl.gov.uk/airquality-consultation",
-      "icon": "external",
-      "image": {}
-     },
-     {
-      "title": "Cycle Superhighways",
-      "url": "/modes/cycling/cycle-superhighways",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "Streets toolkit",
-      "url": "/corporate/publications-and-reports/streets-toolkit",
-      "icon": "internal",
-      "image": {}
-     },
-     {
-      "title": "What we do - Cycling",
-      "url": "/corporate/about-tfl/what-we-do/cycling",
-      "icon": "internal",
-      "image": {}
      }
     ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "listgroup",
-    "title": "Related websites",
-    "links": [
-     {
-      "title": "London TravelWatch",
-      "url": "http://www.londontravelwatch.org.uk/home/",
-      "icon": "external",
-      "image": {}
-     }
-    ],
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "emailupdates",
     "link": {
      "image": {}
     },

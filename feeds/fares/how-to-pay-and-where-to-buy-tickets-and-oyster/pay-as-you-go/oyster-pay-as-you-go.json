@@ -44,11 +44,14 @@
      "{\"template\":\"intro\",\"texts\":[\"Everyone can pay as you go using an Oyster card to travel on our transport services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Oyster cards\"}",
      "An Oyster card is a smart card that you add money to, so you can \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go\"\u003epay as you go\u003c/a\u003e .",
-     "You can pay as you go to travel on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line and River Bus.",
+     "You can pay as you go to travel on bus, Tube, tram, DLR, London Overground, most TfL Rail, Emirates Air Line and Thames Clippers River Bus services.",
      "You can also travel on most National Rail services in London and some \u003ca href=\"/fares/find-fares/national-rail-fares-beyond-zone-9\"\u003eoutside London\u003c/a\u003e .",
      "You can also add:",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\\\"\\u003eTravelcard\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/bus-and-tram-pass\\\"\\u003eBus \\u0026 Tram Pass\\u003c/a\\u003e \",\" \\u003ca href=\\\"/fares/free-and-discounted-travel\\\"\\u003eDiscounts\\u003c/a\\u003e \"]}",
+     "Oyster cards aren't accepted at TfL Rail stations between Reading and Iver.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to use\"}",
+     " \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\"\u003eTouch your Oyster card in\u003c/a\u003e at the start of your journey and \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/touching-in-and-out\"\u003etouch out\u003c/a\u003e at the end on yellow card readers to pay the right fare. Only touch in on buses and trams.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/oyster-card-reader.jpg\",\"alt\":\"Oyster card over a yellow card reader\"},\"wrapped\":false}",
      "If you only have pay as you go credit on your Oyster card, you can lend it to someone else. Two people can't use the same contactless or Oyster card for a journey.",
      "If you have a Travelcard, Bus \u0026 Tram Pass or discount added to your Oyster card, you can't lend it to someone else.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where to buy\"}",
@@ -67,6 +70,8 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay as you go fares\"}",
      "You can check your fare on our \u003ca href=\"/fares/find-fares/tube-and-rail-fares/single-fare-finder\"\u003esingle fare finder\u003c/a\u003e .",
      "Travel as much as you like in one day and we'll \u003ca href=\"/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps\"\u003ecap your fare\u003c/a\u003e so you don't pay more.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Auto top-up\"}",
+     "Using \u003ca href=\"https://oyster.tfl.gov.uk/oyster/link/sso/0002.do\"\u003eAuto top-up\u003c/a\u003e means you'll never run out of pay as you go credit. When your balance goes below £20, we'll automatically top up your Oyster card with either £20 or £40 from your bank account.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Related content\"}",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/fares/refunds-and-replacements\\\"\\u003eRefunds and replacements\\u003c/a\\u003e \"]}"
     ],
@@ -80,14 +85,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -34,10 +34,14 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Our principal activity is to provide safe, integrated, efficient and economic transport facilities and services within Greater London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"bulletlist\",\"items\":[\"We are the integrated transport authority responsible for operating the Capital's public transport network and managing London's main roads\",\"Every day around 31 million journeys are made on our network\",\"Constantly growing demand for services, with London's population set to reach around 10 million by 2030\"]}",
-     "{\"template\":\"bulletlist\",\"items\":[\"A public sector statutory corporation, created by primary legislation\",\"Subject to the Local Government Prudential Borrowing regime, with limits on borrowing agreed with Government as part of our funding settlement\",\"Required by legislation to produce a balanced budget each year\",\"Immediate access to central government funding via the Public Works Loan Board virtually eliminates liquidity risk\",\"Treated as part of Government in terms of Public Sector Net Debt by Office of National Statistics\"]}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Consistent delivery of balanced Business Plan and key projects\",\"Transparent financial planning and commitment to fiscal discipline\"]}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Ranked within one notch below the UK Government by the three main rating agencies\"]}"
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Critical for the London economy\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Monopoly provider of essential public transport services in London\",\"Four billion journeys per year, with capacity investments to increase ridership\",\"Total asset base of more than £40bn\",\"Driving economic growth and supporting jobs across the UK\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Consistent delivery of balanced Business Plan\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Transparent financial planning and commitment to fiscal discipline\",\"Strong track record of meeting operational goals and reducing costs by over £1bn since 2015/16\",\"Continually seeking to diversify revenue streams and grow non-fare revenues\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Central and local government support\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Key functional body of London's regional government (the GLA)\",\"£1.9bn grant received from the GLA annually\",\"Direct access to liquidity from central government at 48 hours notice\",\"Borrowing treated as Public Sector Net Debt\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Statutory framework\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Created by the Greater London Authority Act 1999\",\"Embedded in the local authority finance regime\",\"Legally required to maintain a balanced budget and have regard to CIPFAs Prudential Code\"]}"
     ],
     "link": {
      "image": {}
@@ -49,14 +53,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

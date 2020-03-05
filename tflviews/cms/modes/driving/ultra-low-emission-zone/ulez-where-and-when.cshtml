@@ -60,7 +60,7 @@
                  <li><a href="/modes/driving/ultra-low-emission-zone">Ultra Low Emission Zone</a></li>
                 
             
-            
+                
                 <li><span class="last-breadcrumb">ULEZ: Where and when</span></li>
             
         
@@ -100,7 +100,7 @@
   <div class="main content-container" role="main">
     
       <div class="article-teaser">
-        <p>The Ultra Low Emission Zone (ULEZ) replaced the T-Charge on 8 April 2019. It operates 24 hours a day, 7 days a week, every day of the year, within the same area as the Congestion Charge zone.</p>
+        <p>The Ultra Low Emission Zone (ULEZ) replaced the T-Charge on 8 April 2019. It operates 24 hours a day, 7 days a week, every day of the year (except Christmas Day), within the same area as the Congestion Charge zone.</p>
         
       </div>
     
@@ -129,13 +129,40 @@
  
         
 
+      <h2>Postcode and map search</h2>
+            <div class="responsive-form zone-checker-in-page">
+                 
+                 <p>Enter a postcode to see if it's inside one or more of the charging zones. Results will not be displayed on the map.</p>
+                @{
+                    dynamic content = new ContentModel();
+                    content.PayCongestionChargeLinkText = "Pay to drive in London";
+                    content.PayCongestionChargeUrl = "/modes/driving/account-vehicles";
+                    content.PayCongestionChargeAnonymousUrl = "/modes/driving/pay-to-drive-in-london";
+                    content.ResidentDiscountUrl = "/modes/driving/cc-resident-discount-apply-anon-32525";
+                    content.ResidentDiscountLinkText = "Apply for residents' discount";
+                    content.AddressLinePostcodeText = "Check a postcode";
+                    
+                    Html.RenderAction(RucDictionary.ZoneChecker.DefaultActionName, "ZoneChecker", new
+                        {
+                            area = "Ruc",
+                            zoneChargeType = ZoneChargeType.CongestionCharge,
+                            content = content,
+                            findAnotherUrl = "/maps/congestion-charge"
+                        });
+                }
+            </div>
+
             <h2>Where it operates</h2>
 
-<p>Enter a street name, postcode or landmark in the search box to see it in comparison to the zones. To pinpoint if an address is inside or outside the zones, use the postcode checker below the map. Open the map menu to also check the LEZ zone.</p>
+<p>Enter a street name, postcode or landmark in the search box to see its location in relation to the charging zones.</p>
+
+<p>View zones to show/hide their areas.</p>
+
+<p>To see if an address is inside or outside the zones, use the postcode search instead.</p>
             <div class="search-filter">
                 <div class="heading clearfix">
                     <div class="search-icon-black"></div>
-                    <h3>Search</h3>
+                    <h3>Map search</h3>
                 </div>
                 @{
                     Html.RenderAction("SearchFilter", "Modules", new
@@ -159,21 +186,21 @@
                         Library.MeansOfTransport.Tram,
                         Library.MeansOfTransport.CableCar
                         ),
-                        placeHolderText = "Location, postcode, landmark",
+                        placeHolderText = "Location, postcode or landmark",
                         noResultsFoundMessage = "Couldn't find any results to match your search. Please try again."
                     });
                 }
             </div>
 
             
-             <p class="visually-hidden" aria-label="Go to postcode checker at the bottom of the page">
-                Go to postcode checker at the bottom of the page
+             <p class="visually-hidden" aria-label="Go to postcode checker at the top of the page">
+                Go to postcode checker at the top of the page
             </p>
             <div id="view-map-button-container"></div>
             @{ 
                 Html.RenderAction("EmbeddedMap", "Maps", new
                 {
-                    layers = "gla-boundary,congestion-charging-zone,low-emissions-zone",
+                    layers = "congestion-charging-zone,low-emissions-zone",
                     layersVisibleAtLoad = "congestion-charging-zone",
                     centreLat = "",
                     centreLng = "",
@@ -182,7 +209,8 @@
                     showUserLocation = "0",
                     kmlUrl = "",
                     zoomThresholds = new EmbeddedMapViewModel.EmbeddedMapZoomThresholds() { },
-                    resultSelectedZoom = "14"
+                    resultSelectedZoom = "14",
+                    showStreetView = false
                 });
             }
             
@@ -191,11 +219,13 @@
                 <h2>Charging times</h2>
 
 <ul>
-	<li>Congestion Charge: No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day and New Year's Day</li>
-	<li>ULEZ and LEZ: Operate midnight to midnight, every day of the year</li>
+	<li><strong>Congestion Charge:</strong>&nbsp;No charge&nbsp;18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day and New Year's Day</li>
+	<li><strong>ULEZ:</strong> Operates midnight to midnight, every day of the year, except Christmas Day (25 December)</li>
+	<li><strong>LEZ:</strong> Operates midnight to midnight, every day of the year</li>
+	<li><strong>Direct Vision Standard (DVS) and HGV Safety Permit:</strong> Operates at all times for lorries over 12 tonnes gross vehicle weight</li>
 </ul>
 
-<p>Find out&nbsp;more about paying the <a href="/modes/driving/congestion-charge/paying-the-congestion-charge">Congestion Charge</a>, <a href="/modes/driving/ultra-low-emission-zone/ulez-payments">ULEZ</a> and <a href="/modes/driving/low-emission-zone/make-a-payment">LEZ</a>.</p>
+<p>Find out&nbsp;more about paying the <a href="/modes/driving/congestion-charge/paying-the-congestion-charge">Congestion Charge</a>, <a href="/modes/driving/ultra-low-emission-zone/ulez-payments">ULEZ</a>&nbsp;and&nbsp;<a href="/modes/driving/low-emission-zone/make-a-payment">LEZ</a>, and&nbsp;learn more&nbsp;about <a href="https://turing.online.tfl.gov.uk/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles">DVS</a>.</p>
             </p>
             
             @{ 
@@ -232,28 +262,6 @@
             </div>
             </div>
                 
-            <h2>Postcode search</h2>
-            <div class="responsive-form zone-checker-in-page">
-                 
-                 <p>Our postcode checker can tell you if an address is in the ULEZ/Congestion Charge charging zone. (These results will not show on the map above).</p>
-                @{
-                    dynamic content = new ContentModel();
-                    content.PayCongestionChargeLinkText = "Pay to drive in London";
-                    content.PayCongestionChargeUrl = "/modes/driving/account-vehicles";
-                    content.PayCongestionChargeAnonymousUrl = "/modes/driving/pay-to-drive-in-london";
-                    content.ResidentDiscountUrl = "/modes/driving/cc-resident-discount-apply-anon-32525";
-                    content.ResidentDiscountLinkText = "Apply for residents' discount";
-                    
-                    
-                    Html.RenderAction(RucDictionary.ZoneChecker.DefaultActionName, "ZoneChecker", new
-                        {
-                            area = "Ruc",
-                            zoneChargeType = ZoneChargeType.CongestionCharge,
-                            content = content,
-                            findAnotherUrl = "/maps/congehttp://cms.tfl.gov.uk/cms/Icons/CommandButtons/ok.gifstion-charge"
-                        });
-                }
-            </div>
             
             
             @this.ScriptBlock(
@@ -299,7 +307,7 @@
 
 <h3>A change from LEZ standards</h3>
 
-<p>If you drive a lorry, van, bus, minibus or other specialist vehicle and it currently meets the London-wide LEZ emissions standards, <strong>it may not meet the new ULEZ standards for central London</strong>.</p>
+<p>If you drive a lorry, van, bus, minibus or other specialist vehicle and it currently meets the London-wide LEZ emissions standards, <strong>it may not meet the ULEZ standards for central London</strong>.</p>
 
 <p><strong>From 26 October 2020 <a href="/modes/driving/low-emission-zone/changes-to-the-lez">LEZ emissions standards will change</a>.</strong></p>
 
@@ -317,7 +325,7 @@
 
 <h2>ULEZ expansion - October 2021</h2>
 
-<p>From 25 October 2021 the ULEZ boundary will be extended to create a single larger zone bounded by the North and South Circular Roads. If you are driving any petrol or diesel vehicle within this enlarged area you will also need to meet new tighter emissions standards or pay a daily charge.</p>
+<p>From 25 October 2021 the ULEZ boundary will be extended to create a single larger zone bounded by the North and South Circular Roads. If you are driving any petrol or diesel vehicle within the expansion you will also need to meet the tighter emissions standards or pay a daily charge.</p>
 
 <p>This daily charge is in addition to the weekday Congestion Charge if you drive in central London as well.</p>
 
@@ -398,10 +406,7 @@
     </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-    
-   
+
     
 
         @{
@@ -461,7 +466,13 @@
                                 <li class="parent" aria-label="page with sub pages"><div class="link-wrapper"><a href="/modes/driving/ultra-low-emission-zone/penalty-charges-for-ulez">Penalty charges for ULEZ</a></div></li>
                             
  
-                                <li class="parent" aria-label="page with sub pages"><div class="link-wrapper"><a href="/modes/driving/ultra-low-emission-zone/scrappage-scheme">Scrappage scheme</a></div></li>
+                                <li class="parent" aria-label="page with sub pages"><div class="link-wrapper"><a href="/modes/driving/ultra-low-emission-zone/scrappage-scheme">Scrappage scheme for vans and minibuses</a></div></li>
+                            
+ 
+                                <li class="parent" aria-label="page with sub pages"><div class="link-wrapper"><a href="/modes/driving/ultra-low-emission-zone/car-and-motorcycle-scrappage-scheme">ULEZ Car and motorcycle scrappage scheme</a></div></li>
+                            
+ 
+                                <li aria-label="page with no sub pages"><div class="link-wrapper"><a href="/modes/driving/ultra-low-emission-zone/organisations-supporting-ulez-scrappage-schemes">Organisations supporting ULEZ scrappage schemes</a></div></li>
                             
  
                                 <li class="parent" aria-label="page with sub pages"><div class="link-wrapper"><a href="/modes/driving/ultra-low-emission-zone/contact-ulez">Contact ULEZ</a></div></li>
@@ -472,6 +483,8 @@
  
                 </ul>
             
+ 
+ 
  
  
  

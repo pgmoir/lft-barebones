@@ -33,6 +33,7 @@
    {
     "template": "content",
     "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"If you struggle to stand while using public transport, there is a free badge and card available to help you alert fellow customers that you need a seat. Learn more and apply for your welcome pack.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Badge and card application\"}",
      "Many of our customers, particularly disabled people and those with invisible impairments, conditions or illnesses, find it difficult to get a seat. Our free 'Please offer me a seat' badge and card makes it easier to let other passengers know that you need a seat.",
      "There was an error. Please try again.",
@@ -52,14 +53,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

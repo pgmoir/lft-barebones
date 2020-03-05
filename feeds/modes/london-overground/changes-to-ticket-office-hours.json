@@ -1,0 +1,72 @@
+{
+ "pageTitle": "Changes to ticket office hours",
+ "keywords": "TfL",
+ "description": "Changes to London Overground ticket office opening hours in January 2020",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "London Overground",
+   "url": "/modes/london-overground/index"
+  },
+  {
+   "title": "Changes to ticket office hours"
+  }
+ ],
+ "title": {
+  "title": "Changes to ticket office hours",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"We are reducing the opening hours of our ticket offices at some stations over the next few weeks.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This is to reflect the rapidly changing way that customers pay for their travel as they embrace new technology, including contactless cards and mobile devices.",
+     "Today, fewer than 2% of London Overground journeys involve a visit to a London Overground ticket office, and an increasing number of customers choose to top up their Oyster card online or use contactless payment. Contactless, Oyster and mobile payments offer easy and convenient payment options and value for money through capping.",
+     "Our busiest ticket offices' hours will remain unchanged, but at many stations ticket offices will open during the morning peak (07:30 - 10:00) when they are most used.",
+     "To see the new hours for London Overground stations with changes and the date from which the new times will apply, check the table.",
+     "If your station is not listed, its ticket office hours are not changing.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"New opening times\"}",
+     "All dates are in 2020.",
+     "{\"template\":\"table\",\"titles\":[\"Station\",\"From\",\"Monday-Friday\",\"Saturday\",\"Sunday\"],\"rows\":[[],[\"Acton Central\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Anerley\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Brondesbury\",\"3 March\",\"07:30- 10:00\",\"Closed\",\"Closed\"],[\"Brondesbury Park\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Bush Hill Park\",\"30 January\",\"06:45 - 10:00\",\"Closed\",\"Closed\"],[\"Caledonian Road \\u0026 Barnsbury\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Camden Road\",\"6 February\",\"06:30 - 10:00 / 15:00 - 19:00\",\"10:45 - 14:15\",\"Closed\"],[\"Canonbury\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Carpenders Park\",\"6 February\",\"06:30 - 10:00\",\"10:30 - 12:30\",\"Closed\"],[\"Clapton\",\"30 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Dalston Junction\",\"23 January\",\"07:30 - 10:00\",\"12:30 - 14:45\",\"Closed\"],[\"Dalston Kingsland\",\"6 February\",\"07:00 - 18:15\",\"08:45 - 19:00\",\"12:15 - 13:30\"],[\"Finchley Road \\u0026 Frognal\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Gospel Oak\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Hackney Central\",\"6 February\",\"07:15 - 10:00 / 13:00 - 18:00\",\"10:15 - 16:00\",\"Closed\"],[\"Hackney Downs\",\"30 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Hackney Wick\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Haggerston\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Hampstead Heath\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Hatch End\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Headstone Lane\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Homerton\",\"6 February\",\"06:30 - 18:30\",\"08:15 - 14:30\",\"11:30 - 15:00\"],[\"Honor Oak Park\",\"23 January\",\"06:45 - 10:00\",\"09:45 - 11:45\",\"Closed\"],[\"Hoxton\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Imperial Wharf\",\"6 February\",\"07:30 - 12:00 / 16:15 - 18:15\",\"09:30 - 14:00\",\"10:00 - 12:30\"],[\"Kensal Rise\",\"6 February\",\"07:00 - 10:00\",\"Closed\",\"Closed\"],[\"Kensington (Olympia)\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Kentish Town West\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Kilburn High Road\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Penge West\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Rectory Road\",\"30 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Rotherhithe\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"St James Street\",\"30 January\",\"07:00 - 10:00\",\"Closed\",\"Closed\"],[\"Shadwell\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Shepherd's Bush\",\"6 February\",\"07:30 - 10:00 / 13:30 - 18:30\",\"09:15 - 14:45\",\"10:15 - 11:15\"],[\"Shoreditch High Street\",\"23 January\",\"07:30 - 10:00\",\"09:45 - 17:15\",\"11:15 - 17:45\"],[\"Silver Street\",\"30 January\",\"06:30 - 10:00\",\"Closed\",\"Closed\"],[\"South Hampstead\",\"6 February\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Southbury\",\"30 January\",\"06:30 - 10:00\",\"Closed\",\"Closed\"],[\"Stoke Newington\",\"30 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Surrey Quays\",\"23 January\",\"07:00 - 10:00\",\"Closed\",\"Closed\"],[\"Turkey Street\",\"30 January\",\"06:30 - 10:00\",\"09:45 - 13:00\",\"Closed\"],[\"Wapping\",\"23 January\",\"07:30 - 10:00\",\"Closed\",\"Closed\"],[\"Watford High Street\",\"6 February\",\"07:30 - 10:00\",\"09:30 - 12:15\",\"Closed\"],[\"West Hampstead\",\"6 February\",\"07:00 - 11:00 / 16:00 - 18:45\",\"10:00 - 14:15\",\"11:15 - 14:45\"],[\"Wood Street\",\"30 January\",\"06:30 - 10:00\",\"Closed\",\"Closed\"]]}",
+     "Some offices may be open for information only at other times.",
+     "We will maintain the highest standards of safety and security - this remains a priority. All stations will remain staffed at all times, from 15 minutes before the first train until 15 minutes after the last.",
+     "{\"template\":\"video\",\"style\":\"wTy7FWr6Dzw\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Ticket machines\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"At stations managed by London Overground, all self-service ticket machines have been upgraded or replaced\",\"98% of sales at London Overground ticket offices can be made using a ticket machine\",\"Customers can buy tickets to all National Rail destinations, Oyster and paper weekly and Oyster monthly Travelcards\",\"Ticket machines can also be used for Oyster top-up and collecting tickets ordered online\",\"Advance tickets are also available from ticket machines\",\"Most stations have multiple machines\",\"If a product or service is not available on the machine, staff can advise customers of alternative ways of obtaining that product or service\"]}",
+     "The Mayor of London has allocated £1m to invest in new technology, to improve stations and make it easier for customers to get help when they need it, including video-linked ticket machines and remote controlled ticket barriers at some stations."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

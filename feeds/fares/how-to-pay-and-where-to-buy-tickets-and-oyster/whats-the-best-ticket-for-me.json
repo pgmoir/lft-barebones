@@ -39,14 +39,16 @@
      "{\"template\":\"intro\",\"texts\":[\"We'll help you choose the best way to pay for your travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/best-ticket-for-me-large.jpg\",\"alt\":\"Directional signpost with different ticket types\"},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Pay as you go\"}",
-     "You can use contactless (card or device) or an Oyster card to pay as you go on bus, Tube, tram, DLR, London Overground, TfL Rail, Emirates Air Line and River Bus services.",
+     "You can use contactless (card or device) or an Oyster card to pay as you go on bus, Tube, tram, DLR, London Overground, most TfL Rail services, Emirates Air Line and River Bus services.",
      "You can also travel on most National Rail services in London and some \u003ca href=\"/fares/find-fares/national-rail-fares-beyond-zone-9\"\u003eoutside London\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Oyster card\"}",
      "You can use an \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go\"\u003eOyster card\u003c/a\u003e .",
      "{\"template\":\"bulletlist\",\"items\":[\"You only pay for the journeys you make\",\"Travel all over the transport network at any time\",\"Your fares may be \\u003ca href=\\\"/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps\\\"\\u003ecapped\\u003c/a\\u003e so you don't pay more (cheaper than a Day Travelcard) if you make multiple journeys in one day\",\"Top up your card and check your journey history with a \\u003ca href=\\\"https://contactless.tfl.gov.uk/\\\"\\u003econtactless and Oyster account\\u003c/a\\u003e or our free \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\\\"\\u003eTfL Oyster and contactless app\\u003c/a\\u003e \",\"If you're visiting London, you can also buy a \\u003ca href=\\\"/travel-information/visiting-london/visitor-oyster-card\\\"\\u003eVisitor Oyster card\\u003c/a\\u003e and get special offers and discounts\"]}",
+     "Oyster cards aren't accepted at TfL Rail stations between Reading and Iver.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Contactless\"}",
      "You can use \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/contactless-and-mobile-pay-as-you-go\"\u003econtactless\u003c/a\u003e (card or device).",
      "{\"template\":\"bulletlist\",\"items\":[\"You only pay for the journeys you make\",\"Pay for your journeys as you travel with no need to top up\",\"Travel all over the transport network at any time\",\"Your fares may be \\u003ca href=\\\"/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps\\\"\\u003ecapped\\u003c/a\\u003e so you don't pay more if you make multiple journeys in one day or week (Monday to Sunday)\",\"Check your journey history with a \\u003ca href=\\\"https://contactless.tfl.gov.uk/\\\"\\u003econtactless and Oyster account\\u003c/a\\u003e or our free \\u003ca href=\\\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/tfl-oyster-and-contactless-app\\\"\\u003eTfL Oyster and contactless app\\u003c/a\\u003e \"]}",
+     "Journeys on TfL Rail to or from Reading or Iver aren't included in caps.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Travelcards\"}",
      "You can use a \u003ca href=\"/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/travelcards-and-group-tickets\"\u003eTravelcard\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Benefits\"}",
@@ -73,14 +75,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -2,28 +2,7 @@
  "pageTitle": "December",
  "description": "Press 2018 December",
  "template": "page-content",
- "breadcrumbs": [
-  {
-   "style": "home",
-   "title": "Home",
-   "url": "/"
-  },
-  {
-   "title": "Media",
-   "url": "/info-for/media/index"
-  },
-  {
-   "title": "Press releases",
-   "url": "/info-for/media/press-releases"
-  },
-  {
-   "title": "2018",
-   "url": "/info-for/media/press-releases/2018"
-  },
-  {
-   "title": "December"
-  }
- ],
+ "breadcrumbs": null,
  "title": {
   "title": "December",
   "card": {
@@ -48,15 +27,6 @@
   ]
  },
  "rhnav": {
-  "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   }
-  ]
+  "cards": null
  }
 }

@@ -10,7 +10,7 @@
    "url": "/"
   },
   {
-   "title": "Boroughs",
+   "title": "Boroughs and communities",
    "url": "/info-for/boroughs/index"
   },
   {
@@ -61,20 +61,17 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
-    "title": "Boroughs",
+    "title": "Boroughs and communities",
     "links": [
      {
-      "title": "Borough funding",
+      "title": "Your borough",
+      "url": "/info-for/boroughs/information-by-borough",
+      "image": {}
+     },
+     {
+      "title": "Funding for your borough",
       "url": "/info-for/boroughs/borough-funding",
       "image": {}
      },
@@ -89,11 +86,6 @@
       "image": {}
      },
      {
-      "title": "Sub-regional transport planning",
-      "url": "/info-for/boroughs/sub-regional-transport-planning",
-      "image": {}
-     },
-     {
       "title": "Low Emission Neighbourhoods",
       "url": "/info-for/boroughs/low-emission-neighbourhoods",
       "image": {}
@@ -101,11 +93,6 @@
      {
       "title": "Cycling toolkit",
       "url": "/info-for/boroughs/cycling-toolkit",
-      "image": {}
-     },
-     {
-      "title": "Street Types for London",
-      "url": "/info-for/boroughs/street-types",
       "image": {}
      },
      {
@@ -119,14 +106,24 @@
       "image": {}
      },
      {
-      "title": "Information by borough",
-      "url": "/info-for/boroughs/information-by-borough",
+      "title": "Walking and cycling community ideas",
+      "url": "/info-for/boroughs/walking-and-cycling-community-ideas",
+      "image": {}
+     },
+     {
+      "title": "Workplace Parking Levies",
+      "url": "/info-for/boroughs/workplace-parking-levies",
+      "image": {}
+     },
+     {
+      "title": "Zero Emission Zones",
+      "url": "/info-for/boroughs/zero-emission-zones",
       "image": {}
      }
     ],
     "link": {
-     "title": "Boroughs",
-     "url": "/info-for/boroughs/information-by-borough",
+     "title": "Boroughs and communities",
+     "url": "/info-for/boroughs/zero-emission-zones",
      "image": {}
     },
     "image": {},

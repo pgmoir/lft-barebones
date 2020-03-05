@@ -1,0 +1,102 @@
+{
+ "pageTitle": "Christmas Eve 2019",
+ "keywords": "TfL",
+ "description": "Travel advice for 24 December 2019",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "Christmas Eve 2019"
+  }
+ ],
+ "title": {
+  "title": "Christmas Eve 2019",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Christmas and New Year period, most of TfL public transport is open. However, planned works and service changes will affect public transport and road travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future date\u0026direction=\u0026startDate=2019-12-24T00%3a00%3a00\u0026endDate=2019-12-24T23%3a59%3a59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and tram services for 24 December.",
+     "The following services are affected today:",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service\",\"Day buses finish at normal times\",\"No night services - 24 hour services finish around midnight\",\" \\u003ca href=\\\"https://tfl.gov.uk/bus/route/507/?direction=outbound\\\"\\u003e507\\u003c/a\\u003e route - enhanced Saturday service\",\" \\u003ca href=\\\"https://tfl.gov.uk/bus/route/521/?direction=outbound\\\"\\u003e521\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/bus/route/68/?direction=outbound\\\"\\u003eX68\\u003c/a\\u003e - special service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reduced service from around 16:00 (except Waterloo \\u0026 City and Circle lines)\",\"Last trains at Sunday times\",\"No District line service between Parsons Green and Wimbledon from 22:45\",\"Replacement buses between Fulham Broadway and Wimbledon\",\"Circle line - normal service until 22 :30. From 22:30 - reduced service\",\"Waterloo \\u0026 City line: normal service until 22:30. From 22:30,  reduced service. Last trains 23:20\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service between Richmond, Clapham Junction and Stratford\",\"Saturday service between Watford Junction and Euston\",\"Weekday service on all other routes\",\"Last trains at around 21:30 - all services finish early\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service\",\"Earlier finish around 22:30\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"TfL Rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"West\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service between Paddington and Slough/Heathrow Terminal 4.  Piccadilly line services to Heathrow airport running during this time\",\"Rail replacement buses between Ealing Broadway, Slough and Hillingdon (not stopping at Acton Main Line, West Ealing and Hanwell)\",\"Services continue to run between Slough and Reading\",\"Transfer service between Heathrow Terminals\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"East\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Normal service with early finish between Liverpool Street and Shenfield\",\"Last train from Liverpool Street at 22:10, Shenfield at 21:14\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Trams\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service until 18:00\",\"18:00-20:00 - trams every 15 minutes\",\"After 20:00 - trams every 20 minutes until last tram\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "There are limited regular bookings for today. Book your journey from Tuesday 10 December. Dial-a-Ride services are for registered members only.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Thames Clipper\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Woolwich Ferry\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Normal service until 12:00\",\"Single boat service until 20:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and Private Hire\"}",
+     "From 20:00 today until 06:00 on Friday 27 December:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Black cabs will charge an extra £4 per journey\",\"There may be an extra charge for private hire vehicles (including minicabs) - check when you book\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Emirates Air Line\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Services running 09:00-19:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Santander Cycles\"}",
+     "Santander Cycles are available throughout the Christmas season, including today.",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cycle for free this Christmas. Make as many 30-minute journeys as you like within 24 hours free of charge. Use code SCXMAS19\",\"Check availability of Santander Cycles using the \\u003ca href=\\\"/modes/cycling/santander-cycles/find-a-docking-station\\\"\\u003eonline docking station map\\u003c/a\\u003e \",\"Download the Santander Cycles app from the \\u003ca href=\\\"https://itunes.apple.com/gb/app/santander-cycles/id974792287?mt=8\\\"\\u003eApp Store\\u003c/a\\u003e or \\u003ca href=\\\"https://play.google.com/store/apps/details?id=uk.gov.tfl.cyclehire\\u0026hl=en_GB\\\"\\u003eGoogle Play\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"See our \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future%20date\\u0026direction=\\u0026startDate=2019-12-24T00%3A00%3A00\\u0026endDate=2019-12-24T23%3A59%3A59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for 24 December\",\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e and \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

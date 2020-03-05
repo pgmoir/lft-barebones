@@ -34,7 +34,7 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Find out more about your rights and duties as a customer when using TfL services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transport for London's Conditions of Carriage\",\"url\":\"/cdn/static/cms/documents/tfl-conditions-of-carriage.pdf\",\"icon\":\"download\",\"size\":\"PDF 354KB\",\"image\":{}},{\"title\":\"Contactless payment cards Conditions of Use\",\"url\":\"/cdn/static/cms/documents/contactless-conditions-of-use.pdf\",\"icon\":\"download\",\"size\":\"PDF 194KB\",\"image\":{}},{\"title\":\"Rail for London - London Overground and TfL Rail services Ticketing and Travel Guide\",\"url\":\"/cdn/static/cms/documents/rail-for-london-ticket-and-travel-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 312KB\",\"image\":{}},{\"title\":\"Oyster Conditions of Use on National Rail services - applicable from 1 October 2015\",\"url\":\"/cdn/static/cms/documents/oyster-conditions-of-use-on-national-rail-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 246KB\",\"image\":{}},{\"title\":\"DLR Conditions of Carriage - applicable from 31 January 2018\",\"url\":\"/cdn/static/cms/documents/180131-dlr-cofc.pdf\",\"icon\":\"download\",\"size\":\"PDF 247KB\",\"image\":{}},{\"title\":\"Emirates Air Line Conditions of Carriage - applicable from 18 April 2016\",\"url\":\"/cdn/static/cms/documents/eal-conditions-of-carriage-april-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 230KB\",\"image\":{}},{\"title\":\"Dial-a-Ride Conditions of Carriage - April 2016\",\"url\":\"/cdn/static/cms/documents/dial-a-ride-terms-and-conditions-of-carriage.pdf\",\"icon\":\"download\",\"size\":\"PDF 46KB\",\"image\":{}},{\"title\":\"London Trams Conditions of Travel - applicable from 17 December 2018\",\"url\":\"/cdn/static/cms/documents/london-trams-conditions-of-travel.pdf\",\"icon\":\"download\",\"size\":\"PDF 855KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transport for London's Conditions of Carriage\",\"url\":\"/cdn/static/cms/documents/tfl-conditions-of-carriage.pdf\",\"icon\":\"download\",\"size\":\"PDF 566KB\",\"image\":{}},{\"title\":\"Contactless payment cards Conditions of Use\",\"url\":\"/cdn/static/cms/documents/contactless-conditions-of-use.pdf\",\"icon\":\"download\",\"size\":\"PDF 201KB\",\"image\":{}},{\"title\":\"Rail for London - London Overground and TfL Rail services Ticketing and Travel Guide\",\"url\":\"/cdn/static/cms/documents/rail-for-london-ticket-and-travel-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 450KB\",\"image\":{}},{\"title\":\"Oyster Conditions of Use on National Rail services - applicable from 1 October 2015\",\"url\":\"/cdn/static/cms/documents/oyster-conditions-of-use-on-national-rail-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 246KB\",\"image\":{}},{\"title\":\"DLR Conditions of Carriage - applicable from 31 January 2018\",\"url\":\"/cdn/static/cms/documents/180131-dlr-cofc.pdf\",\"icon\":\"download\",\"size\":\"PDF 247KB\",\"image\":{}},{\"title\":\"Emirates Air Line Conditions of Carriage - applicable from 18 April 2016\",\"url\":\"/cdn/static/cms/documents/eal-conditions-of-carriage-april-2016.pdf\",\"icon\":\"download\",\"size\":\"PDF 230KB\",\"image\":{}},{\"title\":\"Dial-a-Ride Conditions of Carriage - April 2016\",\"url\":\"/cdn/static/cms/documents/dial-a-ride-terms-and-conditions-of-carriage.pdf\",\"icon\":\"download\",\"size\":\"PDF 46KB\",\"image\":{}},{\"title\":\"London Trams Conditions of Travel - applicable from 17 December 2018\",\"url\":\"/cdn/static/cms/documents/london-trams-conditions-of-travel.pdf\",\"icon\":\"download\",\"size\":\"PDF 855KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "The \u003ca href=\"http://www.nationalrail.co.uk/times_fares/46427.aspx\"\u003eNational Rail Conditions of Carriage\u003c/a\u003e set out your\nrights and responsibilities when travelling on the National Rail network.",
      "The \u003ca href=\"https://www.heathrowexpress.com/docs/default-source/policies/conditions-of-carriage.pdf?sfvrsn=8\"\u003eHeathrow Express Conditions of Carriage PDF\u003c/a\u003e set out your rights and responsibilities when travelling on Heathrow Express services."
     ],
@@ -48,14 +48,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -132,11 +124,6 @@
       "image": {}
      },
      {
-      "title": "Technology Innovation Portal",
-      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
-      "image": {}
-     },
-     {
       "title": "TfL call charges",
       "url": "/corporate/terms-and-conditions/tfl-call-charges",
       "image": {}
@@ -175,11 +162,21 @@
       "title": "DLR Discovery",
       "url": "/corporate/terms-and-conditions/dlr-discovery",
       "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "url": "/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
+      "image": {}
      }
     ],
     "link": {
      "title": "Terms \u0026 conditions",
-     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
      "image": {}
     },
     "image": {},

@@ -42,16 +42,10 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"These meetings form part of our regular engagement with the taxi trade, and give drivers the chance to share their views and discuss topics such as compliance and taxi policies.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "At these meetings our policy, compliance and ranks teams provide an update on our work, and are available to answer your questions.",
-     "\u003cstrong\u003eNorth east sectors suburban forum\u003c/strong\u003e July 2018",
-     "{\"template\":\"bulletlist\",\"items\":[\"Sector one (Enfield, Haringey and Waltham Forest); sector two (Barking and Dagenham, Havering, Newham and Redbridge)\"]}",
-     "\u003cstrong\u003eSouth east sectors suburban forum\u003c/strong\u003e August 2018",
-     "{\"template\":\"bulletlist\",\"items\":[\"Sector three (Bexley, Greenwich and Lewisham); sector four (Bromley); sector five (Croydon)\"]}",
-     "\u003cstrong\u003eSouth west sectors suburban forum\u003c/strong\u003e September 2018",
-     "{\"template\":\"bulletlist\",\"items\":[\"Sector six (Merton and Sutton); sector seven (Hounslow, Kingston and Richmond)\"]}",
-     "\u003cstrong\u003eNorth west sectors suburban forum\u003c/strong\u003e November 2018",
-     "{\"template\":\"bulletlist\",\"items\":[\"Sector eight (Ealing and Hillingdon); sector nine (Brent, Barnet and Harrow)\"]}",
+     "At these meetings our policy, compliance and ranks teams provide an update on our work, and are available to answer your questions.",
      "All drivers licensed in the areas above are contacted by email inviting them to attend their respective event.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2019 suburban forums\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Suburban drivers' forum sectors eight and nine\",\"url\":\"/cdn/static/cms/documents/suburban-forum-sectors-8-and-9-july-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.67MB\",\"image\":{}},{\"title\":\"Suburban drivers' forum sectors six and seven\",\"url\":\"/cdn/static/cms/documents/suburban-forum-6-and-7-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.26MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2018 suburban forums\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Suburban drivers' forum sectors one and two\",\"url\":\"/cdn/static/cms/documents/suburban-taxi-drivers-forum-sectors-1-and-2-2018.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.93MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2017 suburban forums\"}",
@@ -69,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

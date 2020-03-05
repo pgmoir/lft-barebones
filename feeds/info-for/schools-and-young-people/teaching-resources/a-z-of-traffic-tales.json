@@ -67,14 +67,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Schools \u0026 young people",
@@ -96,7 +88,7 @@
      },
      {
       "title": "Children's Traffic Club London",
-      "url": "/info-for/schools-and-young-people/teaching-resources/children-s-traffic-club-london",
+      "url": "/info-for/schools-and-young-people/teaching-resources/pre-school",
       "image": {}
      },
      {

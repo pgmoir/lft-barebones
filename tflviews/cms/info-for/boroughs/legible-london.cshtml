@@ -22,7 +22,7 @@
                 </a>
             </li>
             
-                 <li><a href="/info-for/boroughs/index">Boroughs</a></li>
+                 <li><a href="/info-for/boroughs/index">Boroughs and communities</a></li>
                 
             
                  <li><a href="/info-for/boroughs/planning-and-resources">Planning & resources</a></li>
@@ -57,7 +57,7 @@
         
       </div>
     
-    
+    <div class="on-this-page">
       
       
            
@@ -71,7 +71,9 @@
         
         
     </div>
-    <p>We developed Legible London to help both residents and visitors walk to their destination quickly and easily. The signs offer a consistent experience and information about distances between areas.</p>
+    <h2>About the scheme</h2>
+
+<p>We developed Legible London to help both residents and visitors walk to their destination quickly and easily. The signs offer a consistent experience and information about distances between areas.</p>
 
 <p>They're also integrated with other transport modes so, for example, when people are leaving the Tube they can quickly identify the route to their destination.</p>
 
@@ -149,16 +151,18 @@
       
         
           
+            @this.ScriptBlock(
+              @<script>
+                queue.push("@Html.ScriptPath("modules/M020-on-this-page.min.js")", null);
+              </script>
+            )
+          
         
       
-    
+    </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-      <div class="share-widget-wrapper"></div>
-    
-    
+
    
     
     
@@ -203,11 +207,14 @@
  
  
                 <a href="/info-for/boroughs/index" class="heading">
-                    <h2 id="sub-menu-heading">Boroughs<span class="visually-hidden"> navigation</span></h2>
+                    <h2 id="sub-menu-heading">Boroughs and communities<span class="visually-hidden"> navigation</span></h2>
                 </a>
                 <ul>
                     
-                                <li class="parent"><div class="link-wrapper"><a href="/info-for/boroughs/borough-funding">Borough funding</a></div></li>
+                                <li class="parent"><div class="link-wrapper"><a href="/info-for/boroughs/information-by-borough">Your borough</a></div></li>
+                            
+ 
+                                <li class="parent"><div class="link-wrapper"><a href="/info-for/boroughs/borough-funding">Funding for your borough</a></div></li>
                             
  
                                 <li class="selected parent"><div class="link-wrapper"><a href="/info-for/boroughs/planning-and-resources">Planning & resources</a></div>
@@ -216,16 +223,10 @@
                                 <li><div class="link-wrapper"><a href="/info-for/boroughs/professional-services-frameworks">Professional services frameworks</a></div></li>
                             
  
-                                <li><div class="link-wrapper"><a href="/info-for/boroughs/sub-regional-transport-planning">Sub-regional transport planning</a></div></li>
-                            
- 
                                 <li><div class="link-wrapper"><a href="/info-for/boroughs/low-emission-neighbourhoods">Low Emission Neighbourhoods</a></div></li>
                             
  
                                 <li><div class="link-wrapper"><a href="/info-for/boroughs/cycling-toolkit">Cycling toolkit</a></div></li>
-                            
- 
-                                <li><div class="link-wrapper"><a href="/info-for/boroughs/street-types">Street Types for London</a></div></li>
                             
  
                                         <li class="selected parent"><div class="link-wrapper"><a href="/info-for/boroughs/legible-london">Legible London</a></div>
@@ -240,11 +241,17 @@
                                 <li><div class="link-wrapper"><a href="/info-for/boroughs/bus-lane-database">Bus lane database</a></div></li>
                             
  
+                                <li><div class="link-wrapper"><a href="/info-for/boroughs/walking-and-cycling-community-ideas">Walking and cycling community ideas</a></div></li>
+                            
+ 
+                                <li><div class="link-wrapper"><a href="/info-for/boroughs/workplace-parking-levies">Workplace Parking Levies</a></div></li>
+                            
+ 
+                                <li><div class="link-wrapper"><a href="/info-for/boroughs/zero-emission-zones">Zero Emission Zones</a></div></li>
+                            
+ 
                                 </ul>
                             </li>
- 
-                                <li class="parent"><div class="link-wrapper"><a href="/info-for/boroughs/information-by-borough">Information by borough</a></div></li>
-                            
  
                 </ul>
             

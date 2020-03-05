@@ -46,7 +46,8 @@
      "{\"template\":\"bulletlist\",\"items\":[\"GMB Union - professional drivers branch\",\"The Licensed Private Hire Car Association\",\"Private hire board\"]}",
      "There are licensed operators all across London, offering a variety of services. Once licensed, you can work for any private hire operator licensed in London.",
      "In order to be licensed, you will need to meet the following criteria:",
-     "{\"template\":\"bulletlist\",\"items\":[\"You must be at least 21 years of age at the time of applying. There is no upper age limit, as long as you meet the other licensing requirements\",\"You must hold a full DVLA, Northern Ireland, or other EEA state driving licence that's at least three years old\",\"You must have the right to live and work in the UK\",\"You must be of good character. To establish this you will be required to undertake an 'enhanced' criminal records check from DBS through our service provider -span\",\"You must be medically fit which means meeting the \\u003ca class=\\\"external-site\\\"href=\\\"http://www.dft.gov.uk/dvla/medical/ataglance.aspx\\\"title=\\\" (Opens in new window)\\\"\\u003eDVLA Group 2 standards\\u003c/a\\u003e . In most cases, this will mean that you will have to undergo a medical examination with someone who has access to your full medical history\",\"You will need to undertake a topographical skills assessment from an accredited assessment centre\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"You must be at least 21 years of age at the time of applying. There is no upper age limit, as long as you meet the other licensing requirements\",\"You must hold a full DVLA, Northern Ireland, or other EEA state driving licence that's at least three years old*\",\"You must have the right to live and work in the UK\",\"You must be of good character. To establish this you will be required to undertake an 'enhanced' criminal records check from DBS through our service provider -span\",\"You must be medically fit which means meeting the \\u003ca class=\\\"external-site\\\"href=\\\"http://www.dft.gov.uk/dvla/medical/ataglance.aspx\\\"title=\\\" (Opens in new window)\\\"\\u003eDVLA Group 2 standards\\u003c/a\\u003e . In most cases, this will mean that you will have to undergo a medical examination with someone who has access to your full medical history\",\"You will need to undertake a topographical skills assessment from an accredited assessment centre\"]}",
+     "*Although it is possible to exchange a licence from a designated country for a UK or EU/EEA licence, applicants must have held the UK or EU/EEA driving licence for at least three years.  How long a licence from a designated country was held for prior to being exchanged is\u003cstrong\u003enot\u003c/strong\u003e taken into account in determining the three year requirement.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to apply\"}",
      "If you can meet all of the above criteria and wish to apply, you can \u003ca href=\"https://tph.tfl.gov.uk/TfL/register.page?org.apache.shale.dialog.DIALOG_NAME=contactus\u0026displayName=Multi\u0026DocTypeCode=urn:www.civica.co.uk:doctypes:TFLREG\u0026menuId=4\"\u003estart your application by registering online\u003c/a\u003e .",
      "You will be asked to provide some personal details so we can create an account for you and allow you to complete your online application or request an application pack.",
@@ -63,7 +64,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How much will my application cost?\"}",
      "Payment can be made via all major credit or debit cards by completing the appropriate section in the application form. Other payment options are available via the Post Office® 'Check and Send' service.",
      "The table below highlights the typical cost of an application. However, some costs may vary.",
-     "{\"template\":\"table\",\"rows\":[[\"DBS disclosure application\",\"£56.85 (online)\\u003cbr /\\u003e£58.85 (paper)\"],[\"*Licence application fee\",\"£124\"],[\"Grant of licence fee\",\"£186\"],[\"Post Office® Check and Send\",\"£7.15\"],[\"English language assessment (if applicable)\",\"£180 - £200\"],[\"Topographical assessment (if applicable)\",\"£75\"],[\"Medical\",\"Fee set by the examining doctor (your GP)\"],[\"\",\"\\u003cstrong\\u003eExample total: £644 excluding cost of medical\\u003c/strong\\u003e \"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"DBS disclosure application\",\"£52 (online)\\u003cbr /\\u003e£54 (paper)\"],[\"*Licence application fee\",\"£124\"],[\"Grant of licence fee\",\"£186\"],[\"Post Office® Check and Send\",\"£10.50\"],[\"English language assessment (if applicable)\",\"£180 - £200\"],[\"Topographical assessment (if applicable)\",\"£75\"],[\"Medical\",\"Fee set by the examining doctor (your GP)\"],[\"\",\"\\u003cstrong\\u003eExample total: £644 excluding cost of medical\\u003c/strong\\u003e \"]]}",
      "*The application fee is non-refundable",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Equal opportunities\"}",
      "Becoming a licensed taxi or private hire driver is open to all. If you're a disabled person and interested in becoming a driver, there are some things to consider.",
@@ -86,8 +87,9 @@
      "If we have designated a taxi or PHV as wheelchair accessible, drivers must provide physical assistance to passengers in wheelchairs without any additional charge. We can exempt a driver from these duties on:",
      "{\"template\":\"bulletlist\",\"items\":[\"Medical grounds, or\",\"On the grounds that a physical condition makes it impossible or unreasonably difficult for a driver to comply with the duties\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Topographical skills assessment\"}",
-     "Private hire applicants are required to undertake a topographical skills assessment as part of their application. However, the following applicants may be exempt if they are:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Previously licensed PHV drivers who have passed a topographical skills test\",\"Licensed London taxi drivers - All London and Suburban\",\"Professional London tourists guides (eg Blue Badge Driver Guide)\",\"An individual who can provide TPH with evidence of a relevant vocational qualification in passenger transport (eg NVQ or equivalent). Evidence of a vocational qualification submitted as part of an application will be reviewed to ensure that an applicant has the appropriate topographical skills. We will let you know if you need to do anything else. In some cases, we may ask you to sit a topographical skills assessment in addition to any qualification you have provided.\"]}",
+     "Private hire applicants are required to undertake a topographical skills assessment as part of their application. However, the following applicants may be exempt if:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Previously licensed PHV drivers who have passed a TfL topographical skills test\",\"Licensed London taxi drivers - All London and Suburban\",\"Professional London tourists guides (eg Blue Badge Driver Guide)\"]}",
+     "On 1 February 2020 the exemption previously given to applicants with a relevant vocational qualification was removed. Please see \u003ca href=\"http://content.tfl.gov.uk/06-19-topographical-skills-assessments.pdf\"\u003eTPH Notice 06-19\u003c/a\u003e for more information.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Convictions and exemptions\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Disclosure and Barring service check\"}",
      "If you have completed a enhanced disclosure including both barred lists under the workforce code of 'Other' in a relevant occupation, in the last four months, you are exempt for requiring a further check.",
@@ -110,14 +112,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -176,6 +170,11 @@
      {
       "title": "Existing licensee",
       "url": "/info-for/taxis-and-private-hire/licensing/existing-licensee",
+      "image": {}
+     },
+     {
+      "title": "Health and wellbeing",
+      "url": "/info-for/taxis-and-private-hire/licensing/health-and-wellbeing",
       "image": {}
      },
      {

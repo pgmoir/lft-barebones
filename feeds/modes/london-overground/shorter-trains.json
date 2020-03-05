@@ -33,9 +33,8 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"We are sorry that some of our trains have been overcrowded since we took over the operation of services on this line and that some of our trains have been running with fewer carriages than planned. We fully appreciate the disappointment and inconvenience that this has caused.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Thursday 4th July 2019\"}",
-     "All Services on our West Anglia route are planned to run with the normal number of carriages."
+     "\u003cstrong\u003eThursday 5th March 2020\u003c/strong\u003e ",
+     "All services on our West Anglia Route are planned to run with the usual number of coaches today."
     ],
     "link": {
      "image": {}
@@ -47,14 +46,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

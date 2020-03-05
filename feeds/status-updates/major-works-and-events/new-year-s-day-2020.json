@@ -1,0 +1,103 @@
+{
+ "pageTitle": "New Year's Day 2020",
+ "keywords": "TfL",
+ "description": "Travel advice for 1 January 2020",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Status updates",
+   "url": "/status-updates/index"
+  },
+  {
+   "title": "Major works \u0026 events",
+   "url": "/status-updates/major-works-and-events"
+  },
+  {
+   "title": "Christmas travel",
+   "url": "/status-updates/major-works-and-events/christmas-travel"
+  },
+  {
+   "title": "New Year's Day 2020"
+  }
+ ],
+ "title": {
+  "title": "New Year's Day 2020",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Over the Christmas and New Year period, most of TfL public transport is open. However, planned works and service changes will affect public transport and road travel.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "For travel in the early hours of New Year's Day, see our New Year's Eve page. This page covers travel\u003cstrong\u003eafter 04:30 \u003c/strong\u003e on 1 January 2020.",
+     "See our \u003ca href=\"https://tfl.gov.uk/tube-dlr-overground/status/?Input=\u0026lineIds=\u0026dateTypeSelect=Future date\u0026direction=\u0026startDate=2020-01-01T00%3a00%3a00\u0026endDate=2020-01-01T23%3a59%3a59\"\u003eStatus updates map\u003c/a\u003e for Tube, Overground, TfL Rail, DLR and London Trams services for New Year's Day.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Buses\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sunday service\",\"Due to road closures for the New Year's Day Parade, some buses in central London will be diverted or stopped short of their final destination until about 18:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Reduced service on all lines\",\"First and last trains running at weekday times\",\"No District line service between Earl's Court and Kensington (Olympia)\",\"No Metropolitan line service between Baker Street and Aldgate until 10:45\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"For most lines\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Central London - before 11:00: trains every 7-10 mins. After 11:00: every 3-10 mins\",\"Outer areas/branches -  before 11:00: trains every 20-30 mins. After 11:00: every 10-30 mins\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"There are some exceptions\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"District line: no service between Earl's Court and Kensington Olympia all day\",\"Central line (04:30-11:00): every 40 minutes between Hainault and Woodford\",\"Hammersmith \\u0026 City line: (04:30-11:00) every 20 minutes\",\"Circle line: (04:30-11:00) every 20 minutes\",\"Metropolitan line: (before 19:00) every 40 minutes to/from Amersham via Watford. (After 19:00) every 40 minutes to/from Chesham, every 40 mins to/from Amersham\",\"Piccadilly line: no service between Rayners Lane and Uxbridge until 10:45. From 11:00: trains every 20 mins to/from Heathrow Terminal 4\",\"Waterloo \\u0026 City line: every 6-10 mins. Saturday first and last train times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sunday service between Romford and Upminster\",\"Saturday service on all other routes\",\"Sunday start time\",\"No service between Hackney Downs and Enfield Town/Cheshunt (via Seven Sisters) after 22:45\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"DLR\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service from 08:00\",\"Normal finish times\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tfl Rail\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"East\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Saturday service\",\"Trains every 10 minutes\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"West\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Paddington-Heathrow Terminal 4 - Saturday service\",\"Trains every 30 minutes to stations between Paddington, Reading and Heathrow Terminal 4\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Trams\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Sunday service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dial-a-Ride\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No regular bookings\",\"Dial-a-Ride services are for registered members only\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"River\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Thames Clipper\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Woolwich Ferry\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"No service\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Emirates Air Line\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Running 09:00-21:00\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Taxi and Private Hire\"}",
+     "Until 06:00 on Thursday 2 January",
+     "{\"template\":\"bulletlist\",\"items\":[\"Black cabs will charge an extra £4 per journey\",\"There may be an extra charge for private hire vehicles (including minicabs) - check when you book\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Driving\"}",
+     "{\"template\":\"bulletlist\",\"items\":[\"The \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/congestion-charge\\\"\\u003eCongestion Charge\\u003c/a\\u003e does not apply today. Charges resume on Thursday 2 January\",\" \\u003ca href=\\\"https://tfl.gov.uk/modes/driving/ultra-low-emission-zone\\\"\\u003eULEZ charges\\u003c/a\\u003e apply today\",\"See our \\u003ca href=\\\"https://tfl.gov.uk/traffic/status/?Input=\\u0026lineIds=\\u0026dateTypeSelect=Future date\\u0026direction=\\u0026startDate=2020-01-01T00%3a00%3a00\\u0026endDate=2020-01-01T23%3a59%3a59\\\"\\u003etraffic status updates map\\u003c/a\\u003e for 1 January\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Other services\"}",
+     "All our other services are planned to run normally."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

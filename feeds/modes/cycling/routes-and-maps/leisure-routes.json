@@ -1,0 +1,174 @@
+{
+ "pageTitle": "Leisure routes",
+ "keywords": "Cyclists,Cycling,TfL",
+ "description": "Discover London's hidden gems with our cycle leisure routes",
+ "template": "page-cards",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Cycling",
+   "url": "/modes/cycling/index"
+  },
+  {
+   "title": "Routes and maps",
+   "url": "/modes/cycling/routes-and-maps"
+  },
+  {
+   "title": "Leisure routes"
+  }
+ ],
+ "title": {
+  "title": "Leisure routes",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [
+   {
+    "style": "card-top ",
+    "title": "Cycle the sights",
+    "texts": [
+     "See famous London attractions on our sightseeing route"
+    ],
+    "link": {
+     "url": "https://londonblog.tfl.gov.uk/2019/11/05/santander-cycles-sightseeing/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/queens-gallery.jpg"
+    },
+    "wrapped": false
+   }
+  ],
+  "cards": [
+   {
+    "title": "Scenic route in Dulwich Park",
+    "texts": [
+     "Trade the busy city for a peaceful ride through the park"
+    ],
+    "link": {
+     "url": "https://londonblog.tfl.gov.uk/2017/05/31/london-cycling-routes-dulwich-park-family-ride/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/dulwich-park_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Quirky London",
+    "texts": [
+     "Away from the tourist hotspots - discover the quirky side of the city"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/leisure-routes/quirky-london",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/neals-yard-quirky-london-cycling_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Saturday markets",
+    "texts": [
+     "Explore the city and stop off at Borough and Portobello Road market"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/leisure-routes/saturday-markets",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/portobello-road-sign-leisure-cycling_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "London's secret gardens",
+    "texts": [
+     "See a greener London in secret gardens, parks and squares"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/leisure-routes/londons-secret-gardens",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/gardens-leisure-cycling-route_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Sporting sights",
+    "texts": [
+     "Discover some of London's most famous sporting sights"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/leisure-routes/sporting-sights",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Independent shops and markets",
+    "texts": [
+     "Escape the busy high streets and visit independent shops and markets"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/leisure-routes/independent-shops-and-markets",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "London by cycle, boat and cable car",
+    "texts": [
+     "Make the most of an Explore London ticket with cycle routes along the Thames"
+    ],
+    "link": {
+     "url": "/modes/cycling/routes-and-maps/leisure-routes/route-ideas-for-explore-london-ticket-holders",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "title": "Routes on our cycle network",
+    "texts": [
+     "See cycle routes from Greenwich all the way to Lancaster Gate"
+    ],
+    "link": {
+     "url": "https://londonblog.tfl.gov.uk/2019/01/24/cycling-routes/",
+     "icon": "external",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

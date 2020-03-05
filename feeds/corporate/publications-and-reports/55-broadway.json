@@ -1,0 +1,59 @@
+{
+ "pageTitle": "55 Broadway",
+ "keywords": "B,TfL",
+ "description": "Archive plans for the redevelopment of 55 Broadway. These plans are not current",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Publications \u0026 reports",
+   "url": "/corporate/publications-and-reports/index"
+  },
+  {
+   "title": "55 Broadway"
+  }
+ ],
+ "title": {
+  "title": "55 Broadway",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"These documents relate to a previous plan for the redevelopment of 55 Broadway. They are not current.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Introduction to plans for 55 Broadway\",\"url\":\"/cdn/static/cms/documents/introduction-55broadway-plans.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.47MB\",\"image\":{}},{\"title\":\"Public Realm\",\"url\":\"/cdn/static/cms/documents/public-realm.pdf\",\"icon\":\"download\",\"size\":\"PDF 9.74MB\",\"image\":{}},{\"title\":\"Access and Retail\",\"url\":\"/cdn/static/cms/documents/access-and-retail.pdf\",\"icon\":\"download\",\"size\":\"PDF 11.22MB\",\"image\":{}},{\"title\":\"Broadway Residential Plans\",\"url\":\"/cdn/static/cms/documents/broadway-residential-plans.pdf\",\"icon\":\"download\",\"size\":\"PDF 15.38MB\",\"image\":{}},{\"title\":\"Wing-Over-Station, Sustainabiltiy, Construction and Contacts\",\"url\":\"/cdn/static/cms/documents/wing-over-station-sustainability-construction-contacts.pdf\",\"icon\":\"download\",\"size\":\"PDF 6.04MB\",\"image\":{}},{\"title\":\"Statement of community involvement\",\"url\":\"/cdn/static/cms/documents/statement-of-community-involvement-55-broadway.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.12MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

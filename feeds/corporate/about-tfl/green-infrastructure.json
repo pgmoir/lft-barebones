@@ -1,0 +1,102 @@
+{
+ "pageTitle": "Managing our green infrastructure",
+ "keywords": "TfL",
+ "description": "We manage our green infrastructure to help us make London's air cleaner and to increase biodiversity",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About TfL",
+   "url": "/corporate/about-tfl/index"
+  },
+  {
+   "title": "Air quality",
+   "url": "/corporate/about-tfl/air-quality"
+  },
+  {
+   "title": "Managing our green infrastructure"
+  }
+ ],
+ "title": {
+  "title": "Managing our green infrastructure",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"London's green infrastructure is the network of parks, green spaces, gardens, woodlands, rivers and wetlands (as well as features such as street trees and green roofs) that stretch across the city. We try to protect this feature while running reliable services and being a good neighbour.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "This feature is planned, designed and managed to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Promote healthier living\",\"Lessen the impacts of climate change\",\"Improve air quality and water quality\",\"Encourage walking and cycling\",\"Store carbon\",\"Improve biodiversity and ecological resilience\"]}",
+     "Biodiversity is an indicator of a healthy environment. With many plant and animal species under threat of extinction, biodiversity decreasing in the UK and globally.",
+     "TfL's green infrastructure forms corridors of woodland, street trees, scrub and grassland which are part of London's cultural heritage and act as a safe haven and dispersal route for plants and wildlife, including bats, badgers, reptiles and water voles. Our green infrastructure also helps to:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Provide shade and an attractive environment for people walking along our roads, helping us create \\u003ca href=\\\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\\\"\\u003eHealthy Streets\\u003c/a\\u003e for all\",\"Stabilise embankments\",\"Keep our assets cool so we can continue to operate an efficient service\",\"Reduce the risk of our networks flooding from heavy rainfall\",\"Improve the mental health and wellbeing of our staff and customers, as well as Londoners as a whole\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How we manage green infrastructure\"}",
+     "Our main focus when managing our green infrastructure is on safety - for our passengers, and for our staff and contractors. We do this by:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Regularly assessing the condition of trees - this is done by competent professional arboriculturists\",\"Removing trees if they are dead or diseased and before they can fall and disrupt services, damage property, or harm people. Replacement trees will be planted where they are appropriate\",\"Removing trees where subsidence has been proven and it is necessary to protect property or embankments from further damage\",\"Pruning vegetation to ensure signals and sightlines are clear for drivers\",\"Pruning vegetation that prevents vehicles or pedestrians from using the highway or track\"]}",
+     "We also explore opportunities to introduce green infrastructure as part of all projects. This helps us deliver on commitments in the \u003ca href=\"/corporate/about-tfl/the-mayors-transport-strategy\"\u003eMayor's Transport Strategy\u003c/a\u003e , and contributes towards the aims of the \u003ca href=\"https://www.london.gov.uk/what-we-do/environment/london-environment-strategy\"\u003eLondon Environment Strategy\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Street trees and verges\"}",
+     "We are committed to increasing the number of our street trees by 1% each year, and building a resilient tree population to benefit future generations.",
+     "Grass cutting or mowing regimes will vary depending on where you are on the network. We are also trying to \u003ca href=\"/travel-information/improvements-and-projects/managing-road-verges-for-wildlife\"\u003ereduce the number of times grass is cut\u003c/a\u003e in some areas to encourage wildflowers and pollinators.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Non-native invasive species and weed management\"}",
+     "Non-native invasive species and pests can cause a lot of damage to both our green infrastructure and transport infrastructure. For example, oak processionary moth caterpillars not only cause a risk to human and animal health, but can strip whole oak trees bare of leaves, while Japanese knotweed can damage structures like walls and roads.",
+     "We use several different methods (chemical and mechanical) to deal with weeds and non-native invasive species. We make sure that we follow the legal and Government guidelines that apply to any method we use.",
+     "We are looking for ways to reduce our use of herbicides. For example, we are trialling alternative/complementary methods across our operational networks to identify the method that represents best value for money with least environmental impact. We are also exploring how we can use integrated weed management techniques to improve performance"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Air quality",
+    "links": [
+     {
+      "title": "Air quality advice",
+      "url": "/corporate/about-tfl/air-quality-advice",
+      "image": {}
+     },
+     {
+      "title": "Managing our green infrastructure",
+      "url": "/corporate/about-tfl/green-infrastructure",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Air quality",
+     "url": "/corporate/about-tfl/green-infrastructure",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

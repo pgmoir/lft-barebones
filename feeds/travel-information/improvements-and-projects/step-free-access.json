@@ -35,17 +35,20 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We are improving accessibility on the Tube and London Overground by making more stations step-free.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Step-free access stations have lifts or ramps - or a combination of both - so that customers don't have to use escalators or stairs to move between the street and the platform. See our page on \u003ca href=\"/transport-accessibility/wheelchair-access-and-avoiding-stairs\"\u003ewheelchair access and avoiding stairs\u003c/a\u003e .",
-     "Currently 78 Tube stations, 58 London Overground stations and 9 TfL Rail stations have step-free access. All DLR stations are step-free.",
+     "Currently 79 Tube stations, 60 London Overground stations and 23 stations served by TfL Rail have step-free access. All DLR stations and tram stops are step-free.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Tube\"}",
-     "The most recent station to go step free is South Woodford in March 2019. Coming up are:\u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003e2019/20:\u003c/strong\u003e Amersham, Burnt Oak, Cockfosters, Debden, Hanger Lane, Harrow-on-the-Hill, Ickenham, Mill Hill East, Northolt, Osterley, Sudbury Hill and Wimbledon Park\u003cbr /\u003e\u003cstrong\u003e2021/22:\u003c/strong\u003e Bank (Northern line), Knightsbridge and Paddington (Bakerloo line)\u003cbr /\u003e\u003cstrong\u003e2023/24:\u003c/strong\u003e Boston Manor, Colindale, North Ealing, Park Royal, Rickmansworth, Ruislip and Snaresbrook",
+     "The most recent station to go step free is Mill Hill East in February 2020.",
+     "The next 11 Tube stations to become step-free later in 2020 are:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Cockfosters (spring)\",\"Amersham (summer)\",\"Ickenham (summer)\",\"Wimbledon Park (summer)\",\"Debden (summer)\",\"Osterley (summer)\",\"Hanger Lane (summer)\",\"Northolt (summer)\",\"Sudbury Hill (autumn)\",\"Harrow-on-the-Hill (autumn)\",\"Burnt Oak (winter)\"]}",
+     "Another eight Tube stations will be made step-free by spring 2024: Knightsbridge, Boston Manor, Colindale, North Ealing, Park Royal, Rickmansworth, Ruislip and Snaresbrook.",
      "In 2016 the Mayor of London, Sadiq Khan announced a programme that would take the total number of step-free Tube stations to over 100. By spring 2024 38% of the Tube network will be step-free - compared to 28% in 2018.",
      "Two new stations created as part of the \u003ca href=\"/travel-information/improvements-and-projects/northern-line-extension\"\u003eNorthern line extension\u003c/a\u003e - Nine Elms and Battersea Power Station - will also have step-free access.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Elizabeth line/TfL Rail\"}",
      "All stations on the \u003ca href=\"/travel-information/improvements-and-projects/elizabeth-line\"\u003eElizabeth line\u003c/a\u003e will have step-free access. This includes the new stations in central London (currently being built by Crossrail Ltd) and existing stations in east and west London, currently served by TfL Rail, that will become part of the line.",
-     "\u003cstrong\u003e2019/20:\u003c/strong\u003e Harold Wood, Gidea Park, Goodmayes, Burnham, Hanwell, Iver, Langley, Taplow\u003cbr /\u003e\u003cstrong\u003e2020/21:\u003c/strong\u003e Romford, Ilford, Acton Main Line, Ealing Broadway, West Ealing, Southall, Hayes \u0026 Harlington, West Drayton",
+     "\u003cstrong\u003e2020/21:\u003c/strong\u003e Acton Main Line, Ealing Broadway, Hanwell, Hayes \u0026 Harlington, Ilford, Iver, Romford, Southall, Taplow, West Ealing, West Drayton,Langley",
      " \u003ca href=\"/travel-information/improvements-and-projects/preparing-for-the-elizabeth-line\"\u003eFind out more about TfL Rail station improvements.\u003c/a\u003e ",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"London Overground\"}",
-     "\u003cstrong\u003e2019/20: \u003c/strong\u003e West Hampstead, White Hart Lane\u003cbr /\u003e\u003cstrong\u003e2020/21 onwards: \u003c/strong\u003e Brondesbury, Hackney Downs, Seven Sisters, Whitechapel",
+     "\u003cstrong\u003e2020/21 onwards: \u003c/strong\u003e Battersea Park, Brondesbury, Hackney Downs, Peckham Rye, Queen's Park, Seven Sisters, Whitechapel",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Platform to train access\"}",
      "Step-free access projects don't always create level access between the platform and the train. But any new trains introduced as part of our work to \u003ca href=\"/campaign/tube-improvements\"\u003eimprove the Tube\u003c/a\u003e should minimise the step and gap between platform and train.",
      "In some places we are also adding portable ramps that can be positioned by station staff or building platform humps - permanently raised areas on the platform. These help to ensure a full step-free route from street to train."
@@ -60,14 +63,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

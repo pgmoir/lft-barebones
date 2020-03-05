@@ -53,11 +53,11 @@
   <div class="main content-container" role="main">
     
       <div class="article-teaser">
-        Celebrating the women who work in the transport industry today. 
+        Celebrating some of the women who work in the transport industry today.
         
       </div>
     
-    
+    <div class="on-this-page">
       
       
            
@@ -1606,16 +1606,18 @@ Lauren has been with us since 2002 and has been Head of Analytics in Customer Ex
       
         
           
+            @this.ScriptBlock(
+              @<script>
+                queue.push("@Html.ScriptPath("modules/M020-on-this-page.min.js")", null);
+              </script>
+            )
+          
         
       
-    
+    </div>
   </div>
   <div class="aside" role="complementary">
-    
-    
-      <div class="share-widget-wrapper"></div>
-    
-    
+
    
     
     
@@ -1625,15 +1627,6 @@ Lauren has been with us since 2002 and has been Head of Analytics in Customer Ex
         
 <div id="right-hand-nav" class="expandable-list moving-source-order" role="navigation" aria-labelledby="sub-menu-heading">
         
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1809,7 +1802,7 @@ Lauren has been with us since 2002 and has been Head of Analytics in Customer Ex
         
         
         
-            @{ViewBag.Description = "Celebrating the women who work in the transport industry today. ";}
+            @{ViewBag.Description = "Celebrating some of the women who work in the transport industry today.";}
         
             
         

@@ -1,0 +1,71 @@
+{
+ "pageTitle": "Making the most of Dial-a-Ride",
+ "keywords": "TfL",
+ "description": "How to make the most of TfL's Dial-a-Ride service",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Dial-a-Ride",
+   "url": "/modes/dial-a-ride/index"
+  },
+  {
+   "title": "Making the most of Dial-a-Ride"
+  }
+ ],
+ "title": {
+  "title": "Making the most of Dial-a-Ride",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Tips for booking, timing and travelling.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "Dial-a-Ride works better for certain types of journey.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Keep your journey local\"}",
+     "We prioritise local journeys so that we can provide as many short, but essential, journeys as possible for our members, such as to the doctor, dentist and local shops.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Be flexible about the time\"}",
+     "It is more likely that we will be able to find a space in our schedules for your journey if you can give us as many different times to choose from as possible. For example, asking for a local journey anytime in the morning or anytime in the afternoon will increase your chances of success.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Book the day before\"}",
+     "Dial-a-Ride works best when you make next day bookings. If you request a journey on the day itself, the schedules are likely to be full from the previous day's booking requests and your success will depend on any cancellations we receive overnight.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Be prepared for a slower journey\"}",
+     "Dial-a-Ride usually provides a shared journey on a minibus, with other passengers who may be dropped off at destinations on the way to your own. This means our journeys will usually take longer than if you were going on your own in a private car or a taxi.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"If you need extra help\"}",
+     "Because Dial-a-Ride provides shared journeys, passengers can be left unattended in a vehicle for up to 10 minutes with the door open while the driver is helping another person to or from the vehicle. If you need to be accompanied at all times - for example, because you experience confusion, memory loss, or you potentially need essential personal care whilst travelling - you will need to be accompanied by someone over the age of 18 who can act as your escort.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Using other services\"}",
+     "There are other door-to-door services available for hospital appointments, for school transport for under 18s and for local authority-provided day care services, so Dial-a-Ride does not provide transport for these purposes."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

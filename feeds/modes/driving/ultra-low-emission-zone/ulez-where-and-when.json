@@ -36,19 +36,21 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The Ultra Low Emission Zone (ULEZ) replaced the T-Charge on 8 April 2019. It operates 24 hours a day, 7 days a week, every day of the year, within the same area as the Congestion Charge zone.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"The Ultra Low Emission Zone (ULEZ) replaced the T-Charge on 8 April 2019. It operates 24 hours a day, 7 days a week, every day of the year (except Christmas Day), within the same area as the Congestion Charge zone.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Postcode and map search\"}",
+     "Enter a postcode to see if it's inside one or more of the charging zones. Results will not be displayed on the map.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where it operates\"}",
-     "Enter a street name, postcode or landmark in the search box to see it in comparison to the zones. To pinpoint if an address is inside or outside the zones, use the postcode checker below the map. Open the map menu to also check the LEZ zone.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Search\"}",
-     "Go to postcode checker at the bottom of the page",
+     "Enter a street name, postcode or landmark in the search box to see its location in relation to the charging zones.",
+     "View zones to show/hide their areas.",
+     "To see if an address is inside or outside the zones, use the postcode search instead.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Map search\"}",
+     "Go to postcode checker at the top of the page",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charging times\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Congestion Charge: No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day and New Year's Day\",\"ULEZ and LEZ: Operate midnight to midnight, every day of the year\"]}",
-     "Find out more about paying the \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003eCongestion Charge\u003c/a\u003e , \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-payments\"\u003eULEZ\u003c/a\u003e and \u003ca href=\"/modes/driving/low-emission-zone/make-a-payment\"\u003eLEZ\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eCongestion Charge:\\u003c/strong\\u003e No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day and New Year's Day\",\"\\u003cstrong\\u003eULEZ:\\u003c/strong\\u003e Operates midnight to midnight, every day of the year, except Christmas Day (25 December)\",\"\\u003cstrong\\u003eLEZ:\\u003c/strong\\u003e Operates midnight to midnight, every day of the year\",\"\\u003cstrong\\u003eDirect Vision Standard (DVS) and HGV Safety Permit:\\u003c/strong\\u003e Operates at all times for lorries over 12 tonnes gross vehicle weight\"]}",
+     "Find out more about paying the \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003eCongestion Charge\u003c/a\u003e , \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-payments\"\u003eULEZ\u003c/a\u003e and \u003ca href=\"/modes/driving/low-emission-zone/make-a-payment\"\u003eLEZ\u003c/a\u003e , and learn more about \u003ca href=\"https://turing.online.tfl.gov.uk/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles\"\u003eDVS\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Download maps\"}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Postcode search\"}",
-     "Our postcode checker can tell you if an address is in the ULEZ/Congestion Charge charging zone. (These results will not show on the map above).",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Journey planning\"}",
      "Third-party organisations such as \u003ca href=\"https://www.waze.com/en-GB/\"\u003eWAZE\u003c/a\u003e , a community-based GPS traffic and navigation app, can alert drivers if their planned route goes through the ULEZ area. Drivers can also indicate in that app if their vehicles meet the ULEZ standards.",
      "Anyone using apps such as WAZE does so at their own risk. Other organisations may have similar ULEZ apps - we do not endorse or recommend any specific ones. Check back here for updates.",
@@ -61,13 +63,13 @@
      "The ULEZ daily charge is:",
      "{\"template\":\"bulletlist\",\"items\":[\"£12.50 for most vehicle types, including cars, motorcycles and vans (up to and including 3.5 tonnes)\",\"£100 for heavier vehicles, including lorries (over 3.5 tonnes) and buses/coaches (over 5 tonnes)\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"A change from LEZ standards\"}",
-     "If you drive a lorry, van, bus, minibus or other specialist vehicle and it currently meets the London-wide LEZ emissions standards,\u003cstrong\u003eit may not meet the new ULEZ standards for central London\u003c/strong\u003e .",
+     "If you drive a lorry, van, bus, minibus or other specialist vehicle and it currently meets the London-wide LEZ emissions standards,\u003cstrong\u003eit may not meet the ULEZ standards for central London\u003c/strong\u003e .",
      "\u003cstrong\u003eFrom 26 October 2020 \u003c/strong\u003e ",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Non-UK registered vehicles\"}",
      "Owners of non-UK registered vehicles must also pay the ULEZ charge to drive within the zone if they do not meet the emissions standards.",
      "Our vehicle checker holds information on many vehicles registered outside the UK. If we don't hold your vehicle's details you will get the option to submit a copy of your vehicle's registration document showing the Euro standard it was manufactured to.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"ULEZ expansion - October 2021\"}",
-     "From 25 October 2021 the ULEZ boundary will be extended to create a single larger zone bounded by the North and South Circular Roads. If you are driving any petrol or diesel vehicle within this enlarged area you will also need to meet new tighter emissions standards or pay a daily charge.",
+     "From 25 October 2021 the ULEZ boundary will be extended to create a single larger zone bounded by the North and South Circular Roads. If you are driving any petrol or diesel vehicle within the expansion you will also need to meet the tighter emissions standards or pay a daily charge.",
      "This daily charge is in addition to the weekday Congestion Charge if you drive in central London as well.",
      "Vehicles using the North and South Circular Roads and not going into the ULEZ will not be charged.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"ULEZ boundary map from 26 October 2021\",\"url\":\"/ruc-cdn/static/cms/documents/ulez-boundary-map-from-25-october-2021.pdf\",\"icon\":\"download\",\"size\":\"PDF 179KB\",\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/ulez-boundary-2021-thumb.jpg\",\"alt\":\"thumbnail of ulez boundary map - 2021\"}},{\"title\":\"ULEZ boundary map from 26 October 2021 - with local detail\",\"url\":\"/ruc-cdn/static/cms/documents/ulez-boundary-2021-map-local-detail.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.42MB\",\"image\":{\"url\":\"https://tfl.gov.uk/ruc-cdn/static/cms/images/ulez-boundary-map-local-detail.jpg\",\"alt\":\"detail of ulez boundary map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -146,8 +148,18 @@
       "image": {}
      },
      {
-      "title": "Scrappage scheme",
+      "title": "Scrappage scheme for vans and minibuses",
       "url": "/modes/driving/ultra-low-emission-zone/scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/modes/driving/ultra-low-emission-zone/car-and-motorcycle-scrappage-scheme",
+      "image": {}
+     },
+     {
+      "title": "Organisations supporting ULEZ scrappage schemes",
+      "url": "/modes/driving/ultra-low-emission-zone/organisations-supporting-ulez-scrappage-schemes",
       "image": {}
      },
      {

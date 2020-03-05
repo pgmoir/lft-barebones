@@ -35,8 +35,10 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We produce a quarterly bulletin of crime and incident statistics which provides a summary of crime and antisocial behaviour on our services.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "The bulletin focuses on the London bus network, London Underground, Docklands Light Railway and our London Overground service.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2019/20 documents\"}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2019/20 Crime and antisocial behaviour bulletin Q2\",\"url\":\"/cdn/static/cms/documents/quarterly-crime-bulletin-q2.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.76MB\",\"image\":{}},{\"title\":\"2019/20 Crime and antisocial behaviour bulletin Q1\",\"url\":\"/cdn/static/cms/documents/tfl-crime-and-antisocial-behaviour-bulletin-q1-1920.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.08MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2018/19 documents\"}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Crime statistics bulletin 2018/19\",\"url\":\"/cdn/static/cms/documents/crime-statistics-bulletin-1819.pdf\",\"icon\":\"download\",\"size\":\"PDF 318KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q4\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q41819.pdf\",\"icon\":\"download\",\"size\":\"PDF 300KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q3\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q31819.pdf\",\"icon\":\"download\",\"size\":\"PDF 345KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q2\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q21819.pdf\",\"icon\":\"download\",\"size\":\"PDF 337KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q1\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q11819.pdf\",\"icon\":\"download\",\"size\":\"PDF 226KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2019/20 Crime and antisocial behaviour bulletin Q1\",\"url\":\"/cdn/static/cms/documents/tfl-crime-and-antisocial-behaviour-bulletin-q1-1920.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.08MB\",\"image\":{}},{\"title\":\"Crime statistics bulletin 2018/19\",\"url\":\"/cdn/static/cms/documents/crime-statistics-bulletin-1819.pdf\",\"icon\":\"download\",\"size\":\"PDF 318KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q4\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q41819.pdf\",\"icon\":\"download\",\"size\":\"PDF 300KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q3\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q31819.pdf\",\"icon\":\"download\",\"size\":\"PDF 345KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q2\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q21819.pdf\",\"icon\":\"download\",\"size\":\"PDF 337KB\",\"image\":{}},{\"title\":\"2018/19 Crime and antisocial behaviour bulletin Q1\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q11819.pdf\",\"icon\":\"download\",\"size\":\"PDF 226KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2017/18 documents\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Crime statistics bulletin 2017/18\",\"url\":\"/cdn/static/cms/documents/crime-statistics-bulletin-1718.pdf\",\"icon\":\"download\",\"size\":\"PDF 257KB\",\"image\":{}},{\"title\":\"2017/18 Crime and antisocial behaviour bulletin Q4\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q41718.pdf\",\"icon\":\"download\",\"size\":\"PDF 501KB\",\"image\":{}},{\"title\":\"2017/18 Crime and antisocial behaviour bulletin Q3\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q31718.pdf\",\"icon\":\"download\",\"size\":\"PDF 218KB\",\"image\":{}},{\"title\":\"2017/18 Crime and antisocial behaviour bulletin Q2\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q21718.pdf\",\"icon\":\"download\",\"size\":\"PDF 122KB\",\"image\":{}},{\"title\":\"2017/18 Crime and antisocial behaviour bulletin Q1\",\"url\":\"/cdn/static/cms/documents/crime-and-antisocial-behaviour-bulletin-q11718.pdf\",\"icon\":\"download\",\"size\":\"PDF 470KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"2016/17 documents\"}",
@@ -62,14 +64,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

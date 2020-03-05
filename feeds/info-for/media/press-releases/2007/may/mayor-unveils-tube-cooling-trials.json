@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Mayor unveils Tube cooling trials",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Mayor unveils Tube cooling trials",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,75 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "Mayor Ken Livingstone today unveiled a number of trials to be introduced by London Underground (LU) to cool the tube network.",
+     "Cooling the Tube is a major and long-term engineering challenge",
+     "New measures for this summer include the first full-scale trial of the award-winning groundwater cooling project at Victoria Tube station.",
+     "The programme will also trial a new 'bore hole' cooling technology at Stockwell station and new air-cooled trains, as well as more investment in tried and tested technologies.",
+     "As part of its £10bn Investment Programme, Transport for London is investing over £150m in reducing summer heat on the Tube.\u003cbr /\u003e\u003cbr /\u003eThe Mayor and LU highlighted that the investment will take years, not months, to have a major impact.",
+     "Mayor of London, Ken Livingstone, said: \"London's Tube network is the oldest in the world and its design makes cooling the system extremely difficult.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Hot weather\"}",
+     "\"Transport for London is pushing forward a programme to tackle the problem of heat on the Tube, after the decades of underinvestment.",
+     "\"This will take years, not months, to deliver results.",
+     "\"In the meantime, there will inevitably be times when the Tube is hot and uncomfortable, but we are doing everything possible to tackle the problem in the short-term as well as funding long-term solutions.\"",
+     "LU Managing Director, Tim O'Toole, said: \"Cooling the Tube is a major and long-term engineering challenge, but we are also trying out short-term measures to help tackle the heat now.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Continue testing\"}",
+     "\"This summer, a special engineering team will continue testing a new way of cooling the Tube, using cold water from an underground river, at Victoria station.",
+     "\"A large number of station ventilation fans which had previously been allowed to fall into disrepair have been brought back into service, and portable industrial fans will be trialled in two stations.",
+     "\"As in previous summers, London Underground will be providing hot weather advice to passengers.",
+     "\"Carry a bottle of water with you and, if you are feeling unwell, contact a member of station staff who will be able to help.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Investigating solutions\"}",
+     "\"Water will be available to passengers if it is needed.\"",
+     "Cooling the Tube is not just a question of getting heat off the trains, it is also about getting heat out of the system.",
+     "Every day, 30 million litres of water are pumped out of the Tube network and LU is actively investigating solutions that utilise this sustainable source of cooling.",
+     "The groundwater trial at Victoria station will continue throughout 2007 and, if the trial continues to provide good results, has the potential to be rolled out to a number of other stations on the Tube network.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cooling benefits\"}",
+     "Later this year, work will start on a trial at Stockwell station that will involve drilling a bore hole to the water aquifer below London where cold water will be extracted and used via a heat exchanger to cool warm air.",
+     "The warmed water will then be returned to the aquifer.",
+     "LU has also been working with Tube Lines and Metronet to upgrade the existing station ventilation fan network.",
+     "This programme of works has brought 50 fans, which had been allowed to fall into disrepair, back into operation - doubling the capacity of the fan network and providing cooling benefits at a number of stations across the network.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Air circulation\"}",
+     "Temporary portable industrial fans will be trialled at Seven Sisters and Chancery Lane stations this summer to increase air circulation and if successful will be rolled out to a number of stations in 2008.",
+     "A new mechanical chiller is being installed at Oxford Circus station that will provide cooling direct to the main ticket hall with designs being advanced for chillers at Euston and Waterloo stations.",
+     "A new ventilation shaft is being installed at Liverpool Street station to extract warm air, while a condenser unit at Charing Cross will redirect heat to outside, rather than within, the station as is currently the case.",
+     "At Holland Park, works are taking place to extend the existing ventilation shaft and increase natural station ventilation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Improved ventilation\"}",
+     "In the longer-term, new trains for the sub-surface lines (Circle, District, Hammersmith \u0026 City and Metropolitan) will come with air-cooling.",
+     "The first air-cooled trains are due to arrive in January 2010.",
+     "Refurbished District line trains are also now benefiting from improved ventilation.",
+     "The new Victoria line trains, which will enter service from 2009, will also have improved ventilation.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Carry water\"}",
+     "This summer London Underground will again be issuing its tips to passengers on how to try and \"Stay Cool' on the network.",
+     "Posters will be displayed at all stations bearing the following advice.",
+     "Announcements will also be made at stations:",
+     "\"Here are a few tips for keeping comfortable in hot weather:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Carry water with you\",\"Don't board a train if you feel unwell\",\"If you feel unwell please get off at the next stop and seek help from our staff\",\"Avoid pulling the passenger alarm between stations\\\"\\u003cbr /\\u003e\"]}",
+     "\u003cstrong\u003eNotes to editors:\u003c/strong\u003e \u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is investing £10bn to meet London's transport needs, now and in future\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

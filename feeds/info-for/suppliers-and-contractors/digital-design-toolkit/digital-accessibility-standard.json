@@ -56,7 +56,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Operable\"}",
      "Interface components and navigation elements must be operable.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Overview\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Core functionality must not rely on JavaScript\",\"Content must be keyboard accessible (access keys are useful, but be aware of usage to avoid browser conflicts)\",\"Users must be able to control automatically updated content (e.g. pause, stop or hide)\",\"Avoid flashing content - moving, blinking and scrolling content must not last more than five seconds or flash more than three times per second\",\"Use skip links to bypass repeated navigation elements (e.g. skip to content)\",\"Frames must be titled\",\"Pages must have descriptive titles\",\"A logical tab order for links and form elements must be provided\",\"Links must be meaningful and easy to understand (e.g. use descriptive links, not 'click here')\",\"Use meaningful labels for form and heading elements (e.g. use descriptive headings, not 'more information')\",\"Ensure the order of navigation links and form elements etc. is logical, and it is visually apparent where the current keyboard focus is\"]}",
+     "{\"template\":\"bulletlist\",\"items\":[\"Content must be keyboard accessible (access keys are useful, but be aware of usage to avoid browser conflicts)\",\"Users must be able to control automatically updated content (e.g. pause, stop or hide)\",\"Avoid flashing content - moving, blinking and scrolling content must not last more than five seconds or flash more than three times per second\",\"Use skip links to bypass repeated navigation elements (e.g. skip to content)\",\"Frames must be titled\",\"Pages must have descriptive titles\",\"A logical tab order for links and form elements must be provided\",\"Links must be meaningful and easy to understand (e.g. use descriptive links, not 'click here')\",\"Use meaningful labels for form and heading elements (e.g. use descriptive headings, not 'more information')\",\"Ensure the order of navigation links and form elements etc. is logical, and it is visually apparent where the current keyboard focus is\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Understandable\"}",
      "All content must be easy to understood, both in terms of the language and the way the user interface operates.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Overview\"}",
@@ -82,14 +82,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Suppliers \u0026 contractors",
@@ -112,6 +104,11 @@
      {
       "title": "What we buy",
       "url": "/info-for/suppliers-and-contractors/what-we-buy",
+      "image": {}
+     },
+     {
+      "title": "Engineering Standards Challenge",
+      "url": "/info-for/suppliers-and-contractors/engineering-standards-challenge",
       "image": {}
      },
      {
@@ -165,11 +162,6 @@
       "image": {}
      },
      {
-      "title": "Health, safety \u0026 environment",
-      "url": "/info-for/suppliers-and-contractors/health-safety-environment",
-      "image": {}
-     },
-     {
       "title": "Design standards \u0026 licensing",
       "url": "/info-for/suppliers-and-contractors/design-standards-and-licensing",
       "image": {}
@@ -185,14 +177,29 @@
       "image": {}
      },
      {
+      "title": "LU Supplier Handbook",
+      "url": "/info-for/suppliers-and-contractors/supplier-handbook",
+      "image": {}
+     },
+     {
+      "title": "Traffic management",
+      "url": "/info-for/suppliers-and-contractors/traffic-management",
+      "image": {}
+     },
+     {
       "title": "TfL Supplier Awards",
       "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+      "image": {}
+     },
+     {
+      "title": "Zero Harm Forum",
+      "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
       "image": {}
      }
     ],
     "link": {
      "title": "Suppliers \u0026 contractors",
-     "url": "/info-for/suppliers-and-contractors/tfl-supplier-awards",
+     "url": "/info-for/suppliers-and-contractors/zero-harm-forum",
      "image": {}
     },
     "image": {},

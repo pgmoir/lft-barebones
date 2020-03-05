@@ -46,7 +46,8 @@
      "\u003cstrong\u003eCharging Day\u003c/strong\u003e for the Congestion Charge - means every day of the year (between 07:00 and 18:00) except:",
      "{\"template\":\"bulletlist\"}",
      "{\"template\":\"bulletlist\",\"items\":[\"Public and bank holidays in England and Wales\",\"A Saturday or a Sunday\",\"All charging days between Christmas Day and New Year's Day (inclusive)\"]}",
-     "\u003cstrong\u003eCharging Day\u003c/strong\u003e for the Low Emission Zone Charge and the Ultra Low Emission Zone Charge means every day of the year.",
+     "\u003cstrong\u003eCharging Day\u003c/strong\u003e ",
+     "{\"template\":\"bulletlist\",\"items\":[\"For the Low Emission Zone Charge means every day of the year\",\"For the Ultra Low Emission Zone Charge means every day of the year except Christmas Day (25 December)\"]}",
      "\u003cstrong\u003eCharge\u003c/strong\u003e - means (as applicable) any of the following:",
      "{\"template\":\"bulletlist\",\"items\":[\"Congestion Charge (CC) and Emissions Surcharge (ES) as payable under Articles 4 and 6 of the Congestion Charging Scheme Order, or\",\"Low Emission Zone (LEZ) Charge and Ultra Low Emission Zone (ULEZ) Charge as payable under Article 7 of the ULEZ -LEZ Charging Scheme\"]}",
      "\u003cstrong\u003eCongestion Charging Scheme\u003c/strong\u003e - means the Charging Scheme in the Schedule to the Greater London (Central Zone) Congestion Charging Order 2004, as varied.",
@@ -741,14 +742,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Terms \u0026 conditions",
@@ -814,11 +807,6 @@
       "image": {}
      },
      {
-      "title": "Technology Innovation Portal",
-      "url": "/corporate/terms-and-conditions/technology-innovation-portal",
-      "image": {}
-     },
-     {
       "title": "TfL call charges",
       "url": "/corporate/terms-and-conditions/tfl-call-charges",
       "image": {}
@@ -857,11 +845,21 @@
       "title": "DLR Discovery",
       "url": "/corporate/terms-and-conditions/dlr-discovery",
       "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and Safety Permit for HGVs",
+      "url": "/corporate/terms-and-conditions/direct-vision-standard-and-safety-permit-for-hgvs",
+      "image": {}
+     },
+     {
+      "title": "ULEZ Car and motorcycle scrappage scheme",
+      "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
+      "image": {}
      }
     ],
     "link": {
      "title": "Terms \u0026 conditions",
-     "url": "/corporate/terms-and-conditions/dlr-discovery",
+     "url": "/corporate/terms-and-conditions/car-and-motorcycle-scrappage-scheme",
      "image": {}
     },
     "image": {},

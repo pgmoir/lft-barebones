@@ -1,0 +1,90 @@
+{
+ "pageTitle": "International visits",
+ "keywords": "TfL",
+ "description": "Request a knowledge-sharing corporate visit to Transport for London",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Business \u0026 commercial",
+   "url": "/info-for/business-and-commercial/index"
+  },
+  {
+   "title": "Commercial consulting \u0026 international operations",
+   "url": "/info-for/business-and-commercial/commercial-consulting"
+  },
+  {
+   "title": "International visits"
+  }
+ ],
+ "title": {
+  "title": "International visits",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Every year we host hundreds of visits from delegations around the world wanting to exchange knowledge, or to learn from our experience of managing transport in London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Requesting a visit\"}",
+     "We are keen to support the sharing of information to improve public transport worldwide, but we have to balance the time required for a successful visit with the limitations on our resources, business priorities, and our primary focus on keeping London moving.",
+     "We assess every visit request on a case by case basis.",
+     "Make sure to plan ahead. We receive lots of requests and we need at least two months' notice of the proposed date of your visit.",
+     "We are very unlikely to accept a request with less than two months' notice and you may not get a reply from us.",
+     "To request a visit, email us at \u003ca href=\"mailto:visitrequests@tfl.gov.uk\"\u003evisitrequests@tfl.gov.uk\u003c/a\u003e .",
+     "We'll send you a visitor questionnaire to complete. We will review your questionnaire and then confirm whether we can accept your request.",
+     "We aim to respond to all completed questionnaires within 20 working days.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Commercial consulting and international operations\"}",
+     "We also offer \u003ca href=\"/info-for/business-and-commercial/commercial-consulting\"\u003ecommercial consulting\u003c/a\u003e . We apply our experience in planning and running one of the world's most integrated transport systems to help cities across the world develop, grow and thrive."
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

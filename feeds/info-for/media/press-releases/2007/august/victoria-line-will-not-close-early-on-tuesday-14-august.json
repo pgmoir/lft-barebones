@@ -1,7 +1,9 @@
 {
+ "pageTitle": "Victoria line will not close early on Tuesday 14 August",
  "template": "page-content",
  "breadcrumbs": null,
  "title": {
+  "title": "Victoria line will not close early on Tuesday 14 August ",
   "card": {
    "link": {
     "image": {}
@@ -11,10 +13,37 @@
   }
  },
  "body": {
-  "primarys": null,
-  "cards": null
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "The evening early closure of the Victoria line will not take place tomorrow due to an evening football match taking place at Tottenham Hotspur.",
+     "Similarly, the evening early closures on 27 and 29th August and 1 October are also suspended.",
+     "LU advises passengers to check before travelling via the following options:",
+     "{\"template\":\"bulletlist\",\"items\":[\"The TfL website: \\u003ca href=\\\"http://www.tfl.gov.uk/tubeworks\\\"\\u003ewww.tfl.gov.uk/tubeworks\\u003c/a\\u003e \",\"The London Travel Info 24hrs telephone helpline: 020 7222 1234\",\"BBC Ceefax, page 436, or ITV's Teletext, page 164\",\"Information on posters, leaflets and \\\"Good Service\\\" boards at Tube stations\"]}",
+     "\u003cstrong\u003eNotes to Editors:\u003c/strong\u003e \u003cbr /\u003e",
+     "{\"template\":\"bulletlist\",\"items\":[\"TfL is investing £10 billion to improve and expand London's transport network, over half of that of being spent on the Tube\",\"Tube Lines is responsible for the maintenance and renewal of Jubilee, Northern and Piccadilly lines\",\"Metronet Rail BCV is responsible for the maintenance and renewal of the Bakerloo, Central, Victoria and Waterloo \\u0026 City lines and\",\"Metronet Rail SSL is responsible for the maintenance and renewal of the sub surface lines - the Circle, District, Hammersmith \\u0026 City, Metropolitan and East London lines\",\"Metronet Rail BCV and SSL are now in administration. London Underground is working closely with the administrators, Ernst \\u0026 Young, to ensure all necessary maintenance and renewal works continue\"]}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  },
  "rhnav": {
-  "cards": null
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
  }
 }

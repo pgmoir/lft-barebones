@@ -1,5 +1,5 @@
 {
- "pageTitle": "Transport \u0026 health",
+ "pageTitle": "Transport and health",
  "keywords": "Businesses,Planning and construction,TfL",
  "description": "Boosting public transport means boosting public health",
  "template": "page-content",
@@ -18,11 +18,11 @@
    "url": "/corporate/about-tfl/corporate-and-social-responsibility"
   },
   {
-   "title": "Transport \u0026 health"
+   "title": "Transport and health"
   }
  ],
  "title": {
-  "title": "Transport \u0026 health",
+  "title": "Transport and health",
   "card": {
    "link": {
     "image": {}
@@ -48,22 +48,29 @@
      "Every year in London people are injured or even killed by collisions on the road. We want to stop this happening. By 2041, we want no one to be killed or seriously injured on London's roads. Find out more about our \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eVision Zero for London\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Noise\"}",
      "Noise pollution in London can stop people sleeping, make them stressed and anxious and make it harder to concentrate at work or school. Noise also makes our streets less pleasant for walking and cycling. We want more people to walk and cycle, and to use quieter cars at lower speeds.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Access to services\"}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Access to services and community support\"}",
      "Londoners use the transport system - from walking on the streets, using buses and the Tube to driving on the roads - to get to work, school, shops, and healthcare, as well as to see family and friends and get out and about for fun. We need all these things for a healthy, happy life.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Climate change\"}",
+     "Climate change presents a direct threat to Londoners' health in the form of weather events such as heat, cold, storms and flooding, as well as an indirect threat from the disruption that these events could cause to health and social care services.",
+     "We are working to reduce carbon emissions from the transport system by encouraging people to walk, cycle and use public transport wherever possible, as well as ensuring the transport network is resilient to extreme weather events.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Healthy Streets\"}",
      "Led by the Mayor of London, we are taking the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/healthy-streets\"\u003eHealthy Streets Approach\u003c/a\u003e to encourage more Londoners to walk, cycle and use public transport. This will help us improve air quality, reduce congestion and make London's diverse communities greener, healthier and more attractive places in which to live, play and do business.",
      "The Mayor's Transport Stategy is built around the Healthy Streets Approach. The Approach is also used in the \u003ca href=\"https://www.london.gov.uk/what-we-do/health/health-inequalities-strategy\"\u003eMayor's Health Inequalities Strategy\u003c/a\u003e .",
      "Find out more about the options in London for:",
      "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/modes/cycling/index\\\"\\u003eCycling\\u003c/a\\u003e \",\" \\u003ca href=\\\"/modes/walking/index\\\"\\u003eWalking\\u003c/a\\u003e \"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Active people\"}",
+     "Our Strategic active people analysis makes the case for more investment to support Londoners to achieve the 20 minutes of active travel a day recommended for health.",
+     "It draws on the \u003ca href=\"/corporate/about-tfl/how-we-work/planning-for-the-future/encouraging-cycling-and-walking\"\u003eStrategic walking analysis\u003c/a\u003e and \u003ca href=\"/corporate/publications-and-reports/cycling\"\u003eStrategic cyling analysis\u003c/a\u003e to identify where to invest and describes Londoners who are most likely to switch to more active ways of travel in the short term.",
+     "The report also sets out how findings in the \u003ca href=\"/corporate/publications-and-reports/cycling-and-walking\"\u003eActive people debrief\u003c/a\u003e can be used to encourage Londoners to fit 20 minutes of active travel into their daily lives.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Strategic active people analysis\",\"url\":\"/cdn/static/cms/documents/strategic-active-people-analysis.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.24MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Economic benefits of healthy transport\"}",
      "We have guidance, case studies and research showing how getting more people walking and cycling is good for the economy. See more on the \u003ca href=\"/corporate/publications-and-reports/economic-benefits-of-walking-and-cycling\"\u003eEconomic benefits of walking and cycling page\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transport planning for healthcare\"}",
-     "The London healthcare sector accounts for around one million trips daily. We work with the NHS and other healthcare organisations in London to help them plan their transport-related needs.",
-     "We can do this by:",
-     "{\"template\":\"bulletlist\",\"items\":[\"Meeting with project managers\",\"Giving advice on data modelling, journey time calculation and bus planning\",\"Giving data from our Health Service Travel Analysis Tool (H-STAT)\"]}",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Travel and transport analysis for the NHS\",\"url\":\"/cdn/static/cms/documents/travel-and-transport-analysis-in-the-nhs.pdf\",\"icon\":\"download\",\"size\":\"PDF 650KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "In cooperation with the NHS we produced a best practice guide on how the NHS can help patients access healthcare by public transport, and promote a healthy lifestyle with sustainable and active travel.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Transport planning for healthier lifestyles - a best practice guide\",\"url\":\"/cdn/static/cms/documents/tfls-healthier-lifestyles-best-practice-guide.pdf\",\"icon\":\"download\",\"size\":\"PDF 2.93MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Transport for health and social care\"}",
+     "The London healthcare sector accounts for around one million trips daily. We work with the NHS and other health and social care organisations in London to help them bring the health, wellbeing and air quality benefits of active and sustainable travel to staff, patients and visitors. We also offer tools to support travel planning.",
+     "We have gathered together a series of case studies to show how the NHS can support patients, staff and visitors to switch to more active and sustainable travel options, as well as other actions they can take to help reduce carbon emissions and improve London's air quality.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Social prescribing: Encouraging walking or cycling as part of a journey\",\"url\":\"/cdn/static/cms/documents/20-minute-challenge-case-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 399KB\",\"image\":{}},{\"title\":\"Great Ormond Street Hospital Trust: Clean Air Hospital Framework\",\"url\":\"/cdn/static/cms/documents/gosh-cahf-case-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 242KB\",\"image\":{}},{\"title\":\"Guy's and St Thomas' Trust: Off-site freight consolidation\",\"url\":\"/cdn/static/cms/documents/guys-and-st-thomas-hospital-case-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 228KB\",\"image\":{}},{\"title\":\"Guy's and St Thomas' Trust: Pathology deliveries by cargo bike\",\"url\":\"/cdn/static/cms/documents/bikes-for-business-guys-case-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 221KB\",\"image\":{}},{\"title\":\"The NHS at the Greater London Authority Fleet Forum\",\"url\":\"/cdn/static/cms/documents/gla-fleet-forum-case-study.pdf\",\"icon\":\"download\",\"size\":\"PDF 212KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "NHS organisations that need support with travel planning can use our freely available \u003ca href=\"https://tfl.gov.uk/info-for/urban-planning-and-construction/planning-with-webcat/webcat\"\u003eWebCAT planning tool\u003c/a\u003e . The tool uses the same analysis tools that were previously provided by HSTAT.",
+     "Get more information and guidance by emailing \u003ca href=\"mailto:WebCAT@tfl.gov.uk\"\u003eWebCAT@tfl.gov.uk\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Health action plan 2014\"}",
      "Before the current Mayor's Transport Strategy we produced a 3-year Health action plan in 2014. Here we wrote about main connections between transport and health and outlined the work we were doing to improve the health of Londoners. Three annual progress reports were also produced.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Improving the health of Londoners\",\"url\":\"/cdn/static/cms/documents/improving-the-health-of-londoners-transport-action-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.04MB\",\"image\":{}},{\"title\":\"Improving the health of Londoners - Executive summary\",\"url\":\"/cdn/static/cms/documents/executive-summary-improving-the-health-of-londoners-transport-action-plan.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.16MB\",\"image\":{}},{\"title\":\"Improving the health of Londoners - year 1 progress report\",\"url\":\"/cdn/static/cms/documents/improving-the-health-of-londoners-transport-action-plan-year-1-progress-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 739KB\",\"image\":{}},{\"title\":\"Improving the health of Londoners - year 2 progress report\",\"url\":\"/cdn/static/cms/documents/improving-the-health-of-londoners-transport-action-plan-year-2-progress-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 561KB\",\"image\":{}},{\"title\":\"Improving the health of Londoners - year 3 progress report\",\"url\":\"/cdn/static/cms/documents/improving-the-health-of-londoners-transport-action-plan-year-three-progress-report.pdf\",\"icon\":\"download\",\"size\":\"PDF 658KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -81,14 +88,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Corporate social responsibility",
@@ -99,19 +98,24 @@
       "image": {}
      },
      {
-      "title": "Equality \u0026 inclusion",
+      "title": "Equality and inclusion",
       "url": "/corporate/about-tfl/corporate-and-social-responsibility/equality-and-inclusion",
       "image": {}
      },
      {
-      "title": "Transport \u0026 health",
+      "title": "Transport and health",
       "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+      "image": {}
+     },
+     {
+      "title": "Reducing noise and vibration",
+      "url": "/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration",
       "image": {}
      }
     ],
     "link": {
      "title": "Corporate social responsibility",
-     "url": "/corporate/about-tfl/corporate-and-social-responsibility/transport-and-health",
+     "url": "/corporate/about-tfl/corporate-and-social-responsibility/reducing-noise-and-vibration",
      "image": {}
     },
     "image": {},

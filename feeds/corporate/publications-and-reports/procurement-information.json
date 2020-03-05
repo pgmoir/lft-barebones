@@ -40,7 +40,7 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Help us pay your invoices on time\",\"url\":\"/cdn/static/cms/documents/help-us-pay-your-invoices-on-time.pdf\",\"icon\":\"download\",\"size\":\"PDF 828KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Terms and conditions\"}",
      " \u003ca href=\"https://www.london.gov.uk/about-us/governance-and-spending/spending-money-wisely/contracts-and-grants\"\u003eRead the standard GLA Purchase Order Conditions of Contract on the GLA website\u003c/a\u003e .",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LUL PO Conditions of Contract\",\"url\":\"/cdn/static/cms/documents/lul-po-conditions-of-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 559KB\",\"image\":{}},{\"title\":\"TfL Standard PO Terms \\u0026 Conditions\",\"url\":\"/cdn/static/cms/documents/tfl-standard-purchase-order-terms-and-conditions.pdf\",\"icon\":\"download\",\"size\":\"PDF 387KB\",\"image\":{}},{\"title\":\"TfL Standard Contract for Services\",\"url\":\"/cdn/static/cms/documents/contract-for-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 475KB\",\"image\":{}},{\"title\":\"Work Related Road Risk requirements\",\"url\":\"/cdn/static/cms/documents/work-related-road-risk-requirements.pdf\",\"icon\":\"download\",\"size\":\"PDF 157KB\",\"image\":{}},{\"title\":\"Template LUL Access Requirements (NEC contracts)\",\"url\":\"/cdn/static/cms/documents/nec-template-access-terms.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.03MB\",\"image\":{}},{\"title\":\"Template LUL Access Requirements (Non-NEC contracts)\",\"url\":\"/cdn/static/cms/documents/non-nec-template-access-terms.pdf\",\"icon\":\"download\",\"size\":\"PDF 874KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"LUL PO Conditions of Contract\",\"url\":\"/cdn/static/cms/documents/lul-po-conditions-of-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 559KB\",\"image\":{}},{\"title\":\"TfL Standard PO Terms \\u0026 Conditions\",\"url\":\"/cdn/static/cms/documents/tfl-standard-purchase-order-terms-and-conditions.pdf\",\"icon\":\"download\",\"size\":\"PDF 387KB\",\"image\":{}},{\"title\":\"TfL Standard Contract for Services\",\"url\":\"/cdn/static/cms/documents/contract-for-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 474KB\",\"image\":{}},{\"title\":\"Work Related Road Risk requirements\",\"url\":\"/cdn/static/cms/documents/work-related-road-risk-requirements.pdf\",\"icon\":\"download\",\"size\":\"PDF 157KB\",\"image\":{}},{\"title\":\"Template LUL Access Requirements (NEC contracts)\",\"url\":\"/cdn/static/cms/documents/nec-template-access-terms.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.03MB\",\"image\":{}},{\"title\":\"Template LUL Access Requirements (Non-NEC contracts)\",\"url\":\"/cdn/static/cms/documents/non-nec-template-access-terms.pdf\",\"icon\":\"download\",\"size\":\"PDF 874KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Responsible procurement\"}",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Ethical sourcing policy\",\"url\":\"/cdn/static/cms/documents/tfl-ethical-sourcing-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 77KB\",\"image\":{}},{\"title\":\"Sustainable timber policy\",\"url\":\"/cdn/static/cms/documents/tfl-sustainable-timber-policy.pdf\",\"icon\":\"download\",\"size\":\"PDF 74KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Registering as a supplier and maintaining vendor data\"}",
@@ -58,14 +58,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

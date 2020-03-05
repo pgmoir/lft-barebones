@@ -68,9 +68,9 @@
     "wrapped": false
    },
    {
-    "title": "Woolwich Ferry open",
+    "title": "Woolwich Ferry ",
     "texts": [
-     "The Woolwich Ferry is open and running a regular service"
+     "The Woolwich Ferry links Woolwich and North Woolwich"
     ],
     "link": {
      "url": "/modes/river/woolwich-ferry",
@@ -154,22 +154,20 @@
     "wrapped": false
    },
    {
-    "title": "Bankside pier closure",
+    "title": "London's Passenger Pier Strategy",
     "texts": [
-     "Bankside pier will be closed from Tuesday 7 May until the end of May 2019"
+     "Find out more about our strategy for the city's network of piers"
+    ],
+    "links": [
+     {
+      "title": "London's Passenger Pier Strategy",
+      "url": "/cdn/static/cms/documents/pier-passenger-pier-strategy-action-plan.pdf",
+      "icon": "download",
+      "size": "PDF 3.36MB",
+      "image": {}
+     }
     ],
     "link": {
-     "url": "/river/status/#stations-status",
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
-    "template": "twitter",
-    "title": "Tweets by TfLRiver",
-    "link": {
-     "url": "https://twitter.com/TfLRiver",
      "image": {}
     },
     "image": {},

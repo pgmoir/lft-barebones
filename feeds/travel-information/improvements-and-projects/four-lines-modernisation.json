@@ -35,7 +35,8 @@
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"We are transforming the Circle, District, Hammersmith \\u0026 City and Metropolitan lines. When the work is completed in 2023, increased capacity and boosted reliability will make journeys faster and more comfortable.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "Because these lines share a lot of track and infrastructure, they are being modernised under a single combined and integrated project, Four Lines Modernisation (4LM).",
-     "Watch how we're transforming the Circle, District, Hammersmith \u0026 City and Metropolitan Lines.",
+     "{\"template\":\"bulletlist\",\"items\":[\" \\u003ca href=\\\"/travel-information/improvements-and-projects/metropolitan-line-signalling\\\"\\u003eFind out about signalling issues on the Metropolitan line\\u003c/a\\u003e \"]}",
+     "Watch how we're transforming the Circle, District, Hammersmith \u0026 City and Metropolitan lines.",
      "{\"template\":\"video\",\"style\":\"jhsFWSO4mA8\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "The four lines are among some of the oldest sections of the Underground network, with parts dating back to 1863. Together they make up 40% of the Tube network, with around a million passenger journeys each day.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Geographical map of the four lines\",\"url\":\"/cdn/static/cms/documents/four-lines-map.pdf\",\"icon\":\"download\",\"size\":\"PDF 211KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/4lm-map-detail.jpg\",\"alt\":\"Map of the four sub-surface Tube lines\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -67,14 +68,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

@@ -63,14 +63,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "How we work",
@@ -111,7 +103,7 @@
       "image": {}
      },
      {
-      "title": "IIPAG",
+      "title": "Independent Investment Programme Advisory Group",
       "url": "/corporate/about-tfl/how-we-work/corporate-governance/iipag",
       "image": {}
      },

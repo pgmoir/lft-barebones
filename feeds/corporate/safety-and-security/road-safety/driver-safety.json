@@ -37,18 +37,20 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Car drivers and their passengers are more likely to be hurt on London's roads than anyone else. We are committed to developing measures that ensure all drivers are safe on our roads.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "Young drivers are especially at risk. Their lack of experience can mean they take undue risks. Almost 15% of collisions involving 17-25 year old drivers were speed related. Bus and coach drivers also present us with unique challenges.",
-     "Here are some of the steps we're taking:",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Think slow\"}",
-     "We've taken a range of steps to cut speeding across London. For example, we've supported the introduction of 20mph schemes, including Home Zones on Borough roads and speed cameras in over 300 key spots.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Coaching for coaches\"}",
-     "To make coach drivers more aware of the danger they can pose to cyclists, pedestrians and other road users, we run special training schemes for drivers from London's major coach companies.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Bus to bike\"}",
-     "Bus drivers have received cycle awareness training at a series of road shows. These events gave them the opportunity to experience a cyclist's view when approaching, overtaking and being followed by a bus.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Exchanging Places\"}",
-     "Exchanging Places events are aimed at bus drivers and cyclists. These are run with the assistance of the police and are similar to those organised for Heavy Goods Vehicle (HGV) drivers giving cyclists the opportunity to sit in the driver's seat of a HGV or bus. This allows the cyclist to see what the driver can and cannot see at the kerbside and directly in front of their vehicle. There is also the opportunity to try Exchanging Places as a virtual reality experience. These new mobile headsets allow 10 people to participate at once, and is accessible for all ages.",
-     "Email \u003ca href=\"mailto:exchanging.places@met.police.uk\"\u003eexchanging.places@met.police.uk\u003c/a\u003e to suggest a location for an exchanging places event.",
+     "{\"template\":\"intro\",\"texts\":[\"Drivers are responsible for keeping themselves, their passengers and vulnerable road users such as cyclists and pedestrians safe. On average 11 people are killed or seriously injured on London's streets every day, devastating the lives of those people involved.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "In 2018, 767 people walking in London were killed or seriously injured in a collision that involved a person driving a car. 35 of those collisions were fatal.",
+     "Cars were also involved in the death or serious injury of 442 people cycling and 748 motorcyclists.",
+     "Human error is responsible for over 90% of all collisions on London's street. Going too fast while driving, not looking properly and making risky manoeuvers without due care or attention, are the most common causes of collisions. Over three quarters of collisions happen on or near junctions and crossings.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Think! Slow down\"}",
+     "The driver's speed is directly responsible for over a third of all collisions and is a contributing factor to many more. We are doing our best to reduce speed across London with new 20mph zones, increased police enforcement and speed cameras.",
+     "The speed limit is not a target to aim for and can still be too fast for certain situations. For example, if it's the end of a school day, there will be more children walking or cycling so you should slow down to improve your reaction time and reduce the risk of a collision that could kill or seriously injure someone.",
+     "This rule should also apply to bad weather, busy traffic, built up areas and parked cars.",
+     "{\"template\":\"video\",\"style\":\"AFH_AR437pY\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Dangerous manoeuvers\"}",
+     "A vehicle turning right across the path of a person cycling or motorcyclist is the most dangerous manoeuvre, causing death or serious injury every day.",
+     "Drivers should look twice before they turn right. Sometimes cyclists can be in a blind spot or drivers can misjudge the speed of an approaching motorcyclist.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Illegal Behaviour and enforcement\"}",
+     "There are over 2000 uniformed officers in the Met Police Roads and Transport Command. They will be deployed in key areas across London at all times to increase the enforcement of road traffic offences. We will also we using data-led intelligence to focus on high risk areas or issues for example mobile phone use and speeding. Finally we will be identifying and prosecuting high-risk drivers and riders who are repeat offenders.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Vision Zero for London\"}",
      "Transport for London is committed to reducing road danger, by working in partnership with the police, London boroughs and stakeholders to achieve the Vision Zero ambition of creating a road network free from death and serious injury by 2041. \u003ca href=\"/corporate/safety-and-security/road-safety/vision-zero-for-london\"\u003eRead more information on Vision Zero.\u003c/a\u003e "
     ],
@@ -62,14 +64,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -86,7 +80,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -101,34 +95,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},

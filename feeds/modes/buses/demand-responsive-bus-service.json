@@ -34,16 +34,25 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Trialling an on-demand bus service that operates flexibly in response to local demand\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "We're introducing a trial demand responsive bus service to determine if it has the potential to complement current public transport services and reduce car dependency in the London Borough of Sutton.",
-     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/go-sutton-logo.gif\",\"alt\":\"go sutton logo\"},\"wrapped\":false}",
-     "The trial service is called \u003ca href=\"http://www.gosutton.co.uk\"\u003eGoSutton\u003c/a\u003e and is run in collaboration with \u003ca href=\"https://www.viavan.com/\"\u003eViaVan\u003c/a\u003e and \u003ca href=\"https://www.go-ahead.com/en/index.html\"\u003eGo-Ahead\u003c/a\u003e . Services started on Tuesday 28 May 2019 and will run for 12 months. This trial is in line with the commitments in the Mayor's Transport Strategy. Its objectives include finding out if the service can support the shift away from car travel and offer a service that is accessible and easy to use.",
+     "We are running two trials of demand-responsive bus services. We want to find out whether they can:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Complement current public transport services\",\"Reduce car dependency\",\"Offer a service that is accessible and easy to use\"]}",
+     "The trials are taking place in the London Borough of Sutton and the London Borough of Ealing. Both are running for 12 months.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How it works\"}",
+     "Demand-responsive bus services take multiple passengers heading in the same direction and book them into a shared vehicle. The services operate from 'corner to corner', so there are no fixed routes or bus stops.",
+     "Instead, the app shows people a clear map of where their virtual bus stop is. They are picked up and dropped off within 200m of their requested destinations. This helps ensure that even with multiple pick-ups, there are no lengthy detours.",
+     "{\"template\":\"bulletlist\",\"items\":[\"The services can be booked by customers aged 13 and over\",\"Journeys can be booked by phone or through the GoSutton or Slide Ealing app available on the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApp Store \\u003c/a\\u003e and \\u003ca href=\\\"https://play.google.com/store\\\"\\u003eGoogle Play\\u003c/a\\u003e \",\"Oyster cards and contactless are not accepted\",\"Freedom Pass holders and members of the English National Concessionary Travel Scheme can travel free on the service\",\"Buses are wheelchair accessible\"]}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Go Sutton\"}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/go-sutton-logo.gif\",\"alt\":\"Go Sutton logo\"},\"wrapped\":false}",
+     "The \u003ca href=\"http://www.gosutton.co.uk\"\u003eGoSutton\u003c/a\u003e trial service is run in collaboration with \u003ca href=\"https://www.viavan.com/\"\u003e ViaVan\u003c/a\u003e and \u003ca href=\"https://www.go-ahead.com/en/index.html\"\u003eGo-Ahead\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"The service operates Monday to Sunday 06:30 to 21:30\",\"Journeys cost between £2 and £3.50 (depending on time of day and journey length)\",\"The trial  runs for 12 months from 28 May 2019\"]}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Area of operation\"}",
-     "The service will initially operate in the trial launch area and may be extended to include the expansion area in the summer depending on demand, performance and feedback.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Demand responsive bus service - area map\",\"url\":\"/cdn/static/cms/documents/demand-responsive-bus-service-map.png\",\"icon\":\"download\",\"size\":\"PNG 278KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/demand-responsive-bus-service-map-small.png\",\"alt\":\"demand responsive buses area map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"How it works\"}",
-     "GoSutton takes multiple passengers heading in the same direction and books them into a shared vehicle. The service operates from 'corner to corner', so there are no fixed routes or bus stops. We'll pick you up and drop you off within 200m of your requested destination. This helps us ensure that even with multiple pick-ups, there are no lengthy detours.",
-     "{\"template\":\"bulletlist\",\"items\":[\"The service can be booked by customers aged 13 and over\",\"Journeys can be booked by phone or through the GoSutton app available on the \\u003ca href=\\\"https://www.apple.com/uk/ios/app-store/\\\"\\u003eApp Store \\u003c/a\\u003e and \\u003ca href=\\\"https://play.google.com/store\\\"\\u003eGoogle Play\\u003c/a\\u003e \",\"Services will operate between 06:30 and 21:30, Monday to Sunday except Christmas Day\",\"Journeys cost £3.50\",\"Oyster cards and contactless are not accepted\",\"Freedom Pass holders and members of the English National Concessionary Travel Scheme can travel free on the service\",\"Buses are fully accessible\"]}",
-     "Find out more about the service on the \u003ca href=\"http://www.gosutton.co.uk\"\u003eGoSutton website\u003c/a\u003e ."
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Demand responsive bus service - area map (dark blue areas indicate an expansion of the service in August 2019)\",\"url\":\"/cdn/static/cms/documents/demand-responsive-buses-map-v2.png\",\"icon\":\"download\",\"size\":\"PNG 594KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/demand-responsive-buses-map-v2-small.png\",\"alt\":\"demand responsive\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Slide Ealing\"}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/slide-ealing-logos.jpg\",\"alt\":\"Slide Ealing logos\"},\"wrapped\":false}",
+     "The \u003ca href=\"https://www.slideealing.com/\"\u003eSlide Ealing\u003c/a\u003e trial service is run in collaboration with \u003ca href=\"https://www.ratp.fr/en/groupe-ratp\"\u003eRATP\u003c/a\u003e and \u003ca href=\"https://www.volkswagenag.com/en/brands-and-models/moia.html\"\u003eMOIA\u003c/a\u003e .",
+     "{\"template\":\"bulletlist\",\"items\":[\"Slide Ealing runs Monday to Sunday 06:00 to 01:00\",\"Journeys cost £3.50\",\"The trial runs for 12 months from 13 November 2019\"]}",
+     "Slide Ealing covers an area from Southall to the North Circular, and from the A40 to Boston Manor.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Slide Ealing map\",\"url\":\"/cdn/static/cms/documents/slide-ealing-map-hi-res.jpg\",\"icon\":\"download\",\"size\":\"JPG 114KB\",\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/slide-ealing-map-small.jpg\",\"alt\":\"Slide Ealing map\"}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -55,14 +64,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "advert",
     "link": {

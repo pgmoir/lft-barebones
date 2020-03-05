@@ -44,6 +44,7 @@
      "{\"template\":\"intro\",\"texts\":[\"Always touch in at the start of your journey and touch out at the end on a yellow card reader to pay the right fare.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Completing your journey\"}",
      "Where you touch in and out tells us where you've travelled from and to, so we can charge you the right fare for your completed journey.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/touching-in-and-out.jpg\",\"alt\":\"Contactless card over a yellow card reader at the start and end\"},\"wrapped\":false}",
      "This is for all Tube, DLR, London Overground, TfL Rail, National Rail, River Bus and Emirates Air Line journeys.",
      "Only touch in on buses and trams.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Automatic completion of journeys\"}",
@@ -53,7 +54,7 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charges if you don't touch in and out\"}",
      "If you don't touch in and out, we can't tell where you've travelled from or to, so your journey will be incomplete.",
      "As we can't work out the right fare for your journey, we'll charge you the maximum fare:",
-     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eArea \\u003c/strong\\u003e \",\"\\u003cstrong\\u003ePeak\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eOff-peak\\u003c/strong\\u003e \"],[\"All stations in Zones 1-9 (except Heathrow Express)\",\"Up to £10.50\",\"Up to £10.10\"],[\"Broxbourne, Hertford East, Ware, St Margarets and Rye House\",\"£8.30\",\"£5.90\"],[\"Chafford Hundred, Grays, Ockenden and Purfleet\",\"£8.40\",\"£7.40\"],[\"Dartford and Swanley\",\"£8.20\",\"£5.60\"],[\"Epsom\",\"£9.00\",\"£6.60\"],[\"Shenfield\",\"£9.60\",\"£6.70\"],[\"Watford Junction\",\"£9.60\",\"£6.40\"],[\"Merstham\",\"£9.70\",\"£5.90\"],[\"Cuffley\",\"£9.70\",\"£7.50\"],[\"Bayford and Hertford North\",\"£10.60\",\"£8.20\"],[\"Redhill, Earlswood\",\"£11.00\",\"£6.30\"],[\"Salfords, Horley\",\"£11.20\",\"£6.30\"],[\"Gatwick Airport\",\"£15.10\",\"£8.30\"],[\"Heathrow Express (from Paddington to Heathrow)\",\"£25\",\"£22\"]]}",
+     "{\"template\":\"table\",\"rows\":[[\"\\u003cstrong\\u003eArea \\u003c/strong\\u003e \",\"\\u003cstrong\\u003ePeak\\u003c/strong\\u003e \",\"\\u003cstrong\\u003eOff-peak\\u003c/strong\\u003e \"],[\"All stations in Zones 1-9 (except Heathrow Express)\",\"Up to £8.40\",\"Up to £5.70\"],[\"Broxbourne, Rye House, St Margarets, Ware and Hertford East\",\"£8.80\",\"£6.50\"],[\"Chafford Hundred, Grays, Ockenden and Purfleet\",\"£8.60\",\"£7.60\"],[\"Dartford and Swanley\",\"£8.40\",\"£5.70\"],[\"Epsom\",\"£9.10\",\"£6.70\"],[\"Shenfield\",\"£9.90\",\"£7.40\"],[\"Watford Junction\",\"£9.80\",\"£6.60\"],[\"Merstham\",\"£12.40\",\"£8.50\"],[\"Cuffley\",\"£10.00\",\"£7.60\"],[\"Bayford and Hertford North\",\"£10.90\",\"£8.50\"],[\"Redhill, Earlswood\",\"£13.70\",\"£8.90\"],[\"Salfords, Horley\",\"£13.90\",\"£8.90\"],[\"Gatwick Airport\",\"£17.90\",\"£10.90\"],[\"Heathrow Express (from Paddington to Heathrow)\",\"£25\",\"£22\"],[\"St Pancras International (East Midlands platforms)\",\"£13.50\",\"£9.90\"],[\"London Victoria (Gatwick Express platforms)\",\"£19.80\",\"£19.80\"],[\"Brookmans Park and Welham Green\",\"£10.10\",\"£7.40\"],[\"Welwyn Garden City\",\"£11.80\",\"£9.10\"],[\"Luton Airport Parkway\",\"£15.90\",\"£12.30\"],[\"Reading\",\"£27.70\",\"£13.00\"]]}",
      "Maximum fares don't count towards capping.",
      "If you don't touch in, you may be charged a \u003ca href=\"/fares/find-fares/penalty-fares-and-how-to-pay-them\"\u003epenalty fare\u003c/a\u003e .",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Apply for a refund\"}",
@@ -93,14 +94,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

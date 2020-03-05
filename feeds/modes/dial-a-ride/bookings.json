@@ -33,23 +33,22 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"Only members can make Dial-a-Ride bookings.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"Find out how dial-a-Ride members can book trips.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"How to book\"}",
      "Fill out one of the forms below and email it to \u003ca href=\"mailto:DAR.reservations@tfl.gov.uk\"\u003eDAR.reservations@tfl.gov.uk\u003c/a\u003e (for next day and advance bookings only)\u003cstrong\u003eby 16:00\u003c/strong\u003e on the day before you want to travel.",
      "\u003cstrong\u003eFor Saturday travel: \u003c/strong\u003e email by 16:00 on Thursday\u003cbr /\u003e\u003cstrong\u003eFor Sunday and Monday: \u003c/strong\u003e email by 16:00 on Friday",
-     "If you're booking for an exact time you can email up to two weeks before. We'll let you know within two working days whether we can take you.",
+     "If you're booking for an exact time, you can email us up to two weeks in advance. We'll let you know within two working days whether we can take you.",
      "\u003cstrong\u003ePhone\u003c/strong\u003e : 0343 222 7777*, 09:00 to 16:00 Monday to Friday",
      "\u003cstrong\u003eFax: \u003c/strong\u003e 020 7394 5210",
      "\u003cstrong\u003ePost: \u003c/strong\u003e \u003cbr /\u003eDial-a-Ride\u003cbr /\u003ePO Box 68799\u003cbr /\u003eLondon SE1P 4RD",
-     "From 1 August 2018, the old booking request forms will no longer be accepted. Please use the updated forms below.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Booking request form\",\"url\":\"/cdn/static/cms/documents/booking-request-form.doc\",\"icon\":\"download\",\"size\":\"DOC 114KB\",\"image\":{}},{\"title\":\"Group booking request form\",\"url\":\"/cdn/static/cms/documents/group-booking-request-form.doc\",\"icon\":\"download\",\"size\":\"DOC 142KB\",\"image\":{}},{\"title\":\"Your guide to Dial-a-Ride\",\"url\":\"/cdn/static/cms/documents/your-guide-to-dial-a-ride.pdf\",\"icon\":\"download\",\"size\":\"PDF 645KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Availability\"}",
-     "Dial-a-Ride can be very busy,\nparticularly late morning. This\nmeans we cannot accommodate\nevery request that we receive.",
-     "Sometimes, if we are fully\nbooked, we will only be able to\noffer part of your journey (eg\nthe outward or return journey).\nThis may still be useful to you if\nyou are able to make alternative\narrangements for the portion of\nthe journey that Dial-a-Ride is\nunable to provide.",
-     "Same day bookings rely on\ncancellations by other passengers\nso they have a much lower\nsuccess rate than our next day\nservice. To increase your chances\nof success, always use our next\nday or advance booking services.",
+     "Dial-a-Ride can be very busy. This means we cannot accommodate every request that we receive. To increase your chance of success, use our next day or advanced booking services.",
+     "Sometimes, if we are fully booked, we will only be able to offer part of your journey (eg the outward or return journey). This may still be useful to you if you are able to make alternative arrangements for the portion of the journey that Dial-a-Ride is unable to provide.",
+     "Same day bookings rely on cancellations by other passengers so they have a much lower success rate than our next day service. To increase your chances of success, always use our next day or advance booking services.",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Types of trips\"}",
-     "Dial-a-Ride\ncannot accommodate:",
-     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eHospital and clinic\\n    appointments\\u003c/strong\\u003e - Contact the medical professional\\n    who referred you, or the\\n    hospital/clinic, for information\\n    about alternative services that\\n    cater for hospital journeys. You\\n    can, however, use Dial-a-Ride to\\n    visit your GP\",\"\\u003cstrong\\u003eDay centres and school\\u003c/strong\\u003e - Contact your day centre manager or school administrator for details about alternative services\",\"\\u003cstrong\\u003eWork\\u003c/strong\\u003e - Dial-a-Ride cannot easily accommodate daily trips to work due to limited resources. Contact your local job centre for details of the Access to Work scheme if you require this type of journey\"]}",
+     "Dial-a-Ride cannot accommodate:",
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eHospital and clinic appointments\\u003c/strong\\u003e - Contact the medical professional who referred you, or the hospital/clinic, for information about alternative services that cater for hospital journeys. You can, however, use Dial-a-Ride to visit your GP\",\"\\u003cstrong\\u003eDay centres and school\\u003c/strong\\u003e - Contact your day centre manager or school administrator for details about alternative services\",\"\\u003cstrong\\u003eWork\\u003c/strong\\u003e - Dial-a-Ride cannot easily accommodate daily trips to work due to limited resources. Contact your local job centre for details of the Access to Work scheme if you require this type of journey\"]}",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where is my vehicle?\"}",
      "\u003cstrong\u003ePhone\u003c/strong\u003e : 0343 222 7777*, 06:00 to 24:00, seven days a week",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Cancel a booking\"}",
@@ -66,14 +65,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -92,6 +83,11 @@
      {
       "title": "On your journey",
       "url": "/modes/dial-a-ride/on-your-journey",
+      "image": {}
+     },
+     {
+      "title": "Making the most of Dial-a-Ride",
+      "url": "/modes/dial-a-ride/making-the-most-of-dial-a-ride",
       "image": {}
      },
      {

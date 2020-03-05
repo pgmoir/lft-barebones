@@ -33,16 +33,17 @@
    {
     "template": "content",
     "texts": [
-     "{\"template\":\"intro\",\"texts\":[\"The Crossrail Central Operating Section (CCOS) makes up most of the route to be used by Elizabeth line services that is not part of the Network Rail network. It runs from Portobello Junction in the West to Abbey Wood in the South East and Pudding Mill Lane Junction in the East, largely in new tunnels.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"intro\",\"texts\":[\"The Crossrail Central Operating Section (CCOS) makes up most of the route to be used by Elizabeth line services that is not part of the Network Rail network. It runs from Westbourne Park Junction in the West to Abbey Wood in the South East and Pudding Mill Lane Junction in the East, largely in new tunnels.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"bulletlist\",\"items\":[\"To access the Rule Book, go to the \\u003ca href=\\\"/corporate/publications-and-reports/elizabeth-line-rule-book\\\"\\u003eElizabeth line Rule Book page\\u003c/a\\u003e \"]}",
      "Rail for London (Infrastructure) (RfL(I)), a wholly-owned TfL subsidiary, manages the CCOS infrastructure. These documents show how RfL(I) does business with customers, including potential operators of other train services.",
      "Use this information to understand how to apply for access to operate train services through the CCOS.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Applying for access to operate train services\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Network Statement\"}",
      "The Network Statement is designed to provide prospective users of the CCOS with information about the infrastructure and how they would be able to gain access to the CCOS to operate trains.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2019 Network Statement\",\"url\":\"/cdn/static/cms/documents/ccos-network-statement-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 827KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2020 Network Statement - consultation version\",\"url\":\"/cdn/static/cms/documents/ccos-network-statement-2020-consultation.pdf\",\"icon\":\"download\",\"size\":\"PDF 819KB\",\"image\":{}},{\"title\":\"2020 Price list - consultation version\",\"url\":\"/cdn/static/cms/documents/ccos-price-list-2020-consultation-version.pdf\",\"icon\":\"download\",\"size\":\"PDF 198KB\",\"image\":{}},{\"title\":\"2019 Network Statement\",\"url\":\"/cdn/static/cms/documents/ccos-network-statement-2019.pdf\",\"icon\":\"download\",\"size\":\"PDF 827KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Framework Capacity Statement\"}",
      "The Framework Capacity Statement is intended to give prospective users of the CCOS an indication of how much capacity is likely to be available on the CCOS, giving them a first impression of how likely it is that their applications for capacity will be approved.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Framework Capacity Statement\",\"url\":\"/cdn/static/cms/documents/ccos-framework-capacity-statement.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.56MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"2020 Framework Capacity Statement - consultation version\",\"url\":\"/cdn/static/cms/documents/ccos-framework-capacity-statement-2020-consultation-version.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.56MB\",\"image\":{}},{\"title\":\"2019 Framework Capacity Statement\",\"url\":\"/cdn/static/cms/documents/ccos-framework-capacity-statement.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.56MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Capacity Request\"}",
      "RfL(I) has developed a template form which can be used by train operators or prospective train operators when making capacity requests.",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Capacity Request Template\",\"url\":\"/cdn/static/cms/documents/ccos-capacity-requests-template-form.zip\",\"icon\":\"download\",\"size\":\"ZIP 598KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
@@ -55,14 +56,15 @@
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Terms of access - track\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Template Track Access Contracts\"}",
      "The Track Access Contract sets out the terms and conditions under which a train operator can access the track forming part of the CCOS.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Track Access Contract - passenger services (Word template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-passenger-services.docx\",\"icon\":\"download\",\"size\":\"DOCX 432KB\",\"image\":{}},{\"title\":\"Track Access Contract - passenger services (PDF template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-passenger-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.78MB\",\"image\":{}},{\"title\":\"Track Access Contract - testing services (Word template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-testing-services.docx\",\"icon\":\"download\",\"size\":\"DOCX 397KB\",\"image\":{}},{\"title\":\"Track Access Contract - testing services (PDF template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-testing-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.65MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "RfL(I) is consulting on some changes to the Template Track Access Contract and the Network Code. These changes reflect announced delays in the delivery of the Crossrail project and changes to the track access documentation of Network Rail.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Consultation document - proposed changes to the CCOS Track Access\",\"url\":\"/cdn/static/cms/documents/consultation-document-proposed-changes-to-ccos-track-access-documentation.pdf\",\"icon\":\"download\",\"size\":\"PDF 294KB\",\"image\":{}},{\"title\":\"Consultation mark-up of Track Access Contract - passenger services\",\"url\":\"/cdn/static/cms/documents/consultation-mark-up-of-track-access-contract.pdf\",\"icon\":\"download\",\"size\":\"PDF 662KB\",\"image\":{}},{\"title\":\"Track Access Contract - passenger services (Word template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-passenger-services.docx\",\"icon\":\"download\",\"size\":\"DOCX 432KB\",\"image\":{}},{\"title\":\"Track Access Contract - passenger services (PDF template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-passenger-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.78MB\",\"image\":{}},{\"title\":\"Track Access Contract - testing services (Word template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-testing-services.docx\",\"icon\":\"download\",\"size\":\"DOCX 397KB\",\"image\":{}},{\"title\":\"Track Access Contract - testing services (PDF template)\",\"url\":\"/cdn/static/cms/documents/track-access-contract-testing-services.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.65MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Current Track Access Contracts\"}",
      "In Track Access Contracts entered into by RfL(I), certain information may be redacted for commercial confidentiality.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Codes\"}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CCOS Network Code\"}",
      "The CCOS Network Code is a common set of rules which will apply across every train operator accessing the CCOS. This document forms part of the CCOS Track Access Agreement.",
      "It sets out, for example, how changes can be made to the CCOS infrastructure and the trains operating on the CCOS, how a timetable is developed by RfL(I) and how the environment is protected. It also describes the process for monitoring performance and the limited circumstances in which access rights can be lost.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"CCOS Network Code\",\"url\":\"/cdn/static/cms/documents/ccos-network-code.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.47MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Consultation mark-up of CCOS Network Code\",\"url\":\"/cdn/static/cms/documents/consultation-mark-up-of-network-code.pdf\",\"icon\":\"download\",\"size\":\"PDF 693KB\",\"image\":{}},{\"title\":\"CCOS Network Code\",\"url\":\"/cdn/static/cms/documents/ccos-network-code.pdf\",\"icon\":\"download\",\"size\":\"PDF 1.47MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "These standard forms are for requesting, issuing and responding to Vehicle Change proposals under Part F and Network Change proposals under Part G of the CCOS Network Code:",
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Vehicle change proposals under Part F\",\"url\":\"/cdn/static/cms/documents/ccos-vehicle-change-standard-form-templates.zip\",\"icon\":\"download\",\"size\":\"ZIP 202KB\",\"image\":{}},{\"title\":\"Network change proposals under Part G\",\"url\":\"/cdn/static/cms/documents/ccos-network-change-standard-form-templates.zip\",\"icon\":\"download\",\"size\":\"ZIP 289KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CCOS Access Dispute Resolution Rules\"}",
@@ -80,7 +82,7 @@
      "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"CCOS Railway Operational Code\",\"url\":\"/cdn/static/cms/documents/ccos-railway-operational-code.pdf\",\"icon\":\"download\",\"size\":\"PDF 767KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CCOS Emergency Access Code\"}",
      "On rare occasions, an emergency may affect the CCOS and/or the Network Rail network. In these situations, train operators who do not otherwise use particular sections of the track or particular stations on the CCOS may need access - for example, access to stations other than those normally called at. The CCOS Emergency Access Code sets out the terms and conditions for granting emergency access.",
-     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"CCOS Emergency Access Code\",\"url\":\"/cdn/static/cms/documents/ccos-emergency-access-code.pdf\",\"icon\":\"download\",\"size\":\"PDF 120KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"CCOS Emergency Access Code\",\"url\":\"/cdn/static/cms/documents/ccos-emergency-access-code.pdf\",\"icon\":\"download\",\"size\":\"PDF 151KB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"CCOS Railway Systems Code\"}",
      "RfL(I) will use a number of IT systems to operate the CCOS which train operators and others may wish to access. We expect some of these systems to be common to Network Rail's IT systems but some specific systems for the CCOS itself are likely.",
      "The CCOS Railway Systems Code sets out the scope of those systems, how users can access them and the circumstances where modifications can be made to the systems. Each train operator using the CCOS will be required to comply with the CCOS Railway Systems Code.",
@@ -123,14 +125,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",

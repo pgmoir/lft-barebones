@@ -1,5 +1,5 @@
 {
- "pageTitle": "Baby on Board",
+ "pageTitle": "Baby on board badge",
  "keywords": "TfL",
  "description": "Travelling on the Tube can be tricky for mums-to-be, but having a Baby on Board badge makes it easier by letting other passengers know that you have a very good reason to need a seat.",
  "template": "page-content",
@@ -18,11 +18,11 @@
    "url": "/transport-accessibility/pregnant-women-and-pushchairs"
   },
   {
-   "title": "Baby on Board"
+   "title": "Baby on board badge"
   }
  ],
  "title": {
-  "title": "Baby on Board",
+  "title": "Baby on board badge",
   "card": {
    "link": {
     "image": {}
@@ -38,14 +38,14 @@
     "template": "content",
     "texts": [
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Order your badge here\"}",
-     "Travelling on the Tube can be tricky for mums-to-be, but having a Baby on Board badge makes it easier by letting other passengers know that you have a very good reason to need a seat. For tips on travelling when pregnant or with a pushchair, see our page on \u003ca href=\"https://tfl.gov.uk/transport-accessibility/pregnant-women-and-pushchairs\"\u003epregnant women and buggy users\u003c/a\u003e .",
-     "TfL supplies free of charge one Baby on Board badge per person in association with Mothercare and BABYZEN, the official retail partners of the badge. Visit \u003ca href=\"https://www.mothercare.com/advice-buying-guides-and-services\"\u003eMothercare \u003c/a\u003e and \u003ca href=\"https://www.babyzen.com/en\"\u003eBABYZEN\u003c/a\u003e for help and advice throughout your parenting journey.",
-     "Badges can be delivered to any address within the Greater London area, and South East England. Badges can be ordered by completing the online form below or by contacting TfL Customer Services on 0343 222 1234. The issue of replacement badges is discretionary. A maximum of two replacement badges can be ordered over a nine month period to accommodate loss of the original badge.\u003cstrong\u003eBaby on Board badges come in plain envelopes\u003c/strong\u003e .",
+     "Travelling on the Tube can be tricky for mums-to-be, but having a Baby on board badge makes it easier by letting other passengers know that you have a very good reason to need a seat. For tips on travelling when pregnant or with a pushchair, see our page on \u003ca href=\"https://tfl.gov.uk/transport-accessibility/pregnant-women-and-pushchairs\"\u003epregnant women and buggy users\u003c/a\u003e .",
+     "TfL supplies free of charge one Baby on board badge per person in association with BABYZEN, the official retail partners of the badge. Visit \u003ca href=\"https://www.babyzen.com/en\"\u003eBABYZEN\u003c/a\u003e to find out more about their innovative YOYO+ stroller.",
+     "Badges can be delivered to any address within the Greater London area, and South East England. Badges can be ordered by completing the online form below or by contacting TfL Customer Services on 0343 222 1234. The issue of replacement badges is discretionary. A maximum of two replacement badges can be ordered over a nine month period to accommodate loss of the original badge.\u003cstrong\u003eBaby on board badges come in plain envelopes\u003c/strong\u003e .",
      "Please note the badges are not for resale.",
      "Thank you - we will review your request soon.",
      "We aim to send your badge by post within five working days. For more information on travelling on the network as a new mum or mum-to-be, please visit our page on \u003ca href=\"https://tfl.gov.uk/transport-accessibility/pregnant-women-and-pushchairs\"\u003epregnant women and pushchairs\u003c/a\u003e .",
      "There was an error. Please try again.",
-     "Transport for London (TfL), its subsidiaries and service providers, will use your personal information for the purposes of administering your Baby On Board badge order, the provision of travel related information and customer research. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation.",
+     "Transport for London (TfL), its subsidiaries and service providers, will use your personal information for the purposes of administering your Baby on board badge order, the provision of travel related information and customer research. Your personal information will be properly safeguarded and processed in accordance with the requirements of privacy and data protection legislation.",
      "To find out more about how TfL handles personal data, see our \u003ca href=\"/corporate/privacy-and-cookies/index\"\u003ePrivacy and cookies\u003c/a\u003e pages.",
      "Please let us know the pier location or journey made."
     ],
@@ -60,14 +60,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -78,7 +70,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -128,7 +120,7 @@
       "image": {}
      },
      {
-      "title": "Baby on Board",
+      "title": "Baby on board badge",
       "url": "/transport-accessibility/baby-on-board",
       "image": {}
      },
@@ -138,7 +130,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

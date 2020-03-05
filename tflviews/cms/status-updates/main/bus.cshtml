@@ -1,16 +1,6 @@
 ﻿
 
         <h2 class="visually-hidden">Social media and email</h2>
-        @using TfL.Web.Infrastructure;
-        @{ Html.RenderAction("FollowSocial", "Modules", new 
-          { 
-            mode = Library.UrlModeNames.Bus,
-            header = "London buses", 
-            description = "News about the bus network", 
-            socialMediaPlatform = "twitter", 
-            url = "TfLBusAlerts" 
-          }); 
-        }
         <div class="follow-social email">
           <div class="social-image"></div>
           <div class="social-text">

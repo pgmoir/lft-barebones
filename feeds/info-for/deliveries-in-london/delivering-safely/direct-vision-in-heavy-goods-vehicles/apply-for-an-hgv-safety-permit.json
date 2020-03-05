@@ -1,0 +1,195 @@
+{
+ "pageTitle": "Guidance for the HGV Safety Permit",
+ "keywords": "TfL",
+ "description": "Check to see if your HGV meets safety requirements and apply for a permit.",
+ "template": "page-content",
+ "breadcrumbs": [
+  {
+   "style": "home",
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "Deliveries in London",
+   "url": "/info-for/deliveries-in-london/index"
+  },
+  {
+   "title": "Delivering safely",
+   "url": "/info-for/deliveries-in-london/delivering-safely"
+  },
+  {
+   "title": "Direct Vision Standard and HGV Safety Permit",
+   "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles"
+  },
+  {
+   "title": "Guidance for the HGV Safety Permit"
+  }
+ ],
+ "title": {
+  "title": "Guidance for the HGV Safety Permit",
+  "card": {
+   "link": {
+    "image": {}
+   },
+   "image": {},
+   "wrapped": false
+  }
+ },
+ "body": {
+  "primarys": [],
+  "cards": [
+   {
+    "template": "content",
+    "texts": [
+     "{\"template\":\"intro\",\"texts\":[\"Information about the application process for an HGV Safety Permit, and how to manage it, including rules for safety evidence photos and applying for multiple vehicles in your fleet.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "We are working with vehicle manufacturers to assign star ratings for their vehicles. Check to see if we hold your star rating and apply.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Apply for a single vehicle\"}",
+     "If your HGV is rated one to five stars, you can apply for a permit without the need to provide any additional evidence.",
+     "If your HGV is rated zero star, you will need to make your vehicle safer by \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/dvs-star-ratings-and-safe-system\"\u003efitting it with Safe System improvements.\u003c/a\u003e You will need to prove this when you apply.",
+     "If your HGV is not rated, or we do not know its star rating, you will need to \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/dvs-star-ratings-and-safe-system#manufacturers\"\u003econtact your manufacturer\u003c/a\u003e to tell you its star rating and then send it to us.",
+     "The length of your permit will depend on your vehicle's star rating:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Zero star permits will be valid until October 2024\",\"One and two star permits will be valid until October 2024\",\"Three, four and five star permits will be valid for 10 years\"]}",
+     "Zero, one and two star-rated vehicles will need to be fitted with the \u003ca href=\"/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles#progressive\"\u003eProgressive Safe System\u003c/a\u003e from 2024.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Apply for multiple vehicles\"}",
+     "Fleet operators can apply for 5 to 3000 vehicles at one time through a \u003ca href=\"https://tfl.gov.uk/modes/driving/dvs-safety-permit-application/\"\u003emulti permit application.\u003c/a\u003e ",
+     "To get started, \u003ca href=\"https://tfl.gov.uk/modes/driving/dvs-safety-permit-application/templates/MPATemplate.csv\"\u003edownload the CSV template.\u003c/a\u003e ",
+     "You can open the file in a spreadsheet program, such as Microsoft Excel. You will need to enter the number plates (Vehicle Registration Mark) of all your vehicles and tell us if they are registered as 'UK' or 'non-UK.'",
+     "After you apply and upload your completed CSV file you will receive a confirmation email with a permit application number. Throughout the next 28 working days, you will receive separate emails that will tell you the outcome of the vehicles in your application.",
+     "These emails will usually group your vehicles by their star rating or status (such as if they meet the minimum star rating, are exempt, not subject to the scheme, or not found in our records) and any next steps you need to take.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Safety evidence for multi vehicle applications\"}",
+     "If there are vehicles in your multi vehicle application that are rated zero star, you will still need to provide safety evidence to show you've fitted Safe System equipment on these vehicles.",
+     "We will choose a percentage of your zero star rated vehicles and ask you to provide safety evidence for them. The exact number will be based on the overall number of zero star rated vehicles in your application.",
+     "Once these are approved, we will issue permits for all zero star rated vehicles in your application 'on trust', without the need to provide further evidence.",
+     "We reserve the right to withdraw permits if we have evidence that suggests you are abusing the application process.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Rules for safety evidence photos\"}",
+     "If you've been asked to provide safety evidence as part of your application, you will need to upload two photos to show that a Safe System has been fitted to the vehicle. Please read this guidance before uploading photos.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"The quality of your photos\"}",
+     "Your photos must be:",
+     "{\"template\":\"bulletlist\",\"items\":[\"JPG or PNG files, no more than 10MB each\",\"Clear and in focus\",\"Colour (not black and white)\",\"An accurate picture of the vehicle\"]}",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"What your photos must show\"}",
+     "Your photos must:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Clearly show the front and nearside (passenger side) of the HGV (Photo 1)\",\"Clearly show the rear and nearside (passenger side) of the HGV (Photo 2)\",\"Ensure the number plate (Vehicle Registration Mark) can be clearly read in both photos at the front (Photo 1) and rear (Photo 2) of the vehicle\"]}",
+     "Provide evidence that the following safety features have been fitted to the vehicle:",
+     "{\"template\":\"bulletlist\",\"items\":[\"Class V mirror (Photo 1: front and nearside)\",\"Class VI mirror (Photo 1: front and nearside)\",\"Side under-run protection (Photo 1 and 2)\",\"Warning signage (Photo 2: rear and nearside)\"]}",
+     "If your vehicle is partially exempt and not required to have specific safety features fitted, the photo should support the reason for exemption.",
+     "A list of vehicle exemptions and policy can be found in the \u003ca href=\"/cdn/static/cms/documents/hgv-safety-permit-guidance-for-operators-entering-london.pdf\"\u003eHGV Safety Permit - guidance for operators entering London (Appendix A).\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Good and bad examples of digital photos\"}",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/dvs-photo-1-sample.jpg\",\"alt\":\"Good example for photo 1 of HGV Safety Permit\"},\"wrapped\":false}",
+     "Vehicle Registration Mark (number plate) clearly legible. Sideguards, Class V and VI mirrors clearly identifiable.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/dvs-photo-2-sample.jpg\",\"alt\":\"Good example for photo 2 of HGV Safety Permit\"},\"wrapped\":false}",
+     "Vehicle Registration Mark (number plate) clearly legible, side under-run protection and warning signage clearly identifiable",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/dvs-bad-photo-sample.jpg\",\"alt\":\"Examples of bad photos for HGV Safety Permit application\"},\"wrapped\":false}",
+     "Image too dark / bright / poor quality / blurry - Safe System features not legible and identifiable",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Manage your permit\"}",
+     "The HGV Safety Permit is an electronic permit only. You will not receive a certificate or paper copy of the permit. You are not required to display proof of your permit in your vehicle.",
+     "To stay compliant with the HGV Safety Permit scheme, you must tell us if certain conditions change. You can contact us through the \u003ca href=\"https://tfl.gov.uk/modes/driving/dvs-contact-us\"\u003eMake an enquiry\u003c/a\u003e form.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Changes in configuration\"}",
+     "You must tell us if you change the configuration of any of your vehicles.",
+     "We reserve the right to withdraw permits if we have evidence that suggests you are abusing the application process or are not maintaining the required Safe System measures.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Selling your vehicle: change in ownership\"}",
+     "The owner must tell us if the vehicle has been sold and there is a change in ownership. Permits cannot be  transferred between operators and the new owner will need to apply for a new permit.",
+     "The new owner can apply for a permit as soon as they've purchased the vehicle and know the vehicle's number plate (Vehicle Registration Mark), make and model.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Withdraw a permit\"}",
+     "You may contact us if an HGV Safety Permit is no longer needed for your vehicle. We will respond with a written confirmation.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Change of number plate\"}",
+     "You must tell us if you would like to use the number plate on a different vehicle. You will need to apply for a new permit and ensure it meets the permit requirements.",
+     "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
+    ],
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ },
+ "rhnav": {
+  "cards": [
+   {
+    "template": "listgroup",
+    "style": "foldernav",
+    "title": "Deliveries in London",
+    "links": [
+     {
+      "title": "Efficient deliveries",
+      "url": "/info-for/deliveries-in-london/delivering-efficiently",
+      "image": {}
+     },
+     {
+      "title": "Delivering safely",
+      "url": "/info-for/deliveries-in-london/delivering-safely",
+      "image": {}
+     },
+     {
+      "title": "Driving near vulnerable users",
+      "url": "/info-for/deliveries-in-london/delivering-safely/driving-near-vulnerable-users",
+      "image": {}
+     },
+     {
+      "title": "Safer Lorry Scheme",
+      "url": "/info-for/deliveries-in-london/delivering-safely/safer-lorry-scheme",
+      "image": {}
+     },
+     {
+      "title": "Work Related Road Risk",
+      "url": "/info-for/deliveries-in-london/delivering-safely/work-related-road-risk",
+      "image": {}
+     },
+     {
+      "title": "Direct Vision Standard and HGV Safety Permit",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles",
+      "image": {}
+     },
+     {
+      "title": "DVS star ratings and Safe System improvements",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/dvs-star-ratings-and-safe-system",
+      "image": {}
+     },
+     {
+      "title": "Guidance for the HGV Safety Permit",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/apply-for-an-hgv-safety-permit",
+      "image": {}
+     },
+     {
+      "title": "Direct Vision for HGVs Research and Tools",
+      "url": "/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles/direct-vision-for-hgvs-research-and-tools",
+      "image": {}
+     },
+     {
+      "title": "Delivering legally",
+      "url": "/info-for/deliveries-in-london/delivering-legally",
+      "image": {}
+     },
+     {
+      "title": "Delivering goods by water",
+      "url": "/info-for/deliveries-in-london/delivering-goods-by-water",
+      "image": {}
+     },
+     {
+      "title": "Training courses and events",
+      "url": "/info-for/deliveries-in-london/training-courses-and-events",
+      "image": {}
+     }
+    ],
+    "link": {
+     "title": "Deliveries in London",
+     "url": "/info-for/deliveries-in-london/training-courses-and-events",
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   },
+   {
+    "template": "advert",
+    "link": {
+     "image": {}
+    },
+    "image": {},
+    "wrapped": false
+   }
+  ]
+ }
+}

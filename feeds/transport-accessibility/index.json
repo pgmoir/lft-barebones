@@ -99,7 +99,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support and mentoring",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "icon": "internal",
       "image": {}
@@ -153,16 +153,16 @@
     "wrapped": false
    },
    {
-    "title": "Pregnant women and buggy users",
+    "title": "Travel mentoring",
     "texts": [
-     "Everything from ordering a Baby on Board badge to checking out buggies"
+     "How we can help people to start using public transport"
     ],
     "link": {
-     "url": "/transport-accessibility/pregnant-women-and-pushchairs",
+     "url": "/transport-accessibility/learn-to-use-public-transport",
      "image": {}
     },
     "image": {
-     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/3349-sm_rdax_400x200.jpg"
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/travel-mentoring700x350_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -177,6 +177,20 @@
     },
     "image": {
      "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/taxi-290-sm_rdax_400x200.jpg"
+    },
+    "wrapped": false
+   },
+   {
+    "title": "Pregnant women and buggy users",
+    "texts": [
+     "Everything from ordering a Baby on board badge to checking out buggies"
+    ],
+    "link": {
+     "url": "/transport-accessibility/pregnant-women-and-pushchairs",
+     "image": {}
+    },
+    "image": {
+     "url": "https://tfl.gov.uk/cdn/static/cms/images/promos/3349-sm_rdax_400x200.jpg"
     },
     "wrapped": false
    },
@@ -219,7 +233,14 @@
       "title": "Accessible travel in London",
       "url": "/cdn/static/cms/documents/accessible-travel-web.pdf",
       "icon": "download",
-      "size": "PDF 981KB",
+      "size": "PDF 883KB",
+      "image": {}
+     },
+     {
+      "title": "Accessible travel in London - easy read version",
+      "url": "/cdn/static/cms/documents/making-it-easy-for-you-to-travel-around-london.pdf",
+      "icon": "download",
+      "size": "PDF 2.26MB",
       "image": {}
      }
     ],

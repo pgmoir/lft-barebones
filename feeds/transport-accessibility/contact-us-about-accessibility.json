@@ -38,7 +38,6 @@
      "\u003cstrong\u003eEmail:\u003c/strong\u003e  \u003ca href=\"mailto:TfLAccessibility@tfl.gov.uk\"\u003eTfLAccessibility@tfl.gov.uk\u003c/a\u003e ",
      "You can write to us at:",
      "TfL Customer Services\u003cbr /\u003e4th Floor\u003cbr /\u003e14 Pier Walk\u003cbr /\u003eLondon SE10 0ES",
-     "For service updates and news follow \u003ca href=\"https://twitter.com/TfLAccess\"\u003e@TfLAccess on Twitter\u003c/a\u003e .",
      "To find out more about \u003ca href=\"/transport-accessibility/learn-to-use-public-transport\"\u003etravel mentoring\u003c/a\u003e contact us on 020 3054 4361*.",
      "If you would like to make a booking for assisted travel on London Overground or TfL Rail, please call 24 hours in advance on 0343 222 2000* between 08:00 and 20:00, Monday to Sunday (excluding Christmas Day). You can also book online on the \u003ca href=\"https://passenger-assist.org/assisttravel/TravelAssist.aspx?LAYOUT=BLANK\u0026TOCCode=DLkP6_p3jo9SUbFl9cJ_ZQ\"\u003epassenger assist\u003c/a\u003e website.",
      "For more information about London Overground assistance, please visit \u003ca href=\"http://www.arrivaraillondon.co.uk/customer-information/accessibility\"\u003eLondon Overground Rail Operations\u003c/a\u003e .",
@@ -55,14 +54,6 @@
  "rhnav": {
   "cards": [
    {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
-   {
     "template": "listgroup",
     "style": "foldernav",
     "title": "Transport accessibility",
@@ -73,7 +64,7 @@
       "image": {}
      },
      {
-      "title": "Public transport support",
+      "title": "Travel mentoring",
       "url": "/transport-accessibility/learn-to-use-public-transport",
       "image": {}
      },
@@ -113,7 +104,7 @@
       "image": {}
      },
      {
-      "title": "Door-to-door transport services",
+      "title": "Assisted transport services",
       "url": "/transport-accessibility/door-to-door-transport-services",
       "image": {}
      },

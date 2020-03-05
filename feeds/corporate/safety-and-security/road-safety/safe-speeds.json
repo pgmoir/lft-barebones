@@ -42,44 +42,42 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"Speed is a factor in at least 37% of collisions where a person is killed or is seriously injured on London's streets. This is why we're lowering speed limits across London.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Watch your speed. The limit's changing\"}",
+     "From 2 March 2020, the roads we operate and manage within the central London Congestion Charging Zone will have a new speed limit of 20mph. Some of these have an existing speed limit of 20 mph, however 19 of 37 of these will be new.",
+     "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/20mph-roads-inner-london.jpg\",\"alt\":\"Map showing new and existing 20 mph roads in Central London\"},\"wrapped\":false}",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/safe-speed-20mph.jpg\",\"alt\":\"TfL road with 20mph speed limit\"},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"20mph roads for London\"}",
      "Collision data from around the world is very clear. It shows that the faster a vehicle is travelling:",
      "{\"template\":\"bulletlist\",\"items\":[\"The more likely a collision will occur because the driver has less time to react, stop or avoid the collision\",\"The more severe an injury resulting from the collision will be\"]}",
-     "We're introducing lower speed limits on our roads in two phases:",
-     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003ePhase 1:\\u003c/strong\\u003e Roads we operate and manage within the central London Congestion Charging zone will have a speed limit of 20mph by 2020. \\u003ca href=\\\"https://consultations.tfl.gov.uk/streets/20/consultation/subpage.2017-09-07.2118848556/\\\"\\u003eFind out how to have your say on our consultation page.\\u003c/a\\u003e \",\"\\u003cstrong\\u003ePhase 2:\\u003c/strong\\u003e Speeds will be lowered on a further 140 kilometres of our road network in inner and outer London, including on the inner ring road, high-risk roads and roads in town centres. This might mean speeds will be lowered along some roads from 50mph to 40mph, or from 40mph to 30mph\"]}",
-     "Many roads operated by London's boroughs, and by TfL, already have speed limits of 20mph.",
-     "Lowering traffic speeds also makes our streets less polluted, and better and safer places to walk and cycle.",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"20mph: the safe speed limit for central London\"}",
-     "The World Health Organisation advises that for roads where space is shared by motor vehicles and people walking, cycling or riding a motorbike, 20mph is the safe speed limit.",
-     "This is because a person walking who is hit by a vehicle travelling at 30mph is up to five times more likely to be killed than if they were hit at 20mph.",
-     "More and more, people are choosing to walk and cycle around London. We must reduce the risk of them being killed or seriously injured.",
+     "For example, if you hit someone at 30mph they're five times more likely to die than if you hit them at 20mph. That's why this new limit is so important and why we ask for you as a driver to watch your speed as you're driving through central London.",
      "{\"template\":\"image\",\"link\":{\"image\":{}},\"image\":{\"url\":\"https://tfl.gov.uk/cdn/static/cms/images/20mph-vehicle-speed-injury.jpg\",\"alt\":\"Diagram shows increased vehicle speed from 20mph to 30mph results in five times more fatal injuries\"},\"wrapped\":false}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Identifying high-risk roads\"}",
-     "All roads operated by TfL in the central London Congestion Charging Zone will be 20mph. This is because of the high numbers of people walking and cycling in the area, as well as the high number of motor vehicles travelling in the area, particularly during peak periods.",
-     "Some of our roads within the central London Congestion Charging Zone are already 20mph and these include:",
-     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eBishopsgate:\\u003c/strong\\u003e between Great Eastern Street and Tooley Street\",\"\\u003cstrong\\u003eFarringdon Street - Farringdon Road - Kings Cross Road:\\u003c/strong\\u003e between Stamford Street and Acton Road\",\"\\u003cstrong\\u003eWestminster Bridge - York Road - Stamford Street - Southwark Street:\\u003c/strong\\u003e between Victoria Embankment and Borough High Street\"]}",
+     " \u003ca href=\"/corporate/safety-and-security/road-safety/driver-safety\"\u003eRead tips on how to drive safely in London.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Speed limit enforcement in London\"}",
+     "The Metropolitan Police enforce all speed limits in London. They do this using on-street officers, mobile speed cameras and fixed speed cameras. In 2018, 154,785 people were caught and penalised for speeding related offences, including 38,878 on 20mph limit roads.",
+     "The Metropolitan Police will continue enforcing all speed limits across London, including where new speed limits are in place.",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"What happens next\"}",
+     "The second phase will look at a further 140 kilometres of our road network in inner and outer London, including on the inner ring road, high-risk roads and roads in town centres.",
      "We've completed a risk analysis to identify roads in inner and outer London where speeds should be lowered to reduce the risk of road users being killed and seriously injured, focusing on town centres and roads with the highest risk of a collision occurring.",
      "The risk analysis considers:",
      "{\"template\":\"bulletlist\",\"items\":[\"The number of deaths and serious injuries that have occurred on the road\",\"Current levels of walking and cycling\",\"Predicted future levels of walking and cycling\",\"Speed limit of surrounding streets\",\"If the road has a town centre, or another location with high volumes of people walking or cycling\",\"If lower speeds on TfL roads would increase traffic in local streets\"]}",
-     "Speed limits on some of the roads within this analysis will be lowered to 20mph, while other roads might see speeds lowered from 50mph to 40mph, or from 40mph to 30mph.",
-     " \u003ca href=\"/cdn/static/cms/documents/vision-zero-action-plan.pdf\"\u003eThe Vision Zero action plan (PDF)\u003c/a\u003e details this work in a chapter on Safe speeds, including a map of the roads that have been identified as high-risk. The map also shows the current and proposed speed limits.",
+     "This might mean speeds will be lowered along some roads from 50mph to 40mph, or from 40mph to 30mph.",
      "We'll be engaging with local communities and road users about how we introduce these limits as we lower speeds across the city.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Lowering speeds with self-enforcing speed limits\"}",
      "There are many different ways to encourage people to drive at lower speeds, but evidence shows that self-enforcing speed limits are the most successful way to reduce speeds.",
      "A self-enforcing speed limit means that people are more likely to drive within the signed speed limit because they feel it's the easiest and safest speed to drive along that road. This is generally because of the way the road looks and has been designed.",
      "Some of the design and engineering measures used to lower speeds are:",
      "{\"template\":\"bulletlist\",\"items\":[\"Signs\",\"Road markings\",\"Speed cushions\",\"Speed bumps\",\"Raising pedestrian crossings\",\"Widening footways for people walking\",\"Giving more space to people cycling\",\"Removing the white line in the centre of a road\",\"Changing the surface of the road\",\"Creating curves along the road that requires vehicles travelling in different directions have to slow down or give way\",\"Introducing more traffic islands in the centre of the road\",\"Placing trees, planters and parklets along the roadside or in the centre of the road\"]}",
-     "There's no 'one size fits all' approach to reducing vehicle speeds. We will need to use different measures depending on the type of road, who uses the road and the road space available.",
-     "Once implemented, we'll continue to monitor the effectiveness of these measures in lowering speeds, so we can determine if more design changes are needed.",
+     "There's no 'one size fits all' approach to reducing vehicle speeds. We use different measures depending on the type of road, who uses the road and the road space available.",
+     "We'll continue to monitor the effectiveness of these measures in lowering speeds, so we can determine if more design changes are needed.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Effect on traffic and pollution\"}",
      "Imperial University's evaluation of 20mph zones in London shows they have no net negative impact on exhaust emissions.",
      "It also shows that in 20mph zones vehicles move more smoothly, with fewer accelerations and decelerations, than in 30mph zones. This smoother driving style actually reduces particulate emissions from tyre and brake wear.",
      " \u003ca href=\"/cdn/static/cms/documents/speed-emissions-and-health.pdf\"\u003eRead a summary of Imperial University's research (PDF).\u003c/a\u003e ",
-     "We closely monitor changes we make to our roads. This may include looking at possible effects on nearby roads as needed.",
-     "You can see more of our work and research to into reducing road danger on the \u003ca href=\"/corporate/publications-and-reports/road-safety\"\u003eRoad Safety Publications and Reports page.\u003c/a\u003e ",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Speed limit enforcement in London\"}",
-     "The Metropolitan Police enforce all speed limits in London. They do this using on-street officers, mobile speed cameras and fixed speed cameras. In 2017/18, 155,729 people were processed for speeding related offences, including 42,771 on 20mph limit roads.",
-     "The Metropolitan Police will continue enforcing all speed limits across London, including where new speed limits are in place."
+     "We closely monitor changes we make to our roads. This may include looking at possible effects on nearby roads as needed. You can see more of our work and research to into reducing road danger on the \u003ca href=\"/corporate/publications-and-reports/road-safety\"\u003eRoad Safety Publications and Reports page.\u003c/a\u003e ",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Achieving lower speeds: the toolkit\"}",
+     "We've published a toolkit outlining the various speed reduction measures that can be used when designing streets in London.",
+     "It can be used by anyone seeking to make our streets safer, healthier and more attractive for walking and cycling. However, it will be of particular relevance to those responsible for implementing specific speed reduction programmes on the Transport for London (TfL) Road Network and local roads managed by the London boroughs.",
+     "{\"template\":\"listgroup\",\"style\":\"nocard\",\"links\":[{\"title\":\"Achieving lower speeds: the toolkit\",\"url\":\"/cdn/static/cms/documents/achieving-lower-speeds-toolkit.pdf\",\"icon\":\"download\",\"size\":\"PDF 4.87MB\",\"image\":{}}],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}"
     ],
     "link": {
      "image": {}
@@ -91,14 +89,6 @@
  },
  "rhnav": {
   "cards": [
-   {
-    "template": "socialmediashare",
-    "link": {
-     "image": {}
-    },
-    "image": {},
-    "wrapped": false
-   },
    {
     "template": "listgroup",
     "style": "foldernav",
@@ -120,7 +110,7 @@
       "image": {}
      },
      {
-      "title": "Safety enforcement cameras",
+      "title": "Safety cameras",
       "url": "/corporate/safety-and-security/road-safety/safety-enforcement-cameras",
       "image": {}
      },
@@ -135,34 +125,19 @@
       "image": {}
      },
      {
-      "title": "Cycle security",
-      "url": "/corporate/safety-and-security/road-safety/cycle-security-plan",
-      "image": {}
-     },
-     {
       "title": "Driver safety",
       "url": "/corporate/safety-and-security/road-safety/driver-safety",
-      "image": {}
-     },
-     {
-      "title": "Walking safety",
-      "url": "/corporate/safety-and-security/road-safety/walking-safety",
       "image": {}
      },
      {
       "title": "Community Roadwatch",
       "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
       "image": {}
-     },
-     {
-      "title": "Safe Streets for London",
-      "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
-      "image": {}
      }
     ],
     "link": {
      "title": "Reducing road danger",
-     "url": "/corporate/safety-and-security/road-safety/safe-streets-for-london",
+     "url": "/corporate/safety-and-security/road-safety/community-roadwatch",
      "image": {}
     },
     "image": {},

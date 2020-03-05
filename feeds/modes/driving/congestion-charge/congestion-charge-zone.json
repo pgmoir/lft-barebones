@@ -37,19 +37,19 @@
     "template": "content",
     "texts": [
      "{\"template\":\"intro\",\"texts\":[\"You need to pay an £11.50 daily charge if you drive within the Congestion Charge zone 07:00-18:00, Monday to Friday. If your vehicle does not meet the Ultra Low Emission Zone (ULEZ) standards, you must also pay the ULEZ charge.\"],\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
-     "The ULEZ operates from midnight to midnight, 7 days a week, every day of the year. The zone covers the same area as the Congestion Charge.",
+     "The ULEZ operates from midnight to midnight, 7 days a week, every day of the year, except Christmas Day (25 Dec). The zone covers the same area as the Congestion Charge.",
      "{\"template\":\"start-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
      "{\"template\":\"end-row\",\"link\":{\"image\":{}},\"image\":{},\"wrapped\":false}",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Postcode and map search\"}",
+     "Enter a postcode to see if it's inside one or more of the charging zones. Results will not be displayed on the map.",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Where it operates\"}",
-     "Enter a street name, postcode or landmark in the search box to see it in comparison to the zones. To pinpoint if an address is inside or outside the zones, use the postcode checker below the map. Open the map menu to also check the LEZ zone.",
-     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Search\"}",
+     "Enter a street name, postcode or landmark in the search box to see its location in relation to the charging zones. View zones to show/hide their areas. To see if an address is inside or outside the zones, use the postcode search instead.",
+     "{\"template\":\"htag\",\"level\":\"h4\",\"value\":\"Map search\"}",
      "Map is not present - please go to postcode",
      "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Charging times\"}",
-     "{\"template\":\"bulletlist\",\"items\":[\"Congestion Charge: No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day and New Year's Day\",\"ULEZ and LEZ: Operate midnight to midnight, every day of the year\"]}",
-     "Find out more about paying the \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003eCongestion Charge\u003c/a\u003e , \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-payments\"\u003eULEZ\u003c/a\u003e and \u003ca href=\"/modes/driving/low-emission-zone/make-a-payment\"\u003eLEZ\u003c/a\u003e .",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Download maps\"}",
-     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Postcode search\"}",
-     "Our postcode checker can tell you if an address is in the Congestion Charge/ULEZ charging zone. (These results will not show on the map above)."
+     "{\"template\":\"bulletlist\",\"items\":[\"\\u003cstrong\\u003eCongestion Charge:\\u003c/strong\\u003e No charge 18:00-07:00 on weekdays or on weekends, public holidays or any days between Christmas Day (25 Dec) and New Year's Day (1 Jan)\",\"\\u003cstrong\\u003eULEZ:\\u003c/strong\\u003e Operates midnight to midnight, every day of the year, except Christmas Day (25 Dec)\",\"\\u003cstrong\\u003eLEZ:\\u003c/strong\\u003e Operates midnight to midnight, every day of the year\",\"\\u003cstrong\\u003eDirect Vision Standard (DVS) and HGV Safety Permit:\\u003c/strong\\u003e Operates at all times for lorries over 12 tonnes gross vehicle weight\"]}",
+     "Find out more about paying the \u003ca href=\"/modes/driving/congestion-charge/paying-the-congestion-charge\"\u003eCongestion Charge\u003c/a\u003e , \u003ca href=\"/modes/driving/ultra-low-emission-zone/ulez-payments\"\u003eULEZ\u003c/a\u003e and \u003ca href=\"/modes/driving/low-emission-zone/make-a-payment\"\u003eLEZ\u003c/a\u003e , and learn more about \u003ca href=\"https://turing.online.tfl.gov.uk/info-for/deliveries-in-london/delivering-safely/direct-vision-in-heavy-goods-vehicles?intcmp=52876\"\u003eDVS\u003c/a\u003e .",
+     "{\"template\":\"htag\",\"level\":\"h3\",\"value\":\"Download maps\"}"
     ],
     "link": {
      "image": {}
@@ -88,11 +88,6 @@
      {
       "title": "Dart Charge",
       "url": "/modes/driving/congestion-charge/dart-charge",
-      "image": {}
-     },
-     {
-      "title": "Unofficial selling websites",
-      "url": "/modes/driving/congestion-charge/unofficial-selling-websites",
       "image": {}
      },
      {

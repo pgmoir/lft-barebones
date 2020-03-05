@@ -123,7 +123,7 @@
             content.CalenderLinkText = "";
             content.ChargesSectionHeading = "Charges";
             content.AboutTheseChangesHeading = "About the charges";
-            content.AboutTheseChangesBody = "<p><strong>Congestion Charge</strong></p><p>This daily charge is for driving a vehicle within the charging zone between 07:00 and 18:00, Monday-Friday.</p><p><strong>Ultra Low Emission Zone (ULEZ)</strong></p><p>A charge must be paid when a vehicle does not meet the emissions standards and is driven within the zone. The ULEZ operates 24 hours a day, 7 days a week within the same area as the Congestion Charging zone.</p><p>A daily charge covers a vehicle between midnight and midnight.</p><p>Lighter vehicles (eg cars, motorbikes and small vans) generally produce fewer emissions - these are charged £12.50 compared to £100 for heavier vehicles. <a href='/modes/driving/compliance-registration/before-you-start' target='_blank'>Register your vehicle</a> with us if you think we have incorrect details for your vehicle and you should pay a different charge, or no charge if it meets the emissions standard.</p><p><strong>Low Emission Zone (LEZ)</strong></p><p>This charge must be paid when a vehicle does not meet the emissions standards and is driven within the zone. The LEZ operates 24 hours a day, 7 days a week and covers most of the Greater London area.</p><p>A daily charge covers a vehicle between midnight and midnight.</p><p>Lighter vehicles generally produce fewer emissions - these are charged £100 compared to £200 for heavier vehicles. <a href='/modes/driving/compliance-registration/before-you-start' target='_blank'>Register your vehicle</a> with us if you think we have incorrect details for your vehicle and you should pay a different charge, or no charge if it meets the emissions standard.</p>";
+            content.AboutTheseChangesBody = "<p><strong>Congestion Charge</strong></p><p>This daily charge is for driving a vehicle within the charging zone between 07:00 and 18:00, Monday-Friday.</p><p><strong>Ultra Low Emission Zone (ULEZ)</strong></p><p>A charge must be paid when a vehicle does not meet the emissions standards and is driven within the zone. The ULEZ operates 24 hours a day, 7 days a week (except 25 December - Christmas Day),&nbsp;within the same area as the Congestion Charging zone.</p><p>A daily charge covers a vehicle between midnight and midnight.</p><p>Lighter vehicles (eg cars, motorbikes and small vans) generally produce fewer emissions - these are charged £12.50 compared to £100 for heavier vehicles. <a href='/modes/driving/compliance-registration/before-you-start' target='_blank'>Register your vehicle</a> with us if you think we have incorrect details for your vehicle and you should pay a different charge, or no charge if it meets the emissions standard.</p><p><strong>Low Emission Zone (LEZ)</strong></p><p>This charge must be paid when a vehicle does not meet the emissions standards and is driven within the zone. The LEZ operates 24 hours a day, 7 days a week and covers most of the Greater London area.</p><p>A daily charge covers a vehicle between midnight and midnight.</p><p>Lighter vehicles generally produce fewer emissions - these are charged £100 compared to £200 for heavier vehicles. <a href='/modes/driving/compliance-registration/before-you-start' target='_blank'>Register your vehicle</a> with us if you think we have incorrect details for your vehicle and you should pay a different charge, or no charge if it meets the emissions standard.</p>";
             content.CongestionChargesPaidwarning = "The Congestion Charge has already been paid for this vehicle for this date";
             content.LezChargesPaidWarning = "The LEZ charge has already been paid for this vehicle for this day";
             content.UlezChargesAddToBasketwarning = "This ULEZ charge is already in your basket";
@@ -177,7 +177,7 @@
             content.DiscountExpiredWarningMessageWhenRenewable = "<p>Your {0} discount expires on {1}.</p><p>If you want to pay charges while logged into your account after this date, you need to renew the discount.</p>";
             content.DiscountExpiredWarningMessageWhenNotRenewable = "<p>Your {0} discount for this vehicle expires on {1}. After that you will need to pay the Congestion Charge to drive within the zone.</p>";
             content.CcFullDiscountMessage = "This vehicle has a 100% Congestion Charge discount for this date. If you still want to pay the charge, tick the box.";
-            content.UlezFullDiscountMessage = "This vehicle has a 100% Congestion Charge discount for this date. If you still want to pay the charge, tick the box."; 
+            content.UlezFullDiscountMessage = "This vehicle has a 100% ULEZ discount for this date. If you still want to pay the charge, tick the box."; 
             content.BlueBadgeRenewUrl = "/modes/driving/cc-blue-badge-renew-renew-34009";
             content.NineSeatDiscountRenewUrl = "/modes/driving/cc-nine-plus-seater-renew-renew-33764";
             content.MotorTricycleUrl = "/modes/driving/cc-motor-tricycle-renew-renew-33800";
@@ -221,9 +221,9 @@
             content.LezLowDetailChargesMessage = "This vehicle does not meet the LEZ emissions standards. You need to pay the LEZ charge if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.";
 
             
-            content.UlezTimings = "Every day, 24 hours a day";
-            content.UlezHighDetailChargesMessage = "This vehicle does not meet ULEZ emissions standards. You need to pay the ULEZ charge for lorries, buses, coaches and other heavier vehicles if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.";
-            content.UlezLowDetailChargesMessage = "This vehicle does not meet ULEZ emissions standards. You need to pay the ULEZ charge for cars, motorbikes, small vans and other lighter vehicles if you drive within the zone. The zone operates at all times - charging days run from midnight to midnight.";
+            content.UlezTimings = "Every day (apart from Christmas Day), 24 hours a day";
+            content.UlezHighDetailChargesMessage = "Vehicle does not meet ULEZ emissions standards. You need to pay the ULEZ charge for lorries, buses, coaches and other heavier vehicles to drive within the zone. ULEZ operates at all times (except 25 December). Charging days run from midnight to midnight.";
+            content.UlezLowDetailChargesMessage = "Vehicle does not meet ULEZ emissions standards. You need to pay the ULEZ charge for cars, motorbikes, small vans and other lighter vehicles to drive within the zone. ULEZ operates at all times (except 25 Dec). Charging days run from midnight to midnight.";
             
             content.UlezExemptChargesDetailMessage = "Based on the vehicle details entered and information held by the DVLA and TfL today, this vehicle is exempt from the ULEZ charge. This may change - always check to see if you need to pay to drive within the zone.";
             content.UlezNonChargeableChargesDetailMessage = "Based on the vehicle details entered and information held by the DVLA and TfL today, you don't have to pay the ULEZ charge for this vehicle. This may change - always check to see if you need to pay to drive within the zone.";
@@ -255,10 +255,7 @@
     
   </div>
   <div class="aside" role="complementary">
-    
-    
-    
-   
+
     
 
         @{
