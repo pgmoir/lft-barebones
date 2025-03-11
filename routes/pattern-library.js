@@ -1,9 +1,10 @@
-const express = require('express');
+import express from 'express';
+import { getPatternLibrary, postFormSubmission } from '../controllers/pattern-library.js';
+
 const router = express.Router();
-const patternLibraryController = require('../controllers/pattern-library');
 
-router.get('/:template', patternLibraryController.getPatternLibrary);
+router.get('/:template', getPatternLibrary);
 
-router.post('/form-submission', patternLibraryController.postFormSubmission);
+router.post('/form-submission', postFormSubmission);
 
-module.exports = router;
+export default router;

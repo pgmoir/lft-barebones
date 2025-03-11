@@ -1,7 +1,8 @@
-const express = require('express');
+import express from 'express';
+import { getMode } from '../controllers/status.js';
+
 const router = express.Router();
-const statusController = require('../controllers/status');
 
-router.get('/:mode/:when?', statusController.getMode);
+router.get('/:mode/:when?', getMode);
 
-module.exports = router;
+export default router;

@@ -81,11 +81,6 @@ $tram: #66cc00;
 $tram-dark: #2b5205;
 $tram-reverse: $white;
 
-$tflrail: #0019a8;
-$tfl-rail: #0019a8;
-$tflrail-dark: #020931;
-$tflrail-reverse: $white;
-
 .bg-bus { background-color: $bus; color: $bus-reverse; }
 .bg-bakerloo { background-color: $bakerloo; color: $bakerloo-reverse; }
 .bg-central { background-color: $central; color: $central-reverse; }
@@ -101,4 +96,3 @@ $tflrail-reverse: $white;
 .bg-overground, .bg-london-overground { background-color: $overground; color: $overground-reverse; }
 .bg-dlr { background-color: $dlr; color: $dlr-reverse; }
 .bg-tram { background-color: $tram; color: $tram-reverse; }
-.bg-tflrail, .bg-tfl-rail { background-color: $tflrail; color: $tflrail-reverse; }

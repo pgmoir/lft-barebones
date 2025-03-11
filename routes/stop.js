@@ -1,7 +1,8 @@
-const express = require('express');
+import express from 'express';
+import { getStop } from '../controllers/stop.js';
+
 const router = express.Router();
-const stopController = require('../controllers/stop');
 
-router.get('/:stopref', stopController.getStop);
+router.get('/:stopref', getStop);
 
-module.exports = router;
+export default router;

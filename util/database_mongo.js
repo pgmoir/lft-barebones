@@ -1,9 +1,9 @@
-const mongodb = require('mongodb');
+import mongodb from 'mongodb';
 const MongoClient = mongodb.MongoClient;
 
 let _db;
 
-const dbConnection = process.env.MONGODB_URL || 'mongodb://localhost:27017/lftbarebones';
+const dbConnection = process.env.MONGODB_URL;
 
 const mongoConnect = callback => {
   MongoClient
@@ -26,5 +26,5 @@ const getDb = () => {
   throw 'No database found';
 }
 
-exports.mongoConnect = mongoConnect;
-exports.getDb = getDb;
+export const mongoConnect = mongoConnect;
+export const getDb = getDb;

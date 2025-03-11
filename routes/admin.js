@@ -1,14 +1,14 @@
-const express = require('express');
-const router = express.Router();
-const { body } = require('express-validator/check');
+import express from 'express';
+import { body } from 'express-validator';
+import { deleteProduct, getAddProduct, getEditProduct, getProducts, postAddProduct, postEditProduct } from '../controllers/admin.js';
 
-const adminController = require('../controllers/admin');
+const router = express.Router();
 
 // all routes in this module require authentication
 
-router.get('/products', adminController.getProducts);
+router.get('/products', getProducts);
 
-router.get('/add-product', adminController.getAddProduct);
+router.get('/add-product', getAddProduct);
 
 router.post(
   '/add-product',
@@ -20,9 +20,9 @@ router.post(
     body('description', 'Please enter a description of at least 10 characters')
       .isLength({min: 10})
   ],
-  adminController.postAddProduct);
+  postAddProduct);
 
-router.get('/edit-product/:productId', adminController.getEditProduct);
+router.get('/edit-product/:productId', getEditProduct);
 
 router.post(
   '/edit-product',
@@ -34,8 +34,8 @@ router.post(
     body('description', 'Please enter a description of at least 10 characters')
       .isLength({min: 10})
   ], 
-  adminController.postEditProduct);
+  postEditProduct);
 
-router.delete('/delete-product/:productId', adminController.deleteProduct);
+router.delete('/delete-product/:productId', deleteProduct);
 
-module.exports = router;
+export default router;

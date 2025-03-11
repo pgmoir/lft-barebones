@@ -1,4 +1,4 @@
-exports.getPlanAJourney = (req, res, next) => {
+export const getPlanAJourney = (req, res, next) => {
   res.render('plan-a-journey/index', { 
     "pageTitle": "Plan a journey",
     "keywords": "TfL,stations stops piers",

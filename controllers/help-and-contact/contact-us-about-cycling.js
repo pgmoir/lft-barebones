@@ -1,6 +1,6 @@
-const ContactUs = require('../../models/contact-us');
-const UserActivity = require('../../models/user-activity');
-const { validationResult } = require('express-validator/check');
+import { validationResult } from 'express-validator';
+import { ContactUs } from '../../models/contact-us.js';
+import { UserActivity } from '../../models/user-activity.js';
 
 const config = {
   activity: 'contactus',
@@ -22,7 +22,7 @@ const config = {
     ]}
 };
 
-exports.getContact = (req, res, next) => {
+export const getContactAboutCycling = (req, res, next) => {
   let form = req.session.form;
   let phase = req.query.phase;
 
@@ -45,7 +45,7 @@ exports.getContact = (req, res, next) => {
   });
 };
 
-exports.postContact = (req, res, next) => {
+export const postContactAboutCycling = (req, res, next) => {
   let form = req.session.form;
   let phase = req.query.phase;
   let errors = validationResult(req);

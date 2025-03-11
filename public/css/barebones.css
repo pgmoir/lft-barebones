@@ -91,9 +91,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   .barebones .bg-tram {
     background-color: #66cc00;
     color: #ffffff; }
-  .barebones .bg-tflrail, .barebones .bg-tfl-rail {
-    background-color: #0019a8;
-    color: #ffffff; }
   .barebones .svgtitle {
     transform-origin: 100% 90%;
     transform: scale(3.5, 3.5); }

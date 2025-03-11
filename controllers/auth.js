@@ -1,15 +1,15 @@
-const crypto = require('crypto');
-const bcrypt = require('bcryptjs');
-const sgMail = require('@sendgrid/mail');
-const User = require('../models/user');
-const { validationResult} = require('express-validator/check');
+import sgMail from '@sendgrid/mail';
+import bcrypt from 'bcryptjs';
+import crypto from 'crypto';
+import { validationResult } from 'express-validator';
+import { User } from '../models/user.js';
 
 const SENDGRID_API_KEY = process.env.SENDGRID_API_KEY;
-const DOMAIN_URL = process.env.DOMAIN_URL || 'http://localhost:5000';
+const DOMAIN_URL = process.env.DOMAIN_URL;
 
 sgMail.setApiKey(SENDGRID_API_KEY);
 
-exports.getSignup = (req, res, next) => {
+export const getSignup = (req, res, next) => {
   res.render('auth/signup', {
     path: '/signup',
     pageTitle: 'Signup',
@@ -18,7 +18,7 @@ exports.getSignup = (req, res, next) => {
   });
 };
 
-exports.getReset = (req, res, next) => {
+export const getReset = (req, res, next) => {
   res.render('auth/reset', {
     path: '/reset',
     pageTitle: 'Reset Password',
@@ -26,7 +26,7 @@ exports.getReset = (req, res, next) => {
   });
 };
 
-exports.getLogin = (req, res, next) => {
+export const getLogin = (req, res, next) => {
   var returnUrl = req.query.url;
 
   res.render('auth/login', {
@@ -38,14 +38,13 @@ exports.getLogin = (req, res, next) => {
   });
 };
 
-exports.postLogin = (req, res, next) => {
+export const postLogin = (req, res, next) => {
   const email = req.body.email;
   const password = req.body.password;
   const returnUrl = req.body.returnUrl;
 
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
-    console.log(errors.array());
     return res.status(422).render('auth/login', {
       path: '/login',
       pageTitle: 'Login',
@@ -74,7 +73,6 @@ exports.postLogin = (req, res, next) => {
           res.redirect('/login');
         })
         .catch(err => {
-          console.log(err);
           res.redirect('/login');
         });
     })
@@ -85,9 +83,8 @@ exports.postLogin = (req, res, next) => {
     });
 };
 
-exports.postSignup = (req, res, next) => {
+export const postSignup = (req, res, next) => {
   const email = req.body.email;
-  console.log(req.body);
   const password = req.body.password;
 
   const errors = validationResult(req);
@@ -125,7 +122,7 @@ exports.postSignup = (req, res, next) => {
     });
 };
 
-exports.postReset = (req, res, next) => {
+export const postReset = (req, res, next) => {
   crypto.randomBytes(32, (err, buffer) => {
     if (err) {
       console.log(err);
@@ -136,7 +133,7 @@ exports.postReset = (req, res, next) => {
       .findOne({email: req.body.email})
       .then(user => {
         if (!user) {
-          req.flash('errors', 'You have entered an invalid email or password');
+          // req.flash('errors', 'You have entered an invalid email or password');
           return res.redirect('/reset');
         }
         user.resetToken = token;
@@ -165,14 +162,14 @@ exports.postReset = (req, res, next) => {
   });
 };
 
-exports.postLogout = (req, res, next) => {
+export const postLogout = (req, res, next) => {
   req.session.destroy(err => {
     console.log(err);
     res.redirect('/shop/');
   });
 };
 
-exports.getNewPassword = (req, res, next) => {
+export const getNewPassword = (req, res, next) => {
   const token = req.params.token;
   User
     .findOne({resetToken: token, resetTokenExpiration: {$gt: Date.now()}})
@@ -189,7 +186,7 @@ exports.getNewPassword = (req, res, next) => {
     });
 };
 
-exports.postNewPassword = (req, res, next) => {
+export const postNewPassword = (req, res, next) => {
   const userId = req.body.userId;
   const newPassword = req.body.password;
   const passwordToken = req.body.passwordToken;

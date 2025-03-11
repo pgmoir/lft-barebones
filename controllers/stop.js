@@ -205,7 +205,7 @@ function getMileEnd() {
 
 };
 
-exports.getStop = (req, res, next) => {
+export const getStop = (req, res, next) => {
   let naptan = req.params.stopref;
   
   var stoppoint;

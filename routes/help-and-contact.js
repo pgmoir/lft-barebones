@@ -1,22 +1,23 @@
-const express = require('express');
+import express from 'express';
+import { check } from 'express-validator';
+
+import { getContact, postContact } from '../controllers/help-and-contact/contact-us-about-contactless.js';
+import { getContactAboutCycling, postContactAboutCycling } from '../controllers/help-and-contact/contact-us-about-cycling.js';
+
+import { isAuth } from '../middleware/is-auth.js';
+
 const router = express.Router();
-const { check } = require('express-validator/check');
 
-const contactlessController = require('../controllers/help-and-contact/contact-us-about-contactless');
-const cyclingController = require('../controllers/help-and-contact/contact-us-about-cycling');
-
-const isAuth = require('../middleware/is-auth');
-
-router.get('/contact-us-about-contactless', isAuth, contactlessController.getContact);
+router.get('/contact-us-about-contactless', isAuth, getContact);
 router.post('/contact-us-about-contactless', 
   check('comments').isLength({min: 10}).withMessage('You must enter at least 10 characters'), 
-  isAuth, contactlessController.postContact);
+  isAuth, postContact);
 
-router.get('/contact-us-about-cycling', isAuth, cyclingController.getContact);
+router.get('/contact-us-about-cycling', isAuth, getContactAboutCycling);
 router.post('/contact-us-about-cycling', 
   check('comments').isLength({min: 10}).withMessage('You must enter at least 10 characters'), 
-  isAuth, cyclingController.postContact);
+  isAuth, postContactAboutCycling);
 
 //router.get('/user-comments', helpAndContactController.getAllUserComments);
 
-module.exports = router;
+export default router;

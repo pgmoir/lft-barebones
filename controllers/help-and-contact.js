@@ -1,15 +1,15 @@
-const UserComment = require("../models/user-comment");
+import UserComment from '../models/user-comment.js';
 
 const formName = 'contactusaboutcontactless';
 const formPhases = [ 'reason', 'comments', 'documents', 'summary', 'complete', 'error' ];
 
-exports.getContactUsAboutContactless = (req, res, next) => {
+export const getContactUsAboutContactless = (req, res, next) => {
   res.render('help-and-contact/contact-us-about-contactless', { 
     pageTitle: 'Something to tell us about Ccontactless?'
   });
 };
 
-exports.postContactUsAboutContactless = (req, res, next) => {
+export const postContactUsAboutContactless = (req, res, next) => {
   const reason = req.body.reason;
   const comments = req.body.comments;
 
@@ -38,7 +38,7 @@ exports.postContactUsAboutContactless = (req, res, next) => {
     });
 };
 
-exports.getContactUsAboutContactlessRevised = (req, res, next) => {
+export const getContactUsAboutContactlessRevised = (req, res, next) => {
   let form = req.session.form;
   let phase = req.query.phase;
 
@@ -59,7 +59,7 @@ exports.getContactUsAboutContactlessRevised = (req, res, next) => {
   });
 };
 
-exports.postContactUsAboutContactlessRevised = (req, res, next) => {
+export const postContactUsAboutContactlessRevised = (req, res, next) => {
   console.log(req.body);
   let form = req.session.form;
   let phase = req.query.phase;
@@ -99,7 +99,7 @@ exports.postContactUsAboutContactlessRevised = (req, res, next) => {
   });
 };
 
-exports.getAllUserComments = (req, res, next) => {
+export const getAllUserComments = (req, res, next) => {
   UserComment
     .find()
     .then((userComments) => {

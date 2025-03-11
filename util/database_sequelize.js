@@ -1,4 +1,4 @@
-const Sequelize = require('sequelize');
+import Sequelize from 'sequelize';
 
 function getDbConnection(dbUrl) {
    var dbConnection = {};
@@ -13,7 +13,7 @@ function getDbConnection(dbUrl) {
    return dbConnection;
 }
 
-const dbConnection = getDbConnection(process.env.CLEARDB_DATABASE_URL || 'mysql://root:mysql.12345@localhost/node-complete?reconnect=true')
+const dbConnection = getDbConnection(process.env.CLEARDB_DATABASE_URL)
 
 // const pool = mysql.createPool({
 //    host: dbConnection.host,

@@ -1,4 +1,4 @@
-const axios = require('axios');
+import axios from 'axios';
 
 function compareStatusSeverity(a, b) {
   if (a.lineStatuses[0].statusSeverity < b.lineStatuses[0].statusSeverity) {
@@ -13,7 +13,7 @@ function compareStatusSeverity(a, b) {
 function getTubeDlrOverground() {
   return axios({
     method: 'get',
-    url: 'http://api.tfl.gov.uk/Line/Mode/tube,dlr,overground,tflrail,tram/Status?detail=false&app_id=8268063a&app_key=14f7f5ff5d64df2e88701cef2049c804&tflTypeNames=1'
+    url: 'http://api.tfl.gov.uk/Line/Mode/tube,dlr,overground,tram/Status?detail=false&app_id=8268063a&app_key=14f7f5ff5d64df2e88701cef2049c804&tflTypeNames=1'
   })
   .then(response => {
     var statusResponse = response.data.sort(compareStatusSeverity);
@@ -98,9 +98,9 @@ function getNationalRail() {
   }
 }
 
-exports.getMode = async (req, res, next) => {
+export const getMode = async (req, res, next) => {
   let mode = req.params.mode;
-  let when = req.params.when || 'now';
+  let when = 'now';
 
   var modeStatus;
   switch (mode) {

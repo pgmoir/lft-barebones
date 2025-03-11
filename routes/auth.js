@@ -1,12 +1,12 @@
-const express = require('express');
-const { check, body } =require('express-validator/check');
+import express from 'express';
+import { body, check } from 'express-validator';
 
-const authController = require('../controllers/auth');
-const User = require('../models/user');
+import { getLogin, getNewPassword, getReset, getSignup, postLogin, postLogout, postNewPassword, postReset, postSignup } from '../controllers/auth.js';
+import { User } from '../models/user.js';
 
 const router = express.Router();
 
-router.get('/login', authController.getLogin);
+router.get('/login', getLogin);
 
 router.post(
   '/login', 
@@ -16,9 +16,9 @@ router.post(
     body('password', 'Please enter a valid password')
       .isLength({min: 5})
   ],
-  authController.postLogin);
+  postLogin);
 
-router.get('/signup', authController.getSignup);
+router.get('/signup', getSignup);
 
 router.post(
   '/signup', 
@@ -47,16 +47,16 @@ router.post(
       })
       .trim()
   ],
-  authController.postSignup);
+  postSignup);
 
-router.get('/reset', authController.getReset);
+router.get('/reset', getReset);
 
-router.post('/reset', authController.postReset);
+router.post('/reset', postReset);
 
-router.get('/reset/:token', authController.getNewPassword);
+router.get('/reset/:token', getNewPassword);
 
-router.post('/new-password', authController.postNewPassword);
+router.post('/new-password', postNewPassword);
 
-router.post('/logout', authController.postLogout);
+router.post('/logout', postLogout);
 
-module.exports = router;
+export default router;

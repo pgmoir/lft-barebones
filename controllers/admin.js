@@ -1,10 +1,11 @@
-const Product = require('../models/product');
-const { validationResult} = require('express-validator/check');
-const fileHelper = require('../util/file');
+import { validationResult } from 'express-validator';
+import { Product } from '../models/product.js';
+import { deleteImage } from '../util/file.js';
+
 
 const ITEMS_PER_PAGE = 3;
 
-exports.getAddProduct = (req, res, next) => {
+export const getAddProduct = (req, res, next) => {
   res.render('admin/edit-product', {
     pageTitle: 'Add Product',
     path: '/admin/add-product',
@@ -18,7 +19,7 @@ exports.getAddProduct = (req, res, next) => {
   });
 };
 
-exports.postAddProduct = (req, res, next) => {
+export const postAddProduct = (req, res, next) => {
   const title = req.body.title;
   const image = req.file;
   const price = req.body.price;
@@ -70,7 +71,7 @@ exports.postAddProduct = (req, res, next) => {
     });
 };
 
-exports.getEditProduct = (req, res, next) => {
+export const getEditProduct = (req, res, next) => {
   const editMode = req.query.edit;
   if (!editMode) {
     return res.redirect('/');
@@ -96,7 +97,7 @@ exports.getEditProduct = (req, res, next) => {
     });
 };
 
-exports.postEditProduct = (req, res, next) => {
+export const postEditProduct = (req, res, next) => {
   const prodId = req.body.productId;
   const updatedTitle = req.body.title;
   const updatedPrice = req.body.price;
@@ -128,12 +129,11 @@ exports.postEditProduct = (req, res, next) => {
       product.price = updatedPrice;
       product.description = updatedDesc;
       if (image) {
-        fileHelper.deleteImage(product.image);
+        deleteImage(product.image);
         product.image = image.key;
         product.imageUrl = image.location;
       }
       return product.save().then(result => {
-        console.log('UPDATED PRODUCT!')
         res.redirect('/admin/products');
       });
     })
@@ -144,7 +144,7 @@ exports.postEditProduct = (req, res, next) => {
     });
 };
 
-exports.getProducts = (req, res, next) => {
+export const getProducts = (req, res, next) => {
   const page = +req.query.page || 1;
   let totalItems;
 
@@ -182,7 +182,7 @@ exports.getProducts = (req, res, next) => {
     });
 };
 
-exports.deleteProduct = (req, res, next) => {
+export const deleteProduct = (req, res, next) => {
   const prodId = req.params.productId;
   Product.findById(prodId)
     .then(product => {
@@ -193,7 +193,6 @@ exports.deleteProduct = (req, res, next) => {
       return Product.deleteOne({ _id: prodId, userId: req.user._id });
     })
     .then(() => {
-      console.log('DESTROYED PRODUCT!');
       res.status(200).json({ message: 'Success' });
     })
     .catch(err => {

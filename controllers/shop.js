@@ -1,15 +1,18 @@
-const fs = require('fs');
-const path = require('path');
-const PdfDocument = require('pdfkit');
+import path from 'path';
+import PdfDocument from 'pdfkit';
 
-const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
+// import Stripe from 'stripe';
 
-const Product = require('../models/product');
-const Order = require('../models/order');
+import { Order } from '../models/order.js';
+import { Product } from '../models/product.js';
 
 const ITEMS_PER_PAGE = 3;
 
-exports.getProduct = (req, res, next) => {
+// const stripe = new Stripe(process.env.STRIPE_SECRET_KEY, {
+//   apiVersion: '2023-08-16',
+// });
+
+export const getProduct = (req, res, next) => {
   const prodId = req.params.productId;
   Product.findById(prodId)
     .then(product => {
@@ -26,7 +29,7 @@ exports.getProduct = (req, res, next) => {
     });
 };
 
-exports.getIndex = (req, res, next) => {
+export const getIndex = (req, res, next) => {
   const page = +req.query.page || 1;
   let totalItems;
 
@@ -60,7 +63,7 @@ exports.getIndex = (req, res, next) => {
     });
 };
 
-exports.getCart = (req, res, next) => {
+export const getCart = (req, res, next) => {
   req.user
     .populate('cart.items.productId')
     .execPopulate()
@@ -79,7 +82,7 @@ exports.getCart = (req, res, next) => {
     });
 };
 
-exports.postCart = (req, res, next) => {
+export const postCart = (req, res, next) => {
   const prodId = req.body.productId;
   Product.findById(prodId)
     .then(product => {
@@ -90,7 +93,7 @@ exports.postCart = (req, res, next) => {
     });
 };
 
-exports.postCartDeleteProduct = (req, res, next) => {
+export const postCartDeleteProduct = (req, res, next) => {
   const prodId = req.body.productId;
   req.user
     .removeFromCart(prodId)
@@ -104,7 +107,7 @@ exports.postCartDeleteProduct = (req, res, next) => {
     });
 };
 
-exports.postOrder = (req, res, next) => {
+export const postOrder = (req, res, next) => {
   const token = req.body.stripeToken;
   let totalPrice = 0;
 
@@ -128,15 +131,15 @@ exports.postOrder = (req, res, next) => {
       return order.save();
     })
     .then(result => {
-      const charge = stripe.charges.create({
-        amount: totalPrice * 100,
-        currency: 'gbp',
-        description: 'Order from LFT',
-        source: token,
-        metadata: {
-          order_id: result._id.toString()
-        }
-      });
+      // const charge = stripe.charges.create({
+      //   amount: totalPrice * 100,
+      //   currency: 'gbp',
+      //   description: 'Order from LFT',
+      //   source: token,
+      //   metadata: {
+      //     order_id: result._id.toString()
+      //   }
+      // });
       return req.user.clearCart();
     })
     .then(() => {
@@ -149,7 +152,7 @@ exports.postOrder = (req, res, next) => {
     });
 };
 
-exports.getOrders = (req, res, next) => {
+export const getOrders = (req, res, next) => {
   Order.find({ 'user.userId': req.user._id })
     .then(orders => {
       res.render('shop/orders', {
@@ -165,7 +168,7 @@ exports.getOrders = (req, res, next) => {
     });
 };
 
-exports.getInvoice = (req, res, next) => {
+export const getInvoice = (req, res, next) => {
   const orderId = req.params.orderId;
   Order.findById(orderId)
     .then(order => {
@@ -221,7 +224,7 @@ exports.getInvoice = (req, res, next) => {
     .catch(err => next(err));
 }
 
-exports.getCheckout = (req, res, next) => {
+export const getCheckout = (req, res, next) => {
   req.user
     .populate('cart.items.productId')
     .execPopulate()

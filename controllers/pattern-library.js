@@ -1,4 +1,4 @@
-exports.getPatternLibrary = (req, res, next) => {
+export const getPatternLibrary = (req, res, next) => {
   try {
     res.render('pattern-library/' + req.params.template, { 
       pageTitle: req.params.template
@@ -8,7 +8,7 @@ exports.getPatternLibrary = (req, res, next) => {
   }
 };
 
-exports.postFormSubmission = (req, res, next) => {
+export const postFormSubmission = (req, res, next) => {
   console.log(req.body)
   res.render('pattern-library/form-submission', 
   { 

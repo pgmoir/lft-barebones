@@ -1,7 +1,8 @@
-const express = require('express');
+import express from 'express';
+import { getPlanAJourney } from '../controllers/plan-a-journey.js';
+
 const router = express.Router();
-const planAJourneyController = require('../controllers/plan-a-journey');
 
-router.get('/index', planAJourneyController.getPlanAJourney);
+router.get('/index', getPlanAJourney);
 
-module.exports = router;
+export default router;
