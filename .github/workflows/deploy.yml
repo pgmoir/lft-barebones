@@ -22,9 +22,10 @@ jobs:
 
       - name: Check SSH Key File
         run: |
+          mkdir -p ~/.ssh  # Ensure .ssh directory exists
           echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          ls -lah ~/.ssh  # Check if the file exists
+          ls -lah ~/.ssh  # Verify directory and files exist
           file ~/.ssh/id_rsa  # Check file type
 
       # mkdir -p ~/.ssh/
