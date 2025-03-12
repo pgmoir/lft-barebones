@@ -10,17 +10,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # - name: Checkout repository
-      #   uses: actions/checkout@v3
-
-      - name: Debug Secret Presence
-        run: |
-          if [ -z "${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}" ]; then
-            echo "ERROR: AWS_SSH_PRIVATE_KEY_B64 is missing!"
-            exit 1
-          else
-            echo "AWS_SSH_PRIVATE_KEY_B64 is set."
-          fi
+      - name: Checkout repository
+        uses: actions/checkout@v3
     
       - name: Setup SSH Key
         run: |
@@ -28,13 +19,7 @@ jobs:
           echo "${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}" | base64 -d > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ls -lah ~/.ssh
-
-      - name: Debug SSH connection
-        run: |
-          ssh -v -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@13.41.185.213 whoami
-        
-      # file ~/.ssh/id_rsa
-      # ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+          ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
 
       # - name: Deploy to EC2
       #   run: |
