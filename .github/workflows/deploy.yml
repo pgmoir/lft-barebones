@@ -28,8 +28,13 @@ jobs:
           echo "${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}" | base64 -d > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ls -lah ~/.ssh
-          file ~/.ssh/id_rsa
-          ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+
+      - name: Debug SSH connection
+        run: |
+          ssh -v -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@13.41.185.213 whoami
+        
+      # file ~/.ssh/id_rsa
+      # ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
 
       # - name: Deploy to EC2
       #   run: |
