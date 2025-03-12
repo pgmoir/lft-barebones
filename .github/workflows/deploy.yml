@@ -58,23 +58,24 @@ jobs:
           echo "Copying files to EC2... package.json"
           scp -i ~/.ssh/id_rsa ./package.json ubuntu@13.41.185.213:/home/ubuntu/app/
           echo "Copying files to EC2... views"
-          scp -i ~/.ssh/id_rsa -r ./views/ ubuntu@13.41.185.213:/home/ubuntu/app/views/
-          echo "Copying files to EC2... util"
-          scp -i ~/.ssh/id_rsa -r ./util/ ubuntu@13.41.185.213:/home/ubuntu/app/util/
-          echo "Copying files to EC2... routes"
-          scp -i ~/.ssh/id_rsa -r ./routes/ ubuntu@13.41.185.213:/home/ubuntu/app/routes/
-          echo "Copying files to EC2... public"
-          scp -i ~/.ssh/id_rsa -r ./public/ ubuntu@13.41.185.213:/home/ubuntu/app/public/
-          echo "Copying files to EC2... models"
-          scp -i ~/.ssh/id_rsa -r ./models/ ubuntu@13.41.185.213:/home/ubuntu/app/models/
-          echo "Copying files to EC2... middleware"
-          scp -i ~/.ssh/id_rsa -r ./middleware/ ubuntu@13.41.185.213:/home/ubuntu/app/middleware/
-          echo "Copying files to EC2... helpers"
-          scp -i ~/.ssh/id_rsa -r ./helpers/ ubuntu@13.41.185.213:/home/ubuntu/app/helpers/
-          echo "Copying files to EC2... feeds"
-          scp -i ~/.ssh/id_rsa -r ./feeds/ ubuntu@13.41.185.213:/home/ubuntu/app/feeds/
-          echo "Copying files to EC2... controllers"
-          scp -i ~/.ssh/id_rsa -r ./controllers/ ubuntu@13.41.185.213:/home/ubuntu/app/controllers/
+          # scp -i ~/.ssh/id_rsa -r ./views/ ubuntu@13.41.185.213:/home/ubuntu/app/views/
+          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./views/ ubuntu@13.41.185.213:/home/ubuntu/app/views/
+          # echo "Copying files to EC2... util"
+          # scp -i ~/.ssh/id_rsa -r ./util/ ubuntu@13.41.185.213:/home/ubuntu/app/util/
+          # echo "Copying files to EC2... routes"
+          # scp -i ~/.ssh/id_rsa -r ./routes/ ubuntu@13.41.185.213:/home/ubuntu/app/routes/
+          # echo "Copying files to EC2... public"
+          # scp -i ~/.ssh/id_rsa -r ./public/ ubuntu@13.41.185.213:/home/ubuntu/app/public/
+          # echo "Copying files to EC2... models"
+          # scp -i ~/.ssh/id_rsa -r ./models/ ubuntu@13.41.185.213:/home/ubuntu/app/models/
+          # echo "Copying files to EC2... middleware"
+          # scp -i ~/.ssh/id_rsa -r ./middleware/ ubuntu@13.41.185.213:/home/ubuntu/app/middleware/
+          # echo "Copying files to EC2... helpers"
+          # scp -i ~/.ssh/id_rsa -r ./helpers/ ubuntu@13.41.185.213:/home/ubuntu/app/helpers/
+          # echo "Copying files to EC2... feeds"
+          # scp -i ~/.ssh/id_rsa -r ./feeds/ ubuntu@13.41.185.213:/home/ubuntu/app/feeds/
+          # echo "Copying files to EC2... controllers"
+          # scp -i ~/.ssh/id_rsa -r ./controllers/ ubuntu@13.41.185.213:/home/ubuntu/app/controllers/
 
           # Install dependencies and restart app on EC2 instance
           echo "Installing dependencies..."
