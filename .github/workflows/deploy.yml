@@ -51,7 +51,7 @@ jobs:
           chmod 600 ~/.ssh/id_rsa  # Set the correct permissions for the private key
       
           # Copy files from the runner to the EC2 instance using scp
-          scp -i ~/.ssh/id_rsa -r ./ ubuntu@13.41.185.213:/path/to/deploy/
+          scp -i ~/.ssh/id_rsa -r ./ ubuntu@13.41.185.213:/
         env:
           SSH_PRIVATE_KEY: ${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}
         
