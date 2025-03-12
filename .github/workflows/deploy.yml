@@ -51,7 +51,16 @@ jobs:
           chmod 600 ~/.ssh/id_rsa  # Set the correct permissions for the private key
       
           # Copy files from the runner to the EC2 instance using scp
-          scp -i ~/.ssh/id_rsa -r ./ ubuntu@13.41.185.213:/
+          cd ~/app || mkdir -p ~/app && cd ~/app
+          scp -i ~/.ssh/id_rsa -r ./ ubuntu@13.41.185.213:/app
+
+          # Install dependencies
+          npm install
+          
+          # Restart app using PM2
+          pm2 stop all || true
+          pm2 start server.js --name "node-app"
+          pm2 save
         env:
           SSH_PRIVATE_KEY: ${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}
         
