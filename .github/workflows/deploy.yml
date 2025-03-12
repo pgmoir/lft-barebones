@@ -23,7 +23,8 @@ jobs:
       - name: Check SSH Key File
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          echo "${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}" | base64 -d > ~/.ssh/id_rsa
+
           chmod 600 ~/.ssh/id_rsa
           ls -lah ~/.ssh
           file ~/.ssh/id_rsa
