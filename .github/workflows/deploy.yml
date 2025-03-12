@@ -13,13 +13,15 @@ jobs:
       # - name: Checkout repository
       #   uses: actions/checkout@v3
 
-      # - name: Deploy to EC2
-      #   run: |
-      #     ssh -i ~/.ssh/id_rsa ubuntu@13.41.185.213 << 'EOF'
-      #       mkdir -p ~/.ssh  # This now runs on EC2
-      #       echo "Created .ssh directory on EC2"
-      #     EOF
-
+      - name: Debug Secret Presence
+        run: |
+          if [ -z "${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}" ]; then
+            echo "ERROR: AWS_SSH_PRIVATE_KEY_B64 is missing!"
+            exit 1
+          else
+            echo "AWS_SSH_PRIVATE_KEY_B64 is set."
+          fi
+    
       - name: Setup SSH Key
         run: |
           mkdir -p ~/.ssh
