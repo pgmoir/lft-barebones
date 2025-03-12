@@ -20,12 +20,13 @@ jobs:
       #       echo "Created .ssh directory on EC2"
       #     EOF
 
-      - name: Setup SSH
-        env:
-          AWS_SSH_PRIVATE_KEY: ${{ secrets.AWS_SSH_PRIVATE_KEY }}
+      - name: Check SSH Key File
         run: |
-          echo "$AWS_SSH_PRIVATE_KEY"
-          
+          echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ls -lah ~/.ssh  # Check if the file exists
+          file ~/.ssh/id_rsa  # Check file type
+
       # mkdir -p ~/.ssh/
       # echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
       # chmod 600 ~/.ssh/id_rsa
