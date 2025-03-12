@@ -20,11 +20,10 @@ jobs:
       #       echo "Created .ssh directory on EC2"
       #     EOF
 
-      - name: Check SSH Key File
+      - name: Setup SSH Key
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.AWS_SSH_PRIVATE_KEY_B64 }}" | base64 -d > ~/.ssh/id_rsa
-
           chmod 600 ~/.ssh/id_rsa
           ls -lah ~/.ssh
           file ~/.ssh/id_rsa
