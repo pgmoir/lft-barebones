@@ -22,33 +22,15 @@ jobs:
 
       - name: Check SSH Key File
         run: |
-          mkdir -p ~/.ssh  # Ensure .ssh directory exists
+          mkdir -p ~/.ssh
           echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ls -lah ~/.ssh  # Verify directory and files exist
           file ~/.ssh/id_rsa  # Check file type
-
-      # mkdir -p ~/.ssh/
-      # echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-      # chmod 600 ~/.ssh/id_rsa
-      # cat ~/.ssh/id_rsa | head -n 5  # Print first 5 lines for debugging (ensure it's set)
-      # ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
-
-      # - name: Debug Secrets
-      #   run: |
-      #     if [ -z "${{ secrets.AWS_SSH_PRIVATE_KEY }}" ]; then
-      #       echo "AWS_SSH_PRIVATE_KEY is missing!"
-      #       exit 1
-      #     else
-      #       echo "AWS_SSH_PRIVATE_KEY is set."
-      #     fi
       
-      # - name: Setup SSH
-      #   run: |
-      #     mkdir -p ~/.ssh
-      #     echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-      #     chmod 600 ~/.ssh/id_rsa
-      #     ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+      - name: Setup SSH
+        run: |
+          ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
 
       # - name: Deploy to EC2
       #   run: |
