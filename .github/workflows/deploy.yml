@@ -1,5 +1,5 @@
-name: Deploy
 
+name: Deploy
 
 on:
   push:
@@ -13,6 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Debug Secrets
+        run: |
+          if [ -z "${{ secrets.AWS_SSH_PRIVATE_KEY }}" ]; then
+            echo "AWS_SSH_PRIVATE_KEY is missing!"
+            exit 1
+          else
+            echo "AWS_SSH_PRIVATE_KEY is set."
+          fi
+      
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
