@@ -10,59 +10,63 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      # - name: Checkout repository
+      #   uses: actions/checkout@v3
 
-      - name: Deploy to EC2
-        run: |
-          ssh -i ~/.ssh/id_rsa ubuntu@13.41.185.213 << 'EOF'
-            mkdir -p ~/.ssh  # This now runs on EC2
-            echo "Created .ssh directory on EC2"
-          EOF
+      # - name: Deploy to EC2
+      #   run: |
+      #     ssh -i ~/.ssh/id_rsa ubuntu@13.41.185.213 << 'EOF'
+      #       mkdir -p ~/.ssh  # This now runs on EC2
+      #       echo "Created .ssh directory on EC2"
+      #     EOF
 
       - name: Setup SSH
+        env:
+          AWS_SSH_PRIVATE_KEY: ${{ secrets.AWS_SSH_PRIVATE_KEY }}
         run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          cat ~/.ssh/id_rsa | head -n 5  # Print first 5 lines for debugging (ensure it's set)
-          ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+          echo "$AWS_SSH_PRIVATE_KEY"
+          
+      # mkdir -p ~/.ssh/
+      # echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+      # chmod 600 ~/.ssh/id_rsa
+      # cat ~/.ssh/id_rsa | head -n 5  # Print first 5 lines for debugging (ensure it's set)
+      # ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
 
-      - name: Debug Secrets
-        run: |
-          if [ -z "${{ secrets.AWS_SSH_PRIVATE_KEY }}" ]; then
-            echo "AWS_SSH_PRIVATE_KEY is missing!"
-            exit 1
-          else
-            echo "AWS_SSH_PRIVATE_KEY is set."
-          fi
+      # - name: Debug Secrets
+      #   run: |
+      #     if [ -z "${{ secrets.AWS_SSH_PRIVATE_KEY }}" ]; then
+      #       echo "AWS_SSH_PRIVATE_KEY is missing!"
+      #       exit 1
+      #     else
+      #       echo "AWS_SSH_PRIVATE_KEY is set."
+      #     fi
       
-      - name: Setup SSH
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+      # - name: Setup SSH
+      #   run: |
+      #     mkdir -p ~/.ssh
+      #     echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+      #     chmod 600 ~/.ssh/id_rsa
+      #     ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
 
-      - name: Deploy to EC2
-        run: |
-          ssh ubuntu@13.41.185.213 << 'EOF'
-            # Go to app directory or create it if it doesn't exist
-            cd ~/app || mkdir -p ~/app && cd ~/app
+      # - name: Deploy to EC2
+      #   run: |
+      #     ssh ubuntu@13.41.185.213 << 'EOF'
+      #       # Go to app directory or create it if it doesn't exist
+      #       cd ~/app || mkdir -p ~/app && cd ~/app
             
-            # If repo doesn't exist, clone it; otherwise, pull latest changes
-            if [ ! -d "your-repo" ]; then
-              git clone https://github.com/pgmoir/your-repo.git
-            fi
+      #       # If repo doesn't exist, clone it; otherwise, pull latest changes
+      #       if [ ! -d "your-repo" ]; then
+      #         git clone https://github.com/pgmoir/your-repo.git
+      #       fi
             
-            cd your-repo
-            git pull
+      #       cd your-repo
+      #       git pull
             
-            # Install dependencies
-            npm install
+      #       # Install dependencies
+      #       npm install
             
-            # Restart app using PM2
-            pm2 stop all || true
-            pm2 start server.js --name "node-app"
-            pm2 save
-          EOF
+      #       # Restart app using PM2
+      #       pm2 stop all || true
+      #       pm2 start server.js --name "node-app"
+      #       pm2 save
+      #     EOF
