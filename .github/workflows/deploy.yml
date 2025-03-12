@@ -1,15 +1,44 @@
 name: Deploy
 
-on: [push]
+
+on:
+  push:
+    branches:
+      - main  # Change if using a different branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Setup SSH
-      run: |
-        mkdir -p ~/.ssh
-        echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.AWS_SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
+
+      - name: Deploy to EC2
+        run: |
+          ssh ubuntu@13.41.185.213 << 'EOF'
+            # Go to app directory or create it if it doesn't exist
+            cd ~/app || mkdir -p ~/app && cd ~/app
+            
+            # If repo doesn't exist, clone it; otherwise, pull latest changes
+            if [ ! -d "your-repo" ]; then
+              git clone https://github.com/pgmoir/your-repo.git
+            fi
+            
+            cd your-repo
+            git pull
+            
+            # Install dependencies
+            npm install
+            
+            # Restart app using PM2
+            pm2 stop all || true
+            pm2 start server.js --name "node-app"
+            pm2 save
+          EOF
