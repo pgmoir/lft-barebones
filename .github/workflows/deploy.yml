@@ -21,29 +21,6 @@ jobs:
           ls -lah ~/.ssh
           ssh-keyscan -H 13.41.185.213 >> ~/.ssh/known_hosts
 
-      # - name: Deploy to EC2
-      #   run: |
-      #     ssh ubuntu@13.41.185.213 << 'EOF'
-      #       # Go to app directory or create it if it doesn't exist
-      #       cd ~/app || mkdir -p ~/app && cd ~/app
-            
-      #       # If repo doesn't exist, clone it; otherwise, pull latest changes
-      #       if [ ! -d "lft-barebones" ]; then
-      #         git clone https://github.com/pgmoir/lft-barebones
-      #       fi
-            
-      #       cd lft-barebones
-      #       git pull
-            
-      #       # Install dependencies
-      #       npm install
-            
-      #       # Restart app using PM2
-      #       pm2 stop all || true
-      #       pm2 start server.js --name "node-app"
-      #       pm2 save
-      #     EOF
-
       - name: Deploy to EC2
         run: |
           # Decode the base64-encoded private key and save it to a file
