@@ -28,30 +28,8 @@ jobs:
           chmod 600 ~/.ssh/id_rsa  # Set the correct permissions for the private key
       
           # Copy files from the runner to the EC2 instance using scp
-          # rsync -avz -e "ssh -i ~/.ssh/id_rsa" ./ ubuntu@13.41.185.213:/home/ubuntu/app
-          # scp -i ~/.ssh/id_rsa -r ./ ubuntu@13.41.185.213:/home/ubuntu/app
           echo "Copying files to EC2... app"
-          scp -i ~/.ssh/id_rsa ./app.js ubuntu@13.41.185.213:/home/ubuntu/app/
-          echo "Copying files to EC2... package.json"
-          scp -i ~/.ssh/id_rsa ./package.json ubuntu@13.41.185.213:/home/ubuntu/app/
-          echo "Copying files to EC2... views"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./views/ ubuntu@13.41.185.213:/home/ubuntu/app/views/
-          echo "Copying files to EC2... util"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./util/ ubuntu@13.41.185.213:/home/ubuntu/app/util/
-          echo "Copying files to EC2... routes"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./routes/ ubuntu@13.41.185.213:/home/ubuntu/app/routes/
-          echo "Copying files to EC2... public"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./public/ ubuntu@13.41.185.213:/home/ubuntu/app/public/
-          echo "Copying files to EC2... models"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./models/ ubuntu@13.41.185.213:/home/ubuntu/app/models/
-          echo "Copying files to EC2... middleware"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./middleware/ ubuntu@13.41.185.213:/home/ubuntu/app/middleware/
-          echo "Copying files to EC2... helpers"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./helpers/ ubuntu@13.41.185.213:/home/ubuntu/app/helpers/
-          echo "Copying files to EC2... feeds"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./feeds/ ubuntu@13.41.185.213:/home/ubuntu/app/feeds/
-          echo "Copying files to EC2... controllers"
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./controllers/ ubuntu@13.41.185.213:/home/ubuntu/app/controllers/
+          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa" ./ ubuntu@13.41.185.213:/home/ubuntu/app/
           
           echo "Create .env file"
           ssh -i ~/.ssh/id_rsa ubuntu@13.41.185.213 << 'EOF'
